@@ -1,6 +1,52 @@
 {
 "type": "FeatureCollection",
 "features": [
-
+{
+  "type": "Feature",
+  "id": "node/8320771141",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "84",
+    "addr:postcode": "8001",
+    "addr:street": "Hirschengraben",
+    "alt_name": "COVID-19 Impfzentrum Zürich",
+    "amenity": "doctors",
+    "check_date:opening_hours": "2023-01-30",
+    "healthcare": "centre",
+    "healthcare:speciality": "vaccination",
+    "name": "Referenz-Impfzentrum RIZ der Universität Zürich",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "operator": "Universität Zürich",
+    "phone": "+41 800 33 66 55",
+    "vaccination": "covid19",
+    "website": "https://reisemedizin.uzh.ch/de/covid-19/referenz_impfzentrum",
+    "wheelchair": "yes",
+    "id": "node/8320771141"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5454071,
+      47.3760017
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8712147047",
+  "properties": {
+    "healthcare": "vaccination_centre",
+    "healthcare:speciality": "vaccination",
+    "vaccination": "covid19",
+    "id": "node/8712147047"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9816533,
+      47.1723904
+    ]
+  }
+}
 ]
 }

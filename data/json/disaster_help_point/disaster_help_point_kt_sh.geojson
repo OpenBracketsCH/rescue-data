@@ -1,6 +1,918 @@
 {
 "type": "FeatureCollection",
 "features": [
-
+{
+  "type": "Feature",
+  "id": "node/9435655834",
+  "properties": {
+    "contact:city": "Wilchingen",
+    "contact:housenumber": "9",
+    "contact:postcode": "8217",
+    "contact:street": "Schulgasse",
+    "description": "Notfalltreffpunkt in Wilchingen",
+    "emergency": "disaster_help_point",
+    "location": "Turnhalle",
+    "name": "Schulhausturnhalle",
+    "operator": "Kanton Schaffhausen",
+    "room": "Turnhalle",
+    "id": "node/9435655834"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4694879,
+      47.6684192
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655835",
+  "properties": {
+    "contact:city": "Wilchingen",
+    "contact:housenumber": "11",
+    "contact:postcode": "8217",
+    "contact:street": "Bahnhofstrasse",
+    "description": "Notfalltreffpunkt in Wilchingen",
+    "emergency": "disaster_help_point",
+    "name": "Kantine Külling AG",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655835"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4619078,
+      47.6792612
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655836",
+  "properties": {
+    "contact:city": "Osterfingen",
+    "contact:housenumber": "57",
+    "contact:postcode": "8218",
+    "contact:street": "Dorfstrasse",
+    "description": "Notfalltreffpunkt in Osterfingen",
+    "emergency": "disaster_help_point",
+    "location": "Mehrzweckhalle",
+    "name": "Mehrzweckhalle Osterfingen",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655836"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4888154,
+      47.6634073
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655837",
+  "properties": {
+    "contact:city": "Trasadingen",
+    "contact:housenumber": "1",
+    "contact:postcode": "8219",
+    "contact:street": "Gässli",
+    "description": "Notfalltreffpunkt in Trasadingen",
+    "emergency": "disaster_help_point",
+    "location": "Pausenplatz Primarschule",
+    "name": "Pausenplatz Primarschule neben Mehrzweckgebäude",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655837"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4292698,
+      47.6680766
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655838",
+  "properties": {
+    "contact:city": "Thayngen",
+    "contact:postcode": "8240",
+    "contact:street": "Schulstrasse",
+    "description": "Notfalltreffpunkt in Thayngen",
+    "emergency": "disaster_help_point",
+    "location": "Reckenturnhalle",
+    "name": "Reckenhalle",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655838"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7113618,
+      47.7487509
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655839",
+  "properties": {
+    "contact:city": "Hofen",
+    "contact:postcode": "8242",
+    "contact:street": "Hauptstrasse",
+    "description": "Notfalltreffpunkt in Hofen",
+    "emergency": "disaster_help_point",
+    "location": "Zentralschulhaus",
+    "name": "Zentralschulhaus",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655839"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6714922,
+      47.7794437
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655840",
+  "properties": {
+    "addr:city": "Stetten",
+    "addr:housenumber": "2",
+    "addr:postcode": "8234",
+    "addr:street": "Brämlenstrasse",
+    "description": "Notfalltreffpunkt in Stetten",
+    "emergency": "disaster_help_point",
+    "fixme": "add additional information about activation",
+    "location": "Hartplatz (Rietwisen)",
+    "name": "Hartplatz bei der Mehrzweckhalle",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655840"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6575771,
+      47.7382912
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655841",
+  "properties": {
+    "addr:city": "Stein am Rhein",
+    "addr:housenumber": "2",
+    "addr:postcode": "8260",
+    "addr:street": "Bahnhofstrasse",
+    "description": "Bahnhofstrasse/Zivilschutzanlage Trötteli",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "id": "node/9435655841"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8552582,
+      47.656565
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655842",
+  "properties": {
+    "addr:city": "Stein am Rhein",
+    "addr:housenumber": "5",
+    "addr:postcode": "8260",
+    "addr:street": "Klingenstrasse",
+    "description": "Sporthalle HOGA",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "id": "node/9435655842"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.863046,
+      47.6626935
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655843",
+  "properties": {
+    "contact:city": "Siblingen",
+    "contact:housenumber": "10",
+    "contact:postcode": "8225",
+    "contact:street": "Hofackerstrasse",
+    "description": "Notfalltreffpunkt in Siblingen",
+    "emergency": "disaster_help_point",
+    "location": "Werkhof",
+    "name": "Werkhof",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655843"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.52171,
+      47.715325
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655844",
+  "properties": {
+    "contact:city": "Schleitheim",
+    "contact:housenumber": "7",
+    "contact:postcode": "8226",
+    "contact:street": "Schuelgässli",
+    "description": "Notfalltreffpunkt in Schleitheim",
+    "emergency": "disaster_help_point",
+    "highway": "emergency_access_point",
+    "location": "Randenhalle",
+    "name": "Randenhalle",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655844"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4845858,
+      47.7477934
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655845",
+  "properties": {
+    "contact:city": "Hemmental",
+    "contact:housenumber": "19",
+    "contact:postcode": "8231",
+    "contact:street": "Schlattergarten",
+    "description": "Notfalltreffpunkt in Hemmental",
+    "emergency": "disaster_help_point",
+    "fixme": "add additional information about activation",
+    "location": "Schulhaus Hemmental",
+    "name": "Schulhaus Hemmental",
+    "operator": "Kanton Schaffhausen",
+    "room": "Turnhalle",
+    "id": "node/9435655845"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5789392,
+      47.7346187
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655846",
+  "properties": {
+    "contact:city": "Schaffhausen",
+    "contact:housenumber": "100",
+    "contact:postcode": "8203",
+    "contact:street": "Alpenstrasse",
+    "description": "Notfalltreffpunkt in Schaffhausen",
+    "emergency": "disaster_help_point",
+    "location": "Schulhaus Zündelgut",
+    "name": "Schulhaus Zündelgut / Turnhalle",
+    "operator": "Kanton Schaffhausen",
+    "room": "Turnhalle",
+    "id": "node/9435655846"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6533229,
+      47.6987521
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655847",
+  "properties": {
+    "contact:city": "Schaffhausen",
+    "contact:housenumber": "12",
+    "contact:postcode": "8200",
+    "contact:street": "J.J. Wepfer-Strasse",
+    "description": "Notfalltreffpunkt in Schaffhausen",
+    "emergency": "disaster_help_point",
+    "fixme": "add additional information about activation, room",
+    "location": "Pflegezentrum-Spitäler Schaffhausen",
+    "name": "Pflegeheim Geissberg",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655847"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6404123,
+      47.7157595
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655848",
+  "properties": {
+    "contact:city": "Schaffhausen",
+    "contact:housenumber": "1",
+    "contact:postcode": "8207",
+    "contact:street": "Trüllenbuck",
+    "description": "Notfalltreffpunkt in Schaffhausen",
+    "emergency": "disaster_help_point",
+    "location": "Schulhaus Hohberg",
+    "name": "Schulhaus Hohberg / Turnhalle",
+    "operator": "Kanton Schaffhausen",
+    "room": "Turnhalle",
+    "id": "node/9435655848"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6572588,
+      47.7233102
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655849",
+  "properties": {
+    "contact:city": "Schaffhausen",
+    "contact:housenumber": "280",
+    "contact:postcode": "8200",
+    "contact:street": "Mühlentalstrasse",
+    "description": "Notfalltreffpunkt in Schaffhausen",
+    "emergency": "disaster_help_point",
+    "location": "International School Schaffhausen",
+    "name": "International School Schaffhausen / Turnhalle",
+    "operator": "Kanton Schaffhausen",
+    "room": "Turnhalle",
+    "id": "node/9435655849"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6320769,
+      47.7245726
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655850",
+  "properties": {
+    "contact:city": "Schaffhausen",
+    "contact:postcode": "8200",
+    "contact:street": "Sommerwies",
+    "description": "Notfalltreffpunkt in Schaffhausen",
+    "emergency": "disaster_help_point",
+    "location": "Judoclub",
+    "name": "Judoclub Sommerwies",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655850"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.616827,
+      47.718951
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655851",
+  "properties": {
+    "contact:city": "Schaffhausen",
+    "contact:housenumber": "4",
+    "contact:postcode": "8200",
+    "contact:street": "Spielweg",
+    "description": "Notfalltreffpunkt in Schaffhausen",
+    "emergency": "disaster_help_point",
+    "location": "Dreifachhalle Breite",
+    "name": "Dreifachhalle Breite",
+    "operator": "Kanton Schaffhausen",
+    "room": "Halle",
+    "id": "node/9435655851"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6233662,
+      47.7038373
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655852",
+  "properties": {
+    "contact:city": "Schaffhausen",
+    "contact:housenumber": "64",
+    "contact:postcode": "8200",
+    "contact:street": "Bachstrasse",
+    "description": "Notfalltreffpunkt in Schaffhausen",
+    "emergency": "disaster_help_point",
+    "location": "Schulhaus",
+    "name": "GEGA-Schulhaus",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655852"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6363138,
+      47.7001339
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655853",
+  "properties": {
+    "addr:city": "Rüdlingen",
+    "addr:housenumber": "16",
+    "addr:postcode": "8455",
+    "addr:street": "Hinterdorfstrasse",
+    "description": "Zivilschutzanlage beim Feuerwehrmagazin",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "id": "node/9435655853"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5716531,
+      47.5773435
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655854",
+  "properties": {
+    "contact:city": "Ramsen",
+    "contact:housenumber": "420",
+    "contact:postcode": "8262",
+    "contact:street": "Sonnenstrasse",
+    "description": "Notfalltreffpunkt in Ramsen",
+    "emergency": "disaster_help_point",
+    "location": "Schulhaus",
+    "name": "Aula Schulhaus",
+    "operator": "Kanton Schaffhausen",
+    "room": "Aula",
+    "id": "node/9435655854"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8158396,
+      47.7088845
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655855",
+  "properties": {
+    "contact:city": "Oberhallau",
+    "contact:housenumber": "1",
+    "contact:postcode": "8216",
+    "contact:street": "Wettistrasse",
+    "description": "Notfalltreffpunkt in Oberhallau",
+    "emergency": "disaster_help_point",
+    "location": "Mehrzweckhalle",
+    "name": "Mehrzweckhalle",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655855"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4765345,
+      47.7066442
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655856",
+  "properties": {
+    "contact:city": "Neunkirch",
+    "contact:housenumber": "12",
+    "contact:postcode": "8213",
+    "contact:street": "Schulstrasse",
+    "description": "Notfalltreffpunkt in Neunkirch",
+    "emergency": "disaster_help_point",
+    "location": "Mehrzweckhalle",
+    "name": "Städtlihalle (Mehrzweckhalle)",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655856"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4984663,
+      47.6916144
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655857",
+  "properties": {
+    "contact:city": "Neuhausen am Rheinfall",
+    "contact:housenumber": "13",
+    "contact:postcode": "8212",
+    "contact:street": "Rheingoldstrasse",
+    "description": "Notfalltreffpunkt Neuhausen am Rheinfall",
+    "emergency": "disaster_help_point",
+    "location": "Pausenplatz",
+    "name": "Pausenplatz Schulhaus Kirchacker",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655857"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6206957,
+      47.6809021
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655858",
+  "properties": {
+    "contact:city": "Neuhausen am Rheinfall",
+    "contact:housenumber": "16",
+    "contact:postcode": "8212",
+    "contact:street": "Schützenstrasse",
+    "description": "Notfalltreffpunkt Neuhausen am Rheinfall",
+    "emergency": "disaster_help_point",
+    "location": "Pausenplatz",
+    "name": "Pausenplatz Schulhaus Gemeindewiesen 1",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655858"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.604854,
+      47.6812421
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655859",
+  "properties": {
+    "contact:city": "Neuhausen am Rheinfall",
+    "contact:housenumber": "2",
+    "contact:postcode": "8212",
+    "contact:street": "Einschlagstrasse",
+    "description": "Notfalltreffpunkt Neuhausen am Rheinfall",
+    "emergency": "disaster_help_point",
+    "location": "Pausenplatz",
+    "name": "Pausenplatz Schulhaus Rosenberg",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655859"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6189933,
+      47.6851917
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655860",
+  "properties": {
+    "contact:city": "Merishausen",
+    "contact:housenumber": "24",
+    "contact:postcode": "8232",
+    "contact:street": "Hohlgasse",
+    "description": "Notfalltreffpunkt in Merishausen",
+    "emergency": "disaster_help_point",
+    "location": "Werkhof Plus",
+    "name": "Werkhof Plus",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655860"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6046403,
+      47.7623083
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655861",
+  "properties": {
+    "contact:city": "Löhningen",
+    "contact:housenumber": "38",
+    "contact:postcode": "8224",
+    "contact:street": "Schützengasse",
+    "description": "Notfalltreffpunkt in Löhningen",
+    "emergency": "disaster_help_point",
+    "location": "Turnhalle",
+    "name": "Turnhalle \"im Taal\"",
+    "operator": "Kanton Schaffhausen",
+    "room": "Turnhalle",
+    "id": "node/9435655861"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5516034,
+      47.7045736
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655862",
+  "properties": {
+    "contact:city": "Lohn",
+    "contact:housenumber": "5",
+    "contact:postcode": "8235",
+    "contact:street": "Herti",
+    "description": "Notfalltreffpunkt in Lohn",
+    "emergency": "disaster_help_point",
+    "name": "Turnhalle",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655862"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.666688,
+      47.7551403
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655863",
+  "properties": {
+    "addr:city": "Hemishofen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8261",
+    "addr:street": "Im Hafacker",
+    "description": "Mehrzweckhalle",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "id": "node/9435655863"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8310564,
+      47.6779055
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655865",
+  "properties": {
+    "contact:city": "Gächlingen",
+    "contact:housenumber": "3",
+    "contact:postcode": "8214",
+    "contact:street": "Gemeindehausplatz",
+    "description": "Notfalltreffpunkt in Gächlingen",
+    "emergency": "disaster_help_point",
+    "location": "Gemeindehaus",
+    "name": "Gemeindehaus",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655865"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4975062,
+      47.7025696
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655866",
+  "properties": {
+    "contact:city": "Dörflingen",
+    "contact:postcode": "8239",
+    "contact:street": "Bildsteinstrasse",
+    "description": "Notfalltreffpunkt in Dörflingen",
+    "emergency": "disaster_help_point",
+    "location": "Turnhalle",
+    "operator": "Kanton Schaffhausen",
+    "room": "Turnhalle",
+    "id": "node/9435655866"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7238779,
+      47.7067628
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655867",
+  "properties": {
+    "contact:city": "Büttenhardt",
+    "contact:housenumber": "3",
+    "contact:postcode": "8236",
+    "contact:street": "Hogeracker",
+    "description": "Notfalltreffpunkt in Büttenhardt",
+    "emergency": "disaster_help_point",
+    "location": "Schulhaus Büttenhardt",
+    "name": "Schulhaus",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655867"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6555198,
+      47.7584146
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655868",
+  "properties": {
+    "addr:city": "Buchberg",
+    "addr:housenumber": "6",
+    "addr:postcode": "8454",
+    "addr:street": "Hohlegasse",
+    "description": "Gemeindezentrum / Mehrzweckhalle Buchberg",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "id": "node/9435655868"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5608345,
+      47.5723847
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655869",
+  "properties": {
+    "contact:city": "Buch",
+    "contact:housenumber": "42",
+    "contact:postcode": "8263",
+    "contact:street": "Dorfstrasse",
+    "description": "Notfalltreffpunkt in Buch",
+    "emergency": "disaster_help_point",
+    "location": "Gemeindeverwaltung",
+    "name": "Gemeindeverwaltung",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.779044,
+      47.7172298
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655870",
+  "properties": {
+    "contact:city": "Beringen",
+    "contact:housenumber": "-",
+    "contact:postcode": "8222",
+    "contact:street": "Schulstrasse",
+    "description": "Notfalltreffpunkt in Beringen",
+    "emergency": "disaster_help_point",
+    "name": "Sporthalle Beringen",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655870"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.575156,
+      47.7005997
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655871",
+  "properties": {
+    "addr:city": "Guntmadingen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8223",
+    "addr:street": "Neuengasse",
+    "description": "Guntmadingen Schulhaus",
+    "emergency": "disaster_help_point",
+    "operator": "Kanton Schaffhausen",
+    "id": "node/9435655871"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5568889,
+      47.6855516
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655872",
+  "properties": {
+    "contact:city": "Beggingen",
+    "contact:housenumber": "6",
+    "contact:postcode": "8228",
+    "contact:street": "Dorfstrasse",
+    "description": "Notfalltreffpunkt in Beggingen",
+    "emergency": "disaster_help_point",
+    "location": "Gemeindehaus Beggingen",
+    "name": "Gemeindehaussaal",
+    "operator": "Kanton Schaffhausen",
+    "room": "Gemeindehaussaal",
+    "id": "node/9435655872"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5361205,
+      47.76695
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9435655873",
+  "properties": {
+    "addr:city": "Bargen",
+    "addr:housenumber": "6",
+    "addr:postcode": "8233",
+    "addr:street": "Steigstrasse",
+    "emergency": "disaster_help_point",
+    "name": "Gemeindehauskeller",
+    "operator": "Notfalltreffpunkt Kanton Schaffhausen",
+    "id": "node/9435655873"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6105189,
+      47.7928376
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10628579381",
+  "properties": {
+    "contact:city": "Beringen",
+    "contact:housenumber": "8",
+    "contact:postcode": "8222",
+    "contact:street": "Benzeweg",
+    "description": "Notfalltreffpunkt in Beringen",
+    "emergency": "disaster_help_point",
+    "location": "Kindergarten",
+    "name": "Kindergarten im Benze",
+    "operator": "Kanton Schaffhausen",
+    "source": "www.notfalltreffpunkt.ch",
+    "id": "node/10628579381"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5877788,
+      47.6970757
+    ]
+  }
+}
 ]
 }

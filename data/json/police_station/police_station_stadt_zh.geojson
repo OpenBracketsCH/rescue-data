@@ -3,6 +3,123 @@
 "features": [
 {
   "type": "Feature",
+  "id": "way/29709437",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "73",
+    "addr:postcode": "8002",
+    "addr:street": "Mythenquai",
+    "amenity": "police",
+    "building": "boathouse",
+    "description": "Städtische Seepolizei und Gewässerschutz",
+    "name": "Wache Wasserschutzpolizei",
+    "opening_hours": "24/7",
+    "operator": "Stadtpolizei Zürich",
+    "operator:wikidata": "Q2327949",
+    "owner": "Immobilien Stadt Zürich (IMMO)",
+    "id": "way/29709437"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5364926,
+          47.3573105
+        ],
+        [
+          8.5365212,
+          47.3575416
+        ],
+        [
+          8.5362195,
+          47.3575588
+        ],
+        [
+          8.5362124,
+          47.3575016
+        ],
+        [
+          8.5358751,
+          47.3575207
+        ],
+        [
+          8.5358536,
+          47.3573468
+        ],
+        [
+          8.5364926,
+          47.3573105
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/39652667",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "18",
+    "addr:postcode": "8045",
+    "addr:street": "Gänzilooweg",
+    "amenity": "police",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Diensthundeabteilung Stadtpolizei Zürich",
+    "opening_hours": "24/7",
+    "operator": "Stadtpolizei Zürich",
+    "roof:shape": "gabled",
+    "id": "way/39652667"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5119202,
+          47.3518693
+        ],
+        [
+          8.5118435,
+          47.3517888
+        ],
+        [
+          8.5118349,
+          47.3517925
+        ],
+        [
+          8.5117168,
+          47.3516686
+        ],
+        [
+          8.5118947,
+          47.3515908
+        ],
+        [
+          8.5120105,
+          47.3517123
+        ],
+        [
+          8.5119135,
+          47.3517547
+        ],
+        [
+          8.5119925,
+          47.3518377
+        ],
+        [
+          8.5119202,
+          47.3518693
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/119484102",
   "properties": {
     "addr:city": "Zürich",
@@ -272,6 +389,202 @@
     "coordinates": [
       8.5192998,
       47.3704185
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1258114496",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8001",
+    "addr:street": "Bahnhofbrücke",
+    "amenity": "police",
+    "name": "Verkehrspolizei der Stadtpolizei Zürich",
+    "name:en": "Traffic Police",
+    "operator": "Stadtpolizei Zürich",
+    "operator:wikidata": "Q2327949",
+    "operator:wikipedia": "de:Stadtpolizei Zürich",
+    "id": "node/1258114496"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5421767,
+      47.3761715
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1362649058",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "54",
+    "addr:postcode": "8032",
+    "addr:street": "Gemeindestrasse",
+    "amenity": "police",
+    "contact:fax": "+41 44 262 06 20",
+    "contact:phone": "+41 44 411 81 83",
+    "name": "Quartierwache Hottingen",
+    "opening_hours": "Tu, Th-Fr 08:00-17:00; Mo 07:00-17:00; We 08:00-13:00",
+    "operator": "Stadtpolizei Zürich",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/stadtpolizei_zuerich.html",
+    "id": "node/1362649058"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.556095,
+      47.3693638
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1701730833",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "162",
+    "addr:postcode": "8048",
+    "addr:street": "Altstetterstrasse",
+    "amenity": "police",
+    "name": "Quartierwache Altstetten",
+    "opening_hours": "Mo-Fr 08:30-11:30,13:30-16:30",
+    "operator": "Stadtpolizei Zürich",
+    "id": "node/1701730833"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4860732,
+      47.3869505
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3028531127",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "59",
+    "addr:postcode": "8005",
+    "addr:street": "Förrlibuckstrasse",
+    "amenity": "police",
+    "name": "Abteilung Spezial",
+    "operator": "Stadtpolizei Zürich",
+    "id": "node/3028531127"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5148098,
+      47.3912192
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4052928273",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "61",
+    "addr:postcode": "8005",
+    "addr:street": "Förrlibuckstrasse",
+    "amenity": "police",
+    "name": "Taxibüro / ARV Kontrolle",
+    "operator": "Stadtpolizei Zürich",
+    "id": "node/4052928273"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5143753,
+      47.39135
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4424600907",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:place": "Hauptbahnhof, Nordtrakt",
+    "addr:postcode": "8001",
+    "addr:street": "Museumstrasse",
+    "alt_name": "Kapo HB Museumstrasse",
+    "amenity": "police",
+    "indoor": "yes",
+    "level": "0",
+    "name": "Polizeiposten Hauptbahnhof Zürich",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
+    "id": "node/4424600907"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5399617,
+      47.3784359
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4869996378",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8001",
+    "addr:street": "Bahnhofquai",
+    "amenity": "police",
+    "description": "Hauptwache der Stadtpolizei Zürich",
+    "name": "Regionalwache City",
+    "opening_hours": "24/7",
+    "operator": "Stadtpolizei Zürich",
+    "operator:wikidata": "Q2327949",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes",
+    "id": "node/4869996378"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5415151,
+      47.3751584
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4869996379",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8050",
+    "addr:street": "Gubelstrasse",
+    "amenity": "police",
+    "name": "Regionalwache Oerlikon",
+    "opening_hours": "24/7",
+    "operator": "Stadtpolizei Zürich",
+    "phone": "+41 44 411 83 10",
+    "id": "node/4869996379"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5465272,
+      47.4073891
     ]
   }
 }

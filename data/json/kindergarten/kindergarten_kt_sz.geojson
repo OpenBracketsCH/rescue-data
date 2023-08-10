@@ -3,6 +3,851 @@
 "features": [
 {
   "type": "Feature",
+  "id": "way/123265061",
+  "properties": {
+    "addr:city": "Wollerau",
+    "addr:housenumber": "6",
+    "addr:postcode": "8832",
+    "addr:street": "Bächergässli",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "name": "Kindergarten Mehrzweckgebäude",
+    "id": "way/123265061"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7204367,
+          47.1963307
+        ],
+        [
+          8.7208333,
+          47.1962434
+        ],
+        [
+          8.7208769,
+          47.1963348
+        ],
+        [
+          8.7207599,
+          47.1963605
+        ],
+        [
+          8.7207993,
+          47.1964434
+        ],
+        [
+          8.7206575,
+          47.1964746
+        ],
+        [
+          8.7206199,
+          47.1963957
+        ],
+        [
+          8.7204822,
+          47.196426
+        ],
+        [
+          8.7204367,
+          47.1963307
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/189410241",
+  "properties": {
+    "addr:housenumber": "7",
+    "addr:street": "Bächmatt",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "name": "Kindergarten Bäch",
+    "id": "way/189410241"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7321047,
+          47.2043938
+        ],
+        [
+          8.7322177,
+          47.2044187
+        ],
+        [
+          8.7321186,
+          47.204627
+        ],
+        [
+          8.7320056,
+          47.2046021
+        ],
+        [
+          8.7321047,
+          47.2043938
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/189410242",
+  "properties": {
+    "addr:city": "Bäch",
+    "addr:housenumber": "7",
+    "addr:postcode": "8806",
+    "addr:street": "Bächmatt",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Bäch",
+    "id": "way/189410242"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7321882,
+          47.2045395
+        ],
+        [
+          8.7323194,
+          47.2045682
+        ],
+        [
+          8.7322502,
+          47.2047139
+        ],
+        [
+          8.7321191,
+          47.2046851
+        ],
+        [
+          8.7321882,
+          47.2045395
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193356366",
+  "properties": {
+    "addr:housenumber": "15a",
+    "addr:street": "Büelstrasse",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "id": "way/193356366"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8938311,
+          47.17421
+        ],
+        [
+          8.8941264,
+          47.1742463
+        ],
+        [
+          8.8940973,
+          47.1743561
+        ],
+        [
+          8.8938945,
+          47.1743316
+        ],
+        [
+          8.8938907,
+          47.1743459
+        ],
+        [
+          8.8937982,
+          47.1743346
+        ],
+        [
+          8.8938311,
+          47.17421
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193455390",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:country": "CH",
+    "addr:postcode": "8840",
+    "addr:street": "In den Matten",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "source": "bing",
+    "id": "way/193455390"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7420879,
+          47.1310905
+        ],
+        [
+          8.7421325,
+          47.1310695
+        ],
+        [
+          8.7421994,
+          47.1311007
+        ],
+        [
+          8.7423405,
+          47.1311684
+        ],
+        [
+          8.74225,
+          47.1312116
+        ],
+        [
+          8.7421775,
+          47.1312442
+        ],
+        [
+          8.7420345,
+          47.1311157
+        ],
+        [
+          8.7420879,
+          47.1310905
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/195276983",
+  "properties": {
+    "addr:city": "Wilen",
+    "addr:housenumber": "17",
+    "addr:postcode": "8832",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "kindergarten",
+    "building": "school",
+    "name": "Kindergarten Wilen",
+    "id": "way/195276983"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7325244,
+          47.1977541
+        ],
+        [
+          8.7326323,
+          47.197692
+        ],
+        [
+          8.7326322,
+          47.1976691
+        ],
+        [
+          8.7327614,
+          47.1976746
+        ],
+        [
+          8.7327514,
+          47.1977838
+        ],
+        [
+          8.732781,
+          47.1977851
+        ],
+        [
+          8.7327701,
+          47.1979052
+        ],
+        [
+          8.7327324,
+          47.1979036
+        ],
+        [
+          8.7327245,
+          47.197991
+        ],
+        [
+          8.7325968,
+          47.1979856
+        ],
+        [
+          8.7326096,
+          47.1978451
+        ],
+        [
+          8.7324768,
+          47.1978395
+        ],
+        [
+          8.7324848,
+          47.1977516
+        ],
+        [
+          8.7325244,
+          47.1977541
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/196185530",
+  "properties": {
+    "addr:city": "Schübelbach",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8862",
+    "addr:street": "Grünhaldenstrasse",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "name": "Kindergarten",
+    "id": "way/196185530"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9263229,
+          47.1744569
+        ],
+        [
+          8.9260748,
+          47.1745135
+        ],
+        [
+          8.9260695,
+          47.1745028
+        ],
+        [
+          8.9260014,
+          47.1743649
+        ],
+        [
+          8.9262494,
+          47.1743082
+        ],
+        [
+          8.9263229,
+          47.1744569
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/196957357",
+  "properties": {
+    "addr:city": "Arth",
+    "addr:housenumber": "4",
+    "addr:postcode": "6415",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "kindergarten",
+    "building": "school",
+    "name": "Kindergarten Altes Schulhaus",
+    "id": "way/196957357"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5236573,
+          47.0641629
+        ],
+        [
+          8.5235307,
+          47.064224
+        ],
+        [
+          8.5234777,
+          47.0641727
+        ],
+        [
+          8.5234098,
+          47.0642068
+        ],
+        [
+          8.5233456,
+          47.064148
+        ],
+        [
+          8.5234144,
+          47.0641133
+        ],
+        [
+          8.5233609,
+          47.0640624
+        ],
+        [
+          8.5234885,
+          47.0639999
+        ],
+        [
+          8.5236573,
+          47.0641629
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/201789940",
+  "properties": {
+    "addr:housenumber": "1",
+    "addr:postcode": "8852",
+    "addr:street": "Oberdorfstrasse",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "name": "Kindergarten Dorf",
+    "id": "way/201789940"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8305349,
+          47.1913278
+        ],
+        [
+          8.8304692,
+          47.1912115
+        ],
+        [
+          8.830774,
+          47.191132
+        ],
+        [
+          8.8308397,
+          47.1912482
+        ],
+        [
+          8.8305349,
+          47.1913278
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/202870866",
+  "properties": {
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "isced:level": "0",
+    "name": "Doppelkindergarten Spielweg",
+    "roof:shape": "gabled",
+    "id": "way/202870866"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9000377,
+          47.1740586
+        ],
+        [
+          8.9001016,
+          47.1739585
+        ],
+        [
+          8.9001505,
+          47.173973
+        ],
+        [
+          8.9001713,
+          47.1739404
+        ],
+        [
+          8.9003925,
+          47.1740057
+        ],
+        [
+          8.9003693,
+          47.174042
+        ],
+        [
+          8.9004108,
+          47.1740542
+        ],
+        [
+          8.9003778,
+          47.1741058
+        ],
+        [
+          8.900243,
+          47.174066
+        ],
+        [
+          8.9002143,
+          47.1741108
+        ],
+        [
+          8.9000377,
+          47.1740586
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/204264254",
+  "properties": {
+    "addr:city": "Goldau",
+    "addr:housenumber": "38",
+    "addr:postcode": "6410",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "kindergarten",
+    "building": "school",
+    "name": "Altes Schulhaus",
+    "id": "way/204264254"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5455801,
+          47.0463181
+        ],
+        [
+          8.5456101,
+          47.0462567
+        ],
+        [
+          8.5455566,
+          47.0462445
+        ],
+        [
+          8.5455727,
+          47.0462115
+        ],
+        [
+          8.5455896,
+          47.0462153
+        ],
+        [
+          8.5456367,
+          47.0461189
+        ],
+        [
+          8.5457879,
+          47.0461534
+        ],
+        [
+          8.5457531,
+          47.0462247
+        ],
+        [
+          8.5457482,
+          47.0462236
+        ],
+        [
+          8.5456898,
+          47.0463431
+        ],
+        [
+          8.5455801,
+          47.0463181
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/204628561",
+  "properties": {
+    "addr:city": "Oberarth",
+    "addr:housenumber": "1",
+    "addr:postcode": "6414",
+    "addr:street": "Mühlemoosweg",
+    "amenity": "kindergarten",
+    "building": "school",
+    "name": "Kindergarten Oberarth",
+    "id": "way/204628561"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5367168,
+          47.0562766
+        ],
+        [
+          8.536714,
+          47.0561781
+        ],
+        [
+          8.536815,
+          47.0561768
+        ],
+        [
+          8.5368146,
+          47.0561602
+        ],
+        [
+          8.5368608,
+          47.0561596
+        ],
+        [
+          8.5368619,
+          47.0562013
+        ],
+        [
+          8.5368947,
+          47.0562009
+        ],
+        [
+          8.5368968,
+          47.0562743
+        ],
+        [
+          8.5367168,
+          47.0562766
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397729693",
+  "properties": {
+    "addr:city": "Tuggen",
+    "addr:housenumber": "5a",
+    "addr:postcode": "8856",
+    "addr:street": "Tödistrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Eneda",
+    "id": "way/397729693"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9449975,
+          47.2022121
+        ],
+        [
+          8.9450585,
+          47.2021313
+        ],
+        [
+          8.9452294,
+          47.2021908
+        ],
+        [
+          8.945155,
+          47.2022894
+        ],
+        [
+          8.9451008,
+          47.2022705
+        ],
+        [
+          8.9451142,
+          47.2022527
+        ],
+        [
+          8.9449975,
+          47.2022121
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/445892043",
+  "properties": {
+    "addr:city": "Goldau",
+    "addr:housenumber": "1",
+    "addr:postcode": "6410",
+    "addr:street": "Ringstrasse",
+    "amenity": "kindergarten",
+    "building": "school",
+    "name": "Kindergarten Vogelsang",
+    "id": "way/445892043"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.547071,
+          47.0513437
+        ],
+        [
+          8.5470803,
+          47.0512745
+        ],
+        [
+          8.5470671,
+          47.0512743
+        ],
+        [
+          8.5470634,
+          47.0512179
+        ],
+        [
+          8.5470961,
+          47.0512173
+        ],
+        [
+          8.5471053,
+          47.0512013
+        ],
+        [
+          8.5471275,
+          47.0511933
+        ],
+        [
+          8.547153,
+          47.0511922
+        ],
+        [
+          8.5471726,
+          47.0512021
+        ],
+        [
+          8.5472888,
+          47.0512071
+        ],
+        [
+          8.547314,
+          47.0511993
+        ],
+        [
+          8.5473419,
+          47.051205
+        ],
+        [
+          8.5473581,
+          47.0512167
+        ],
+        [
+          8.5473616,
+          47.051231
+        ],
+        [
+          8.5473973,
+          47.0512316
+        ],
+        [
+          8.5473815,
+          47.051289
+        ],
+        [
+          8.5473683,
+          47.0512879
+        ],
+        [
+          8.5473602,
+          47.0513556
+        ],
+        [
+          8.547071,
+          47.0513437
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/695596343",
+  "properties": {
+    "addr:city": "Tuggen",
+    "addr:housenumber": "2",
+    "addr:postcode": "8856",
+    "addr:street": "Schulstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Riedland A+B",
+    "id": "way/695596343"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9462054,
+          47.2015843
+        ],
+        [
+          8.946192,
+          47.201673
+        ],
+        [
+          8.9460776,
+          47.2016656
+        ],
+        [
+          8.9460754,
+          47.2016816
+        ],
+        [
+          8.9460447,
+          47.2016795
+        ],
+        [
+          8.9460459,
+          47.2016625
+        ],
+        [
+          8.9458589,
+          47.2016512
+        ],
+        [
+          8.9458727,
+          47.201562
+        ],
+        [
+          8.9462054,
+          47.2015843
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/762056302",
   "properties": {
     "addr:housenumber": "4",
@@ -41,6 +886,455 @@
     "coordinates": [
       8.8567974,
       47.1875553
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1277456054",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Unteriberg",
+    "contact:housenumber": "29",
+    "contact:phone": "+41 55 414 16 91",
+    "contact:postcode": "8842",
+    "contact:street": "Waagtalstrasse",
+    "contact:website": "https://www.unteriberg.ch/schule/primarschule/ansprechspersonen/schulhauswartschulhaeuser/",
+    "isced:level": "0",
+    "name": "Kindergarten 1+2 altes Schulhaus Unteriberg",
+    "operator:type": "public",
+    "id": "node/1277456054"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8023054,
+      47.0567852
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2069488732",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kinderhort Freienbach",
+    "id": "node/2069488732"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7316766,
+      47.1980796
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2339513598",
+  "properties": {
+    "addr:city": "Merlischachen",
+    "addr:housenumber": "201",
+    "addr:postcode": "6402",
+    "addr:street": "Luzernerstrasse",
+    "amenity": "kindergarten",
+    "id": "node/2339513598"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4086773,
+      47.0656931
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3734002662",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8840",
+    "addr:street": "Eisenbahnstrasse",
+    "amenity": "kindergarten",
+    "email": "info@raebelnaeschtli.ch",
+    "name": "Kleinkindertreff Räbelnäschtli",
+    "phone": "+41 78 611 13 04",
+    "website": "http://www.räbelnäschtli.ch",
+    "id": "node/3734002662"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7461279,
+      47.1288072
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4331065689",
+  "properties": {
+    "amenity": "kindergarten",
+    "id": "node/4331065689"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6582444,
+      47.026071
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5755459275",
+  "properties": {
+    "addr:city": "Schindellegi",
+    "addr:housenumber": "19",
+    "addr:postcode": "8834",
+    "addr:street": "Etzelstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Etzel",
+    "website": "https://www.ps-feusisberg.com/",
+    "id": "node/5755459275"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7146728,
+      47.1752379
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5755484420",
+  "properties": {
+    "addr:city": "Feusisberg",
+    "addr:housenumber": "8",
+    "addr:postcode": "8835",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Feusiberg",
+    "website": "https://www.ps-feusisberg.com/",
+    "id": "node/5755484420"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7477247,
+      47.1881602
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5822883924",
+  "properties": {
+    "addr:city": "Wangen",
+    "addr:housenumber": "75",
+    "addr:postcode": "8855",
+    "addr:street": "Seestrasse",
+    "amenity": "kindergarten",
+    "email": "info@pswangensz.ch",
+    "level": "0",
+    "name": "Kindergarten Nuolen",
+    "operator:type": "public",
+    "website": "http://www.pswangensz.ch",
+    "wheelchair": "no",
+    "id": "node/5822883924"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8886674,
+      47.2033593
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5822915980",
+  "properties": {
+    "addr:city": "Siebnen",
+    "addr:housenumber": "14",
+    "addr:postcode": "8854",
+    "addr:street": "Weidweg",
+    "amenity": "kindergarten",
+    "check_date": "2023-05-07",
+    "email": "info@pswangensz.ch",
+    "level": "0",
+    "name": "Kindergarten Weidweg",
+    "operator:type": "public",
+    "website": "http://www.pswangensz.ch",
+    "wheelchair": "yes",
+    "id": "node/5822915980"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8986646,
+      47.1819802
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5822948405",
+  "properties": {
+    "addr:city": "Wangen",
+    "addr:housenumber": "7",
+    "addr:postcode": "8855",
+    "addr:street": "Dorfplatz",
+    "amenity": "kindergarten",
+    "email": "info@pswangensz.ch",
+    "name": "Kindergarten Wangen",
+    "website": "http://www.pswangensz.ch",
+    "id": "node/5822948405"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8945838,
+      47.192466
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5823036605",
+  "properties": {
+    "addr:city": "Siebnen",
+    "addr:housenumber": "8",
+    "addr:postcode": "8854",
+    "addr:street": "Fabrikstrasse",
+    "amenity": "kindergarten",
+    "name": "Kinderkrippe Z'Wirbelhus",
+    "phone": "+41 55 440 27 26",
+    "id": "node/5823036605"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8964376,
+      47.1757746
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7177454101",
+  "properties": {
+    "addr:housenumber": "11",
+    "addr:street": "Unterer Althof",
+    "amenity": "kindergarten",
+    "contact:phone": "+41 79 569 43 81",
+    "level": "0",
+    "name": "Spielgruppe Flügäpilz",
+    "opening_hours": "Mo-Th 09:00-11:00",
+    "operator": "Rita Heiz",
+    "id": "node/7177454101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9029646,
+      47.1811682
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7191372873",
+  "properties": {
+    "amenity": "kindergarten",
+    "level": "0",
+    "name": "Winkelweg Chindsgi",
+    "operator:type": "public",
+    "id": "node/7191372873"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8538371,
+      47.1928385
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7398243339",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Bauernhof Spielgruppe Rosenzwergli",
+    "operator:type": "private",
+    "id": "node/7398243339"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9117588,
+      47.1875662
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8341092093",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Hofmatt",
+    "id": "node/8341092093"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5247972,
+      47.0627678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10072682063",
+  "properties": {
+    "amenity": "kindergarten",
+    "isced:level": "0",
+    "name": "ABC Learning Tree",
+    "operator": "ABC Learning Tree GmbH",
+    "id": "node/10072682063"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7139424,
+      47.197311
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10072888438",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:housenumber": "3",
+    "addr:postcode": "8840",
+    "addr:street": "Paracelsuspark",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Einsiedlerhof",
+    "id": "node/10072888438"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7504438,
+      47.1282365
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10072901671",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:housenumber": "20",
+    "addr:postcode": "8840",
+    "addr:street": "Hauptstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Zwei Raben",
+    "id": "node/10072901671"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7450606,
+      47.1269685
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10072913317",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:housenumber": "20a",
+    "addr:postcode": "8840",
+    "addr:street": "In den Matten",
+    "amenity": "kindergarten",
+    "name": "Kindergarten In den Matten",
+    "id": "node/10072913317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7420158,
+      47.1311063
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10076261858",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Seematt 2A, B, C, D",
+    "id": "node/10076261858"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4378453,
+      47.0765679
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10076281188",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Seefeld",
+    "id": "node/10076281188"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8547355,
+      47.1972799
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10092186650",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Burg 1+2",
+    "id": "node/10092186650"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9754461,
+      47.1711871
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10094691201",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Tuggen",
+    "id": "node/10094691201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8977051,
+      47.1227246
     ]
   }
 }

@@ -1,6 +1,3466 @@
 {
 "type": "FeatureCollection",
 "features": [
-
+{
+  "type": "Feature",
+  "id": "way/88124404",
+  "properties": {
+    "addr:city": "Stein am Rhein",
+    "addr:country": "CH",
+    "addr:housenumber": "21",
+    "addr:postcode": "8260",
+    "addr:street": "Oehningerstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Alterszentrum Stein am Rhein",
+    "operator": "Alterszentrum in Stein am Rhein",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
+    "id": "way/88124404"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.866437,
+          47.6594322
+        ],
+        [
+          8.8662945,
+          47.6594558
+        ],
+        [
+          8.8662637,
+          47.6593717
+        ],
+        [
+          8.866184,
+          47.6593849
+        ],
+        [
+          8.8661435,
+          47.6592742
+        ],
+        [
+          8.866355,
+          47.6592391
+        ],
+        [
+          8.8663944,
+          47.6593468
+        ],
+        [
+          8.8666289,
+          47.659308
+        ],
+        [
+          8.866852,
+          47.659271
+        ],
+        [
+          8.8668712,
+          47.6593236
+        ],
+        [
+          8.8670794,
+          47.6592891
+        ],
+        [
+          8.8671457,
+          47.6594706
+        ],
+        [
+          8.8668217,
+          47.6595243
+        ],
+        [
+          8.8668075,
+          47.6594855
+        ],
+        [
+          8.8667145,
+          47.6595009
+        ],
+        [
+          8.8666867,
+          47.6594248
+        ],
+        [
+          8.86677,
+          47.659411
+        ],
+        [
+          8.866763,
+          47.6593918
+        ],
+        [
+          8.8666732,
+          47.6594067
+        ],
+        [
+          8.8666773,
+          47.6594179
+        ],
+        [
+          8.8665944,
+          47.6594317
+        ],
+        [
+          8.8665856,
+          47.6594076
+        ],
+        [
+          8.866437,
+          47.6594322
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/128058393",
+  "properties": {
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Wohn- und Pflegeheim Sonnmatt",
+    "operator": "Wohn- und Pflegeheim Sonnmatt AG",
+    "social_facility": "nursing_home",
+    "id": "way/128058393"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.466635,
+          47.6720648
+        ],
+        [
+          8.4665695,
+          47.6717848
+        ],
+        [
+          8.4667267,
+          47.6717649
+        ],
+        [
+          8.4666906,
+          47.6716017
+        ],
+        [
+          8.4671164,
+          47.6715554
+        ],
+        [
+          8.4671229,
+          47.6715951
+        ],
+        [
+          8.4672867,
+          47.6715797
+        ],
+        [
+          8.4672965,
+          47.6716657
+        ],
+        [
+          8.467136,
+          47.6716877
+        ],
+        [
+          8.4671622,
+          47.6718289
+        ],
+        [
+          8.4670116,
+          47.6718465
+        ],
+        [
+          8.4670476,
+          47.6720163
+        ],
+        [
+          8.4668344,
+          47.6720414
+        ],
+        [
+          8.466635,
+          47.6720648
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/134283439",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "95",
+    "addr:postcode": "8207",
+    "addr:street": "Stettemerstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@laresidence-sh.ch",
+    "name": "Alters- und Pflegeheim La Résidence",
+    "phone": "+41 52 644 82 82",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.laresidence-sh.ch/",
+    "id": "way/134283439"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6550055,
+          47.7231518
+        ],
+        [
+          8.6554051,
+          47.7229656
+        ],
+        [
+          8.6560998,
+          47.7235849
+        ],
+        [
+          8.6558852,
+          47.7237509
+        ],
+        [
+          8.6556412,
+          47.7236224
+        ],
+        [
+          8.6554051,
+          47.7232399
+        ],
+        [
+          8.6551664,
+          47.7232962
+        ],
+        [
+          8.6550055,
+          47.7231518
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/172233122",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housename": "Künzleheim",
+    "addr:housenumber": "38",
+    "addr:street": "Bürgerstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "wheelchair": "yes",
+    "id": "way/172233122"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6418718,
+          47.6993134
+        ],
+        [
+          8.6418555,
+          47.6993454
+        ],
+        [
+          8.6418708,
+          47.6993489
+        ],
+        [
+          8.6417419,
+          47.6996033
+        ],
+        [
+          8.6416905,
+          47.6995915
+        ],
+        [
+          8.6416994,
+          47.6995739
+        ],
+        [
+          8.6416769,
+          47.6995687
+        ],
+        [
+          8.6416849,
+          47.6995529
+        ],
+        [
+          8.6416107,
+          47.6995359
+        ],
+        [
+          8.6417316,
+          47.6992974
+        ],
+        [
+          8.6417625,
+          47.6993046
+        ],
+        [
+          8.6417699,
+          47.69929
+        ],
+        [
+          8.6418718,
+          47.6993134
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/172233123",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housename": "Künzleheim",
+    "addr:housenumber": "40",
+    "addr:street": "Bürgerstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "wheelchair": "yes",
+    "id": "way/172233123"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6418393,
+          47.6994767
+        ],
+        [
+          8.6419164,
+          47.6994959
+        ],
+        [
+          8.6419263,
+          47.6994779
+        ],
+        [
+          8.6419806,
+          47.6994914
+        ],
+        [
+          8.6419673,
+          47.6995156
+        ],
+        [
+          8.6419841,
+          47.6995198
+        ],
+        [
+          8.6419279,
+          47.699622
+        ],
+        [
+          8.6419774,
+          47.6996343
+        ],
+        [
+          8.6419537,
+          47.6996774
+        ],
+        [
+          8.6419046,
+          47.6996652
+        ],
+        [
+          8.6418675,
+          47.6997327
+        ],
+        [
+          8.6418485,
+          47.699728
+        ],
+        [
+          8.6418322,
+          47.6997576
+        ],
+        [
+          8.6417832,
+          47.6997453
+        ],
+        [
+          8.6417691,
+          47.6997709
+        ],
+        [
+          8.6416885,
+          47.6997508
+        ],
+        [
+          8.6418393,
+          47.6994767
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/172340913",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housename": "Huus Emmersberg",
+    "addr:housenumber": "23",
+    "addr:street": "Bürgerstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Huus Emmersberg",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "wheelchair": "yes",
+    "id": "way/172340913"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6413211,
+          47.698224
+        ],
+        [
+          8.6413683,
+          47.6980892
+        ],
+        [
+          8.6419177,
+          47.6981764
+        ],
+        [
+          8.6418254,
+          47.6984394
+        ],
+        [
+          8.6416494,
+          47.6984115
+        ],
+        [
+          8.6416944,
+          47.6982833
+        ],
+        [
+          8.6413211,
+          47.698224
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/185892431",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "8",
+    "addr:street": "Feldstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Sozialpädagogische Familien Zürich",
+    "operator": "Stiftung DIHEI",
+    "phone": "+41 52 743 20 78",
+    "website": "http://www.stiftungdihei.ch/",
+    "id": "way/185892431"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6437375,
+          47.6999101
+        ],
+        [
+          8.6438833,
+          47.6999123
+        ],
+        [
+          8.6438788,
+          47.7000445
+        ],
+        [
+          8.6437329,
+          47.7000422
+        ],
+        [
+          8.6437375,
+          47.6999101
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192704208",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "15",
+    "addr:postcode": "8200",
+    "addr:street": "Kirchhofplatz",
+    "amenity": "social_facility",
+    "building": "yes",
+    "building:levels": "4",
+    "email": "alterszentrum.kirchhofplatz@stsh.ch",
+    "name": "Alterszentrum am Kirchhofplatz",
+    "operator": "Stadt Schaffhausen",
+    "operator:type": "government",
+    "phone": "+41 52 632 37 00",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.alterszentrum-kirchhofplatz.ch/",
+    "wheelchair": "yes",
+    "id": "way/192704208"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6364474,
+          47.6970079
+        ],
+        [
+          8.636589,
+          47.6970117
+        ],
+        [
+          8.636582,
+          47.697129
+        ],
+        [
+          8.6370252,
+          47.697141
+        ],
+        [
+          8.6371575,
+          47.6971445
+        ],
+        [
+          8.6371562,
+          47.6971671
+        ],
+        [
+          8.6371938,
+          47.6971681
+        ],
+        [
+          8.6371924,
+          47.6971915
+        ],
+        [
+          8.6371534,
+          47.6971905
+        ],
+        [
+          8.6371516,
+          47.69722
+        ],
+        [
+          8.6370242,
+          47.6972166
+        ],
+        [
+          8.6370211,
+          47.6972695
+        ],
+        [
+          8.6369571,
+          47.6972677
+        ],
+        [
+          8.6369602,
+          47.697216
+        ],
+        [
+          8.6364358,
+          47.6972018
+        ],
+        [
+          8.6364439,
+          47.6970664
+        ],
+        [
+          8.6364474,
+          47.6970079
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/196003073",
+  "properties": {
+    "addr:city": "Thayngen",
+    "addr:country": "CH",
+    "addr:housenumber": "19",
+    "addr:street": "Blumenstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "loc_name": "Alterswohnheim",
+    "name": "Seniorenzentrum Reiat",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
+    "id": "way/196003073"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7037453,
+          47.7461421
+        ],
+        [
+          8.7040164,
+          47.7461498
+        ],
+        [
+          8.7040172,
+          47.746137
+        ],
+        [
+          8.7042979,
+          47.746145
+        ],
+        [
+          8.7042971,
+          47.746159
+        ],
+        [
+          8.7043283,
+          47.7461599
+        ],
+        [
+          8.7043274,
+          47.746175
+        ],
+        [
+          8.7043442,
+          47.7461755
+        ],
+        [
+          8.7043406,
+          47.7462326
+        ],
+        [
+          8.7043512,
+          47.7462329
+        ],
+        [
+          8.7043466,
+          47.7463055
+        ],
+        [
+          8.7043214,
+          47.7463048
+        ],
+        [
+          8.704316,
+          47.7463903
+        ],
+        [
+          8.7039087,
+          47.7463787
+        ],
+        [
+          8.7039038,
+          47.7464562
+        ],
+        [
+          8.7038815,
+          47.7464556
+        ],
+        [
+          8.7038751,
+          47.7465578
+        ],
+        [
+          8.7037244,
+          47.7465536
+        ],
+        [
+          8.7037412,
+          47.7462847
+        ],
+        [
+          8.7037085,
+          47.7462837
+        ],
+        [
+          8.703713,
+          47.7462118
+        ],
+        [
+          8.7037274,
+          47.7462122
+        ],
+        [
+          8.7037309,
+          47.7461563
+        ],
+        [
+          8.7037444,
+          47.7461567
+        ],
+        [
+          8.7037453,
+          47.7461421
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218177090",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8200",
+    "addr:street": "Rehgütliweg",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Alterszentrum Breite - Steig",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "way/218177090"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6251271,
+          47.6976759
+        ],
+        [
+          8.6251686,
+          47.6976505
+        ],
+        [
+          8.6251276,
+          47.6976221
+        ],
+        [
+          8.6251492,
+          47.6976112
+        ],
+        [
+          8.6251099,
+          47.6975805
+        ],
+        [
+          8.6251467,
+          47.6975613
+        ],
+        [
+          8.6251427,
+          47.697556
+        ],
+        [
+          8.6251781,
+          47.6975352
+        ],
+        [
+          8.6251264,
+          47.6974949
+        ],
+        [
+          8.6251876,
+          47.6974581
+        ],
+        [
+          8.6249816,
+          47.6973029
+        ],
+        [
+          8.6251178,
+          47.697249
+        ],
+        [
+          8.6251431,
+          47.6972783
+        ],
+        [
+          8.6251615,
+          47.6972714
+        ],
+        [
+          8.6251873,
+          47.6973005
+        ],
+        [
+          8.6251971,
+          47.6972985
+        ],
+        [
+          8.6252218,
+          47.6973273
+        ],
+        [
+          8.6252312,
+          47.6973258
+        ],
+        [
+          8.6252563,
+          47.6973535
+        ],
+        [
+          8.6252661,
+          47.6973513
+        ],
+        [
+          8.6252884,
+          47.6973803
+        ],
+        [
+          8.6252986,
+          47.6973778
+        ],
+        [
+          8.6253254,
+          47.6974072
+        ],
+        [
+          8.6253546,
+          47.6974411
+        ],
+        [
+          8.6253442,
+          47.6974449
+        ],
+        [
+          8.6253712,
+          47.6974739
+        ],
+        [
+          8.6253642,
+          47.6974758
+        ],
+        [
+          8.6253868,
+          47.6975044
+        ],
+        [
+          8.6253783,
+          47.6975102
+        ],
+        [
+          8.6254026,
+          47.697539
+        ],
+        [
+          8.6253953,
+          47.6975444
+        ],
+        [
+          8.6254158,
+          47.6975644
+        ],
+        [
+          8.6254426,
+          47.6976183
+        ],
+        [
+          8.625429,
+          47.6976243
+        ],
+        [
+          8.6254374,
+          47.6976428
+        ],
+        [
+          8.6254533,
+          47.6976732
+        ],
+        [
+          8.6255227,
+          47.6977274
+        ],
+        [
+          8.6255276,
+          47.6977629
+        ],
+        [
+          8.6256536,
+          47.697859
+        ],
+        [
+          8.6256725,
+          47.6978574
+        ],
+        [
+          8.6256755,
+          47.6979452
+        ],
+        [
+          8.6256475,
+          47.6979451
+        ],
+        [
+          8.6255524,
+          47.6978714
+        ],
+        [
+          8.6254917,
+          47.6978747
+        ],
+        [
+          8.6254712,
+          47.6978904
+        ],
+        [
+          8.6254276,
+          47.6978903
+        ],
+        [
+          8.6253709,
+          47.6978459
+        ],
+        [
+          8.6253571,
+          47.697852
+        ],
+        [
+          8.6251271,
+          47.6976759
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218177091",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "21",
+    "addr:postcode": "8200",
+    "addr:street": "Stokarbergstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Alterszentrum Breite - Steig",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "way/218177091"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6256764,
+          47.6979704
+        ],
+        [
+          8.6256755,
+          47.6979452
+        ],
+        [
+          8.6256725,
+          47.6978574
+        ],
+        [
+          8.6256721,
+          47.6978459
+        ],
+        [
+          8.6259632,
+          47.6978414
+        ],
+        [
+          8.6259654,
+          47.6979066
+        ],
+        [
+          8.62611,
+          47.6979043
+        ],
+        [
+          8.626112,
+          47.6979636
+        ],
+        [
+          8.6256764,
+          47.6979704
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218664343",
+  "properties": {
+    "addr:housenumber": "47",
+    "addr:street": "Fischerhäuserstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "building:colour": "white",
+    "email": "info@lindli-huus.ch",
+    "name": "Lindli-Huus",
+    "phone": "+41 52 632 01 10",
+    "social_facility": "assisted_living",
+    "website": "https://lindlihuus.wordpress.com/",
+    "id": "way/218664343"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6447904,
+          47.6952534
+        ],
+        [
+          8.6446842,
+          47.695284
+        ],
+        [
+          8.6447107,
+          47.6953295
+        ],
+        [
+          8.6447965,
+          47.6953072
+        ],
+        [
+          8.6448334,
+          47.6953679
+        ],
+        [
+          8.6447479,
+          47.6953898
+        ],
+        [
+          8.6446242,
+          47.6954239
+        ],
+        [
+          8.6446356,
+          47.6954423
+        ],
+        [
+          8.6445276,
+          47.6954443
+        ],
+        [
+          8.6444581,
+          47.6953386
+        ],
+        [
+          8.6443915,
+          47.6952276
+        ],
+        [
+          8.6444423,
+          47.6952145
+        ],
+        [
+          8.6444944,
+          47.695201
+        ],
+        [
+          8.6447755,
+          47.6951231
+        ],
+        [
+          8.6448085,
+          47.6951824
+        ],
+        [
+          8.6448206,
+          47.6952041
+        ],
+        [
+          8.6448495,
+          47.6952559
+        ],
+        [
+          8.6448002,
+          47.6952701
+        ],
+        [
+          8.6447904,
+          47.6952534
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218668258",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "75",
+    "addr:postcode": "8200",
+    "addr:street": "Rietstrasse",
+    "amenity": "social_facility",
+    "building": "residential",
+    "name": "Alterszentrum Breite - Wiesli",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "way/218668258"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6203066,
+          47.7012243
+        ],
+        [
+          8.620137,
+          47.701263
+        ],
+        [
+          8.6201298,
+          47.701232
+        ],
+        [
+          8.6200722,
+          47.7012475
+        ],
+        [
+          8.6200421,
+          47.7012339
+        ],
+        [
+          8.6199975,
+          47.701143
+        ],
+        [
+          8.6200061,
+          47.7011168
+        ],
+        [
+          8.6199328,
+          47.7009552
+        ],
+        [
+          8.6199443,
+          47.7009359
+        ],
+        [
+          8.6199069,
+          47.7008594
+        ],
+        [
+          8.6199184,
+          47.7008381
+        ],
+        [
+          8.6198954,
+          47.7007685
+        ],
+        [
+          8.6200722,
+          47.7007365
+        ],
+        [
+          8.6200838,
+          47.7007578
+        ],
+        [
+          8.6201125,
+          47.7007675
+        ],
+        [
+          8.62017,
+          47.700752
+        ],
+        [
+          8.6202074,
+          47.7008381
+        ],
+        [
+          8.6201729,
+          47.7008488
+        ],
+        [
+          8.6202146,
+          47.700933
+        ],
+        [
+          8.6202376,
+          47.7009339
+        ],
+        [
+          8.6202693,
+          47.7010046
+        ],
+        [
+          8.6202549,
+          47.7010172
+        ],
+        [
+          8.6202792,
+          47.7010747
+        ],
+        [
+          8.620311,
+          47.7011498
+        ],
+        [
+          8.6203066,
+          47.7012243
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/237358924",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housename": "Künzleheim",
+    "addr:housenumber": "36",
+    "addr:postcode": "8200",
+    "addr:street": "Bürgerstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info-aze@stsh.ch",
+    "name": "Alterszentrum Emmersberg, Künzleheim",
+    "phone": "+41 52 630 46 00",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://alterszentrum-emmersberg.ch/home/",
+    "id": "way/237358924"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6420932,
+          47.6996731
+        ],
+        [
+          8.6422327,
+          47.6993969
+        ],
+        [
+          8.6420051,
+          47.6993383
+        ],
+        [
+          8.6421961,
+          47.6989973
+        ],
+        [
+          8.6425975,
+          47.6990973
+        ],
+        [
+          8.6423051,
+          47.699646
+        ],
+        [
+          8.6421415,
+          47.6997219
+        ],
+        [
+          8.6420932,
+          47.6996731
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/240515120",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "72",
+    "addr:postcode": "8200",
+    "addr:street": "Ebnatstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@wohnheim-frohberg.ch",
+    "name": "Wohnheim Frohberg",
+    "operator": "Wohnheim Frohberg GmbH",
+    "phone": "+41 52 625 97 00",
+    "social_facility": "nursing_home",
+    "website": "http://www.wohnheim-frohberg.ch/kontakt/",
+    "id": "way/240515120"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.644743,
+          47.7073773
+        ],
+        [
+          8.644828,
+          47.7072682
+        ],
+        [
+          8.6449605,
+          47.7073121
+        ],
+        [
+          8.6450277,
+          47.7072229
+        ],
+        [
+          8.6451701,
+          47.7072735
+        ],
+        [
+          8.6450791,
+          47.7073839
+        ],
+        [
+          8.6450099,
+          47.707356
+        ],
+        [
+          8.6449387,
+          47.7074451
+        ],
+        [
+          8.644743,
+          47.7073773
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/243659437",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "69",
+    "addr:postcode": "8200",
+    "addr:street": "Lochstrasse",
+    "alt_name": "Notschlafstelle Schaffhausen",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Notunterkunft / Soziales Wohnen",
+    "social_facility": "shelter",
+    "website": "https://www.stadt-schaffhausen.ch/Soziales-Wohnen-Geissberg.3451.0.html",
+    "id": "way/243659437"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6291915,
+          47.7107006
+        ],
+        [
+          8.6291816,
+          47.7106393
+        ],
+        [
+          8.6291297,
+          47.7106428
+        ],
+        [
+          8.6291248,
+          47.7106055
+        ],
+        [
+          8.6291745,
+          47.7106025
+        ],
+        [
+          8.6291747,
+          47.7105984
+        ],
+        [
+          8.6292954,
+          47.7105895
+        ],
+        [
+          8.6293133,
+          47.7106924
+        ],
+        [
+          8.6291915,
+          47.7107006
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/243669530",
+  "properties": {
+    "addr:city": "Hemmental",
+    "addr:housenumber": "13",
+    "addr:postcode": "8231",
+    "addr:street": "Bruggwiesen",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@handinhand-pflegeheim.ch",
+    "name": "Alters- und Pflegeheim Hand in Hand",
+    "phone": "+41 52 508 11 08",
+    "social_facility": "nursing_home",
+    "website": "https://www.handinhand-pflegeheim.ch/",
+    "id": "way/243669530"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5899952,
+          47.7296886
+        ],
+        [
+          8.5900486,
+          47.7296035
+        ],
+        [
+          8.590361,
+          47.7296846
+        ],
+        [
+          8.5901751,
+          47.7299386
+        ],
+        [
+          8.5900328,
+          47.7298961
+        ],
+        [
+          8.5900605,
+          47.7298469
+        ],
+        [
+          8.5900091,
+          47.7298322
+        ],
+        [
+          8.5900842,
+          47.7297139
+        ],
+        [
+          8.5899952,
+          47.7296886
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/251366065",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8207",
+    "addr:street": "Im Höfli",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@schoenbuehl-demenz.ch",
+    "name": "Höfli für Menschen mit Demenz",
+    "operator": "Schönbühl Kompetenzzentrum für Lebensqualität",
+    "phone": "+41 52 630 00 90",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
+    "website": "https://xn--schnbhl-demenz-xpb2h.ch/home/",
+    "id": "way/251366065"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6632122,
+          47.725461
+        ],
+        [
+          8.6630421,
+          47.7256464
+        ],
+        [
+          8.6629242,
+          47.7255975
+        ],
+        [
+          8.6629859,
+          47.7255302
+        ],
+        [
+          8.6629442,
+          47.7255129
+        ],
+        [
+          8.6629767,
+          47.7254774
+        ],
+        [
+          8.6629457,
+          47.7254645
+        ],
+        [
+          8.6629546,
+          47.7254547
+        ],
+        [
+          8.6629009,
+          47.7254324
+        ],
+        [
+          8.6629678,
+          47.7253595
+        ],
+        [
+          8.6632122,
+          47.725461
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/256046323",
+  "properties": {
+    "addr:city": "Neunkirch",
+    "addr:housenumber": "1",
+    "addr:postcode": "8213",
+    "addr:street": "Hintergasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Alters- und Pflegeheim Haus im Winkel",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.casavivachlaeggi.ch/casaviva-hausimwinkel-neunkirch",
+    "id": "way/256046323"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5007887,
+          47.6898495
+        ],
+        [
+          8.5008259,
+          47.6898515
+        ],
+        [
+          8.5008259,
+          47.6898457
+        ],
+        [
+          8.5008412,
+          47.6898397
+        ],
+        [
+          8.5009523,
+          47.6898463
+        ],
+        [
+          8.5009568,
+          47.689809
+        ],
+        [
+          8.5010723,
+          47.6898164
+        ],
+        [
+          8.5010551,
+          47.6900364
+        ],
+        [
+          8.5010518,
+          47.6900442
+        ],
+        [
+          8.5010134,
+          47.6900428
+        ],
+        [
+          8.5010117,
+          47.6900551
+        ],
+        [
+          8.5009777,
+          47.6900539
+        ],
+        [
+          8.5009534,
+          47.6903059
+        ],
+        [
+          8.5009395,
+          47.6903057
+        ],
+        [
+          8.5009387,
+          47.690324
+        ],
+        [
+          8.5009091,
+          47.690322
+        ],
+        [
+          8.50091,
+          47.6902984
+        ],
+        [
+          8.500858,
+          47.6902972
+        ],
+        [
+          8.5008657,
+          47.6902228
+        ],
+        [
+          8.5008054,
+          47.6902185
+        ],
+        [
+          8.5008127,
+          47.6901271
+        ],
+        [
+          8.5008074,
+          47.690127
+        ],
+        [
+          8.5008186,
+          47.6900203
+        ],
+        [
+          8.5008113,
+          47.6900203
+        ],
+        [
+          8.5008137,
+          47.6899964
+        ],
+        [
+          8.5008196,
+          47.6899969
+        ],
+        [
+          8.5008208,
+          47.6899812
+        ],
+        [
+          8.5007693,
+          47.6899781
+        ],
+        [
+          8.5007887,
+          47.6898495
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/256181775",
+  "properties": {
+    "addr:city": "Hallau",
+    "addr:housenumber": "11",
+    "addr:postcode": "8215",
+    "addr:street": "Untere Buckstrasse",
+    "amenity": "social_facility",
+    "building": "residential",
+    "building:levels": "4",
+    "name": "Alters- und Pflegeheim am Buck",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "website": "https://www.casavivachlaeggi.ch/casaviva-haus-am-buck-hallau",
+    "wheelchair": "yes",
+    "id": "way/256181775"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4643908,
+          47.6990891
+        ],
+        [
+          8.4645369,
+          47.6987023
+        ],
+        [
+          8.4648269,
+          47.698752
+        ],
+        [
+          8.4647861,
+          47.6988598
+        ],
+        [
+          8.4651816,
+          47.6989275
+        ],
+        [
+          8.4651369,
+          47.6989712
+        ],
+        [
+          8.4650523,
+          47.6989568
+        ],
+        [
+          8.4650325,
+          47.6990092
+        ],
+        [
+          8.4647399,
+          47.6989591
+        ],
+        [
+          8.4646726,
+          47.6991373
+        ],
+        [
+          8.4643908,
+          47.6990891
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/256846533",
+  "properties": {
+    "addr:city": "Neuhausen am Rheinfall",
+    "addr:housenumber": "22",
+    "addr:postcode": "8212",
+    "addr:street": "Rabenfluhstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "alterszentrum@neuhausen.ch",
+    "name": "Altersheim Rabenfluh",
+    "phone": "+41 52 674 18 00",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://alterszentrum-neuhausen.ch/",
+    "id": "way/256846533"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6232298,
+          47.684167
+        ],
+        [
+          8.6233178,
+          47.6837917
+        ],
+        [
+          8.6235026,
+          47.6838113
+        ],
+        [
+          8.6234465,
+          47.6840508
+        ],
+        [
+          8.6236488,
+          47.6840723
+        ],
+        [
+          8.6235553,
+          47.6844713
+        ],
+        [
+          8.6233582,
+          47.6844504
+        ],
+        [
+          8.62342,
+          47.6841872
+        ],
+        [
+          8.6232298,
+          47.684167
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/256848519",
+  "properties": {
+    "addr:city": "Neuhausen am Rheinfall",
+    "addr:housenumber": "9",
+    "addr:postcode": "8212",
+    "addr:street": "Rabenfluhstrasse",
+    "alt_name": "Pflegeheim diheiplus;Altersheim diheiplus;Wohnheim diheiplus",
+    "amenity": "social_facility",
+    "building": "yes",
+    "contact:email": "info@diheiplus.ch",
+    "contact:phone": "+41 52 647 10 00",
+    "contact:website": "https://diheiplus.ch/content/kontakt",
+    "name": "diheiplus",
+    "roof:shape": "flat",
+    "social_facility": "nursing_home",
+    "id": "way/256848519"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6233967,
+          47.6863616
+        ],
+        [
+          8.6232924,
+          47.6862653
+        ],
+        [
+          8.6232856,
+          47.6862683
+        ],
+        [
+          8.6232536,
+          47.6862393
+        ],
+        [
+          8.6232819,
+          47.6862256
+        ],
+        [
+          8.6232706,
+          47.6862138
+        ],
+        [
+          8.6233061,
+          47.6861973
+        ],
+        [
+          8.6232593,
+          47.6861533
+        ],
+        [
+          8.6232814,
+          47.6861427
+        ],
+        [
+          8.6232422,
+          47.6861049
+        ],
+        [
+          8.6232832,
+          47.6860842
+        ],
+        [
+          8.6232599,
+          47.6860619
+        ],
+        [
+          8.6232801,
+          47.6860521
+        ],
+        [
+          8.6232035,
+          47.6859804
+        ],
+        [
+          8.6232244,
+          47.6859702
+        ],
+        [
+          8.6231822,
+          47.6859287
+        ],
+        [
+          8.6232407,
+          47.6859004
+        ],
+        [
+          8.6231923,
+          47.6858555
+        ],
+        [
+          8.6232345,
+          47.6858355
+        ],
+        [
+          8.6232276,
+          47.6858286
+        ],
+        [
+          8.6232913,
+          47.6857978
+        ],
+        [
+          8.6233655,
+          47.6858679
+        ],
+        [
+          8.6233454,
+          47.6858787
+        ],
+        [
+          8.6234064,
+          47.6859364
+        ],
+        [
+          8.6235002,
+          47.6858844
+        ],
+        [
+          8.6235285,
+          47.6858685
+        ],
+        [
+          8.6235048,
+          47.6858451
+        ],
+        [
+          8.6235769,
+          47.6858097
+        ],
+        [
+          8.6234143,
+          47.6856585
+        ],
+        [
+          8.6234087,
+          47.6856606
+        ],
+        [
+          8.6234117,
+          47.6856639
+        ],
+        [
+          8.6233991,
+          47.6856698
+        ],
+        [
+          8.6234121,
+          47.6856832
+        ],
+        [
+          8.6233308,
+          47.6857226
+        ],
+        [
+          8.6233508,
+          47.6856307
+        ],
+        [
+          8.6233675,
+          47.6856232
+        ],
+        [
+          8.6233703,
+          47.6856251
+        ],
+        [
+          8.6234021,
+          47.6856101
+        ],
+        [
+          8.6233996,
+          47.6856077
+        ],
+        [
+          8.6234127,
+          47.6856008
+        ],
+        [
+          8.6233983,
+          47.6855881
+        ],
+        [
+          8.6234606,
+          47.6855576
+        ],
+        [
+          8.6234204,
+          47.6855193
+        ],
+        [
+          8.6234509,
+          47.6855047
+        ],
+        [
+          8.6234377,
+          47.6854913
+        ],
+        [
+          8.6235998,
+          47.6854122
+        ],
+        [
+          8.6236131,
+          47.6854252
+        ],
+        [
+          8.6236445,
+          47.6854102
+        ],
+        [
+          8.6237962,
+          47.6855508
+        ],
+        [
+          8.6235075,
+          47.6856921
+        ],
+        [
+          8.6234562,
+          47.685642
+        ],
+        [
+          8.6234436,
+          47.6856486
+        ],
+        [
+          8.6234395,
+          47.6856454
+        ],
+        [
+          8.6234348,
+          47.6856478
+        ],
+        [
+          8.6235968,
+          47.6857991
+        ],
+        [
+          8.6236229,
+          47.6857857
+        ],
+        [
+          8.6237111,
+          47.685866
+        ],
+        [
+          8.6237459,
+          47.6858485
+        ],
+        [
+          8.6237964,
+          47.6858955
+        ],
+        [
+          8.6237631,
+          47.6859122
+        ],
+        [
+          8.6237656,
+          47.6859165
+        ],
+        [
+          8.6236447,
+          47.6859788
+        ],
+        [
+          8.6235552,
+          47.6858928
+        ],
+        [
+          8.6235268,
+          47.6859077
+        ],
+        [
+          8.6234114,
+          47.6859705
+        ],
+        [
+          8.6234571,
+          47.686013
+        ],
+        [
+          8.6233979,
+          47.6860428
+        ],
+        [
+          8.6234173,
+          47.6860586
+        ],
+        [
+          8.6233758,
+          47.6860793
+        ],
+        [
+          8.6234529,
+          47.6861528
+        ],
+        [
+          8.6234347,
+          47.6861633
+        ],
+        [
+          8.6234965,
+          47.686223
+        ],
+        [
+          8.6234762,
+          47.686233
+        ],
+        [
+          8.6235461,
+          47.6862987
+        ],
+        [
+          8.623482,
+          47.6863286
+        ],
+        [
+          8.6234755,
+          47.6863238
+        ],
+        [
+          8.6233967,
+          47.6863616
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/256857069",
+  "properties": {
+    "addr:city": "Neuhausen am Rheinfall",
+    "addr:housenumber": "3",
+    "addr:postcode": "8212",
+    "addr:street": "Oberbergweg",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "alterszentrum@neuhausen.ch",
+    "name": "Altersheim Schindlergut",
+    "phone": "+41 52 674 18 00",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://alterszentrum-neuhausen.ch/",
+    "id": "way/256857069"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6151684,
+          47.6816757
+        ],
+        [
+          8.6151278,
+          47.6815937
+        ],
+        [
+          8.615179,
+          47.6815854
+        ],
+        [
+          8.6151631,
+          47.6815521
+        ],
+        [
+          8.6154119,
+          47.6814999
+        ],
+        [
+          8.6154066,
+          47.6814761
+        ],
+        [
+          8.6154595,
+          47.6814618
+        ],
+        [
+          8.6154384,
+          47.6814108
+        ],
+        [
+          8.615516,
+          47.6813929
+        ],
+        [
+          8.6154828,
+          47.681289
+        ],
+        [
+          8.615887,
+          47.6812072
+        ],
+        [
+          8.615929,
+          47.6812757
+        ],
+        [
+          8.6159931,
+          47.6812623
+        ],
+        [
+          8.6159732,
+          47.6812072
+        ],
+        [
+          8.616183,
+          47.681063
+        ],
+        [
+          8.6163578,
+          47.681185
+        ],
+        [
+          8.6160842,
+          47.6813894
+        ],
+        [
+          8.6160542,
+          47.6814001
+        ],
+        [
+          8.6160613,
+          47.6814155
+        ],
+        [
+          8.6158019,
+          47.6814678
+        ],
+        [
+          8.6157895,
+          47.6814856
+        ],
+        [
+          8.6157569,
+          47.6814935
+        ],
+        [
+          8.6157566,
+          47.6815114
+        ],
+        [
+          8.6156124,
+          47.6815381
+        ],
+        [
+          8.6156439,
+          47.6816006
+        ],
+        [
+          8.6155087,
+          47.6816259
+        ],
+        [
+          8.6154991,
+          47.6816132
+        ],
+        [
+          8.6151684,
+          47.6816757
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/274535386",
+  "properties": {
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Alters- und Pflegeheim Altershaamet Wilchingen",
+    "social_facility": "nursing_home",
+    "id": "way/274535386"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4676049,
+          47.6700534
+        ],
+        [
+          8.4675166,
+          47.6700087
+        ],
+        [
+          8.4674286,
+          47.6699618
+        ],
+        [
+          8.4674908,
+          47.6699076
+        ],
+        [
+          8.467573,
+          47.6698771
+        ],
+        [
+          8.4676536,
+          47.669859
+        ],
+        [
+          8.4677375,
+          47.6698578
+        ],
+        [
+          8.4677124,
+          47.6699302
+        ],
+        [
+          8.467756,
+          47.6699471
+        ],
+        [
+          8.4679323,
+          47.66979
+        ],
+        [
+          8.4680296,
+          47.6696498
+        ],
+        [
+          8.4680615,
+          47.6696589
+        ],
+        [
+          8.4681086,
+          47.6696046
+        ],
+        [
+          8.4682194,
+          47.6696408
+        ],
+        [
+          8.4681623,
+          47.669738
+        ],
+        [
+          8.4681404,
+          47.6697324
+        ],
+        [
+          8.4680968,
+          47.6697991
+        ],
+        [
+          8.4681404,
+          47.6698115
+        ],
+        [
+          8.46808,
+          47.6698985
+        ],
+        [
+          8.4680464,
+          47.6698827
+        ],
+        [
+          8.4679491,
+          47.6699743
+        ],
+        [
+          8.4679323,
+          47.669963
+        ],
+        [
+          8.467808,
+          47.6700692
+        ],
+        [
+          8.4676653,
+          47.6700003
+        ],
+        [
+          8.4676049,
+          47.6700534
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/275190443",
+  "properties": {
+    "addr:city": "Ramsen",
+    "addr:country": "CH",
+    "addr:housenumber": "566",
+    "addr:postcode": "8262",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Pflegewohngruppe Bahnhofstrasse",
+    "operator": "Ilgenpark",
+    "short_name": "PWG Bahnhofstrasse",
+    "social_facility": "group_home",
+    "website": "https://www.stiftungilgenhalde.ch/ilgenpark/kontakt/",
+    "id": "way/275190443"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8188788,
+          47.7076458
+        ],
+        [
+          8.8189013,
+          47.70751
+        ],
+        [
+          8.8190865,
+          47.7075238
+        ],
+        [
+          8.8190814,
+          47.7075549
+        ],
+        [
+          8.8192726,
+          47.7075692
+        ],
+        [
+          8.8192683,
+          47.7075952
+        ],
+        [
+          8.819375,
+          47.7076032
+        ],
+        [
+          8.8193583,
+          47.7077042
+        ],
+        [
+          8.819069,
+          47.7076826
+        ],
+        [
+          8.8190554,
+          47.7077647
+        ],
+        [
+          8.8189435,
+          47.7077563
+        ],
+        [
+          8.8189607,
+          47.7076519
+        ],
+        [
+          8.8188788,
+          47.7076458
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/275190446",
+  "properties": {
+    "addr:city": "Ramsen",
+    "addr:country": "CH",
+    "addr:housenumber": "56",
+    "addr:postcode": "8262",
+    "addr:street": "Petersburg",
+    "alt_name": "Tagesstruktur und Verwaltung Ilgenpark",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@ilgenpark.ch",
+    "name": "Behindertenwohnheim Ilgenpark",
+    "phone": "+41 52 742 89 89",
+    "social_facility": "assisted_living",
+    "website": "https://www.stiftungilgenhalde.ch/ilgenpark/kontakt/",
+    "id": "way/275190446"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8200253,
+          47.7078435
+        ],
+        [
+          8.8200521,
+          47.707701
+        ],
+        [
+          8.8201725,
+          47.7077092
+        ],
+        [
+          8.820168,
+          47.7077537
+        ],
+        [
+          8.8203308,
+          47.7077658
+        ],
+        [
+          8.820341,
+          47.7077224
+        ],
+        [
+          8.820425,
+          47.7077293
+        ],
+        [
+          8.8204406,
+          47.7077769
+        ],
+        [
+          8.8204823,
+          47.7077802
+        ],
+        [
+          8.8204815,
+          47.7077905
+        ],
+        [
+          8.8205088,
+          47.707792
+        ],
+        [
+          8.8205222,
+          47.7077258
+        ],
+        [
+          8.8204905,
+          47.7077238
+        ],
+        [
+          8.8204945,
+          47.7076907
+        ],
+        [
+          8.8204853,
+          47.70769
+        ],
+        [
+          8.8204864,
+          47.707679
+        ],
+        [
+          8.8204956,
+          47.7076797
+        ],
+        [
+          8.8205119,
+          47.7075833
+        ],
+        [
+          8.820733,
+          47.7075984
+        ],
+        [
+          8.8207156,
+          47.7077182
+        ],
+        [
+          8.8206152,
+          47.7077115
+        ],
+        [
+          8.8205896,
+          47.7078599
+        ],
+        [
+          8.82047,
+          47.7078515
+        ],
+        [
+          8.8204658,
+          47.7078736
+        ],
+        [
+          8.8200253,
+          47.7078435
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/275205427",
+  "properties": {
+    "addr:city": "Ramsen",
+    "addr:country": "CH",
+    "addr:housenumber": "570",
+    "addr:postcode": "8262",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Aussenwohngruppe Bahnhofstrasse",
+    "operator": "Ilgenpark",
+    "short_name": "AWG Bahnhofstrasse",
+    "social_facility": "group_home",
+    "website": "https://www.stiftungilgenhalde.ch/ilgenpark/kontakt/",
+    "id": "way/275205427"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8149602,
+          47.7077287
+        ],
+        [
+          8.8149741,
+          47.7076325
+        ],
+        [
+          8.8152179,
+          47.7076484
+        ],
+        [
+          8.8152119,
+          47.7076894
+        ],
+        [
+          8.8153173,
+          47.7076963
+        ],
+        [
+          8.815308,
+          47.7077612
+        ],
+        [
+          8.8152325,
+          47.7077563
+        ],
+        [
+          8.8152339,
+          47.7077465
+        ],
+        [
+          8.8149602,
+          47.7077287
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/275232046",
+  "properties": {
+    "addr:city": "Ramsen",
+    "addr:country": "CH",
+    "addr:housenumber": "275",
+    "addr:postcode": "8262",
+    "addr:street": "Turnplatzweg",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Aussenwohngruppe Hegau",
+    "operator": "Ilgenpark",
+    "short_name": "AWG Hegau",
+    "social_facility": "group_home",
+    "website": "https://www.stiftungilgenhalde.ch/ilgenpark/kontakt/",
+    "id": "way/275232046"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8110882,
+          47.7088581
+        ],
+        [
+          8.8111371,
+          47.7087415
+        ],
+        [
+          8.8113581,
+          47.7087835
+        ],
+        [
+          8.8113092,
+          47.7089001
+        ],
+        [
+          8.8110882,
+          47.7088581
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/275243935",
+  "properties": {
+    "addr:city": "Ramsen",
+    "addr:country": "CH",
+    "addr:housenumber": "567",
+    "addr:postcode": "8262",
+    "addr:street": "Alemannenweg",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Aussenwohngruppe Baumgarten",
+    "operator": "Ilgenpark",
+    "short_name": "AWG Baumgarten",
+    "social_facility": "group_home",
+    "website": "https://www.stiftungilgenhalde.ch/ilgenpark/kontakt/",
+    "id": "way/275243935"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8188419,
+          47.7065802
+        ],
+        [
+          8.8188525,
+          47.7064061
+        ],
+        [
+          8.8190536,
+          47.7064116
+        ],
+        [
+          8.8190448,
+          47.7065562
+        ],
+        [
+          8.8189443,
+          47.7065534
+        ],
+        [
+          8.8189425,
+          47.7065829
+        ],
+        [
+          8.8188419,
+          47.7065802
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/275243962",
+  "properties": {
+    "addr:city": "Ramsen",
+    "addr:country": "CH",
+    "addr:housenumber": "401",
+    "addr:postcode": "8262",
+    "addr:street": "Roseneggstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Aussenwohngruppe Rosenegg",
+    "operator": "Ilgenpark",
+    "short_name": "AWG Rosenegg",
+    "social_facility": "group_home",
+    "website": "https://www.stiftungilgenhalde.ch/ilgenpark/kontakt/",
+    "id": "way/275243962"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8186924,
+          47.7094044
+        ],
+        [
+          8.8187226,
+          47.7095185
+        ],
+        [
+          8.8184401,
+          47.7095524
+        ],
+        [
+          8.8184537,
+          47.7096036
+        ],
+        [
+          8.8183992,
+          47.7096101
+        ],
+        [
+          8.8183968,
+          47.709601
+        ],
+        [
+          8.8183455,
+          47.7096071
+        ],
+        [
+          8.8183264,
+          47.7095352
+        ],
+        [
+          8.8184628,
+          47.7095188
+        ],
+        [
+          8.8184405,
+          47.7094346
+        ],
+        [
+          8.8186924,
+          47.7094044
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/275250191",
+  "properties": {
+    "addr:city": "Ramsen",
+    "addr:country": "CH",
+    "addr:housenumber": "314e",
+    "addr:postcode": "8262",
+    "addr:street": "Moskau",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Aussenwohngruppe Moskau",
+    "operator": "Ilgenpark",
+    "short_name": "AWG Moskau",
+    "social_facility": "group_home",
+    "website": "https://www.stiftungilgenhalde.ch/ilgenpark/kontakt/",
+    "id": "way/275250191"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8205129,
+          47.7112841
+        ],
+        [
+          8.8205146,
+          47.7110433
+        ],
+        [
+          8.8207322,
+          47.711044
+        ],
+        [
+          8.8207305,
+          47.7112848
+        ],
+        [
+          8.8205129,
+          47.7112841
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/275344429",
+  "properties": {
+    "addr:city": "Beringen",
+    "addr:housenumber": "2",
+    "addr:postcode": "8222",
+    "addr:street": "Zelgstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@pflegeheim-ruhesitz.ch",
+    "name": "Alters- und Pflegeheim Ruhesitz",
+    "operator": "Stiftung Ruhesitz",
+    "operator:type": "corporation",
+    "phone": "41 52 685 16 51",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.pflegeheim-ruhesitz.ch/",
+    "wheelchair": "yes",
+    "id": "way/275344429"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5745263,
+          47.6962853
+        ],
+        [
+          8.5746778,
+          47.6961644
+        ],
+        [
+          8.5745556,
+          47.6961408
+        ],
+        [
+          8.5745315,
+          47.6961557
+        ],
+        [
+          8.5744776,
+          47.6961644
+        ],
+        [
+          8.5744659,
+          47.6961888
+        ],
+        [
+          8.574425,
+          47.6961943
+        ],
+        [
+          8.5744179,
+          47.6963527
+        ],
+        [
+          8.5742716,
+          47.6963708
+        ],
+        [
+          8.5742892,
+          47.6959808
+        ],
+        [
+          8.5746626,
+          47.6960556
+        ],
+        [
+          8.5746439,
+          47.6960714
+        ],
+        [
+          8.5746904,
+          47.6960983
+        ],
+        [
+          8.5746731,
+          47.6961132
+        ],
+        [
+          8.574741,
+          47.6961478
+        ],
+        [
+          8.5748002,
+          47.6961015
+        ],
+        [
+          8.574886,
+          47.6961472
+        ],
+        [
+          8.5748551,
+          47.6961748
+        ],
+        [
+          8.5748441,
+          47.6961829
+        ],
+        [
+          8.5749188,
+          47.6962239
+        ],
+        [
+          8.5748973,
+          47.6962885
+        ],
+        [
+          8.5751436,
+          47.6963247
+        ],
+        [
+          8.5751055,
+          47.696438
+        ],
+        [
+          8.5748667,
+          47.6964051
+        ],
+        [
+          8.5748707,
+          47.6963879
+        ],
+        [
+          8.5747694,
+          47.6963757
+        ],
+        [
+          8.5747367,
+          47.6964021
+        ],
+        [
+          8.5745263,
+          47.6962853
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/276766708",
+  "properties": {
+    "addr:city": "Schleitheim",
+    "addr:housenumber": "60",
+    "addr:postcode": "8226",
+    "addr:street": "Alte Beggingerstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "altersheim@schleitheim.ch",
+    "name": "Altersheim Schleitheim",
+    "phone": "+41 52 687 41 00",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "http://altersheim-schleitheim.ch/kontakt-2/",
+    "id": "way/276766708"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4978564,
+          47.7561734
+        ],
+        [
+          8.4978747,
+          47.7561667
+        ],
+        [
+          8.4978623,
+          47.7561501
+        ],
+        [
+          8.4978449,
+          47.7561576
+        ],
+        [
+          8.4977576,
+          47.7560635
+        ],
+        [
+          8.4976746,
+          47.7560939
+        ],
+        [
+          8.497603,
+          47.7560525
+        ],
+        [
+          8.4975134,
+          47.7561103
+        ],
+        [
+          8.4974616,
+          47.7560834
+        ],
+        [
+          8.4974827,
+          47.7560692
+        ],
+        [
+          8.4974591,
+          47.7560525
+        ],
+        [
+          8.4973748,
+          47.75611
+        ],
+        [
+          8.497221,
+          47.7560125
+        ],
+        [
+          8.4973524,
+          47.7559241
+        ],
+        [
+          8.497381,
+          47.7559349
+        ],
+        [
+          8.4974107,
+          47.7559149
+        ],
+        [
+          8.4974046,
+          47.7559
+        ],
+        [
+          8.4975373,
+          47.7558474
+        ],
+        [
+          8.4975546,
+          47.755864
+        ],
+        [
+          8.4975745,
+          47.7558615
+        ],
+        [
+          8.4975401,
+          47.7557853
+        ],
+        [
+          8.4976009,
+          47.7557598
+        ],
+        [
+          8.4975507,
+          47.7556977
+        ],
+        [
+          8.4976652,
+          47.7556496
+        ],
+        [
+          8.4981734,
+          47.7562093
+        ],
+        [
+          8.4981327,
+          47.7562226
+        ],
+        [
+          8.4981674,
+          47.7562601
+        ],
+        [
+          8.4979578,
+          47.7563185
+        ],
+        [
+          8.4978564,
+          47.7561734
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/305606810",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Alterszentrum Stein am Rhein",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
+    "id": "way/305606810"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8658934,
+          47.6591293
+        ],
+        [
+          8.8663465,
+          47.6589862
+        ],
+        [
+          8.8666053,
+          47.6589955
+        ],
+        [
+          8.8669741,
+          47.6590882
+        ],
+        [
+          8.8670404,
+          47.6591377
+        ],
+        [
+          8.8672578,
+          47.659295
+        ],
+        [
+          8.8673781,
+          47.6593984
+        ],
+        [
+          8.8675643,
+          47.6595575
+        ],
+        [
+          8.8678757,
+          47.6598255
+        ],
+        [
+          8.8680988,
+          47.660046
+        ],
+        [
+          8.8682358,
+          47.6601885
+        ],
+        [
+          8.8682699,
+          47.66022
+        ],
+        [
+          8.8683453,
+          47.6602898
+        ],
+        [
+          8.8684317,
+          47.6603496
+        ],
+        [
+          8.86836,
+          47.6603946
+        ],
+        [
+          8.8679251,
+          47.6603883
+        ],
+        [
+          8.8677195,
+          47.6603738
+        ],
+        [
+          8.8675109,
+          47.6603532
+        ],
+        [
+          8.867121,
+          47.6602497
+        ],
+        [
+          8.8668931,
+          47.6601364
+        ],
+        [
+          8.8668724,
+          47.6601112
+        ],
+        [
+          8.8668522,
+          47.6600631
+        ],
+        [
+          8.8667966,
+          47.6600283
+        ],
+        [
+          8.8667245,
+          47.6600231
+        ],
+        [
+          8.8666597,
+          47.6600493
+        ],
+        [
+          8.866609,
+          47.660045
+        ],
+        [
+          8.8664009,
+          47.6599633
+        ],
+        [
+          8.8658311,
+          47.65994
+        ],
+        [
+          8.8658262,
+          47.6595933
+        ],
+        [
+          8.8658591,
+          47.6596088
+        ],
+        [
+          8.8659519,
+          47.6595087
+        ],
+        [
+          8.8660689,
+          47.6594779
+        ],
+        [
+          8.8658934,
+          47.6591293
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4200331021",
+  "properties": {
+    "addr:city": "Büttenhardt",
+    "addr:housenumber": "47",
+    "addr:place": "Ferienheim",
+    "addr:postcode": "8236",
+    "amenity": "social_facility",
+    "name": "BWA - Betreutes Wohnen und Arbeiten",
+    "social_facility": "assisted_living",
+    "social_facility:for": "juvenile",
+    "website": "https://bwa-buettenhardt.ch/",
+    "id": "node/4200331021"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6405612,
+      47.7639341
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9308476987",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "12",
+    "addr:postcode": "8200",
+    "addr:street": "Ungarbühlstrasse",
+    "amenity": "social_facility",
+    "email": "info@ungarbuehl.ch",
+    "name": "Stiftung Ungarbühl",
+    "operator": "Stiftung Ungarbühl",
+    "phone": "+41 52 630 66 66",
+    "social_facility": "assisted_living",
+    "website": "https://www.ungarbuehl.ch/home/",
+    "id": "node/9308476987"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6398988,
+      47.7038827
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9308476988",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "4",
+    "addr:street": "Ungarbühlstrasse",
+    "amenity": "social_facility",
+    "name": "Alterszentrum Schönbühl",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "node/9308476988"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6401834,
+      47.7046773
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9308513410",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "89",
+    "addr:postcode": "8208",
+    "addr:street": "Geissbergstrasse",
+    "amenity": "social_facility",
+    "name": "Soziales Wohnen Geissberg",
+    "short_name": "SWG",
+    "social_facility": "group_home",
+    "id": "node/9308513410"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6379158,
+      47.7119731
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9308513415",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "12",
+    "addr:street": "J.J. Wepfer-Strasse",
+    "amenity": "social_facility",
+    "name": "Pflegezentrum - Spitäler Schaffhausen",
+    "operator": "Spitäler Schaffhausen",
+    "phone": "+41 52 634 34 34",
+    "social_facility": "nursing_home",
+    "website": "https://www.heiminfo.ch/institution/spitaeler-schaffhausen-pflegezentrum/pRLcyvp",
+    "id": "node/9308513415"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6399566,
+      47.7153734
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10285955761",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "RestEssBar",
+    "social_facility": "food_bank",
+    "social_facility:for": "all",
+    "website": "http://rebs.ch/",
+    "id": "node/10285955761"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6342908,
+      47.6938991
+    ]
+  }
+}
 ]
 }
