@@ -1,0 +1,137 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/269549760",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "26",
+    "addr:postcode": "8610",
+    "addr:street": "Florastrasse",
+    "amenity": "childcare",
+    "contact:phone": "+41 44 940 11 62",
+    "contact:website": "https://www.kinderkrippeheusserstaub.ch/",
+    "max_age": "Kindergarteneintritt",
+    "min_age": "3 months",
+    "name": "Kinderkrippe Heusser-Staub",
+    "opening_hours": "Mo-Fr 06:30-18:00",
+    "operator": "Maria Dastoor",
+    "id": "node/269549760"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7219861,
+      47.3470098
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/299616478",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "29",
+    "contact:phone": "+41 44 413 76 25",
+    "contact:postcode": "8046",
+    "contact:street": "Glaubtenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/schauenberg/betreuung/standorte.html",
+    "name": "Kinderhort Glauten 1+4",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Schauenberg",
+    "operator:type": "public",
+    "id": "node/299616478"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.516872,
+      47.4122526
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/373500373",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kinderkrippe Bambi Seebach",
+    "wheelchair": "limited",
+    "id": "node/373500373"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5458859,
+      47.4192194
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/482762658",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "9",
+    "addr:postcode": "8050",
+    "addr:street": "Max-Bill-Platz",
+    "amenity": "childcare",
+    "check_date": "2023-05-13",
+    "name": "Allegra Kinderhäuser",
+    "wheelchair": "yes",
+    "id": "node/482762658"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5394396,
+      47.4140814
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/830620117",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "189",
+    "contact:phone": "+41 79 790 83 11",
+    "contact:postcode": "8008",
+    "contact:street": "Seefeldstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/ssd/de/index/volksschule/schulkreise_kreisschulbehoerden/zuerichberg/schulen/kartaus_muenchhalde_schuleinheit/horte_betreuung.html",
+    "description": "Mittag-/Abendhort und Morgentisch",
+    "name": "Tiefenbrunnen Morgen-/Mittag-/Abendhort",
+    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg",
+    "operator:type": "public",
+    "wheelchair": "limited",
+    "id": "node/830620117"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5580559,
+      47.3543577
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/916462874",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Frankengasse",
+    "operator": "Stadt Zürich",
+    "id": "node/916462874"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5451911,
+      47.3696215
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,6 @@
+type,features
+FeatureCollection,"{'type': 'Feature', 'id': 'node/272789427', 'properties': {'amenity': 'school', 'name': 'Schulanlage Schwerzi', 'id': 'node/272789427'}, 'geometry': {'type': 'Point', 'coordinates': [8.7601272, 47.2038017]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/429302684', 'properties': {'amenity': 'school', 'name': 'Kantonsschule Ausserschwyz (KSA)', 'id': 'node/429302684'}, 'geometry': {'type': 'Point', 'coordinates': [8.8891112, 47.2039887]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/455526729', 'properties': {'addr:city': 'Einsiedeln', 'addr:country': 'CH', 'addr:housenumber': '2', 'addr:postcode': '8840', 'addr:street': 'Paracelsuspark', 'amenity': 'school', 'name': 'Altes Schulhaus', 'wikidata': 'Q29881481', 'id': 'node/455526729'}, 'geometry': {'type': 'Point', 'coordinates': [8.7512585, 47.1284305]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/1080766512', 'properties': {'amenity': 'school', 'name': 'Primarschule', 'id': 'node/1080766512'}, 'geometry': {'type': 'Point', 'coordinates': [8.4635975, 47.098157]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/1149514057', 'properties': {'amenity': 'school', 'name': 'Schulanlage Leutschen', 'id': 'node/1149514057'}, 'geometry': {'type': 'Point', 'coordinates': [8.7543872, 47.2035611]}}"

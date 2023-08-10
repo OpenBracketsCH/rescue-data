@@ -1,0 +1,51 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/303765243",
+  "properties": {
+    "amenity": "school",
+    "id": "node/303765243"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5192162,
+      47.7146493
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/665102939",
+  "properties": {
+    "amenity": "school",
+    "name": "Schule Schleitheim",
+    "id": "node/665102939"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4842731,
+      47.7476946
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/849980408",
+  "properties": {
+    "amenity": "school",
+    "id": "node/849980408"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5329891,
+      47.7665412
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,279 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/119484102",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8006",
+    "addr:street": "Röslistrasse",
+    "amenity": "police",
+    "name": "Quartierwache Unterstrass",
+    "opening_hours": "Mo-Fr 08:00-14:00; Tu 08:00-17:00",
+    "operator": "Stadtpolizei Zürich",
+    "phone": "+41 44 411 83 43",
+    "id": "node/119484102"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5411342,
+      47.3883166
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/130113036",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8002",
+    "addr:street": "Bederstrasse",
+    "amenity": "police",
+    "check_date:opening_hours": "2018-11-08",
+    "contact:fax": "+41 44 281 00 10",
+    "contact:phone": "+41 44 411 81 43",
+    "name": "Quartierwache Enge",
+    "opening_hours": "Mo-Fr 07:00-17:00; Tu 07:00-12:00",
+    "operator": "Stadtpolizei Zürich",
+    "operator:wikidata": "Q2327949",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/stadtpolizei_zuerich/ueber_uns/standorte/quartierwachen/enge.html",
+    "id": "node/130113036"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5313927,
+      47.3653405
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/271215645",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "260",
+    "addr:postcode": "8008",
+    "addr:street": "Bellerivestrasse",
+    "alt_name": "Dienstgebäude Tiefenbrunnen Wasserschutzpolizei",
+    "amenity": "police",
+    "description": "Städtische Seepolizei und Gewässerschutz",
+    "name": "Wache Wasserschutzpolizei",
+    "opening_hours": "Tu,Th 07:30-13:00; We,Fr 13:00-16:30",
+    "operator": "Stadtpolizei Zürich",
+    "phone": "+41 44 411 84 42",
+    "wheelchair": "yes",
+    "id": "node/271215645"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5623665,
+      47.3480497
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/274826295",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8008",
+    "addr:street": "Riesbachstrasse",
+    "amenity": "police",
+    "name": "Quartierwache Riesbach",
+    "opening_hours": "Mo 07:00-13:00; Tu-Fr 08:00-17:00; Th 08:00-13:00",
+    "operator": "Stadtpolizei Zürich",
+    "phone": "+41 44 411 82 63",
+    "wheelchair": "no",
+    "id": "node/274826295"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.553662,
+      47.3605777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/362688400",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "160",
+    "addr:postcode": "8049",
+    "addr:street": "Limmattalstrasse",
+    "amenity": "police",
+    "name": "Quartierwache Höngg",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00; We-Th 08:00-12:00",
+    "operator": "Stadtpolizei Zürich",
+    "id": "node/362688400"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5010076,
+      47.4016256
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/454974838",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8005",
+    "addr:street": "Fabrikstrasse",
+    "amenity": "police",
+    "name": "Regionalwache Industrie",
+    "opening_hours": "24/7",
+    "operator": "Stadtpolizei Zürich",
+    "operator:wikidata": "Q2327949",
+    "id": "node/454974838"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5295366,
+      47.387443
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/656566476",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "105",
+    "addr:postcode": "8004",
+    "addr:street": "Militärstrasse",
+    "amenity": "police",
+    "name": "Regionalwache Aussersihl",
+    "opening_hours": "24/7",
+    "operator": "Stadtpolizei Zürich",
+    "id": "node/656566476"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5288494,
+      47.3790011
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/733254763",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "61",
+    "addr:postcode": "8001",
+    "addr:street": "Limmatquai",
+    "alt_name": "Kapo",
+    "amenity": "police",
+    "name": "Polizeiposten Rathaus Zürich",
+    "opening_hours": "Mo-Fr 07:00-17:30",
+    "opening_hours:covid19": "open",
+    "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "operator:wikipedia": "de:Kantonspolizei Zürich",
+    "phone": "+41 44 247 29 80",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "id": "node/733254763"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.542614,
+      47.3718827
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/935796165",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "173",
+    "addr:postcode": "8046",
+    "addr:street": "In Böden",
+    "amenity": "police",
+    "name": "Quartierwache Affoltern",
+    "opening_hours": "Mo 08:00-12:00, 13:00-17:00; Tu-Th 11:00-17:30",
+    "operator": "Stadtpolizei Zürich",
+    "id": "node/935796165"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5076354,
+      47.4194962
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/983436285",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8051",
+    "addr:street": "Dübendorfstrasse",
+    "amenity": "police",
+    "name": "Quartierwache Schwamendingen",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00; Tu, Th 11:00-17:00",
+    "operator": "Stadtpolizei Zürich",
+    "phone": "+41 44 411 83 33",
+    "id": "node/983436285"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5744884,
+      47.4041947
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1152501760",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "87",
+    "addr:postcode": "8003",
+    "addr:street": "Zurlindenstrasse",
+    "amenity": "police",
+    "name": "Regionalwache Wiedikon",
+    "opening_hours": "24/7",
+    "operator": "Stadtpolizei Zürich",
+    "operator:wikidata": "Q2327949",
+    "wheelchair": "yes",
+    "id": "node/1152501760"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5192998,
+      47.3704185
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,152 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/318530558",
+  "properties": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Drogerie Schilliger",
+    "id": "node/318530558"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4274168,
+      47.1403056
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/321679039",
+  "properties": {
+    "amenity": "pharmacy",
+    "delivery:covid19": "yes",
+    "fax": "+41 41 780 06 54",
+    "name": "Anklin",
+    "opening_hours": "Mo-Fr 08:30-12:00,14:00-18:30; Sa 09:00-16:00; PH off",
+    "opening_hours:covid19": "same",
+    "phone": "+41 41 780 39 19",
+    "website": "http://www.anklinapotheke.ch/",
+    "wheelchair": "limited",
+    "id": "node/321679039"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4581358,
+      47.1792941
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/393982230",
+  "properties": {
+    "addr:city": "Zug",
+    "addr:housenumber": "10",
+    "addr:postcode": "6300",
+    "addr:street": "Bundesplatz",
+    "amenity": "pharmacy",
+    "branch": "Zug",
+    "brand": "Amavita",
+    "brand:wikidata": "Q93733901",
+    "healthcare": "pharmacy",
+    "name": "Amavita",
+    "opening_hours": "Mo-We,Fr 08:00-18:30; Th 08:00-19:00; Sa 09:00-17:00",
+    "operator": "GaleniCare",
+    "website": "https://www.amavita.ch/de/amavita-apotheke-zug",
+    "wheelchair": "yes",
+    "id": "node/393982230"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5153424,
+      47.1716195
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/417162565",
+  "properties": {
+    "addr:city": "Zug",
+    "addr:housenumber": "16",
+    "addr:postcode": "6300",
+    "addr:street": "Grabenstrasse",
+    "amenity": "pharmacy",
+    "branch": "Zug Kolin-Apotheke",
+    "brand": "TopPharm",
+    "brand:wikidata": "Q110277794",
+    "healthcare": "pharmacy",
+    "name": "TopPharm",
+    "opening_hours": "Mo 09:00-12:15,13:30-18:30; Tu-Fr 08:00-12:15,13:30-18:30; Sa 08:00-16:00; week 28-33 Mo 09:00-12:15,14:00-18:30; week 28-33 Tu-Fr 08:00-12:15,14:00-18:30; PH off",
+    "opening_hours:covid19": "same",
+    "operator": "TopPharm Genossenschaft",
+    "website": "https://www.apotheke.ch/kolin",
+    "wheelchair": "no",
+    "id": "node/417162565"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5151006,
+      47.1656818
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/660176172",
+  "properties": {
+    "addr:city": "Steinhausen",
+    "addr:housenumber": "4",
+    "addr:postcode": "6312",
+    "addr:street": "Blickensdorferstrasse",
+    "amenity": "pharmacy",
+    "name": "UrsDrogerie Apotheke mit Biolade",
+    "website": "http://www.ursdrogerie.ch",
+    "id": "node/660176172"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4858491,
+      47.1969024
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/663436665",
+  "properties": {
+    "addr:city": "Zug",
+    "addr:housenumber": "13b",
+    "addr:postcode": "6300",
+    "addr:street": "Industriestrasse",
+    "amenity": "pharmacy",
+    "branch": "Zug Metalli",
+    "brand": "Achillea Apotheke",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Metalli Apotheke",
+    "opening_hours": "Mo-We,Fr 09:00-19:00;Sa 09:00-17:00;Th 09:00-21:00;PH closed",
+    "opening_hours:covid19": "same",
+    "operator": "Dr. Bähler Dropa",
+    "website": "https://achillea.ch/standorte/metalli-apotheke",
+    "wheelchair": "yes",
+    "id": "node/663436665"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5173863,
+      47.1724716
+    ]
+  }
+}
+]
+}

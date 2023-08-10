@@ -1,0 +1,77 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/29885122",
+  "properties": {
+    "addr:city": "Neuhausen am Rheinfall",
+    "addr:housenumber": "26",
+    "addr:postcode": "8212",
+    "addr:street": "Rheingoldstrasse",
+    "amenity": "police",
+    "fax": "+41 52 632 89 39",
+    "name": "Polizeistation Neuhausen am Rheinfall",
+    "opening_hours": "Mo 07:00-11:30,13:45-17:00; Tu,We,Fr 13:45-17:00; Th 13:45-18:00",
+    "operator": "Schaffhauser Polizei",
+    "phone": "+41 52 632 89 20",
+    "wheelchair": "no",
+    "id": "node/29885122"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6217342,
+      47.6807674
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/436132061",
+  "properties": {
+    "addr:city": "Stein am Rhein",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "8260",
+    "addr:street": "Chlini Schanz",
+    "amenity": "police",
+    "fax": "+41 52 741 34 93",
+    "name": "Polizeistation Stein am Rhein",
+    "operator": "Schaffhauser Polizei",
+    "phone": "+41 52 741 22 04",
+    "url": "http://www.shpol.ch/",
+    "id": "node/436132061"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8603742,
+      47.6607428
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/436132162",
+  "properties": {
+    "addr:city": "Stein am Rhein",
+    "addr:postcode": "8260",
+    "addr:street": "Rathausplatz",
+    "amenity": "police",
+    "name": "Stadtpolizei Stein am Rhein",
+    "operator": "Stadt Stein am Rhein",
+    "phone": "+41 52 742 20 10",
+    "wheelchair": "no",
+    "id": "node/436132162"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8596279,
+      47.6592124
+    ]
+  }
+}
+]
+}

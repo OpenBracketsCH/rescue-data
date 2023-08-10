@@ -1,0 +1,124 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/80080369",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "118",
+    "addr:postcode": "8038",
+    "addr:street": "Kalchbühlstrasse",
+    "alt_name": "Alterszentrum Kalchbühl",
+    "amenity": "social_facility",
+    "capacity": "51",
+    "email": "asz-kalchbuehl@zuerich.ch",
+    "name": "Gesundheitszentrum für das Alter Kalchbühl",
+    "operator": "Stadt Zürich, GUD",
+    "phone": "+41 44 485 51 00",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "website": "https://www.stadt-zuerich.ch/az-kalchbuehl",
+    "id": "node/80080369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5342067,
+      47.3345738
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/473379001",
+  "properties": {
+    "amenity": "social_facility",
+    "denomination": "catholic",
+    "name": "Katholische Hochschulseelsorge",
+    "operator": "Katholische Hochschulgemeinde",
+    "religion": "christian",
+    "social_facility": "outreach",
+    "wheelchair": "limited",
+    "id": "node/473379001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.545423,
+      47.3763749
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/765813879",
+  "properties": {
+    "addr:country": "CH",
+    "addr:housenumber": "58",
+    "addr:postcode": "8001",
+    "addr:street": "Hirschengraben",
+    "amenity": "social_facility",
+    "healthcare": "blood_donation",
+    "name": "SRK Zürich",
+    "id": "node/765813879"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5462749,
+      47.3750816
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/845207315",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "63",
+    "addr:postcode": "8004",
+    "addr:street": "Engelstrasse",
+    "amenity": "social_facility",
+    "contact:email": "info@qah-aussersihl.ch",
+    "contact:phone": "+41 44 298 60 60",
+    "contact:website": "https://www.qah-aussersihl.ch/kontakt/",
+    "name": "Quartieraltersheim Aussersihl",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "node/845207315"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.523788,
+      47.3769007
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/942828086",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "41",
+    "addr:postcode": "8050",
+    "addr:street": "Schwamendingenstrasse",
+    "amenity": "social_facility",
+    "name": "Sozialzentrum Dorflinde",
+    "operator": "Stadt Zürich, Sozialdepartement",
+    "social_facility": "outreach",
+    "wheelchair": "yes",
+    "id": "node/942828086"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5502157,
+      47.4072982
+    ]
+  }
+}
+]
+}

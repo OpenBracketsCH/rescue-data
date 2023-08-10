@@ -1,0 +1,2 @@
+type,features
+FeatureCollection,"{'type': 'Feature', 'id': 'node/531436085', 'properties': {'amenity': 'kindergarten', 'name': 'Binzmühle Kindergaren', 'id': 'node/531436085'}, 'geometry': {'type': 'Point', 'coordinates': [8.4250372, 47.1425325]}}"

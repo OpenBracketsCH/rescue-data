@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/800658573",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Einsiedeln",
+    "operator": "Spital Einsiedeln",
+    "id": "node/800658573"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7395466,
+      47.1312303
+    ]
+  }
+}
+]
+}

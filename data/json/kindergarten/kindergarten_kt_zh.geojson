@@ -1,0 +1,709 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/104302787",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "235",
+    "contact:phone": "+41 44 413 75 47",
+    "contact:postcode": "8003",
+    "contact:street": "Zurlindenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/aemtler_a/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
+    "name": "Kindergarten Fritschi",
+    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Aemtler A",
+    "operator:type": "public",
+    "id": "node/104302787"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5128639,
+      47.3755108
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/283125771",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "61",
+    "contact:phone": "+41 44 413 76 01",
+    "contact:postcode": "8037",
+    "contact:street": "Waidfussweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/waidhalde/ueberuns/standorte/kindergaerten.html#kindergaerten_waidfussweg",
+    "isced:level": "0",
+    "name": "Kindergarten Waidfussweg 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Waidhalde",
+    "operator:type": "public,",
+    "id": "node/283125771"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5174409,
+      47.3978312
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/355531660",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Talacker",
+    "id": "node/355531660"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7166814,
+      47.340098
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/355585947",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "8",
+    "addr:postcode": "8610",
+    "addr:street": "Im Werk",
+    "amenity": "kindergarten",
+    "contact:phone": "+41 44 940 61 53",
+    "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/797",
+    "name": "Kindergarten Im Werk",
+    "id": "node/355585947"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7239017,
+      47.350341
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/360233212",
+  "properties": {
+    "addr:city": "Bonstetten",
+    "addr:housenumber": "83",
+    "addr:postcode": "8906",
+    "addr:street": "Schachenstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Schachenmatten",
+    "id": "node/360233212"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4717581,
+      47.3211705
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/373513145",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "5",
+    "contact:phone": "+41 44 413 07 06",
+    "contact:postcode": "8050",
+    "contact:street": "Margrit-Rainer-Strasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/imbirch/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
+    "name": "Kindergarten im Birch 1-3",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Im Birch",
+    "operator:type": "public",
+    "id": "node/373513145"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5400466,
+      47.4156115
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/381119267",
+  "properties": {
+    "addr:city": "Pfäffikon ZH",
+    "addr:country": "CH",
+    "addr:housenumber": "54",
+    "addr:postcode": "8330",
+    "addr:street": "Obermattstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Obermatt",
+    "id": "node/381119267"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7800768,
+      47.3691617
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/418596179",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "90",
+    "addr:postcode": "8052",
+    "addr:street": "Katzenbachstrasse",
+    "amenity": "kindergarten",
+    "isced:level": "0",
+    "name": "Kindergarten Katzenbach I + II",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
+    "phone": "+41 44 413 78 80",
+    "id": "node/418596179"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5470656,
+      47.4228706
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/419866126",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:postcode": "8050",
+    "amenity": "kindergarten",
+    "name": "Kinderkrippe Schnappi",
+    "id": "node/419866126"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5388817,
+      47.4131857
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/431298146",
+  "properties": {
+    "addr:city": "Wetzikon",
+    "addr:housenumber": "27",
+    "addr:postcode": "8620",
+    "addr:street": "Ettenhauserstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Goldbühl 1+2",
+    "id": "node/431298146"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8045898,
+      47.327158
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/446783265",
+  "properties": {
+    "amenity": "kindergarten",
+    "capacity": "46",
+    "email": "kita5@gfz-zh.ch",
+    "name": "GFZ Kindertagesstätte 5",
+    "phone": "+41 44 271 70 80",
+    "website": "http://www.gfz-zh.ch/kita-5",
+    "id": "node/446783265"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5315296,
+      47.382777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/465614398",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindertagesstätte Regenbogen",
+    "website": "https://www.kita-regenbogen.ch/",
+    "id": "node/465614398"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5231009,
+      47.3870012
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/475366085",
+  "properties": {
+    "amenity": "kindergarten",
+    "id": "node/475366085"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4609384,
+      47.2236108
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/538367534",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "6",
+    "contact:phone": "+41 44 413 74 21",
+    "contact:postcode": "8050",
+    "contact:street": "Nordheimstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kuegeliloo/ueberuns/standorte/kindergaerten.html#nordheim",
+    "name": "Kindergarten Nordheim",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Kügeliloo",
+    "operator:type": "public",
+    "id": "node/538367534"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5327224,
+      47.4044723
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/566547038",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "8",
+    "addr:postcode": "8810",
+    "addr:street": "Teufenbachstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Winkel Wegli",
+    "id": "node/566547038"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6042373,
+      47.2568989
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/614451300",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Krippe Windrädli",
+    "id": "node/614451300"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5331137,
+      47.4122726
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/664759229",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "27",
+    "contact:phone": "+41 44 413 76 50",
+    "contact:postcode": "8047",
+    "contact:street": "Dennlerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/utogrund/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Utogrund 1+2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Utogrund",
+    "operator:type": "public",
+    "id": "node/664759229"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4970905,
+      47.380194
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/673782757",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "15",
+    "addr:postcode": "8406",
+    "addr:street": "Rebwiesenstrasse",
+    "amenity": "kindergarten",
+    "check_date": "2023-07-23",
+    "name": "Betreuung Rebwiesen",
+    "id": "node/673782757"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7060014,
+      47.4946875
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/690668638",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindertagesstätte Käferhaus",
+    "id": "node/690668638"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5168875,
+      47.398651
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/795241899",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "40",
+    "addr:postcode": "8047",
+    "addr:street": "Anemonenstrasse",
+    "amenity": "kindergarten",
+    "email": "james@kk-gummibaerli.ch",
+    "name": "Kinderkrippe Gummibärli",
+    "phone": "+41 43 311 61 03",
+    "website": "http://www.kk-gummibaerli.ch",
+    "id": "node/795241899"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4955561,
+      47.38098
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/810840801",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Betreuung Sennhof",
+    "id": "node/810840801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7583627,
+      47.4663173
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/830620095",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "189",
+    "contact:postcode": "8008",
+    "contact:street": "Seefeldstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/balgrist/ueberuns/standorte/kindergaerten.html",
+    "name": "Kindergarten Tiefenbrunnen",
+    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Balgrist-Kartaus",
+    "operator:type": "public",
+    "wheelchair": "limited",
+    "id": "node/830620095"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5581031,
+      47.3543939
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/885426999",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Morgentisch, Mittag-/Abendhort Albisrieden 2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
+    "id": "node/885426999"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5037755,
+      47.3784215
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/890983670",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "20",
+    "addr:postcode": "8004",
+    "addr:street": "Lutherstrasse",
+    "amenity": "kindergarten",
+    "name": "Kinderhaus Bozza Stauffacher",
+    "operator": "Kinderhaus Bozza",
+    "website": "http://www.kinderhaus-am-stauffacher.ch/",
+    "id": "node/890983670"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5291927,
+      47.3743295
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/914702928",
+  "properties": {
+    "addr:housenumber": "43",
+    "addr:street": "Müllerstrasse",
+    "amenity": "kindergarten",
+    "check_date": "2023-05-05",
+    "name": "Kinderkrippe Schneeflocke",
+    "website": "http://kinderkrippeschneeflocke.ch/",
+    "wheelchair": "yes",
+    "id": "node/914702928"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5296882,
+      47.3750593
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/918336380",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindertagesstätte Wässerwiesen",
+    "operator": "Verein Kindertagesstätte Wässerwiesen",
+    "operator:type": "private",
+    "preschool": "yes",
+    "website": "http://www.waesserwiesen.ch/",
+    "id": "node/918336380"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6865711,
+      47.5099445
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/918336420",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kinderhort Wässerwiesen",
+    "id": "node/918336420"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.686504,
+      47.5097704
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/918336423",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Siedlung Wässerwiesen",
+    "id": "node/918336423"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6863461,
+      47.5093449
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/927293519",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Betreuung Laubegg",
+    "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
+    "id": "node/927293519"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.702089,
+      47.4780551
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/932358108",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "1",
+    "addr:postcode": "8406",
+    "addr:street": "Auwiesenstrasse",
+    "amenity": "kindergarten",
+    "name": "Kinderkrippe Zwerglihuus",
+    "operator": "Kinderkrippe Zwerglihuus",
+    "operator:type": "private",
+    "preschool": "yes",
+    "id": "node/932358108"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7099849,
+      47.4839812
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/954788978",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Betreuung Wülflingerstrasse",
+    "operator": "Schule Gallispitz",
+    "id": "node/954788978"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7173098,
+      47.5058356
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/988066051",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "18",
+    "addr:postcode": "8406",
+    "addr:street": "Schlosstalstrasse",
+    "amenity": "kindergarten",
+    "check_date": "2023-08-02",
+    "name": "Kindergarten Schlosstalstrasse",
+    "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
+    "id": "node/988066051"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7068209,
+      47.4949834
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1069638592",
+  "properties": {
+    "addr:city": "Thalwil",
+    "addr:housenumber": "105",
+    "addr:postcode": "8800",
+    "addr:street": "Tödistrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Tödistrasse",
+    "id": "node/1069638592"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.560747,
+      47.2941725
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1069638625",
+  "properties": {
+    "addr:city": "Thalwil",
+    "addr:housenumber": "14",
+    "addr:postcode": "8800",
+    "addr:street": "Rossistrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Rossi",
+    "id": "node/1069638625"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5570474,
+      47.296989
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1069638663",
+  "properties": {
+    "addr:city": "Thalwil",
+    "addr:housenumber": "37",
+    "addr:postcode": "8800",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Gotthard",
+    "id": "node/1069638663"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5627148,
+      47.296485
+    ]
+  }
+}
+]
+}

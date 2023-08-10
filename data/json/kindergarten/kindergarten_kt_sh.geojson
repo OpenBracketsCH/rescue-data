@@ -1,0 +1,37 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/30985827",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Waldpark",
+    "id": "node/30985827"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6052119,
+      47.6819896
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/704608915",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Fridau",
+    "id": "node/704608915"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8569059,
+      47.6621704
+    ]
+  }
+}
+]
+}

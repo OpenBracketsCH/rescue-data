@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/281385797",
+  "properties": {
+    "aeroway": "helipad",
+    "emergency": "landing_site",
+    "ref": "RICHSP",
+    "website": "https://www.helipad.org/app/default.asp?padId=33",
+    "id": "node/281385797"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6992421,
+      47.2083199
+    ]
+  }
+}
+]
+}

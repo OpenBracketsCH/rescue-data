@@ -1,0 +1,48 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/762056302",
+  "properties": {
+    "addr:housenumber": "4",
+    "addr:street": "Friedhofweg",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Waldheim",
+    "id": "node/762056302"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7606525,
+      47.2049339
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/972518468",
+  "properties": {
+    "addr:city": "Lachen",
+    "addr:housenumber": "12",
+    "addr:postcode": "8853",
+    "addr:street": "Landsgemeindeweg",
+    "amenity": "kindergarten",
+    "isced:level": "0",
+    "name": "Kindergarten Oberdorf",
+    "name:en": "kindergarten upper village",
+    "operator": "Gemeinde Lachen",
+    "operator:type": "public",
+    "website": "https://www.schule-lachen.ch/kindergartengebaeude/384",
+    "id": "node/972518468"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8567974,
+      47.1875553
+    ]
+  }
+}
+]
+}

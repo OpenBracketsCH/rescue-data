@@ -1,0 +1,315 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/298540366",
+  "properties": {
+    "amenity": "fire_station",
+    "name": "Feuerwehr Langnau am Albis",
+    "id": "node/298540366"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5403458,
+      47.2913806
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/304826155",
+  "properties": {
+    "amenity": "fire_station",
+    "name": "Feuerwehr Buchs-Dällikon",
+    "id": "node/304826155"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4403376,
+      47.4599058
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/310859339",
+  "properties": {
+    "addr:city": "Niederhasli",
+    "addr:postcode": "8155",
+    "addr:street": "Industriestrasse",
+    "amenity": "fire_station",
+    "name": "Feuerwehr Niederhasli",
+    "id": "node/310859339"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4911804,
+      47.4793861
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/312747435",
+  "properties": {
+    "amenity": "fire_station",
+    "name": "Feuerwehr Schlieren",
+    "id": "node/312747435"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4483327,
+      47.3941228
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/320133207",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "7",
+    "addr:postcode": "8610",
+    "addr:street": "Dammstrasse",
+    "amenity": "fire_station",
+    "name": "Feuerwehr Uster",
+    "id": "node/320133207"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7152827,
+      47.353565
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/336313251",
+  "properties": {
+    "addr:city": "Maur",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "8124",
+    "addr:street": "Zürichstrasse",
+    "amenity": "fire_station",
+    "name": "Feuerwehr Maur, Hauptdepot",
+    "website": "http://www.feuerwehrmaur.ch/",
+    "id": "node/336313251"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6680814,
+      47.3406221
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/370747057",
+  "properties": {
+    "addr:city": "Otelfingen",
+    "addr:housenumber": "8",
+    "addr:postcode": "8112",
+    "addr:street": "Landstrasse",
+    "amenity": "fire_station",
+    "name": "Feuerwehr Unteres Furttal - Depot Otelfingen",
+    "id": "node/370747057"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3857408,
+      47.4591635
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/370747292",
+  "properties": {
+    "amenity": "fire_station",
+    "id": "node/370747292"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4056757,
+      47.4457316
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/467522058",
+  "properties": {
+    "addr:housenumber": "125",
+    "addr:postcode": "8105",
+    "addr:street": "Riedthofstrasse",
+    "amenity": "fire_station",
+    "name": "Feuerwehr Regensdorf",
+    "opening_hours": "24/7",
+    "phone": "+41 44 843 33 10",
+    "source": "knowledge",
+    "website": "https://lodur-zh.ch/regensdorf/",
+    "id": "node/467522058"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4637431,
+      47.4384544
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/469240394",
+  "properties": {
+    "amenity": "fire_station",
+    "id": "node/469240394"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6928122,
+      47.3040278
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/471957872",
+  "properties": {
+    "addr:city": "Bachenbülach",
+    "addr:postcode": "8184",
+    "addr:street": "Grabenstrasse",
+    "amenity": "fire_station",
+    "name": "Feuerwehr Bachenbülach-Winkel, Depot Bachenbülach",
+    "id": "node/471957872"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.541674,
+      47.503568
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/475516599",
+  "properties": {
+    "amenity": "fire_station",
+    "name": "Löschzug",
+    "id": "node/475516599"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7065996,
+      47.2499601
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/579651429",
+  "properties": {
+    "addr:city": "Fehraltorf",
+    "addr:postcode": "8320",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "fire_station",
+    "name": "Feuerwehr Fehraltorf",
+    "id": "node/579651429"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.753809,
+      47.3898315
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/664420085",
+  "properties": {
+    "addr:city": "Wetzikon",
+    "addr:housenumber": "5",
+    "addr:postcode": "8620",
+    "addr:street": "Farbstrasse",
+    "amenity": "fire_station",
+    "name": "Feuerwehr Wetzikon-Seegräben",
+    "operator": "Feuerwehr Wetzikon-Seegräben",
+    "website": "https://www.feuerwehr.ws/",
+    "id": "node/664420085"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7959822,
+      47.3260832
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/703218511",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "48",
+    "addr:postcode": "8006",
+    "addr:street": "Stapferstrasse",
+    "amenity": "fire_station",
+    "name": "Milizfeuerwehr Kompanie Ost",
+    "operator": "Schutz und Rettung Zürich",
+    "id": "node/703218511"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5459714,
+      47.3847595
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/878387643",
+  "properties": {
+    "amenity": "fire_station",
+    "id": "node/878387643"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.602838,
+      47.3432709
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/972117098",
+  "properties": {
+    "amenity": "fire_station",
+    "name": "Feuerwehr Thurtal-Süd, Depot Rickenbach",
+    "id": "node/972117098"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7926479,
+      47.5508779
+    ]
+  }
+}
+]
+}

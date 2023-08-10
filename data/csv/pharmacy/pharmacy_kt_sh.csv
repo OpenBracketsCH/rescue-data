@@ -1,0 +1,2 @@
+type,features
+FeatureCollection,"{'type': 'Feature', 'id': 'node/441986102', 'properties': {'addr:city': 'Stein am Rhein', 'addr:housenumber': '8', 'addr:postcode': '8260', 'addr:street': 'Rathausplatz', 'amenity': 'pharmacy', 'dispensing': 'yes', 'name': 'Zum Mohrenkönig', 'phone': '+41 52 741 21 33', 'wheelchair': 'no', 'id': 'node/441986102'}, 'geometry': {'type': 'Point', 'coordinates': [8.859328099999999, 47.6596296]}}"

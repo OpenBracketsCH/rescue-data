@@ -1,0 +1,454 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/256335788",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@hausderfarbe.ch",
+    "contact:housenumber": "34",
+    "contact:phone": "+41 43 960 23 75",
+    "contact:postcode": "8050",
+    "contact:street": "Langwiesstrasse",
+    "contact:website": "https://hausderfarbe.ch/de/kontakt/",
+    "isced:level": "4",
+    "name": "Haus der Farbe",
+    "operator": "Haus der Farbe Fachschule und Institut für Gestaltung in Handwerk und Architektur",
+    "operator:type": "private",
+    "id": "node/256335788"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5337577,
+      47.4115721
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/266914530",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "110",
+    "addr:postcode": "8810",
+    "addr:street": "Seestrasse",
+    "amenity": "school",
+    "name": "Bildungszentrum Zürichsee, Horgen",
+    "short_name": "BZZ Horgen",
+    "wheelchair": "limited",
+    "id": "node/266914530"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5940647,
+      47.2614737
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/295104978",
+  "properties": {
+    "amenity": "school",
+    "name": "Oberstufenschule Stadel",
+    "id": "node/295104978"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4677825,
+      47.5354064
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/305720635",
+  "properties": {
+    "amenity": "school",
+    "name": "Kindergarten",
+    "id": "node/305720635"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6281061,
+      47.4432794
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/325043656",
+  "properties": {
+    "amenity": "school",
+    "name": "Kindergarten Spitz",
+    "id": "node/325043656"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4877497,
+      47.4812197
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/355528318",
+  "properties": {
+    "amenity": "school",
+    "name": "Schloss-Schule Uster",
+    "id": "node/355528318"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7178231,
+      47.3454022
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/355528319",
+  "properties": {
+    "amenity": "school",
+    "isced:level": "2",
+    "name": "Heilpädagogische Schule (HPS)",
+    "social_facility": "ambulatory_care",
+    "social_facility:for": "juvenile",
+    "id": "node/355528319"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7224208,
+      47.3546819
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/424283918",
+  "properties": {
+    "amenity": "school",
+    "name": "Schulhaus Samstagern",
+    "id": "node/424283918"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6769729,
+      47.1932478
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/435493497",
+  "properties": {
+    "amenity": "school",
+    "name": "Schulhaus Sonnenberg",
+    "id": "node/435493497"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5212279,
+      47.3103775
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/435493528",
+  "properties": {
+    "amenity": "school",
+    "name": "Schulhaus Hofern",
+    "id": "node/435493528"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.519244,
+      47.3104265
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/435503689",
+  "properties": {
+    "amenity": "school",
+    "name": "Schule Kopfholz",
+    "id": "node/435503689"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5331582,
+      47.3080849
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/439980333",
+  "properties": {
+    "amenity": "school",
+    "grades": "7-9",
+    "name": "Sekundarschule Freienstein",
+    "operator": "Schulgemeinde Rorbas-Freienstein-Teufen",
+    "operator:type": "public",
+    "website": "https://www.schule-rft.ch/",
+    "id": "node/439980333"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.583528,
+      47.530454
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/469930570",
+  "properties": {
+    "amenity": "school",
+    "name": "Schulhaus Bertschikon",
+    "id": "node/469930570"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7606137,
+      47.3229513
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/471042067",
+  "properties": {
+    "amenity": "school",
+    "name": "Bätzibuck",
+    "id": "node/471042067"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6857268,
+      47.4317078
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/475366093",
+  "properties": {
+    "addr:housenumber": "16",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "school",
+    "name": "Knonau",
+    "id": "node/475366093"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4632203,
+      47.2201541
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/479888130",
+  "properties": {
+    "amenity": "school",
+    "name": "Schulhaus Städtli",
+    "wheelchair": "limited",
+    "id": "node/479888130"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5268996,
+      47.5757578
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/481443835",
+  "properties": {
+    "amenity": "school",
+    "description": "Kinder-Reiten in Albisrieden",
+    "name": "Kinderreitschule",
+    "website": "https://www.kinderreitschule.ch/",
+    "id": "node/481443835"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4807934,
+      47.3734318
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/500317275",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "37",
+    "addr:postcode": "8032",
+    "addr:street": "Plattenstrasse",
+    "amenity": "school",
+    "name": "Rudolf Steiner Schule Zürich",
+    "private": "yes",
+    "wheelchair": "no",
+    "id": "node/500317275"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5545976,
+      47.3729648
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/630409820",
+  "properties": {
+    "amenity": "school",
+    "name": "Hofacker",
+    "id": "node/630409820"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4445883,
+      47.3946224
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/661014947",
+  "properties": {
+    "amenity": "school",
+    "name": "Sprachschule Ellada",
+    "website": "http://www.zafon.ch",
+    "id": "node/661014947"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7049117,
+      47.4928812
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/667115563",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "350",
+    "addr:postcode": "8050",
+    "addr:street": "Hofwiesenstrasse",
+    "alt_name": "Klubschule Migros Oerlikon",
+    "amenity": "school",
+    "name": "Klubschule Migros",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-11:30",
+    "operator": "Migros-Kulturprozent",
+    "website": "http://www.klubschule.ch/Standorte/Zuerich/Zuerich/Zuerich-Oerlikon",
+    "id": "node/667115563"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5426205,
+      47.4104775
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/915622189",
+  "properties": {
+    "amenity": "school",
+    "name": "Schule Langwiesen",
+    "id": "node/915622189"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.661784,
+      47.6843961
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/916616252",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "sekretariat@fes.ch",
+    "contact:housenumber": "9",
+    "contact:phone": "+41 43 268 84 84",
+    "contact:postcode": "8001",
+    "contact:street": "Waldmannstrasse",
+    "contact:website": "https://www.fes.ch/",
+    "description": "Primarschule und Sekundarschule",
+    "isced:level": "1;2",
+    "name": "Freie Evangelische Schule Zürich",
+    "operator": "Stiftung Freie Evangelische Schule",
+    "operator:type": "private",
+    "wikidata": "Q28000684",
+    "id": "node/916616252"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5462762,
+      47.3686105
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/984534491",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "52",
+    "addr:postcode": "8057",
+    "addr:street": "Stüssistrasse",
+    "amenity": "school",
+    "description": "Sekundarschule",
+    "name": "Lernstudio Stüssistrasse",
+    "office": "educational_institution",
+    "operator": "Lernstudio Zürich",
+    "private": "yes",
+    "website": "https://www.lernstudio.ch/",
+    "id": "node/984534491"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5407932,
+      47.3925962
+    ]
+  }
+}
+]
+}

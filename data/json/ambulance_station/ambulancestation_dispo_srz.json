@@ -1,0 +1,839 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/27594555",
+  "properties": {
+    "addr:housenumber": "24B",
+    "addr:street": "Spitalstrasse",
+    "building": "hospital",
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Bülach",
+    "operator": "Spital Bülach",
+    "id": "way/27594555"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5342302,
+          47.5218121
+        ],
+        [
+          8.5341948,
+          47.5217091
+        ],
+        [
+          8.5345791,
+          47.5216488
+        ],
+        [
+          8.5346145,
+          47.5217518
+        ],
+        [
+          8.5342302,
+          47.5218121
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/124238373",
+  "properties": {
+    "addr:housenumber": "299",
+    "addr:street": "Ueberlandstrasse",
+    "alt_name": "Rega Basis Zürich",
+    "building": "hangar",
+    "emergency": "ambulance_station",
+    "name": "Luftrettungszentrum Rega 1",
+    "operator": "Rega",
+    "ref": "Rega1",
+    "id": "way/124238373"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6378034,
+          47.3961791
+        ],
+        [
+          8.637766,
+          47.395945
+        ],
+        [
+          8.6374256,
+          47.39597
+        ],
+        [
+          8.6374178,
+          47.395921
+        ],
+        [
+          8.6377496,
+          47.3958967
+        ],
+        [
+          8.6380394,
+          47.3958754
+        ],
+        [
+          8.6380847,
+          47.3961585
+        ],
+        [
+          8.6378034,
+          47.3961791
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/189298288",
+  "properties": {
+    "building": "yes",
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Uster",
+    "operator": "Spital Uster",
+    "id": "way/189298288"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.725755,
+          47.3527521
+        ],
+        [
+          8.7256221,
+          47.3528582
+        ],
+        [
+          8.725598,
+          47.3528444
+        ],
+        [
+          8.7254658,
+          47.3529498
+        ],
+        [
+          8.7252157,
+          47.3528059
+        ],
+        [
+          8.7253514,
+          47.3526977
+        ],
+        [
+          8.7254878,
+          47.3527762
+        ],
+        [
+          8.7256173,
+          47.3526729
+        ],
+        [
+          8.725755,
+          47.3527521
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/199578656",
+  "properties": {
+    "building:part": "yes",
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Schaffhausen",
+    "operator": "Kantonsspital Schaffhausen",
+    "id": "way/199578656"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6344318,
+          47.7122211
+        ],
+        [
+          8.6344467,
+          47.7121675
+        ],
+        [
+          8.6344509,
+          47.712168
+        ],
+        [
+          8.6344727,
+          47.7120893
+        ],
+        [
+          8.6347591,
+          47.7121252
+        ],
+        [
+          8.6347406,
+          47.7121917
+        ],
+        [
+          8.6347223,
+          47.7122576
+        ],
+        [
+          8.6344318,
+          47.7122211
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/233903417",
+  "properties": {
+    "addr:housenumber": "20",
+    "addr:postcode": "8400",
+    "addr:street": "Brauerstrasse",
+    "building": "house",
+    "building:levels": "1",
+    "building:roof": "flat",
+    "emergency": "ambulance_station",
+    "name": "Rettungswache Winterthur",
+    "operator": "Kantonsspital Winterthur",
+    "roof:shape": "flat",
+    "id": "way/233903417"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.729793,
+          47.5073936
+        ],
+        [
+          8.7301934,
+          47.5072622
+        ],
+        [
+          8.7303254,
+          47.5074458
+        ],
+        [
+          8.7302214,
+          47.5074799
+        ],
+        [
+          8.7301476,
+          47.5075042
+        ],
+        [
+          8.7300961,
+          47.5074326
+        ],
+        [
+          8.730039,
+          47.5074513
+        ],
+        [
+          8.7300906,
+          47.5075229
+        ],
+        [
+          8.730038,
+          47.5075402
+        ],
+        [
+          8.7299248,
+          47.5075774
+        ],
+        [
+          8.7298874,
+          47.5075254
+        ],
+        [
+          8.729873,
+          47.5075053
+        ],
+        [
+          8.7299002,
+          47.5074964
+        ],
+        [
+          8.7298656,
+          47.5074484
+        ],
+        [
+          8.7298387,
+          47.5074572
+        ],
+        [
+          8.729793,
+          47.5073936
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/251502068",
+  "properties": {
+    "building": "yes",
+    "emergency": "ambulance_station",
+    "name": "Schutz & Rettung Zürich - Wache Affoltern am Albis",
+    "operator": "Schutz & Rettung Zürich",
+    "id": "way/251502068"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4562136,
+          47.2854169
+        ],
+        [
+          8.456234,
+          47.2853415
+        ],
+        [
+          8.4561927,
+          47.2853364
+        ],
+        [
+          8.4562212,
+          47.2852308
+        ],
+        [
+          8.4563253,
+          47.2852438
+        ],
+        [
+          8.4562959,
+          47.2853527
+        ],
+        [
+          8.4563367,
+          47.2853578
+        ],
+        [
+          8.4563173,
+          47.2854298
+        ],
+        [
+          8.4562136,
+          47.2854169
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/318817393",
+  "properties": {
+    "building": "yes",
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Lachen",
+    "operator": "Spital Lachen",
+    "id": "way/318817393"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8605273,
+          47.1896832
+        ],
+        [
+          8.8604306,
+          47.1895462
+        ],
+        [
+          8.8605589,
+          47.1895043
+        ],
+        [
+          8.8606556,
+          47.1896413
+        ],
+        [
+          8.8605273,
+          47.1896832
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/357486503",
+  "properties": {
+    "addr:city": "Rüti (ZH)",
+    "addr:housenumber": "35",
+    "addr:postcode": "8630",
+    "addr:street": "Spitalstrasse",
+    "building": "yes",
+    "description": "Rettungsdienst Zürichsee – Oberland – Linth",
+    "email": "info@regio144.ch",
+    "emergency": "ambulance_station",
+    "fax": "+41 55 220 41 42",
+    "name": "Regio 144 Rettung",
+    "operator": "REGIO 144 AG",
+    "phone": "+41 55 220 41 41",
+    "id": "way/357486503"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8429422,
+          47.2594714
+        ],
+        [
+          8.8431143,
+          47.2595116
+        ],
+        [
+          8.8430933,
+          47.2595535
+        ],
+        [
+          8.8433957,
+          47.2596253
+        ],
+        [
+          8.8433565,
+          47.2597014
+        ],
+        [
+          8.8428069,
+          47.2597413
+        ],
+        [
+          8.8429422,
+          47.2594714
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/843565567",
+  "properties": {
+    "addr:city": "Lachen SZ",
+    "addr:housenumber": "41",
+    "addr:postcode": "8853",
+    "addr:street": "Oberdorfstrasse",
+    "building": "yes",
+    "emergency": "ambulance_station",
+    "emergency:phone": "144",
+    "name": "Rettungsdienst Spital Lachen",
+    "operator": "Spital Lachen",
+    "website": "https://rettungsdienst-lachen.ch/",
+    "id": "way/843565567"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.859823,
+          47.1897466
+        ],
+        [
+          8.8597823,
+          47.1896979
+        ],
+        [
+          8.86003,
+          47.1896167
+        ],
+        [
+          8.8600398,
+          47.1896359
+        ],
+        [
+          8.8602804,
+          47.1895572
+        ],
+        [
+          8.8604025,
+          47.1897111
+        ],
+        [
+          8.8601344,
+          47.1898049
+        ],
+        [
+          8.859823,
+          47.1897466
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/862861748",
+  "properties": {
+    "addr:city": "Schlieren",
+    "addr:housenumber": "100",
+    "addr:postcode": "8952",
+    "addr:street": "Urdorferstrasse",
+    "building": "yes",
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Limmattal",
+    "operator": "Spital Limmattal",
+    "id": "way/862861748"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4286113,
+          47.3938039
+        ],
+        [
+          8.4289606,
+          47.3938996
+        ],
+        [
+          8.4288583,
+          47.3940706
+        ],
+        [
+          8.428509,
+          47.393975
+        ],
+        [
+          8.4286113,
+          47.3938039
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/800658573",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Einsiedeln",
+    "operator": "Spital Einsiedeln",
+    "id": "node/800658573"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7395466,
+      47.1312303
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4592367996",
+  "properties": {
+    "addr:city": "Meilen",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "8706",
+    "addr:street": "Bruechstrasse",
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Spital Männedorf AG",
+    "id": "node/4592367996"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6428432,
+      47.2715586
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6209722205",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst See-Spital",
+    "operator": "See-Spital Horgen",
+    "id": "node/6209722205"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.591203,
+      47.2625627
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6578370440",
+  "properties": {
+    "addr:city": "Zug",
+    "addr:housenumber": "6",
+    "addr:postcode": "6300",
+    "addr:street": "An der Aa",
+    "emergency": "ambulance_station",
+    "government": "healthcare",
+    "name": "Rettungsdienst Zug (RDZ)",
+    "office": "government",
+    "opening_hours": "Mo-Fr 08:00-11:30, 13:15-17:15",
+    "operator": "Kanton Zug",
+    "phone": "+41 41 728 46 60",
+    "website": "http://www.zg.ch/rdz/",
+    "id": "node/6578370440"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5093537,
+      47.1734783
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7274104579",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "40",
+    "addr:postcode": "8006",
+    "addr:street": "Neumühlequai",
+    "emergency": "ambulance_station",
+    "emergency:phone": "144",
+    "name": "Schutz & Rettung Zürich - Hauptwache Neumühlequai",
+    "operator": "Schutz & Rettung Zürich",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
+    "id": "node/7274104579"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5407314,
+      47.3818766
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7463260938",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Schwyz",
+    "operator": "Rettungsdienst Schwyz",
+    "id": "node/7463260938"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.636422,
+      47.0246694
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7465975604",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Uster - Wache Dübendorf",
+    "operator": "Rettungsdienst Spital Uster",
+    "id": "node/7465975604"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6220534,
+      47.3973465
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7465975605",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "125",
+    "addr:postcode": "8105",
+    "addr:street": "Riedthofstrasse",
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Limmattal - Wache Regensdorf",
+    "operator": "Rettungsdienst Limmattal",
+    "source": "local knowledge",
+    "id": "node/7465975605"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4635453,
+      47.4386107
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7465975607",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Winterthur - Wache Kemptthal",
+    "operator": "Rettungsdienst Winterthur",
+    "id": "node/7465975607"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7050718,
+      47.4527222
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7465975608",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Männedorf - Wache Oetwil am See",
+    "operator": "Rettungsdienst Spital Uster",
+    "id": "node/7465975608"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7237065,
+      47.2734448
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7674000208",
+  "properties": {
+    "addr:city": "Kloten",
+    "addr:housenumber": "56",
+    "addr:postcode": "8302",
+    "addr:street": "Dorfstrasse",
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Bülach - Wache Kloten",
+    "operator": "Spital Bülach - Rettungsdienst",
+    "id": "node/7674000208"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.588467,
+      47.4517901
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8227050913",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Horgen - Wache Kilchberg",
+    "operator": "Rettungsdienst Horgen",
+    "id": "node/8227050913"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5355905,
+      47.3208167
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8227050914",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Schutz & Rettung Zürich - Wache Neunbrunnen",
+    "operator": "Schutz & Rettung Zürich",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
+    "id": "node/8227050914"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5374051,
+      47.4172237
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8227050915",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Schutz & Rettung Zürich - Wache Flughafen",
+    "operator": "Schutz & Rettung Zürich",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
+    "id": "node/8227050915"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5526642,
+      47.4454122
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8227050916",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Schutz & Rettung Zürich - Wache Zollikerberg",
+    "operator": "Schutz & Rettung Zürich",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
+    "id": "node/8227050916"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5993202,
+      47.3499927
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8227059017",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Schutz & Rettung Zürich - Wache Triemli",
+    "operator": "Schutz & Rettung Zürich",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
+    "id": "node/8227059017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4970815,
+      47.3677057
+    ]
+  }
+}
+]
+}
