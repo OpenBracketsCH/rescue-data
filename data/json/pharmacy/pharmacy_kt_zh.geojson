@@ -3,6 +3,350 @@
 "features": [
 {
   "type": "Feature",
+  "id": "way/45897846",
+  "properties": {
+    "addr:housenumber": "125",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "pharmacy",
+    "building": "apartments",
+    "building:levels": "2",
+    "name": "Rex Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
+    "website": "http://www.rexapotheke.ch/",
+    "wheelchair": "yes",
+    "id": "way/45897846"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.58058,
+          47.4509773
+        ],
+        [
+          8.5806491,
+          47.450878
+        ],
+        [
+          8.5809099,
+          47.4509512
+        ],
+        [
+          8.5809127,
+          47.4509487
+        ],
+        [
+          8.5810334,
+          47.4509859
+        ],
+        [
+          8.5810055,
+          47.4510256
+        ],
+        [
+          8.5810105,
+          47.4510272
+        ],
+        [
+          8.5809345,
+          47.4511351
+        ],
+        [
+          8.5807739,
+          47.4510838
+        ],
+        [
+          8.5807949,
+          47.4510521
+        ],
+        [
+          8.58058,
+          47.4509773
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/64387385",
+  "properties": {
+    "addr:city": "Zollikon",
+    "addr:country": "CH",
+    "addr:housenumber": "22",
+    "addr:postcode": "8702",
+    "addr:street": "Bergstrasse",
+    "amenity": "pharmacy",
+    "brand": "Fortis",
+    "building": "yes",
+    "name": "Apotheke Zollikon",
+    "opening_hours": "Mo-Fr 08:00-12:30, 13:30-18:30, Sa 08:00-16:00",
+    "website": "https://www.apotheke-zollikon.ch/",
+    "id": "way/64387385"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5775361,
+          47.340917
+        ],
+        [
+          8.5776361,
+          47.3409349
+        ],
+        [
+          8.5775846,
+          47.3410668
+        ],
+        [
+          8.5774846,
+          47.3410488
+        ],
+        [
+          8.5775361,
+          47.340917
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/245897689",
+  "properties": {
+    "addr:city": "Rüti (ZH)",
+    "addr:housenumber": "59",
+    "addr:postcode": "8630",
+    "addr:street": "Dorfstrasse",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "name": "Apotheke Altorfer",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00",
+    "source": "bing",
+    "website": "https://www.apotheke-altorfer.ch/",
+    "id": "way/245897689"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8546034,
+          47.2600983
+        ],
+        [
+          8.8546023,
+          47.2600661
+        ],
+        [
+          8.854598,
+          47.2599454
+        ],
+        [
+          8.854877,
+          47.2599381
+        ],
+        [
+          8.8548931,
+          47.2599763
+        ],
+        [
+          8.8546034,
+          47.2600983
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/251638359",
+  "properties": {
+    "addr:city": "Bauma",
+    "addr:housenumber": "42",
+    "addr:postcode": "8494",
+    "addr:street": "Dorfstrasse",
+    "amenity": "pharmacy",
+    "building": "house",
+    "building:roof": "tile",
+    "name": "Tösstal-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-15:00",
+    "shop": "chemist",
+    "id": "way/251638359"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8791788,
+          47.3671991
+        ],
+        [
+          8.8791867,
+          47.3670888
+        ],
+        [
+          8.87925,
+          47.3670909
+        ],
+        [
+          8.8792576,
+          47.3669852
+        ],
+        [
+          8.8794069,
+          47.3669901
+        ],
+        [
+          8.8794023,
+          47.3670536
+        ],
+        [
+          8.8794589,
+          47.3670554
+        ],
+        [
+          8.8794559,
+          47.3670977
+        ],
+        [
+          8.8794725,
+          47.3670982
+        ],
+        [
+          8.8794646,
+          47.3672085
+        ],
+        [
+          8.8791788,
+          47.3671991
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/257517553",
+  "properties": {
+    "addr:city": "Elgg",
+    "addr:housenumber": "6",
+    "addr:postcode": "8353",
+    "addr:street": "Poststrasse",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "healthcare": "pharmacy",
+    "name": "swidro drogerie bisang",
+    "opening_hours": "Mo-Fr 08:00-12:15,14:00-18:30, Sa 08:00-15:00",
+    "id": "way/257517553"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8662277,
+          47.4906505
+        ],
+        [
+          8.8662177,
+          47.4905112
+        ],
+        [
+          8.8663943,
+          47.4905053
+        ],
+        [
+          8.866404,
+          47.490645
+        ],
+        [
+          8.8662277,
+          47.4906505
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380090575",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "5",
+    "addr:postcode": "8400",
+    "addr:street": "Bahnhofplatz",
+    "amenity": "pharmacy",
+    "brand": "Achillea Apotheke",
+    "check_date:opening_hours": "2023-07-26",
+    "contact:email": "a27@achillea.ch",
+    "contact:fax": "+41 52 269 12 05",
+    "contact:phone": "+41 52 269 12 00",
+    "contact:website": "http://www.achillea.ch/de-ch/geschaeftsstellen/region-zuerich/bahnhof-apotheke-drogerie-parfuemerie.aspx",
+    "indoor": "yes",
+    "level": "-1",
+    "name": "Bahnhof Apotheke Winterthur",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "Dr. Bähler Dropa",
+    "shop": "chemist",
+    "website": "https://achillea.ch/standorte/bahnhof-apotheke-winterthur",
+    "wheelchair": "yes",
+    "id": "way/380090575"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7233685,
+          47.4993191
+        ],
+        [
+          8.7234007,
+          47.4993084
+        ],
+        [
+          8.7234577,
+          47.4993073
+        ],
+        [
+          8.7234755,
+          47.4993293
+        ],
+        [
+          8.7235408,
+          47.4994184
+        ],
+        [
+          8.7234462,
+          47.4994516
+        ],
+        [
+          8.7233988,
+          47.4993908
+        ],
+        [
+          8.7234207,
+          47.499383
+        ],
+        [
+          8.7233685,
+          47.4993191
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/75757805",
   "properties": {
     "addr:city": "Stäfa",
@@ -2504,6 +2848,4095 @@
     "coordinates": [
       8.5384614,
       47.373314
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1289140864",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "124",
+    "addr:postcode": "8404",
+    "addr:street": "Frauenfelderstrasse",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Apotheke am Stadtrain",
+    "opening_hours": "Mo-Fr 08:00-12:15,14:00-18:30; Sa 08:00-16:00",
+    "id": "node/1289140864"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7485643,
+      47.5021831
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1305672713",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8003",
+    "addr:street": "Albisriederplatz",
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2023-04-26",
+    "healthcare": "pharmacy",
+    "name": "Nature First Apotheke",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00",
+    "website": "https://www.naturefirst.ch/",
+    "wheelchair": "yes",
+    "id": "node/1305672713"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5098694,
+      47.3780503
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1328945978",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "40",
+    "addr:postcode": "8405",
+    "addr:street": "Hinterdorfstrasse",
+    "amenity": "pharmacy",
+    "branch": "Winterthur Seen",
+    "brand": "Amavita",
+    "brand:wikidata": "Q93733901",
+    "brand:wikipedia": "de:Amavita",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Amavita",
+    "opening_hours": "Mo-We 08:30-19:00; Th-Fr 08:30-20:00; Sa 08:00-18:00",
+    "operator": "GaleniCare",
+    "phone": "+41 52 232 13 13",
+    "website": "https://www.amavita.ch/de/amavita-apotheke-seen",
+    "id": "node/1328945978"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7623345,
+      47.4854195
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1346131970",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8032",
+    "addr:street": "Kreuzplatz",
+    "amenity": "pharmacy",
+    "brand": "Rotpunkt Apotheke",
+    "check_date:opening_hours": "2022-10-17",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Apotheke am Kreuzplatz",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:30-17:00",
+    "operator": "Rotpunkt Pharma",
+    "website": "http://www.haut-und-ernaehrung.ch/apotheke-am-kreuzplatz/",
+    "wheelchair": "yes",
+    "id": "node/1346131970"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5537692,
+      47.3650881
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1346131983",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "8008",
+    "addr:street": "Forchstrasse",
+    "amenity": "pharmacy",
+    "branch": "Zürich Neumünster",
+    "brand": "Pill Apotheke",
+    "healthcare": "pharmacy",
+    "name": "Pill Apotheke Neumünster",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:30-17:00",
+    "operator": "Pill Group",
+    "website": "https://www.pill.ch/standorte/pill-apotheke-neumuenster.html",
+    "wheelchair": "yes",
+    "id": "node/1346131983"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5549292,
+      47.3643816
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1359733090",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "102",
+    "addr:postcode": "8032",
+    "addr:street": "Hegibachstrasse",
+    "amenity": "pharmacy",
+    "brand": "Rotpunkt Apotheke",
+    "name": "Klus-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
+    "operator": "Rotpunkt Pharma",
+    "website": "http://www.klus-apotheke.ch/",
+    "id": "node/1359733090"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5666306,
+      47.3645751
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1360237968",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8045",
+    "addr:street": "Malzstrasse",
+    "amenity": "pharmacy",
+    "branch": "Zürich Wiedikon",
+    "brand": "TopPharm",
+    "brand:wikidata": "Q110277794",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "TopPharm",
+    "old_name": "Manesse-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-18:30",
+    "operator": "TopPharm Genossenschaft",
+    "website": "https://www.apotheke.ch/manesse",
+    "id": "node/1360237968"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5213755,
+      47.3654807
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1377449055",
+  "properties": {
+    "addr:city": "Wetzikon",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "8620",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "pharmacy",
+    "brand": "Achillea Apotheke",
+    "healthcare": "pharmacy",
+    "name": "Bahnhof Apotheke Wetzikon",
+    "operator": "Dr. Bähler Dropa",
+    "phone": "+41 44 932 13 30",
+    "website": "https://achillea.ch/standorte/bahnhof-apotheke-wetzikon",
+    "wheelchair": "yes",
+    "id": "node/1377449055"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7928633,
+      47.3196239
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1377451782",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "58",
+    "addr:postcode": "8032",
+    "addr:street": "Asylstrasse",
+    "alt_name": "BENU Apotheke Carmen",
+    "amenity": "pharmacy",
+    "branch": "Zürich Römerhof",
+    "brand": "BENU",
+    "brand:wikidata": "Q62562792",
+    "name": "BENU Apotheke",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-16:00",
+    "operator": "BENU Pharmacies",
+    "website": "https://www.benu.ch/de/pharmacies/carmen/",
+    "id": "node/1377451782"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5599727,
+      47.3680176
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1390807245",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8057",
+    "addr:street": "Seminarstrasse",
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2021-05-25",
+    "contact:email": "info@apothekeschaffhauserplatz.ch",
+    "contact:fax": "+41 44 361 39 13",
+    "contact:phone": "+41 44 361 61 61",
+    "contact:website": "https://www.apothekeschaffhauserplatz.ch/",
+    "healthcare": "pharmacy",
+    "name": "Apotheke Schaffhauserplatz",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00; PH off",
+    "website": "https://www.apothekeschaffhauserplatz.ch/",
+    "wheelchair": "yes",
+    "id": "node/1390807245"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5383642,
+      47.3916892
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1391382161",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "124",
+    "addr:postcode": "8057",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "pharmacy",
+    "name": "Hirsch-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-12:30",
+    "website": "https://www.hirschapotheke.ch/",
+    "wheelchair": "yes",
+    "id": "node/1391382161"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5408536,
+      47.3963465
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1391383876",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "192",
+    "addr:postcode": "8057",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "pharmacy",
+    "brand": "Fortis",
+    "name": "Hirschwiesen-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-12:15,13:45-18:30, Sa 08:00-12:00",
+    "website": "https://www.hirschwiesenapotheke.ch/",
+    "id": "node/1391383876"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5439647,
+      47.4003419
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1413703407",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "150",
+    "addr:postcode": "8004",
+    "addr:street": "Sihlfeldstrasse",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Fontana Apotheke",
+    "old_name": "Apotheke am Bullingerplatz",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-16:00",
+    "website": "http://www.fontanaapotheke.ch/",
+    "wheelchair": "yes",
+    "id": "node/1413703407"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5160928,
+      47.3799333
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1504082568",
+  "properties": {
+    "addr:street": "Breitestrasse",
+    "amenity": "pharmacy",
+    "name": "Apotheke Seuzach",
+    "website": "http://www.apotheke-seuzach.ch",
+    "id": "node/1504082568"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.731219,
+      47.535424
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1516368539",
+  "properties": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Mistel-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-12:00,14:00-18:30; Sa 08:00-16:00",
+    "wheelchair": "yes",
+    "id": "node/1516368539"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7673724,
+      47.2518246
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1545780608",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "230",
+    "addr:postcode": "8004",
+    "addr:street": "Badenerstrasse",
+    "amenity": "pharmacy",
+    "brand": "Rotpunkt Apotheke",
+    "check_date:opening_hours": "2023-08-02",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Lochergut Apotheke",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-18:00",
+    "operator": "Rotpunkt Pharma",
+    "website": "http://www.lochergutapotheke.ch/",
+    "wheelchair": "yes",
+    "id": "node/1545780608"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5175375,
+      47.3756577
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1577376715",
+  "properties": {
+    "addr:city": "Affoltern am Albis",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "8910",
+    "addr:street": "Centralweg",
+    "alt_name": "Topwell Apotheke Pfister",
+    "amenity": "pharmacy",
+    "branch": "Affoltern am Albis",
+    "brand": "Medbase",
+    "brand:wikidata": "Q50038690",
+    "email": "pfister.affoltern@topwell.ch",
+    "healthcare": "pharmacy",
+    "name": "Medbase Apotheke Affoltern a.A.",
+    "opening_hours": "Mo-Fr 08:00-19:00, Sa 08:00-17:00",
+    "operator": "Medbase Apotheken",
+    "phone": "+41 44 761 63 24",
+    "website": "https://www.topwell.ch/medbaseapothekeaffolternaa/",
+    "wheelchair": "yes",
+    "id": "node/1577376715"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.452964,
+      47.2783643
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1581271937",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "35",
+    "addr:postcode": "8400",
+    "addr:street": "Unterer Graben",
+    "amenity": "pharmacy",
+    "brand": "Achillea Apotheke",
+    "name": "Rathaus Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
+    "operator": "Dr. Bähler Dropa",
+    "website": "https://achillea.ch/standorte/rathaus-apotheke",
+    "wheelchair": "yes",
+    "id": "node/1581271937"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7308307,
+      47.4999809
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1584012924",
+  "properties": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "APODRO Drogerie",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
+    "id": "node/1584012924"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8497374,
+      47.25774
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1598834330",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "299",
+    "addr:place": "Zentrum Witikon",
+    "addr:postcode": "8053",
+    "addr:street": "Witikonerstrasse",
+    "alt_name": "BENU Apotheke Witikon",
+    "amenity": "pharmacy",
+    "branch": "Zürich Witikon",
+    "brand": "BENU",
+    "brand:wikidata": "Q62562792",
+    "name": "BENU Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30; We 09:00-18:30; Sa 08:00-17:00",
+    "operator": "BENU Pharmacies",
+    "website": "https://www.benu.ch/de/pharmacies/gesundheits-forum-witikon/",
+    "id": "node/1598834330"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5862204,
+      47.358678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1625431883",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "18",
+    "addr:postcode": "8049",
+    "addr:street": "Regensdorferstrasse",
+    "alt_name": "Apotheke Im Brühl",
+    "amenity": "pharmacy",
+    "brand": "Rotpunkt Apotheke",
+    "check_date:opening_hours": "2022-01-30",
+    "name": "Zürigsund Im Brühl",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
+    "operator": "Rotpunkt Pharma",
+    "website": "https://www.zuerigsund.ch/",
+    "id": "node/1625431883"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4976988,
+      47.403473
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1625431886",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "242",
+    "addr:postcode": "8049",
+    "addr:street": "Limmattalstrasse",
+    "amenity": "pharmacy",
+    "brand": "Rotpunkt Apotheke",
+    "email": "info@limmat-apotheke.ch",
+    "healthcare": "pharmacy",
+    "name": "Limmat-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
+    "operator": "Rotpunkt Pharma",
+    "phone": "+41 44 341 76 46",
+    "website": "http://www.limmat-apotheke.ch/",
+    "wheelchair": "yes",
+    "id": "node/1625431886"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4932544,
+      47.4025802
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1633856466",
+  "properties": {
+    "addr:city": "Niederglatt",
+    "addr:housenumber": "8",
+    "addr:postcode": "8172",
+    "addr:street": "Grafschaftstrasse",
+    "alt_name": "TopPharm Sonnen Apotheke Niederglatt",
+    "amenity": "pharmacy",
+    "branch": "Niederglatt",
+    "brand": "TopPharm",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "TopPharm Sonnen Apotheke",
+    "operator": "TopPharm Genossenschaft",
+    "website": "https://www.apotheke.ch/sonnen",
+    "id": "node/1633856466"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5041368,
+      47.4918431
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1687796033",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "296",
+    "addr:postcode": "8046",
+    "addr:street": "Wehntalerstrasse",
+    "amenity": "pharmacy",
+    "brand": "Rotpunkt Apotheke",
+    "check_date": "2023-05-17",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "name": "Apotheke Affoltern",
+    "name:de": "Apotheke Affoltern",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
+    "phone": "+41 44 371 25 33",
+    "website": "http://www.apothekeaffoltern.ch/",
+    "wheelchair": "yes",
+    "id": "node/1687796033"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5247185,
+      47.4122382
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1740538020",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "38",
+    "addr:postcode": "8001",
+    "addr:street": "Rämistrasse",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pfauen-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-16:00",
+    "id": "node/1740538020"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5496843,
+      47.3706223
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1758460159",
+  "properties": {
+    "addr:city": "Schlieren",
+    "addr:country": "CH",
+    "addr:housename": "Lilie Zentrum",
+    "addr:housenumber": "9",
+    "addr:postcode": "8952",
+    "addr:street": "Uitikonerstrasse",
+    "amenity": "pharmacy",
+    "brand": "Rotpunkt Apotheke",
+    "dispensing": "yes",
+    "email": "info@apolilie-zentrum.ch",
+    "name": "Apotheke Lilie Zentrum",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
+    "operator": "Rotpunkt Pharma",
+    "phone": "+41 44 730 59 89",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.apolilie-zentrum.ch/",
+    "wheelchair": "yes",
+    "id": "node/1758460159"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4482497,
+      47.3967178
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1768690515",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "106",
+    "addr:postcode": "8032",
+    "addr:street": "Forchstrasse",
+    "alt_name": "Minerva Apotheke am Hegibachplatz",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Minerva Apotheke",
+    "opening_hours": "Mo-Fr 07:30-18:30; Sa 08:00-13:00",
+    "website": "https://www.minerva-apotheke.ch/",
+    "wheelchair": "yes",
+    "id": "node/1768690515"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5610538,
+      47.3614842
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1788460722",
+  "properties": {
+    "addr:city": "Gossau",
+    "addr:housenumber": "49",
+    "addr:postcode": "8625",
+    "addr:street": "Grütstrasse",
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Dorf-Apotheke Gossau",
+    "opening_hours:covid19": "open",
+    "shop": "chemist",
+    "wheelchair": "yes",
+    "id": "node/1788460722"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.75753,
+      47.3072044
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1792722215",
+  "properties": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Drogerie Büelgass",
+    "shop": "chemist",
+    "wheelchair": "yes",
+    "id": "node/1792722215"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7571388,
+      47.3058571
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1836515686",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8053",
+    "addr:street": "Carl-Spitteler-Strasse",
+    "amenity": "pharmacy",
+    "branch": "Zürich Witikon",
+    "brand": "TopPharm",
+    "dispensing": "yes",
+    "name": "TopPharm Apotheke Witikon",
+    "opening_hours": "Mo-Fr 08:00-12:30, 13:30-18:30; Sa 08:00-16:00",
+    "operator": "TopPharm Genossenschaft",
+    "website": "https://www.apotheke.ch/witikon",
+    "id": "node/1836515686"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.587865,
+      47.3580584
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1837250425",
+  "properties": {
+    "addr:city": "Hinwil",
+    "addr:housenumber": "14",
+    "addr:postcode": "8340",
+    "addr:street": "Gossauerstrasse",
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Drogerie Flückiger",
+    "opening_hours": "Mo-Sa 08:00-19:00",
+    "opening_hours:covid19": "open",
+    "website": "www.drogerie-fluekiger.ch",
+    "wheelchair": "yes",
+    "id": "node/1837250425"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8375475,
+      47.299228
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1841363731",
+  "properties": {
+    "addr:city": "Glattbrugg",
+    "addr:country": "CH",
+    "addr:housenumber": "124",
+    "addr:postcode": "8152",
+    "addr:street": "Schaffhauserstrasse",
+    "alt_name": "Topwell Apotheke Glattal",
+    "amenity": "pharmacy",
+    "branch": "Glattbrugg",
+    "brand": "Medbase",
+    "brand:wikidata": "Q50038690",
+    "dispensing": "yes",
+    "email": "apotheke-glattbrugg@medbase.ch",
+    "name": "Medbase Apotheke Glattbrugg",
+    "old_name": "Glattal Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30, Sa 08:00-16:00",
+    "operator": "Elham Karimi",
+    "phone": "043 211 57 77",
+    "website": "https://www.medbase-apotheken.ch/apotheken/detail/medbase-apotheke-glattbrugg/",
+    "wheelchair": "yes",
+    "id": "node/1841363731"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5672245,
+      47.434373
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1924110536",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "60",
+    "addr:postcode": "8003",
+    "addr:street": "Zurlindenstrasse",
+    "alt_name": "APODRO Apotheke Schmiedegg",
+    "amenity": "pharmacy",
+    "baby_feeding": "room",
+    "branch": "Zürich Wiedikon",
+    "healthcare": "pharmacy",
+    "name": "APODRO Apotheke",
+    "old_name": "Schmiedegg-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30, Sa 09:00-18:00; PH off",
+    "operator": "APODRO",
+    "website": "https://www.apodro.ch/%C3%BCber-uns/apodro-standorte/schmiedegg/",
+    "wheelchair": "limited",
+    "id": "node/1924110536"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5205723,
+      47.3697257
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1925758935",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "200",
+    "addr:postcode": "8003",
+    "addr:street": "Birmensdorferstrasse",
+    "alt_name": "Coop Vitality Wiedikon",
+    "amenity": "pharmacy",
+    "branch": "Zürich Wiedikon",
+    "brand": "Coop Vitality",
+    "level": "0",
+    "name": "Coop Vitality",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "operator": "Coop Vitality & GaleniCare",
+    "website": "https://www.coopvitality.ch/de/coop-vitality-wiedikon",
+    "wheelchair": "yes",
+    "id": "node/1925758935"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5160272,
+      47.3707249
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1937738039",
+  "properties": {
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2021-02-25",
+    "level": "0",
+    "name": "Deutweg Apotheke",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-18:00",
+    "wheelchair": "yes",
+    "id": "node/1937738039"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7403305,
+      47.494614
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1982490339",
+  "properties": {
+    "addr:city": "Birmensdorf",
+    "addr:housenumber": "7",
+    "addr:postcode": "8903",
+    "addr:street": "Zürcherstrasse",
+    "amenity": "pharmacy",
+    "branch": "Birmensdorf",
+    "brand": "TopPharm",
+    "dispensing": "yes",
+    "name": "TopPharm Apotheke & Drogerie Birmensdorf",
+    "operator": "TopPharm Genossenschaft",
+    "website": "https://www.apotheke.ch/birmensdorf",
+    "wheelchair": "yes",
+    "id": "node/1982490339"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4369103,
+      47.3537242
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2080086565",
+  "properties": {
+    "addr:city": "Rüschlikon",
+    "addr:housenumber": "11",
+    "addr:postcode": "8803",
+    "addr:street": "Weingartenstrasse",
+    "amenity": "pharmacy",
+    "branch": "Rüschlikon",
+    "brand": "Pill Apotheke",
+    "healthcare": "pharmacy",
+    "name": "Pill Apotheke & Drogerie Glärnisch",
+    "opening_hours": "Mo-Fr 08:30-12:15,13:30-18:30, Sa 08:30-13:00,13:30-16:00",
+    "operator": "Pill Group",
+    "shop": "chemist",
+    "website": "https://www.pill.ch/standorte/pill-apotheke-drogerie-glaernisch.html",
+    "id": "node/2080086565"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.554201,
+      47.3077595
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2081117847",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "8005",
+    "addr:street": "Limmatplatz",
+    "alt_name": "DROPA Drogerie Apotheke Limmatplatz",
+    "amenity": "pharmacy",
+    "branch": "Zürich Limmatplatz",
+    "brand": "DROPA",
+    "brand:wikidata": "Q1260273",
+    "healthcare": "pharmacy",
+    "name": "Dropa Limmatplatz",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00",
+    "operator": "Dr. Bähler Dropa",
+    "shop": "chemist",
+    "website": "https://dropa.ch/standorte/dropa-drogerie-apotheke-limmatplatz",
+    "wheelchair": "yes",
+    "id": "node/2081117847"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5315987,
+      47.3850081
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2107009158",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housename": "Wiediker Markt",
+    "addr:housenumber": "320",
+    "addr:postcode": "8055",
+    "addr:street": "Birmensdorferstrasse",
+    "amenity": "pharmacy",
+    "branch": "Zürich Wiedikon M-Märt",
+    "brand": "Achillea Apotheke",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Drogama Apotheke Drogerie",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "operator": "Dr. Bähler Dropa",
+    "shop": "chemist",
+    "source": "survey",
+    "website": "https://achillea.ch/standorte/drogama-apotheke-drogerie",
+    "wheelchair": "yes",
+    "id": "node/2107009158"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5085106,
+      47.3703419
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2289494989",
+  "properties": {
+    "addr:city": "Zumikon",
+    "addr:housenumber": "4",
+    "addr:postcode": "8126",
+    "addr:street": "Dorfplatz",
+    "amenity": "pharmacy",
+    "branch": "Zumikon",
+    "brand": "Amavita",
+    "name": "Amavita Zumikon",
+    "operator": "GaleniCare",
+    "website": "https://www.amavita.ch/de/amavita-apotheke-zumikon",
+    "id": "node/2289494989"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6237691,
+      47.3320839
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2317012355",
+  "properties": {
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2022-09-02",
+    "name": "Apotheke Im Zentrum",
+    "opening_hours": "Mo-Sa 08:30-19:00",
+    "wheelchair": "yes",
+    "id": "node/2317012355"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6151564,
+      47.2795549
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2353454619",
+  "properties": {
+    "addr:city": "Brüttisellen",
+    "addr:housenumber": "28",
+    "addr:postcode": "8306",
+    "addr:street": "Zürichstrasse",
+    "amenity": "pharmacy",
+    "brand": "Fortis",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Apotheke im Freihof",
+    "opening_hours": "Mo-Fr 08:30-12:00,13:00-18:00, Sa 09:00-13:00",
+    "website": "https://www.apotheke-imfreihof.ch/",
+    "id": "node/2353454619"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6297899,
+      47.4235473
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2364044454",
+  "properties": {
+    "addr:city": "Pfäffikon ZH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8330",
+    "addr:street": "Turmstrasse",
+    "alt_name": "Topwell Apotheke Dr. Russenberger",
+    "amenity": "pharmacy",
+    "branch": "Pfäffikon ZH",
+    "brand": "Medbase",
+    "brand:wikidata": "Q50038690",
+    "contact:phone": "+41 44 950 17 17",
+    "healthcare": "pharmacy",
+    "name": "Medbase",
+    "opening_hours": "Mo-Fr 08:00-12:30,13:30-18:30, Sa 08:00-16:00",
+    "operator": "Medbase Apotheken",
+    "website": "https://www.topwell.ch/medbaseapothekepfaeffikon/",
+    "id": "node/2364044454"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.781923,
+      47.3678988
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2408277201",
+  "properties": {
+    "alt_name": "Amavita Flughafen",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "ama249@amavita.ch",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Amavita Apotheke",
+    "opening_hours": "Mo-Su 07:00-21:00",
+    "operator": "GaleniCare",
+    "phone": "+41 58 878 25 60",
+    "website": "https://www.amavita.ch/de/amavita-apotheke-flughafen-284",
+    "wheelchair": "yes",
+    "id": "node/2408277201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5624544,
+      47.4511063
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2408277205",
+  "properties": {
+    "alt_name": "Amavita Flughafen",
+    "amenity": "pharmacy",
+    "email": "ama349@amavita.ch",
+    "healthcare": "pharmacy",
+    "level": "1",
+    "name": "Amavita Apotheke",
+    "name:de": "Amavita Apotheke",
+    "name:en": "Amavita Pharmacy",
+    "opening_hours": "Mo-Su 06:00-20:00; Tu 06:00-18:00",
+    "operator": "GaleniCare",
+    "phone": "+41 58 878 25 60",
+    "wheelchair": "yes",
+    "id": "node/2408277205"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5619109,
+      47.4526634
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2408277256",
+  "properties": {
+    "amenity": "pharmacy",
+    "email": "flight-care.zuerich@amavita.ch",
+    "level": "2",
+    "name": "Amavita flight & care",
+    "opening_hours": "06:00-18:00",
+    "phone": "+41 58 878 34 30",
+    "website": "https://www.amavita.ch/",
+    "wheelchair": "yes",
+    "id": "node/2408277256"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5608802,
+      47.4512783
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2434379960",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "234",
+    "addr:postcode": "8404",
+    "addr:street": "Römerstrasse",
+    "alt_name": "Topwell Apotheke Oberi",
+    "amenity": "pharmacy",
+    "branch": "Winterthur Oberwinterthur",
+    "brand": "Medbase",
+    "brand:wikidata": "Q50038690",
+    "check_date:opening_hours": "2021-10-17",
+    "name": "Medbase Apotheke Oberi",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
+    "operator": "Medbase Apotheken",
+    "phone": "+41 52 245 19 45",
+    "website": "https://www.topwell.ch/medbaseapothekewinterthuroberi/",
+    "id": "node/2434379960"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7589667,
+      47.5098663
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2463070431",
+  "properties": {
+    "addr:housenumber": "43",
+    "addr:street": "Wehntalerstrasse",
+    "amenity": "pharmacy",
+    "email": "info@gesundheits-apotheke.ch",
+    "fax": "+41 44 853 21 27",
+    "healthcare": "pharmacy",
+    "name": "Zum Gerichtshaus",
+    "opening_hours": "Mo-Fr 08:30-12:15,13:45-18:30; Sa 08:30-17:00; Su 09:30-12:30",
+    "phone": "+41 44 853 21 26",
+    "website": "http://www.gesundheits-apotheke.ch/",
+    "id": "node/2463070431"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4537786,
+      47.4817311
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2468322528",
+  "properties": {
+    "addr:city": "Wald (ZH)",
+    "addr:country": "CH",
+    "addr:housenumber": "21",
+    "addr:postcode": "8636",
+    "addr:street": "Bahnhofstrasse",
+    "alt_name": "APODRO Apotheke Wald",
+    "amenity": "pharmacy",
+    "branch": "Wald ZH",
+    "brand": "APODRO",
+    "email": "apotheke-wald@apodro.ch",
+    "healthcare": "pharmacy",
+    "name": "APODRO Apotheke",
+    "operator": "APODRO",
+    "phone": "+41 55 266 12 01",
+    "website": "https://www.apodro.ch/%C3%BCber-uns/apodro-standorte/wald/",
+    "id": "node/2468322528"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9151633,
+      47.2748429
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2479519173",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "200",
+    "addr:postcode": "8057",
+    "addr:street": "Hofwiesenstrasse",
+    "amenity": "pharmacy",
+    "check_date": "2023-06-24",
+    "healthcare": "pharmacy",
+    "name": "Wehntal-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-12:00, 14:00-18:30; Sa 08:30-12:30",
+    "website": "http://www.wehntal-apotheke.ch/",
+    "wheelchair": "limited",
+    "id": "node/2479519173"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5358866,
+      47.402496
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2487061375",
+  "properties": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Drogerie",
+    "id": "node/2487061375"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5942386,
+      47.504688
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2509261942",
+  "properties": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Rothaus",
+    "wheelchair": "yes",
+    "id": "node/2509261942"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6419389,
+      47.269951
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2522352706",
+  "properties": {
+    "amenity": "pharmacy",
+    "name": "Locher",
+    "id": "node/2522352706"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4089961,
+      47.4219739
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2526218137",
+  "properties": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Gotthard Apotheke",
+    "opening_hours": "Mo-Fr 08:00-12:15,13:00-18:30; Sa 08:00-16:00",
+    "phone": "+41 44 720 04 70",
+    "website": "http://gotthard.apotheke.ch/",
+    "id": "node/2526218137"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5635726,
+      47.2956338
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2613296079",
+  "properties": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Drogerie Teufer",
+    "opening_hours": "Mo-Th 08:00-18:30; Fr 08:00-19:00; Sa 08:00-17:00",
+    "shop": "chemist",
+    "website": "http://www.drogerieteufer.ch",
+    "wheelchair": "yes",
+    "id": "node/2613296079"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7808047,
+      47.3682623
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2635575321",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "8050",
+    "addr:street": "Nansenstrasse",
+    "amenity": "pharmacy",
+    "brand": "Rotpunkt Apotheke",
+    "dispensing": "yes",
+    "name": "Apotheke & Drogerie Oerlikon",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
+    "operator": "Rotpunkt Pharma",
+    "shop": "chemist",
+    "website": "https://www.apotheke-oerlikon.ch/",
+    "id": "node/2635575321"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.545519,
+      47.4111761
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2743760878",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "200",
+    "addr:place": "Ladenzentrum Leimbach",
+    "addr:postcode": "8041",
+    "addr:street": "Leimbachstrasse",
+    "amenity": "pharmacy",
+    "branch": "Zürich Leimbach",
+    "brand": "Achillea Apotheke",
+    "check_date:opening_hours": "2021-06-16",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Leimbach Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
+    "operator": "Dr. Bähler Dropa",
+    "website": "https://achillea.ch/standorte/leimbach-apotheke",
+    "id": "node/2743760878"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.514089,
+      47.3263736
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2902783538",
+  "properties": {
+    "addr:city": "Wetzikon (ZH)",
+    "addr:housenumber": "257",
+    "addr:postcode": "8623",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Apotheke Kempten",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:45-18:30; Sa 08:00-16:00",
+    "operator": "Edith Kleisner",
+    "phone": "+41 44 930 02 80",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes",
+    "id": "node/2902783538"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8077956,
+      47.3315882
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2902973304",
+  "properties": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "level": "0",
+    "name": "Löwen-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:00-18:00; PH closed",
+    "id": "node/2902973304"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4022509,
+      47.4049414
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2921525228",
+  "properties": {
+    "addr:housenumber": "1",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "pharmacy",
+    "contact:phone": "+41 44 715 46 10",
+    "healthcare": "pharmacy",
+    "name": "Bahnhof-Apotheke",
+    "id": "node/2921525228"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5484968,
+      47.3241085
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3159437161",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "9",
+    "addr:postcode": "8953",
+    "addr:street": "Silbernstrasse",
+    "alt_name": "Coop Vitality Silbern",
+    "amenity": "pharmacy",
+    "branch": "Dietikon Silbern",
+    "brand": "Coop Vitality",
+    "brand:wikidata": "Q111725297",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Coop Vitality",
+    "opening_hours": "Mo-Sa 08:00-21:00; PH closed",
+    "operator": "Coop Vitality & GaleniCare",
+    "website": "https://www.coopvitality.ch/de/coop-vitality-silbern-dietikon",
+    "wheelchair": "yes",
+    "id": "node/3159437161"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3920842,
+      47.4187942
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3246024362",
+  "properties": {
+    "addr:city": "Glattpark (Opfikon)",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "8152",
+    "addr:street": "Wright-Strasse",
+    "amenity": "pharmacy",
+    "branch": "Opfikon Glattpark",
+    "brand": "TopPharm",
+    "name": "TopPharm Glattpark Apotheke",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00",
+    "opening_hours:covid19": "open",
+    "operator": "TopPharm Genossenschaft",
+    "source": "survey",
+    "website": "https://www.apotheke.ch/glattpark",
+    "id": "node/3246024362"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5579708,
+      47.4208575
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3324354373",
+  "properties": {
+    "addr:city": "Adliswil",
+    "addr:housenumber": "10",
+    "addr:postcode": "8134",
+    "addr:street": "Albisstrasse",
+    "amenity": "pharmacy",
+    "branch": "Adliswil Sunnemärt",
+    "brand": "Amavita",
+    "brand:wikidata": "Q93733901",
+    "brand:wikipedia": "de:Amavita",
+    "email": "ama237@amavita.ch",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Amavita",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "operator": "GaleniCare",
+    "phone": "+41 58 851 32 37",
+    "website": "https://www.amavita.ch/de/amavita-apotheke-sunnemart",
+    "id": "node/3324354373"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5250516,
+      47.3115055
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3324442093",
+  "properties": {
+    "addr:city": "Affoltern am Albis",
+    "addr:housenumber": "12",
+    "addr:postcode": "8910",
+    "addr:street": "Obere Bahnhofstrasse",
+    "amenity": "pharmacy",
+    "branch": "Affoltern am Albis",
+    "brand": "Amavita",
+    "brand:wikidata": "Q93733901",
+    "email": "ama220@amavita.ch",
+    "healthcare": "pharmacy",
+    "name": "Amavita",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-18:30; Sa 08:00-16:00",
+    "operator": "GaleniCare",
+    "phone": "+41 58 851 32 20",
+    "toilets:wheelchair": "no",
+    "website": "https://www.amavita.ch/de/amavita-apotheke-affoltern-a-a",
+    "wheelchair": "yes",
+    "id": "node/3324442093"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.449761,
+      47.2771659
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3324778715",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8001",
+    "addr:street": "Lintheschergasse",
+    "amenity": "pharmacy",
+    "brand": "Rotpunkt Apotheke",
+    "name": "Apotheke Lintheschergasse",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-18:00",
+    "operator": "Rotpunkt Pharma",
+    "website": "http://www.pharmaservice.ch/",
+    "wheelchair": "yes",
+    "id": "node/3324778715"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5379736,
+      47.375098
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3523102254",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "50",
+    "addr:postcode": "8008",
+    "addr:street": "Höschgasse",
+    "amenity": "pharmacy",
+    "branch": "Zürich Seefeld",
+    "brand": "TopPharm",
+    "name": "TopPharm Apotheke Höschgasse",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
+    "operator": "TopPharm Genossenschaft",
+    "website": "https://www.apotheke.ch/hoeschgasse",
+    "wheelchair": "no",
+    "id": "node/3523102254"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5547536,
+      47.3577116
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3551593268",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "171",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldstrasse",
+    "amenity": "pharmacy",
+    "branch": "Zürich Seefeld",
+    "brand": "Pill Apotheke",
+    "check_date:opening_hours": "2022-11-08",
+    "name": "Pill Apotheke Fröhlichstrasse",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
+    "operator": "Pill Group",
+    "website": "https://www.pill.ch/standorte/pill-apotheke-froehlichstrasse.html",
+    "wheelchair": "yes",
+    "id": "node/3551593268"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.557001,
+      47.355307
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3561848901",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:place": "Center Eleven",
+    "addr:postcode": "8050",
+    "addr:street": "Sophie-Taeuber-Strasse",
+    "alt_name": "Coop Vitality Oerlikon",
+    "amenity": "pharmacy",
+    "branch": "Zürich Oerlikon",
+    "brand": "Coop Vitality",
+    "check_date:opening_hours": "2021-11-18",
+    "healthcare": "pharmacy",
+    "name": "Coop Vitality",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "operator": "Coop Vitality & GaleniCare",
+    "phone": "+41 44 310 15 26",
+    "website": "https://www.coopvitality.ch/de/coop-vitality-oerlikon",
+    "wheelchair": "yes",
+    "id": "node/3561848901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5407512,
+      47.4132145
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3645780293",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "8001",
+    "addr:street": "Poststrasse",
+    "amenity": "pharmacy",
+    "branch": "Zürich Paradeplatz",
+    "brand": "TopPharm",
+    "brand:wikidata": "Q110277794",
+    "healthcare": "pharmacy",
+    "name": "TopPharm",
+    "opening_hours": "Mo-Fr 07:30-19:30; Sa 08:30-17:00",
+    "operator": "TopPharm Genossenschaft",
+    "website": "https://www.apotheke.ch/paradeplatz",
+    "wheelchair": "yes",
+    "id": "node/3645780293"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5403094,
+      47.3698659
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3681157582",
+  "properties": {
+    "addr:city": "Schlieren",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8952",
+    "addr:street": "Ringstrasse",
+    "amenity": "pharmacy",
+    "brand": "Rotpunkt Apotheke",
+    "dispensing": "no",
+    "drive_through": "no",
+    "name": "Apotheke Parkside",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:30-17:00",
+    "operator": "Rotpunkt Pharma",
+    "phone": "+41 44 741 59 89",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.apotheke-parkside.ch/",
+    "wheelchair": "yes",
+    "id": "node/3681157582"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4477019,
+      47.3984348
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3726038457",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "537",
+    "addr:postcode": "8046",
+    "addr:street": "Wehntalerstrasse",
+    "alt_name": "Topwell Apotheke Zürich Nord",
+    "amenity": "pharmacy",
+    "branch": "Zürich Nord",
+    "brand": "Medbase",
+    "brand:wikidata": "Q50038690",
+    "name": "Medbase Apotheke Nord",
+    "old_name": "Nord-Apotheke",
+    "opening_hours": "Mo-Fr 08:00-12:30, 13:30-18:30; Sa 08:00-16:00",
+    "operator": "Medbase Apotheken",
+    "website": "https://www.topwell.ch/medbaseapothekezuerichnord/",
+    "wheelchair": "limited",
+    "id": "node/3726038457"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5070956,
+      47.4186133
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3776674995",
+  "properties": {
+    "addr:housenumber": "4",
+    "addr:postcode": "8630",
+    "addr:street": "Bandwiesstrasse",
+    "alt_name": "APODRO Apotheke Rüti",
+    "amenity": "pharmacy",
+    "branch": "Rüti ZH",
+    "brand": "APODRO",
+    "healthcare": "pharmacy",
+    "name": "APODRO Apotheke",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:30; Th 08:00-12:00,13:30-19:00; Sa 08:00-16:00",
+    "operator": "APODRO",
+    "phone": "+41 55 241 20 70",
+    "website": "https://www.apodro.ch/%C3%BCber-uns/apodro-standorte/r%C3%BCti/",
+    "id": "node/3776674995"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.848725,
+      47.2585757
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3806510697",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "8048",
+    "addr:street": "Altstetterplatz",
+    "alt_name": "BENU Apotheke Altstetten",
+    "amenity": "pharmacy",
+    "branch": "Zürich Altstetten",
+    "brand": "BENU",
+    "brand:wikidata": "Q62562792",
+    "name": "BENU Apotheke",
+    "old_name": "Amavita Altstetten",
+    "opening_hours": "Mo-Fr 07:00-18:30, Sa 09:00-14:00; PH off",
+    "operator": "BENU Pharmacies",
+    "website": "https://www.benu.ch/de/unsere-apotheken/benu-z%C3%BCrich-altstetten/",
+    "id": "node/3806510697"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.489244,
+      47.3912927
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3815185876",
+  "properties": {
+    "addr:city": "Thalwil",
+    "addr:housenumber": "16a",
+    "addr:postcode": "8800",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "email": "info@apotheke-thalwil.ch",
+    "fax": "+41 (0)44 720 08 04",
+    "healthcare": "pharmacy",
+    "name": "Central Apotheke Thalwil",
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-17:00; Su 10:00-17:00",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 44 720 06 92",
+    "source": "local knowledge",
+    "website": "http://www.apotheke-thalwil.ch",
+    "wheelchair": "yes",
+    "id": "node/3815185876"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5648496,
+      47.2949154
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4008942095",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "235",
+    "addr:postcode": "8005",
+    "addr:street": "Hardstrasse",
+    "amenity": "pharmacy",
+    "contact:phone": "+41 44 922 44 55",
+    "name": "ApoDoc",
+    "opening_hours": "Mo-Fr 07:30-19:30; Sa 10:00-17:00; PH off",
+    "operator": "ApoDoc Hardbrücke",
+    "website": "http://www.apodoc.ch/",
+    "wheelchair": "yes",
+    "id": "node/4008942095"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5190909,
+      47.3875997
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4127859152",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "19",
+    "addr:postcode": "8404",
+    "addr:street": "Rudolf-Diesel-Strasse",
+    "alt_name": "Coop Vitality Grüze",
+    "amenity": "pharmacy",
+    "branch": "Winterthur Grüze Markt",
+    "brand": "Coop Vitality",
+    "brand:wikidata": "Q111725297",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Coop Vitality",
+    "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+    "operator": "Coop Vitality & GaleniCare",
+    "website": "https://www.coopvitality.ch/de/coop-vitality-winterthur",
+    "id": "node/4127859152"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7580637,
+      47.4951245
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4237489698",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "106",
+    "addr:postcode": "8038",
+    "addr:street": "Albisstrasse",
+    "amenity": "pharmacy",
+    "branch": "Zürich Wollishofen",
+    "brand": "Amavita",
+    "brand:wikidata": "Q93733901",
+    "brand:wikipedia": "de:Amavita",
+    "check_date:opening_hours": "2023-01-06",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Amavita",
+    "opening_hours": "Mo-Fr 08:00-12:30,13:30-18:30; Sa 08:00-14:00",
+    "operator": "GaleniCare",
+    "website": "https://www.amavita.ch/de/amavita-apotheke-albisstrasse",
+    "id": "node/4237489698"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.529885,
+      47.3385069
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4244047594",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8001",
+    "addr:street": "Löwenstrasse",
+    "amenity": "pharmacy",
+    "brand": "Rotpunkt Apotheke",
+    "check_date:opening_hours": "2022-10-12",
+    "level": "0",
+    "name": "City Apotheke zur Sihlporte",
+    "opening_hours": "Mo-Fr 07:45-19:00; Sa 09:00-17:00",
+    "operator": "Rotpunkt Pharma",
+    "website": "https://www.cityapo.ch/",
+    "wheelchair": "no",
+    "id": "node/4244047594"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5343196,
+      47.3729977
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4244070961",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "30",
+    "addr:postcode": "8105",
+    "addr:street": "Feldstrasse",
+    "amenity": "pharmacy",
+    "brand": "Rotpunkt Apotheke",
+    "name": "Apotheke Dr. Kunz",
+    "opening_hours": "Mo-Fr 09:00-12:30, 14:00-19:00; Sa 09:00-17:00",
+    "operator": "Dr. Kunz AG",
+    "website": "https://www.apothekedrkunz.ch/regensdorf/",
+    "id": "node/4244070961"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4733578,
+      47.438655
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4273219598",
+  "properties": {
+    "addr:city": "Opfikon",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:place": "Glattpark",
+    "addr:postcode": "8152",
+    "addr:street": "Boulevard Lilienthal",
+    "alt_name": "Coop Vitality Opfikon",
+    "amenity": "pharmacy",
+    "branch": "Opfikon",
+    "brand": "Coop Vitality",
+    "healthcare": "pharmacy",
+    "name": "Coop Vitality",
+    "opening_hours": "Mo-Sa 09:00-20:00",
+    "operator": "Coop Vitality & GaleniCare",
+    "website": "https://www.coopvitality.ch/de/coop-vitality-opfikon",
+    "id": "node/4273219598"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5620078,
+      47.4239535
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4424402110",
+  "properties": {
+    "addr:city": "Erlenbach (ZH)",
+    "addr:country": "CH",
+    "addr:housenumber": "40",
+    "addr:postcode": "8703",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "pharmacy",
+    "branch": "Erlenbach",
+    "brand": "Amavita",
+    "name": "Amavita Erlibacher-Märt",
+    "operator": "GaleniCare",
+    "website": "https://www.amavita.ch/de/amavita-apotheke-erlibacher-mart",
+    "id": "node/4424402110"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5905229,
+      47.3068942
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4424679506",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:place": "Hauptbahnhof, Halle Löwenstrasse",
+    "addr:postcode": "8001",
+    "alt_name": "Topwell Apotheke Naturewell",
+    "amenity": "pharmacy",
+    "branch": "Zürich HB",
+    "brand": "Medbase",
+    "brand:wikidata": "Q50038690",
+    "check_date:opening_hours": "2023-02-11",
+    "healthcare": "pharmacy",
+    "indoor": "yes",
+    "level": "-2",
+    "name": "Medbase Apotheke Zürich HB",
+    "old_name": "Naturewell Apotheke",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa-Su 09:00-20:00",
+    "operator": "Medbase Apotheken",
+    "website": "https://www.topwell.ch/medbaseapothekezuerichhb/",
+    "id": "node/4424679506"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5385968,
+      47.3777672
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4424939138",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:place": "ShopVille",
+    "addr:postcode": "8001",
+    "amenity": "pharmacy",
+    "branch": "Zürich ShopVille",
+    "brand": "Amavita",
+    "brand:wikidata": "Q93733901",
+    "brand:wikipedia": "de:Amavita",
+    "healthcare": "pharmacy",
+    "indoor": "yes",
+    "level": "-1",
+    "name": "Amavita",
+    "opening_hours": "Mo-Fr 07:30-21:00; Sa-Su 09:00-20:00",
+    "operator": "GaleniCare",
+    "website": "https://www.amavita.ch/de/amavita-apotheke-shopville",
+    "wheelchair": "yes",
+    "id": "node/4424939138"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5396659,
+      47.3773328
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4449610687",
+  "properties": {
+    "addr:city": "Dietlikon",
+    "addr:housenumber": "28",
+    "addr:postcode": "8305",
+    "addr:street": "Industriestrasse",
+    "alt_name": "Coop Vitality Dietlikon",
+    "amenity": "pharmacy",
+    "branch": "Dietlikon",
+    "brand": "Coop Vitality",
+    "healthcare": "pharmacy",
+    "name": "Coop Vitality",
+    "operator": "Coop Vitality & GaleniCare",
+    "website": "https://www.coopvitality.ch/de/coop-vitality-dietlikon",
+    "id": "node/4449610687"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6182259,
+      47.4132392
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4472240069",
+  "properties": {
+    "addr:city": "Oberengstringen",
+    "addr:housenumber": "2",
+    "addr:place": "Zentrum",
+    "addr:postcode": "8102",
+    "amenity": "pharmacy",
+    "branch": "Oberengstringen",
+    "brand": "Amavita",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Amavita Oberengstringen",
+    "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:00-16:00; PH closed",
+    "operator": "GaleniCare AG",
+    "website": "https://www.amavita.ch/de/amavita-apotheke-oberengstringen",
+    "wheelchair": "limited",
+    "id": "node/4472240069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4628644,
+      47.4086895
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4486137538",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "152",
+    "addr:postcode": "8400",
+    "addr:street": "Schaffhauserstrasse",
+    "alt_name": "DROPA Drogerie Apotheke Rosenberg",
+    "amenity": "pharmacy",
+    "branch": "Winterthur Rosenberg",
+    "brand": "DROPA",
+    "brand:wikidata": "Q1260273",
+    "level": "0",
+    "name": "Dropa Rosenberg",
+    "operator": "Dr. Bähler Dropa",
+    "shop": "chemist",
+    "website": "https://dropa.ch/standorte/dropa-drogerie-apotheke-rosenberg",
+    "id": "node/4486137538"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7207459,
+      47.5184636
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4492758092",
+  "properties": {
+    "addr:housenumber": "40",
+    "addr:postcode": "8305",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Zentrum Apotheke",
+    "name:de": "Zentrum Apotheke",
+    "opening_hours": "Mo-Fr 07:15-18:30; Sa 07:15-16:30",
+    "phone": "+41 44 833 46 00",
+    "id": "node/4492758092"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6187771,
+      47.4227364
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4512105546",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:postcode": "8050",
+    "amenity": "pharmacy",
+    "branch": "Zürich Oerlikon",
+    "brand": "Achillea Apotheke",
+    "level": "-1",
+    "name": "Bahnhof Apotheke Oerlikon",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "Dr. Bähler Dropa",
+    "website": "https://achillea.ch/standorte/bahnhof-apotheke-oerlikon",
+    "wheelchair": "yes",
+    "id": "node/4512105546"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5431816,
+      47.4117347
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4734683647",
+  "properties": {
+    "addr:housenumber": "1",
+    "addr:street": "Marktgasse",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Drogerie Apotheke am Stadtplatz",
+    "opening_hours": "Mo-Fr 09:00-18:30, Sa 09:00-16:00",
+    "website": "http://www.am-stadtplatz.ch/",
+    "wheelchair": "yes",
+    "id": "node/4734683647"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5831151,
+      47.4506086
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4816412576",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "254",
+    "addr:postcode": "8408",
+    "addr:street": "Wülflingerstrasse",
+    "amenity": "pharmacy",
+    "branch": "Winterthur Wülflingen",
+    "brand": "TopPharm",
+    "name": "TopPharm Apotheke Wülflingen",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
+    "operator": "TopPharm Genossenschaft",
+    "website": "https://www.apotheke.ch/wuelflingen",
+    "id": "node/4816412576"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6935837,
+      47.5106864
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4827130154",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "145",
+    "addr:place": "Neumarkt Altstetten",
+    "addr:postcode": "8048",
+    "addr:street": "Altstetterstrasse",
+    "amenity": "pharmacy",
+    "branch": "Zürich Altstetten Neumarkt",
+    "brand": "Achillea Apotheke",
+    "check_date:opening_hours": "2023-04-27",
+    "indoor": "yes",
+    "level": "0",
+    "name": "Neumarkt Apotheke Drogerie",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "operator": "Dr. Bähler Dropa",
+    "shop": "chemist",
+    "website": "https://achillea.ch/standorte/neumarkt-apotheke-drogerie",
+    "id": "node/4827130154"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4874205,
+      47.388597
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4827130161",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:place": "Bahnhof Enge",
+    "addr:postcode": "8002",
+    "addr:street": "Tessinerplatz",
+    "alt_name": "Topwell Apotheke Bahnhof Enge",
+    "amenity": "pharmacy",
+    "branch": "Zürich Enge",
+    "brand": "Medbase",
+    "brand:wikidata": "Q50038690",
+    "healthcare": "pharmacy",
+    "name": "Medbase Apotheke Enge",
+    "old_name": "Apotheke-Drogerie Bahnhof Enge",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa,Su 09:00-19:00",
+    "operator": "Medbase Apotheken",
+    "website": "https://www.topwell.ch/medbaseapothekezuerichenge/",
+    "wheelchair": "yes",
+    "id": "node/4827130161"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5312481,
+      47.364617
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4833061651",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "31-35",
+    "addr:postcode": "8001",
+    "addr:street": "Löwenstrasse",
+    "alt_name": "Sun Store Zürich",
+    "amenity": "pharmacy",
+    "branch": "Zürich City",
+    "brand": "Sun Store",
+    "brand:wikidata": "Q2365840",
+    "level": "0",
+    "name": "Sun Store",
+    "opening_hours": "Mo-Sa 09:00-20:00",
+    "operator": "GaleniCare",
+    "website": "https://www.sunstore.ch/",
+    "id": "node/4833061651"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5359571,
+      47.3753709
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4833061652",
+  "properties": {
+    "addr:city": "Wallisellen",
+    "addr:country": "CH",
+    "addr:housenumber": "99",
+    "addr:place": "Glattzentrum",
+    "addr:postcode": "8301",
+    "addr:street": "Neue Winterthurerstrasse",
+    "amenity": "pharmacy",
+    "branch": "Wallisellen Glattzentrum",
+    "brand": "Amavita",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Amavita Glattzentrum",
+    "opening_hours": "Mo-Sa 09:00-20:00",
+    "operator": "GaleniCare",
+    "website": "https://www.amavita.ch/de/amavita-apotheke-glattzentrum",
+    "wheelchair": "yes",
+    "id": "node/4833061652"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5949993,
+      47.4086088
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4833061653",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "350",
+    "addr:place": "Neumarkt Oerlikon",
+    "addr:postcode": "8050",
+    "addr:street": "Hofwiesenstrasse",
+    "amenity": "pharmacy",
+    "branch": "Zürich Oerlikon",
+    "brand": "Amavita",
+    "level": "0",
+    "name": "Amavita Neumarkt Oerlikon",
+    "opening_hours": "Mo-Fr 09:00-20:00, Sa 09:00-18:00; PH off",
+    "operator": "GaleniCare",
+    "website": "https://www.amavita.ch/de/amavita-apotheke-neumarkt-oerlikon",
+    "id": "node/4833061653"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5426915,
+      47.4103326
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4833061654",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:place": "Bahnhof Stadelhofen",
+    "addr:postcode": "8001",
+    "amenity": "pharmacy",
+    "branch": "Zürich Stadelhofen",
+    "brand": "Amavita",
+    "brand:wikidata": "Q93733901",
+    "check_date:opening_hours": "2023-06-12",
+    "healthcare": "pharmacy",
+    "level": "-1",
+    "name": "Amavita",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su 10:00-18:00",
+    "operator": "GaleniCare",
+    "shop": "chemist",
+    "website": "https://www.amavita.ch/de/amavita-apotheke-drogerie-stadelhofen",
+    "wheelchair": "yes",
+    "id": "node/4833061654"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5488847,
+      47.3666096
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4838594381",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "174",
+    "addr:postcode": "8046",
+    "addr:street": "In Böden",
+    "alt_name": "DROPA Drogerie Apotheke Affoltern",
+    "amenity": "pharmacy",
+    "branch": "Zürich Affoltern",
+    "brand": "DROPA",
+    "brand:wikidata": "Q1260273",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Dropa Affoltern",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "operator": "Dr. Bähler Dropa",
+    "shop": "chemist",
+    "website": "https://dropa.ch/standorte/dropa-drogerie-apotheke-zuerich-affoltern",
+    "wheelchair": "yes",
+    "id": "node/4838594381"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5081901,
+      47.420051
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4838594382",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "8001",
+    "addr:street": "St. Peterstrasse",
+    "amenity": "pharmacy",
+    "brand": "Fortis",
+    "check_date:opening_hours": "2022-05-04",
+    "healthcare": "pharmacy",
+    "name": "St. Peter Apotheke",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "website": "https://www.stpeter-apotheke.com/",
+    "wheelchair": "yes",
+    "id": "node/4838594382"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.538021,
+      47.371089
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4838594389",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:place": "Sihlcity",
+    "addr:postcode": "8045",
+    "addr:street": "Kalanderplatz",
+    "alt_name": "Coop Vitality Sihlcity",
+    "amenity": "pharmacy",
+    "branch": "Zürich Sihlcity",
+    "brand": "Coop Vitality",
+    "brand:wikidata": "Q111725297",
+    "healthcare": "pharmacy",
+    "level": "1",
+    "name": "Coop Vitality",
+    "opening_hours": "Mo-Sa 09:00-20:00",
+    "operator": "Coop Vitality & GaleniCare",
+    "website": "https://www.coopvitality.ch/de/coop-vitality-sihl-city",
+    "id": "node/4838594389"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5235872,
+      47.3575868
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4838594391",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "50",
+    "addr:place": "Letzipark",
+    "addr:postcode": "8048",
+    "addr:street": "Baslerstrasse",
+    "alt_name": "Coop Vitality Letzipark",
+    "amenity": "pharmacy",
+    "branch": "Zürich Letzipark",
+    "brand": "Coop Vitality",
+    "level": "0",
+    "name": "Coop Vitality",
+    "opening_hours": "Mo-Sa 09:00-20:00",
+    "operator": "Coop Vitality & GaleniCare",
+    "website": "https://www.coopvitality.ch/de/coop-vitality-letzipark",
+    "wheelchair": "yes",
+    "id": "node/4838594391"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4990872,
+      47.3860955
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4838594392",
+  "properties": {
+    "addr:city": "Wallisellen",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8304",
+    "addr:street": "Bahnhofplatz",
+    "alt_name": "Coop Vitality Wallisellen",
+    "amenity": "pharmacy",
+    "branch": "Wallisellen",
+    "brand": "Coop Vitality",
+    "healthcare": "pharmacy",
+    "name": "Coop Vitality",
+    "opening_hours": "Mo-Fr 07:30-20:00; Sa 08:00-20:00",
+    "opening_hours:covid19": "open",
+    "operator": "Coop Vitality & GaleniCare",
+    "website": "https://www.coopvitality.ch/de/coop-vitality-wallisellen",
+    "wheelchair": "yes",
+    "id": "node/4838594392"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5926609,
+      47.413105
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4838594393",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "18",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldstrasse",
+    "alt_name": "BENU Apotheke Kreuz",
+    "amenity": "pharmacy",
+    "branch": "Zürich Seefeld",
+    "brand": "BENU",
+    "brand:wikidata": "Q62562792",
+    "name": "BENU Apotheke",
+    "opening_hours": "Mo-Fr 07:30-18:30; Sa 08:00-16:00",
+    "operator": "BENU Pharmacies",
+    "website": "https://www.benu.ch/de/pharmacies/kreuz/",
+    "wheelchair": "limited",
+    "id": "node/4838594393"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5488655,
+      47.3638878
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4838594394",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "8004",
+    "addr:street": "Europaallee",
+    "amenity": "pharmacy",
+    "branch": "Zürich Europaallee",
+    "brand": "TopPharm",
+    "brand:wikidata": "Q110277794",
+    "email": "info@europaallee.apotheke.ch",
+    "fax": "+41 44 810 20 11",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "TopPharm",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa 09:00-18:00; Su 11:00-17:00",
+    "operator": "TopPharm Genossenschaft",
+    "phone": "+41 44 810 20 00",
+    "website": "https://www.apotheke.ch/europaallee",
+    "wheelchair": "yes",
+    "id": "node/4838594394"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5344703,
+      47.3782355
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4838594395",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "155",
+    "addr:postcode": "8003",
+    "addr:street": "Birmensdorferstrasse",
+    "alt_name": "Topwell Apotheke Zweier",
+    "amenity": "pharmacy",
+    "branch": "Zürich Wiedikon",
+    "brand": "Medbase",
+    "brand:wikidata": "Q50038690",
+    "name": "Medbase Apotheke Wiedikon",
+    "old_name": "Zweier Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
+    "operator": "Medbase Apotheken",
+    "website": "https://www.topwell.ch/medbaseapothekezuerichwiedikon/",
+    "wheelchair": "yes",
+    "id": "node/4838594395"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5191554,
+      47.3699367
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4838594396",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "524",
+    "addr:postcode": "8051",
+    "addr:street": "Winterthurerstrasse",
+    "alt_name": "Topwell Apotheke 12",
+    "amenity": "pharmacy",
+    "branch": "Zürich Schwamendingen",
+    "brand": "Medbase",
+    "brand:wikidata": "Q50038690",
+    "healthcare": "pharmacy",
+    "name": "Medbase Apotheke Kreis 12",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
+    "operator": "Medbase Apotheken",
+    "website": "https://www.medbase-apotheken.ch/apotheken/detail/medbase-apotheke-zuerich-kreis-12",
+    "id": "node/4838594396"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5725439,
+      47.4039056
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4838594398",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "181",
+    "addr:postcode": "8047",
+    "addr:street": "Triemlistrasse",
+    "amenity": "pharmacy",
+    "brand": "Rotpunkt Apotheke",
+    "dispensing": "yes",
+    "name": "Triemli-Apotheke & Drogerie",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su 09:00-14:00",
+    "operator": "Rotpunkt Pharma",
+    "phone": "+41 44 463 15 33",
+    "shop": "chemist",
+    "website": "http://www.triemli-apotheke.ch/",
+    "id": "node/4838594398"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4949064,
+      47.3683094
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4847919194",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "81",
+    "addr:postcode": "8044",
+    "addr:street": "Zürichbergstrasse",
+    "amenity": "pharmacy",
+    "brand": "Fortis",
+    "name": "Apotheke Zürichberg",
+    "opening_hours": "Mo-Fr 08:00-18:30, Sa 08:00-16:00",
+    "website": "https://www.apothekezuerichberg.ch/",
+    "id": "node/4847919194"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5600828,
+      47.3768877
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4847919195",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8044",
+    "addr:street": "Vorderberg",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Apotheke Fluntern",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-16:00",
+    "website": "http://www.apothekefluntern-zuerich.ch/",
+    "id": "node/4847919195"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5590941,
+      47.376313
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4848816877",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "19",
+    "addr:postcode": "8001",
+    "addr:street": "Pelikanstrasse",
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2021-06-09",
+    "name": "Pelikan Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-17:00",
+    "website": "http://www.pelikan-apotheke.ch",
+    "wheelchair": "limited",
+    "id": "node/4848816877"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5367242,
+      47.3715933
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4866433276",
+  "properties": {
+    "addr:city": "Pfungen",
+    "addr:housenumber": "5",
+    "addr:postcode": "8422",
+    "addr:street": "Riedäckerstrasse",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Apotheke Medzentrum Pfungen",
+    "phone": "+41 52 305 03 50",
+    "website": "https://medzentrum.ch/apotheke/",
+    "id": "node/4866433276"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6482185,
+      47.516373
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4896763911",
+  "properties": {
+    "amenity": "pharmacy",
+    "branch": "Dielsdorf Center",
+    "brand": "Rotpunkt Apotheke",
+    "healthcare": "pharmacy",
+    "name": "Apotheke Dr. Kunz",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 08:00-20:00; Su off",
+    "phone": "+41 44 853 42 74",
+    "website": "https://www.apothekedrkunz.ch/",
+    "wheelchair": "yes",
+    "id": "node/4896763911"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4661106,
+      47.4841452
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4912996195",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "65",
+    "addr:postcode": "8045",
+    "addr:street": "Giesshübelstrasse",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Apotheke Drogerie Brunaupark",
+    "opening_hours": "Mo-Fr 09:00-19:00;Sa 08:00-18:00",
+    "shop": "chemist",
+    "website": "https://www.apotheke-drogerie-brunaupark.ch/",
+    "id": "node/4912996195"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5179841,
+      47.3582478
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4922030533",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:postcode": "8049",
+    "alt_name": "Apotheke im Brühl",
+    "amenity": "pharmacy",
+    "brand": "Rotpunkt Apotheke",
+    "drive_through": "no",
+    "name": "Zürigsund im Brühl",
+    "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:00-19:00",
+    "website": "https://www.zuerigsund.ch/",
+    "id": "node/4922030533"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.498232,
+      47.4031939
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4995399481",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "12",
+    "addr:postcode": "8400",
+    "addr:street": "Bankstrasse",
+    "alt_name": "Coop Vitality Stadtgarten",
+    "amenity": "pharmacy",
+    "branch": "Winterthur Stadtgarten",
+    "brand": "Coop Vitality",
+    "check_date:opening_hours": "2023-04-24",
+    "level": "-1",
+    "name": "Coop Vitality",
+    "opening_hours": "Mo-Fr 08:30-20:00; Sa 08:00-20:00; PH off",
+    "operator": "Coop Vitality & GaleniCare",
+    "phone": "+41 58 878 86 90",
+    "website": "https://www.coopvitality.ch/de/coop-vitality-stadtgarten-winterthur",
+    "id": "node/4995399481"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7257688,
+      47.500548
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5080302185",
+  "properties": {
+    "addr:city": "Greifensee",
+    "addr:housenumber": "1",
+    "addr:postcode": "8606",
+    "addr:street": "Burstwiesenstrasse",
+    "alt_name": "APODRO Apotheke Greifensee",
+    "amenity": "pharmacy",
+    "branch": "Greifensee",
+    "brand": "APODRO",
+    "healthcare": "pharmacy",
+    "name": "APODRO Apotheke",
+    "opening_hours": "Mo-Fr 08:00-12:15,14:00-18:30; Sa 08:00-16:00",
+    "operator": "APODRO",
+    "phone": "+41 44 994 39 93",
+    "website": "https://www.apodro.ch/%C3%BCber-uns/apodro-standorte/greifensee/",
+    "id": "node/5080302185"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6797796,
+      47.3677812
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5132850083",
+  "properties": {
+    "addr:city": "Schlieren",
+    "addr:housenumber": "4",
+    "addr:postcode": "8925",
+    "addr:street": "Goldschlägiplatz",
+    "alt_name": "Apotheke Dr. Kunz",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "schlieren@apothekedrkunz.ch",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Dr. Kunz",
+    "opening_hours": "Mo-Sa 08:30-19:00",
+    "phone": "+41 43 543 80 20",
+    "website": "https://www.apothekedrkunz.ch/schlieren/",
+    "wheelchair": "yes",
+    "id": "node/5132850083"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4416088,
+      47.3999185
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5188816950",
+  "properties": {
+    "addr:housenumber": "5",
+    "addr:street": "Dorfgasse",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Central Apotheke",
+    "id": "node/5188816950"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5987164,
+      47.2602777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5188816957",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "27",
+    "addr:postcode": "8810",
+    "addr:street": "Zugerstrasse",
+    "amenity": "pharmacy",
+    "branch": "Horgen",
+    "brand": "TopPharm",
+    "brand:wikidata": "Q110277794",
+    "healthcare": "pharmacy",
+    "name": "TopPharm Apotheke zum Erzberg",
+    "operator": "TopPharm Genossenschaft",
+    "website": "https://www.apotheke.ch/erzberg",
+    "id": "node/5188816957"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5984176,
+      47.2590883
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5274359352",
+  "properties": {
+    "addr:city": "Bülach",
+    "addr:country": "CH",
+    "addr:housenumber": "85",
+    "addr:postcode": "8180",
+    "addr:street": "Feldstrasse",
+    "alt_name": "Sun Store Bülach",
+    "amenity": "pharmacy",
+    "branch": "Bülach Süd",
+    "brand": "Sun Store SA",
+    "brand:wikidata": "Q2365840",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Sun Store",
+    "operator": "GaleniCare",
+    "website": "https://www.sunstore.ch/",
+    "id": "node/5274359352"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5403023,
+      47.5097634
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5297383814",
+  "properties": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "apotheke-kispi@kispi.uzh.ch",
+    "name": "Apotheke Kinderspital",
+    "opening_hours": "Mo-Fr 08:45-12:30, 13:30-17:00",
+    "operator": "Eleonorenstiftung",
+    "website": "https://www.kispi.uzh.ch/de/patienten-und-angehoerige/fachbereiche/apotheke/",
+    "id": "node/5297383814"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5578212,
+      47.3719758
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5464829039",
+  "properties": {
+    "addr:city": "Geroldswil",
+    "addr:housenumber": "1",
+    "addr:postcode": "8954",
+    "addr:street": "Poststrasse",
+    "amenity": "pharmacy",
+    "branch": "Geroldswil",
+    "brand": "Pill Apotheke",
+    "level": "1",
+    "name": "Pill Apotheke im Dorf",
+    "opening_hours": "Mo-Fr 08:00-12:15,13:45-18:30; Sa 08:00-16:00; PH off",
+    "operator": "Pill Group",
+    "website": "https://www.pill.ch/standorte/pill-apotheke-im-dorf.html",
+    "wheelchair": "limited",
+    "id": "node/5464829039"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4099964,
+      47.421482
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5791885830",
+  "properties": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "info@apotheke-hotz.ch",
+    "healthcare": "pharmacy",
+    "name": "Apotheke Hotz",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
+    "operator": "B. Bretscher-Hotz",
+    "phone": "+41 44 910 04 04",
+    "website": "https://www.apotheke-hotz.ch/",
+    "id": "node/5791885830"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5816755,
+      47.3184226
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5837045904",
+  "properties": {
+    "amenity": "pharmacy",
+    "name": "Rike",
+    "id": "node/5837045904"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.686936,
+      47.4291342
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6008169101",
+  "properties": {
+    "addr:city": "Embrach",
+    "addr:housenumber": "111",
+    "addr:postcode": "8424",
+    "addr:street": "Dorfstrasse",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Wildbach Apotheke",
+    "opening_hours": "Mo-Fr 08:00-12:15,13:30-18:30; Sa 08:00-16:00",
+    "operator": "Wildbach Apotheke",
+    "id": "node/6008169101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5937229,
+      47.5086256
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6191660982",
+  "properties": {
+    "addr:city": "Affoltern am Albis",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8910",
+    "addr:street": "Büelstrasse",
+    "alt_name": "Vitalis Affoltern a.A.",
+    "amenity": "pharmacy",
+    "branch": "Affoltern am Albis",
+    "brand": "Rotpunkt Apotheke",
+    "check_date": "2023-05-25",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Vitalis",
+    "operator": "Rotpunkt Pharma",
+    "phone": "+41 44 761 87 61",
+    "website": "http://vitalis-apotheke.ch/",
+    "wheelchair": "yes",
+    "id": "node/6191660982"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4463494,
+      47.2743473
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6445018251",
+  "properties": {
+    "addr:city": "Uitikon Waldegg",
+    "addr:housenumber": "4a",
+    "addr:postcode": "8142",
+    "addr:street": "Zürcherstrasse",
+    "amenity": "pharmacy",
+    "brand": "Rotpunkt Apotheke",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "level": "0",
+    "name": "Waldegg Rotpunkt Apotheke",
+    "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-17:00; PH closed",
+    "operator": "Rotpunkt Pharma",
+    "phone": "+41 44 211 77 22",
+    "website": "http://www.waldegg-apotheke.ch/",
+    "wheelchair": "yes",
+    "id": "node/6445018251"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4628225,
+      47.3684193
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6721663777",
+  "properties": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "level": "1",
+    "name": "Hirsig",
+    "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-18:00",
+    "phone": "+41 44 720 06 18",
+    "website": "https://www.drogeriehirsig.ch/",
+    "id": "node/6721663777"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5641498,
+      47.294367
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7001306767",
+  "properties": {
+    "addr:city": "Hinwil",
+    "addr:country": "CH",
+    "addr:housenumber": "27",
+    "addr:postcode": "8340",
+    "addr:street": "Zürichstrasse",
+    "amenity": "pharmacy",
+    "branch": "Hinwil",
+    "brand": "TopPharm",
+    "building": "retail",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "TopPharm",
+    "opening_hours": "Mo-Fr 08:00-12:30, 13:30-18:30, Sa 08:00-16:00",
+    "operator": "TopPharm Genossenschaft",
+    "phone": "+41 44 937 38 72",
+    "source": "local knowledge",
+    "website": "https://www.apotheke.ch/hinwil",
+    "wheelchair": "limited",
+    "id": "node/7001306767"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8408128,
+      47.3032289
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7098198699",
+  "properties": {
+    "access:covid19": "yes",
+    "addr:city": "Hinwil",
+    "addr:housenumber": "38",
+    "addr:postcode": "8340",
+    "addr:street": "Wässeristrasse",
+    "amenity": "pharmacy",
+    "delivery:covid19": "no",
+    "description": "Persönliche und ganzheitliche Beratung für unsere Kundschaft. Neben klassischer Schulmedizin führen wir ein sehr breites und qualitativ hochstehendes Sortiment an Naturheilmitteln, Naturkosmetik, Dermakosmetik, Reformartikel und Babynahrung.",
+    "dispensing": "yes",
+    "email": "info@puls-apothekedrogerie.ch",
+    "fax": "+41 44 938 16 45",
+    "healthcare": "pharmacy",
+    "name": "Puls Apotheke & Drogerie",
+    "opening_hours": "Mo-Sa 09:00-20:00",
+    "opening_hours:covid19": "Mo-Sa 09:00-20:00",
+    "phone": "+41 44 938 16 38",
+    "website": "http://puls-apothekedrogerie.ch/",
+    "wheelchair": "yes",
+    "id": "node/7098198699"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8182526,
+      47.3061526
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7107268780",
+  "properties": {
+    "addr:city": "Wallisellen",
+    "addr:housenumber": "32",
+    "addr:postcode": "8304",
+    "addr:street": "Bahnhofstrasse",
+    "alt_name": "Topwell Apotheke Bahnhof Wallisellen",
+    "amenity": "pharmacy",
+    "branch": "Wallisellen",
+    "brand": "Medbase",
+    "brand:wikidata": "Q50038690",
+    "check_date:opening_hours": "2023-03-09",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Medbase Apotheke Wallisellen",
+    "opening_hours": "Mo-Fr 07:30-18:30, Sa 08:30-17:00",
+    "operator": "Medbase Apotheken",
+    "website": "https://www.topwell.ch/medbaseapothekewallisellen/",
+    "wheelchair": "yes",
+    "id": "node/7107268780"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5920521,
+      47.4134652
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7442531318",
+  "properties": {
+    "addr:city": "Bachenbülach",
+    "addr:housenumber": "6",
+    "addr:postcode": "8184",
+    "addr:street": "Grabenstrasse",
+    "alt_name": "Coop Vitality Bachenbülach",
+    "amenity": "pharmacy",
+    "branch": "Bachenbülach",
+    "brand": "Coop Vitality",
+    "healthcare": "pharmacy",
+    "name": "Coop Vitality",
+    "operator": "Coop Vitality & GaleniCare",
+    "website": "https://www.coopvitality.ch/de/coop-vitality-bachenbulach",
+    "id": "node/7442531318"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5421947,
+      47.5058487
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7465666136",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "152",
+    "addr:postcode": "8005",
+    "addr:street": "Limmatstrasse",
+    "amenity": "pharmacy",
+    "branch": "Zürich Limmatplatz",
+    "brand": "Zur Rose",
+    "check_date": "2023-06-02",
+    "email": "Zürich.limmatplatz@zurrose.ch",
+    "fax": "+41588101105",
+    "healthcare": "pharmacy",
+    "level": "-1",
+    "name": "Zur Rose",
+    "opening_hours": "Mo-Sa 07:30-20:00; PH off",
+    "operator": "MBZR Apotheken",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+41588101104",
+    "website": "https://www.zurrose.ch/",
+    "wheelchair": "yes",
+    "id": "node/7465666136"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5313722,
+      47.3855599
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7473206219",
+  "properties": {
+    "addr:city": "Volketswil",
+    "addr:housenumber": "1",
+    "addr:postcode": "8604",
+    "addr:street": "Industriestrasse",
+    "alt_name": "Coop Vitality Volkiland",
+    "amenity": "pharmacy",
+    "branch": "Volketswil Volkiland",
+    "brand": "Coop Vitality",
+    "name": "Coop Vitality",
+    "operator": "Coop Vitality & GaleniCare",
+    "website": "https://www.coopvitality.ch/de/coop-vitality-volketswil",
+    "id": "node/7473206219"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6668091,
+      47.3828845
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7473358094",
+  "properties": {
+    "addr:city": "Feuerthalen",
+    "addr:housenumber": "30",
+    "addr:postcode": "8245",
+    "addr:street": "Schützenstrasse",
+    "alt_name": "Coop Vitality Rhy Markt",
+    "amenity": "pharmacy",
+    "branch": "Feuerthalen Rhymarkt",
+    "brand": "Coop Vitality",
+    "name": "Coop Vitality",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 08:00-20:00",
+    "operator": "Coop Vitality & GaleniCare",
+    "website": "https://www.coopvitality.ch/de/coop-vitality-feuerthalen",
+    "id": "node/7473358094"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.64741,
+      47.6906516
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7480458352",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "4",
+    "addr:postcode": "8610",
+    "addr:street": "Gerichtsstrasse",
+    "alt_name": "Coop Vitality Uster",
+    "amenity": "pharmacy",
+    "branch": "Uster",
+    "brand": "Coop Vitality",
+    "brand:wikidata": "Q111725297",
+    "healthcare": "pharmacy",
+    "name": "Coop Vitality",
+    "operator": "Coop Vitality & GaleniCare",
+    "website": "https://www.coopvitality.ch/de/coop-vitality-uster",
+    "id": "node/7480458352"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7167475,
+      47.3501508
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7480501323",
+  "properties": {
+    "addr:city": "Thalwil",
+    "addr:housenumber": "1",
+    "addr:postcode": "8800",
+    "addr:street": "Florastrasse",
+    "alt_name": "Coop Vitality Thalwil",
+    "amenity": "pharmacy",
+    "branch": "Thalwil",
+    "brand": "Coop Vitality",
+    "healthcare": "pharmacy",
+    "name": "Coop Vitality",
+    "operator": "Coop Vitality & GaleniCare",
+    "website": "https://www.coopvitality.ch/de/coop-vitality-thalwil",
+    "id": "node/7480501323"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5619532,
+      47.296665
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7481864953",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:place": "Hauptbahnhof, Wannerhalle",
+    "addr:postcode": "8001",
+    "amenity": "pharmacy",
+    "branch": "Zürich HB (Halle)",
+    "brand": "Amavita",
+    "brand:wikidata": "Q93733901",
+    "brand:wikipedia": "de:Amavita",
+    "healthcare": "pharmacy",
+    "indoor": "yes",
+    "level": "0",
+    "name": "Amavita",
+    "note": "Provisorium Bahnhof Apotheke bis vsl. 2023",
+    "opening_hours": "Mo-Su 07:00-24:00",
+    "operator": "GaleniCare",
+    "start_date": "2020-03-02",
+    "website": "https://www.amavita.ch/de/amavita-bahnhof-apotheke",
+    "wheelchair": "yes",
+    "id": "node/7481864953"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5400301,
+      47.3780253
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7481977776",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:postcode": "8105",
+    "amenity": "pharmacy",
+    "branch": "Regensdorf Zentrum",
+    "brand": "Amavita",
+    "name": "Amavita Regensdorf",
+    "operator": "GaleniCare",
+    "website": "https://www.amavita.ch/de/amavita-apotheke-regensdorf",
+    "id": "node/7481977776"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4693016,
+      47.4314913
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7486356363",
+  "properties": {
+    "addr:city": "Volketswil",
+    "addr:housenumber": "18",
+    "addr:postcode": "8604",
+    "addr:street": "Im Zentrum",
+    "amenity": "pharmacy",
+    "branch": "Volketswil Zentrum",
+    "brand": "Medbase",
+    "brand:wikidata": "Q50038690",
+    "level": "1",
+    "name": "Medbase Apotheke Volketswil",
+    "operator": "Medbase Apotheken",
+    "website": "https://www.topwell.ch/medbaseapothekevolketswil/",
+    "id": "node/7486356363"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.681112,
+      47.388053
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7489015226",
+  "properties": {
+    "addr:city": "Wädenswil",
+    "addr:housenumber": "23",
+    "addr:postcode": "8820",
+    "addr:street": "Oberdorfstrasse",
+    "amenity": "pharmacy",
+    "branch": "Wädenswil Oberdorf",
+    "brand": "Pill Apotheke",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "name": "Pill Apotheke Oberdorf",
+    "operator": "Pill Group",
+    "website": "https://www.pill.ch/standorte/pill-apotheke-oberdorf.html",
+    "id": "node/7489015226"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6685405,
+      47.2284711
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7489059376",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "301",
+    "addr:postcode": "8810",
+    "addr:street": "Einsiedlerstrasse",
+    "amenity": "pharmacy",
+    "branch": "Horgen Waldegg",
+    "brand": "Pill Apotheke",
+    "healthcare": "pharmacy",
+    "name": "Pill Apotheke Waldegg",
+    "operator": "Pill Group",
+    "website": "https://www.pill.ch/standorte/pill-apotheke-waldegg.html",
+    "id": "node/7489059376"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6083379,
+      47.2453634
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7491764632",
+  "properties": {
+    "addr:city": "Kloten",
+    "addr:housenumber": "76",
+    "addr:postcode": "8302",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "pharmacy",
+    "brand": "Fortis",
+    "name": "Claudia-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-24:00,13:00-18:30; Sa 10:00-16:00",
+    "website": "https://www.claudia-apotheke.ch/",
+    "id": "node/7491764632"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5800949,
+      47.4463476
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7491989729",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:postcode": "8105",
+    "amenity": "pharmacy",
+    "branch": "Regensdorf",
+    "brand": "TopPharm",
+    "name": "TopPharm Zentrums Apotheke",
+    "opening_hours": "Mo-Sa 09:00-20:00",
+    "operator": "TopPharm Genossenschaft",
+    "website": "https://www.apotheke.ch/zentrum-regensdorf",
+    "id": "node/7491989729"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4691367,
+      47.4315112
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7492114622",
+  "properties": {
+    "addr:city": "Eglisau",
+    "addr:housenumber": "1",
+    "addr:postcode": "8193",
+    "addr:street": "Obergass",
+    "alt_name": "TopPharm Sonnen Apotheke Eglisau",
+    "amenity": "pharmacy",
+    "branch": "Eglisau",
+    "brand": "TopPharm",
+    "name": "TopPharm Sonnen Apotheke",
+    "operator": "TopPharm Genossenschaft",
+    "website": "https://www.apotheke.ch/sonnen-eglisau",
+    "id": "node/7492114622"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5218957,
+      47.5764678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7610215707",
+  "properties": {
+    "addr:city": "Oberrieden",
+    "addr:housenumber": "23",
+    "addr:postcode": "8942",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "email": "info@sternen-apo.ch",
+    "healthcare": "pharmacy",
+    "name": "Sternen Apotheke",
+    "opening_hours": "Mo-Fr 08:30-12:00,14:00-18:30; Sa 08:30-12:00",
+    "operator": "Dr. Thomas Bohner",
+    "phone": "+41 44 720 10 10",
+    "website": "http://www.sternen-apo.ch/",
+    "id": "node/7610215707"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5754119,
+      47.2788414
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7967037966",
+  "properties": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "circle@victoria-apotheke.ch",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Victoria Apotheke",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa,Su 10:00-17:00",
+    "phone": "+41 44 259 80 80",
+    "website": "http://www.victoria-apotheke.ch/",
+    "wheelchair": "yes",
+    "id": "node/7967037966"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5661071,
+      47.4491429
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8078091318",
+  "properties": {
+    "addr:city": "Langnau am Albis",
+    "addr:housenumber": "20a",
+    "addr:postcode": "8135",
+    "addr:street": "Neue Dorfstrasse",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Albis Drogerie",
+    "id": "node/8078091318"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5399059,
+      47.2890316
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8286494176",
+  "properties": {
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2022-11-30",
+    "name": "Bahnhof Apotheke Stettbach",
+    "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
+    "phone": "+41 44 244 05 05",
+    "website": "https://www.bahnhof-apotheke-stettbach.ch/",
+    "id": "node/8286494176"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5972908,
+      47.3970803
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8497598414",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "9",
+    "addr:postcode": "8091",
+    "addr:street": "Spöndlistrasse",
+    "amenity": "pharmacy",
+    "name": "Kantonsapotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:30-13:30",
+    "operator": "Universitätsspital Zürich",
+    "id": "node/8497598414"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5504388,
+      47.3783858
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8568822659",
+  "properties": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Benu",
+    "id": "node/8568822659"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.581108,
+      47.45252
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8628422197",
+  "properties": {
+    "amenity": "pharmacy",
+    "email": "ama449@amavita.ch",
+    "level": "1",
+    "name": "Amavita Apotheke",
+    "opening_hours": "08:00-18:00",
+    "phone": "+41 58 878 25 60",
+    "website": "https://www.amavita.ch/",
+    "wheelchair": "yes",
+    "id": "node/8628422197"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.56089,
+      47.4509495
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8919699602",
+  "properties": {
+    "addr:city": "Hinwil",
+    "addr:housenumber": "19",
+    "addr:postcode": "8340",
+    "addr:street": "Dürntnerstrasse",
+    "alt_name": "APODRO Apotheke Hinwil",
+    "amenity": "pharmacy",
+    "brand": "APODRO",
+    "healthcare": "pharmacy",
+    "name": "APODRO Apotheke",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00",
+    "operator": "APODRO",
+    "website": "https://www.apodro.ch/%C3%BCber-uns/apodro-standorte/hinwil/",
+    "id": "node/8919699602"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8429463,
+      47.3008112
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9655661530",
+  "properties": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "level": "-1",
+    "name": "Bahnhof",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "id": "node/9655661530"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7234498,
+      47.4995242
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9890092430",
+  "properties": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Apotheke im KSW",
+    "opening_hours": "Mo-Fr 8:30-18:00; Sa 8:30-17:00",
+    "id": "node/9890092430"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.728567,
+      47.506884
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10887032582",
+  "properties": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "id": "node/10887032582"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5892499,
+      47.263121
     ]
   }
 }

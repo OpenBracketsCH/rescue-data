@@ -1,6 +1,177 @@
 {
 "type": "FeatureCollection",
 "features": [
-
+{
+  "type": "Feature",
+  "id": "way/172233194",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "7",
+    "addr:postcode": "8200",
+    "addr:street": "Kamorstrasse",
+    "amenity": "childcare",
+    "building": "yes",
+    "check_date": "2023-07-06",
+    "name": "Spielhuus Emmersberg",
+    "id": "way/172233194"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6427536,
+          47.6977939
+        ],
+        [
+          8.6428333,
+          47.6978716
+        ],
+        [
+          8.6429275,
+          47.6979339
+        ],
+        [
+          8.642881,
+          47.6979663
+        ],
+        [
+          8.6427517,
+          47.6979141
+        ],
+        [
+          8.642762,
+          47.697905
+        ],
+        [
+          8.6426659,
+          47.6978236
+        ],
+        [
+          8.6427536,
+          47.6977939
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/251366035",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "8207",
+    "addr:street": "Unterdorf",
+    "amenity": "childcare",
+    "building": "yes",
+    "id": "way/251366035"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6640268,
+          47.7235594
+        ],
+        [
+          8.6638866,
+          47.7235979
+        ],
+        [
+          8.6638379,
+          47.7235176
+        ],
+        [
+          8.6639781,
+          47.7234791
+        ],
+        [
+          8.6640268,
+          47.7235594
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3884226546",
+  "properties": {
+    "amenity": "childcare",
+    "name": "WaldSpielgruppe Schneckennest",
+    "operator": "Sandra Leuthold",
+    "website": "https://schneckennest.jimdo.com/",
+    "id": "node/3884226546"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5626277,
+      47.6806445
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6133586329",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "26",
+    "addr:postcode": "8200",
+    "addr:street": "Blautraubenstrasse",
+    "amenity": "childcare",
+    "name": "Halbtagesspielgruppe Freispielfabrik",
+    "operator": "Freispielfabrik",
+    "id": "node/6133586329"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6415354,
+      47.7030536
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7517151269",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kinderkrippe Wunderstei",
+    "id": "node/7517151269"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6376441,
+      47.7123602
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8010904632",
+  "properties": {
+    "after_school": "yes",
+    "age_group": "0-12",
+    "amenity": "childcare",
+    "kindergarten": "yes",
+    "name": "Kindertagesstätte Schatztrue",
+    "nursery": "yes",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator:type": "public",
+    "id": "node/8010904632"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8609457,
+      47.6618739
+    ]
+  }
+}
 ]
 }

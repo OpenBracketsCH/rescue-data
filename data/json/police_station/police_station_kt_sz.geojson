@@ -3,6 +3,65 @@
 "features": [
 {
   "type": "Feature",
+  "id": "way/387790859",
+  "properties": {
+    "addr:city": "Brunnen",
+    "addr:housenumber": "15",
+    "addr:postcode": "6440",
+    "addr:street": "Gersauerstrasse",
+    "amenity": "police",
+    "building": "yes",
+    "name": "Polizeiposten Brunnen",
+    "operator": "Kantonspolizei Schwyz",
+    "phone": "+41 41 819 53 14",
+    "id": "way/387790859"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6037427,
+          46.9945275
+        ],
+        [
+          8.603824,
+          46.9944443
+        ],
+        [
+          8.6038358,
+          46.9944485
+        ],
+        [
+          8.6038822,
+          46.994403
+        ],
+        [
+          8.6040856,
+          46.9944958
+        ],
+        [
+          8.6040128,
+          46.9945698
+        ],
+        [
+          8.6039411,
+          46.9945334
+        ],
+        [
+          8.6038849,
+          46.9945914
+        ],
+        [
+          8.6037427,
+          46.9945275
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/291384182",
   "properties": {
     "addr:city": "Schwyz",
@@ -71,6 +130,165 @@
     "coordinates": [
       8.8571796,
       47.191093
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1166423434",
+  "properties": {
+    "addr:city": "Pfäffikon (SZ)",
+    "addr:housenumber": "6",
+    "addr:postcode": "8808",
+    "addr:street": "Eichenstrasse",
+    "amenity": "police",
+    "name": "Polizeiposten Höfe",
+    "operator": "Kantonspolizei Schwyz",
+    "phone": "+41 41 819 58 58",
+    "id": "node/1166423434"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7645067,
+      47.1977746
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1411346290",
+  "properties": {
+    "addr:city": "Küssnacht (SZ)",
+    "addr:housenumber": "1",
+    "addr:postcode": "6403",
+    "addr:street": "Bärenmatte",
+    "alt_name": "Kapo Schwyz",
+    "amenity": "police",
+    "email": "kapo@sz.ch",
+    "name": "Polizeiposten Küssnacht am Rigi (Hauptposten)",
+    "operator": "Kantonspolizei Schwyz",
+    "phone": "+41 41 819 53 64",
+    "id": "node/1411346290"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4373458,
+      47.0858069
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4207802837",
+  "properties": {
+    "addr:city": "Pfäffikon SZ",
+    "addr:housenumber": "27a",
+    "addr:postcode": "8808",
+    "addr:street": "Hurdnerwäldlistrasse",
+    "amenity": "police",
+    "description": "Umweltschutz- und Seepolizei Ausserschwyz Kantonspolizei Schwyz",
+    "name": "Umweltschutz- und Seepolizei",
+    "operator": "Kantonspolizei Schwyz",
+    "phone": "+41 55 410 44 93",
+    "website": "https://www.sz.ch/xml_1/internet/de/application/d999/d2537/d2538/d23859/p26217.cfm?strasse=Hurdnerwaeldlistrasse+27a+8808+Pfaeffikon",
+    "id": "node/4207802837"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7957876,
+      47.2033982
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6651575501",
+  "properties": {
+    "addr:city": "Muotathal",
+    "addr:country": "CH",
+    "addr:housenumber": "27",
+    "addr:postcode": "6436",
+    "addr:street": "Hauptstrasse",
+    "amenity": "police",
+    "name": "Polizeiposten Muotathal",
+    "operator": "Kantonspolizei Schwyz",
+    "phone": "+41 41 830 11 17",
+    "id": "node/6651575501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7571335,
+      46.9746323
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8520354495",
+  "properties": {
+    "addr:city": "Unteriberg",
+    "addr:housenumber": "42",
+    "addr:postcode": "8842",
+    "addr:street": "Oberibergerstrasse",
+    "amenity": "police",
+    "name": "Polizeiposten Unteriberg",
+    "operator": "Kantonspolizei Schwyz",
+    "phone": "+41 55 414 11 41",
+    "id": "node/8520354495"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.798925,
+      47.0584914
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8520369956",
+  "properties": {
+    "addr:city": "Goldau",
+    "addr:housenumber": "19",
+    "addr:postcode": "6410",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "police",
+    "name": "Polizeiposten Goldau",
+    "operator": "Kantonspolizei Schwyz",
+    "phone": "+41 41 819 53 15",
+    "id": "node/8520369956"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5455615,
+      47.0494528
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8520382283",
+  "properties": {
+    "addr:city": "Siebnen",
+    "addr:housenumber": "6",
+    "addr:postcode": "8854",
+    "addr:street": "Stachelhofstrasse",
+    "amenity": "police",
+    "name": "Polizeiposten Siebnen",
+    "operator": "Kantonspolizei Schwyz",
+    "phone": "+41 41 819 59 10",
+    "id": "node/8520382283"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9126766,
+      47.1748996
     ]
   }
 }

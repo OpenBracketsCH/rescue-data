@@ -210,6 +210,553 @@
       47.3511457
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/1827597292",
+  "properties": {
+    "description:emergency": "Schwendenholzweg / Hohensteinstrasse",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "Biketrail Triemli Rettungspunkt C Hohensteinstr.",
+    "operator": "Grün Stadt Zürich",
+    "ref": "C",
+    "id": "node/1827597292"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4885852,
+      47.3563355
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1923823662",
+  "properties": {
+    "description:emergency": "Banzwiesenstrasse",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "Biketrail Triemli Rettungspunkt I Banzwiesenstr/Hohensteinweg",
+    "operator": "Grün Stadt Zürich",
+    "ref": "I",
+    "id": "node/1923823662"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.492772,
+      47.3623044
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2610846123",
+  "properties": {
+    "highway": "emergency_access_point",
+    "ref": "D",
+    "id": "node/2610846123"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5785584,
+      47.3707537
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2610846126",
+  "properties": {
+    "highway": "emergency_access_point",
+    "ref": "B",
+    "id": "node/2610846126"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5855897,
+      47.3711095
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2649445283",
+  "properties": {
+    "highway": "emergency_access_point",
+    "ref": "A",
+    "id": "node/2649445283"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5880496,
+      47.3695679
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3716706604",
+  "properties": {
+    "highway": "emergency_access_point",
+    "ref": "E",
+    "id": "node/3716706604"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5795268,
+      47.3669592
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6615840593",
+  "properties": {
+    "description:emergency": "Hohensteinstrasse / Sädleneggweg",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "Biketrail Triemli Rettungspunkt H",
+    "operator": "Grün Stadt Zürich",
+    "ref": "H",
+    "id": "node/6615840593"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4898733,
+      47.3624857
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6716849238",
+  "properties": {
+    "alt_name": "Biketrail Höckler",
+    "description:emergency": "Höcklerstrasse",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "Höcklerstrasse / Maneggweg",
+    "operator": "Grün Stadt Zürich",
+    "ref": "D1",
+    "id": "node/6716849238"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5064491,
+      47.3385901
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7517101866",
+  "properties": {
+    "description:emergency": "Schwendenholzweg / Hohensteinstrasse",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "Biketrail Triemli Rettungspunkt D Gratweg",
+    "operator": "Grün Stadt Zürich",
+    "ref": "D",
+    "id": "node/7517101866"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.487356,
+      47.358119
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8593073998",
+  "properties": {
+    "alt_name": "Biketrail Höckler",
+    "description:emergency": "Gänzilooweg / Höcklerstrasse",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "Höcklerstrasse",
+    "operator": "Grün Stadt Zürich",
+    "ref": "E1",
+    "id": "node/8593073998"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5098325,
+      47.3423278
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8662821054",
+  "properties": {
+    "alt_name": "Biketrail Höckler",
+    "description:emergency": "Gänzilooweg / Meierholzstrasse",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "Gänzilooweg / Meierholzstrasse",
+    "operator": "Grün Stadt Zürich",
+    "ref": "F1",
+    "id": "node/8662821054"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5106185,
+      47.3439036
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9392378400",
+  "properties": {
+    "description:emergency": "Triemlihalde / Läufeweg",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "SW3",
+    "operator": "Grün Stadt Zürich",
+    "ref": "3",
+    "id": "node/9392378400"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4895082,
+      47.3652286
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9392388084",
+  "properties": {
+    "description:emergency": "Triemlihalde / Läufeweg",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "SW3A",
+    "operator": "Grün Stadt Zürich",
+    "ref": "3a",
+    "id": "node/9392388084"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4854502,
+      47.3662369
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9392388091",
+  "properties": {
+    "description:emergency": "Hohensteinstrasse",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "SW6",
+    "operator": "Grün Stadt Zürich",
+    "ref": "6",
+    "id": "node/9392388091"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4814906,
+      47.3641589
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9392416374",
+  "properties": {
+    "description:emergency": "Schwendenholzweg",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "SW9",
+    "operator": "Grün Stadt Zürich",
+    "ref": "9",
+    "id": "node/9392416374"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4871968,
+      47.3601224
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9392416375",
+  "properties": {
+    "description:emergency": "Uetlibergstrasse",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "SW13",
+    "operator": "Grün Stadt Zürich",
+    "ref": "13",
+    "id": "node/9392416375"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.488057,
+      47.3527116
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9392441271",
+  "properties": {
+    "description:emergency": "Uetlibergstrasse",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "SW11",
+    "operator": "Grün Stadt Zürich",
+    "ref": "11",
+    "id": "node/9392441271"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4862151,
+      47.3553009
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9392444185",
+  "properties": {
+    "description:emergency": "Hohensteinweg",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "SW1",
+    "operator": "Grün Stadt Zürich",
+    "ref": "1",
+    "id": "node/9392444185"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4940201,
+      47.3630826
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9392444446",
+  "properties": {
+    "description:emergency": "Banzwiesenstrasse",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "SW2",
+    "operator": "Grün Stadt Zürich",
+    "ref": "2",
+    "id": "node/9392444446"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4919694,
+      47.3638209
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9392444448",
+  "properties": {
+    "description:emergency": "Hohensteinstrasse",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "SW5",
+    "operator": "Grün Stadt Zürich",
+    "ref": "5",
+    "id": "node/9392444448"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4809313,
+      47.3653423
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9392447122",
+  "properties": {
+    "description:emergency": "Aegertenweg",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "SW10",
+    "operator": "Grün Stadt Zürich",
+    "ref": "10",
+    "id": "node/9392447122"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4857618,
+      47.3578327
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9392447244",
+  "properties": {
+    "description:emergency": "Schwendenholzweg",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "SW8",
+    "operator": "Grün Stadt Zürich",
+    "ref": "8",
+    "id": "node/9392447244"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4869346,
+      47.3609253
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9392448358",
+  "properties": {
+    "description:emergency": "Polenweg",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "SW7",
+    "operator": "Grün Stadt Zürich",
+    "ref": "7",
+    "id": "node/9392448358"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4832522,
+      47.3628477
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9392450654",
+  "properties": {
+    "description:emergency": "Sädleneggwegg",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "SW4",
+    "operator": "Grün Stadt Zürich",
+    "ref": "4",
+    "id": "node/9392450654"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4834678,
+      47.3650675
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9392457518",
+  "properties": {
+    "description:emergency": "Uetlibergstrasse",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "SW12",
+    "operator": "Grün Stadt Zürich",
+    "ref": "12",
+    "id": "node/9392457518"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4876117,
+      47.3542988
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9399507475",
+  "properties": {
+    "description:emergency": "Waidmattweg / Gänziloobrücke",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "Waidmattweg / Gänziloobr. / Blindschleichenweg",
+    "operator": "Grün Stadt Zürich",
+    "ref": "I1",
+    "id": "node/9399507475"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5153805,
+      47.3489789
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9399514354",
+  "properties": {
+    "description:emergency": "Meierholzstrasse / Schäferweg / Gänzilooweg",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "Meierholzstrasse / Schäferweg",
+    "operator": "Grün Stadt Zürich",
+    "ref": "H1",
+    "id": "node/9399514354"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5120308,
+      47.347841
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9399533695",
+  "properties": {
+    "description:emergency": "Gänzilooweg / Meierholzstrasse",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "Gänzilooweg / Meierholzstrasse",
+    "operator": "Grün Stadt Zürich",
+    "ref": "G1",
+    "id": "node/9399533695"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5106736,
+      47.344167
+    ]
+  }
 }
 ]
 }

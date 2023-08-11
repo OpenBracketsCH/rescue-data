@@ -3,6 +3,58 @@
 "features": [
 {
   "type": "Feature",
+  "id": "way/379738585",
+  "properties": {
+    "addr:postcode": "6300",
+    "addr:street": "Bahnhofplatz",
+    "amenity": "pharmacy",
+    "branch": "Zug Bahnhof",
+    "brand": "Achillea Apotheke",
+    "check_date:opening_hours": "2023-07-16",
+    "healthcare": "pharmacy",
+    "indoor": "yes",
+    "level": "0",
+    "name": "Zug Apotheke",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa,Su 08:00-20:00",
+    "operator": "Dr. Bähler Dropa",
+    "website": "https://achillea.ch/standorte/zug-apotheke",
+    "wheelchair": "yes",
+    "id": "way/379738585"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5151567,
+          47.173503
+        ],
+        [
+          8.5150541,
+          47.1735378
+        ],
+        [
+          8.514861,
+          47.1733902
+        ],
+        [
+          8.5149653,
+          47.173329
+        ],
+        [
+          8.5150146,
+          47.1733706
+        ],
+        [
+          8.5151567,
+          47.173503
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/318530558",
   "properties": {
     "amenity": "pharmacy",
@@ -145,6 +197,197 @@
     "coordinates": [
       8.5173863,
       47.1724716
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1655834253",
+  "properties": {
+    "amenity": "pharmacy",
+    "name": "Arkaden-Apotheke",
+    "opening_hours": "Mo-Fr 08:30-12:15,13:30-18:30; Sa 08:30-16:00",
+    "id": "node/1655834253"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.429443,
+      47.1411657
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2623963074",
+  "properties": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Gotthard Apotheke Baar",
+    "wheelchair": "yes",
+    "id": "node/2623963074"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5236302,
+      47.1946768
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3267887805",
+  "properties": {
+    "addr:city": "Unterägeri",
+    "addr:housenumber": "32",
+    "addr:postcode": "6314",
+    "addr:street": "Zugerstrasse",
+    "amenity": "pharmacy",
+    "branch": "Unterägeri",
+    "brand": "Amavita",
+    "brand:wikidata": "Q93733901",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Amavita",
+    "operator": "GaleniCare",
+    "website": "https://www.amavita.ch/de/amavita-apotheke-unterageri",
+    "id": "node/3267887805"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5795196,
+      47.1382235
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3358077152",
+  "properties": {
+    "addr:housenumber": "11",
+    "addr:postcode": "6300",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "pharmacy",
+    "fax": "+41 41 711 15 79",
+    "healthcare": "pharmacy",
+    "name": "Spillmann",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
+    "opening_hours:covid19": "same",
+    "payment:cash": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+41 41 711 15 47",
+    "website": "http://www.apotheke-spillmann.ch/",
+    "id": "node/3358077152"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.515584,
+      47.1687951
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3901646007",
+  "properties": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Drogerie Hermann",
+    "website": "https://drogerie-hermann.ch/",
+    "id": "node/3901646007"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5810692,
+      47.1379227
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5926537691",
+  "properties": {
+    "addr:city": "Baar",
+    "addr:housenumber": "3",
+    "addr:postcode": "6340",
+    "addr:street": "Dorfstrasse",
+    "alt_name": "TopPharm Rathaus Apotheke Baar",
+    "amenity": "pharmacy",
+    "branch": "Baar",
+    "brand": "TopPharm",
+    "brand:wikidata": "Q110277794",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "TopPharm",
+    "operator": "TopPharm Genossenschaft",
+    "website": "https://www.apotheke.ch/rathaus-baar",
+    "id": "node/5926537691"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5261526,
+      47.1943158
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6690547557",
+  "properties": {
+    "addr:city": "Zug",
+    "addr:housenumber": "10",
+    "addr:postcode": "6300",
+    "addr:street": "Hertizentrum",
+    "amenity": "pharmacy",
+    "brand": "Rotpunkt Apotheke",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Herti Apotheke und Drogerie",
+    "opening_hours": "Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 08:00-17:00",
+    "phone": "+41 41 711 85 00",
+    "shop": "chemist",
+    "website": "http://www.hertiapotheke.ch/",
+    "id": "node/6690547557"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5058906,
+      47.1776096
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7492151750",
+  "properties": {
+    "addr:city": "Zug",
+    "addr:housenumber": "12",
+    "addr:postcode": "6300",
+    "addr:street": "Alpenstrasse",
+    "amenity": "pharmacy",
+    "branch": "Zug Bahnhof-Apotheke",
+    "brand": "TopPharm",
+    "brand:wikidata": "Q110277794",
+    "healthcare": "pharmacy",
+    "name": "TopPharm",
+    "operator": "TopPharm Genossenschaft",
+    "website": "https://www.apotheke.ch/bahnhof-zug",
+    "id": "node/7492151750"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5149676,
+      47.1725785
     ]
   }
 }
