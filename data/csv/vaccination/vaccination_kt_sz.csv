@@ -1,1 +1,2 @@
 type,features
+FeatureCollection,"{'type': 'Feature', 'id': 'node/8712147047', 'properties': {'healthcare': 'vaccination_centre', 'healthcare:speciality': 'vaccination', 'vaccination': 'covid19', 'id': 'node/8712147047'}, 'geometry': {'type': 'Point', 'coordinates': [8.9816533, 47.1723904]}}"
