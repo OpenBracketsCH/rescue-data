@@ -52932,6 +52932,27 @@
       47.548492
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11107154705",
+  "properties": {
+    "addr:postcode": "1008",
+    "amenity": "clinic",
+    "email": "info@cmlo.ch",
+    "name": "CMLO Centre Médical Lausanne Ouest",
+    "opening_hours": "Su-Fr 08:00-18:00",
+    "phone": "+41 21 622 00 00",
+    "website": "http://cmlo.ch",
+    "id": "node/11107154705"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6007516,
+      46.5295606
+    ]
+  }
 }
 ]
 }

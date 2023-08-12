@@ -7685,6 +7685,7 @@
   "id": "way/79429408",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2023-08-11",
     "name": "Kindergarten Laubegg",
     "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
     "id": "way/79429408"

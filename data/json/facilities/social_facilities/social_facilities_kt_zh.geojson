@@ -40267,6 +40267,25 @@
 },
 {
   "type": "Feature",
+  "id": "node/4350927342",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Verein Wohnbegleitung",
+    "social_facility": "assisted_living",
+    "social_facility:for": "mental_health",
+    "website": "https://wohnbegleitung.ch/",
+    "id": "node/4350927342"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.763231,
+      47.4840991
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4416307505",
   "properties": {
     "addr:city": "Forch",
