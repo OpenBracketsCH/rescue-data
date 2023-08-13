@@ -2595,7 +2595,7 @@
     "amenity": "social_facility",
     "building": "yes",
     "email": "pflegezentrum@acasa-maennedorf.ch",
-    "name": "Pflegezentrum acasa männedorf",
+    "name": "Pflegezentrum Acasa Männedorf",
     "old_name": "Altersheim Emmaus",
     "phone": "+41 44 921 64 11",
     "short_name": "Acasa Männedorf",
@@ -24092,7 +24092,7 @@
   "type": "Feature",
   "id": "way/250353581",
   "properties": {
-    "addr:city": "Rüti (ZH)",
+    "addr:city": "Rüti ZH",
     "addr:housenumber": "41",
     "addr:postcode": "8630",
     "addr:street": "Walderstrasse",

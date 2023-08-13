@@ -6107,7 +6107,7 @@
     "building": "yes",
     "healthcare": "clinic",
     "name": "Centre Médical de la Côte",
-    "opening_hours": "Mo-Fr 08:00-19:00, Sa-So 08:00-13:00",
+    "opening_hours": "Mo-Fr 08:00-19:00, Sa-Su 08:00-13:00",
     "operator": "Medbase",
     "source": "Orthophotos2006sitn50cm",
     "website": "https://cmcote.ch/",

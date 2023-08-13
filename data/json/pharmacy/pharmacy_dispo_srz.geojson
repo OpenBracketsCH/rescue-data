@@ -2646,6 +2646,7 @@
     "amenity": "pharmacy",
     "branch": "Meilen",
     "brand": "TopPharm",
+    "brand:wikidata": "Q110277794",
     "dispensing": "yes",
     "drive_through": "no",
     "healthcare": "pharmacy",
