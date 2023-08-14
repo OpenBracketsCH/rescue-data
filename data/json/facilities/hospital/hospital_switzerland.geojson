@@ -15365,8 +15365,60 @@
           47.4696487
         ],
         [
-          9.0362147,
-          47.4686184
+          9.0367082,
+          47.4694628
+        ],
+        [
+          9.036744,
+          47.4691535
+        ],
+        [
+          9.0368347,
+          47.4689996
+        ],
+        [
+          9.0367812,
+          47.468895
+        ],
+        [
+          9.0364962,
+          47.4688281
+        ],
+        [
+          9.0363381,
+          47.4686922
+        ],
+        [
+          9.0362497,
+          47.4685176
+        ],
+        [
+          9.0361597,
+          47.4683546
+        ],
+        [
+          9.0361035,
+          47.4683188
+        ],
+        [
+          9.0360131,
+          47.4682982
+        ],
+        [
+          9.0359193,
+          47.4682843
+        ],
+        [
+          9.0358088,
+          47.4682757
+        ],
+        [
+          9.0357185,
+          47.4682773
+        ],
+        [
+          9.0355639,
+          47.4683037
         ],
         [
           9.0352541,
@@ -22497,17 +22549,23 @@
   "type": "Feature",
   "id": "way/339025313",
   "properties": {
+    "addr:city": "Zürich",
     "addr:housenumber": "8",
+    "addr:postcode": "8004",
     "addr:street": "Militärstrasse",
+    "air_conditioning": "no",
     "alt_name": "Kriesnintervention Zürich",
     "amenity": "clinic",
     "building": "yes",
     "email": "tagesklinik.militaerstrasse@puk.zh.ch",
     "healthcare": "clinic",
+    "healthcare:speciality": "psychiatry",
     "name": "KIZ Tagesklinik Militärstrasse",
     "operator": "Psychiatrische Universitätsklinik Zürich",
+    "operator:type": "public",
     "phone": "+41 44 296 74 81",
     "website": "https://www.pukzh.ch/unterlagen/behandlungsangebote/tagesklinik-militaerstrasse/",
+    "wheelchair": "yes",
     "id": "way/339025313"
   },
   "geometry": {
@@ -22515,8 +22573,8 @@
     "coordinates": [
       [
         [
-          8.5335031,
-          47.376333
+          8.5334853,
+          47.3763311
         ],
         [
           8.5333701,
@@ -22527,12 +22585,12 @@
           47.3761633
         ],
         [
-          8.5336146,
-          47.3762644
+          8.5335968,
+          47.3762625
         ],
         [
-          8.5335031,
-          47.376333
+          8.5334853,
+          47.3763311
         ]
       ]
     ]

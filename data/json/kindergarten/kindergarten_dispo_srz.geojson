@@ -5498,64 +5498,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/45130340",
-  "properties": {
-    "addr:city": "Kloten",
-    "addr:housenumber": "7",
-    "addr:postcode": "8302",
-    "addr:street": "Weinbergstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Freienberg A+B",
-    "source": "Yahoo aerial images",
-    "id": "way/45130340"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5810839,
-          47.4653093
-        ],
-        [
-          8.5813914,
-          47.4651995
-        ],
-        [
-          8.5814382,
-          47.4652594
-        ],
-        [
-          8.5814431,
-          47.4652577
-        ],
-        [
-          8.5814487,
-          47.4652648
-        ],
-        [
-          8.5814408,
-          47.4652676
-        ],
-        [
-          8.5814634,
-          47.4652966
-        ],
-        [
-          8.5811588,
-          47.4654053
-        ],
-        [
-          8.5810839,
-          47.4653093
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/45208885",
   "properties": {
     "addr:city": "Volketswil",
@@ -37285,6 +37227,42 @@
         [
           8.6234944,
           47.7129135
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1197612918",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Freienberg",
+    "id": "way/1197612918"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5810054,
+          47.4652929
+        ],
+        [
+          8.5815459,
+          47.4651014
+        ],
+        [
+          8.581674,
+          47.4652667
+        ],
+        [
+          8.5811335,
+          47.4654582
+        ],
+        [
+          8.5810054,
+          47.4652929
         ]
       ]
     ]
