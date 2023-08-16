@@ -367,6 +367,10 @@
           47.2736761
         ],
         [
+          8.7234551,
+          47.2735872
+        ],
+        [
           8.7233574,
           47.2735162
         ],
@@ -5589,6 +5593,7 @@
     "addr:street": "Riedweg",
     "amenity": "fire_station",
     "name": "Feuerwehr Russikon",
+    "website": "https://www.feuerwehrrussikon.ch/",
     "id": "node/4367651591"
   },
   "geometry": {

@@ -2581,6 +2581,50 @@
 },
 {
   "type": "Feature",
+  "id": "way/1198225354",
+  "properties": {
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "way/1198225354"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.7247126,
+        47.2715711
+      ],
+      [
+        8.7247255,
+        47.2715757
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1198225356",
+  "properties": {
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "way/1198225356"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.7241023,
+        47.2716382
+      ],
+      [
+        8.7241075,
+        47.2716488
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/25427486",
   "properties": {
     "barrier": "gate",
@@ -25081,8 +25125,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7712998,
-      47.3734985
+      8.7712734,
+      47.3734751
     ]
   }
 },
@@ -31130,8 +31174,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7689282,
-      47.3722528
+      8.7689326,
+      47.3722505
     ]
   }
 },
@@ -70771,23 +70815,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10796040403",
-  "properties": {
-    "access": "customers",
-    "barrier": "gate",
-    "material": "metal",
-    "id": "node/10796040403"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7247176,
-      47.2715719
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10796072498",
   "properties": {
     "access": "customers",
@@ -73694,6 +73721,36 @@
     "coordinates": [
       8.7735731,
       47.3960917
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11115864184",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11115864184"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7238994,
+      47.2715778
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11115865711",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11115865711"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7234192,
+      47.2712179
     ]
   }
 }
