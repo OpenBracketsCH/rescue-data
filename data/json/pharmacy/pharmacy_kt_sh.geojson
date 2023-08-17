@@ -6,6 +6,7 @@
   "id": "node/441986102",
   "properties": {
     "addr:city": "Stein am Rhein",
+    "addr:country": "CH",
     "addr:housenumber": "8",
     "addr:postcode": "8260",
     "addr:street": "Rathausplatz",

@@ -10550,6 +10550,7 @@
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "website": "https://www.russikon.ch/de/pflegezentrumrosengasse/",
+    "wheelchair": "yes",
     "id": "way/91736343"
   },
   "geometry": {

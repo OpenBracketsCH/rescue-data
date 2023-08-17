@@ -1679,6 +1679,7 @@
   "id": "node/441986102",
   "properties": {
     "addr:city": "Stein am Rhein",
+    "addr:country": "CH",
     "addr:housenumber": "8",
     "addr:postcode": "8260",
     "addr:street": "Rathausplatz",
@@ -7024,6 +7025,7 @@
     "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-18:00",
     "phone": "+41 44 720 06 18",
     "website": "https://www.drogeriehirsig.ch/",
+    "wheelchair": "yes",
     "id": "node/6721663777"
   },
   "geometry": {

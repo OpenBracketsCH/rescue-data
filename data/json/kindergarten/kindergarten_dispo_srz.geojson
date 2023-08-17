@@ -28007,6 +28007,7 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "building:levels": "2",
+    "check_date": "2023-08-16",
     "name": "Kindergarten Schwandel",
     "roof:levels": "0",
     "roof:shape": "flat",
@@ -34151,6 +34152,7 @@
   "id": "way/849733617",
   "properties": {
     "addr:city": "Stein am Rhein",
+    "addr:country": "CH",
     "addr:housenumber": "5",
     "addr:postcode": "8260",
     "addr:street": "Mühlenstrasse",

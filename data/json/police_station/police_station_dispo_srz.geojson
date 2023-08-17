@@ -1871,6 +1871,7 @@
   "id": "node/436132162",
   "properties": {
     "addr:city": "Stein am Rhein",
+    "addr:country": "CH",
     "addr:postcode": "8260",
     "addr:street": "Rathausplatz",
     "amenity": "police",
