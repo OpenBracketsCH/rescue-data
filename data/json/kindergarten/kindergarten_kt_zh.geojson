@@ -24582,6 +24582,7 @@
     "addr:postcode": "8400",
     "addr:street": "Feldstrasse",
     "amenity": "kindergarten",
+    "check_date": "2023-08-17",
     "name": "Kindergarten Feldstrasse",
     "operator": "Schule Gallispitz",
     "id": "way/409160847"

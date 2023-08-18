@@ -11555,31 +11555,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11044204805",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Kantonales Labor Zürich",
-    "description": "Während der Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "1",
-    "opening_hours": "Mo-Fr 08:00-11:45,13:00-16:30",
-    "operator": "Kanton",
-    "phone": "+41 432447151",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/11044204805"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5586822,
-      47.3710903
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11044212505",
   "properties": {
     "access": "no",
@@ -11729,6 +11704,27 @@
     "coordinates": [
       8.5589557,
       47.4127265
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11121313505",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Badenerstrasse 551",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "4",
+    "phone": "0444935951",
+    "id": "node/11121313505"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4992334,
+      47.3835074
     ]
   }
 }

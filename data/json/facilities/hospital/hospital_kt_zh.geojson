@@ -1726,6 +1726,107 @@
 },
 {
   "type": "Feature",
+  "id": "way/222563051",
+  "properties": {
+    "addr:city": "Meilen",
+    "addr:housenumber": "24",
+    "addr:postcode": "8706",
+    "addr:street": "Unot",
+    "amenity": "clinic",
+    "building": "yes",
+    "contact:email": "privatklinik@hohenegg.ch",
+    "contact:phone": "+41 44 925 12 12",
+    "contact:website": "https://www.hohenegg.ch/",
+    "name": "Haus Attika Klinik Hohenegg",
+    "operator": "Privatklinik Hohenegg AG",
+    "id": "way/222563051"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6555284,
+          47.2744938
+        ],
+        [
+          8.6553775,
+          47.2743344
+        ],
+        [
+          8.6554292,
+          47.2743119
+        ],
+        [
+          8.6553396,
+          47.2742172
+        ],
+        [
+          8.6553245,
+          47.2742238
+        ],
+        [
+          8.6552637,
+          47.2741595
+        ],
+        [
+          8.6554508,
+          47.274078
+        ],
+        [
+          8.6555253,
+          47.2741567
+        ],
+        [
+          8.6556007,
+          47.2742364
+        ],
+        [
+          8.6555787,
+          47.274246
+        ],
+        [
+          8.6555956,
+          47.2742639
+        ],
+        [
+          8.6556134,
+          47.2742826
+        ],
+        [
+          8.6555884,
+          47.2742935
+        ],
+        [
+          8.6557059,
+          47.2744177
+        ],
+        [
+          8.6556289,
+          47.2744512
+        ],
+        [
+          8.6556415,
+          47.2744646
+        ],
+        [
+          8.655615,
+          47.2744762
+        ],
+        [
+          8.6556015,
+          47.2744619
+        ],
+        [
+          8.6555284,
+          47.2744938
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/235292955",
   "properties": {
     "addr:city": "Meilen",
@@ -8370,7 +8471,6 @@
     "level": "0",
     "name": "Seegarten Klinik AG",
     "opening_hours": "Mo-Fr 08:00-17:30",
-    "opening_hours:covid19": "same",
     "phone": "+41 44 716 48 48",
     "website": "https://www.sgk.swiss/",
     "id": "node/8702470111"

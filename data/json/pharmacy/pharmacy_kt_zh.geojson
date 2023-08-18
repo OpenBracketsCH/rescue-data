@@ -1568,7 +1568,6 @@
     "healthcare": "pharmacy",
     "name": "TopPharm",
     "opening_hours": "Mo-Fr 09:00-18:30; Sa 08:00-16:00",
-    "opening_hours:covid19": "Mo-Fr 09:00-18:30; Sa 08:00-16:00",
     "operator": "TopPharm Genossenschaft",
     "website": "https://www.apotheke.ch/heumoos",
     "id": "node/446865522"
@@ -2545,7 +2544,6 @@
     "name": "Medbase Apotheke Berninaplatz",
     "old_name": "Bernina Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
-    "opening_hours:covid19": "open",
     "operator": "Medbase Apotheken",
     "source": "survey",
     "takeaway:covid19": "no",
@@ -2629,7 +2627,6 @@
     "delivery:covid19": "yes",
     "name": "Apotheke & Drogerie Leue",
     "opening_hours": "Mo-Sa 08:00-19:00",
-    "opening_hours:covid19": "Mo-Sa 08:00-19:00",
     "shop": "chemist",
     "website": "https://www.apotheke-leue.ch/",
     "id": "node/897238530"
@@ -3578,7 +3575,6 @@
     "dispensing": "no",
     "healthcare": "pharmacy",
     "name": "Dorf-Apotheke Gossau",
-    "opening_hours:covid19": "open",
     "shop": "chemist",
     "wheelchair": "yes",
     "id": "node/1788460722"
@@ -4432,7 +4428,6 @@
     "brand": "TopPharm",
     "name": "TopPharm Glattpark Apotheke",
     "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00",
-    "opening_hours:covid19": "open",
     "operator": "TopPharm Genossenschaft",
     "source": "survey",
     "website": "https://www.apotheke.ch/glattpark",
@@ -5557,7 +5552,6 @@
     "healthcare": "pharmacy",
     "name": "Coop Vitality",
     "opening_hours": "Mo-Fr 07:30-20:00; Sa 08:00-20:00",
-    "opening_hours:covid19": "open",
     "operator": "Coop Vitality & GaleniCare",
     "website": "https://www.coopvitality.ch/de/coop-vitality-wallisellen",
     "wheelchair": "yes",

@@ -5096,6 +5096,7 @@
   "id": "node/5884359026",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2023-08-17",
     "name": "Montessori Kinderhaus",
     "operator": "Montessori-Kinderhaus Winterthur",
     "website": "https://www.montessori-winterthur.ch/",
@@ -6208,7 +6209,6 @@
     "addr:street": "Bahnhofstrasse",
     "amenity": "childcare",
     "name": "Kinderkrippe Einhorn",
-    "opening_hours:covid19": "open",
     "phone": "+41 78 966 02 22",
     "website": "http://www.kinderkrippe-einhorn.ch",
     "id": "node/6746784535"
@@ -6646,7 +6646,6 @@
     "description": "Wald- und Theater-Kindertagesstätte",
     "name": "Hazo-Kita",
     "opening_hours": "Mo-Fr 07:00-19:00",
-    "opening_hours:covid19": "open",
     "operator": "Hazo-Kita Glattpark",
     "operator:type": "private",
     "website": "www.hazo-kita.ch",

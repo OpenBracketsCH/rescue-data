@@ -12288,8 +12288,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.430317,
-      47.1734036
+      8.4300502,
+      47.1733526
     ]
   }
 },
@@ -17607,6 +17607,7 @@
     "indoor": "no",
     "level": "0",
     "name": "Eingang Parkhaus Rigiplatz",
+    "opening_hours": "24/7",
     "operator": "Einwohnergemeinde Cham",
     "id": "node/8317714108"
   },
@@ -43340,26 +43341,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9845842794",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Next to pool entrance outdoors / Aussen, neben Hallenbadeingang",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "level": "0",
-    "wheelchair": "yes",
-    "id": "node/9845842794"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5824686,
-      47.4441688
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9852194594",
   "properties": {
     "access": "yes",
@@ -46220,7 +46201,7 @@
   "id": "node/9995101342",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Konferenzzentrum Schluefweg",
+    "defibrillator:location": "Konferenzzentrum Schluefweg neben Eingang",
     "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -46233,8 +46214,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5823177,
-      47.4441745
+      8.5824631,
+      47.4441751
     ]
   }
 },
@@ -64603,8 +64584,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4540144,
-      47.1837353
+      8.4540129,
+      47.1837833
     ]
   }
 },
@@ -66646,31 +66627,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11044204805",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Kantonales Labor Zürich",
-    "description": "Während der Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "1",
-    "opening_hours": "Mo-Fr 08:00-11:45,13:00-16:30",
-    "operator": "Kanton",
-    "phone": "+41 432447151",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/11044204805"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5586822,
-      47.3710903
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11044212505",
   "properties": {
     "access": "no",
@@ -67277,6 +67233,27 @@
     "coordinates": [
       8.5589557,
       47.4127265
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11121313505",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Badenerstrasse 551",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "4",
+    "phone": "0444935951",
+    "id": "node/11121313505"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4992334,
+      47.3835074
     ]
   }
 }

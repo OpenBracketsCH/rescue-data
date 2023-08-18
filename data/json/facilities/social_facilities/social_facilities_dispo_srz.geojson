@@ -36042,6 +36042,10 @@
           47.2709418
         ],
         [
+          8.7206677,
+          47.2708778
+        ],
+        [
           8.7205448,
           47.2708473
         ],
@@ -36058,6 +36062,10 @@
           47.2707235
         ],
         [
+          8.7207141,
+          47.2707401
+        ],
+        [
           8.7207761,
           47.2707563
         ],
@@ -36068,6 +36076,10 @@
         [
           8.7207882,
           47.2706962
+        ],
+        [
+          8.7207935,
+          47.2706867
         ],
         [
           8.7207993,
@@ -55976,6 +55988,31 @@
     "coordinates": [
       8.6429095,
       47.3704321
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11122015107",
+  "properties": {
+    "amenity": "social_facility",
+    "contact:city": "Küsnacht",
+    "contact:email": "+41 43 277 44 44",
+    "contact:housenumber": "266",
+    "contact:postcode": "8700",
+    "contact:street": "Seestrasse",
+    "contact:website": "https://martin-stiftung.ch/kontakt/",
+    "name": "Martin Stiftung Wohnhaus Rütibühl",
+    "operator": "Martin Stiftung",
+    "social_facility": "assisted_living",
+    "social_facility:for": "kognitiven Beeinträchtigung",
+    "id": "node/11122015107"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5862834,
+      47.3087672
     ]
   }
 }
