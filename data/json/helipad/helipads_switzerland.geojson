@@ -15404,6 +15404,44 @@
 },
 {
   "type": "Feature",
+  "id": "way/1199425094",
+  "properties": {
+    "aeroway": "helipad",
+    "name": "St. Gallen-Winkeln Heliport",
+    "operator": "Schweizerische Rettungsflugwacht REGA",
+    "source": "ourairports.com",
+    "id": "way/1199425094"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.2903183,
+          47.4056196
+        ],
+        [
+          9.2902559,
+          47.4054914
+        ],
+        [
+          9.2904419,
+          47.4054499
+        ],
+        [
+          9.2905043,
+          47.4055781
+        ],
+        [
+          9.2903183,
+          47.4056196
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/281385797",
   "properties": {
     "aeroway": "helipad",
@@ -15464,24 +15502,6 @@
     "coordinates": [
       8.0263605,
       47.3138187
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1042149375",
-  "properties": {
-    "aeroway": "helipad",
-    "name": "St. Gallen-Winkeln Heliport",
-    "operator": "Schweizerische Rettungsflugwacht REGA",
-    "source": "ourairports.com",
-    "id": "node/1042149375"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      9.2903794,
-      47.4055393
     ]
   }
 },

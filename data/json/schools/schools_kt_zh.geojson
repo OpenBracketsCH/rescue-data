@@ -66575,6 +66575,8 @@
   "id": "way/275786147",
   "properties": {
     "addr:city": "Wernetshausen",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
     "addr:postcode": "8342",
     "addr:street": "Schulweg",
     "amenity": "school",
@@ -66590,48 +66592,12 @@
     "coordinates": [
       [
         [
-          8.8654108,
-          47.2983317
+          8.8659554,
+          47.2980196
         ],
         [
-          8.8653258,
-          47.2982214
-        ],
-        [
-          8.8655485,
-          47.2981424
-        ],
-        [
-          8.8655352,
-          47.2981251
-        ],
-        [
-          8.8654626,
-          47.2981508
-        ],
-        [
-          8.8653789,
-          47.2980424
-        ],
-        [
-          8.8655107,
-          47.2979956
-        ],
-        [
-          8.8655244,
-          47.2980133
-        ],
-        [
-          8.8658591,
-          47.2978946
-        ],
-        [
-          8.8659556,
-          47.2980198
-        ],
-        [
-          8.8659899,
-          47.2980076
+          8.8659897,
+          47.2980074
         ],
         [
           8.866194,
@@ -66654,8 +66620,12 @@
           47.2981936
         ],
         [
-          8.8654108,
-          47.2983317
+          8.8657279,
+          47.2981002
+        ],
+        [
+          8.8659554,
+          47.2980196
         ]
       ]
     ]
@@ -97794,6 +97764,108 @@
         [
           8.5401699,
           47.2897127
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1199462024",
+  "properties": {
+    "addr:city": "Wernetshausen",
+    "addr:country": "CH",
+    "addr:housenumber": "2a",
+    "addr:postcode": "8342",
+    "addr:street": "Schulweg",
+    "amenity": "school",
+    "building": "yes",
+    "name": "Schulhaus Wernetshausen",
+    "phone": "+41 44 937 37 26",
+    "school": "primary",
+    "school:CH": "primarschule",
+    "id": "way/1199462024"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8659292,
+          47.2979855
+        ],
+        [
+          8.8655353,
+          47.2981252
+        ],
+        [
+          8.8654627,
+          47.298151
+        ],
+        [
+          8.8653789,
+          47.2980424
+        ],
+        [
+          8.8655108,
+          47.2979956
+        ],
+        [
+          8.8655244,
+          47.2980133
+        ],
+        [
+          8.8658591,
+          47.2978946
+        ],
+        [
+          8.8659292,
+          47.2979855
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1199462025",
+  "properties": {
+    "addr:city": "Wernetshausen",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8342",
+    "addr:street": "Schulweg",
+    "amenity": "school",
+    "building": "yes",
+    "name": "Schulhaus Wernetshausen",
+    "phone": "+41 44 937 37 26",
+    "school": "primary",
+    "school:CH": "primarschule",
+    "id": "way/1199462025"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8656335,
+          47.2982527
+        ],
+        [
+          8.8654108,
+          47.2983317
+        ],
+        [
+          8.8653258,
+          47.2982214
+        ],
+        [
+          8.8655485,
+          47.2981424
+        ],
+        [
+          8.8656335,
+          47.2982527
         ]
       ]
     ]
