@@ -31903,6 +31903,9 @@
     "addr:street": "Steinbüelweg",
     "amenity": "school",
     "building": "school",
+    "name": "Tagesbetreuung Wulcheschloss",
+    "operator": "Schule Russikon",
+    "operator:type": "public",
     "id": "way/91736313"
   },
   "geometry": {
@@ -114653,8 +114656,16 @@
           47.1492364
         ],
         [
+          8.5093594,
+          47.1492599
+        ],
+        [
           8.5091659,
           47.1493668
+        ],
+        [
+          8.5090809,
+          47.1494031
         ],
         [
           8.5083157,

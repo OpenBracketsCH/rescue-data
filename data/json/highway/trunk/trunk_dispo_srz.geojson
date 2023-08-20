@@ -20804,6 +20804,7 @@
     "alt_name": "Oberlandautobahn",
     "highway": "trunk",
     "lanes": "1",
+    "lit": "no",
     "maxspeed": "80",
     "motorroad": "yes",
     "nat_name": "N15",
