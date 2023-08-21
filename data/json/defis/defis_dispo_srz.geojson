@@ -3255,8 +3255,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4082025,
-      47.0658284
+      8.4081881,
+      47.0658349
     ]
   }
 },
@@ -7267,8 +7267,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4081522,
-      47.0658959
+      8.4081535,
+      47.0658966
     ]
   }
 },
@@ -34526,29 +34526,6 @@
     "coordinates": [
       8.7916215,
       47.319128
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9243611517",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Praxis Rosengasse",
-    "description": "während Öffungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-Fr 08:00-12:00,14:00-18:00",
-    "operator": "Praxis Rosengasse",
-    "phone": "+41449542111",
-    "id": "node/9243611517"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7757629,
-      47.3953639
     ]
   }
 },

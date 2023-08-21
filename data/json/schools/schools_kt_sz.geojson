@@ -541,8 +541,8 @@
           47.0655517
         ],
         [
-          8.4089793,
-          47.0650415
+          8.4089543,
+          47.0650572
         ],
         [
           8.4096199,
@@ -1676,6 +1676,7 @@
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Riedmatt",
+    "roof:shape": "flat",
     "id": "way/191372765"
   },
   "geometry": {
