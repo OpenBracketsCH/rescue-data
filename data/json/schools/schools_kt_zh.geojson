@@ -102380,6 +102380,30 @@
       47.3534556
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11133524750",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "20",
+    "addr:postcode": "8400",
+    "addr:street": "Ernst-Jung-Gasse",
+    "amenity": "school",
+    "grades": "0-2",
+    "name": "Schule Lokstadt",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schuletoessfeld.ch/team/schule-lokstadt/p-82/",
+    "id": "node/11133524750"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7147376,
+      47.4960126
+    ]
+  }
 }
 ]
 }

@@ -43713,7 +43713,7 @@
     "description": "inside the building",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "name": "Defibrillator (AED)",
+    "indoor": "yes",
     "id": "node/9881526608"
   },
   "geometry": {
@@ -61941,7 +61941,7 @@
   "id": "node/10765321505",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Halle 14",
+    "defibrillator:location": "Halle 13",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -61950,8 +61950,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6359956,
-      47.4070938
+      8.6360121,
+      47.4070976
     ]
   }
 },
@@ -67230,6 +67230,29 @@
     "coordinates": [
       8.4992334,
       47.3835074
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11133566905",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "BSZ Einsiedeln, Hausecke Fabrikstrasse, gleich beim Kreisel",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "BSZ",
+    "phone": "+41797937164",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11133566905"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7432289,
+      47.1277646
     ]
   }
 }

@@ -1222,7 +1222,6 @@
     "name": "Medbase Apotheke Altstadt",
     "old_name": "Altstadt Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
-    "opening_hours:covid19": "open",
     "operator": "Medbase Apotheken",
     "website": "https://www.topwell.ch/medbaseapothekewinterthuraltstad/",
     "wheelchair": "yes",
@@ -4072,7 +4071,6 @@
     "healthcare": "pharmacy",
     "name": "Drogerie Flückiger",
     "opening_hours": "Mo-Sa 08:00-19:00",
-    "opening_hours:covid19": "open",
     "website": "www.drogerie-fluekiger.ch",
     "wheelchair": "yes",
     "id": "node/1837250425"
@@ -7130,7 +7128,6 @@
     "healthcare": "pharmacy",
     "name": "Puls Apotheke & Drogerie",
     "opening_hours": "Mo-Sa 09:00-20:00",
-    "opening_hours:covid19": "Mo-Sa 09:00-20:00",
     "phone": "+41 44 938 16 38",
     "website": "http://puls-apothekedrogerie.ch/",
     "wheelchair": "yes",

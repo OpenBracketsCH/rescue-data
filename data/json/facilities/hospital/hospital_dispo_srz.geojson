@@ -11711,6 +11711,7 @@
     "addr:street": "Gustav-Gull-Platz",
     "alt_name": "Ambulantes Zentrum Europaallee; Ambulatorium Europaallee",
     "amenity": "clinic",
+    "healthcare": "clinic",
     "name": "Stadtspital Zürich Europaallee",
     "operator": "Stadtspital Zürich",
     "phone": "+41 44 416 32 00",

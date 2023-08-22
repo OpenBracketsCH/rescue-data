@@ -2810,6 +2810,47 @@
 },
 {
   "type": "Feature",
+  "id": "way/589643073",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "15",
+    "addr:postcode": "8207",
+    "addr:street": "Schlossstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Kindergarten Herblingen",
+    "id": "way/589643073"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6625024,
+          47.7235579
+        ],
+        [
+          8.662642,
+          47.7236466
+        ],
+        [
+          8.662394,
+          47.7238274
+        ],
+        [
+          8.6622528,
+          47.7237387
+        ],
+        [
+          8.6625024,
+          47.7235579
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/849733617",
   "properties": {
     "addr:city": "Stein am Rhein",
