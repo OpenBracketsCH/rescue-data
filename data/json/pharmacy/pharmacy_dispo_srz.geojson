@@ -8000,6 +8000,31 @@
       47.263121
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11135591880",
+  "properties": {
+    "addr:city": "Elsau",
+    "addr:housenumber": "1",
+    "addr:postcode": "8352",
+    "addr:street": "Hofwis",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Ärztehaus und Apotheke Hofwis",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:30-18:00; Sa 08:00-12:00; PH off",
+    "website": "https://hofwis-elsau.ch",
+    "id": "node/11135591880"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8015298,
+      47.5034771
+    ]
+  }
 }
 ]
 }
