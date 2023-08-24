@@ -2814,6 +2814,7 @@
   "type": "Feature",
   "id": "way/10621367",
   "properties": {
+    "foot": "no",
     "highway": "trunk",
     "lanes": "2",
     "lit": "yes",
@@ -6925,6 +6926,7 @@
   "type": "Feature",
   "id": "way/50638676",
   "properties": {
+    "foot": "no",
     "highway": "trunk",
     "lanes": "1",
     "lit": "yes",

@@ -20158,6 +20158,7 @@
   "type": "Feature",
   "id": "way/32278426",
   "properties": {
+    "foot": "no",
     "highway": "motorway",
     "lanes": "1",
     "lit": "yes",
@@ -25920,6 +25921,7 @@
   "type": "Feature",
   "id": "way/50638674",
   "properties": {
+    "foot": "no",
     "highway": "motorway",
     "lanes": "2",
     "lit": "yes",
@@ -44887,6 +44889,7 @@
   "type": "Feature",
   "id": "way/257237950",
   "properties": {
+    "foot": "no",
     "highway": "motorway",
     "lanes": "1",
     "lit": "yes",
@@ -44919,6 +44922,7 @@
   "id": "way/257237951",
   "properties": {
     "destination:lanes": "Parkplatz Irchel|Zürich City",
+    "foot": "no",
     "highway": "motorway",
     "lanes": "2",
     "lit": "yes",
