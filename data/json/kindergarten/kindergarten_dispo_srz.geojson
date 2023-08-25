@@ -2000,9 +2000,9 @@
   "id": "way/32215457",
   "properties": {
     "addr:city": "Esslingen",
-    "addr:housenumber": "27",
+    "addr:housenumber": "2",
     "addr:postcode": "8133",
-    "addr:street": "Vogelsangstrasse",
+    "addr:street": "Hotzenwise",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Hotzenwise 1+2",

@@ -2989,7 +2989,10 @@
   "type": "Feature",
   "id": "way/648493291",
   "properties": {
+    "addr:city": "Esslingen",
     "addr:housenumber": "11",
+    "addr:postcode": "8133",
+    "addr:street": "Löwenstrasse",
     "amenity": "childcare",
     "building": "yes",
     "name": "Kinderkrippe Esslinäscht",
@@ -5499,8 +5502,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7098549,
-      47.2882295
+      8.7098691,
+      47.2882454
     ]
   }
 },

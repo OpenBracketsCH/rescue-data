@@ -11949,6 +11949,26 @@
       47.5034667
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11140298503",
+  "properties": {
+    "amenity": "clinic",
+    "email": "geburtshaus@spitalzollikerberg.ch",
+    "healthcare": "birthing_centre",
+    "healthcare:speciality": "midwife",
+    "name": "Geburtshaus Zollikerberg",
+    "website": "https://geburtshaus-zollikerberg.ch/",
+    "id": "node/11140298503"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6016646,
+      47.3481751
+    ]
+  }
 }
 ]
 }
