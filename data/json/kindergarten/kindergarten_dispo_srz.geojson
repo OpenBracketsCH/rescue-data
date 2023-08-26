@@ -20124,6 +20124,7 @@
   "type": "Feature",
   "id": "way/201789940",
   "properties": {
+    "addr:city": "Altendorf",
     "addr:housenumber": "1",
     "addr:postcode": "8852",
     "addr:street": "Oberdorfstrasse",
@@ -50026,6 +50027,46 @@
     "coordinates": [
       8.525479,
       47.3790048
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11143880046",
+  "properties": {
+    "addr:city": "Pfäffikon (SZ)",
+    "addr:housenumber": "98",
+    "addr:postcode": "8808",
+    "addr:street": "Churerstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Hochhaus",
+    "id": "node/11143880046"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7851326,
+      47.2008887
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11143901462",
+  "properties": {
+    "addr:city": "Pfäffikon (SZ)",
+    "addr:housenumber": "15",
+    "addr:postcode": "8808",
+    "addr:street": "Huobstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Huob",
+    "id": "node/11143901462"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7825323,
+      47.2002427
     ]
   }
 }

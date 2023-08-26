@@ -3342,6 +3342,7 @@
     "ref": "A3;A4",
     "source:maxspeed": "sign",
     "ssvz": "904N",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/7964550"
   },
@@ -4007,32 +4008,33 @@
     "placement": "right_of:1",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||merge_to_left",
+    "turn:lanes": "through|through|merge_to_left",
     "id": "way/10589740"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.4194494,
-        47.3747666
+        8.4193555,
+        47.3749901
       ],
       [
-        8.4193658,
-        47.3750119
+        8.4192654,
+        47.375247
       ],
       [
-        8.4192693,
-        47.3752889
+        8.4191726,
+        47.3755087
       ],
       [
-        8.4191468,
-        47.3755917
+        8.4190412,
+        47.3758126
       ],
       [
-        8.4189279,
-        47.3761112
+        8.4189176,
+        47.3761051
       ]
     ]
   }
@@ -4049,6 +4051,7 @@
     "maxspeed": "100",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
+    "overtaking:hgv": "no",
     "ref": "A3;A4",
     "shoulder:right": "yes",
     "source:maxspeed": "signals",
@@ -4060,20 +4063,28 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4196918,
-        47.3734408
+        8.4196703,
+        47.3735237
       ],
       [
-        8.4200101,
-        47.3724663
+        8.4198976,
+        47.3728165
+      ],
+      [
+        8.4200194,
+        47.3724621
       ],
       [
         8.4202263,
-        47.371896
+        47.3719212
       ],
       [
-        8.4204961,
-        47.371321
+        8.4203535,
+        47.3716137
+      ],
+      [
+        8.420493,
+        47.3713231
       ]
     ]
   }
@@ -4532,6 +4543,7 @@
     "oneway": "yes",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/10676722"
   },
@@ -4539,20 +4551,36 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4241116,
-        47.366427
+        8.4240946,
+        47.3664258
       ],
       [
-        8.4236419,
-        47.3672414
+        8.4239769,
+        47.36667
       ],
       [
-        8.423383,
-        47.367601
+        8.4238556,
+        47.3668895
       ],
       [
-        8.4227313,
-        47.3683483
+        8.423747,
+        47.3670745
+      ],
+      [
+        8.4235891,
+        47.3673074
+      ],
+      [
+        8.4233732,
+        47.3675962
+      ],
+      [
+        8.4232042,
+        47.3677932
+      ],
+      [
+        8.4228521,
+        47.3681877
       ]
     ]
   }
@@ -12228,12 +12256,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4235939,
-        47.3624471
+        8.4235512,
+        47.3622428
       ],
       [
-        8.4233421,
-        47.3618555
+        8.4233496,
+        47.3617252
       ]
     ]
   }
@@ -12254,6 +12282,7 @@
     "placement": "right_of:1",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "||slight_right",
     "id": "way/24863470"
@@ -12266,8 +12295,12 @@
         47.3598417
       ],
       [
-        8.423684,
-        47.3615258
+        8.4230683,
+        47.3599702
+      ],
+      [
+        8.4235207,
+        47.3612114
       ]
     ]
   }
@@ -12286,6 +12319,7 @@
     "oneway": "yes",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes",
     "tunnel:name": "Eggraintunnel",
@@ -12295,8 +12329,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4239245,
-        47.362231
+        8.4239084,
+        47.3622266
       ],
       [
         8.4242226,
@@ -12335,8 +12369,8 @@
         47.3661664
       ],
       [
-        8.4241116,
-        47.366427
+        8.4240946,
+        47.3664258
       ]
     ]
   }
@@ -12368,8 +12402,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4234925,
-        47.3670712
+        8.4235118,
+        47.3670799
       ],
       [
         8.4237113,
@@ -12416,8 +12450,8 @@
         47.363107
       ],
       [
-        8.4235939,
-        47.3624471
+        8.4236272,
+        47.3624391
       ]
     ]
   }
@@ -12430,9 +12464,9 @@
     "int_ref": "E 41",
     "lanes": "2",
     "layer": "-1",
-    "lit": "24/7",
+    "lit": "yes",
     "maxheight": "default",
-    "maxspeed": "signals",
+    "maxspeed": "100",
     "oneway": "yes",
     "overtaking:hgv": "no",
     "ref": "A3;A4",
@@ -12447,14 +12481,6 @@
   "geometry": {
     "type": "LineString",
     "coordinates": [
-      [
-        8.4223911,
-        47.3592471
-      ],
-      [
-        8.4221091,
-        47.3585131
-      ],
       [
         8.4218543,
         47.3577697
@@ -12512,8 +12538,8 @@
         47.3505539
       ],
       [
-        8.4243669,
-        47.3501737
+        8.4243025,
+        47.3502435
       ]
     ]
   }
@@ -12533,6 +12559,7 @@
     "placement": "right_of:1",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes",
     "tunnel:name": "Hafnerbergtunnel",
@@ -12585,8 +12612,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4142883,
-        47.390221
+        8.4143007,
+        47.3902367
       ],
       [
         8.4141041,
@@ -12613,8 +12640,8 @@
         47.3868252
       ],
       [
-        8.4141757,
-        47.3862813
+        8.4141123,
+        47.3864984
       ]
     ]
   }
@@ -12633,6 +12660,7 @@
     "oneway": "yes",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes",
     "tunnel:name": "Honerettunnel",
@@ -12642,8 +12670,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4143422,
-        47.3863097
+        8.4143254,
+        47.3862905
       ],
       [
         8.4141862,
@@ -14131,8 +14159,8 @@
         47.399569
       ],
       [
-        8.4214056,
-        47.4025715
+        8.4213927,
+        47.4025732
       ]
     ]
   }
@@ -14145,7 +14173,7 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "2",
-    "lit": "yes",
+    "lit": "no",
     "maxspeed": "100",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
@@ -14161,20 +14189,24 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.420154,
-        47.3975367
+        8.4201745,
+        47.3975189
       ],
       [
-        8.4198902,
-        47.3970272
+        8.4200541,
+        47.3972762
       ],
       [
-        8.4196961,
-        47.396716
+        8.4199072,
+        47.3970241
       ],
       [
-        8.4196052,
-        47.396576
+        8.4197147,
+        47.3967108
+      ],
+      [
+        8.419616,
+        47.3965729
       ]
     ]
   }
@@ -17522,7 +17554,7 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "1",
-    "lit": "yes",
+    "lit": "no",
     "maxspeed": "80",
     "oneway": "yes",
     "ref": "A4",
@@ -17696,14 +17728,16 @@
   "type": "Feature",
   "id": "way/29548641",
   "properties": {
+    "change:lanes": "no|no",
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "2",
-    "lit": "yes",
-    "maxspeed": "100",
+    "lit": "no",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "ref": "A4",
+    "shoulder:right": "yes",
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
@@ -17712,6 +17746,10 @@
   "geometry": {
     "type": "LineString",
     "coordinates": [
+      [
+        8.427378,
+        47.411087
+      ],
       [
         8.4272263,
         47.4109687
@@ -17729,28 +17767,20 @@
         47.4105309
       ],
       [
-        8.4264046,
-        47.4102513
+        8.4264176,
+        47.4102425
       ],
       [
-        8.426258,
-        47.4101128
+        8.4257811,
+        47.4096426
       ],
       [
-        8.4260876,
-        47.4099538
+        8.4252819,
+        47.4091618
       ],
       [
-        8.4257588,
-        47.4096489
-      ],
-      [
-        8.4254492,
-        47.4093495
-      ],
-      [
-        8.4246254,
-        47.40855
+        8.424553,
+        47.4084414
       ]
     ]
   }
@@ -17764,7 +17794,7 @@
     "int_ref": "E 41",
     "lanes": "1",
     "layer": "1",
-    "lit": "yes",
+    "lit": "no",
     "maxspeed": "80",
     "oneway": "yes",
     "ref": "A4",
@@ -28993,8 +29023,8 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "3",
-    "lit": "yes",
-    "maxspeed": "100",
+    "lit": "no",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "placement": "right_of:1",
@@ -29009,8 +29039,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.424301,
-        47.4082251
+        8.4242652,
+        47.4081773
       ],
       [
         8.4240397,
@@ -29035,6 +29065,14 @@
       [
         8.4228138,
         47.4064966
+      ],
+      [
+        8.4225741,
+        47.4061433
+      ],
+      [
+        8.4223488,
+        47.4057878
       ]
     ]
   }
@@ -29196,8 +29234,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4214056,
-        47.4025715
+        8.4213927,
+        47.4025732
       ],
       [
         8.4214717,
@@ -31556,38 +31594,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/132636604",
-  "properties": {
-    "change:lanes": "no|no",
-    "highway": "motorway",
-    "int_ref": "E 41",
-    "lanes": "2",
-    "lit": "yes",
-    "maxspeed": "80",
-    "oneway": "yes",
-    "ref": "A4",
-    "shoulder:right": "yes",
-    "source:maxspeed": "sign",
-    "surface": "asphalt",
-    "toll": "yes",
-    "id": "way/132636604"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.427378,
-        47.411087
-      ],
-      [
-        8.4272263,
-        47.4109687
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/132636605",
   "properties": {
     "highway": "motorway",
@@ -31631,7 +31637,7 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "1",
-    "lit": "yes",
+    "lit": "no",
     "maxspeed": "80",
     "oneway": "yes",
     "placement": "transition",
@@ -32400,7 +32406,7 @@
     "lanes": "2",
     "layer": "2",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "overtaking:hgv": "no",
@@ -32415,28 +32421,32 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4212126,
-        47.4025866
+        8.4212436,
+        47.4025822
       ],
       [
-        8.4207694,
-        47.3996414
+        8.4207823,
+        47.3996379
       ],
       [
-        8.4206649,
-        47.3991155
+        8.4206881,
+        47.3991068
       ],
       [
-        8.4205471,
-        47.3985863
+        8.4205677,
+        47.3985793
       ],
       [
-        8.4202984,
-        47.3978488
+        8.4204602,
+        47.3982145
       ],
       [
-        8.420154,
-        47.3975367
+        8.4203294,
+        47.3978479
+      ],
+      [
+        8.4201745,
+        47.3975189
       ]
     ]
   }
@@ -36931,19 +36941,19 @@
     "ssvz": "904N",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "|||merge_to_left",
+    "turn:lanes": "through|through|through|merge_to_left",
     "id": "way/183857213"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.4145511,
-        47.3908188
+        8.414565,
+        47.390802
       ],
       [
-        8.4144301,
-        47.3905835
+        8.4144518,
+        47.3905772
       ]
     ]
   }
@@ -39652,7 +39662,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "placement": "right_of:1",
@@ -39661,7 +39671,7 @@
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||merge_to_left",
+    "turn:lanes": "through|through|merge_to_left",
     "id": "way/210309182"
   },
   "geometry": {
@@ -39680,12 +39690,20 @@
         47.4049991
       ],
       [
-        8.4217435,
-        47.4045644
+        8.4217832,
+        47.4046677
       ],
       [
-        8.4216261,
-        47.4042808
+        8.4217413,
+        47.4045696
+      ],
+      [
+        8.4216875,
+        47.4044033
+      ],
+      [
+        8.4216508,
+        47.4042815
       ]
     ]
   }
@@ -39698,7 +39716,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "ref": "A3;A4",
@@ -39712,20 +39730,20 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4216261,
-        47.4042808
+        8.4216508,
+        47.4042815
       ],
       [
-        8.4215355,
-        47.404009
+        8.4215634,
+        47.4040119
       ],
       [
-        8.4214212,
-        47.4036331
+        8.4214459,
+        47.4036266
       ],
       [
-        8.421327,
-        47.4032184
+        8.4213556,
+        47.4032148
       ]
     ]
   }
@@ -39752,12 +39770,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4189279,
-        47.3761112
+        8.4189176,
+        47.3761051
       ],
       [
-        8.418757,
-        47.3764866
+        8.4187454,
+        47.376477
       ],
       [
         8.4185914,
@@ -39956,21 +39974,22 @@
     "maxspeed": "100",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
+    "overtaking:hgv": "no",
     "placement": "right_of:1",
     "ref": "A3;A4",
     "shoulder:right": "yes",
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||slight_right",
+    "turn:lanes": "through|through|slight_right",
     "id": "way/210309186"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.4194153,
-        47.3743001
+        8.4194602,
+        47.3742122
       ],
       [
         8.4195735,
@@ -40060,6 +40079,7 @@
     "oneway": "yes",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/210309189"
   },
@@ -40067,12 +40087,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.423684,
-        47.3615258
+        8.4235207,
+        47.3612114
       ],
       [
-        8.4239245,
-        47.362231
+        8.4239084,
+        47.3622266
       ]
     ]
   }
@@ -40081,13 +40101,12 @@
   "type": "Feature",
   "id": "way/210309190",
   "properties": {
-    "change:lanes": "not_left|yes|not_left|not_right",
-    "destination:lanes": "Urdorf-Süd|Urdorf-Süd|Urdorf-Nord;Schlieren;Dietikon|Urdorf-Nord;Schlieren;Dietikon",
+    "destination:lanes": "Urdorf-Süd|Urdorf-Süd|Urdorf-Nord;Schlieren;Dietikon",
     "highway": "motorway",
     "int_ref": "E 41",
-    "lanes": "4",
-    "lit": "yes",
-    "maxspeed": "100",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "overtaking:hgv": "no",
@@ -40098,7 +40117,7 @@
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "through|through|right|right",
+    "turn:lanes": "through|through|right",
     "id": "way/210309190"
   },
   "geometry": {
@@ -40111,6 +40130,10 @@
       [
         8.4174584,
         47.3942834
+      ],
+      [
+        8.417307,
+        47.3941428
       ]
     ]
   }
@@ -40137,18 +40160,19 @@
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
+    "turn:lanes": "through|through|through|merge_to_left",
     "id": "way/210309191"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.4233421,
-        47.3618555
+        8.4233496,
+        47.3617252
       ],
       [
-        8.4231204,
-        47.3612317
+        8.4231606,
+        47.3612256
       ]
     ]
   }
@@ -40257,24 +40281,33 @@
     "oneway": "yes",
     "placement": "right_of:1",
     "ref": "A3;A4",
+    "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "none|none|slight_right",
+    "turn:lanes": "through|through|slight_right",
     "id": "way/210309194"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.421084,
-        47.3705023
+        8.4210879,
+        47.370456
       ],
       [
-        8.4205908,
-        47.3714372
+        8.4208071,
+        47.3709588
       ],
       [
-        8.4202933,
-        47.3721205
+        8.4205676,
+        47.3714267
+      ],
+      [
+        8.4204072,
+        47.3717954
+      ],
+      [
+        8.420252,
+        47.3721624
       ]
     ]
   }
@@ -40302,20 +40335,24 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4225579,
-        47.3682905
+        8.4225772,
+        47.3682985
+      ],
+      [
+        8.4227812,
+        47.3680627
       ],
       [
         8.4229873,
         47.3678204
       ],
       [
-        8.4232416,
-        47.3674819
+        8.423247,
+        47.3674834
       ],
       [
-        8.4234925,
-        47.3670712
+        8.4233708,
+        47.367302
       ]
     ]
   }
@@ -40332,6 +40369,7 @@
     "oneway": "yes",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/210309196"
   },
@@ -40339,24 +40377,32 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4202933,
-        47.3721205
+        8.420252,
+        47.3721624
       ],
       [
         8.4201336,
         47.3724654
       ],
       [
-        8.4199566,
-        47.3730451
+        8.4200348,
+        47.3727622
       ],
       [
-        8.4198183,
+        8.4199476,
+        47.3730372
+      ],
+      [
+        8.4198623,
+        47.3733154
+      ],
+      [
+        8.4197899,
         47.3735622
       ],
       [
-        8.4194494,
-        47.3747666
+        8.4195771,
+        47.3742739
       ]
     ]
   }
@@ -40365,13 +40411,12 @@
   "type": "Feature",
   "id": "way/210309197",
   "properties": {
-    "change:lanes": "not_left|yes|no",
     "destination:lanes": "Urdorf-Süd|Urdorf-Süd|Urdorf-Nord;Schlieren;Dietikon",
     "highway": "motorway",
     "int_ref": "E 41",
-    "lanes": "3",
-    "lit": "yes",
-    "maxspeed": "100",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "overtaking:hgv": "no",
@@ -40381,7 +40426,7 @@
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "none|none|slight_right",
+    "turn:lanes": "through|through|slight_right",
     "id": "way/210309197"
   },
   "geometry": {
@@ -40422,29 +40467,30 @@
     "maxspeed": "100",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
+    "overtaking:hgv": "no",
     "placement": "right_of:1",
     "ref": "A3;A4",
     "shoulder": "no",
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||merge_to_left|merge_to_left",
+    "turn:lanes": "through|through|merge_to_left|merge_to_left",
     "id": "way/210309198"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.420675,
-        47.3709218
+        8.42082,
+        47.3706897
       ],
       [
-        8.4208691,
-        47.3705434
+        8.4209271,
+        47.3704947
       ],
       [
-        8.4211085,
-        47.3701124
+        8.4211441,
+        47.3701187
       ]
     ]
   }
@@ -40509,7 +40555,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "lit": "yes",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "ref": "A3;A4",
@@ -40528,24 +40574,24 @@
         47.3941428
       ],
       [
-        8.416641,
-        47.3934654
+        8.4171332,
+        47.3939464
       ],
       [
-        8.4159889,
-        47.392803
+        8.4167687,
+        47.3935744
       ],
       [
-        8.4154054,
-        47.3920999
+        8.4164627,
+        47.3932639
       ],
       [
-        8.4151455,
-        47.3917808
+        8.4160202,
+        47.3927894
       ],
       [
-        8.4149245,
-        47.391456
+        8.4157869,
+        47.3925276
       ]
     ]
   }
@@ -42997,28 +43043,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4152064,
-        47.3841696
-      ],
-      [
-        8.4154205,
-        47.3837642
-      ],
-      [
-        8.4156132,
-        47.3833985
-      ],
-      [
-        8.4157525,
-        47.3830905
-      ],
-      [
-        8.4159002,
-        47.3826975
-      ],
-      [
-        8.4161549,
-        47.3819019
+        8.4161586,
+        47.3818906
       ],
       [
         8.4163856,
@@ -43033,56 +43059,24 @@
         47.3803617
       ],
       [
-        8.4167736,
-        47.3799639
+        8.4167792,
+        47.3799715
       ],
       [
-        8.4169473,
-        47.3795665
+        8.4169529,
+        47.379569
       ],
       [
-        8.4171797,
-        47.3790821
+        8.4171871,
+        47.3790834
       ],
       [
         8.4174087,
         47.3786435
       ],
       [
-        8.41794,
-        47.3777184
-      ],
-      [
-        8.4182498,
-        47.3771589
-      ],
-      [
-        8.4184542,
-        47.3767657
-      ],
-      [
-        8.4185952,
-        47.376451
-      ],
-      [
-        8.4187522,
-        47.3760983
-      ],
-      [
-        8.4189828,
-        47.3755569
-      ],
-      [
-        8.4191022,
-        47.3752386
-      ],
-      [
-        8.4191947,
-        47.374975
-      ],
-      [
-        8.4194153,
-        47.3743001
+        8.4179214,
+        47.3777436
       ]
     ]
   }
@@ -43528,6 +43522,7 @@
     "oneway": "yes",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes",
     "tunnel:name": "Hafnerbergtunnel",
@@ -46447,7 +46442,7 @@
     "bridge:name": "Reppischtalbrücke",
     "highway": "motorway",
     "int_ref": "E 41",
-    "lanes": "4",
+    "lanes": "3",
     "layer": "1",
     "lit": "yes",
     "maxspeed": "100",
@@ -46456,27 +46451,23 @@
     "overtaking:hgv": "no",
     "placement": "right_of:1",
     "ref": "A3;A4",
-    "shoulder:right": "yes",
+    "shoulder:right": "no",
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "|||merge_to_left",
+    "turn:lanes": "through|through|merge_to_left",
     "id": "way/304190148"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.4231204,
-        47.3612317
+        8.4228375,
+        47.3603879
       ],
       [
-        8.422906,
-        47.3606743
-      ],
-      [
-        8.4226848,
-        47.3600387
+        8.4227084,
+        47.360038
       ]
     ]
   }
@@ -54358,43 +54349,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/438516778",
-  "properties": {
-    "highway": "motorway",
-    "int_ref": "E 41",
-    "lanes": "3",
-    "lit": "no",
-    "maxspeed": "100",
-    "maxspeed:variable": "obstruction",
-    "oneway": "yes",
-    "placement": "right_of:1",
-    "ref": "A3;A4",
-    "shoulder:right": "yes",
-    "source:maxspeed": "signals",
-    "surface": "asphalt",
-    "toll": "yes",
-    "id": "way/438516778"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.4228138,
-        47.4064966
-      ],
-      [
-        8.4225741,
-        47.4061433
-      ],
-      [
-        8.4223488,
-        47.4057878
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/438517752",
   "properties": {
     "highway": "motorway",
@@ -54789,19 +54743,23 @@
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||merge_to_left",
+    "turn:lanes": "through|through|merge_to_left",
     "id": "way/438533289"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.421424,
-        47.369643
+        8.4214596,
+        47.369644
       ],
       [
-        8.4217384,
-        47.36923
+        8.4216037,
+        47.3694465
+      ],
+      [
+        8.4217663,
+        47.3692363
       ]
     ]
   }
@@ -54818,6 +54776,7 @@
     "oneway": "yes",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/438533290"
   },
@@ -54829,16 +54788,20 @@
         47.3842002
       ],
       [
-        8.4145907,
-        47.3856876
+        8.414772,
+        47.3852867
       ],
       [
-        8.4144587,
+        8.4145391,
+        47.3857688
+      ],
+      [
+        8.4144393,
         47.3859962
       ],
       [
-        8.4143422,
-        47.3863097
+        8.4143254,
+        47.3862905
       ]
     ]
   }
@@ -54861,6 +54824,7 @@
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
+    "turn:lanes": "through|through|merge_to_left",
     "id": "way/438533291"
   },
   "geometry": {
@@ -54871,20 +54835,28 @@
         47.3862813
       ],
       [
-        8.4142933,
-        47.3859645
+        8.4142887,
+        47.3859708
       ],
       [
-        8.4144386,
-        47.3856333
+        8.4143854,
+        47.3857387
       ],
       [
-        8.4145752,
-        47.3853807
+        8.4144744,
+        47.3855453
       ],
       [
-        8.4147616,
-        47.3850257
+        8.4145613,
+        47.3853671
+      ],
+      [
+        8.4147389,
+        47.3850113
+      ],
+      [
+        8.4149212,
+        47.3846754
       ]
     ]
   }
@@ -54901,6 +54873,7 @@
     "oneway": "yes",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/438533292"
   },
@@ -54908,28 +54881,32 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4227313,
-        47.3683483
+        8.4228521,
+        47.3681877
       ],
       [
-        8.4218913,
-        47.3692958
+        8.4224241,
+        47.3686791
       ],
       [
-        8.4216047,
-        47.3696799
+        8.4218732,
+        47.3692923
       ],
       [
-        8.4214714,
-        47.3698534
+        8.4215892,
+        47.3696668
       ],
       [
-        8.4212781,
-        47.3701563
+        8.4214172,
+        47.3699102
       ],
       [
-        8.421084,
-        47.3705023
+        8.4212626,
+        47.3701537
+      ],
+      [
+        8.4210879,
+        47.370456
       ]
     ]
   }
@@ -61649,7 +61626,7 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "3",
-    "lit": "yes",
+    "lit": "no",
     "maxspeed": "100",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
@@ -61660,57 +61637,19 @@
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "none|none|slight_right",
+    "turn:lanes": "through|through|slight_right",
     "id": "way/554298192"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.4196052,
-        47.396576
+        8.419616,
+        47.3965729
       ],
       [
         8.4193775,
         47.396279
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/554298194",
-  "properties": {
-    "change:lanes": "not_left|not_right|not_left|not_right",
-    "destination:lanes": "Urdorf-Süd|Urdorf-Süd|Urdorf-Nord;Schlieren;Dietikon|Urdorf-Nord;Schlieren;Dietikon",
-    "highway": "motorway",
-    "int_ref": "E 41",
-    "lanes": "4",
-    "lit": "yes",
-    "maxspeed": "100",
-    "maxspeed:variable": "obstruction",
-    "oneway": "yes",
-    "overtaking:hgv": "no",
-    "placement": "right_of:1",
-    "ref": "A3;A4",
-    "shoulder:right": "yes",
-    "smoothness": "good",
-    "source:maxspeed": "signals",
-    "surface": "asphalt",
-    "toll": "yes",
-    "turn:lanes": "through|through|right|right",
-    "id": "way/554298194"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.4174584,
-        47.3942834
-      ],
-      [
-        8.417307,
-        47.3941428
       ]
     ]
   }
@@ -61724,7 +61663,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "ref": "A3;A4",
@@ -61738,47 +61677,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.421327,
-        47.4032184
+        8.4213556,
+        47.4032148
       ],
       [
-        8.4212126,
-        47.4025866
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/554298213",
-  "properties": {
-    "change:lanes": "not_left|not_right|no",
-    "highway": "motorway",
-    "int_ref": "E 41",
-    "lanes": "3",
-    "lit": "yes",
-    "maxheight": "default",
-    "maxspeed": "100",
-    "maxspeed:variable": "obstruction",
-    "oneway": "yes",
-    "placement": "right_of:1",
-    "ref": "A3;A4",
-    "shoulder:right": "yes",
-    "source:maxspeed": "signals",
-    "surface": "asphalt",
-    "toll": "yes",
-    "id": "way/554298213"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.4246254,
-        47.40855
-      ],
-      [
-        8.424301,
-        47.4082251
+        8.4212829,
+        47.4028042
       ]
     ]
   }
@@ -61790,7 +61694,7 @@
     "change:lanes": "not_left|not_right|yes",
     "highway": "motorway",
     "int_ref": "E 41",
-    "lanes": "3",
+    "lanes": "2",
     "lit": "yes",
     "maxspeed": "100",
     "maxspeed:variable": "obstruction",
@@ -61801,19 +61705,30 @@
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||merge_to_left",
     "id": "way/554302072"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.4147616,
-        47.3850257
+        8.4149212,
+        47.3846754
       ],
       [
-        8.4152064,
-        47.3841696
+        8.4149747,
+        47.3845879
+      ],
+      [
+        8.4150597,
+        47.3844539
+      ],
+      [
+        8.4151074,
+        47.384373
+      ],
+      [
+        8.4152188,
+        47.3841675
       ]
     ]
   }
@@ -61839,19 +61754,19 @@
     "ssvz": "904N",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "|||merge_to_left",
+    "turn:lanes": "through|through|through|merge_to_left",
     "id": "way/554302073"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.4146918,
-        47.3911127
+        8.414729,
+        47.3910991
       ],
       [
-        8.4145511,
-        47.3908188
+        8.414565,
+        47.390802
       ]
     ]
   }
@@ -61877,18 +61792,19 @@
     "ssvz": "904N",
     "surface": "asphalt",
     "toll": "yes",
+    "turn:lanes": "through|through|through|merge_to_left",
     "id": "way/554302074"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.4149245,
-        47.391456
+        8.41494,
+        47.3914445
       ],
       [
-        8.4146918,
-        47.3911127
+        8.414729,
+        47.3910991
       ]
     ]
   }
@@ -61920,12 +61836,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4144301,
-        47.3905835
+        8.4144518,
+        47.3905772
       ],
       [
-        8.4142883,
-        47.390221
+        8.4143007,
+        47.3902367
       ]
     ]
   }
@@ -61953,12 +61869,20 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4217384,
-        47.36923
+        8.4217663,
+        47.3692363
       ],
       [
-        8.4225579,
-        47.3682905
+        8.4219855,
+        47.3689656
+      ],
+      [
+        8.422282,
+        47.3686298
+      ],
+      [
+        8.4225772,
+        47.3682985
       ]
     ]
   }
@@ -61987,12 +61911,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4213127,
-        47.3697951
+        8.4213483,
+        47.3698045
       ],
       [
-        8.421424,
-        47.369643
+        8.4214596,
+        47.369644
       ]
     ]
   }
@@ -62009,25 +61933,26 @@
     "maxspeed": "100",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
+    "overtaking:hgv": "no",
     "placement": "right_of:1",
     "ref": "A3;A4",
     "shoulder": "no",
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||merge_to_left|merge_to_left",
+    "turn:lanes": "through|through|merge_to_left|merge_to_left",
     "id": "way/554310042"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.4211085,
-        47.3701124
+        8.4211441,
+        47.3701187
       ],
       [
-        8.4213127,
-        47.3697951
+        8.4213483,
+        47.3698045
       ]
     ]
   }
@@ -62044,25 +61969,26 @@
     "maxspeed": "100",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
+    "overtaking:hgv": "no",
     "placement": "right_of:1",
     "ref": "A3;A4",
     "shoulder": "no",
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "|||merge_to_left",
+    "turn:lanes": "through|through|merge_to_left|merge_to_left",
     "id": "way/554310043"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.4204961,
-        47.371321
+        8.420493,
+        47.3713231
       ],
       [
-        8.420675,
-        47.3709218
+        8.4206967,
+        47.370926
       ]
     ]
   }
@@ -62080,13 +62006,14 @@
     "maxspeed": "100",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
+    "overtaking:hgv": "no",
     "placement": "right_of:1",
     "ref": "A3;A4",
     "shoulder:right": "yes",
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||slight_right",
+    "turn:lanes": "through|through|slight_right",
     "id": "way/554310048"
   },
   "geometry": {
@@ -62097,8 +62024,8 @@
         47.3736978
       ],
       [
-        8.4196918,
-        47.3734408
+        8.4196703,
+        47.3735237
       ]
     ]
   }
@@ -62116,13 +62043,14 @@
     "maxspeed": "100",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
+    "overtaking:hgv": "no",
     "placement": "right_of:1",
     "ref": "A3;A4",
     "shoulder:right": "yes",
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||slight_right",
+    "turn:lanes": "through|through|slight_right",
     "id": "way/554310049"
   },
   "geometry": {
@@ -62147,26 +62075,32 @@
     "int_ref": "E 41",
     "lanes": "3",
     "layer": "-1",
-    "lit": "24/7",
-    "maxspeed": "signals",
+    "lit": "yes",
+    "maxspeed": "100",
+    "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "overtaking:hgv": "no",
     "placement": "right_of:1",
     "ref": "A3;A4",
+    "shoulder:right": "no",
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes",
     "tunnel:name": "Hafnerbergtunnel",
-    "turn:lanes": "||merge_to_left",
+    "turn:lanes": "through|through|merge_to_left",
     "id": "way/554315131"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.4226848,
-        47.3600387
+        8.4227084,
+        47.360038
+      ],
+      [
+        8.4227003,
+        47.3600177
       ],
       [
         8.4223911,
@@ -62709,7 +62643,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "layer": "-1",
-    "lit": "24/7",
+    "lit": "yes",
     "maxspeed": "100",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
@@ -62722,15 +62656,15 @@
     "toll": "yes",
     "tunnel": "yes",
     "tunnel:name": "Hafnerbergtunnel",
-    "turn:lanes": "||slight_right",
+    "turn:lanes": "through|through|slight_right",
     "id": "way/554343285"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.4243669,
-        47.3501737
+        8.4243025,
+        47.3502435
       ],
       [
         8.4249024,
@@ -62747,7 +62681,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "layer": "-1",
-    "lit": "24/7",
+    "lit": "yes",
     "maxheight": "default",
     "maxspeed": "100",
     "maxspeed:variable": "obstruction",
@@ -69878,7 +69812,7 @@
     "int_ref": "E 41",
     "lanes": "1",
     "layer": "1",
-    "lit": "yes",
+    "lit": "no",
     "maxspeed": "80",
     "oneway": "yes",
     "placement": "transition",
@@ -71051,6 +70985,557 @@
       [
         8.4384276,
         47.2714252
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1202048992",
+  "properties": {
+    "change:lanes": "no|no",
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxspeed:variable": "obstruction",
+    "oneway": "yes",
+    "ref": "A4",
+    "shoulder:right": "yes",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1202048992"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.424553,
+        47.4084414
+      ],
+      [
+        8.4243874,
+        47.4082777
+      ],
+      [
+        8.4242652,
+        47.4081773
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1202048994",
+  "properties": {
+    "destination:lanes": "Urdorf-Süd|Urdorf-Süd;Urdorf-Nord;Schlieren;Dietikon",
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxspeed:variable": "obstruction",
+    "oneway": "yes",
+    "ref": "A3;A4",
+    "shoulder:right": "yes",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1202048994"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4212829,
+        47.4028042
+      ],
+      [
+        8.4212436,
+        47.4025822
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1202048996",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "100",
+    "maxspeed:variable": "obstruction",
+    "oneway": "yes",
+    "ref": "A3;A4",
+    "shoulder:right": "yes",
+    "smoothness": "good",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1202048996"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4157869,
+        47.3925276
+      ],
+      [
+        8.4154313,
+        47.3920908
+      ],
+      [
+        8.4151858,
+        47.3917681
+      ],
+      [
+        8.41494,
+        47.3914445
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1202048997",
+  "properties": {
+    "change:lanes": "not_left|not_right|no",
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "3",
+    "layer": "-1",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "maxspeed:variable": "obstruction",
+    "oneway": "yes",
+    "placement": "right_of:1",
+    "ref": "A3;A4",
+    "shoulder": "no",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "Honerettunnel",
+    "turn:lanes": "through|through|merge_to_left",
+    "id": "way/1202048997"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4141123,
+        47.3864984
+      ],
+      [
+        8.4141757,
+        47.3862813
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1202048998",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "maxspeed:variable": "obstruction",
+    "oneway": "yes",
+    "ref": "A3;A4",
+    "shoulder:right": "yes",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1202048998"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4152188,
+        47.3841675
+      ],
+      [
+        8.4154375,
+        47.3837527
+      ],
+      [
+        8.4156132,
+        47.3833985
+      ],
+      [
+        8.4157525,
+        47.3830905
+      ],
+      [
+        8.4159002,
+        47.3826975
+      ],
+      [
+        8.4161586,
+        47.3818906
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1202048999",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "maxspeed:variable": "obstruction",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "ref": "A3;A4",
+    "shoulder:right": "yes",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1202048999"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4184995,
+        47.3766724
+      ],
+      [
+        8.4186101,
+        47.3764535
+      ],
+      [
+        8.4187727,
+        47.376097
+      ],
+      [
+        8.4188833,
+        47.3758446
+      ],
+      [
+        8.4190051,
+        47.3755418
+      ],
+      [
+        8.4191208,
+        47.3752298
+      ],
+      [
+        8.4192189,
+        47.3749536
+      ],
+      [
+        8.419332,
+        47.3746319
+      ],
+      [
+        8.4194602,
+        47.3742122
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1202049000",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "maxspeed:variable": "obstruction",
+    "oneway": "yes",
+    "ref": "A3;A4",
+    "shoulder:right": "yes",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1202049000"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4179214,
+        47.3777436
+      ],
+      [
+        8.4182491,
+        47.3771599
+      ],
+      [
+        8.4184995,
+        47.3766724
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1202049006",
+  "properties": {
+    "change:lanes": "not_left|not_right|not_right|not_right",
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "4",
+    "lit": "no",
+    "maxspeed": "100",
+    "maxspeed:variable": "obstruction",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "placement": "right_of:1",
+    "ref": "A3;A4",
+    "shoulder": "no",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through|through|merge_to_left|merge_to_left",
+    "id": "way/1202049006"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4206967,
+        47.370926
+      ],
+      [
+        8.42082,
+        47.3706897
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1202049007",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "100",
+    "maxspeed:variable": "obstruction",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "ref": "A3;A4",
+    "shoulder:right": "yes",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1202049007"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4233708,
+        47.367302
+      ],
+      [
+        8.4235118,
+        47.3670799
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1202049008",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "4",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "placement": "right_of:1",
+    "ref": "A3;A4",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through|through|merge_to_leftmerge_to_left",
+    "id": "way/1202049008"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4195771,
+        47.3742739
+      ],
+      [
+        8.4193555,
+        47.3749901
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1202049010",
+  "properties": {
+    "bridge": "yes",
+    "bridge:name": "Reppischtalbrücke",
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "4",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "100",
+    "maxspeed:variable": "obstruction",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "placement": "right_of:1",
+    "ref": "A3;A4",
+    "shoulder:right": "yes",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through|through|through|merge_to_left",
+    "id": "way/1202049010"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4231606,
+        47.3612256
+      ],
+      [
+        8.422949,
+        47.3606889
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1202049011",
+  "properties": {
+    "bridge": "yes",
+    "bridge:name": "Reppischtalbrücke",
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "4",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "100",
+    "maxspeed:variable": "obstruction",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "placement": "right_of:1",
+    "ref": "A3;A4",
+    "shoulder:right": "yes",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through|through|through|merge_to_left",
+    "id": "way/1202049011"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.422949,
+        47.3606889
+      ],
+      [
+        8.4228375,
+        47.3603879
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1202049012",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "100",
+    "maxspeed:variable": "obstruction",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "ref": "A3;A4",
+    "shoulder:right": "yes",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1202049012"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4236272,
+        47.3624391
+      ],
+      [
+        8.4235512,
+        47.3622428
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1202049013",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "3",
+    "layer": "-1",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "maxspeed:variable": "obstruction",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "ref": "A3;A4",
+    "shoulder:right": "no",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "Hafnerbergtunnel",
+    "turn:lanes": "through|through|merge_to_left",
+    "id": "way/1202049013"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4223911,
+        47.3592471
+      ],
+      [
+        8.4221091,
+        47.3585131
+      ],
+      [
+        8.4218543,
+        47.3577697
       ]
     ]
   }

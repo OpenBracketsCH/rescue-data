@@ -303,7 +303,7 @@
     "addr:street": "Schulhausplatz",
     "amenity": "school",
     "building": "school",
-    "name": "Sonnegg",
+    "name": "Schulhaus Sonnegg",
     "id": "way/34634824"
   },
   "geometry": {
@@ -420,7 +420,7 @@
     "addr:street": "Schulhausplatz",
     "amenity": "school",
     "building": "school",
-    "name": "Rigi",
+    "name": "Schulhaus Rigi",
     "id": "way/34634825"
   },
   "geometry": {
@@ -955,6 +955,10 @@
           46.9921528
         ],
         [
+          8.5276253,
+          46.9921506
+        ],
+        [
           8.5277325,
           46.9921419
         ],
@@ -989,6 +993,10 @@
         [
           8.5280872,
           46.9921946
+        ],
+        [
+          8.5280934,
+          46.9922303
         ],
         [
           8.5281215,
@@ -2000,7 +2008,7 @@
     "addr:street": "Etzelstrasse",
     "amenity": "school",
     "building": "school",
-    "name": "Schulhaus Büel",
+    "name": "Schulhaus Brüel",
     "id": "way/193024247"
   },
   "geometry": {
