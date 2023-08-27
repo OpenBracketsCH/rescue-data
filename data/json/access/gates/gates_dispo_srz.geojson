@@ -12711,7 +12711,6 @@
   "properties": {
     "barrier": "gate",
     "opening_hours": "24/7",
-    "opening_hours:covid19": "open",
     "id": "node/1011743497"
   },
   "geometry": {
@@ -61426,6 +61425,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/7537418479",
+  "properties": {
+    "barrier": "gate",
+    "locked": "no",
+    "id": "node/7537418479"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7231422,
+      47.2701648
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/7541110193",
   "properties": {
     "access": "private",
@@ -85416,8 +85431,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7238994,
-      47.2715778
+      8.7239015,
+      47.2715782
     ]
   }
 },
@@ -85662,6 +85677,21 @@
     "coordinates": [
       8.6392043,
       47.4065754
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11145796747",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11145796747"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6894165,
+      47.3000288
     ]
   }
 }

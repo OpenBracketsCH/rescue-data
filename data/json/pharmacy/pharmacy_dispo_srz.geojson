@@ -8025,6 +8025,27 @@
       47.5034771
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11145780531",
+  "properties": {
+    "addr:city": "Egg",
+    "addr:housenumber": "4",
+    "addr:postcode": "8132",
+    "addr:street": "Dorfplatz",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Apotheke Dobler",
+    "id": "node/11145780531"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6901599,
+      47.3000196
+    ]
+  }
 }
 ]
 }

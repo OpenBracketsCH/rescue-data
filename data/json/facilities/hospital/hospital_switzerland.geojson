@@ -48798,7 +48798,6 @@
     "healthcare": "clinic",
     "name": "Uzepraxis",
     "opening_hours": "Mo,We-Fr 07:30-12:00,13:30-17:30; Tu 07:30-17:30",
-    "opening_hours:covid19": "open",
     "phone": "0719550044",
     "website": "http://uzepraxis.ch/",
     "wheelchair": "yes",
