@@ -12544,6 +12544,22 @@
       47.1824481
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11148779075",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Spielgruppe Friesi",
+    "id": "node/11148779075"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5071318,
+      47.3596181
+    ]
+  }
 }
 ]
 }
