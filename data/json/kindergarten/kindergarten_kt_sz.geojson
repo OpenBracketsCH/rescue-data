@@ -142,10 +142,13 @@
   "type": "Feature",
   "id": "way/193356366",
   "properties": {
+    "addr:city": "Galgenen",
     "addr:housenumber": "15a",
+    "addr:postcode": "8854",
     "addr:street": "Büelstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
+    "name": "Kindergarten Brüel",
     "id": "way/193356366"
   },
   "geometry": {
@@ -860,8 +863,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7606525,
-      47.2049339
+      8.7608985,
+      47.2049153
     ]
   }
 },

@@ -67255,6 +67255,43 @@
       47.2657282
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11149514727",
+  "properties": {
+    "emergency": "defibrillator",
+    "id": "node/11149514727"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6113119,
+      47.678317
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11151753405",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Swiss Holiday Park - Hotel Hauptgebäude",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "Untergeschoss, Zugang Bowlingbahn",
+    "opening_hours": "24/7",
+    "operator": "Swiss Holiday Park",
+    "id": "node/11151753405"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6182259,
+      46.9810154
+    ]
+  }
 }
 ]
 }
