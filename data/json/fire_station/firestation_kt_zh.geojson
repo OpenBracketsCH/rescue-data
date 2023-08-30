@@ -2241,6 +2241,7 @@
     "addr:street": "Asylstrasse",
     "amenity": "fire_station",
     "building": "yes",
+    "name": "Milizfeuerwehr Kompanie Zürich Ost",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
     "id": "way/114160836"
   },

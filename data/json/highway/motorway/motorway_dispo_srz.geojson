@@ -5932,6 +5932,7 @@
   "type": "Feature",
   "id": "way/11910825",
   "properties": {
+    "bridge": "yes",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "2",
@@ -32039,8 +32040,10 @@
   "type": "Feature",
   "id": "way/132683821",
   "properties": {
+    "bridge": "yes",
     "highway": "motorway",
     "lanes": "2",
+    "layer": "1",
     "lit": "yes",
     "maxspeed": "80",
     "oneway": "yes",
@@ -68439,9 +68442,11 @@
   "type": "Feature",
   "id": "way/789013794",
   "properties": {
+    "bridge": "yes",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "2",
+    "layer": "1",
     "lit": "yes",
     "maxspeed": "100",
     "oneway": "yes",

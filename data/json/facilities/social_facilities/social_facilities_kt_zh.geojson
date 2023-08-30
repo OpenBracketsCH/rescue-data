@@ -28171,6 +28171,72 @@
 },
 {
   "type": "Feature",
+  "id": "way/320339143",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "177",
+    "addr:postcode": "8055",
+    "addr:street": "Döltschiweg",
+    "amenity": "social_facility",
+    "building": "residential",
+    "building:levels": "2",
+    "email": "nemo@swsieber.ch",
+    "name": "Notschlafstelle Nemo",
+    "opening_hours": "Mo-Su 00:00-08:30,20:00-24:00",
+    "phone": "+41 43 336 50 20",
+    "roof:colour": "#9e8b97",
+    "roof:shape": "gabled",
+    "social_facility": "shelter",
+    "website": "https://www.nemohilft.ch/",
+    "id": "way/320339143"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5030083,
+          47.3652608
+        ],
+        [
+          8.5031058,
+          47.3651487
+        ],
+        [
+          8.5031695,
+          47.3651742
+        ],
+        [
+          8.5031814,
+          47.3651605
+        ],
+        [
+          8.5032364,
+          47.3651825
+        ],
+        [
+          8.503203,
+          47.3652208
+        ],
+        [
+          8.5031828,
+          47.3652128
+        ],
+        [
+          8.5031068,
+          47.3653001
+        ],
+        [
+          8.5030083,
+          47.3652608
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/328826995",
   "properties": {
     "addr:city": "Zürich",
@@ -43268,29 +43334,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8325331936",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "177",
-    "addr:postcode": "8055",
-    "addr:street": "Döltschiweg",
-    "amenity": "social_facility",
-    "name": "Notschlafstelle Nemo",
-    "social_facility": "shelter",
-    "website": "https://www.swsieber.ch/jugendliche/",
-    "id": "node/8325331936"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5030751,
-      47.3652585
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8390977067",
   "properties": {
     "addr:city": "Winterthur",
@@ -46451,6 +46494,24 @@
     "coordinates": [
       8.5862834,
       47.3087672
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11153208484",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Nachtpension",
+    "operator": "Stadt Zürich Sozialdepartement",
+    "social_facility": "shelter",
+    "id": "node/11153208484"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5177898,
+      47.3747969
     ]
   }
 }

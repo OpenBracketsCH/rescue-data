@@ -3607,10 +3607,16 @@
     "addr:postcode": "8050",
     "addr:street": "Saatlenfussweg",
     "amenity": "school",
+    "architect:wikipedia": "https://de.wikipedia.org/wiki/Christian_Kerez",
     "building": "school",
     "building:levels": "8",
+    "building:material": "concrete",
     "isced:level": "0;1;2",
     "name": "Schulhaus Leutschenbach",
+    "operator": "Stadt Zürich",
+    "operator:type": "public",
+    "religion": "no",
+    "year_of_construction": "2009",
     "id": "way/41085090"
   },
   "geometry": {
