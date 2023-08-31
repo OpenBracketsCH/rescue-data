@@ -6555,11 +6555,12 @@
     "addr:street": "Seebacherstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "email": "brot-egge@swsieber.ch",
     "name": "Anlaufstelle Brot-Egge",
-    "operator": "SOZIALWERK PFARRER SIEBER",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-16:30; We 08:00-12:00",
+    "operator": "Sozialwerk Pfarrer Sieber",
     "phone": "+41 43 495 90 90",
     "social_facility": "outreach",
-    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
     "website": "https://www.swsieber.ch/was-wir-tun/auffangen/anlaufstelle/",
     "id": "way/43051851"
   },
@@ -6677,6 +6678,64 @@
         [
           8.5463015,
           47.417197
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/43083479",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "15",
+    "addr:postcode": "8052",
+    "addr:street": "Seebacherstrasse",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "building:levels": "2",
+    "email": "iglu@swsieber.ch",
+    "mobile": "+41 79 320 53 65",
+    "name": "Notschlafstelle Iglu",
+    "opening_hours": "Nov 15-Apr 15 ,Mo-Su 00:00-08:00,19:00-24:00",
+    "operator": "Sozialwerk Pfarrer Sieber",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
+    "social_facility": "shelter",
+    "website": "https://www.swsieber.ch/iglu/",
+    "id": "way/43083479"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5466417,
+          47.4207855
+        ],
+        [
+          8.5467545,
+          47.4206994
+        ],
+        [
+          8.5467637,
+          47.4207049
+        ],
+        [
+          8.5468648,
+          47.4206278
+        ],
+        [
+          8.5469567,
+          47.4206829
+        ],
+        [
+          8.5467429,
+          47.4208461
+        ],
+        [
+          8.5466417,
+          47.4207855
         ]
       ]
     ]
@@ -10178,6 +10237,60 @@
         [
           8.7601766,
           47.505583
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/73306059",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "136",
+    "addr:postcode": "8004",
+    "addr:street": "Feldstrasse",
+    "alt_name": "Missionarinnen der Nächstenliebe",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "building:levels": "3",
+    "name": "Missionaries of Charity",
+    "operator": "Missionaries of Charity (MC)",
+    "phone": "+41 44 242 04 30",
+    "roof:levels": "1",
+    "short_name": "MC",
+    "social_facility": "shelter",
+    "website": "https://www.stadt-zuerich.ch/sd/de/index/erschliessung/izs/wohnen/notunterkuenfte.html#",
+    "id": "way/73306059"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5248139,
+          47.380162
+        ],
+        [
+          8.5247534,
+          47.3801048
+        ],
+        [
+          8.5248413,
+          47.3800622
+        ],
+        [
+          8.5248687,
+          47.3800882
+        ],
+        [
+          8.5249017,
+          47.3801194
+        ],
+        [
+          8.5248139,
+          47.380162
         ]
       ]
     ]
@@ -14828,8 +14941,8 @@
     "name": "Schlupfhuus Zürich",
     "operator": "Verein Schlupfhuus",
     "phone": "+41 43 268 22 60",
-    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
-    "website": "http://www.schlupfhaus.ch/html/index.php?id=21",
+    "social_facility": "group_home",
+    "website": "https://schlupfhuus.ch/",
     "id": "way/114160763"
   },
   "geometry": {
@@ -18447,6 +18560,84 @@
         [
           8.6550055,
           47.7231518
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/135254973",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "30",
+    "addr:postcode": "8037",
+    "addr:street": "Rosengartenstrasse",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "name": "Notschlafstelle Rosengartenstrasse",
+    "operator": "Stadt Zürich Soziale Einrichtungen und Betriebe",
+    "phone": "+41 44 415 77 14",
+    "social_facility": "shelter",
+    "website": "https://www.stadt-zuerich.ch/sd/de/index/unterstuetzung/obdach.html#notschlafstelle_ohnevoranmeldung",
+    "id": "way/135254973"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5266516,
+          47.3956728
+        ],
+        [
+          8.526621,
+          47.3956798
+        ],
+        [
+          8.5265876,
+          47.3956792
+        ],
+        [
+          8.5265581,
+          47.3956743
+        ],
+        [
+          8.526536,
+          47.3956647
+        ],
+        [
+          8.5263506,
+          47.3955364
+        ],
+        [
+          8.5264453,
+          47.3954769
+        ],
+        [
+          8.5264709,
+          47.3954662
+        ],
+        [
+          8.5265831,
+          47.3955477
+        ],
+        [
+          8.5265653,
+          47.3955574
+        ],
+        [
+          8.5266089,
+          47.3955892
+        ],
+        [
+          8.526635,
+          47.395626
+        ],
+        [
+          8.5266516,
+          47.3956728
         ]
       ]
     ]
@@ -52371,20 +52562,22 @@
   "id": "node/7568520526",
   "properties": {
     "amenity": "social_facility",
-    "contact:website": "https://www.swsieber.ch/was-wir-tun/auffangen/pfuusbus/",
-    "name": "Pfuusbus Notschlafstelle",
-    "opening_hours": "Nov 15-Apr 15 19:00-09:00",
+    "email": "info@pfuusbus.ch",
+    "name": "Notschlafstelle Pfuusbus",
+    "opening_hours": "Nov 15-Apr 15 ,Mo-Su 00:00-09:00,19:00-24:00",
+    "operator": "Sozialwerk Pfarrer Sieber",
     "phone": "+41 79 334 02 63",
     "seasonal": "yes",
     "social_facility": "shelter",
     "social_facility:for": "homeless",
+    "website": "https://www.swsieber.ch/was-wir-tun/auffangen/pfuusbus/",
     "id": "node/7568520526"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5109964,
-      47.35278
+      8.5109813,
+      47.3526942
     ]
   }
 },
@@ -54188,55 +54381,6 @@
     "coordinates": [
       8.5440169,
       47.3748882
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9028862934",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "30",
-    "addr:postcode": "8037",
-    "addr:street": "Rosengartenstrasse",
-    "amenity": "social_facility",
-    "name": "Notschlafstelle Rosengartenstrasse",
-    "operator": "Stadt Zürich Soziale Einrichtungen und Betriebe",
-    "phone": "+41 44 415 77 14",
-    "social_facility": "shelter",
-    "website": "https://www.stadt-zuerich.ch/sd/de/index/unterstuetzung/obdach.html",
-    "id": "node/9028862934"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5264402,
-      47.3955437
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9028900055",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "15",
-    "addr:postcode": "8052",
-    "addr:street": "Seebacherstrasse",
-    "amenity": "social_facility",
-    "email": "iglu@swsieber.ch",
-    "mobile": "+41 79 320 53 65",
-    "name": "Iglu Notschlafstelle (von 15. November bis 15. April in Betrieb)",
-    "operator": "SOZIALWERK PFARRER SIEBER",
-    "social_facility": "shelter",
-    "website": "https://www.swsieber.ch/iglu/",
-    "id": "node/9028900055"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5467267,
-      47.4207756
     ]
   }
 },

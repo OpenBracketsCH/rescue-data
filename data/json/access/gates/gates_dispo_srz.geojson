@@ -11442,6 +11442,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/862861989",
+  "properties": {
+    "barrier": "gate",
+    "locked": "no",
+    "material": "metal",
+    "id": "node/862861989"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5521834,
+      47.3691814
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/865269861",
   "properties": {
     "barrier": "gate",

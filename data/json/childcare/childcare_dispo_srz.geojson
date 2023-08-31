@@ -1130,6 +1130,44 @@
 },
 {
   "type": "Feature",
+  "id": "way/112704597",
+  "properties": {
+    "amenity": "childcare",
+    "building": "yes",
+    "name": "pop e poppa schneggehüsli",
+    "website": "https://www.popepoppa.ch/de/einrichtungen/kita-in-egg/",
+    "id": "way/112704597"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6923485,
+          47.2968518
+        ],
+        [
+          8.6924401,
+          47.2967721
+        ],
+        [
+          8.6926069,
+          47.2968626
+        ],
+        [
+          8.6925155,
+          47.2969433
+        ],
+        [
+          8.6923485,
+          47.2968518
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/113820364",
   "properties": {
     "addr:city": "Zürich",
