@@ -14886,7 +14886,8 @@
   "type": "Feature",
   "id": "way/196015018",
   "properties": {
-    "addr:city": "Niederteufen",
+    "addr:city": "Niederteufen (AR)",
+    "addr:country": "CH",
     "addr:housenumber": "1",
     "addr:postcode": "9052",
     "addr:street": "Steinweg",
@@ -14903,40 +14904,24 @@
     "coordinates": [
       [
         [
-          9.3625366,
-          47.3902296
+          9.3628682,
+          47.3902824
         ],
         [
-          9.3625932,
-          47.3901579
+          9.362665,
+          47.3901919
         ],
         [
-          9.3626539,
-          47.3901837
+          9.3629652,
+          47.3898831
         ],
         [
-          9.3629332,
-          47.3898615
+          9.3631684,
+          47.3899737
         ],
         [
-          9.3631454,
-          47.3899528
-        ],
-        [
-          9.3627948,
-          47.3903298
-        ],
-        [
-          9.3627397,
-          47.3902985
-        ],
-        [
-          9.3627226,
-          47.3903181
-        ],
-        [
-          9.3625366,
-          47.3902296
+          9.3628682,
+          47.3902824
         ]
       ]
     ]
@@ -21416,6 +21401,7 @@
   "id": "way/317678774",
   "properties": {
     "addr:city": "Teufen AR",
+    "addr:country": "CH",
     "addr:housenumber": "17",
     "addr:postcode": "9053",
     "addr:street": "Gremmstrasse",
@@ -49657,7 +49643,10 @@
   "type": "Feature",
   "id": "node/5834404647",
   "properties": {
+    "addr:city": "Gais",
+    "addr:country": "CH",
     "addr:housenumber": "5",
+    "addr:postcode": "9056",
     "addr:street": "Dorfplatz",
     "amenity": "clinic",
     "healthcare": "clinic",
