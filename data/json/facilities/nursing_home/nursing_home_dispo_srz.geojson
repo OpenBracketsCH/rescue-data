@@ -4399,7 +4399,7 @@
   "properties": {
     "addr:city": "Bülach",
     "addr:housenumber": "1",
-    "addr:place": "8180",
+    "addr:postcode": "8180",
     "addr:street": "Gartematt",
     "amenity": "social_facility",
     "building": "yes",

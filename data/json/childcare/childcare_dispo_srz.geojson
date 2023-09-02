@@ -12598,6 +12598,25 @@
       47.3596181
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11160546299",
+  "properties": {
+    "amenity": "childcare",
+    "fee": "yes",
+    "name": "Fugu Kinderkrippe Zürich Eggbühl",
+    "operator": "Fugu Kinderkrippen",
+    "website": "https://www.kitafugu.ch/fugu-kinderkrippe-zuerich-eggbuehl/",
+    "id": "node/11160546299"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.543483,
+      47.4163658
+    ]
+  }
 }
 ]
 }
