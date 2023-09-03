@@ -25471,7 +25471,7 @@
     "addr:postcode": "8903",
     "addr:street": "Bachstrasse",
     "amenity": "social_facility",
-    "description": "Alterszentrum bietet:\n- stationäre Pflegeheimplätze\n- geschütze Demenzwohngruppe\n- ambulante Pflege (öffentliche Spitex Birmensdorf-Aesch)\n- Anlaufstelle für Altersfragen\n- Bistro am Bach",
+    "description": "Alterszentrum bietet: stationäre Pflegeheimplätze, geschütze Demenzwohngruppe, ambulante Pflege (öffentliche Spitex Birmensdorf-Aesch), Anlaufstelle für Altersfragen, Bistro am Bach",
     "ele": "468",
     "email": "info@alterszentrumambach.ch",
     "internet_access": "wlan",
@@ -25483,7 +25483,7 @@
     "phone": "+41 44 739 39 39",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
-    "start_date": "08.10.2012",
+    "start_date": "2012-10-08",
     "website": "https://www.alterszentrumambach.ch",
     "wheelchair": "yes",
     "id": "node/10175606579"
