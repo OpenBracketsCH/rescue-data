@@ -6358,6 +6358,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "layer": "-1",
+    "maxheight": "default",
     "maxspeed": "80",
     "maxspeed:variable": "yes",
     "oneway": "no",
