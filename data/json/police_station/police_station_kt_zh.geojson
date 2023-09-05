@@ -3608,17 +3608,19 @@
     "addr:street": "Zürcherstrasse",
     "alt_name": "KomPol Uitikon",
     "amenity": "police",
+    "email": "polizei@uitikon.org",
     "loc_name": "Gemeindepolizei Uitikon",
     "name": "Polizeiposten Gemeindepolizei Uitikon Waldegg",
     "operator": "Gemeinde Uitikon",
     "phone": "+41 44 200 15 17",
+    "website": "https://kompol-zh.ch/index.php/ihre-polizei/dienststellen-kompol-zh/dienststellen-bezirk-dietikon/dienststellen-uitikon-waldegg",
     "id": "node/9515482541"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4546705,
-      47.3702273
+      8.4536765,
+      47.3699238
     ]
   }
 },

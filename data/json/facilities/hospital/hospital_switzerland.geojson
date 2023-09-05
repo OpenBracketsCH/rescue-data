@@ -1044,7 +1044,8 @@
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "paediatrics",
-    "name": "Kinderkliniken Inselspital",
+    "name": "Julie-von-Jenner-Haus",
+    "old_name": "Kinderkliniken Inselspital",
     "operator": "Insel Gruppe AG",
     "type": "multipolygon",
     "wikidata": "Q30254034",
@@ -23475,7 +23476,7 @@
     "contact:website": "www.spital-muri.ch",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
-    "name": "Kreisspital für das Freiamt Muri",
+    "name": "Spital Muri",
     "wikidata": "Q33121446",
     "id": "way/397457143"
   },
