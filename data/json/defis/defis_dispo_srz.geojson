@@ -13595,6 +13595,7 @@
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "id": "node/7930654676"
   },
   "geometry": {
@@ -67513,6 +67514,52 @@
     "coordinates": [
       8.5258395,
       46.9907024
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11169526141",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im innern des Gebäudes",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1. Stock",
+    "opening_hours": "Mo - Fr 08.00 - 17.00",
+    "operator": "Belvédère Asset Management",
+    "phone": "+41432447777",
+    "id": "node/11169526141"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5505972,
+      47.3571457
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11170078937",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Laubegg",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "Hartplatz",
+    "opening_hours": "24/7",
+    "operator": "Schule",
+    "phone": "+41522672383",
+    "id": "node/11170078937"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7011665,
+      47.4785968
     ]
   }
 }

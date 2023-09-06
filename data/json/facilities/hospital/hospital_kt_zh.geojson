@@ -8369,6 +8369,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "psychiatry",
     "name": "Psychiatrische Poliklinik",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
     "operator": "Integrierte Psychiatrie Winterthur – Zürcher Unterland (IPW)",
     "operator:type": "public",
     "id": "node/7772509442"

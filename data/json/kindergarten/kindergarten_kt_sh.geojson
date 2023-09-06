@@ -631,7 +631,10 @@
     "addr:street": "Schweizerhofweg",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "building:levels": "1",
     "name": "Kindergarten Rhenania",
+    "roof:levels": "0",
+    "roof:shape": "gabled",
     "id": "way/174010924"
   },
   "geometry": {
@@ -755,8 +758,11 @@
     "addr:street": "Brunnenwiesenstrasse",
     "amenity": "kindergarten",
     "building": "residential",
+    "building:levels": "1",
     "check_date": "2023-05-24",
     "name": "Kindergarten Rhenania",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
     "id": "way/174010997"
   },
   "geometry": {
