@@ -1998,13 +1998,15 @@
     "addr:postcode": "8400",
     "addr:street": "Marktgasse",
     "amenity": "pharmacy",
-    "check_date:opening_hours": "2023-03-10",
+    "check_date:opening_hours": "2023-09-06",
     "dispensing": "yes",
     "healthcare": "pharmacy",
+    "level": "0",
     "name": "Nature First",
     "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
     "operator": "Nature First",
     "website": "https://naturefirst.ch/standorte/apotheke-und-drogerie-in-winterthur",
+    "wheelchair": "yes",
     "id": "node/568000492"
   },
   "geometry": {
