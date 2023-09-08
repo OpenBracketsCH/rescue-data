@@ -37396,6 +37396,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/312745599",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "15",
+    "addr:postcode": "8049",
+    "addr:street": "Regensdorferstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Regensdorferstrasse 15a",
+    "id": "node/312745599"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4976343,
+      47.403186
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/355531660",
   "properties": {
     "amenity": "kindergarten",

@@ -52188,30 +52188,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10603458005",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "medi-lan ag, Büroräumlichkeiten",
-    "description": "Während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "08:00-17:00",
-    "operator": "medi-lan ag",
-    "phone": "+41 41 748 52 00",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/10603458005"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4846469,
-      47.197626
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10605866508",
   "properties": {
     "access": "no",
@@ -67585,6 +67561,53 @@
     "coordinates": [
       8.4695578,
       47.395909
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11174458238",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Zufahrt Sportplatz Linthstrasse, Linthstrasse 51, 8856 Tuggen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Tuggen",
+    "phone": "+41 55 465 65 15",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11174458238"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.942517,
+      47.1964599
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11174485037",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schule Freilager, Eingang SÜD (Schwimmbad)",
+    "description": "während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "täglich 07.55-22.00",
+    "operator": "Schule Freilager",
+    "phone": "+41444163661",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11174485037"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4872282,
+      47.3792313
     ]
   }
 }
