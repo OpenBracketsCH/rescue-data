@@ -27162,6 +27162,7 @@
     "addr:street": "Schulhausstrasse",
     "amenity": "kindergarten",
     "building": "school",
+    "check_date": "2023-09-08",
     "name": "Kita",
     "id": "way/700305058"
   },
