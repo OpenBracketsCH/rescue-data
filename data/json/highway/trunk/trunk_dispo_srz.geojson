@@ -6357,7 +6357,7 @@
     "highway": "trunk",
     "int_ref": "E 41",
     "lanes": "2",
-    "layer": "-1",
+    "layer": "-2",
     "maxheight": "default",
     "maxspeed": "80",
     "maxspeed:variable": "yes",
@@ -6376,32 +6376,40 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6106473,
-        46.9908639
+        8.6106419,
+        46.9908854
       ],
       [
-        8.6106231,
-        46.9911612
+        8.6106311,
+        46.9911868
       ],
       [
-        8.6106462,
-        46.9914182
+        8.6106408,
+        46.9914438
       ],
       [
-        8.6106801,
-        46.9916976
+        8.6106761,
+        46.9917177
       ],
       [
-        8.6107325,
-        46.991937
+        8.6107352,
+        46.991958
       ],
       [
-        8.6109111,
-        46.9924678
+        8.6108163,
+        46.9922188
       ],
       [
-        8.6112208,
-        46.9930084
+        8.6109567,
+        46.992552
+      ],
+      [
+        8.6110993,
+        46.9928143
+      ],
+      [
+        8.611251,
+        46.9930592
       ],
       [
         8.611507,
@@ -6448,8 +6456,8 @@
         46.995538
       ],
       [
-        8.6174092,
-        46.9959217
+        8.6174736,
+        46.9959308
       ],
       [
         8.617849,
@@ -6521,8 +6529,8 @@
         46.9906539
       ],
       [
-        8.6106473,
-        46.9908639
+        8.6106419,
+        46.9908854
       ]
     ]
   }
@@ -7250,6 +7258,7 @@
     "highway": "trunk",
     "int_ref": "E 41;E 54",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "60",
     "motorroad": "yes",
     "nat_name": "N4",
@@ -7406,6 +7415,7 @@
     "lanes:backward": "1",
     "lanes:forward": "1",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "60",
     "maxweight:signed": "no",
     "motorroad": "yes",
@@ -10602,6 +10612,7 @@
     "lanes": "4",
     "lanes:backward": "2",
     "lanes:forward": "2",
+    "lit": "no",
     "maxspeed": "60",
     "motorroad": "yes",
     "nat_name": "N4",
@@ -11814,6 +11825,7 @@
     "highway": "trunk",
     "int_ref": "E 41;E 54",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "60",
     "motorroad": "yes",
     "nat_name": "N4",
@@ -11880,6 +11892,7 @@
     "lanes": "3",
     "lanes:backward": "1",
     "lanes:forward": "2",
+    "lit": "no",
     "maxspeed": "60",
     "motorroad": "yes",
     "nat_name": "N4",
@@ -12803,6 +12816,7 @@
     "lanes": "3",
     "lanes:backward": "1",
     "lanes:forward": "2",
+    "lit": "no",
     "maxspeed": "60",
     "motorroad": "yes",
     "nat_name": "N4",
@@ -13061,6 +13075,7 @@
     "lanes": "2",
     "lanes:backward": "1",
     "lanes:forward": "1",
+    "lit": "no",
     "maxspeed": "60",
     "motorroad": "yes",
     "nat_name": "N4",
@@ -23308,6 +23323,7 @@
     "lanes": "2",
     "lanes:backward": "1",
     "lanes:forward": "1",
+    "lit": "no",
     "maxspeed": "60",
     "motorroad": "yes",
     "nat_name": "N4",
