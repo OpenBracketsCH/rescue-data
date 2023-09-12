@@ -9817,10 +9817,11 @@
   "id": "node/9423477439",
   "properties": {
     "addr:city": "Bäretswil",
-    "addr:housenumber": "69",
+    "addr:housenumber": "5",
     "addr:postcode": "8344",
-    "addr:street": "Engelsteinstrasse",
+    "addr:street": "Glärnischstrasse",
     "amenity": "childcare",
+    "email": "leitung@kinderkrippe-triangel.ch",
     "name": "Chinderhuus Triangel",
     "phone": "+41 43 833 60 55",
     "website": "https://kinderkrippe-triangel.ch/",
@@ -9829,8 +9830,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8426916,
-      47.3408533
+      8.8508294,
+      47.3399168
     ]
   }
 },

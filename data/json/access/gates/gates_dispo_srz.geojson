@@ -44241,23 +44241,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4972018137",
-  "properties": {
-    "access": "private",
-    "barrier": "gate",
-    "hgv": "delivery",
-    "id": "node/4972018137"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5531042,
-      47.3661211
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4972321725",
   "properties": {
     "access": "private",
