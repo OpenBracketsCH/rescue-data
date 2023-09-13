@@ -36753,6 +36753,7 @@
   "properties": {
     "barrier": "lift_gate",
     "bicycle": "yes",
+    "lift_gate:type": "single",
     "motor_vehicle:conditional": "no @ (Mo-Sa 07:00-09:00, Su)",
     "id": "node/3619007147"
   },
@@ -45692,8 +45693,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5730873,
-      47.4016165
+      8.5730998,
+      47.4016139
     ]
   }
 },

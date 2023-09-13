@@ -488,24 +488,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9118270164",
-  "properties": {
-    "healthcare": "vaccination_centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Corona Impfzentrum Basel-Stadt",
-    "vaccination": "covid19",
-    "id": "node/9118270164"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.5994827,
-      47.5626492
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9310121050",
   "properties": {
     "healthcare": "vaccination_centre",
