@@ -18804,6 +18804,7 @@
   "id": "way/607913050",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "522",
     "addr:postcode": "8051",
     "addr:street": "Winterthurerstrasse",
@@ -18824,8 +18825,8 @@
     "coordinates": [
       [
         [
-          8.5723107,
-          47.403709
+          8.5723105,
+          47.4037089
         ],
         [
           8.5725353,
@@ -18840,8 +18841,8 @@
           47.4037958
         ],
         [
-          8.5723107,
-          47.403709
+          8.5723105,
+          47.4037089
         ]
       ]
     ]
