@@ -1045,11 +1045,15 @@
   "type": "Feature",
   "id": "node/5807805187",
   "properties": {
+    "access": "yes",
+    "defibrillator:location": "Neben dem Aufgang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "foot": "yes",
     "indoor": "yes",
     "level": "-1",
+    "opening_hours": "24/7",
+    "wheelchair": "limited",
     "id": "node/5807805187"
   },
   "geometry": {
@@ -67680,6 +67684,24 @@
     "coordinates": [
       8.5361195,
       47.4148212
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11189840121",
+  "properties": {
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "Ground",
+    "survey:date": "2023-09-14",
+    "id": "node/11189840121"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5532323,
+      47.3766696
     ]
   }
 }

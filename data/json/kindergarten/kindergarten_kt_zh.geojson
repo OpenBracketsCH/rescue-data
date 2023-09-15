@@ -35481,26 +35481,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4122641610",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "2",
-    "addr:postcode": "8409",
-    "addr:street": "Mettlenstrasse",
-    "amenity": "kindergarten",
-    "name": "Betreuung Hegi Dorf",
-    "id": "node/4122641610"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7717271,
-      47.5046958
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4122641611",
   "properties": {
     "amenity": "kindergarten",

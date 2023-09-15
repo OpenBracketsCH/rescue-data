@@ -1503,6 +1503,58 @@
 },
 {
   "type": "Feature",
+  "id": "way/123543862",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "45",
+    "addr:postcode": "8032",
+    "addr:street": "Plattenstrasse",
+    "amenity": "childcare",
+    "building": "yes",
+    "name": "kihz Platten",
+    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "website": "https://www.kihz.uzh.ch/de/kitas/kihz-platten.html",
+    "id": "way/123543862"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5552219,
+          47.3726933
+        ],
+        [
+          8.5551707,
+          47.3726699
+        ],
+        [
+          8.5551977,
+          47.3726429
+        ],
+        [
+          8.5550406,
+          47.3725709
+        ],
+        [
+          8.5550865,
+          47.3725249
+        ],
+        [
+          8.5552948,
+          47.3726204
+        ],
+        [
+          8.5552219,
+          47.3726933
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/148799182",
   "properties": {
     "addr:city": "Dietikon",

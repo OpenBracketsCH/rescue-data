@@ -11323,24 +11323,32 @@
     "coordinates": [
       [
         [
-          8.6524677,
-          47.2442569
+          8.6524464,
+          47.2442617
         ],
         [
-          8.6523356,
-          47.2440884
+          8.6523225,
+          47.2440888
         ],
         [
-          8.6525542,
-          47.2440094
+          8.6523889,
+          47.2440652
         ],
         [
-          8.6526864,
-          47.2441778
+          8.6523877,
+          47.2440604
         ],
         [
-          8.6524677,
-          47.2442569
+          8.6525444,
+          47.2440089
+        ],
+        [
+          8.6526752,
+          47.2441792
+        ],
+        [
+          8.6524464,
+          47.2442617
         ]
       ]
     ]
@@ -18811,6 +18819,7 @@
     "alt_name": "Altersheim Kull",
     "amenity": "social_facility",
     "building": "yes",
+    "building:levels": "4",
     "email": "kull@wohnsch.ch",
     "name": "Pflegeheim Kull Für Menschen mit psychischer Beeinträchtigung",
     "operator": "Verein Wohnsch (Wohnpflegeheime Schwamendingen)",
@@ -23734,8 +23743,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5752102,
-      47.4038897
+      8.5752179,
+      47.403909
     ]
   }
 },
