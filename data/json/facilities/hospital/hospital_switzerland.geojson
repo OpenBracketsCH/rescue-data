@@ -53151,6 +53151,28 @@
       47.3481751
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11193707834",
+  "properties": {
+    "amenity": "clinic",
+    "email": "praxis@delc.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "dermatology;dermatovenereology;plastic_surgery",
+    "name": "Clinique DELC",
+    "operator": "Clinique DELC AG",
+    "phone": "+41 32 552 33 33",
+    "website": "https://www.delc.ch",
+    "id": "node/11193707834"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4016235,
+      47.1935543
+    ]
+  }
 }
 ]
 }

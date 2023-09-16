@@ -45689,6 +45689,10 @@
           47.4146105
         ],
         [
+          8.5706465,
+          47.4146501
+        ],
+        [
           8.5708121,
           47.414684
         ],
@@ -129680,6 +129684,30 @@
     "coordinates": [
       8.7488388,
       47.4943222
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11194626948",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "242a",
+    "addr:postcode": "8050",
+    "addr:street": "Regensbergstrasse",
+    "amenity": "school",
+    "denomination": "evangelical",
+    "grades": "14",
+    "name": "ISTL Office",
+    "religion": "christian",
+    "website": "https://istl.net",
+    "id": "node/11194626948"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5309013,
+      47.4109396
     ]
   }
 }

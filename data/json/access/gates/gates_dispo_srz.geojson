@@ -30365,9 +30365,12 @@
   "type": "Feature",
   "id": "node/2798066701",
   "properties": {
+    "access": "private",
     "barrier": "gate",
-    "foot": "no",
+    "bicycle": "private",
+    "foot": "private",
     "locked": "yes",
+    "motor_vehicle": "private",
     "vehicle": "no",
     "id": "node/2798066701"
   },
