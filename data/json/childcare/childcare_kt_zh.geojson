@@ -11929,6 +11929,30 @@
       47.4163658
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11197406077",
+  "properties": {
+    "addr:city": "Buchs (ZH)",
+    "addr:housenumber": "24",
+    "addr:postcode": "8107",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "childcare",
+    "max_age": "6 Jahre",
+    "min_age": "3 Monate",
+    "name": "Chinderhuus Wirbelwind",
+    "operator": "Chinderhuus Wirbelwind GmbH",
+    "phone": "+41 43 495 38 33",
+    "id": "node/11197406077"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4376174,
+      47.4535346
+    ]
+  }
 }
 ]
 }
