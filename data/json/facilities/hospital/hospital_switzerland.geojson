@@ -53173,6 +53173,32 @@
       47.1935543
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11199486110",
+  "properties": {
+    "addr:city": "Aarau",
+    "addr:housenumber": "29",
+    "addr:postcode": "5000",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "clinic",
+    "email": "aarau@arzthaus.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general;dermatology;gastroenterology;emergency;gynaecology;orthopaedics;occupational;vaccination;cardiology;psychiatry;traditional_chinese_medicine",
+    "name": "Arzthaus",
+    "opening_hours": "Mo-Fr 7:00-20:00; Sa 9:00-18:00; Su 11:00-18:00 \"Emergency\"; PH 11:00-18:00 \"Emergency\"",
+    "phone": "+41 62 836 50 00",
+    "url": "https://www.arzthaus.ch/kontakt/aarau/",
+    "id": "node/11199486110"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0469582,
+      47.3911544
+    ]
+  }
 }
 ]
 }

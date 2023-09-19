@@ -3280,6 +3280,7 @@
     "dispensing": "yes",
     "drive_through": "no",
     "healthcare": "pharmacy",
+    "level": "0",
     "name": "Amavita",
     "opening_hours": "Mo-We 08:30-19:00; Th-Fr 08:30-20:00; Sa 08:00-18:00",
     "operator": "GaleniCare",
@@ -3290,8 +3291,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7623345,
-      47.4854195
+      8.7623802,
+      47.4851087
     ]
   }
 },
