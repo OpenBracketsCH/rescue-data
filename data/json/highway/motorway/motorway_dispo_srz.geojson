@@ -63337,39 +63337,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/554456178",
-  "properties": {
-    "change:lanes": "not_left|not_right|no",
-    "highway": "motorway",
-    "int_ref": "E 41",
-    "lanes": "3",
-    "lit": "yes",
-    "maxspeed": "120",
-    "oneway": "yes",
-    "placement": "right_of:1",
-    "ref": "A4",
-    "shoulder:right": "yes",
-    "source:maxspeed": "CH:motorway",
-    "surface": "asphalt",
-    "toll": "yes",
-    "id": "way/554456178"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.4391199,
-        47.2688675
-      ],
-      [
-        8.4392482,
-        47.2684474
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/554456188",
   "properties": {
     "change:lanes": "not_left|not_right|not_right",
@@ -63510,39 +63477,6 @@
       [
         8.4643528,
         47.2253363
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/554472769",
-  "properties": {
-    "change:lanes": "not_left|not_right|no",
-    "highway": "motorway",
-    "int_ref": "E 41",
-    "lanes": "3",
-    "maxspeed": "120",
-    "oneway": "yes",
-    "placement": "right_of:1",
-    "ref": "A4",
-    "shoulder": "no",
-    "source:maxspeed": "CH:motorway",
-    "surface": "asphalt",
-    "toll": "yes",
-    "turn:lanes": "none|none|slight_right",
-    "id": "way/554472769"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.4614615,
-        47.2286309
-      ],
-      [
-        8.4614015,
-        47.2286848
       ]
     ]
   }

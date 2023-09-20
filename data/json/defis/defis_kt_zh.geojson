@@ -46,8 +46,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.670178,
-      47.2306078
+      8.6701724,
+      47.2306033
     ]
   }
 },
@@ -51087,6 +51087,27 @@
     "coordinates": [
       8.8465543,
       47.2547791
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11203495938",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "In den Sxheanden 2",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "Anbau EG",
+    "operator": "Pfadi Säuliamt",
+    "id": "node/11203495938"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4394077,
+      47.2783683
     ]
   }
 }
