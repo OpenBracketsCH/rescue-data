@@ -12151,6 +12151,9 @@
   "type": "Feature",
   "id": "way/351497728",
   "properties": {
+    "addr:housenumber": "107",
+    "addr:postcode": "8050",
+    "addr:street": "Birchstrasse",
     "amenity": "school",
     "contact:city": "Zürich",
     "contact:email": "sekretariat@kzn.ch",
@@ -12160,6 +12163,7 @@
     "contact:street": "Birchstrasse",
     "contact:website": "https://www.kzn.ch/kontakt",
     "name": "Kantonsschule Zürich Nord",
+    "name:tr": "Zürih Kuzey Kanton Okulu",
     "old_name": "Kantonsschule Oerlikon",
     "operator": "Kanton Zürich, Bildungsdirektion",
     "short_name": "KZN",
@@ -18464,104 +18468,6 @@
         [
           8.5348556,
           47.3703937
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/744243328",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "56",
-    "addr:postcode": "8008",
-    "addr:street": "Bleulerstrasse",
-    "amenity": "school",
-    "building:levels": "2",
-    "building:part": "yes",
-    "name": "Oberstufenschule Lengg",
-    "operator": "Schweizerische Epilepsie-Stiftung",
-    "roof:orientation": "across",
-    "roof:shape": "flat",
-    "website": "https://www.swissepi.ch/ossl/",
-    "id": "way/744243328"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5692859,
-          47.3495123
-        ],
-        [
-          8.5690432,
-          47.3494219
-        ],
-        [
-          8.5689851,
-          47.3494935
-        ],
-        [
-          8.5689454,
-          47.3494787
-        ],
-        [
-          8.5689057,
-          47.3495276
-        ],
-        [
-          8.5687842,
-          47.3494824
-        ],
-        [
-          8.5688305,
-          47.3494254
-        ],
-        [
-          8.5688161,
-          47.34942
-        ],
-        [
-          8.5688688,
-          47.349355
-        ],
-        [
-          8.5688455,
-          47.3493464
-        ],
-        [
-          8.569065,
-          47.3490757
-        ],
-        [
-          8.5691601,
-          47.3491112
-        ],
-        [
-          8.5691118,
-          47.3491708
-        ],
-        [
-          8.5693741,
-          47.3492604
-        ],
-        [
-          8.5693172,
-          47.3493301
-        ],
-        [
-          8.5693955,
-          47.3493595
-        ],
-        [
-          8.5693977,
-          47.3493735
-        ],
-        [
-          8.5692859,
-          47.3495123
         ]
       ]
     ]

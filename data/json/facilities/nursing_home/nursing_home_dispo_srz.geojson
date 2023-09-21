@@ -4684,64 +4684,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/45407886",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "52",
-    "addr:postcode": "8408",
-    "addr:street": "Euelstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Brühlgut Stiftung",
-    "social_facility": "group_home",
-    "id": "way/45407886"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6805568,
-          47.5111831
-        ],
-        [
-          8.6804006,
-          47.511106
-        ],
-        [
-          8.6804812,
-          47.5110316
-        ],
-        [
-          8.6807181,
-          47.5111486
-        ],
-        [
-          8.6807497,
-          47.5111194
-        ],
-        [
-          8.6808101,
-          47.5111492
-        ],
-        [
-          8.6806172,
-          47.5113275
-        ],
-        [
-          8.6804761,
-          47.5112578
-        ],
-        [
-          8.6805568,
-          47.5111831
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/46735638",
   "properties": {
     "addr:city": "Thalwil",

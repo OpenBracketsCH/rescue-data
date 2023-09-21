@@ -497,6 +497,7 @@
     "addr:postcode": "8001",
     "addr:street": "Theaterstrasse",
     "amenity": "pharmacy",
+    "check_date": "2023-09-19",
     "contact:email": "info@bellevue-apotheke.ch",
     "contact:fax": "+41 44 261 02 10",
     "contact:phone": "+41 44 266 62 22",

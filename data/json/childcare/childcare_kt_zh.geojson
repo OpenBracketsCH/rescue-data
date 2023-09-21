@@ -11953,6 +11953,28 @@
       47.4535346
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11206017257",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "4",
+    "addr:postcode": "8050",
+    "addr:street": "Allmannstrasse",
+    "amenity": "childcare",
+    "name": "ABB Kinderkrippe Zwärgehuus",
+    "operator": "Verein ABB Krippen",
+    "website": "https://www.abbkinderkrippen.ch/krippen-horte/zwaergehuus-oerlikon/",
+    "id": "node/11206017257"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5490809,
+      47.4142232
+    ]
+  }
 }
 ]
 }

@@ -6966,64 +6966,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/45407886",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "52",
-    "addr:postcode": "8408",
-    "addr:street": "Euelstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Brühlgut Stiftung",
-    "social_facility": "group_home",
-    "id": "way/45407886"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6805568,
-          47.5111831
-        ],
-        [
-          8.6804006,
-          47.511106
-        ],
-        [
-          8.6804812,
-          47.5110316
-        ],
-        [
-          8.6807181,
-          47.5111486
-        ],
-        [
-          8.6807497,
-          47.5111194
-        ],
-        [
-          8.6808101,
-          47.5111492
-        ],
-        [
-          8.6806172,
-          47.5113275
-        ],
-        [
-          8.6804761,
-          47.5112578
-        ],
-        [
-          8.6805568,
-          47.5111831
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/46493172",
   "properties": {
     "addr:city": "Wädenswil",
@@ -40106,6 +40048,87 @@
         [
           8.7128694,
           47.2914628
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1209276380",
+  "properties": {
+    "amenity": "social_facility",
+    "contact:city": "Winterthur",
+    "contact:email": "info@bruehlgut.ch",
+    "contact:housenumber": "48",
+    "contact:phone": "+41 52 268 11 11",
+    "contact:postcode": "8408",
+    "contact:street": "Euelstrasse",
+    "contact:website": "https://www.xn--brhlgut-o2a.ch/",
+    "name": "Brühlgut Stiftung",
+    "operator": "Brühlgut Stiftung",
+    "social_facility": "assisted_living",
+    "id": "way/1209276380"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6798524,
+          47.5113218
+        ],
+        [
+          8.6809511,
+          47.5107315
+        ],
+        [
+          8.6811383,
+          47.5108657
+        ],
+        [
+          8.6816214,
+          47.5111383
+        ],
+        [
+          8.6816998,
+          47.5111908
+        ],
+        [
+          8.6817205,
+          47.5112175
+        ],
+        [
+          8.6817217,
+          47.5112429
+        ],
+        [
+          8.681653,
+          47.5113012
+        ],
+        [
+          8.6816609,
+          47.5113037
+        ],
+        [
+          8.6815509,
+          47.5113969
+        ],
+        [
+          8.6815722,
+          47.5114092
+        ],
+        [
+          8.6808782,
+          47.5119842
+        ],
+        [
+          8.6808168,
+          47.5119814
+        ],
+        [
+          8.6798524,
+          47.5113218
         ]
       ]
     ]
