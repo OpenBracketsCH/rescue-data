@@ -22495,6 +22495,7 @@
     "amenity": "clinic",
     "building": "yes",
     "healthcare": "clinic",
+    "healthcare:speciality": "physiatry;radiology;stomatology;general",
     "name": "Medizinisches Zentrum Bad Ragaz",
     "website": "https://www.healthragaz.ch/",
     "id": "way/332307795"

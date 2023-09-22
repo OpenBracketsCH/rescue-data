@@ -813,6 +813,7 @@
   "id": "way/4691970",
   "properties": {
     "highway": "motorway",
+    "lanes": "2",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A51",
@@ -11619,6 +11620,7 @@
   "id": "way/23813136",
   "properties": {
     "highway": "motorway",
+    "lanes": "2",
     "maxspeed": "100",
     "oneway": "yes",
     "ref": "A51",
@@ -26090,6 +26092,7 @@
   "id": "way/48068355",
   "properties": {
     "highway": "motorway",
+    "lanes": "2",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A51",
@@ -53821,6 +53824,7 @@
   "id": "way/417372456",
   "properties": {
     "highway": "motorway",
+    "lanes": "2",
     "maxspeed": "100",
     "oneway": "yes",
     "ref": "A51",

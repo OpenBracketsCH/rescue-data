@@ -16339,6 +16339,7 @@
     "name": "OJA Schwamendingen",
     "opening_hours": "Tu-Fr",
     "phone": "+41 44 322 1161",
+    "roof:shape": "gabled",
     "social_facility": "outreach",
     "social_facility:for": "juvenile",
     "website": "https://www.oja.ch/einrichtungen/oja-schwamendingen/",
