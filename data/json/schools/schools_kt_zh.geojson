@@ -102664,6 +102664,28 @@
       47.4109396
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11209621996",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "197",
+    "addr:postcode": "8400",
+    "addr:street": "Tösstalstrasse",
+    "amenity": "school",
+    "grades": "0-1",
+    "name": "Villa Zauberhuet",
+    "website": "https://esel-naturkindergarten.ch/",
+    "id": "node/11209621996"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7540898,
+      47.4879096
+    ]
+  }
 }
 ]
 }

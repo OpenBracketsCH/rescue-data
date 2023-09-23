@@ -44541,6 +44541,27 @@
       47.3790048
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11209689744",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "4",
+    "addr:postcode": "8405",
+    "addr:street": "Bollstrasse",
+    "amenity": "kindergarten",
+    "name": "Spielparadies Ängeli & Bängeli",
+    "website": "https://www.aengeliundbaengeli.ch/",
+    "id": "node/11209689744"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7598295,
+      47.4838934
+    ]
+  }
 }
 ]
 }
