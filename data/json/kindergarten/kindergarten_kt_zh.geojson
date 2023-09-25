@@ -32966,6 +32966,7 @@
     "capacity": "46",
     "email": "kita5@gfz-zh.ch",
     "name": "GFZ Kindertagesstätte 5",
+    "operator": "Stiftung GFZ | Gemeinnützige Frauen Zürich",
     "phone": "+41 44 271 70 80",
     "website": "http://www.gfz-zh.ch/kita-5",
     "id": "node/446783265"
@@ -32973,8 +32974,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5315296,
-      47.382777
+      8.5314784,
+      47.3827376
     ]
   }
 },

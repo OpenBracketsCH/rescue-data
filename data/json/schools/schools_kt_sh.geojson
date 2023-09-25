@@ -3234,7 +3234,10 @@
     "addr:street": "Schulgasse",
     "amenity": "school",
     "building": "school",
+    "building:levels": "2",
     "name": "Schulhaus Löhningen",
+    "roof:levels": "2",
+    "roof:shape": "gabled",
     "id": "way/241935304"
   },
   "geometry": {

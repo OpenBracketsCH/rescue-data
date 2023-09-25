@@ -172,9 +172,12 @@
     "addr:postcode": "6410",
     "addr:street": "Gotthardstrasse",
     "amenity": "childcare",
+    "check_date": "2023-09-24",
     "name": "Kinderkrippe Bärenland",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su off",
     "phone": "+41 41 530 3877",
     "website": "https://www.kinderkrippe-baerenland.ch/",
+    "wheelchair": "yes",
     "id": "node/9583546248"
   },
   "geometry": {
