@@ -20,27 +20,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3561848902",
-  "properties": {
-    "defibrillator:location": "AVANTEC AG, 3rd floor",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-Fr 08:30-18:00",
-    "operator": "AVANTEC AG",
-    "phone": "+41 44 457 13 13",
-    "id": "node/3561848902"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5142004,
-      47.3763124
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3561848903",
   "properties": {
     "defibrillator:location": "at pillar in front of the pharmacy",
@@ -965,28 +944,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8173606046",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "STB: E14.2 im Sanitätszimmer",
-    "description": "über Alarmzentrale 24h verfügbar, ansonsten während Betriebszeiten",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "operator": "ETH Zürich",
-    "phone": "+41 44 342 11 88",
-    "id": "node/8173606046"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5416703,
-      47.3815188
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8173606047",
   "properties": {
     "access": "no",
@@ -1516,24 +1473,6 @@
     "coordinates": [
       8.5394213,
       47.4173785
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8173673066",
-  "properties": {
-    "access": "yes",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "id": "node/8173673066"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5408348,
-      47.383917
     ]
   }
 },
@@ -11812,7 +11751,7 @@
   "properties": {
     "emergency": "defibrillator",
     "indoor": "yes",
-    "level": "Ground",
+    "level": "0",
     "survey:date": "2023-09-14",
     "id": "node/11189840121"
   },
@@ -11821,6 +11760,32 @@
     "coordinates": [
       8.5532323,
       47.3766696
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11218762259",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "AVANTEC AG, 3rd floor",
+    "defibrillator:location:de": "Regal in der Garderobe",
+    "defibrillator:location:en": "Shelf in the wardrobe",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "3",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "operator": "AVANTEC AG",
+    "phone": "+41 44 457 13 13",
+    "wheelchair": "yes",
+    "id": "node/11218762259"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5212785,
+      47.3885039
     ]
   }
 }

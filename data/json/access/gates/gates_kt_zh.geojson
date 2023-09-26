@@ -14669,6 +14669,7 @@
     "barrier": "gate",
     "bicycle": "no",
     "foot": "no",
+    "survey:date": "2023-09-25",
     "id": "node/1740538077"
   },
   "geometry": {
@@ -74618,6 +74619,39 @@
     "coordinates": [
       8.760838,
       47.5007273
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11217365266",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11217365266"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6640476,
+      47.2269518
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11217921032",
+  "properties": {
+    "barrier": "gate",
+    "bicycle": "permissive",
+    "foot": "yes",
+    "motor_vehicle": "no",
+    "id": "node/11217921032"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.500367,
+      47.3808685
     ]
   }
 }

@@ -39112,6 +39112,11 @@
   "type": "Feature",
   "id": "node/7598389170",
   "properties": {
+    "addr:city": "Hedingen",
+    "addr:housenumber": "11",
+    "addr:postcode": "8908",
+    "addr:street": "Güpfstrasse",
+    "alt_name": "Güpf 2",
     "amenity": "kindergarten",
     "name": "Kindergarten Güpf II",
     "id": "node/7598389170"
@@ -39133,7 +39138,8 @@
     "addr:postcode": "8908",
     "addr:street": "Güpfstrasse",
     "amenity": "kindergarten",
-    "name": "Kindergarten Güpf 1",
+    "loc_name": "Güpf 1",
+    "name": "Kindergarten Güpf I",
     "id": "node/7598389171"
   },
   "geometry": {
@@ -42997,26 +43003,6 @@
     "coordinates": [
       8.4101592,
       47.4246132
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9882603228",
-  "properties": {
-    "addr:city": "Hedingen",
-    "addr:housenumber": "15",
-    "addr:postcode": "8908",
-    "addr:street": "Güpfstrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Güpf 2",
-    "id": "node/9882603228"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4491514,
-      47.3015754
     ]
   }
 },

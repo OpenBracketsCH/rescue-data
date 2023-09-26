@@ -4187,6 +4187,7 @@
     "addr:postcode": "8046",
     "addr:street": "Weidmannstrasse",
     "amenity": "childcare",
+    "check_date": "2023-09-25",
     "name": "Kinderkrippe Dinolina",
     "id": "node/2631271549"
   },
@@ -4207,6 +4208,7 @@
     "addr:postcode": "8046",
     "addr:street": "Mühlackerstrasse",
     "amenity": "childcare",
+    "check_date": "2023-09-25",
     "name": "Kinderkrippe Dino",
     "website": "http://www.grow2gether.ch/",
     "id": "node/2631271554"
@@ -4228,6 +4230,7 @@
     "addr:postcode": "8046",
     "addr:street": "Weidmannstrasse",
     "amenity": "childcare",
+    "check_date": "2023-09-25",
     "name": "Kinderkrippe Dinolina",
     "website": "http://www.grow2gether.ch/",
     "id": "node/2631271560"
