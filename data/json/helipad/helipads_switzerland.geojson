@@ -17525,6 +17525,42 @@
 },
 {
   "type": "Feature",
+  "id": "way/1211092742",
+  "properties": {
+    "aeroway": "helipad",
+    "name": "Regionalspital Surselva",
+    "id": "way/1211092742"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.2042339,
+          46.7768002
+        ],
+        [
+          9.2043294,
+          46.7766619
+        ],
+        [
+          9.2045343,
+          46.7767316
+        ],
+        [
+          9.2044334,
+          46.7768666
+        ],
+        [
+          9.2042339,
+          46.7768002
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/281385797",
   "properties": {
     "aeroway": "helipad",
@@ -19895,6 +19931,21 @@
     "coordinates": [
       9.2151663,
       46.8359487
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11219834008",
+  "properties": {
+    "aeroway": "helipad",
+    "id": "node/11219834008"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5183357,
+      47.1940466
     ]
   }
 }

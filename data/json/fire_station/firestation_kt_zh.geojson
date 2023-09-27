@@ -51,7 +51,9 @@
   "type": "Feature",
   "id": "way/22453371",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "60",
+    "addr:postcode": "8400",
     "addr:street": "Zeughausstrasse",
     "amenity": "fire_station",
     "building": "yes",

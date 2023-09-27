@@ -386,6 +386,25 @@
       47.1725785
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11219794317",
+  "properties": {
+    "amenity": "pharmacy",
+    "check_date": "2023-09-26",
+    "healthcare": "pharmacy",
+    "name": "Zuger Kantonspital Apotheke",
+    "opening_hours": "Mo-Fr 08:30-17:30; Sa 09:00-12:30; Su off",
+    "id": "node/11219794317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5180428,
+      47.1941601
+    ]
+  }
 }
 ]
 }
