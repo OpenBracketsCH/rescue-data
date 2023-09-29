@@ -4246,6 +4246,7 @@
   "properties": {
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "id": "node/7179636243"
   },
   "geometry": {
@@ -67931,6 +67932,52 @@
     "coordinates": [
       8.643529,
       47.2697423
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11224961238",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Schachen ",
+    "description": "Immer verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "operator": "schulen Winterthur ",
+    "phone": "0797346291",
+    "id": "node/11224961238"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7178207,
+      47.5168773
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11225446237",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Polizeistation Andelfingen",
+    "description": "Während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "RG",
+    "operator": "Kantonspolizei Zürich",
+    "id": "node/11225446237"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6804817,
+      47.595162
     ]
   }
 }

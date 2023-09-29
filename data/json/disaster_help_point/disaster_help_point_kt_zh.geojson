@@ -5624,7 +5624,7 @@
     "activation": "blackout;phone_breakdown;evacuation",
     "contact:city": "Feuerthalen",
     "contact:country": "CH",
-    "contact:housenumber": "4",
+    "contact:housenumber": "4.1",
     "contact:postcode": "8245",
     "contact:street": "Erlenstrasse",
     "emergency": "disaster_help_point",
@@ -5637,8 +5637,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6480499,
-      47.6872134
+      8.6481243,
+      47.6876157
     ]
   }
 },

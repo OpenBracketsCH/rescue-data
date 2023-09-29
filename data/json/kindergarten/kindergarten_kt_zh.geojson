@@ -33044,14 +33044,15 @@
     "addr:postcode": "8810",
     "addr:street": "Teufenbachstrasse",
     "amenity": "kindergarten",
-    "name": "Kindergarten Winkel Wegli",
+    "name": "Kindergarten Winkelwegli",
+    "phone": "+41 44 725 75 54",
     "id": "node/566547038"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6042373,
-      47.2568989
+      8.6041644,
+      47.2569572
     ]
   }
 },
