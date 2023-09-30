@@ -15658,49 +15658,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/171258517",
-  "properties": {
-    "addr:city": "Tagelswangen",
-    "addr:housenumber": "11",
-    "addr:postcode": "8317",
-    "addr:street": "Alte Schulstrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Dorf I",
-    "source": "Bing",
-    "website": "http://www.schule-lindau.ch/de/kindergarten/kindergartengebaeude/welcome.php?action=showobject&object_id=667",
-    "id": "way/171258517"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6716603,
-          47.4286496
-        ],
-        [
-          8.6717256,
-          47.4285335
-        ],
-        [
-          8.6718661,
-          47.4285696
-        ],
-        [
-          8.6718008,
-          47.4286857
-        ],
-        [
-          8.6716603,
-          47.4286496
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/171375691",
   "properties": {
     "addr:city": "Pfaffhausen",
@@ -35771,7 +35728,7 @@
   "id": "node/4773368621",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Güxi",
+    "name": "Kidi Schloss",
     "id": "node/4773368621"
   },
   "geometry": {

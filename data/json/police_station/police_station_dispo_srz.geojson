@@ -4579,11 +4579,12 @@
   "properties": {
     "alt_name": "Kantonspolizei Zürich",
     "amenity": "police",
-    "name": "Polizeiposten Adliswil",
+    "name": "Kapo ZH - Posten Adliswil",
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",
     "operator:wikipedia": "de:Kantonspolizei Zürich",
     "phone": "+41 41 711 81 11",
+    "short_name": "Kapo ZH",
     "id": "node/9985481015"
   },
   "geometry": {

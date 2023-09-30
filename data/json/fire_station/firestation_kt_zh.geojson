@@ -5715,6 +5715,7 @@
   "id": "node/5104780345",
   "properties": {
     "amenity": "fire_station",
+    "check_date": "2023-09-29",
     "id": "node/5104780345"
   },
   "geometry": {

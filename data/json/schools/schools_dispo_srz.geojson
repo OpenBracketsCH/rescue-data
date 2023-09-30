@@ -99505,46 +99505,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/427653703",
-  "properties": {
-    "amenity": "school",
-    "name": "Kindergarten Dorf",
-    "id": "way/427653703"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6715947,
-          47.4287811
-        ],
-        [
-          8.6716441,
-          47.4286453
-        ],
-        [
-          8.6717538,
-          47.4284074
-        ],
-        [
-          8.6721592,
-          47.4285377
-        ],
-        [
-          8.6719599,
-          47.4288753
-        ],
-        [
-          8.6715947,
-          47.4287811
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/428657798",
   "properties": {
     "amenity": "school",
