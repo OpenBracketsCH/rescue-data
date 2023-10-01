@@ -14992,12 +14992,14 @@
   "type": "Feature",
   "id": "way/117063564",
   "properties": {
+    "Pflegeheim": "Sonnhalde",
+    "Pflegezentrum": "Sonnhalde",
     "addr:city": "Grüningen",
     "addr:country": "CH",
     "addr:housenumber": "2a",
     "addr:postcode": "8627",
     "addr:street": "Binzikerstrasse",
-    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde",
+    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde;BiBa A",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Pflege- und Betreuungszentrum Sonnhalde Haus Binzikerbach A",
@@ -15061,15 +15063,18 @@
   "type": "Feature",
   "id": "way/117103477",
   "properties": {
+    "Pflegeheim": "Sonnhalde",
+    "Pflegezentrum": "Sonnhalde",
     "addr:city": "Grüningen",
     "addr:country": "CH",
     "addr:housenumber": "1",
     "addr:postcode": "8627",
     "addr:street": "am Binzikerbach",
+    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde;BiBa B",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Klinik Sonnhalde Haus Am Binzikerbach B",
-    "operator": "Klinik Sonnhalde",
+    "operator": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde;BiBa A",
     "social_facility": "assisted_living",
     "id": "way/117103477"
   },
@@ -15186,6 +15191,8 @@
   "type": "Feature",
   "id": "way/117103906",
   "properties": {
+    "Pflegeheim": "Sonnhalde",
+    "Pflegezentrum": "Sonnhalde",
     "addr:city": "Grüningen",
     "addr:country": "CH",
     "addr:housenumber": "9",
@@ -15315,6 +15322,8 @@
   "type": "Feature",
   "id": "way/117103907",
   "properties": {
+    "Pflegeheim": "Sonnhalde",
+    "Pflegezentrum": "Sonnhalde",
     "addr:city": "Grüningen",
     "addr:country": "CH",
     "addr:housenumber": "7",
@@ -15732,6 +15741,8 @@
   "type": "Feature",
   "id": "way/117103922",
   "properties": {
+    "Pflegeheim": "Sonnhalde",
+    "Pflegezentrum": "Sonnhalde",
     "addr:city": "Grüningen",
     "addr:country": "CH",
     "addr:housenumber": "10",
@@ -15798,6 +15809,8 @@
   "type": "Feature",
   "id": "way/117103927",
   "properties": {
+    "Pflegeheim": "Sonnhalde",
+    "Pflegezentrum": "Sonnhalde",
     "addr:city": "Grüningen",
     "addr:country": "CH",
     "addr:housenumber": "5",
@@ -26269,7 +26282,7 @@
     "amenity": "social_facility",
     "building": "yes",
     "email": "info@pz-bauma.ch",
-    "name": "Pflegezentrum Bauma",
+    "name": "Pflegezentrum Bauma AG",
     "operator": "Töss Gruppe",
     "phone": "+41 52 396 55 55",
     "roof:shape": "gabled",
@@ -32148,6 +32161,8 @@
   "type": "Feature",
   "id": "way/291081248",
   "properties": {
+    "Pflegeheim": "Sonnhalde",
+    "Pflegezentrum": "Sonnhalde",
     "addr:city": "Grüningen",
     "addr:country": "CH",
     "addr:housenumber": "1",
@@ -40419,8 +40434,8 @@
           47.2592343
         ],
         [
-          8.6009603,
-          47.2592835
+          8.6009564,
+          47.2592909
         ],
         [
           8.6009254,
@@ -40451,8 +40466,8 @@
           47.2587392
         ],
         [
-          8.6006441,
-          47.2585452
+          8.6006551,
+          47.2585439
         ],
         [
           8.600912,
@@ -40541,8 +40556,8 @@
           47.259116
         ],
         [
-          8.6009603,
-          47.2592835
+          8.6009564,
+          47.2592909
         ],
         [
           8.6010752,
@@ -40624,16 +40639,16 @@
           47.2587581
         ],
         [
-          8.6001665,
-          47.2587118
+          8.6001577,
+          47.2587082
         ],
         [
-          8.6003055,
-          47.25898
+          8.6002932,
+          47.2589832
         ],
         [
-          8.6003595,
-          47.2590746
+          8.6003513,
+          47.2590841
         ],
         [
           8.6002226,
@@ -43645,6 +43660,7 @@
   "type": "Feature",
   "id": "way/874684879",
   "properties": {
+    "alt_name": "Pflegezentrum Sonnhalde;Klinik Sonnhalde",
     "amenity": "social_facility",
     "contact:city": "Grüningen",
     "contact:email": "info@klinik-sonnhalde.ch",

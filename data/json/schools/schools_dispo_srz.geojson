@@ -124392,28 +124392,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/455526729",
-  "properties": {
-    "addr:city": "Einsiedeln",
-    "addr:country": "CH",
-    "addr:housenumber": "2",
-    "addr:postcode": "8840",
-    "addr:street": "Paracelsuspark",
-    "amenity": "school",
-    "name": "Altes Schulhaus",
-    "wikidata": "Q29881481",
-    "id": "node/455526729"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7512585,
-      47.1284305
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/461033269",
   "properties": {
     "amenity": "school",
