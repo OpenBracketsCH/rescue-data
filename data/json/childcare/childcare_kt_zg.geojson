@@ -78,6 +78,7 @@
   "id": "node/5958940488",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2023-10-01",
     "name": "Kita Zauberstern",
     "id": "node/5958940488"
   },

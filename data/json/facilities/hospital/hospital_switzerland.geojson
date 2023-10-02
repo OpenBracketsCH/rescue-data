@@ -26580,6 +26580,7 @@
     "phone": "+41 44 366 22 11",
     "website": "http://www.waidspital.ch/",
     "wikidata": "Q1519815",
+    "wikimedia_commons": "Category:Stadtspital Waid",
     "id": "way/609537142"
   },
   "geometry": {
@@ -26994,6 +26995,8 @@
     "website": "http://www.usz.ch",
     "wheelchair": "yes",
     "wikidata": "Q450139",
+    "wikimedia_commons": "Category:Universitätsspital Zürich",
+    "wikipedia": "en:University Hospital of Zürich",
     "id": "way/612288154"
   },
   "geometry": {
@@ -37837,8 +37840,20 @@
           47.057209
         ],
         [
-          6.7421077,
-          47.0570342
+          6.7422329,
+          47.0570966
+        ],
+        [
+          6.7422703,
+          47.0570274
+        ],
+        [
+          6.742226,
+          47.057004
+        ],
+        [
+          6.7421992,
+          47.056958
         ],
         [
           6.7422707,
@@ -46704,6 +46719,7 @@
     "name": "Palliativklinik im Park",
     "old_name": "Hospiz im Park",
     "website": "https://palliativklinik.ch/",
+    "wikidata": "Q33121135",
     "id": "way/1212134882"
   },
   "geometry": {

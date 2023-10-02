@@ -1409,6 +1409,7 @@
     "addr:street": "Aeckerwiesenstrasse",
     "amenity": "kindergarten",
     "building": "yes",
+    "check_date": "2023-09-30",
     "name": "Kinderecke Heckenrose",
     "id": "way/30607158"
   },

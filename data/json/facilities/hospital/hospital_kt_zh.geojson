@@ -4360,6 +4360,7 @@
     "phone": "+41 44 366 22 11",
     "website": "http://www.waidspital.ch/",
     "wikidata": "Q1519815",
+    "wikimedia_commons": "Category:Stadtspital Waid",
     "id": "way/609537142"
   },
   "geometry": {
@@ -4568,6 +4569,8 @@
     "website": "http://www.usz.ch",
     "wheelchair": "yes",
     "wikidata": "Q450139",
+    "wikimedia_commons": "Category:Universitätsspital Zürich",
+    "wikipedia": "en:University Hospital of Zürich",
     "id": "way/612288154"
   },
   "geometry": {

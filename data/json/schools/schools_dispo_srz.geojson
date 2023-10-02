@@ -12063,6 +12063,7 @@
     "short_name": "KFR",
     "website": "http://www.kfr.ch/",
     "wikidata": "Q1728111",
+    "wikimedia_commons": "Category:Kantonsschule Freudenberg",
     "id": "way/31969810"
   },
   "geometry": {
@@ -18103,6 +18104,8 @@
     "short_name": "KST",
     "website": "http://www.ksstadelhofen.ch/",
     "wikidata": "Q1728131",
+    "wikimedia_commons": "Category:Kantonsschule Stadelhofen",
+    "wikipedia": "en:Kantonsschule Stadelhofen",
     "id": "way/37518666"
   },
   "geometry": {
@@ -90873,6 +90876,7 @@
     "short_name": "KSHP",
     "website": "https://www.kshp.ch/",
     "wikidata": "Q1379556",
+    "wikimedia_commons": "Category:Kantonsschule Hohe Promenade",
     "id": "way/326229776"
   },
   "geometry": {
@@ -91866,6 +91870,7 @@
     "website": "http://www.kzn.ch/",
     "wheelchair": "yes",
     "wikidata": "Q1728139",
+    "wikipedia": "en:Kantonsschule Zürich Nord",
     "id": "way/351497728"
   },
   "geometry": {
@@ -124726,6 +124731,7 @@
     "operator": "Stiftung Freie Evangelische Schule",
     "operator:type": "private",
     "wikidata": "Q28000684",
+    "wikimedia_commons": "Category:Freie Evangelische Schule Zürich",
     "id": "node/916616252"
   },
   "geometry": {
@@ -127174,6 +127180,7 @@
     "operator": "Stiftung Freie Evangelische Schule",
     "operator:type": "private",
     "wikidata": "Q28000684",
+    "wikimedia_commons": "Category:Freie Evangelische Schule Zürich",
     "id": "node/9593857220"
   },
   "geometry": {
@@ -127226,6 +127233,7 @@
     "operator": "SCHWEIZERISCHE FACHSCHULE FÜR MODE UND GESTALTUNG",
     "operator:type": "private",
     "wikidata": "Q28000684",
+    "wikimedia_commons": "Category:Freie Evangelische Schule Zürich",
     "id": "node/9605979020"
   },
   "geometry": {
