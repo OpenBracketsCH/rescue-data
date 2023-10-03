@@ -4886,7 +4886,6 @@
     "note": "Schulpavillon Typ Züri-Modular",
     "owner": "Immobilien Stadt Zürich (IMMO)",
     "roof:shape": "flat",
-    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
     "id": "way/43054064"
   },
   "geometry": {
@@ -4930,7 +4929,6 @@
     "building": "yes",
     "name": "Kindertagesstätte USZ Huttenstrasse",
     "operator": "Universitätsspital Zürich",
-    "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
     "id": "way/43054093"
   },
   "geometry": {

@@ -10339,7 +10339,8 @@
     "bicycle": "yes",
     "foot": "yes",
     "horse": "no",
-    "opening_hours": "Nov-Apr",
+    "locked:conditional": "yes @ (May-Sep)",
+    "opening_hours": "Oct-Apr",
     "id": "node/1122468039"
   },
   "geometry": {
@@ -11319,7 +11320,8 @@
     "barrier": "gate",
     "bicycle": "yes",
     "foot": "yes",
-    "opening_hours": "Nov-Apr",
+    "locked:conditional": "yes @ (May-Sep)",
+    "opening_hours": "Oct-Apr",
     "id": "node/1293306376"
   },
   "geometry": {
@@ -74699,6 +74701,36 @@
     "coordinates": [
       8.3815538,
       47.4022459
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11233305368",
+  "properties": {
+    "barrier": "lift_gate",
+    "id": "node/11233305368"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5013323,
+      47.3915725
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11233305369",
+  "properties": {
+    "barrier": "lift_gate",
+    "id": "node/11233305369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5011752,
+      47.3917222
     ]
   }
 }

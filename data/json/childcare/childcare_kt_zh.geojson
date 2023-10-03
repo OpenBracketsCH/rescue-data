@@ -1513,7 +1513,6 @@
     "amenity": "childcare",
     "building": "yes",
     "name": "kihz Platten",
-    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
     "website": "https://www.kihz.uzh.ch/de/kitas/kihz-platten.html",
     "id": "way/123543862"
   },
