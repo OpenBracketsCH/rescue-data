@@ -22569,13 +22569,13 @@
     "addr:postcode": "7312",
     "addr:street": "Klosterweg",
     "amenity": "clinic",
-    "building": "yes",
-    "email": "klinik@psych.ch",
+    "building": "hospital",
+    "email": "pfaefers@psychiatrie-sg.ch",
     "healthcare": "clinic",
-    "name": "Klinik St.Pirminsberg",
-    "operator": "Psychiatrie-Dienste Süd",
+    "name": "Psychiatrie St.Gallen - Pfäfers",
+    "operator": "Psychiatrie St.Gallen",
     "phone": "+41 58 178 60 60",
-    "website": "https://psych.ch/standorte/klinik-stpirminsberg",
+    "website": "https://www.psychiatrie-sg.ch/kontakt-1/pfaefers",
     "id": "way/335111263"
   },
   "geometry": {
@@ -25982,6 +25982,7 @@
     "phone": "+41 44 416 11 11",
     "website": "http://www.triemli.ch/",
     "wikidata": "Q1535635",
+    "wikimedia_commons": "Category:Stadtspital Triemli",
     "wikipedia": "de:Stadtspital Triemli",
     "id": "way/555945140"
   },
@@ -28753,6 +28754,8 @@
     "website": "https://www.pukzh.ch/",
     "wheelchair": "limited",
     "wikidata": "Q577131",
+    "wikimedia_commons": "Category:Burghölzli",
+    "wikipedia": "en:Burghölzli",
     "id": "way/671785658"
   },
   "geometry": {
@@ -28987,6 +28990,7 @@
     "source:history": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
     "website": "https://www.balgrist.ch/",
     "wikidata": "Q2494392",
+    "wikimedia_commons": "Category:Uniklinik Balgrist",
     "id": "way/671786482"
   },
   "geometry": {
@@ -29638,6 +29642,7 @@
     "phone": "+41 44 716 42 42",
     "website": "https://www.sanatorium-kilchberg.ch/",
     "wikidata": "Q50039750",
+    "wikimedia_commons": "Category:Sanatorium Kilchberg",
     "id": "way/673614566"
   },
   "geometry": {
