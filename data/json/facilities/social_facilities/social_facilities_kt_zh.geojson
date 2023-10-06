@@ -32182,11 +32182,11 @@
   "id": "way/556010513",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2023-10-05",
     "name": "Kinderhaus Entlisberg",
     "operator": "Stadt Zürich, Sozialdepartement",
     "social_facility": "day_care",
     "social_facility:for": "child",
-    "survey:date": "2020-05-21",
     "website": "https://www.stadt-zuerich.ch/sd/de/index/familien_kinder_jugendliche/kinderbetreuung/stadteigene_kitas/kinderhaus-entlisberg.html",
     "id": "way/556010513"
   },
@@ -37075,10 +37075,9 @@
     "addr:housenumber": "22.3",
     "addr:postcode": "8610",
     "addr:street": "Asylstrasse",
-    "alt_name": "Asylunterkunft Uster",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Notunterkunft Uster",
+    "name": "Asylunterkunft Uster",
     "social_facility": "shelter",
     "id": "way/964390114"
   },
