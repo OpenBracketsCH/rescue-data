@@ -1172,6 +1172,7 @@
   "properties": {
     "addr:city": "Zürich",
     "addr:country": "CH",
+    "addr:housename": "UZH-TWF",
     "addr:housenumber": "211",
     "addr:postcode": "8057",
     "addr:street": "Frohburgstrasse",
