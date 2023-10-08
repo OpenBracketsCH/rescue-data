@@ -14992,8 +14992,6 @@
   "type": "Feature",
   "id": "way/117063564",
   "properties": {
-    "Pflegeheim": "Sonnhalde",
-    "Pflegezentrum": "Sonnhalde",
     "addr:city": "Grüningen",
     "addr:country": "CH",
     "addr:housenumber": "2a",
@@ -15063,8 +15061,6 @@
   "type": "Feature",
   "id": "way/117103477",
   "properties": {
-    "Pflegeheim": "Sonnhalde",
-    "Pflegezentrum": "Sonnhalde",
     "addr:city": "Grüningen",
     "addr:country": "CH",
     "addr:housenumber": "1",
@@ -15191,8 +15187,6 @@
   "type": "Feature",
   "id": "way/117103906",
   "properties": {
-    "Pflegeheim": "Sonnhalde",
-    "Pflegezentrum": "Sonnhalde",
     "addr:city": "Grüningen",
     "addr:country": "CH",
     "addr:housenumber": "9",
@@ -15322,8 +15316,6 @@
   "type": "Feature",
   "id": "way/117103907",
   "properties": {
-    "Pflegeheim": "Sonnhalde",
-    "Pflegezentrum": "Sonnhalde",
     "addr:city": "Grüningen",
     "addr:country": "CH",
     "addr:housenumber": "7",
@@ -15741,8 +15733,6 @@
   "type": "Feature",
   "id": "way/117103922",
   "properties": {
-    "Pflegeheim": "Sonnhalde",
-    "Pflegezentrum": "Sonnhalde",
     "addr:city": "Grüningen",
     "addr:country": "CH",
     "addr:housenumber": "10",
@@ -15809,8 +15799,6 @@
   "type": "Feature",
   "id": "way/117103927",
   "properties": {
-    "Pflegeheim": "Sonnhalde",
-    "Pflegezentrum": "Sonnhalde",
     "addr:city": "Grüningen",
     "addr:country": "CH",
     "addr:housenumber": "5",
@@ -32160,8 +32148,6 @@
   "type": "Feature",
   "id": "way/291081248",
   "properties": {
-    "Pflegeheim": "Sonnhalde",
-    "Pflegezentrum": "Sonnhalde",
     "addr:city": "Grüningen",
     "addr:country": "CH",
     "addr:housenumber": "1",
