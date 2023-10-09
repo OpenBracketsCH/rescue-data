@@ -29321,42 +29321,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/757318544",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Fröschbach",
-    "id": "way/757318544"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6441898,
-          47.3699654
-        ],
-        [
-          8.6445426,
-          47.3697079
-        ],
-        [
-          8.6450619,
-          47.3700343
-        ],
-        [
-          8.6447091,
-          47.3702918
-        ],
-        [
-          8.6441898,
-          47.3699654
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/762815327",
   "properties": {
     "addr:city": "Zürich",
@@ -30684,6 +30648,10 @@
         [
           8.5698697,
           47.3594732
+        ],
+        [
+          8.56988,
+          47.3594801
         ],
         [
           8.5698837,
@@ -44429,6 +44397,29 @@
     "coordinates": [
       8.7598295,
       47.4838934
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11247572496",
+  "properties": {
+    "addr:housenumber": "108",
+    "addr:street": "General-Wille-Strasse",
+    "amenity": "kindergarten",
+    "check_date": "2023-10-08",
+    "name": "Montessori Kindergarten",
+    "opening_hours": "Mo-Tu,Th 08:30-15:45; We,Fr 08:30-11:30; Sa-Su off",
+    "phone": "+41 44 915 39 94",
+    "website": "https://ganztageskindergarten.ch",
+    "wheelchair": "yes",
+    "id": "node/11247572496"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6157643,
+      47.278555
     ]
   }
 }

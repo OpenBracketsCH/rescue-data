@@ -31823,12 +31823,13 @@
     "addr:postcode": "8703",
     "addr:street": "Im Spitzli",
     "amenity": "social_facility",
+    "check_date": "2023-10-08",
     "name": "Senevita Alterszentrum Gehren Erlenbach",
     "operator": "Senevita",
     "phone": "+41 43 277 33 33",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
-    "website": "https://www.senevita.ch/de/standorte/pflegeheim-gehren-erlenbach/index.php",
+    "website": "https://www.gehren.senevita.ch",
     "id": "node/8556680317"
   },
   "geometry": {

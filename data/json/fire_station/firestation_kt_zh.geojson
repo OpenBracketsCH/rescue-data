@@ -2742,6 +2742,7 @@
     "addr:street": "Schulhausstrasse",
     "amenity": "fire_station",
     "building": "yes",
+    "check_date": "2023-10-08",
     "name": "Feuerwehr Erlenbach",
     "id": "way/137879362"
   },

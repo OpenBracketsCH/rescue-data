@@ -28986,6 +28986,7 @@
     "operator": "Freies Gymnasium Zürich",
     "operator:type": "private",
     "private": "yes",
+    "roof:shape": "flat",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
     "website": "https://www.fgz.ch/",
     "wikidata": "Q1454145",
