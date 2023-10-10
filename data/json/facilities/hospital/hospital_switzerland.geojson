@@ -15278,10 +15278,10 @@
     "emergency": "no",
     "healthcare": "hospital",
     "healthcare:speciality": "psychiatry",
-    "name": "Psychiatrie St.Gallen Nord",
-    "operator": "Psychiatrie St.Gallen Nord",
+    "name": "Psychiatrie St.Gallen",
+    "operator": "Psychiatrie St.Gallen",
     "phone": "+41 71 913 11 11",
-    "website": "https://www.psgn.ch/",
+    "website": "https://www.psychiatrie-sg.ch/",
     "wheelchair": "yes",
     "wikidata": "Q29787004",
     "id": "way/200746959"
@@ -16624,8 +16624,8 @@
           47.25067
         ],
         [
-          8.6978422,
-          47.2507615
+          8.6978257,
+          47.2507691
         ],
         [
           8.6975559,

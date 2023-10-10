@@ -67189,6 +67189,7 @@
   "properties": {
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "id": "node/11149514727"
   },
   "geometry": {
@@ -68420,6 +68421,50 @@
     "coordinates": [
       8.6214888,
       47.7027331
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11250815237",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "WinTennis Halle",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "operator": "WinTennis AG",
+    "id": "node/11250815237"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7494516,
+      47.4936385
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11251970837",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Einsatzfahrzeuge",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "BOVIRO SECURITY GmbH ",
+    "phone": "+41 79 916 55 60",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11251970837"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6382473,
+      47.5175739
     ]
   }
 }
