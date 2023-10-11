@@ -23424,6 +23424,7 @@
     "addr:postcode": "8700",
     "amenity": "school",
     "building": "yes",
+    "name": "Italienische Villa",
     "id": "way/66987072"
   },
   "geometry": {
@@ -23550,6 +23551,7 @@
     "addr:street": "Dorfstrasse",
     "amenity": "school",
     "building": "yes",
+    "name": "Biologiehaus",
     "id": "way/66987074"
   },
   "geometry": {
@@ -85757,8 +85759,8 @@
           47.3818733
         ],
         [
-          8.5427274,
-          47.3818207
+          8.5427368,
+          47.3818816
         ],
         [
           8.542835,
@@ -90303,9 +90305,11 @@
     "addr:postcode": "8636",
     "addr:street": "Riedstrasse",
     "amenity": "school",
-    "name": "Schulhaus Ried",
+    "leisure": "pitch",
+    "name": "Hartplatz Schulhaus Ried",
     "operator": "Gemeinde Wald",
     "operator:type": "public/government",
+    "sport": "multi",
     "id": "way/830912981"
   },
   "geometry": {

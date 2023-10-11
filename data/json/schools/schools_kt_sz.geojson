@@ -11431,7 +11431,9 @@
   "type": "Feature",
   "id": "node/4122691691",
   "properties": {
+    "addr:city": "Freienbach",
     "addr:housenumber": "136",
+    "addr:postcode": "8807",
     "addr:street": "Kantonsstrasse",
     "amenity": "school",
     "isced:level": "2",
