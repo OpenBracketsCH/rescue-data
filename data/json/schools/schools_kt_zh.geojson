@@ -64265,7 +64265,7 @@
           47.3084162
         ],
         [
-          8.9140018,
+          8.9139609,
           47.3084138
         ],
         [
@@ -75563,8 +75563,11 @@
     "addr:postcode": "8400",
     "addr:street": "Weberstrasse",
     "amenity": "school",
+    "grades": "0-6",
     "name": "Primarschule Schönengrund",
     "operator": "Tagesschule Schönengrund",
+    "operator:type": "public",
+    "website": "https://www.schule-schoenengrund.ch/",
     "id": "way/406012751"
   },
   "geometry": {

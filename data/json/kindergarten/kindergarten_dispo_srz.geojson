@@ -21736,8 +21736,8 @@
     "coordinates": [
       [
         [
-          8.7822594,
-          47.3138159
+          8.7822415,
+          47.3138083
         ],
         [
           8.7819237,
@@ -21752,8 +21752,8 @@
           47.3135815
         ],
         [
-          8.7822594,
-          47.3138159
+          8.7822415,
+          47.3138083
         ]
       ]
     ]
@@ -28572,9 +28572,14 @@
   "type": "Feature",
   "id": "way/409160863",
   "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "7",
+    "addr:postcode": "8400",
+    "addr:street": "Nussbaumweg",
     "amenity": "kindergarten",
     "name": "Kindergarten Breite",
     "operator": "Tagesschule Schönengrund",
+    "preschool": "yes",
     "id": "way/409160863"
   },
   "geometry": {
@@ -49977,6 +49982,28 @@
     "coordinates": [
       8.6157643,
       47.278555
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11254626083",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "2a",
+    "addr:postcode": "8400",
+    "addr:street": "Weberstrasse",
+    "amenity": "kindergarten",
+    "level": "-1",
+    "name": "Kindergarten Schönengrund",
+    "preschool": "yes",
+    "id": "node/11254626083"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7364064,
+      47.4947102
     ]
   }
 }
