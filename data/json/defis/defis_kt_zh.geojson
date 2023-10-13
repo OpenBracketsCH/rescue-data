@@ -51,6 +51,30 @@
 },
 {
   "type": "Feature",
+  "id": "node/1024130902",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Schwimmbad Engelburg",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Zell",
+    "phone": "+41 52 397 03 11",
+    "id": "node/1024130902"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7954507,
+      47.4461321
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1468855333",
   "properties": {
     "access": "yes",
@@ -51724,6 +51748,31 @@
     "coordinates": [
       8.5372045,
       47.3122932
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11257020237",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Farbhofstrasse 21, 8048 Zürich; 1. Stock, Firma Sonio AG, im Eingangsbereich gegenüber der Eingangstüre",
+    "description": "während Büroöffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr: 08:00 - 17:00 Uhr",
+    "operator": "Sonio AG",
+    "phone": "+41 44 434 22 22",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11257020237"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4771806,
+      47.3912317
     ]
   }
 }

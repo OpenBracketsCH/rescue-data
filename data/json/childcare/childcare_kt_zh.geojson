@@ -1989,6 +1989,56 @@
 },
 {
   "type": "Feature",
+  "id": "way/232713453",
+  "properties": {
+    "addr:city": "Wetzikon",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8620",
+    "addr:street": "Guldisloostrasse",
+    "amenity": "childcare",
+    "building": "yes",
+    "name": "Kinderhort",
+    "id": "way/232713453"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7930523,
+          47.325398
+        ],
+        [
+          8.7930868,
+          47.325353
+        ],
+        [
+          8.7931505,
+          47.3253755
+        ],
+        [
+          8.793181,
+          47.3253357
+        ],
+        [
+          8.7933022,
+          47.3253785
+        ],
+        [
+          8.7932371,
+          47.3254632
+        ],
+        [
+          8.7930523,
+          47.325398
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/245187132",
   "properties": {
     "addr:city": "Fehraltorf",
