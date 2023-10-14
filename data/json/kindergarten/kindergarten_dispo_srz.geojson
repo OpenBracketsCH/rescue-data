@@ -2658,63 +2658,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/33752234",
-  "properties": {
-    "addr:city": "Fällanden",
-    "addr:housenumber": "8",
-    "addr:postcode": "8117",
-    "addr:street": "Talgartenstrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Wigarten",
-    "id": "way/33752234"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6424477,
-          47.3720178
-        ],
-        [
-          8.642504,
-          47.3719052
-        ],
-        [
-          8.6428454,
-          47.3719791
-        ],
-        [
-          8.6427902,
-          47.3720919
-        ],
-        [
-          8.6426931,
-          47.3720709
-        ],
-        [
-          8.6426824,
-          47.3720911
-        ],
-        [
-          8.6424873,
-          47.3720467
-        ],
-        [
-          8.642498,
-          47.3720287
-        ],
-        [
-          8.6424477,
-          47.3720178
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/34213637",
   "properties": {
     "amenity": "kindergarten",

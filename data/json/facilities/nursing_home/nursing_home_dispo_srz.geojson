@@ -32538,6 +32538,27 @@
       47.3718636
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11259714071",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Senevita Stockenhof",
+    "operator": "Senevita Gruppe",
+    "operator:type": "private",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "wheelchair": "yes",
+    "id": "node/11259714071"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4708232,
+      47.4325418
+    ]
+  }
 }
 ]
 }

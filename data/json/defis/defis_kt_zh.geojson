@@ -49974,7 +49974,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 07:00-17:00",
+    "opening_hours": "Mo-Fr 07:00-16:00",
     "operator": "Feuerwehr Regensdorf",
     "phone": "+41448433312",
     "source": "local_knowledge, defikarte.ch",
@@ -49983,8 +49983,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4637642,
-      47.4384365
+      8.4637632,
+      47.4385249
     ]
   }
 },
@@ -51773,6 +51773,28 @@
     "coordinates": [
       8.4771806,
       47.3912317
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11259453837",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Sennhof, Winterthur ",
+    "description": "an der Ecke zur Schnitzelheizung",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "id": "node/11259453837"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7587921,
+      47.4660424
     ]
   }
 }
