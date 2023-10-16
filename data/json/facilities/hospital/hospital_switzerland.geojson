@@ -10720,6 +10720,7 @@
     "addr:street": "Rue du Lac",
     "amenity": "clinic",
     "building": "hospital",
+    "check_date": "2023-10-15",
     "description": "Anti-Ageing",
     "healthcare": "clinic",
     "name": "Clinique La Prairie",
@@ -39526,9 +39527,9 @@
     "addr:street": "Oberdorf",
     "amenity": "hospital",
     "description": "Neurorehabilitation;Parkinson-Zentrum;Epileptologie",
-    "name": "Bethesda",
+    "name": "Rehaklinik Tschugg",
     "phone": "+41 32 338 44 44",
-    "website": "https://www.klinik-bethesda.ch/",
+    "website": "https://www.rehaklinik-tschugg.ch/",
     "id": "way/680329647"
   },
   "geometry": {

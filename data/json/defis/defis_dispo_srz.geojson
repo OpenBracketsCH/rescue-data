@@ -27299,8 +27299,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5576766,
-      47.2683249
+      8.5575455,
+      47.2682488
     ]
   }
 },
@@ -68658,6 +68658,27 @@
     "coordinates": [
       8.7587921,
       47.4660424
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11265020169",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Power Gym, nach dem Empfang ",
+    "description": "während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "id": "node/11265020169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.656201,
+      47.7135989
     ]
   }
 }

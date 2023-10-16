@@ -3801,23 +3801,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/916462874",
-  "properties": {
-    "amenity": "childcare",
-    "name": "Frankengasse",
-    "operator": "Stadt Zürich",
-    "id": "node/916462874"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5451911,
-      47.3696215
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1263163861",
   "properties": {
     "addr:city": "Uster",
