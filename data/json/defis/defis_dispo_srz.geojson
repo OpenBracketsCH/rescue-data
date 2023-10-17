@@ -38357,40 +38357,19 @@
   "properties": {
     "access": "no",
     "defibrillator:location": "Mariahaldenstrasse 16",
+    "description": "nicht jederzeit zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
-    "operator": "Stiftung",
+    "indoor": "yes",
+    "operator": "Martin Stiftung",
     "phone": "+41 43 277 44 44",
     "id": "node/9544718117"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5993049,
-      47.2951736
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9544739117",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Badehaus der Martin Stiftung",
-    "description": "Aussenwand zur Seestrasse/zugänglich im Badebetrieb",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "operator": "Martin Stiftung",
-    "phone": "+41432774444",
-    "id": "node/9544739117"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5979052,
-      47.2947343
+      8.5990484,
+      47.2950563
     ]
   }
 },
@@ -65700,7 +65679,7 @@
   "id": "node/11038063110",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Seestrasse 162",
+    "defibrillator:location": "Aussenwand zur Seestrasse/zugänglich im Badebetrieb",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -68679,6 +68658,152 @@
     "coordinates": [
       8.656201,
       47.7135989
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11266003470",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Wacker Neuson",
+    "description": "nur zu den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: 07.00-17.30 Uhr",
+    "operator": "Wacker Neuson AG",
+    "phone": "+41787434431",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11266003470"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6591256,
+      47.3924809
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11266351177",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulanlage Allmend, Haus C, Spezialtrakt, Eingang aussen",
+    "description": "Jederzeit verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Schule Meilen",
+    "phone": "+41 44 925 54 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11266351177"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6476663,
+      47.2720315
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11266369229",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Feldmeilen, Gebäude B, Eingang aussen",
+    "description": "Jederzeit verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Schule Meilen",
+    "phone": "+41 44 925 54 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11266369229"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6232975,
+      47.2772031
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11266377690",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Obermeilen, Trakt B, Eingang Turnhalle",
+    "description": "Jederzeit verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Schule Meilen",
+    "phone": "+41 44 925 54 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11266377690"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6570072,
+      47.2677406
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11266925470",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Hurdnerwäldlistrasse 13",
+    "description": "unter Krandach",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Yachtwerft Faul AG",
+    "phone": "+41 55 410 23 50",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11266925470"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7930965,
+      47.2053859
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11266932370",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Seestrasse 5",
+    "description": "Seetankstelle",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Yachtwerft Faul AG",
+    "phone": "+41 44 727 90 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11266932370"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5872799,
+      47.2698823
     ]
   }
 }
