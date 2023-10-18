@@ -49001,28 +49001,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4512678989",
-  "properties": {
-    "addr:housenumber": "7",
-    "addr:postcode": "2502",
-    "addr:street": "Bahnhofstrasse",
-    "amenity": "hospital",
-    "healthcare": "hospital",
-    "name": "Kapp Coaching Therapie",
-    "phone": "+41 33 533 35 10",
-    "website": "https://www.kapp.ch/",
-    "id": "node/4512678989"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.2435506,
-      47.1341332
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4540878862",
   "properties": {
     "amenity": "clinic",
@@ -51117,30 +51095,6 @@
     "coordinates": [
       6.8365425,
       46.465343
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8158697429",
-  "properties": {
-    "addr:city": "Biel/Bienne",
-    "addr:housenumber": "7",
-    "addr:postcode": "2502",
-    "addr:street": "Rue de la Gare / Bahnhofstrasse",
-    "amenity": "hospital",
-    "healthcare": "hospital",
-    "healthcare:speciality": "applied_kinesiology",
-    "name": "MRG Kinésiologie",
-    "operator": "Bart Woudman",
-    "operator:type": "private_for_profit",
-    "id": "node/8158697429"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.2435324,
-      47.1341394
     ]
   }
 },

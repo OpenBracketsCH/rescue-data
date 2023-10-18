@@ -120,6 +120,54 @@
 },
 {
   "type": "Feature",
+  "id": "way/196527456",
+  "properties": {
+    "addr:city": "Schübelbach",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "8862",
+    "addr:street": "Gutenbrunnen",
+    "amenity": "pharmacy",
+    "contact:phone": "+41 55 440 85 07",
+    "contact:website": "https://www.schwanen-apotheke.ch/",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Schwanen Apotheke",
+    "opening_hours": "Mo-Fr 09:00-12:00,13:30-18:30; Sa 08:00-15:00",
+    "wheelchair": "yes",
+    "id": "way/196527456"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9424553,
+          47.1751718
+        ],
+        [
+          8.9427056,
+          47.1751698
+        ],
+        [
+          8.9427074,
+          47.175272
+        ],
+        [
+          8.9424571,
+          47.1752741
+        ],
+        [
+          8.9424553,
+          47.1751718
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/245897689",
   "properties": {
     "addr:city": "Rüti (ZH)",
@@ -7050,34 +7098,6 @@
     "coordinates": [
       8.5641498,
       47.294367
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6912211982",
-  "properties": {
-    "addr:city": "Schübelbach",
-    "addr:country": "CH",
-    "addr:housenumber": "20",
-    "addr:postcode": "8862",
-    "addr:street": "Gutenbrunnen",
-    "amenity": "pharmacy",
-    "contact:phone": "+41 55 440 85 07",
-    "contact:website": "https://www.schwanen-apotheke.ch/",
-    "dispensing": "yes",
-    "drive_through": "no",
-    "healthcare": "pharmacy",
-    "name": "Schwanen Apotheke",
-    "opening_hours": "Mo-Fr 09:00-12:00,13:30-18:30; Sa 08:00-15:00",
-    "wheelchair": "yes",
-    "id": "node/6912211982"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.9425883,
-      47.1752188
     ]
   }
 },

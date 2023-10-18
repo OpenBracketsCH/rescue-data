@@ -148,6 +148,7 @@
     "defibrillator:location": "Bei Kirche",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "id": "node/2600797493"
   },
@@ -27420,29 +27421,6 @@
     "coordinates": [
       8.5990484,
       47.2950563
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9544757717",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Haupteingang vom Bindschädler 10",
-    "description": "verfügbar wähernd Öffnungszeiten",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "24/7",
-    "operator": "Martin Stiftung",
-    "phone": "+41432774444",
-    "id": "node/9544757717"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6015362,
-      47.2950287
     ]
   }
 },

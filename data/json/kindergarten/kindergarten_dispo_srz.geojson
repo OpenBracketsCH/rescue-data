@@ -3593,6 +3593,7 @@
     "amenity": "kindergarten",
     "building": "school",
     "building:levels": "2",
+    "check_date": "2023-10-17",
     "name": "Kindergarten Wiesenstrasse",
     "operator": "Schule Gallistpitz Veltheim",
     "id": "way/40949272"
@@ -49984,6 +49985,25 @@
     "coordinates": [
       8.7364064,
       47.4947102
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11269965545",
+  "properties": {
+    "amenity": "kindergarten",
+    "mobile": "+41 798 337 018",
+    "name": "Wald-, Buurehof- & Pony-Spielgruppe & Kindergarten",
+    "operator": "Team Pony-Schule Healing Horse – Laura Knappe",
+    "website": "www.healing-horse.ch",
+    "id": "node/11269965545"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7972673,
+      47.2653557
     ]
   }
 }
