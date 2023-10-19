@@ -6689,8 +6689,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6491976,
-        47.7133518
+        8.648975,
+        47.7132677
       ],
       [
         8.6493181,
@@ -11240,44 +11240,6 @@
       [
         8.6141162,
         47.7903708
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/185448698",
-  "properties": {
-    "avz": "123",
-    "cs_dir": "2",
-    "destination:int_ref:lanes": "E 41;E 54|",
-    "destination:lanes": "Stuttgart;Singen;Thayngen|Donaueschingen;Bargen",
-    "destination:ref:lanes": "|A4",
-    "highway": "trunk",
-    "int_ref": "E 41;E 54",
-    "lanes": "2",
-    "maxspeed": "80",
-    "motorroad": "yes",
-    "nat_name": "N4",
-    "oneway": "yes",
-    "placement": "middle_of:1",
-    "ref": "A4;E41;E54",
-    "source:maxspeed": "sign",
-    "ssvz": "1004N",
-    "toll": "yes",
-    "turn:lanes": "none|slight_right",
-    "id": "way/185448698"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.648975,
-        47.7132677
-      ],
-      [
-        8.6491976,
-        47.7133518
       ]
     ]
   }
