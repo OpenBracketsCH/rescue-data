@@ -30902,7 +30902,7 @@
   "type": "Feature",
   "id": "way/99146291",
   "properties": {
-    "addr:city": "Gossau (ZH)",
+    "addr:city": "Gossau ZH",
     "addr:housenumber": "47",
     "addr:postcode": "8625",
     "addr:street": "Bergstrasse",
@@ -30954,7 +30954,7 @@
   "type": "Feature",
   "id": "way/99146312",
   "properties": {
-    "addr:city": "Gossau (ZH)",
+    "addr:city": "Gossau ZH",
     "addr:postcode": "8625",
     "addr:street": "Bergstrasse",
     "amenity": "school",
@@ -46753,7 +46753,7 @@
   "type": "Feature",
   "id": "way/167187321",
   "properties": {
-    "addr:city": "Gossau (ZH)",
+    "addr:city": "Gossau ZH",
     "addr:housenumber": "49",
     "addr:postcode": "8625",
     "addr:street": "Bergstrasse",
@@ -46849,7 +46849,9 @@
   "type": "Feature",
   "id": "way/167187322",
   "properties": {
+    "addr:city": "Gossau ZH",
     "addr:housenumber": "49a",
+    "addr:postcode": "8625",
     "addr:street": "Bergstrasse",
     "amenity": "school",
     "building": "yes",
@@ -88262,16 +88264,20 @@
     "coordinates": [
       [
         [
-          8.5764618,
-          47.2768334
+          8.576459,
+          47.2768441
         ],
         [
-          8.5759223,
-          47.2767331
+          8.5758951,
+          47.2766698
         ],
         [
-          8.5747103,
-          47.2763094
+          8.57585,
+          47.2767261
+        ],
+        [
+          8.5746942,
+          47.2762989
         ],
         [
           8.5750572,
@@ -88302,12 +88308,12 @@
           47.2762468
         ],
         [
-          8.5767796,
-          47.2764473
+          8.5768119,
+          47.2764268
         ],
         [
-          8.5764618,
-          47.2768334
+          8.576459,
+          47.2768441
         ]
       ]
     ]

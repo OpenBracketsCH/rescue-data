@@ -12294,6 +12294,73 @@
 },
 {
   "type": "Feature",
+  "id": "way/23895888",
+  "properties": {
+    "destination": "Chiasso;Gotthard;Schwyz;Rotkreuz",
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "placement": "right_of:1",
+    "ref": "A4",
+    "shoulder": "right",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/23895888"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4328896,
+        47.1602582
+      ],
+      [
+        8.432886,
+        47.1599096
+      ],
+      [
+        8.4328784,
+        47.1596746
+      ],
+      [
+        8.4328647,
+        47.1594268
+      ],
+      [
+        8.4328406,
+        47.1591993
+      ],
+      [
+        8.4327995,
+        47.1589462
+      ],
+      [
+        8.432768,
+        47.1587887
+      ],
+      [
+        8.4327325,
+        47.1586312
+      ],
+      [
+        8.4326726,
+        47.1583846
+      ],
+      [
+        8.4325807,
+        47.1580902
+      ],
+      [
+        8.4323896,
+        47.157486
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/23910986",
   "properties": {
     "alt_name": "Zugerautobahn",
@@ -25243,6 +25310,147 @@
       [
         8.4331658,
         47.1591166
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/42748891",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "maxspeed": "80",
+    "oneway": "yes",
+    "placement": "right_of:1",
+    "ref": "A4",
+    "shoulder": "right",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/42748891"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4323896,
+        47.157486
+      ],
+      [
+        8.4323621,
+        47.157375
+      ],
+      [
+        8.4323225,
+        47.15722
+      ],
+      [
+        8.4322932,
+        47.1570638
+      ],
+      [
+        8.4322696,
+        47.1569018
+      ],
+      [
+        8.4322573,
+        47.1567409
+      ],
+      [
+        8.4322529,
+        47.1565806
+      ],
+      [
+        8.4322622,
+        47.156419
+      ],
+      [
+        8.4322898,
+        47.1562587
+      ],
+      [
+        8.4323242,
+        47.156099
+      ],
+      [
+        8.4323739,
+        47.1559397
+      ],
+      [
+        8.4324387,
+        47.1557774
+      ],
+      [
+        8.4325155,
+        47.1556227
+      ],
+      [
+        8.4326101,
+        47.1554696
+      ],
+      [
+        8.4326613,
+        47.155394
+      ],
+      [
+        8.432703,
+        47.1553324
+      ],
+      [
+        8.4328062,
+        47.1551894
+      ],
+      [
+        8.4329757,
+        47.1549762
+      ],
+      [
+        8.4332205,
+        47.1547044
+      ],
+      [
+        8.4334803,
+        47.1544348
+      ],
+      [
+        8.4336829,
+        47.1542307
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/42748896",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "maxspeed": "80",
+    "oneway": "yes",
+    "placement": "right_of:1",
+    "ref": "A4",
+    "shoulder": "no",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/42748896"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4336829,
+        47.1542307
+      ],
+      [
+        8.4339573,
+        47.1539454
+      ],
+      [
+        8.4342089,
+        47.1536935
       ]
     ]
   }
@@ -74095,6 +74303,35 @@
 },
 {
   "type": "Feature",
+  "id": "way/1211245949",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "maxspeed": "80",
+    "oneway": "yes",
+    "ref": "A4",
+    "shoulder": "no",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1211245949"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4342089,
+        47.1536935
+      ],
+      [
+        8.4345183,
+        47.1533558
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1211245950",
   "properties": {
     "destination": "Luzern;Gisikon-Root",
@@ -74121,6 +74358,36 @@
       [
         8.432984,
         47.1602623
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1211245951",
+  "properties": {
+    "destination": "Chiasso;Gotthard;Schwyz;Rotkreuz",
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A4",
+    "shoulder": "right",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1211245951"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4329318,
+        47.1604821
+      ],
+      [
+        8.4328896,
+        47.1602582
       ]
     ]
   }

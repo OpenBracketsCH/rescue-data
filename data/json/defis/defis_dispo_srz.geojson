@@ -69028,6 +69028,47 @@
       47.3979886
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11281303370",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "FW Gebäude, neben Eingang zum Gebäude",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "operator": "FW VOR, Gemeinde Lohn",
+    "phone": "+41526494749",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11281303370"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6661392,
+      47.754734
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11281390446",
+  "properties": {
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "Medtronic",
+    "survey:date": "2023-10-22",
+    "id": "node/11281390446"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5695423,
+      47.3774761
+    ]
+  }
 }
 ]
 }

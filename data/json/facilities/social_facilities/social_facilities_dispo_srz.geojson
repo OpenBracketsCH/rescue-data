@@ -12712,7 +12712,7 @@
   "type": "Feature",
   "id": "way/99044489",
   "properties": {
-    "addr:city": "Gossau (ZH)",
+    "addr:city": "Gossau ZH",
     "addr:housenumber": "21",
     "addr:postcode": "8625",
     "addr:street": "Laufenbachstrasse",

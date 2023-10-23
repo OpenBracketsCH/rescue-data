@@ -876,6 +876,7 @@
   "type": "Feature",
   "id": "way/99154221",
   "properties": {
+    "addr:city": "Gossau ZH",
     "addr:housenumber": "52",
     "addr:postcode": "8625",
     "addr:street": "Rebhaldenstrasse",
@@ -1639,7 +1640,7 @@
   "type": "Feature",
   "id": "way/167199890",
   "properties": {
-    "addr:city": "Gossau (ZH)",
+    "addr:city": "Gossau ZH",
     "addr:housenumber": "25",
     "addr:postcode": "8625",
     "addr:street": "Laufenbachstrasse",

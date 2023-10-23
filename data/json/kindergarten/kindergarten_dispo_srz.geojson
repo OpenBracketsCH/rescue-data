@@ -10577,7 +10577,7 @@
   "type": "Feature",
   "id": "way/99146303",
   "properties": {
-    "addr:city": "Gossau (ZH)",
+    "addr:city": "Gossau ZH",
     "addr:housenumber": "37",
     "addr:postcode": "8625",
     "addr:street": "Bergstrasse",
@@ -39170,6 +39170,7 @@
     "addr:postcode": "8633",
     "addr:street": "Lochrütistrasse",
     "amenity": "kindergarten",
+    "check_date": "2023-10-22",
     "contact:email": "info@kitaplus.ch",
     "contact:phone": "+41 55 243 32 46",
     "contact:website": "http://www.kitaplus.ch/",

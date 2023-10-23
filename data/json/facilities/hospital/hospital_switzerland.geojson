@@ -20524,101 +20524,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/302293314",
-  "properties": {
-    "addr:city": "Mendrisio",
-    "addr:housenumber": "6",
-    "addr:postcode": "6850",
-    "addr:street": "Via Agostino Maspoli",
-    "amenity": "clinic",
-    "building": "yes",
-    "healthcare": "clinic",
-    "healthcare:speciality": "psychiatry",
-    "name": "Clinica psichiatrica cantonale",
-    "id": "way/302293314"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.9785608,
-          45.8602734
-        ],
-        [
-          8.9785474,
-          45.8601819
-        ],
-        [
-          8.9786869,
-          45.8601557
-        ],
-        [
-          8.9786788,
-          45.8601333
-        ],
-        [
-          8.9788156,
-          45.860096
-        ],
-        [
-          8.9788907,
-          45.8600717
-        ],
-        [
-          8.9789953,
-          45.8600268
-        ],
-        [
-          8.9790678,
-          45.8599764
-        ],
-        [
-          8.9790865,
-          45.8599895
-        ],
-        [
-          8.979175,
-          45.8599222
-        ],
-        [
-          8.9792797,
-          45.8599745
-        ],
-        [
-          8.9791911,
-          45.8600418
-        ],
-        [
-          8.9791187,
-          45.8600941
-        ],
-        [
-          8.97899,
-          45.8601632
-        ],
-        [
-          8.9788612,
-          45.8602099
-        ],
-        [
-          8.9787513,
-          45.8602398
-        ],
-        [
-          8.9786332,
-          45.8602697
-        ],
-        [
-          8.9785608,
-          45.8602734
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/302437881",
   "properties": {
     "addr:city": "Mendrisio",
@@ -20651,6 +20556,10 @@
         [
           8.9827639,
           45.8662025
+        ],
+        [
+          8.9828486,
+          45.8661514
         ],
         [
           8.9830854,
@@ -52847,27 +52756,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10734770620",
-  "properties": {
-    "addr:city": "Lausanne",
-    "addr:housenumber": "35",
-    "addr:postcode": "1006",
-    "addr:street": "Boulevard de Grancy",
-    "amenity": "hospital",
-    "healthcare": "hospital",
-    "name": "Swiss Podology",
-    "id": "node/10734770620"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      6.626981,
-      46.5159272
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10741192251",
   "properties": {
     "amenity": "clinic",
@@ -53015,9 +52903,16 @@
   "type": "Feature",
   "id": "node/11004383974",
   "properties": {
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:country": "CH",
+    "addr:housenumber": "63a",
+    "addr:postcode": "2300",
+    "addr:street": "Rue de la Charrière",
     "amenity": "clinic",
     "healthcare": "clinic",
     "name": "Centre Médical de la Charrière",
+    "opening_hours": "Mo,Fr 08:00-17:45; Tu-Th 08:00-18:00",
+    "phone": "+41 32 912 30 60",
     "short_name": "CMDLC",
     "website": "https://cmdlc.ch/",
     "id": "node/11004383974"
@@ -53116,30 +53011,6 @@
     "coordinates": [
       9.5301892,
       46.8528379
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11056338516",
-  "properties": {
-    "addr:city": "Lausanne",
-    "addr:housenumber": "6",
-    "addr:postcode": "1003",
-    "addr:street": "Avenue de la Gare",
-    "amenity": "hospital",
-    "healthcare": "hospital",
-    "healthcare:speciality": "ophthalmology;optometry",
-    "name": "Swiss Visio Lausanne-Gare",
-    "operator": "Swiss Visio Network",
-    "website": "https://www.swissmedical.net/fr/swiss-visio/centres/swiss-visio-lausanne-gare",
-    "id": "node/11056338516"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      6.6360843,
-      46.5171017
     ]
   }
 },
