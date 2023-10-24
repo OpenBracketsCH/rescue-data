@@ -9757,11 +9757,11 @@
   "properties": {
     "highway": "motorway",
     "int_ref": "E 41;E 60",
-    "lanes": "2",
+    "lanes": "3",
     "layer": "-1",
     "length": "3250",
     "lit": "24/7",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "name": "3. Röhre Gubristtunnel",
     "oneway": "yes",
     "ref": "A1;A4",
@@ -27526,6 +27526,7 @@
     "alt_name": "Oberlandautobahn",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "100",
     "nat_name": "N15",
     "old_name": "A53",
@@ -27644,6 +27645,7 @@
     "change:lanes": "not_left|not_right|yes",
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "nat_name": "N15",
     "old_name": "A53",
@@ -36840,35 +36842,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/174378913",
-  "properties": {
-    "highway": "motorway",
-    "int_ref": "E 41;E 60",
-    "lanes": "3",
-    "lit": "yes",
-    "maxspeed": "80",
-    "oneway": "yes",
-    "ref": "A1;A4",
-    "surface": "asphalt",
-    "toll": "yes",
-    "id": "way/174378913"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.4852562,
-        47.4250342
-      ],
-      [
-        8.4847902,
-        47.4248896
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/174378914",
   "properties": {
     "avz": "287",
@@ -36889,8 +36862,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4847902,
-        47.4248896
+        8.4848188,
+        47.424918
       ],
       [
         8.4841189,
@@ -56352,8 +56325,8 @@
         47.4252292
       ],
       [
-        8.4852562,
-        47.4250342
+        8.4848188,
+        47.424918
       ]
     ]
   }
@@ -61747,6 +61720,7 @@
     "alt_name": "Oberlandautobahn",
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "nat_name": "N15",
     "old_name": "A53",
@@ -61781,6 +61755,7 @@
     "change:lanes": "not_left|yes|no",
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "nat_name": "N15",
     "old_name": "A53",
@@ -61814,6 +61789,7 @@
     "alt_name": "Oberlandautobahn",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "nat_name": "N15",
     "old_name": "A53",
@@ -61909,6 +61885,7 @@
     "alt_name": "Oberlandautobahn",
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "nat_name": "N15",
     "old_name": "A53",
@@ -61948,6 +61925,7 @@
     "alt_name": "Oberlandautobahn",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "nat_name": "N15",
     "old_name": "A53",
