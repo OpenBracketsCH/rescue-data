@@ -1276,6 +1276,74 @@
 },
 {
   "type": "Feature",
+  "id": "way/120956566",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "8032",
+    "addr:street": "Biberlinstrasse",
+    "amenity": "childcare",
+    "building": "yes",
+    "name": "Kindervilla Lummerland",
+    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "website": "http://www.kindervilla-lummerland.ch",
+    "id": "way/120956566"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5688906,
+          47.3631563
+        ],
+        [
+          8.5689243,
+          47.3631201
+        ],
+        [
+          8.568926,
+          47.3631071
+        ],
+        [
+          8.5689391,
+          47.3630939
+        ],
+        [
+          8.5689533,
+          47.363089
+        ],
+        [
+          8.5689959,
+          47.3630433
+        ],
+        [
+          8.5690566,
+          47.3630693
+        ],
+        [
+          8.5690462,
+          47.3630805
+        ],
+        [
+          8.5690991,
+          47.3631031
+        ],
+        [
+          8.5690042,
+          47.3632049
+        ],
+        [
+          8.5688906,
+          47.3631563
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/122455986",
   "properties": {
     "addr:housenumber": "28",
@@ -3026,28 +3094,24 @@
     "coordinates": [
       [
         [
-          8.5472009,
-          47.3064159
+          8.5471838,
+          47.3064286
         ],
         [
-          8.5472573,
-          47.306334
+          8.5472438,
+          47.3063458
         ],
         [
-          8.5474785,
-          47.306414
+          8.5474589,
+          47.3064174
         ],
         [
-          8.5474245,
-          47.3064887
+          8.5473988,
+          47.3065003
         ],
         [
-          8.5473055,
-          47.3064495
-        ],
-        [
-          8.5472009,
-          47.3064159
+          8.5471838,
+          47.3064286
         ]
       ]
     ]

@@ -6352,6 +6352,22 @@
       47.400669
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11286096892",
+  "properties": {
+    "amenity": "fire_station",
+    "name": "EiLF 2",
+    "id": "node/11286096892"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5367952,
+      47.417612
+    ]
+  }
 }
 ]
 }

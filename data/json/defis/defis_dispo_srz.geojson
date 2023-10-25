@@ -13169,18 +13169,20 @@
   "type": "Feature",
   "id": "node/7930563038",
   "properties": {
-    "access": "yes",
-    "defibrillator:location": "Mehrzweckhalle",
-    "description": "während Schulbetrieb verfügbar",
+    "access": "24/7",
+    "defibrillator:location": "Eingang Mehrzweckhalle",
+    "description": "Zoll AED 3, mit Kindertaste und CPR Feedback. Inkl. Notfallset: Schere, Rasierer, Beatmungs-Folie, Taschenmaske in Hartbox mit Filter, Gummizug, Handschuhe und Alkoholpads.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Gemeindeverwaltung Steinhausen",
     "id": "node/7930563038"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4879845,
-      47.1979015
+      8.4879268,
+      47.1977424
     ]
   }
 },
@@ -13188,18 +13190,20 @@
   "type": "Feature",
   "id": "node/7930563039",
   "properties": {
-    "access": "yes",
-    "defibrillator:location": "Mehrzweckhalle",
-    "description": "während Schulbetrieb verfügbar",
+    "access": "24/7",
+    "defibrillator:location": "Eingang Mehrzweckhalle",
+    "description": "Zoll AED 3, mit Kindertaste und CPR Feedback. Inkl. Notfallset: Schere, Rasierer, Beatmungs-Folie, Taschenmaske in Hartbox mit Filter, Gummizug, Handschuhe und Alkoholpads.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Gemeindeverwaltung Steinhausen",
     "id": "node/7930563039"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4886846,
-      47.1977429
+      8.4895063,
+      47.197858
     ]
   }
 },
@@ -33259,7 +33263,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "operator": "Sicherheitsbeauftragter Daniel Magne",
+    "operator": "Gemeindeverwaltung Steinhausen",
     "phone": "+41 41 748 11 06",
     "id": "node/9112938930"
   },
@@ -68108,7 +68112,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr: 7:30 - 17:00",
+    "opening_hours": "Mo-Fr 07:30-17:00",
     "phone": "+41 44 701 89 89",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/11233330537"
@@ -69067,6 +69071,47 @@
     "coordinates": [
       8.5695423,
       47.3774761
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11286043870",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "BSZ Stiftung, Höchenenweg 3, 6440 Brunnen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": " BSZ Stiftung",
+    "phone": "+ 41 41 817 40 40",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11286043870"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6231786,
+      47.0037802
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11286130893",
+  "properties": {
+    "defibrillator:location": "Theresianum Eingang Turnhalle",
+    "emergency": "defibrillator",
+    "opening_hours": "24/7",
+    "operator": "Theresianum Ingenbohl",
+    "phone": "+41 41 825 26 00",
+    "id": "node/11286130893"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6165322,
+      46.9972824
     ]
   }
 }
