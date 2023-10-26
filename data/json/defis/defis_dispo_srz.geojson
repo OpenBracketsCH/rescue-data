@@ -43745,8 +43745,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5290246,
-      47.2926674
+      8.529009,
+      47.2926639
     ]
   }
 },
@@ -64693,7 +64693,7 @@
   "type": "Feature",
   "id": "node/10973218010",
   "properties": {
-    "access": "yes",
+    "access": "24/7",
     "defibrillator:location": "Aussenwand am Schulhaus Untermosen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -67609,6 +67609,7 @@
   "type": "Feature",
   "id": "node/11189840121",
   "properties": {
+    "defibrillator:location": "10 meters in, to the left. In the entrance lobby.",
     "emergency": "defibrillator",
     "indoor": "yes",
     "level": "0",
@@ -68262,8 +68263,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6890858,
-      47.5139653
+      8.6891636,
+      47.5139273
     ]
   }
 },

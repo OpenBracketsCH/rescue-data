@@ -48836,7 +48836,8 @@
     "addr:postcode": "1206",
     "addr:street": "Avenue de Champel",
     "amenity": "clinic",
-    "name": "MV Sante - Hempdialyse Code:2045",
+    "healthcare": "clinic",
+    "name": "MV SANTE Clinique Champel",
     "phone": "+41228393474",
     "id": "node/4364402492"
   },
@@ -53205,6 +53206,33 @@
     "coordinates": [
       8.0469582,
       47.3911544
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11290606996",
+  "properties": {
+    "addr:city": "Burgorf",
+    "addr:housenumber": "9",
+    "addr:postcode": "3400",
+    "addr:street": "Farbweg",
+    "amenity": "clinic",
+    "email": "kontakt@operationszentrum.ch",
+    "fax": "+41 34 422 17 85",
+    "healthcare": "clinic",
+    "healthcare:speciality": "surgery",
+    "name": "Operationszentrum Burgdorf",
+    "operator": "Medbase AG",
+    "operator:type": "private",
+    "phone": "+41 34 508 08 08",
+    "id": "node/11290606996"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6239429,
+      47.0598888
     ]
   }
 }
