@@ -103,6 +103,7 @@
   "properties": {
     "access": "yes",
     "crossing": "uncontrolled",
+    "crossing:island": "no",
     "crossing_ref": "zebra",
     "defibrillator:location": "Eingang Bürogebäude Zürichsee Zeitung / Gessner Immobilien AG",
     "description": "während Öffnungszeiten verfügbar",
@@ -113,6 +114,7 @@
     "opening_hours": "Mo-Sa 06:45-19:00",
     "operator": "Gessner Immobilien AG",
     "phone": "+41 44 789 86 40",
+    "tactile_paving": "no",
     "id": "node/1836827140"
   },
   "geometry": {
@@ -52137,6 +52139,73 @@
     "coordinates": [
       8.5695423,
       47.3774761
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11290792569",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Leepünt 2, neben Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Dällikon",
+    "phone": "+41 44 847 19 31",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11290792569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4394526,
+      47.4379865
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11290792570",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Turnhalle Leepünt 4",
+    "description": "Während Schulbetrieb verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeinde",
+    "phone": "+41 44 847 19 19",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11290792570"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4395921,
+      47.4385163
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11290913169",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "SBB Schulungszentrum",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "operator": "SBB",
+    "id": "node/11290913169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4932343,
+      47.3898216
     ]
   }
 }

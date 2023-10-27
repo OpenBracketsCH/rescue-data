@@ -122,6 +122,7 @@
   "properties": {
     "access": "yes",
     "crossing": "uncontrolled",
+    "crossing:island": "no",
     "crossing_ref": "zebra",
     "defibrillator:location": "Eingang Bürogebäude Zürichsee Zeitung / Gessner Immobilien AG",
     "description": "während Öffnungszeiten verfügbar",
@@ -132,6 +133,7 @@
     "opening_hours": "Mo-Sa 06:45-19:00",
     "operator": "Gessner Immobilien AG",
     "phone": "+41 44 789 86 40",
+    "tactile_paving": "no",
     "id": "node/1836827140"
   },
   "geometry": {
@@ -69079,12 +69081,12 @@
   "type": "Feature",
   "id": "node/11286043870",
   "properties": {
-    "access": "no",
+    "access": "yes",
     "defibrillator:location": "BSZ Stiftung, Höchenenweg 3, 6440 Brunnen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "operator": " BSZ Stiftung",
+    "operator": "BSZ Stiftung",
     "phone": "+ 41 41 817 40 40",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/11286043870"
@@ -69113,6 +69115,93 @@
     "coordinates": [
       8.6165322,
       46.9972824
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11290792569",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Leepünt 2, neben Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Dällikon",
+    "phone": "+41 44 847 19 31",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11290792569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4394526,
+      47.4379865
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11290792570",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Turnhalle Leepünt 4",
+    "description": "Während Schulbetrieb verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeinde",
+    "phone": "+41 44 847 19 19",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11290792570"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4395921,
+      47.4385163
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11290913169",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "SBB Schulungszentrum",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "operator": "SBB",
+    "id": "node/11290913169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4932343,
+      47.3898216
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11290954522",
+  "properties": {
+    "defibrillator:location": "Schiessplatz Cholmattli",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Logistikbasis der Armee",
+    "phone": "+41 58 481 57 75",
+    "id": "node/11290954522"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6960062,
+      47.1246276
     ]
   }
 }
