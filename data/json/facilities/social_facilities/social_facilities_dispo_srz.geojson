@@ -40328,6 +40328,7 @@
     "addr:street": "Minervastrasse",
     "alt_name": "Aventin – Leben im Alter",
     "amenity": "social_facility",
+    "check_date": "2023-10-27",
     "email": "info@aventin.ch",
     "name": "AVENTIN - Leben im Alter",
     "old_name": "Alters- & Pflegewohnheim Neumünster",
@@ -41825,16 +41826,16 @@
           47.0625235
         ],
         [
-          8.5258764,
-          47.0624273
+          8.5258734,
+          47.0624283
         ],
         [
-          8.5260003,
-          47.0625498
+          8.5260005,
+          47.062549
         ],
         [
-          8.5262023,
-          47.0624525
+          8.5261988,
+          47.0624521
         ],
         [
           8.5263668,
@@ -50121,6 +50122,7 @@
     "addr:postcode": "8004",
     "addr:street": "Zeughausstrasse",
     "amenity": "social_facility",
+    "check_date": "2023-10-27",
     "email": "info@holzundkorb.ch",
     "name": "Holz und Korb",
     "operator": "Stiftung Behindertenwerk Holz und Korb",

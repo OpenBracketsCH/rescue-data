@@ -2725,6 +2725,50 @@
 },
 {
   "type": "Feature",
+  "id": "way/1218713570",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "id": "way/1218713570"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.806218,
+        47.334202
+      ],
+      [
+        8.8062155,
+        47.334182
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1218713572",
+  "properties": {
+    "barrier": "gate",
+    "fence_type": "wood",
+    "id": "way/1218713572"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.8062648,
+        47.3340168
+      ],
+      [
+        8.8062716,
+        47.3340059
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/25427486",
   "properties": {
     "barrier": "gate",
@@ -75483,6 +75527,72 @@
     "coordinates": [
       8.5511388,
       47.3989944
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11292960783",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/11292960783"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8168733,
+      47.2524508
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11292960810",
+  "properties": {
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/11292960810"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8203841,
+      47.2583706
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11292960812",
+  "properties": {
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/11292960812"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8197321,
+      47.2589457
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11294353371",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/11294353371"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7219747,
+      47.4358751
     ]
   }
 }
