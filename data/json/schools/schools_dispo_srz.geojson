@@ -41595,10 +41595,14 @@
   "id": "way/123265063",
   "properties": {
     "addr:city": "Wollerau",
+    "addr:housenumber": "5",
     "addr:postcode": "8832",
+    "addr:street": "Bächergässli",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "name": "Schulhaus Dorfmatt",
+    "wikidata": "Q29882340",
+    "wikimedia_commons": "Category:Schulhaus (Bächergässli 5, Wollerau)",
     "id": "way/123265063"
   },
   "geometry": {

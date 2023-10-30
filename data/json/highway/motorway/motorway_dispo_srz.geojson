@@ -5982,6 +5982,7 @@
   "properties": {
     "bridge": "yes",
     "highway": "motorway",
+    "lanes": "2",
     "layer": "2",
     "maxspeed": "100",
     "oneway": "yes",
@@ -6087,6 +6088,7 @@
   "properties": {
     "alt_name": "Flughafenautobahn",
     "highway": "motorway",
+    "lanes": "2",
     "maxspeed": "100",
     "nat_name": "N11",
     "old_name": "A51",
@@ -6121,6 +6123,7 @@
     "alt_name": "Flughafenautobahn",
     "bridge": "yes",
     "highway": "motorway",
+    "lanes": "2",
     "layer": "1",
     "maxspeed": "100",
     "nat_name": "N11",
@@ -10246,6 +10249,7 @@
   "id": "way/23744793",
   "properties": {
     "highway": "motorway",
+    "lanes": "2",
     "maxspeed": "80",
     "oneway": "yes",
     "ref": "A51",
@@ -12038,6 +12042,7 @@
   "properties": {
     "bridge": "yes",
     "highway": "motorway",
+    "lanes": "2",
     "layer": "1",
     "maxspeed": "80",
     "oneway": "yes",
@@ -12099,6 +12104,7 @@
   "properties": {
     "bridge": "yes",
     "highway": "motorway",
+    "lanes": "2",
     "layer": "1",
     "maxspeed": "80",
     "oneway": "yes",
@@ -16578,6 +16584,7 @@
   "properties": {
     "bridge": "yes",
     "highway": "motorway",
+    "lanes": "2",
     "layer": "1",
     "maxspeed": "80",
     "oneway": "yes",
@@ -20553,6 +20560,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "int_ref": "E 41",
+    "lanes": "2",
     "layer": "1",
     "maxspeed": "120",
     "oneway": "yes",
@@ -21240,6 +21248,7 @@
   "id": "way/32278429",
   "properties": {
     "highway": "motorway",
+    "lanes": "2",
     "lit": "yes",
     "maxspeed": "60",
     "oneway": "yes",
@@ -27164,6 +27173,7 @@
   "id": "way/48068352",
   "properties": {
     "highway": "motorway",
+    "lanes": "2",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A51",

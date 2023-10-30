@@ -6929,6 +6929,7 @@
   "properties": {
     "amenity": "pharmacy",
     "name": "Rike",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-12:00; PH off",
     "id": "node/5837045904"
   },
   "geometry": {
