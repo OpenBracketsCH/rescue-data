@@ -1053,7 +1053,7 @@
     "phone": "+41 41 784 58 08",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
-    "website": "http://www.buel-cham.ch",
+    "website": "https://buel-cham.ch/",
     "id": "way/327158571"
   },
   "geometry": {
@@ -1390,7 +1390,7 @@
     "phone": "+41 41 741 27 80",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
-    "website": "http://www.weiherpark.ch/Bibliothek/Wohnen.htm",
+    "website": "https://www.weiherpark.ch/Bibliothek/Wohnen.htm",
     "id": "way/729375815"
   },
   "geometry": {

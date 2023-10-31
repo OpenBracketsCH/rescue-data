@@ -40,7 +40,7 @@
     "name": "Bahnhof-Apotheke",
     "opening_hours": "Mo-Sa 07:00-20:00; Su 08:00-18:00",
     "phone": "+41 52 625 26 86",
-    "website": "http://bahnhofapotheke.ch/",
+    "website": "https://bahnhofapotheke.ch/",
     "wheelchair": "yes",
     "id": "node/2024398495"
   },
@@ -115,7 +115,7 @@
     "check_date:opening_hours": "2023-06-17",
     "name": "Apotheke Roter Ochsen",
     "opening_hours": "Mo-Fr 08:00-12:15,13:15-18:30; Sa 08:00-16:00",
-    "website": "http://www.volksapotheke.ch/R_310.php",
+    "website": "https://www.volksapotheke.ch/R_310.php",
     "id": "node/2460186217"
   },
   "geometry": {
@@ -165,7 +165,7 @@
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
     "operator": "Rotpunkt Apotheke",
     "phone": "0041526724633",
-    "website": "http://www.zentralapotheke.ch/",
+    "website": "https://www.zentralapotheke.ch/",
     "wheelchair": "yes",
     "id": "node/7276399060"
   },
@@ -290,7 +290,7 @@
     "name": "Volksapotheke zum Zitronenbaum",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
     "phone": "+41526254045",
-    "website": "http://www.volksapotheke.ch",
+    "website": "https://www.volksapotheke.ch/",
     "id": "node/8393572202"
   },
   "geometry": {

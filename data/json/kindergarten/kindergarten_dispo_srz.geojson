@@ -30210,7 +30210,7 @@
     "isced:level": "0",
     "name": "Kinderkrippe Müsliburg",
     "phone": "+41 44 761 94 60",
-    "website": "http://www.kinderkrippe-muesliburg.ch/",
+    "website": "https://www.kinderkrippe-muesliburg.ch/",
     "id": "way/524762933"
   },
   "geometry": {
@@ -34638,7 +34638,7 @@
     "name": "Röhrliberg",
     "operator:type": "public",
     "phone": "+41 41 723 85 37",
-    "website": "http://www.schulen-cham.ch/de/organisation/standorte/kirchbuehl/",
+    "website": "https://www.schulen-cham.ch/de/organisation/standorte/kirchbuehl/",
     "id": "way/951704809"
   },
   "geometry": {
@@ -38598,7 +38598,7 @@
     "amenity": "kindergarten",
     "isced:level": "0",
     "name": "Kindergarten Altes Dörfli",
-    "website": "http://www.schulehombrechtikon.ch/p19000033.html",
+    "website": "https://www.schulehombrechtikon.ch/p19000033.html",
     "id": "node/1927786950"
   },
   "geometry": {
@@ -41955,7 +41955,7 @@
     "capacity": "5",
     "name": "Kids' Corner",
     "operator": "Kids' Corner GmbH",
-    "website": "http://www.kidscorner-kico.ch/index.html",
+    "website": "https://www.kidscorner-kico.ch/index.html",
     "id": "node/6498396919"
   },
   "geometry": {

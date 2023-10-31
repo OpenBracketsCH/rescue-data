@@ -80,7 +80,7 @@
     "name": "Anklin",
     "opening_hours": "Mo-Fr 08:30-12:00,14:00-18:30; Sa 09:00-16:00; PH off",
     "phone": "+41 41 780 39 19",
-    "website": "http://www.anklinapotheke.ch/",
+    "website": "https://www.anklinapotheke.ch/",
     "wheelchair": "limited",
     "id": "node/321679039"
   },
@@ -158,7 +158,7 @@
     "addr:street": "Blickensdorferstrasse",
     "amenity": "pharmacy",
     "name": "UrsDrogerie Apotheke mit Biolade",
-    "website": "http://www.ursdrogerie.ch",
+    "website": "https://www.ursdrogerie.ch/",
     "id": "node/660176172"
   },
   "geometry": {
@@ -277,7 +277,7 @@
     "payment:visa": "yes",
     "payment:visa_electron": "yes",
     "phone": "+41 41 711 15 47",
-    "website": "http://www.apotheke-spillmann.ch/",
+    "website": "https://www.apotheke-spillmann.ch/",
     "id": "node/3358077152"
   },
   "geometry": {
@@ -350,7 +350,7 @@
     "opening_hours": "Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 08:00-17:00",
     "phone": "+41 41 711 85 00",
     "shop": "chemist",
-    "website": "http://www.hertiapotheke.ch/",
+    "website": "https://www.hertiapotheke.ch/",
     "id": "node/6690547557"
   },
   "geometry": {

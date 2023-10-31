@@ -461,7 +461,7 @@
     "healthcare": "pharmacy",
     "name": "Apotheke zum Rebstock",
     "opening_hours": "Mo-Fr 08:00-12:30,13:30-18:30",
-    "website": "http://apothekezumrebstock.ch/",
+    "website": "https://apothekezumrebstock.ch/",
     "id": "node/75757805"
   },
   "geometry": {
@@ -1165,7 +1165,7 @@
     "name": "Anklin",
     "opening_hours": "Mo-Fr 08:30-12:00,14:00-18:30; Sa 09:00-16:00; PH off",
     "phone": "+41 41 780 39 19",
-    "website": "http://www.anklinapotheke.ch/",
+    "website": "https://www.anklinapotheke.ch/",
     "wheelchair": "limited",
     "id": "node/321679039"
   },
@@ -2373,7 +2373,7 @@
     "addr:street": "Blickensdorferstrasse",
     "amenity": "pharmacy",
     "name": "UrsDrogerie Apotheke mit Biolade",
-    "website": "http://www.ursdrogerie.ch",
+    "website": "https://www.ursdrogerie.ch/",
     "id": "node/660176172"
   },
   "geometry": {
@@ -3477,7 +3477,7 @@
     "drive_through": "no",
     "name": "Höfner Apotheke",
     "opening_hours": "Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-16:00",
-    "website": "http://www.hoefner-apotheke.ch/",
+    "website": "https://www.hoefner-apotheke.ch/",
     "id": "node/1375289438"
   },
   "geometry": {
@@ -4061,9 +4061,11 @@
     "addr:postcode": "8625",
     "addr:street": "Grütstrasse",
     "amenity": "pharmacy",
+    "check_date": "2023-10-30",
     "dispensing": "no",
     "healthcare": "pharmacy",
     "name": "Dorf-Apotheke Gossau",
+    "opening_hours": "Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-16:00; PH off",
     "shop": "chemist",
     "wheelchair": "yes",
     "id": "node/1788460722"
@@ -4127,15 +4129,19 @@
   "id": "node/1837250425",
   "properties": {
     "addr:city": "Hinwil",
+    "addr:country": "CH",
     "addr:housenumber": "14",
     "addr:postcode": "8340",
     "addr:street": "Gossauerstrasse",
     "amenity": "pharmacy",
+    "check_date": "2023-10-30",
     "dispensing": "no",
     "drive_through": "no",
+    "email": "info@drogerie-fluekiger.ch",
     "healthcare": "pharmacy",
     "name": "Drogerie Flückiger",
-    "opening_hours": "Mo-Sa 08:00-19:00",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off",
+    "phone": "+41 449 373 336",
     "website": "www.drogerie-fluekiger.ch",
     "wheelchair": "yes",
     "id": "node/1837250425"
@@ -4301,7 +4307,7 @@
     "name": "Bahnhof-Apotheke",
     "opening_hours": "Mo-Sa 07:00-20:00; Su 08:00-18:00",
     "phone": "+41 52 625 26 86",
-    "website": "http://bahnhofapotheke.ch/",
+    "website": "https://bahnhofapotheke.ch/",
     "wheelchair": "yes",
     "id": "node/2024398495"
   },
@@ -4667,7 +4673,7 @@
     "check_date:opening_hours": "2023-06-17",
     "name": "Apotheke Roter Ochsen",
     "opening_hours": "Mo-Fr 08:00-12:15,13:15-18:30; Sa 08:00-16:00",
-    "website": "http://www.volksapotheke.ch/R_310.php",
+    "website": "https://www.volksapotheke.ch/R_310.php",
     "id": "node/2460186217"
   },
   "geometry": {
@@ -5303,7 +5309,7 @@
     "payment:visa": "yes",
     "payment:visa_electron": "yes",
     "phone": "+41 41 711 15 47",
-    "website": "http://www.apotheke-spillmann.ch/",
+    "website": "https://www.apotheke-spillmann.ch/",
     "id": "node/3358077152"
   },
   "geometry": {
@@ -7012,7 +7018,7 @@
     "name": "Vitalis",
     "operator": "Rotpunkt Pharma",
     "phone": "+41 44 761 87 61",
-    "website": "http://vitalis-apotheke.ch/",
+    "website": "https://vitalis-apotheke.ch/",
     "wheelchair": "yes",
     "id": "node/6191660982"
   },
@@ -7069,7 +7075,7 @@
     "opening_hours": "Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 08:00-17:00",
     "phone": "+41 41 711 85 00",
     "shop": "chemist",
-    "website": "http://www.hertiapotheke.ch/",
+    "website": "https://www.hertiapotheke.ch/",
     "id": "node/6690547557"
   },
   "geometry": {
@@ -7178,7 +7184,7 @@
     "fax": "+41 44 938 16 45",
     "healthcare": "pharmacy",
     "name": "Puls Apotheke & Drogerie",
-    "opening_hours": "Mo-Sa 09:00-20:00",
+    "opening_hours": "Mo-Sa 09:00-20:00; PH off",
     "phone": "+41 44 938 16 38",
     "website": "http://puls-apothekedrogerie.ch/",
     "wheelchair": "yes",
@@ -7239,7 +7245,7 @@
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
     "operator": "Rotpunkt Apotheke",
     "phone": "0041526724633",
-    "website": "http://www.zentralapotheke.ch/",
+    "website": "https://www.zentralapotheke.ch/",
     "wheelchair": "yes",
     "id": "node/7276399060"
   },
@@ -7899,7 +7905,7 @@
     "name": "Volksapotheke zum Zitronenbaum",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
     "phone": "+41526254045",
-    "website": "http://www.volksapotheke.ch",
+    "website": "https://www.volksapotheke.ch/",
     "id": "node/8393572202"
   },
   "geometry": {

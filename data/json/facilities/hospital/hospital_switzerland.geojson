@@ -35059,7 +35059,7 @@
     "operator": "Klinik Adelheid AG",
     "phone": "+41 41 754 30 00",
     "source": "bing",
-    "website": "http://www.klinik-adelheid.ch",
+    "website": "https://www.klinik-adelheid.ch/",
     "id": "way/675987105"
   },
   "geometry": {
@@ -49568,7 +49568,7 @@
     "healthcare": "occupational_therapist",
     "name": "Ergo Rhypark GmbH",
     "toilets:wheelchair": "yes",
-    "website": "http://www.ergo-rhypark.ch/",
+    "website": "https://www.ergo-rhypark.ch/",
     "wheelchair": "yes",
     "wheelchair:description": "Mit dem Rollstuhl bitte den Seiteneingang benutzen.",
     "id": "node/5548213221"
@@ -50226,6 +50226,27 @@
     "coordinates": [
       8.5374707,
       47.3769637
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7101600003",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "centre",
+    "level": "3",
+    "name": "MedBase",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "phone": "+41 21 926 97 97",
+    "website": "https://www.medbase.ch/fr/les-centres/detail/medbase-vevey/",
+    "id": "node/7101600003"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8419277,
+      46.4645606
     ]
   }
 },

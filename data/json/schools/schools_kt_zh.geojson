@@ -6325,7 +6325,7 @@
     "name": "Eidmatt",
     "operator": "Primarschule Wädenswil",
     "operator:type": "public",
-    "website": "http://www.pswaedenswil.ch",
+    "website": "https://www.pswaedenswil.ch/",
     "id": "way/27158802"
   },
   "geometry": {
@@ -16008,7 +16008,7 @@
   "properties": {
     "amenity": "school",
     "name": "Primarschule Affoltern am Albis",
-    "website": "http://www.psa.ch",
+    "website": "https://www.psa.ch/",
     "id": "way/37800699"
   },
   "geometry": {
@@ -48605,7 +48605,7 @@
   "id": "way/173382066",
   "properties": {
     "amenity": "school",
-    "name": "Primarschule",
+    "name": "Schulanlage Hinter Chilen",
     "id": "way/173382066"
   },
   "geometry": {
@@ -98679,7 +98679,7 @@
     "amenity": "school",
     "isced:level": "1",
     "name": "Schulhaus Neues Dörfli",
-    "website": "http://www.schulehombrechtikon.ch/p19000035.html",
+    "website": "https://www.schulehombrechtikon.ch/p19000035.html",
     "id": "node/1419828515"
   },
   "geometry": {
@@ -100045,7 +100045,7 @@
     "amenity": "school",
     "isced:level": "1",
     "name": "Altes Dörfli",
-    "website": "http://www.schulehombrechtikon.ch/p19000033.html",
+    "website": "https://www.schulehombrechtikon.ch/p19000033.html",
     "id": "node/8870269972"
   },
   "geometry": {

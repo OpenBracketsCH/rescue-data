@@ -3030,7 +3030,7 @@
     "name": "Appisberg Abklärung Ausbildung Integration",
     "operator": "Verein Appisberg",
     "phone": "+41 43 843 43 43",
-    "website": "www.appisberg.ch",
+    "website": "https://www.appisberg.ch/",
     "id": "way/25812624"
   },
   "geometry": {
@@ -20558,7 +20558,7 @@
     "name": "Sozialpädagogische Familien Zürich",
     "operator": "Stiftung DIHEI",
     "phone": "+41 52 743 20 78",
-    "website": "http://www.stiftungdihei.ch/",
+    "website": "https://www.stiftungdihei.ch/",
     "id": "way/185892431"
   },
   "geometry": {
@@ -25409,7 +25409,7 @@
     "operator": "Wohnheim Frohberg GmbH",
     "phone": "+41 52 625 97 00",
     "social_facility": "nursing_home",
-    "website": "http://www.wohnheim-frohberg.ch/kontakt/",
+    "website": "https://www.wohnheim-frohberg.ch/kontakt/",
     "id": "way/240515120"
   },
   "geometry": {
@@ -30627,7 +30627,7 @@
     "phone": "+41 52 687 41 00",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
-    "website": "http://altersheim-schleitheim.ch/kontakt-2/",
+    "website": "https://altersheim-schleitheim.ch/kontakt-2/",
     "id": "way/276766708"
   },
   "geometry": {
@@ -33303,7 +33303,7 @@
     "phone": "+41 41 784 58 08",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
-    "website": "http://www.buel-cham.ch",
+    "website": "https://buel-cham.ch/",
     "id": "way/327158571"
   },
   "geometry": {
@@ -41092,7 +41092,7 @@
     "phone": "+41 41 741 27 80",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
-    "website": "http://www.weiherpark.ch/Bibliothek/Wohnen.htm",
+    "website": "https://www.weiherpark.ch/Bibliothek/Wohnen.htm",
     "id": "way/729375815"
   },
   "geometry": {

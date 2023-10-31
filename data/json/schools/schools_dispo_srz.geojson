@@ -7279,7 +7279,7 @@
     "name": "Eidmatt",
     "operator": "Primarschule Wädenswil",
     "operator:type": "public",
-    "website": "http://www.pswaedenswil.ch",
+    "website": "https://www.pswaedenswil.ch/",
     "id": "way/27158802"
   },
   "geometry": {
@@ -12381,7 +12381,7 @@
     "name": "Oberstufenschulhaus Sennweid",
     "operator": "Schulen Baar",
     "phone": "+41 41 769 08 50",
-    "website": "http://www.schulen-baar.ch/de/schulorganisation/schule/schulhaeuser/welcome.php?action=showobject&object_id=863",
+    "website": "https://www.schulen-baar.ch/de/schulorganisation/schule/schulhaeuser/welcome.php?action=showobject&object_id=863",
     "id": "way/32216321"
   },
   "geometry": {
@@ -16083,7 +16083,7 @@
     "name": "Rosenbergschulhaus",
     "phone": "+41 52 672 20 29",
     "start_date": "1912",
-    "website": "http://www.schule-neuhausen.ch/",
+    "website": "https://www.schule-neuhausen.ch/",
     "wheelchair": "yes",
     "id": "way/36780841"
   },
@@ -18310,7 +18310,7 @@
   "properties": {
     "amenity": "school",
     "name": "Primarschule Affoltern am Albis",
-    "website": "http://www.psa.ch",
+    "website": "https://www.psa.ch/",
     "id": "way/37800699"
   },
   "geometry": {
@@ -26577,7 +26577,7 @@
     "grades": "7-9",
     "isced:level": "2",
     "name": "Sternmatt II",
-    "website": "www.sternmatt2.ch",
+    "website": "https://www.sternmatt2.ch/",
     "id": "way/54362493"
   },
   "geometry": {
@@ -56118,7 +56118,7 @@
   "id": "way/173382066",
   "properties": {
     "amenity": "school",
-    "name": "Primarschule",
+    "name": "Schulanlage Hinter Chilen",
     "id": "way/173382066"
   },
   "geometry": {
@@ -67643,24 +67643,56 @@
           47.1924195
         ],
         [
+          8.8951195,
+          47.1924553
+        ],
+        [
           8.89511,
           47.1925006
+        ],
+        [
+          8.8950979,
+          47.1925413
         ],
         [
           8.8950826,
           47.192579
         ],
         [
+          8.8950672,
+          47.1926142
+        ],
+        [
+          8.8950449,
+          47.1926532
+        ],
+        [
           8.8950237,
           47.1926867
         ],
         [
-          8.8948871,
-          47.1927941
+          8.8949877,
+          47.1927345
         ],
         [
-          8.894586,
-          47.1929914
+          8.8949326,
+          47.1927931
+        ],
+        [
+          8.8948654,
+          47.1928439
+        ],
+        [
+          8.8947919,
+          47.1928946
+        ],
+        [
+          8.8947134,
+          47.1929388
+        ],
+        [
+          8.8946084,
+          47.192996
         ],
         [
           8.8932693,
@@ -67690,32 +67722,96 @@
     "coordinates": [
       [
         [
-          8.8954502,
-          47.1917083
+          8.895449,
+          47.1917091
         ],
         [
-          8.8956768,
-          47.191438
+          8.8956498,
+          47.1914533
         ],
         [
-          8.8957583,
-          47.1913917
+          8.8956721,
+          47.1914316
         ],
         [
-          8.8958053,
-          47.1913729
+          8.8956891,
+          47.191416
         ],
         [
-          8.8964171,
-          47.1913275
+          8.8957079,
+          47.1914025
         ],
         [
-          8.8964282,
-          47.1916791
+          8.8957359,
+          47.191386
         ],
         [
-          8.8954502,
-          47.1917083
+          8.8957666,
+          47.1913749
+        ],
+        [
+          8.8958049,
+          47.1913648
+        ],
+        [
+          8.895842,
+          47.1913618
+        ],
+        [
+          8.8961059,
+          47.1913531
+        ],
+        [
+          8.8961537,
+          47.1913502
+        ],
+        [
+          8.8961608,
+          47.1913484
+        ],
+        [
+          8.8963113,
+          47.1913349
+        ],
+        [
+          8.8963836,
+          47.1913323
+        ],
+        [
+          8.8964375,
+          47.1913315
+        ],
+        [
+          8.8964504,
+          47.1916913
+        ],
+        [
+          8.896315,
+          47.1916943
+        ],
+        [
+          8.8963147,
+          47.191692
+        ],
+        [
+          8.8960969,
+          47.191697
+        ],
+        [
+          8.896079,
+          47.1916886
+        ],
+        [
+          8.8956173,
+          47.1916998
+        ],
+        [
+          8.8955795,
+          47.1917035
+        ],
+        [
+          8.895449,
+          47.1917091
         ]
       ]
     ]
@@ -109966,7 +110062,7 @@
     "name": "Schule Röhrliberg",
     "operator:type": "public",
     "phone": "+41 41 723 86 01",
-    "website": "http://www.schulen-cham.ch/de/organisation/standorte/roehrliberg/",
+    "website": "https://www.schulen-cham.ch/de/organisation/standorte/roehrliberg/",
     "id": "way/687058098"
   },
   "geometry": {
@@ -110863,7 +110959,7 @@
     "name": "Scjule Städtli 2",
     "operator:type": "public",
     "phone": "+41 41 723 85 81",
-    "website": "http://www.schulen-cham.ch/de/organisation/standorte/staedtlizwei/",
+    "website": "https://www.schulen-cham.ch/de/organisation/standorte/staedtlizwei/",
     "id": "way/706110548"
   },
   "geometry": {
@@ -110919,7 +111015,7 @@
     "name": "Schule Städtli 1",
     "operator:type": "public",
     "phone": "+41 41 723 85 51",
-    "website": "http://www.schulen-cham.ch/de/organisation/standorte/staedtli/",
+    "website": "https://www.schulen-cham.ch/de/organisation/standorte/staedtli/",
     "id": "way/706110549"
   },
   "geometry": {
@@ -110979,7 +111075,7 @@
     "name": "Kirchbühl",
     "operator:type": "public",
     "phone": "+41 41 723 85 00",
-    "website": "http://www.schulen-cham.ch/de/organisation/standorte/kirchbuehl/",
+    "website": "https://www.schulen-cham.ch/de/organisation/standorte/kirchbuehl/",
     "id": "way/706927237"
   },
   "geometry": {
@@ -116537,7 +116633,7 @@
     "name": "Niederwil",
     "operator:type": "public",
     "phone": "+41 41 723 86 95",
-    "website": "http://www.schulen-cham.ch/de/organisation/standorte/hagendornniederwil/",
+    "website": "https://www.schulen-cham.ch/de/organisation/standorte/hagendornniederwil/",
     "id": "way/951720007"
   },
   "geometry": {
@@ -125115,7 +125211,7 @@
     "amenity": "school",
     "isced:level": "1",
     "name": "Schulhaus Neues Dörfli",
-    "website": "http://www.schulehombrechtikon.ch/p19000035.html",
+    "website": "https://www.schulehombrechtikon.ch/p19000035.html",
     "id": "node/1419828515"
   },
   "geometry": {
@@ -125307,7 +125403,7 @@
     "name": "Stiftsschule Einsiedeln",
     "operator": "Benediktinerabtei Einsiedeln",
     "operator:type": "religious",
-    "website": "http://www.stiftsschule-einsiedeln.ch",
+    "website": "https://www.stiftsschule-einsiedeln.ch/",
     "id": "node/2049741418"
   },
   "geometry": {
@@ -127129,7 +127225,7 @@
     "amenity": "school",
     "isced:level": "1",
     "name": "Altes Dörfli",
-    "website": "http://www.schulehombrechtikon.ch/p19000033.html",
+    "website": "https://www.schulehombrechtikon.ch/p19000033.html",
     "id": "node/8870269972"
   },
   "geometry": {

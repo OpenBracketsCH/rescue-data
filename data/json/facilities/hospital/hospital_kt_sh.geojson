@@ -1639,7 +1639,7 @@
     "healthcare": "occupational_therapist",
     "name": "Ergo Rhypark GmbH",
     "toilets:wheelchair": "yes",
-    "website": "http://www.ergo-rhypark.ch/",
+    "website": "https://www.ergo-rhypark.ch/",
     "wheelchair": "yes",
     "wheelchair:description": "Mit dem Rollstuhl bitte den Seiteneingang benutzen.",
     "id": "node/5548213221"

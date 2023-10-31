@@ -50831,14 +50831,14 @@
   "id": "node/5777847508",
   "properties": {
     "access": "private",
-    "barrier": "lift_gate",
+    "barrier": "gate",
     "id": "node/5777847508"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4898452,
-      47.3975176
+      8.4898653,
+      47.397521
     ]
   }
 },
@@ -50853,8 +50853,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4922762,
-      47.3974265
+      8.4922768,
+      47.3974224
     ]
   }
 },
@@ -50869,8 +50869,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4922459,
-      47.3972168
+      8.4922733,
+      47.39721
     ]
   }
 },
@@ -51126,8 +51126,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4891979,
-      47.398102
+      8.4892093,
+      47.3980999
     ]
   }
 },
@@ -55153,8 +55153,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.489071,
-      47.3976527
+      8.4890697,
+      47.3976536
     ]
   }
 },

@@ -680,7 +680,7 @@
     "name": "Oberstufenschulhaus Sennweid",
     "operator": "Schulen Baar",
     "phone": "+41 41 769 08 50",
-    "website": "http://www.schulen-baar.ch/de/schulorganisation/schule/schulhaeuser/welcome.php?action=showobject&object_id=863",
+    "website": "https://www.schulen-baar.ch/de/schulorganisation/schule/schulhaeuser/welcome.php?action=showobject&object_id=863",
     "id": "way/32216321"
   },
   "geometry": {
@@ -2678,7 +2678,7 @@
     "grades": "7-9",
     "isced:level": "2",
     "name": "Sternmatt II",
-    "website": "www.sternmatt2.ch",
+    "website": "https://www.sternmatt2.ch/",
     "id": "way/54362493"
   },
   "geometry": {
@@ -6818,7 +6818,7 @@
     "name": "Schule Röhrliberg",
     "operator:type": "public",
     "phone": "+41 41 723 86 01",
-    "website": "http://www.schulen-cham.ch/de/organisation/standorte/roehrliberg/",
+    "website": "https://www.schulen-cham.ch/de/organisation/standorte/roehrliberg/",
     "id": "way/687058098"
   },
   "geometry": {
@@ -7004,7 +7004,7 @@
     "name": "Scjule Städtli 2",
     "operator:type": "public",
     "phone": "+41 41 723 85 81",
-    "website": "http://www.schulen-cham.ch/de/organisation/standorte/staedtlizwei/",
+    "website": "https://www.schulen-cham.ch/de/organisation/standorte/staedtlizwei/",
     "id": "way/706110548"
   },
   "geometry": {
@@ -7060,7 +7060,7 @@
     "name": "Schule Städtli 1",
     "operator:type": "public",
     "phone": "+41 41 723 85 51",
-    "website": "http://www.schulen-cham.ch/de/organisation/standorte/staedtli/",
+    "website": "https://www.schulen-cham.ch/de/organisation/standorte/staedtli/",
     "id": "way/706110549"
   },
   "geometry": {
@@ -7120,7 +7120,7 @@
     "name": "Kirchbühl",
     "operator:type": "public",
     "phone": "+41 41 723 85 00",
-    "website": "http://www.schulen-cham.ch/de/organisation/standorte/kirchbuehl/",
+    "website": "https://www.schulen-cham.ch/de/organisation/standorte/kirchbuehl/",
     "id": "way/706927237"
   },
   "geometry": {
@@ -7669,7 +7669,7 @@
     "name": "Niederwil",
     "operator:type": "public",
     "phone": "+41 41 723 86 95",
-    "website": "http://www.schulen-cham.ch/de/organisation/standorte/hagendornniederwil/",
+    "website": "https://www.schulen-cham.ch/de/organisation/standorte/hagendornniederwil/",
     "id": "way/951720007"
   },
   "geometry": {

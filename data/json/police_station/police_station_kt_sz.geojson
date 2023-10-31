@@ -98,7 +98,7 @@
     "name": "Polizeiposten Einsiedeln",
     "operator": "Kantonspolizei Schwyz",
     "phone": "+41 41 819 58 88",
-    "website": "http://www.einsiedeln.ch/bezirk/wo-ist-was/polizeiposten",
+    "website": "https://www.einsiedeln.ch/bezirk/wo-ist-was/polizeiposten",
     "id": "node/457701595"
   },
   "geometry": {
