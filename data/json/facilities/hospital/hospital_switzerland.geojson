@@ -12052,7 +12052,7 @@
     "name": "Hôpital Riaz",
     "operator": "HFR",
     "phone": "+41263064000",
-    "website": "http://www.h-fr.ch/hfr/fr/pub/index.htm",
+    "website": "https://www.h-fr.ch/hfr/fr/pub/index.htm",
     "id": "way/128032694"
   },
   "geometry": {
@@ -23805,7 +23805,7 @@
     "name": "EHC Hôpital de Gilly",
     "operator": "Ensemble Hospitalier de la Côte EHC",
     "phone": "+41 21 822 47 00",
-    "website": "http://www.ehc-vd.ch/hopital-gilly/",
+    "website": "https://www.ehc-vd.ch/hopital-gilly/",
     "id": "way/445220895"
   },
   "geometry": {
@@ -40686,7 +40686,7 @@
     "name": "Kreisspital Surses",
     "operator": "Center da Sanadad Savognin SA",
     "phone": "+41 81 669 14 00",
-    "website": "http://www.spital-savognin.ch",
+    "website": "https://www.spital-savognin.ch/",
     "id": "way/680355598"
   },
   "geometry": {
@@ -40808,7 +40808,7 @@
     "amenity": "hospital",
     "name": "Spital Schiers",
     "phone": "+41 81 308 08 08",
-    "website": "http://www.flurystiftung.ch/Startseite.20.0.html",
+    "website": "https://www.flurystiftung.ch/Startseite.20.0.html",
     "id": "way/681048321"
   },
   "geometry": {
@@ -50042,8 +50042,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8017852,
-      47.3272883
+      8.8018322,
+      47.3272724
     ]
   }
 },
@@ -51545,7 +51545,7 @@
     "healthcare:speciality": "radiology",
     "name": "RODIAG Diagnostic Centers Röntgeninstitut",
     "phone": "+41 58 401 14 00",
-    "website": "http://www.rodiag.ch/default.asp?langid=de&siteid=1&id=1011000",
+    "website": "https://www.rodiag.ch/default.asp?langid=de&siteid=1&id=1011000",
     "id": "node/9179770358"
   },
   "geometry": {

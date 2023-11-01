@@ -1046,7 +1046,7 @@
     "level": "0",
     "name": "Kindergarten Nuolen",
     "operator:type": "public",
-    "website": "http://www.pswangensz.ch",
+    "website": "https://www.pswangensz.ch/",
     "wheelchair": "no",
     "id": "node/5822883924"
   },
@@ -1072,7 +1072,7 @@
     "level": "0",
     "name": "Kindergarten Weidweg",
     "operator:type": "public",
-    "website": "http://www.pswangensz.ch",
+    "website": "https://www.pswangensz.ch/",
     "wheelchair": "yes",
     "id": "node/5822915980"
   },
@@ -1095,7 +1095,7 @@
     "amenity": "kindergarten",
     "email": "info@pswangensz.ch",
     "name": "Kindergarten Wangen",
-    "website": "http://www.pswangensz.ch",
+    "website": "https://www.pswangensz.ch/",
     "id": "node/5822948405"
   },
   "geometry": {

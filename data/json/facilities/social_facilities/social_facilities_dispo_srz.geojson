@@ -6701,7 +6701,7 @@
     "email": "iglu@swsieber.ch",
     "mobile": "+41 79 320 53 65",
     "name": "Notschlafstelle Iglu",
-    "opening_hours": "Nov 15-Apr 15 ,Mo-Su 00:00-08:00,19:00-24:00",
+    "opening_hours": "Nov 15-Apr 15 Mo-Su 00:00-08:00,19:00-24:00",
     "operator": "Sozialwerk Pfarrer Sieber",
     "roof:levels": "1",
     "roof:shape": "gabled",
@@ -28454,7 +28454,7 @@
     "phone": "+41 55 250 81 11",
     "social_facility": "nursing_home",
     "source": "bing",
-    "website": "http://www.nauengut.ch/xml_3/internet/de/application/d447/f454.cfm",
+    "website": "https://www.nauengut.ch/xml_3/internet/de/application/d447/f454.cfm",
     "id": "way/259524742"
   },
   "geometry": {
@@ -46103,7 +46103,7 @@
     "phone": "+41 55 256 30 00",
     "social_facility": "nursing_home",
     "social_facility:for": "senior;mental_health",
-    "website": "http://www.tabor-wald.ch",
+    "website": "https://www.tabor-wald.ch/",
     "id": "way/1066428552"
   },
   "geometry": {
@@ -51122,7 +51122,7 @@
     "phone": "+41 55 240 22 64",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
-    "website": "http://www.sandbueel.ch/",
+    "website": "https://www.sandbueel.ch/",
     "id": "node/6263487302"
   },
   "geometry": {
@@ -51677,7 +51677,7 @@
     "amenity": "social_facility",
     "email": "info@pfuusbus.ch",
     "name": "Notschlafstelle Pfuusbus",
-    "opening_hours": "Nov 15-Apr 15 ,Mo-Su 00:00-09:00,19:00-24:00",
+    "opening_hours": "Nov 15-Apr 15 Mo-Su 00:00-09:00,19:00-24:00",
     "operator": "Sozialwerk Pfarrer Sieber",
     "phone": "+41 79 334 02 63",
     "seasonal": "yes",

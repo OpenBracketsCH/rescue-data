@@ -389,7 +389,7 @@
     "emergency": "ambulance_station",
     "name": "Regio 144 Rettung AG",
     "phone": "+41 55 220 41 41",
-    "website": "www.regio144.ch",
+    "website": "https://www.regio144.ch/",
     "id": "way/357486503"
   },
   "geometry": {
@@ -741,7 +741,7 @@
   "id": "node/7465975605",
   "properties": {
     "addr:city": "Regensdorf",
-    "addr:housenumber": "125",
+    "addr:housenumber": "183",
     "addr:postcode": "8105",
     "addr:street": "Riedthofstrasse",
     "emergency": "ambulance_station",
@@ -753,8 +753,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4635453,
-      47.4386107
+      8.4621506,
+      47.4393164
     ]
   }
 },

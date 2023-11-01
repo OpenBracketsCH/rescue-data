@@ -2978,8 +2978,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8022753,
-      47.327714
+      8.8022794,
+      47.3277123
     ]
   }
 },
@@ -11627,8 +11627,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5363613,
-      47.6136889
+      8.5363754,
+      47.6136592
     ]
   }
 },
@@ -28431,7 +28431,6 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Neben dem Eingang",
-    "description": "nur mit Zugangskarte erreichbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -48681,29 +48680,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10941529708",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Aegerenweg 3 3856 Brienzwiler",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "24/7",
-    "operator": "First Responder",
-    "phone": "+41 79 730 11 25",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/10941529708"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.9016724,
-      47.4001572
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10942057905",
   "properties": {
     "access": "yes",
@@ -49577,7 +49553,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "1",
-    "opening_hours": "Mo-Fr 6.30-22:00 Sa-So 8:00-20:00",
+    "opening_hours": "Mo-Fr 06:30-22:00; Sa-Su 08:00-20:00",
     "operator": "Fitnesspark",
     "phone": "+41 58 568 43 70",
     "source": "local_knowledge, defikarte.ch",
@@ -49671,7 +49647,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "1",
-    "opening_hours": "Mo-Fr: von 08.00 bis 11.30 und 13.30 bis 16.30",
+    "opening_hours": "Mo-Fr 08:00-11:30,13:30-16:30",
     "operator": "SISKA",
     "phone": "+41 52 260 05 05",
     "source": "local_knowledge, defikarte.ch",
@@ -49958,9 +49934,9 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "3. OG",
-    "opening_hours": "MO - FR 08:00 - 17:00 Uhr, SA 10:00 - 13:00 Uhr",
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 10:00-13:00; PH off",
     "operator": "biz Winterthur",
-    "phone": "0432598282",
+    "phone": "+41 43 259 82 82",
     "id": "node/11038063817"
   },
   "geometry": {
@@ -50122,7 +50098,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Di. bis Fr. 13:00Uhr bis 18:30Uhr Samstag 8:00Uhr bis 15:00Uhr.",
+    "opening_hours": "Tu-Fr 13:00-18:30; Sa 08:00-15:00",
     "operator": "Adventuresports AG",
     "phone": "+41 52 721 39 69",
     "source": "local_knowledge, defikarte.ch",
@@ -51116,7 +51092,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "Zwischenetage EG-UG",
-    "opening_hours": "Mo-Fr: 08.00-17.00 Uhr",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "id": "node/11219262537"
   },
   "geometry": {
@@ -51486,9 +51462,12 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Schulhaus Langwiesen, Turnhalleneingang rechts",
+    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
     "operator": "Stadt Winterthur, DSS",
     "phone": "+41522671064",
     "source": "local_knowledge, defikarte.ch",
@@ -51917,9 +51896,9 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "1",
-    "opening_hours": "Mo-Fr 8-12, 13-17",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
     "operator": "Monvia AG",
-    "phone": "+4144 832 59 90",
+    "phone": "+41 44 832 59 90",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/11271799069"
   },
@@ -52271,6 +52250,54 @@
     "coordinates": [
       8.5439692,
       47.5650727
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11302547869",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Mengeu Schutzraum-Technik",
+    "description": "während Öffnungszeiten verfügbar; Türen geschlossen, bitte klingeln",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Do: 07-17 Uhr, Fr 07-16 Uhr",
+    "operator": "Mengeu AG",
+    "phone": "+41 52 368 66 75",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11302547869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8606507,
+      47.498521
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11303232271",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Stadtspital Triemli ",
+    "description": "Haus 1 Restaurant für Patienten ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "24/7",
+    "operator": "Stadtspital Triemli ",
+    "phone": "+41444161111",
+    "id": "node/11303232271"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.49758,
+      47.3655706
     ]
   }
 }

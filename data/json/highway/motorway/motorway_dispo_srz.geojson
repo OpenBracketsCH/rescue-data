@@ -8958,6 +8958,7 @@
   "id": "way/22367186",
   "properties": {
     "alt_name": "Zugerautobahn",
+    "destination": "Gotthard;Luzern;Zürich;Zug Baar",
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",

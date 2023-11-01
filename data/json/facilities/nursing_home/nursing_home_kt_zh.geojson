@@ -14803,7 +14803,7 @@
     "phone": "+41 55 250 81 11",
     "social_facility": "nursing_home",
     "source": "bing",
-    "website": "http://www.nauengut.ch/xml_3/internet/de/application/d447/f454.cfm",
+    "website": "https://www.nauengut.ch/xml_3/internet/de/application/d447/f454.cfm",
     "id": "way/259524742"
   },
   "geometry": {
@@ -14976,7 +14976,7 @@
   "properties": {
     "amenity": "nursing_home",
     "name": "Alters- und Pflegeheim Nauengut",
-    "website": "http://www.nauengut.ch",
+    "website": "https://www.nauengut.ch/",
     "id": "way/261986806"
   },
   "geometry": {
@@ -21840,7 +21840,7 @@
     "phone": "+41 55 256 30 00",
     "social_facility": "nursing_home",
     "social_facility:for": "senior;mental_health",
-    "website": "http://www.tabor-wald.ch",
+    "website": "https://www.tabor-wald.ch/",
     "id": "way/1066428552"
   },
   "geometry": {
@@ -24467,7 +24467,7 @@
     "phone": "+41 55 240 22 64",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
-    "website": "http://www.sandbueel.ch/",
+    "website": "https://www.sandbueel.ch/",
     "id": "node/6263487302"
   },
   "geometry": {
