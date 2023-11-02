@@ -37549,7 +37549,7 @@
     "amenity": "hospital",
     "name": "Hôpital du Jura",
     "phone": "+41 32 952 12 12",
-    "website": "http://www.h-ju.ch/fr/L-Hopital-du-jura/Les-4-sites-de-l-hopital/Saignelegier/H-JU-site-de-Saignelegier.html",
+    "website": "https://www.h-ju.ch/fr/L-Hopital-du-jura/Les-4-sites-de-l-hopital/Saignelegier/H-JU-site-de-Saignelegier.html",
     "id": "way/677058450"
   },
   "geometry": {
@@ -43025,7 +43025,7 @@
     "name": "Klinik Gais",
     "operator": "Klinik Gais AG",
     "phone": "+41 71 791 66 33",
-    "website": "http://www.klinik-gais.ch/home/",
+    "website": "https://www.klinik-gais.ch/home/",
     "id": "way/681569569"
   },
   "geometry": {
@@ -52372,7 +52372,7 @@
     "name": "MedBase St. Gallen Einsten",
     "opening_hours": "Mo-Th 07:30-17:30; Fr 07:30-16:00",
     "phone": "+41 71 227 10 60",
-    "website": "www.medbase.ch",
+    "website": "https://www.medbase.ch/",
     "id": "node/9901602630"
   },
   "geometry": {

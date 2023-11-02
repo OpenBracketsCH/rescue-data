@@ -22348,8 +22348,11 @@
   "id": "way/53246943",
   "properties": {
     "amenity": "school",
+    "grades": "1-6",
     "name": "Primarschule Rebwiesen",
-    "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.rebwiesen.ch/",
     "id": "way/53246943"
   },
   "geometry": {
@@ -25378,8 +25381,11 @@
   "id": "way/82691384",
   "properties": {
     "amenity": "school",
+    "grades": "1-3",
     "name": "Schulhaus Zelgli",
-    "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.gutenberg-zelgli.ch/sh-zelgli/schulhaus-zelgli/p-151/",
     "id": "way/82691384"
   },
   "geometry": {
@@ -25439,8 +25445,11 @@
   "id": "way/82742584",
   "properties": {
     "amenity": "school",
+    "grades": "1-6",
     "name": "Schule Gutenberg",
-    "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
+    "operator": "Stadt Winterhur",
+    "operator:type": "public",
+    "website": "https://www.gutenberg-zelgli.ch/sh-gutenberg/schulhaus-gutenberg/p-152/",
     "id": "way/82742584"
   },
   "geometry": {
@@ -25496,8 +25505,11 @@
     "addr:postcode": "8406",
     "addr:street": "Klosterstrasse",
     "amenity": "school",
+    "grades": "1-6",
     "name": "Schule Eichliacker",
-    "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schule-eichliacker.ch/i",
     "id": "way/82967375"
   },
   "geometry": {
@@ -27768,8 +27780,10 @@
   "id": "way/91979519",
   "properties": {
     "amenity": "school",
+    "grades": "1-6",
     "name": "Schule Tössfeld",
-    "operator": "Primarschule Tössfeld, Schulkreis Winterthur Stadt-Töss",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "website": "http://www.schuletoessfeld.ch",
     "id": "way/91979519"
   },
@@ -64714,6 +64728,10 @@
           47.3097557
         ],
         [
+          8.8721789,
+          47.3097967
+        ],
+        [
           8.8721505,
           47.3098346
         ],
@@ -67473,7 +67491,11 @@
   "id": "way/287201301",
   "properties": {
     "amenity": "school",
-    "name": "Kinderbetreuung Tagesschule Tössfeld",
+    "grades": "0",
+    "name": "Kindergarten Agnesstrasse",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schuletoessfeld.ch/team/kindergarten-agnesstrasse/p-50/",
     "id": "way/287201301"
   },
   "geometry": {

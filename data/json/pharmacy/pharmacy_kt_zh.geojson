@@ -479,6 +479,7 @@
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-12:00",
     "operator": "Dr. Bähler Dropa",
     "website": "https://dropa.ch/standorte/dropa-apotheke-post-hottingen",
+    "wheelchair": "yes",
     "id": "node/262378047"
   },
   "geometry": {
@@ -6912,8 +6913,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8429463,
-      47.3008112
+      8.8429643,
+      47.3008387
     ]
   }
 },

@@ -4910,72 +4910,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/43858171",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "18",
-    "addr:postcode": "8406",
-    "addr:street": "Agnesstrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "contact:city": "Winterthur",
-    "contact:email": "rahel.schmid@win.ch",
-    "contact:housenumber": "18",
-    "contact:phone": "+41 52 267 19 52",
-    "contact:postcode": "8406",
-    "contact:street": "Agnesstrasse",
-    "contact:website": "https://www.schuletoessfeld.ch/team/kindergarten-agnesstrasse/p-50/",
-    "name": "Kindergarten Agnesstrasse",
-    "operator": "Stadt Winterthur",
-    "operator:type": "public",
-    "id": "way/43858171"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.713447,
-          47.4937557
-        ],
-        [
-          8.7133435,
-          47.4938223
-        ],
-        [
-          8.713146,
-          47.4936712
-        ],
-        [
-          8.7131801,
-          47.4936516
-        ],
-        [
-          8.713159,
-          47.4936364
-        ],
-        [
-          8.7132259,
-          47.4935965
-        ],
-        [
-          8.7133338,
-          47.49368
-        ],
-        [
-          8.7133418,
-          47.4936757
-        ],
-        [
-          8.713447,
-          47.4937557
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/44352191",
   "properties": {
     "addr:city": "Glattbrugg",
@@ -7577,8 +7511,8 @@
     "amenity": "kindergarten",
     "building": "school",
     "name": "Kindergarten Auwiesen",
-    "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
-    "operator:type": "public,",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/81898336"
   },
   "geometry": {
@@ -28621,7 +28555,8 @@
     "addr:street": "Strittackerstrasse",
     "amenity": "kindergarten",
     "name": "Kindergarten Strittacker",
-    "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/410328299"
   },
   "geometry": {
@@ -28707,7 +28642,9 @@
     "amenity": "kindergarten",
     "check_date": "2023-07-23",
     "name": "Kindergarten Emil-Klöti",
-    "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.gutenberg-zelgli.ch/kindergarten/kiga-emil-kloeti-1/p-227/",
     "id": "way/410328301"
   },
   "geometry": {
@@ -37926,7 +37863,8 @@
     "amenity": "kindergarten",
     "check_date": "2023-08-02",
     "name": "Kindergarten Schlosstalstrasse",
-    "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "node/988066051"
   },
   "geometry": {
