@@ -36326,7 +36326,7 @@
     "emergency": "no",
     "name": "Clinica Santa Croce",
     "phone": "+41 91 735 41 41",
-    "website": "http://www.santacroce.ch/index.php?view=1000",
+    "website": "https://www.santacroce.ch/index.php?view=1000",
     "wheelchair": "limited",
     "id": "way/677000057"
   },
@@ -37042,7 +37042,7 @@
     "name": "Center da sandà Val Müstair",
     "name:de": "Gesundheitszentrum Val Müstair",
     "phone": "+41 81 851 61 00",
-    "website": "http://update.csvm.ch/de/",
+    "website": "https://update.csvm.ch/de/",
     "id": "way/677018870"
   },
   "geometry": {

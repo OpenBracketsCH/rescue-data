@@ -12192,6 +12192,30 @@
       47.3655706
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11309365969",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Praxis Dr.med. Anja Fäh, Cardiopark AG",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "Erdgeschoss",
+    "opening_hours": "Mo-Fr: 08:00 bis 18:00 Uhr",
+    "operator": "Praxis Dr.med. Anja Fäh, Cardiopark AG",
+    "phone": "+41442018020",
+    "id": "node/11309365969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5321757,
+      47.351421
+    ]
+  }
 }
 ]
 }

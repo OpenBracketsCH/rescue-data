@@ -4956,6 +4956,29 @@
 },
 {
   "type": "Feature",
+  "id": "node/4115297995",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "4",
+    "addr:postcode": "8400",
+    "addr:street": "Lindstrasse",
+    "amenity": "childcare",
+    "check_date": "2023-04-08",
+    "name": "Betreuung Alte Feuerwehr",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "id": "node/4115297995"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7310384,
+      47.5018126
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4128241330",
   "properties": {
     "amenity": "childcare",

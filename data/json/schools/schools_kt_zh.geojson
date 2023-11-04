@@ -1980,8 +1980,12 @@
   "id": "relation/10981435",
   "properties": {
     "amenity": "school",
-    "name": "Primar- und Oberstufenschule Laubegg",
+    "grades": "1-6",
+    "name": "Primarschule Laubegg",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "type": "multipolygon",
+    "website": "https://www.laubegg-winterthur.ch/",
     "id": "relation/10981435"
   },
   "geometry": {
@@ -24044,8 +24048,11 @@
   "id": "way/72414570",
   "properties": {
     "amenity": "school",
+    "grades": "1-6",
     "name": "Schule Altstadt",
-    "operator": "Primarschule Lind",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schule-lind.ch/schule-altstadt/team-altstadt-und-aeusseres-lind/p-81/",
     "id": "way/72414570"
   },
   "geometry": {
@@ -39009,8 +39016,10 @@
     "addr:street": "St.-Georgen-Strasse",
     "amenity": "school",
     "loc_name": "Sanggi",
-    "name": "Schulhaus St. Georgen",
-    "operator": "Sekundarschule Winterthur-Stadt, Schulkreis Winterthur Stadt-Töss",
+    "name": "Sekundarschule St. Georgen",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.sekundarschulewinterthurstadt.com/",
     "id": "way/135228302"
   },
   "geometry": {
@@ -57974,8 +57983,11 @@
   "id": "way/229014557",
   "properties": {
     "amenity": "school",
+    "grades": "0-6",
     "name": "Schule Geiselweid",
-    "operator": "Schule Lind, Schulkreis Winterthur Stadt-Töss",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schule-lind.ch/schule-geiselweid/team-geiselweid-und-inneres-lind/p-94/",
     "id": "way/229014557"
   },
   "geometry": {
@@ -59530,8 +59542,9 @@
   "id": "way/235549927",
   "properties": {
     "amenity": "school",
+    "grades": "7-9",
     "name": "Sekundarschule Heiligberg",
-    "operator": "Sekundarschule Winterthur-Stadt, Schulkreis Winterthur Stadt-Töss",
+    "operator": "Stadt Winterthur",
     "operator:type": "public",
     "website": "https://www.sekundarschulewinterthurstadt.com/",
     "id": "way/235549927"
@@ -75873,8 +75886,11 @@
   "id": "way/409633918",
   "properties": {
     "amenity": "school",
+    "grades": "0",
     "name": "Kindergarten Inneres Lind",
-    "operator": "Schule Lind, Schulkreis Winterthur Stadt-Töss",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schule-lind.ch/schule-geiselweid/kindergarten-inneres-lind-and-geiselweid/p-83/",
     "id": "way/409633918"
   },
   "geometry": {
@@ -99561,6 +99577,30 @@
     "coordinates": [
       8.5275785,
       47.3662506
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5612263870",
+  "properties": {
+    "addr:city": "Glattpark",
+    "addr:housenumber": "3",
+    "addr:postcode": "8152",
+    "addr:street": "Vega-Strasse",
+    "amenity": "school",
+    "description": "Ausbildungszentrum für Berufslehren",
+    "email": "zuerich@libs.ch",
+    "name": "libs Industrielle Berufslehren Schweiz",
+    "phone": "058 255 40 30",
+    "website": "https://www.libs.ch/",
+    "id": "node/5612263870"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5625419,
+      47.4167656
     ]
   }
 },

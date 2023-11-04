@@ -7111,7 +7111,8 @@
     "amenity": "kindergarten",
     "check_date": "2023-08-11",
     "name": "Kindergarten Laubegg",
-    "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/79429408"
   },
   "geometry": {
@@ -13683,6 +13684,9 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindergarten Äusseres Lind",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schule-lind.ch/schule-altstadt/kindergarten-aeusseres-lind/p-82/",
     "id": "way/146983028"
   },
   "geometry": {
@@ -24631,7 +24635,8 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindergarten Steig",
-    "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/410328302"
   },
   "geometry": {
@@ -24668,7 +24673,8 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindergarten Am Weiher",
-    "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/410328303"
   },
   "geometry": {
@@ -34996,28 +35002,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4115297995",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "4",
-    "addr:postcode": "8400",
-    "addr:street": "Lindstrasse",
-    "amenity": "kindergarten",
-    "check_date": "2023-04-08",
-    "name": "Betreuung Alte Feuerwehr",
-    "operator": "Schule Lind, Schulkreis Winterthur Stadt-Töss",
-    "id": "node/4115297995"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7310384,
-      47.5018126
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4115297996",
   "properties": {
     "addr:city": "Winterthur",
@@ -39666,7 +39650,7 @@
     "operator": "Primarschule Affoltern am Albis",
     "operator:type": "public",
     "phone": "+41 44 761 74 65",
-    "website": "https://www.psa.ch/schuelerhort",
+    "website": "https://www.psa.ch/kontakttagesstrukturen",
     "id": "node/8823901479"
   },
   "geometry": {
