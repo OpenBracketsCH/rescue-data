@@ -100,7 +100,7 @@
     "healthcare": "pharmacy",
     "name": "Hofmatt Apotheke",
     "source": "survey and website;local knowledge",
-    "website": "http://www.hofmatt-apotheke.ch",
+    "website": "https://www.hofmatt-apotheke.ch/",
     "id": "node/287262549"
   },
   "geometry": {

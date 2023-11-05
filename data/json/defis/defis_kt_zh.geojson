@@ -52173,12 +52173,13 @@
   "id": "node/11290913169",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "SBB Schulungszentrum",
+    "defibrillator:location": "Im Treppenhaus vom SBB Svjulungszentrum rechts vom Treppenaufgang, gegenüber vom Lift.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "EG",
+    "level": "0",
     "operator": "SBB",
+    "wheelchair": "yes",
     "id": "node/11290913169"
   },
   "geometry": {
@@ -52396,6 +52397,26 @@
     "coordinates": [
       8.763957,
       47.5342584
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11314432869",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Volkiland",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG ",
+    "id": "node/11314432869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6677585,
+      47.3827202
     ]
   }
 }

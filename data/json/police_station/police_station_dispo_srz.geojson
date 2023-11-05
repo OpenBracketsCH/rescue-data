@@ -1170,6 +1170,67 @@
 },
 {
   "type": "Feature",
+  "id": "way/385368725",
+  "properties": {
+    "addr:city": "Küssnacht (SZ)",
+    "addr:housenumber": "1",
+    "addr:postcode": "6403",
+    "addr:street": "Bärenmatte",
+    "alt_name": "Kapo Schwyz",
+    "amenity": "police",
+    "building": "yes",
+    "email": "kapo@sz.ch",
+    "name": "Polizeiposten Küssnacht am Rigi (Hauptposten)",
+    "operator": "Kantonspolizei Schwyz",
+    "phone": "+41 41 819 53 64",
+    "id": "way/385368725"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4371996,
+          47.0857406
+        ],
+        [
+          8.4375934,
+          47.0858819
+        ],
+        [
+          8.4375559,
+          47.0859333
+        ],
+        [
+          8.4375382,
+          47.0859264
+        ],
+        [
+          8.4375109,
+          47.0859578
+        ],
+        [
+          8.4375265,
+          47.085964
+        ],
+        [
+          8.437479,
+          47.0860072
+        ],
+        [
+          8.4371267,
+          47.0858349
+        ],
+        [
+          8.4371996,
+          47.0857406
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/387790859",
   "properties": {
     "addr:city": "Brunnen",
@@ -2392,30 +2453,6 @@
     "coordinates": [
       8.556095,
       47.3693638
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1411346290",
-  "properties": {
-    "addr:city": "Küssnacht (SZ)",
-    "addr:housenumber": "1",
-    "addr:postcode": "6403",
-    "addr:street": "Bärenmatte",
-    "alt_name": "Kapo Schwyz",
-    "amenity": "police",
-    "email": "kapo@sz.ch",
-    "name": "Polizeiposten Küssnacht am Rigi (Hauptposten)",
-    "operator": "Kantonspolizei Schwyz",
-    "phone": "+41 41 819 53 64",
-    "id": "node/1411346290"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4373458,
-      47.0858069
     ]
   }
 },

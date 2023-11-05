@@ -18610,7 +18610,7 @@
     "phone": "+41 52 386 13 48",
     "social_facility": "group_home",
     "social_facility:for": "senior",
-    "website": "http://www.blumenau.ch/",
+    "website": "https://www.blumenau.ch/",
     "id": "way/262926711"
   },
   "geometry": {
@@ -22191,7 +22191,7 @@
     "name": "Pflegeheim St. Anna",
     "phone": "+41 41 833 84 84",
     "social_facility": "nursing_home",
-    "website": "http://www.stanna.ch/",
+    "website": "https://www.stanna.ch/",
     "id": "way/355779426"
   },
   "geometry": {
@@ -32313,7 +32313,7 @@
     "phone": "+41 44 938 32 32",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
-    "website": "http://www.aph-hinwil.ch",
+    "website": "https://www.aph-hinwil.ch/",
     "id": "node/9767986693"
   },
   "geometry": {
@@ -32335,7 +32335,7 @@
     "phone": "+41449383247",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
-    "website": "http://www.aph-hinwil.ch",
+    "website": "https://www.aph-hinwil.ch/",
     "id": "node/9767986694"
   },
   "geometry": {

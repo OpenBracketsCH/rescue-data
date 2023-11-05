@@ -12225,7 +12225,7 @@
     "phone": "+41 44 950 16 92",
     "school": "secondary",
     "school:CH": "oberstufe",
-    "website": "http://www.schule-pfaeffikon.ch",
+    "website": "https://www.schule-pfaeffikon.ch/",
     "id": "way/34064000"
   },
   "geometry": {
@@ -23240,8 +23240,11 @@
   "id": "way/65619614",
   "properties": {
     "amenity": "school",
+    "grades": "1-6",
     "name": "Primarschulhaus Neuwiesen",
-    "operator": "Primarschule Neuwiesen-Brühlberg, Schulkreis Winterthur Stadt-Töss",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.neuwiesen-bruehlberg.ch/schulhaus-neuwiesen/team/lehrpersonen/p-124/",
     "id": "way/65619614"
   },
   "geometry": {
@@ -28188,8 +28191,11 @@
   "id": "way/92822401",
   "properties": {
     "amenity": "school",
+    "grades": "1-6",
     "name": "Schulhaus Brühlberg",
-    "operator": "Primarschule Neuwiesen-Brühlberg, Schulkreis Winterthur Stadt-Töss",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.neuwiesen-bruehlberg.ch/sh-bruehlberg/team/lehrpersonen/p-110/",
     "id": "way/92822401"
   },
   "geometry": {
@@ -29201,7 +29207,7 @@
     "phone": "+41 44 950 30 59",
     "school": "secondary",
     "school:CH": "oberstufe",
-    "website": "http://www.schule-pfaeffikon.ch",
+    "website": "https://www.schule-pfaeffikon.ch/",
     "id": "way/94797724"
   },
   "geometry": {
@@ -29792,7 +29798,7 @@
     "school": "primary",
     "school:CH": "primarschule",
     "source": "www.prozb.ch",
-    "website": "http://www.schule-pfaeffikon.ch",
+    "website": "https://www.schule-pfaeffikon.ch/",
     "id": "way/95966103"
   },
   "geometry": {
@@ -51928,7 +51934,7 @@
     "phone": "+41 43 288 67 71",
     "school": "primary",
     "school:CH": "primarschule",
-    "website": "http://www.schulehittnau.ch/de/primarstufe/psmitarbeitende/welcome.php?personen_id=25260",
+    "website": "https://www.schulehittnau.ch/de/primarstufe/psmitarbeitende/welcome.php?personen_id=25260",
     "id": "way/196393810"
   },
   "geometry": {
@@ -52608,7 +52614,7 @@
     "phone": "+41 44 939 11 18",
     "school": "primary",
     "school:CH": "primarschule",
-    "website": "http://www.baeretswil.org",
+    "website": "https://www.baeretswil.org/",
     "id": "way/199791412"
   },
   "geometry": {
@@ -57397,7 +57403,7 @@
     "phone": "+41 44 939 21 88",
     "school": "secondary",
     "school:CH": "oberstufe",
-    "website": "http://www.baeretswil.org",
+    "website": "https://www.baeretswil.org/",
     "id": "way/226526735"
   },
   "geometry": {
@@ -60923,7 +60929,7 @@
     "amenity": "school",
     "name": "Primarschule Feld",
     "toilets:wheelchair": "yes",
-    "website": "http://www.schule-wetzikon.ch/de/schuleinheiten/feld/",
+    "website": "https://www.schule-wetzikon.ch/de/schuleinheiten/feld/",
     "wheelchair": "limited",
     "wheelchair:description": "Haupthaus ist gut befahrbar; Schwimmbad, Singsaal und Handarbeits-/ Werkraum sind nur über Treppen zu erreichen",
     "id": "way/247885323"
@@ -61679,7 +61685,7 @@
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Wies",
-    "website": "http://www.schulebauma.ch/de/Daten/schulhaeuser/?action=showobject&object_id=2023",
+    "website": "https://www.schulebauma.ch/de/Daten/schulhaeuser/?action=showobject&object_id=2023",
     "id": "way/250881481"
   },
   "geometry": {
@@ -61973,7 +61979,7 @@
     "phone": "+41 52 385 52 37",
     "school": "primary",
     "school:CH": "primarschule",
-    "website": "http://www.schuwi.ch",
+    "website": "https://www.schuwi.ch/",
     "id": "way/251068593"
   },
   "geometry": {
@@ -63054,7 +63060,7 @@
     "phone": "+41 52 386 13 85",
     "school": "secondary",
     "school:CH": "oberstufe",
-    "website": "http://www.schulebauma.ch/html/sekundarschule_bauma.html",
+    "website": "https://www.schulebauma.ch/html/sekundarschule_bauma.html",
     "id": "way/252707109"
   },
   "geometry": {
@@ -65339,7 +65345,7 @@
     "phone": "+41 44 939 17 41",
     "school": "primary",
     "school:CH": "primarschule",
-    "website": "http://www.baeretswil.org",
+    "website": "https://www.baeretswil.org/",
     "id": "way/264984670"
   },
   "geometry": {
@@ -66500,7 +66506,7 @@
     "phone": "+41 44 939 11 19",
     "school": "primary",
     "school:CH": "primarschule",
-    "website": "http://www.baeretswil.org",
+    "website": "https://www.baeretswil.org/",
     "id": "way/270509096"
   },
   "geometry": {
@@ -71102,8 +71108,10 @@
     "addr:postcode": "8400",
     "addr:street": "Wülflingerstrasse",
     "amenity": "school",
-    "name": "Primarschule Wülflingerstrasse",
-    "operator": "Schule Gallispitz",
+    "name": "Schulhaus Wülflingerstrasse",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schule-wuelflingerstrasse.ch/",
     "id": "way/317258718"
   },
   "geometry": {
@@ -73644,7 +73652,7 @@
     "name": "Sekundarschule Breiti",
     "school": "secondary",
     "school:CH": "oberstufe",
-    "website": "http://www.sektw.ch",
+    "website": "https://www.sektw.ch/",
     "id": "way/367349537"
   },
   "geometry": {
@@ -77495,12 +77503,12 @@
           47.4198026
         ],
         [
-          8.6157632,
-          47.4196162
+          8.6157678,
+          47.4196272
         ],
         [
-          8.6158125,
-          47.419554
+          8.6158135,
+          47.4195605
         ],
         [
           8.6166703,
@@ -91523,7 +91531,7 @@
     "name": "Schule Wildberg",
     "phone": "+41 52 3855237",
     "school": "primary",
-    "website": "http://www.schuwi.ch",
+    "website": "https://www.schuwi.ch/",
     "id": "way/888362165"
   },
   "geometry": {
@@ -96590,7 +96598,7 @@
   "properties": {
     "amenity": "school",
     "name": "Meiliwiese",
-    "website": "http://www.schulehinwil.ch/de/schulen/meiliwiese/",
+    "website": "https://www.schulehinwil.ch/de/schulen/meiliwiese/",
     "id": "way/1087077392"
   },
   "geometry": {
@@ -98946,7 +98954,7 @@
     "phone": "+41 43 288 66 88",
     "school": "primary",
     "school:CH": "primarschule",
-    "website": "http://www.schulehittnau.ch",
+    "website": "https://www.schulehittnau.ch/",
     "id": "node/3147351686"
   },
   "geometry": {
@@ -99015,6 +99023,7 @@
     "amenity": "school",
     "name": "SBB Bildung",
     "operator": "SBB CFF FFS",
+    "wheelchair": "yes",
     "id": "node/3630857041"
   },
   "geometry": {
@@ -99031,6 +99040,7 @@
   "properties": {
     "amenity": "school",
     "name": "Login Berufsbildung",
+    "wheelchair": "yes",
     "id": "node/3630857052"
   },
   "geometry": {

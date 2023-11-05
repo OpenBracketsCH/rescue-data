@@ -17623,6 +17623,10 @@
           47.4196325
         ],
         [
+          8.6161152,
+          47.4196174
+        ],
+        [
           8.6161721,
           47.4195971
         ],
@@ -24574,7 +24578,7 @@
     "building": "school",
     "name": "Kindergarten Adetswil",
     "phone": "+41 44 939 19 09",
-    "website": "http://www.baeretswil.org/kiga-adetswil.htm",
+    "website": "https://www.baeretswil.org/kiga-adetswil.htm",
     "id": "way/264213358"
   },
   "geometry": {
@@ -28379,7 +28383,8 @@
     "amenity": "kindergarten",
     "check_date": "2023-08-17",
     "name": "Kindergarten Feldstrasse",
-    "operator": "Schule Gallispitz",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/409160847"
   },
   "geometry": {
@@ -37017,6 +37022,49 @@
 },
 {
   "type": "Feature",
+  "id": "way/1191768971",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "15a",
+    "addr:postcode": "8400",
+    "addr:street": "Schützenstrasse",
+    "amenity": "kindergarten",
+    "building": "school",
+    "building:levels": "2",
+    "name": "Provisorium Kindergarten Schützenwiese",
+    "operator": "Stadt Winterthur",
+    "id": "way/1191768971"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7172843,
+          47.5020608
+        ],
+        [
+          8.7172006,
+          47.5017933
+        ],
+        [
+          8.7173466,
+          47.5017725
+        ],
+        [
+          8.7174302,
+          47.50204
+        ],
+        [
+          8.7172843,
+          47.5020608
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1197612918",
   "properties": {
     "amenity": "kindergarten",
@@ -37818,23 +37866,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/954788978",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Betreuung Wülflingerstrasse",
-    "operator": "Schule Gallispitz",
-    "id": "node/954788978"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7173098,
-      47.5058356
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/972518468",
   "properties": {
     "addr:city": "Lachen",
@@ -38524,7 +38555,7 @@
     "addr:street": "Bahnhofstrasse",
     "amenity": "kindergarten",
     "name": "FIZ-Familie im Zentrum",
-    "website": "http://www.fizwetzikon.ch/",
+    "website": "https://www.fizwetzikon.ch/",
     "id": "node/1927009015"
   },
   "geometry": {
@@ -39953,27 +39984,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4115298019",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "46a",
-    "addr:postcode": "8400",
-    "addr:street": "Wartstrasse",
-    "amenity": "kindergarten",
-    "name": "Betreuung Neuwiesen",
-    "operator": "Primarschule Neuwiesen-Brühlberg, Schulkreis Winterthur Stadt-Töss",
-    "id": "node/4115298019"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7196365,
-      47.5021808
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4115298020",
   "properties": {
     "addr:city": "Winterthur",
@@ -40526,6 +40536,27 @@
 },
 {
   "type": "Feature",
+  "id": "node/4868938107",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "710",
+    "addr:postcode": "8048",
+    "addr:street": "Badenerstrasse",
+    "amenity": "kindergarten",
+    "name": "Kita Wunderland",
+    "id": "node/4868938107"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4829995,
+      47.389158
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4951135042",
   "properties": {
     "amenity": "kindergarten",
@@ -40724,6 +40755,7 @@
     "amenity": "kindergarten",
     "name": "GFZ Kindertagesstätte 4",
     "operator": "Stiftung GFZ",
+    "phone": "+41 44 242 63 49",
     "website": "http://www.gfz-zh.ch/",
     "id": "node/5083782441"
   },

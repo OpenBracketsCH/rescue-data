@@ -19248,6 +19248,7 @@
     "amenity": "school",
     "name": "SBB Bildung",
     "operator": "SBB CFF FFS",
+    "wheelchair": "yes",
     "id": "node/3630857041"
   },
   "geometry": {
@@ -19264,6 +19265,7 @@
   "properties": {
     "amenity": "school",
     "name": "Login Berufsbildung",
+    "wheelchair": "yes",
     "id": "node/3630857052"
   },
   "geometry": {

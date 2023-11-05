@@ -12988,7 +12988,7 @@
     "healthcare": "clinic",
     "name": "Rheinburg-Klinik Walzenhausen",
     "source": "GeoImage.at",
-    "website": "http://www.rheinburg.ch",
+    "website": "https://www.rheinburg.ch/",
     "id": "way/152009369"
   },
   "geometry": {
@@ -14296,7 +14296,7 @@
     "building": "yes",
     "healthcare": "clinic",
     "name": "Therapiezentrum Meggen",
-    "website": "http://www.tzm.ch/",
+    "website": "https://www.tzm.ch/",
     "id": "way/175981928"
   },
   "geometry": {
@@ -24297,7 +24297,7 @@
     "health_facility:type": "rehabilitation",
     "healthcare": "rehabilitation",
     "name": "Rehaklinik Dussnang",
-    "website": "http://www.rehaklinik-dussnang.ch/",
+    "website": "https://www.rehaklinik-dussnang.ch/",
     "id": "way/451198417"
   },
   "geometry": {
@@ -33595,7 +33595,7 @@
     "name": "HFR Fribourg – Hôpital cantonal",
     "name:de": "HFR Freiburg – Kantonsspital",
     "phone": "+41 264267111",
-    "website": "http://www.h-fr.ch",
+    "website": "https://www.h-fr.ch/",
     "wikidata": "Q23013010",
     "id": "way/675490658"
   },
@@ -34530,7 +34530,7 @@
     "name": "Merian Iselin Klinik für Orthopädie und Chirurgie",
     "phone": "+41 61 305 11 11",
     "source": "GeoDaten Kanton Basel-Stadt",
-    "website": "http://merianiselin.ch/klinik/",
+    "website": "https://merianiselin.ch/klinik/",
     "id": "way/675964524"
   },
   "geometry": {
@@ -35412,7 +35412,7 @@
     "name:de": "Spital des Seebezirks",
     "official_name": "HFR Meyriez-Murten",
     "phone": "+41 26 306 70 00",
-    "website": "http://www.h-fr.ch/hfr/de/pub/patienten/standorte/meyriez.htm",
+    "website": "https://www.h-fr.ch/hfr/de/pub/patienten/standorte/meyriez.htm",
     "id": "way/675995149"
   },
   "geometry": {
@@ -39344,7 +39344,7 @@
     "operator": "HFR",
     "phone": "+41 26 651 61 11",
     "source": "survey",
-    "website": "http://www.h-fr.ch/hfr/de/pub/dashfr/standorte/billens.htm",
+    "website": "https://www.h-fr.ch/hfr/de/pub/dashfr/standorte/billens.htm",
     "id": "way/680309346"
   },
   "geometry": {
@@ -48859,7 +48859,7 @@
     "name": "Clinique de la Plaine",
     "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-16:00",
     "phone": "+41225950505",
-    "website": "http://www.laplaine.ch",
+    "website": "https://www.laplaine.ch/",
     "id": "node/4393923495"
   },
   "geometry": {
@@ -50570,7 +50570,7 @@
     "amenity": "clinic",
     "healthcare": "clinic",
     "name": "Klinik Im Hasel",
-    "website": "http://www.klinikimhasel.ch/",
+    "website": "https://www.klinikimhasel.ch/",
     "id": "node/7317160637"
   },
   "geometry": {

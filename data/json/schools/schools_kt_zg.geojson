@@ -7609,7 +7609,7 @@
     "name": "Hagendorn",
     "operator:type": "public",
     "phone": "+41 41 723 86 52",
-    "website": "http://www.schulen-cham.ch/de/organisation/standorte/hagendornniederwil/",
+    "website": "https://www.schulen-cham.ch/de/organisation/standorte/hagendornniederwil/",
     "id": "way/951717291"
   },
   "geometry": {
@@ -8645,7 +8645,7 @@
   "properties": {
     "amenity": "school",
     "name": "Musikschule Walchwil",
-    "website": "http://www.schule-walchwil.ch/xml_2/internet/de/application/d127/f149.cfm",
+    "website": "https://www.schule-walchwil.ch/xml_2/internet/de/application/d127/f149.cfm",
     "id": "node/6376787160"
   },
   "geometry": {

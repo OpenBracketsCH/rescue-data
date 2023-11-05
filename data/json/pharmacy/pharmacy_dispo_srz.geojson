@@ -804,7 +804,7 @@
     "healthcare": "pharmacy",
     "name": "Hofmatt Apotheke",
     "source": "survey and website;local knowledge",
-    "website": "http://www.hofmatt-apotheke.ch",
+    "website": "https://www.hofmatt-apotheke.ch/",
     "id": "node/287262549"
   },
   "geometry": {
@@ -4147,7 +4147,7 @@
     "name": "Drogerie Flückiger",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off",
     "phone": "+41 449 373 336",
-    "website": "www.drogerie-fluekiger.ch",
+    "website": "https://www.drogerie-fluekiger.ch/",
     "wheelchair": "yes",
     "id": "node/1837250425"
   },
@@ -5006,7 +5006,7 @@
     "operator": "Edith Kleisner",
     "phone": "+41 449 300 280",
     "toilets:wheelchair": "no",
-    "website": "http://www.apotheke-kempten.ch/",
+    "website": "https://www.apotheke-kempten.ch/",
     "wheelchair": "yes",
     "id": "node/2902783538"
   },
@@ -7160,7 +7160,7 @@
     "healthcare": "pharmacy",
     "level": "0",
     "name": "TopPharm",
-    "opening_hours": "Mo-Fr 08:00-12:30, 13:30-18:30, Sa 08:00-16:00",
+    "opening_hours": "Mo-Fr 08:00-12:30,13:30-18:30, Sa 08:00-16:00",
     "operator": "TopPharm Genossenschaft",
     "phone": "+41 44 937 38 72",
     "source": "local knowledge",
@@ -7195,7 +7195,7 @@
     "name": "Puls Apotheke & Drogerie",
     "opening_hours": "Mo-Sa 09:00-20:00; PH off",
     "phone": "+41 44 938 16 38",
-    "website": "http://puls-apothekedrogerie.ch/",
+    "website": "https://www.puls-apothekedrogerie.ch/",
     "wheelchair": "yes",
     "id": "node/7098198699"
   },

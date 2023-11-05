@@ -2421,7 +2421,7 @@
     "name": "Mittagstisch für Kindergarten- und Primarschulkinder",
     "opening_hours": "Mo-Su 11:30-13:30",
     "phone": "+41 44 939 24 48",
-    "website": "http://baeretswil.org/mittagstische.htm",
+    "website": "https://www.baeretswil.org/mittagstische.htm",
     "id": "way/275392119"
   },
   "geometry": {
@@ -3215,7 +3215,7 @@
     "name": "Wunderchnöiel",
     "phone": "+41 52 386 15 11",
     "roof:shape": "gabled",
-    "website": "http://spielgruppe-bauma.ch/kontakt/",
+    "website": "https://spielgruppe-bauma.ch/kontakt/",
     "id": "way/779607121"
   },
   "geometry": {
@@ -3898,6 +3898,25 @@
 },
 {
   "type": "Feature",
+  "id": "node/954788978",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Betreuung Wülflingerstrasse",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schule-wuelflingerstrasse.ch/angebote/betreuung/p-62/",
+    "id": "node/954788978"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7173098,
+      47.5058356
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1263163861",
   "properties": {
     "addr:city": "Uster",
@@ -4406,7 +4425,7 @@
     "name": "Familienforum Hinwil, Chinderhüeti",
     "opening_hours": "Mo-Th 14:00-17:00",
     "phone": "+41 43 843 74 73",
-    "website": "http://www.familienforum-hinwil.ch",
+    "website": "https://familienforum-hinwil.ch/",
     "id": "node/3729245288"
   },
   "geometry": {
@@ -4672,6 +4691,28 @@
     "coordinates": [
       8.7310384,
       47.5018126
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4115298019",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "46a",
+    "addr:postcode": "8400",
+    "addr:street": "Wartstrasse",
+    "amenity": "childcare",
+    "name": "Betreuung Neuwiesen",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "id": "node/4115298019"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7196365,
+      47.5021808
     ]
   }
 },
@@ -5545,7 +5586,7 @@
     "name": "Kita TigerEnte",
     "opening_hours": "Mo-Fr 06:45-18:30",
     "phone": "+41 44 554 77 41",
-    "website": "http://www.kita-tigerente.ch/",
+    "website": "https://www.kita-tigerente.ch/",
     "id": "node/6578880784"
   },
   "geometry": {
@@ -11201,7 +11242,7 @@
     "amenity": "childcare",
     "name": "Kindergarten Oberdorf 1-3",
     "phone": "+41 44 939 16 81",
-    "website": "http://www.baeretswil.org/kiga-oberdorf.htm",
+    "website": "https://www.baeretswil.org/kiga-oberdorf.htm",
     "id": "node/9832106151"
   },
   "geometry": {
@@ -12138,6 +12179,23 @@
     "coordinates": [
       8.5490809,
       47.4142232
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11313742329",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kita Murmeli",
+    "website": "https://kita-murmeli.ch/",
+    "id": "node/11313742329"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6528701,
+      47.3285381
     ]
   }
 }
