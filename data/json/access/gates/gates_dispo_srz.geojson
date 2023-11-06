@@ -64539,6 +64539,25 @@
 },
 {
   "type": "Feature",
+  "id": "node/8283383025",
+  "properties": {
+    "access": "yes",
+    "barrier": "gate",
+    "material": "metal",
+    "maxwidth": "3",
+    "vehicle": "no",
+    "id": "node/8283383025"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8464124,
+      47.3009248
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/8284336462",
   "properties": {
     "barrier": "gate",
