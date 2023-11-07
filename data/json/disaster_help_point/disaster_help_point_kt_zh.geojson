@@ -1896,31 +1896,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9417237632",
-  "properties": {
-    "activation": "blackout;phone_breakdown;evacuation",
-    "contact:city": "Wald",
-    "contact:country": "CH",
-    "contact:housenumber": "12",
-    "contact:postcode": "8636",
-    "contact:street": "Bahnhofstrasse",
-    "emergency": "disaster_help_point",
-    "name": "Gemeindesaal",
-    "operator": "RFO/GFO Kanton Zürich",
-    "source": "https://www.zh.ch/de/sicherheit-justiz/bevoelkerungsschutz/notfalltreffpunkte.html",
-    "temporary": "yes",
-    "id": "node/9417237632"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.914776,
-      47.275436
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9417237633",
   "properties": {
     "activation": "blackout;phone_breakdown;evacuation",

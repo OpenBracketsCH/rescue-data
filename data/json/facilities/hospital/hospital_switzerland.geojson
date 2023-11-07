@@ -5497,7 +5497,7 @@
     "healthcare": "hospital",
     "name": "Institution de Lavigny",
     "phone": "+41 21 821 45 45",
-    "website": "http://www.ilavigny.ch/",
+    "website": "https://www.ilavigny.ch/",
     "id": "way/37370898"
   },
   "geometry": {
@@ -20633,7 +20633,7 @@
     "amenity": "hospital",
     "name": "Hopital d'Aubonne",
     "phone": "+41 21 821 44 00",
-    "website": "http://www.ehc-vd.ch/centremedical-aubonne",
+    "website": "https://www.ehc-vd.ch/centremedical-aubonne",
     "id": "way/303373857"
   },
   "geometry": {
@@ -30113,7 +30113,7 @@
     "name": "Centre Médical de Vidy",
     "phone": "+41 21 622 88 88",
     "source": "Orthophoto Ville de Lausanne 2008",
-    "website": "http://www.vidymed.ch/centre-medical-de-vidy.html",
+    "website": "https://www.vidymed.ch/centre-medical-de-vidy.html",
     "id": "way/675163028"
   },
   "geometry": {
@@ -53129,7 +53129,7 @@
     "name": "CMLO Centre Médical Lausanne Ouest",
     "opening_hours": "Su-Fr 08:00-18:00",
     "phone": "+41 21 622 00 00",
-    "website": "http://cmlo.ch",
+    "website": "https://cmlo.ch/",
     "id": "node/11107154705"
   },
   "geometry": {

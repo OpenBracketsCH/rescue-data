@@ -14795,6 +14795,7 @@
   "id": "way/252131861",
   "properties": {
     "addr:city": "Hinwil",
+    "addr:country": "CH",
     "addr:housenumber": "6",
     "addr:postcode": "8340",
     "addr:street": "Gemeindehausstrasse",
@@ -15655,304 +15656,6 @@
         [
           8.5772217,
           47.3528196
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/275126089",
-  "properties": {
-    "addr:city": "Wald (ZH)",
-    "addr:country": "CH",
-    "addr:housenumber": "2",
-    "addr:postcode": "8636",
-    "addr:street": "Zum Tabor",
-    "alt_name": "Tabor AG Haus Bachtelblick;Empfang;Cafeteria",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Bachtelblick",
-    "operator": "Tabor AG",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "website": "https://www.tabor-wald.ch/",
-    "wheelchair": "yes",
-    "id": "way/275126089"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.9088325,
-          47.2701518
-        ],
-        [
-          8.9088698,
-          47.2700939
-        ],
-        [
-          8.9088602,
-          47.2700911
-        ],
-        [
-          8.908904,
-          47.2700231
-        ],
-        [
-          8.9089159,
-          47.2700266
-        ],
-        [
-          8.9089468,
-          47.2699787
-        ],
-        [
-          8.908956,
-          47.2699815
-        ],
-        [
-          8.9089821,
-          47.2699408
-        ],
-        [
-          8.9090169,
-          47.2699511
-        ],
-        [
-          8.9090216,
-          47.2699439
-        ],
-        [
-          8.9090743,
-          47.2699595
-        ],
-        [
-          8.9090713,
-          47.2699642
-        ],
-        [
-          8.9090956,
-          47.2699714
-        ],
-        [
-          8.9091948,
-          47.2700008
-        ],
-        [
-          8.9091752,
-          47.2700313
-        ],
-        [
-          8.9091841,
-          47.2700339
-        ],
-        [
-          8.909143,
-          47.2700977
-        ],
-        [
-          8.9091163,
-          47.2700897
-        ],
-        [
-          8.9090831,
-          47.2701411
-        ],
-        [
-          8.909037,
-          47.2702125
-        ],
-        [
-          8.9088325,
-          47.2701518
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/275126091",
-  "properties": {
-    "addr:city": "Wald (ZH)",
-    "addr:housenumber": "4",
-    "addr:postcode": "8636",
-    "addr:street": "Zum Tabor",
-    "alt_name": "Tabor AG Haus Chalet",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Chalet",
-    "operator": "Tabor AG",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "id": "way/275126091"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.9091156,
-          47.2699187
-        ],
-        [
-          8.9091336,
-          47.2697456
-        ],
-        [
-          8.9093133,
-          47.2697542
-        ],
-        [
-          8.9092953,
-          47.2699273
-        ],
-        [
-          8.9091156,
-          47.2699187
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/275126094",
-  "properties": {
-    "addr:city": "Wald ZH",
-    "addr:housenumber": "5",
-    "addr:postcode": "8636",
-    "addr:street": "Brauereistrasse",
-    "alt_name": "Tabor AG Haus Morgenrot",
-    "amenity": "social_facility",
-    "building": "apartments",
-    "building:levels": "4",
-    "name": "Morgenrot",
-    "operator": "Tabor AG",
-    "roof:levels": "1",
-    "roof:shape": "flat",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "id": "way/275126094"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.9096253,
-          47.2702852
-        ],
-        [
-          8.9095719,
-          47.2702497
-        ],
-        [
-          8.909646,
-          47.2701983
-        ],
-        [
-          8.9097305,
-          47.2701398
-        ],
-        [
-          8.9099332,
-          47.2702744
-        ],
-        [
-          8.9099135,
-          47.270288
-        ],
-        [
-          8.909923,
-          47.2702943
-        ],
-        [
-          8.9098013,
-          47.2703787
-        ],
-        [
-          8.9097202,
-          47.2703248
-        ],
-        [
-          8.9096426,
-          47.2702732
-        ],
-        [
-          8.9096253,
-          47.2702852
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/275126113",
-  "properties": {
-    "alt_name": "Tabor AG Küche; Tabor AG Haus Stöckli",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Stöckli",
-    "operator": "Tabor AG",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "id": "way/275126113"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.9095764,
-          47.26959
-        ],
-        [
-          8.909605,
-          47.2693841
-        ],
-        [
-          8.9096761,
-          47.2693886
-        ],
-        [
-          8.9096743,
-          47.2694017
-        ],
-        [
-          8.9097221,
-          47.2694047
-        ],
-        [
-          8.9097206,
-          47.2694157
-        ],
-        [
-          8.9097704,
-          47.2694189
-        ],
-        [
-          8.9097688,
-          47.2694306
-        ],
-        [
-          8.9097832,
-          47.2694315
-        ],
-        [
-          8.9098189,
-          47.2694338
-        ],
-        [
-          8.9097952,
-          47.2696041
-        ],
-        [
-          8.9095764,
-          47.26959
         ]
       ]
     ]
@@ -18630,64 +18333,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/600420173",
-  "properties": {
-    "addr:city": "Wald (ZH)",
-    "addr:housenumber": "3",
-    "addr:postcode": "8636",
-    "addr:street": "Zum Tabor",
-    "alt_name": "Tabor AG Haus Villa;Wäscherei",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Villa",
-    "operator": "Tabor AG",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "website": "https://www.tabor-wald.ch/",
-    "id": "way/600420173"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.9094766,
-          47.2698589
-        ],
-        [
-          8.9094798,
-          47.2698348
-        ],
-        [
-          8.9094819,
-          47.2698192
-        ],
-        [
-          8.909458,
-          47.2698178
-        ],
-        [
-          8.909469,
-          47.2697356
-        ],
-        [
-          8.9097111,
-          47.2697505
-        ],
-        [
-          8.9096948,
-          47.2698724
-        ],
-        [
-          8.9094766,
-          47.2698589
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/602438855",
   "properties": {
     "addr:city": "Rümlang",
@@ -19940,6 +19585,11 @@
   "type": "Feature",
   "id": "way/686700959",
   "properties": {
+    "addr:city": "Hinwil",
+    "addr:country": "CH",
+    "addr:housenumber": "9b",
+    "addr:postcode": "8340",
+    "addr:street": "Zürichstrasse",
     "amenity": "social_facility",
     "building": "apartments",
     "name": "Alterssiedlung Haus Nobs B",
@@ -19980,6 +19630,7 @@
   "id": "way/686700960",
   "properties": {
     "addr:city": "Hinwil",
+    "addr:country": "CH",
     "addr:housenumber": "9a",
     "addr:postcode": "8349",
     "addr:street": "Zürichstrasse",
@@ -22030,28 +21681,24 @@
           47.2700525
         ],
         [
-          8.9100552,
-          47.2702479
+          8.910038,
+          47.2702144
         ],
         [
-          8.9098432,
-          47.2704168
+          8.9098056,
+          47.2703941
         ],
         [
-          8.909532,
-          47.2702386
+          8.9095224,
+          47.270211
         ],
         [
-          8.909426,
-          47.2704247
+          8.9094051,
+          47.2704174
         ],
         [
-          8.909297,
-          47.2703934
-        ],
-        [
-          8.9087715,
-          47.2702479
+          8.9089529,
+          47.2702808
         ],
         [
           8.9087639,
@@ -25409,12 +25056,11 @@
   "type": "Feature",
   "id": "node/9754019575",
   "properties": {
-    "alt_name": "Pflegezentrum Rosenthal Pflegeheim Wald Altersheim Wald Wohnen Rosenthal",
     "amenity": "social_facility",
     "email": "info@stiftungdreitannen.ch",
-    "name": "Stiftung Drei Tannen / Pflegezentrum Rosenthal",
+    "name": "Pflegezentrum Rosenthal",
     "opening_date": "2021-07-01",
-    "operator": "Stiftung Drei Tannen, Wald",
+    "operator": "Stiftung Drei Tannen",
     "operator:type": "private_non_profit",
     "phone": "+41 55 256 11 11",
     "social_facility": "nursing_home",
