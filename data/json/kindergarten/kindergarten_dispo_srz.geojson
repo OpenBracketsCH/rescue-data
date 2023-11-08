@@ -345,7 +345,7 @@
     "preschool": "yes",
     "roof:levels": "1",
     "roof:shape": "half-hipped",
-    "website": "http://chaeferfaescht.com/",
+    "website": "https://chaeferfaescht.com/",
     "id": "way/22419596"
   },
   "geometry": {
@@ -3595,7 +3595,9 @@
     "building:levels": "2",
     "check_date": "2023-10-17",
     "name": "Kindergarten Wiesenstrasse",
-    "operator": "Schule Gallistpitz Veltheim",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schule-wiesenstrasse.ch/",
     "id": "way/40949272"
   },
   "geometry": {
@@ -5596,7 +5598,7 @@
     "amenity": "kindergarten",
     "building": "yes",
     "name": "Kindergarten Drei Linden",
-    "website": "http://www.schule-neftenbach.ch/de/kindergarten/kigadreilinden/",
+    "website": "https://www.schule-neftenbach.ch/de/kindergarten/kigadreilinden/",
     "id": "way/47035825"
   },
   "geometry": {
@@ -6382,7 +6384,7 @@
     "addr:street": "Talhofweg",
     "amenity": "kindergarten",
     "building": "yes",
-    "name": "Kindergarten Talhofweg",
+    "name": "Kindergarten Talhof",
     "ref": "7.03",
     "id": "way/52373552"
   },
@@ -13212,7 +13214,8 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindergarten Unterrütiweg",
-    "operator": "Schule Schachen",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/135263659"
   },
   "geometry": {
@@ -28041,7 +28044,8 @@
     "addr:street": "In der Härti",
     "amenity": "kindergarten",
     "name": "Kindergarten Härti",
-    "operator": "Schule Langwiesen-Wyden",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/409160822"
   },
   "geometry": {
@@ -28110,7 +28114,8 @@
     "addr:street": "Wässerwiesenstrasse",
     "amenity": "kindergarten",
     "name": "Kindergarten Wässerwiesen",
-    "operator": "Schule Langwiesen-Wyden",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/409160826"
   },
   "geometry": {
@@ -28155,60 +28160,12 @@
 },
 {
   "type": "Feature",
-  "id": "way/409160830",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Betreuung Wartstrasse",
-    "operator": "Schule Talhof-Erlen",
-    "id": "way/409160830"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.697741,
-          47.5103443
-        ],
-        [
-          8.697592,
-          47.5100659
-        ],
-        [
-          8.697857,
-          47.5100059
-        ],
-        [
-          8.6979421,
-          47.5101587
-        ],
-        [
-          8.697993,
-          47.5102499
-        ],
-        [
-          8.6980092,
-          47.510279
-        ],
-        [
-          8.6977795,
-          47.5103349
-        ],
-        [
-          8.697741,
-          47.5103443
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/409160836",
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindergarten Rappstrasse",
-    "operator": "Schule Ausserdorf",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/409160836"
   },
   "geometry": {
@@ -28276,8 +28233,9 @@
   "id": "way/409160839",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kindergarten Wieshof",
-    "operator": "Schule Ausserdorf",
+    "name": "Kindergarten Wieshofstrasse",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/409160839"
   },
   "geometry": {
@@ -28354,7 +28312,7 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Betreuung Eulach",
-    "operator": "Schule Ausserdorf",
+    "operator": "Stadt Winterthur",
     "id": "way/409160842"
   },
   "geometry": {
@@ -37794,7 +37752,7 @@
     "operator": "Verein Kindertagesstätte Wässerwiesen",
     "operator:type": "private",
     "preschool": "yes",
-    "website": "http://www.waesserwiesen.ch/",
+    "website": "https://www.waesserwiesen.ch/",
     "id": "node/918336380"
   },
   "geometry": {
@@ -39580,7 +39538,7 @@
     "operator": "Primarschulgemeinde Ossingen",
     "phone": "+41 52 317 04 76",
     "preschool": "yes",
-    "website": "http://www.ps-ossingen.ch",
+    "website": "https://www.ps-ossingen.ch/",
     "id": "node/3602025724"
   },
   "geometry": {
@@ -39812,7 +39770,8 @@
     "addr:street": "Schlossmühlestrasse",
     "amenity": "kindergarten",
     "name": "Kindergarten Schlossberg",
-    "operator": "Schule Ausserdorf",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "node/4110517408"
   },
   "geometry": {
@@ -39820,27 +39779,6 @@
     "coordinates": [
       8.695153,
       47.5018518
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4110517423",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "7",
-    "addr:postcode": "8408",
-    "addr:street": "Wieshofstrasse",
-    "amenity": "kindergarten",
-    "name": "Betreuung Linde",
-    "operator": "Schule Ausserdorf",
-    "id": "node/4110517423"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6939508,
-      47.5099893
     ]
   }
 },
@@ -44783,7 +44721,7 @@
     "operator": "Verein Child Care Concept",
     "operator:type": "private",
     "preschool": "yes",
-    "website": "http://winterthur.child-care-corner.ch/",
+    "website": "https://winterthur.child-care-corner.ch/",
     "id": "node/8733952489"
   },
   "geometry": {
@@ -49988,6 +49926,24 @@
     "coordinates": [
       8.9130312,
       47.2712969
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11330923259",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Pavillon",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "id": "node/11330923259"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7179354,
+      47.5168538
     ]
   }
 }

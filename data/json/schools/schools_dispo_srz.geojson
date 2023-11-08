@@ -1366,9 +1366,12 @@
   "id": "relation/9211152",
   "properties": {
     "amenity": "school",
+    "grades": "0-6",
     "name": "Schulhaus Wiesenstrasse",
-    "operator": "Schule Gallispitz",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "type": "multipolygon",
+    "website": "https://www.schule-wiesenstrasse.ch/",
     "id": "relation/9211152"
   },
   "geometry": {
@@ -1453,8 +1456,10 @@
   "properties": {
     "amenity": "school",
     "name": "Schulanlage Talhof",
-    "operator": "Primarschule Talhof-Erlen",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "type": "multipolygon",
+    "website": "https://www.talhof-erlen.ch/",
     "id": "relation/9211153"
   },
   "geometry": {
@@ -22440,7 +22445,7 @@
     "name": "Primarschule Rüti",
     "phone": "+41 44 860 37 09",
     "source": "Yahoo aerial images",
-    "website": "http://www.schule-winkel.ch/de/m/",
+    "website": "https://www.schule-winkel.ch/de/m/",
     "id": "way/43936833"
   },
   "geometry": {
@@ -25453,7 +25458,7 @@
     "addr:street": "Talhofweg",
     "amenity": "school",
     "building": "yes",
-    "name": "Primarschule und Kindergarten Talhofweg",
+    "name": "Schulhaus Talhof",
     "ref": "7.23",
     "id": "way/52373547"
   },
@@ -25514,8 +25519,11 @@
   "id": "way/52562296",
   "properties": {
     "amenity": "school",
+    "grades": "1-6",
     "name": "Schule Langwiesen",
-    "operator": "Schule Langwiesen-Wyden",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schule-langwiesen.ch/",
     "id": "way/52562296"
   },
   "geometry": {
@@ -26795,8 +26803,11 @@
   "id": "way/57708505",
   "properties": {
     "amenity": "school",
+    "grades": "1-6",
     "name": "Primarschule Ausserdorf",
-    "operator": "Schule Ausserdorf",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.ausserdorf.ch/",
     "id": "way/57708505"
   },
   "geometry": {
@@ -27125,7 +27136,9 @@
   "properties": {
     "amenity": "school",
     "name": "Schulanlage Erlen",
-    "operator": "Primarschule Talhof-Erlen",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.talhof-erlen.ch",
     "id": "way/61826469"
   },
   "geometry": {
@@ -32241,7 +32254,7 @@
     "name": "Schule Tössfeld",
     "operator": "Stadt Winterthur",
     "operator:type": "public",
-    "website": "http://www.schuletoessfeld.ch",
+    "website": "https://www.schuletoessfeld.ch/",
     "id": "way/91979519"
   },
   "geometry": {
@@ -38550,7 +38563,7 @@
     "amenity": "school",
     "name": "Waldschulzimmer",
     "operator": "Holzkorporation Oberwinterthur",
-    "website": "http://hkow.ch/inhalt/waldschulzimmer-lindberg",
+    "website": "https://hkow.ch/inhalt/waldschulzimmer-lindberg",
     "id": "way/113218914"
   },
   "geometry": {
@@ -44934,8 +44947,11 @@
   "id": "way/135263660",
   "properties": {
     "amenity": "school",
+    "grades": "0-6",
     "name": "Schule Schachen",
-    "operator": "Schule Schachen",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schule-schachen.ch/",
     "id": "way/135263660"
   },
   "geometry": {
@@ -45547,7 +45563,7 @@
     "amenity": "school",
     "name": "Schule Tägelmoos",
     "operator": "Schule Tägelmoos",
-    "website": "http://www.taegelmoos.ch/",
+    "website": "https://www.taegelmoos.ch/",
     "id": "way/139975268"
   },
   "geometry": {
@@ -56877,6 +56893,10 @@
         [
           8.6206229,
           47.3971758
+        ],
+        [
+          8.6207053,
+          47.3972167
         ],
         [
           8.6208505,
@@ -97391,7 +97411,7 @@
     "amenity": "school",
     "name": "itw",
     "operator": "Integrale Tagesschule Winterthur",
-    "website": "http://www.itw-oberstufe.ch/",
+    "website": "https://www.itw-oberstufe.ch/",
     "id": "way/409633919"
   },
   "geometry": {
@@ -98919,16 +98939,16 @@
           47.4248952
         ],
         [
-          8.6163304,
-          47.424308
+          8.6163228,
+          47.4242653
         ],
         [
-          8.6162668,
-          47.4243232
+          8.6162505,
+          47.4242833
         ],
         [
-          8.6159713,
-          47.4238297
+          8.6159923,
+          47.4238277
         ],
         [
           8.6162032,
@@ -103160,7 +103180,7 @@
   "properties": {
     "amenity": "school",
     "name": "Gesamtschule Winterthur",
-    "website": "http://www.gesamtschulewinterthur.ch/",
+    "website": "https://gesamtschulewinterthur.ch/",
     "id": "way/522249569"
   },
   "geometry": {
@@ -116083,7 +116103,7 @@
   "properties": {
     "amenity": "school",
     "name": "Primarschule Humlikon",
-    "website": "http://www.pshumlikon.ch/",
+    "website": "https://www.pshumlikon.ch/",
     "id": "way/917700185"
   },
   "geometry": {
@@ -116551,7 +116571,7 @@
     "amenity": "school",
     "name": "Sekundarschule Kreis Marthalen",
     "toilets:wheelchair": "yes",
-    "website": "http://www.skmarthalen.ch/",
+    "website": "https://www.skmarthalen.ch/",
     "wheelchair": "yes",
     "id": "way/951696806"
   },
@@ -125071,7 +125091,7 @@
   "properties": {
     "amenity": "school",
     "name": "Sprachschule Ellada",
-    "website": "http://www.zafon.ch",
+    "website": "https://www.zafon.ch/",
     "id": "node/661014947"
   },
   "geometry": {
@@ -125863,7 +125883,7 @@
     "operator": "Primarschulgemeinde Ossingen",
     "operator:type": "public",
     "phone": "+41 52 317 15 45",
-    "website": "http://www.ps-ossingen.ch",
+    "website": "https://www.ps-ossingen.ch/",
     "id": "node/3602025723"
   },
   "geometry": {
@@ -126718,7 +126738,7 @@
     "name": "Bühnerei – Raum für Theater & Circus",
     "name:de": "Bühnerei – Raum für Theater & Circus",
     "phone": "+41 52 511 18 28",
-    "website": "http://www.buehnerei.ch/",
+    "website": "https://www.buehnerei.ch/",
     "id": "node/5762327053"
   },
   "geometry": {
@@ -127014,7 +127034,7 @@
     "operator": "Sekundarschulgemeinde Ossingen-Truttikon",
     "operator:type": "public",
     "phone": "+41 52 317 45 58",
-    "website": "http://www.sekossingen.ch",
+    "website": "https://www.sekossingen.ch/",
     "id": "node/7049795616"
   },
   "geometry": {

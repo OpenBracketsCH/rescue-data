@@ -2108,7 +2108,7 @@
     "phone": "+41 52 213 22 22",
     "roof:levels": "1",
     "roof:shape": "flat",
-    "website": "www.dsw.ch",
+    "website": "https://www.dsw.ch/",
     "id": "way/22462851"
   },
   "geometry": {
@@ -4976,9 +4976,11 @@
     "addr:street": "Asylstrasse",
     "amenity": "social_facility",
     "building": "apartments",
+    "building:levels": "5",
     "capacity": "57",
     "name": "Alterswohnungen Schulthesspark",
     "operator": "Stiftung Diakoniewerk Neumünster",
+    "roof:levels": "0",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
@@ -5056,8 +5058,11 @@
     "addr:street": "Freiestrasse",
     "amenity": "social_facility",
     "building": "residential",
+    "building:levels": "7",
     "name": "Alterszentrum Hottingen",
     "operator": "Stiftung Diakoniewerk Neumünster",
+    "roof:levels": "1",
+    "roof:shape": "flat",
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
@@ -26445,7 +26450,7 @@
     "operator": "Stiftung Zürcher Kinder- und Jugendheime",
     "phone": "+41 44 854 84 84",
     "social_facility": "assisted_living",
-    "website": "www.burghof.org",
+    "website": "https://www.burghof.org/",
     "id": "way/251388671"
   },
   "geometry": {
@@ -41691,7 +41696,7 @@
     "phone": "+41 43 268 17 00",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
-    "website": "http://www.vivale-neuhegi.ch",
+    "website": "https://vivale-neuhegi.ch/",
     "wheelchair": "yes",
     "id": "way/833404852"
   },
@@ -48503,7 +48508,7 @@
     "name": "liebesexundsoweiter",
     "opening_hours": "Tu-Th 14:00-17:00",
     "social_facility:for": "diseased",
-    "website": "http://www.liebesexundsoweiter.ch",
+    "website": "https://www.liebesexundsoweiter.ch/",
     "id": "node/4081379795"
   },
   "geometry": {
@@ -51156,7 +51161,7 @@
     "mapillary": "202463565049734",
     "name": "RestEssBar Winti Altstadt",
     "social_facility": "food_bank",
-    "website": "http://restessbar.ch/de/standorte/winti_altstadt",
+    "website": "https://restessbar.ch/de/standorte/winti_altstadt",
     "id": "node/7052781841"
   },
   "geometry": {

@@ -3151,6 +3151,57 @@
 },
 {
   "type": "Feature",
+  "id": "way/409160830",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Betreuung Wartstrasse",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schule-langwiesen.ch/angebote/internes-angebot/schulergaenzende-betreuung/p-38/",
+    "id": "way/409160830"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.697741,
+          47.5103443
+        ],
+        [
+          8.697592,
+          47.5100659
+        ],
+        [
+          8.697857,
+          47.5100059
+        ],
+        [
+          8.6979421,
+          47.5101587
+        ],
+        [
+          8.697993,
+          47.5102499
+        ],
+        [
+          8.6980092,
+          47.510279
+        ],
+        [
+          8.6977795,
+          47.5103349
+        ],
+        [
+          8.697741,
+          47.5103443
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/437544782",
   "properties": {
     "addr:city": "Zürich",
@@ -4938,6 +4989,28 @@
 },
 {
   "type": "Feature",
+  "id": "node/4110517423",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "7",
+    "addr:postcode": "8408",
+    "addr:street": "Wieshofstrasse",
+    "amenity": "childcare",
+    "name": "Betreuung Linde",
+    "operator": "Stadt Winterthur",
+    "website": "https://www.ausserdorf.ch/angebote/erg%C3%A4nzende-angebote/betreuung/",
+    "id": "node/4110517423"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6939508,
+      47.5099893
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4110517426",
   "properties": {
     "amenity": "childcare",
@@ -5655,7 +5728,7 @@
     "addr:street": "Schulstrasse",
     "amenity": "childcare",
     "name": "KiTa Lundy",
-    "website": "http://www.kitalundy.ch/",
+    "website": "https://www.kitalundy.ch/",
     "id": "node/5744928227"
   },
   "geometry": {
@@ -12953,6 +13026,24 @@
     "coordinates": [
       8.6528701,
       47.3285381
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11330923260",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Betreuung Talhof-Erlen",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "id": "node/11330923260"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7032092,
+      47.5106101
     ]
   }
 }

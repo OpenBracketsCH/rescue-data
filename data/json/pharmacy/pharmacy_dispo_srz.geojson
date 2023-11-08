@@ -907,7 +907,7 @@
     "name": "Bachtel Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-13:00",
     "phone": "+41 52 222 23 74",
-    "website": "http://www.bachtel-apotheke.ch",
+    "website": "https://www.bachtel-apotheke.ch/",
     "id": "node/307364393"
   },
   "geometry": {
@@ -2033,7 +2033,7 @@
     "name": "Büli Apotheke Parfumerie",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
     "phone": "+41 44 860 72 11",
-    "website": "http://www.bueli-apotheke.ch",
+    "website": "https://www.bueli-apotheke.ch/",
     "id": "node/538779680"
   },
   "geometry": {
@@ -3683,7 +3683,7 @@
     "addr:street": "Breitestrasse",
     "amenity": "pharmacy",
     "name": "Apotheke Seuzach",
-    "website": "http://www.apotheke-seuzach.ch",
+    "website": "https://www.apotheke-seuzach.ch/",
     "id": "node/1504082568"
   },
   "geometry": {
