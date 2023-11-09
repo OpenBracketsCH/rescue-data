@@ -28372,6 +28372,52 @@
 },
 {
   "type": "Feature",
+  "id": "way/1052631331",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "4",
+    "addr:postcode": "8610",
+    "addr:street": "Theaterstrasse",
+    "building": "yes",
+    "construction:amenity": "social_facility",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "way/1052631331"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7147843,
+          47.3494781
+        ],
+        [
+          8.7145029,
+          47.3489453
+        ],
+        [
+          8.7150237,
+          47.3488284
+        ],
+        [
+          8.7151334,
+          47.3490132
+        ],
+        [
+          8.7153217,
+          47.3493475
+        ],
+        [
+          8.7147843,
+          47.3494781
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1066428552",
   "properties": {
     "amenity": "social_facility",
@@ -28746,6 +28792,52 @@
         [
           8.5646532,
           47.4285819
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1144153197",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Residenz Stadtpark",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "way/1144153197"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7153291,
+          47.3493498
+        ],
+        [
+          8.7147801,
+          47.3494841
+        ],
+        [
+          8.7144974,
+          47.3489447
+        ],
+        [
+          8.7143665,
+          47.348666
+        ],
+        [
+          8.7149223,
+          47.348654
+        ],
+        [
+          8.7150304,
+          47.3488254
+        ],
+        [
+          8.7153291,
+          47.3493498
         ]
       ]
     ]
@@ -30066,44 +30158,6 @@
           8.7128694,
           47.2914628
         ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/1052631331",
-  "properties": {
-    "construction:amenity": "social_facility",
-    "construction:building": "yes",
-    "name": "Residenz Stadtpark",
-    "note": "Bezug ab Herbst 2023",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "id": "way/1052631331"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.7148295,
-        47.3494416
-      ],
-      [
-        8.7152599,
-        47.3493375
-      ],
-      [
-        8.7149723,
-        47.3487918
-      ],
-      [
-        8.714542,
-        47.348896
-      ],
-      [
-        8.7148295,
-        47.3494416
       ]
     ]
   }

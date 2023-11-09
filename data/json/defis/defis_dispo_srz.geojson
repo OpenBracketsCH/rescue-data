@@ -8797,28 +8797,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7667107721",
-  "properties": {
-    "contact:email": "defi@samariterhinwil.ch",
-    "defibrillator:location": "Schulhaus Meiliwiese",
-    "description": "Öffentlich 24h zugänglich",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "Schule Hinwil",
-    "id": "node/7667107721"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8410062,
-      47.3014154
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7667107723",
   "properties": {
     "defibrillator:location": "Reformierte Kirche",
@@ -54257,6 +54235,7 @@
   "type": "Feature",
   "id": "node/10748021683",
   "properties": {
+    "contact:email": "defi@samariterhinwil.ch",
     "defibrillator:location": "Schulhaus beim Eingang",
     "description": "Öffentlich 24h zugänglich",
     "emergency": "defibrillator",
@@ -69507,6 +69486,101 @@
     "coordinates": [
       8.6114825,
       47.1337269
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11332516969",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bahnhof Sattel-Aegeri",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Schweizerische Südostbahn AG ",
+    "phone": "+41585807335",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11332516969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6273575,
+      47.079986
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11332683869",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Waldhaus und Schützenhaus Warpel Embrach",
+    "description": "Aussen aufgestellt ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Embrach",
+    "phone": "+41448663639",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11332683869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6124277,
+      47.509528
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11333006869",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "mittlerer Pavillon Schule Leutschenbach",
+    "description": "erster Türe links, im Büro des Horts",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "Mo.-Fr. 11:00-18:00",
+    "operator": "Schule Leutschenbach",
+    "phone": "+41793637897",
+    "id": "node/11333006869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5615162,
+      47.4139753
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11333012469",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Mehr als Wohnen- Kindergarten",
+    "description": "an der Wand beim Eingang rechts",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "Mo.-Fr. 08:00-14:40",
+    "operator": "Schule Leutschenbach",
+    "phone": "+41793637897",
+    "id": "node/11333012469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5606801,
+      47.413706
     ]
   }
 }

@@ -17587,6 +17587,7 @@
   "id": "way/183641274",
   "properties": {
     "addr:city": "Dietlikon",
+    "addr:country": "CH",
     "addr:housenumber": "8",
     "addr:postcode": "8305",
     "addr:street": "Tödistrasse",

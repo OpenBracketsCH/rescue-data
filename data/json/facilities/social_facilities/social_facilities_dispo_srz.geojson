@@ -46488,6 +46488,52 @@
 },
 {
   "type": "Feature",
+  "id": "way/1144153197",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Residenz Stadtpark",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "way/1144153197"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7153291,
+          47.3493498
+        ],
+        [
+          8.7147801,
+          47.3494841
+        ],
+        [
+          8.7144974,
+          47.3489447
+        ],
+        [
+          8.7143665,
+          47.348666
+        ],
+        [
+          8.7149223,
+          47.348654
+        ],
+        [
+          8.7150304,
+          47.3488254
+        ],
+        [
+          8.7153291,
+          47.3493498
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1144645873",
   "properties": {
     "amenity": "social_facility",
@@ -47770,6 +47816,62 @@
         [
           8.6139125,
           47.4007481
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1189660206",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:housenumber": "3",
+    "addr:postcode": "8600",
+    "addr:street": "Rotbuchstrasse",
+    "alt_name": "Bundesasylzentrum",
+    "amenity": "social_facility",
+    "building": "yes",
+    "military": "barracks",
+    "name": "Offizierkaserne",
+    "social_facility": "shelter",
+    "id": "way/1189660206"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6221321,
+          47.4057794
+        ],
+        [
+          8.6221531,
+          47.4057271
+        ],
+        [
+          8.6222904,
+          47.4053682
+        ],
+        [
+          8.6225081,
+          47.4053575
+        ],
+        [
+          8.6223496,
+          47.405762
+        ],
+        [
+          8.6222075,
+          47.4061383
+        ],
+        [
+          8.6220083,
+          47.4061027
+        ],
+        [
+          8.6221321,
+          47.4057794
         ]
       ]
     ]
