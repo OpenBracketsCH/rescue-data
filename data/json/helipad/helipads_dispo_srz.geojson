@@ -2084,9 +2084,8 @@
   "properties": {
     "aeroway": "helipad",
     "maxweight": "5",
-    "name": "WINTERTHUR",
     "operator": "Kantonsspital Winterthur",
-    "website": "https://www.ksw.ch/",
+    "website": "http://www.ksw.ch",
     "id": "way/1142051093"
   },
   "geometry": {
@@ -2094,11 +2093,15 @@
     "coordinates": [
       [
         [
-          8.7283782,
-          47.507421
+          8.7283771,
+          47.507419
         ],
         [
-          8.728302,
+          8.7283095,
+          47.5073113
+        ],
+        [
+          8.7283021,
           47.5072995
         ],
         [
@@ -2110,8 +2113,8 @@
           47.5073688
         ],
         [
-          8.7283782,
-          47.507421
+          8.7283771,
+          47.507419
         ]
       ]
     ]

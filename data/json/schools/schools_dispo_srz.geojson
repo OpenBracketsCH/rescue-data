@@ -973,288 +973,6 @@
 },
 {
   "type": "Feature",
-  "id": "relation/9202586",
-  "properties": {
-    "amenity": "school",
-    "grades": "1-6",
-    "name": "KGS Winterthur",
-    "operator": "Stadt Winterthur",
-    "operator:type": "public",
-    "type": "multipolygon",
-    "website": "https://www.kgswinterthur.ch/kgs-primar/",
-    "id": "relation/9202586"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7608569,
-          47.5166474
-        ],
-        [
-          8.7608329,
-          47.516763
-        ],
-        [
-          8.7608771,
-          47.5167665
-        ],
-        [
-          8.7607151,
-          47.5175674
-        ],
-        [
-          8.7607054,
-          47.5176145
-        ],
-        [
-          8.7607044,
-          47.5176193
-        ],
-        [
-          8.7606467,
-          47.5178638
-        ],
-        [
-          8.7605621,
-          47.5182226
-        ],
-        [
-          8.7598945,
-          47.5181709
-        ],
-        [
-          8.7595905,
-          47.5181477
-        ],
-        [
-          8.7599269,
-          47.5172389
-        ],
-        [
-          8.7600751,
-          47.5168394
-        ],
-        [
-          8.76012,
-          47.5166496
-        ],
-        [
-          8.7601256,
-          47.5165973
-        ],
-        [
-          8.760166,
-          47.5166
-        ],
-        [
-          8.7601692,
-          47.5165808
-        ],
-        [
-          8.7602004,
-          47.5165629
-        ],
-        [
-          8.7602411,
-          47.5165644
-        ],
-        [
-          8.7604493,
-          47.5165761
-        ],
-        [
-          8.7606554,
-          47.5165986
-        ],
-        [
-          8.7607187,
-          47.5166069
-        ],
-        [
-          8.7607394,
-          47.5166298
-        ],
-        [
-          8.7608569,
-          47.5166474
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "relation/9202587",
-  "properties": {
-    "amenity": "school",
-    "grades": "7-9",
-    "name": "Sekundarschule Wallrüti",
-    "operator": "Stadt Winterthur",
-    "operator:type": "public",
-    "type": "multipolygon",
-    "website": "https://www.sek-wallrüti.ch/",
-    "id": "relation/9202587"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7605621,
-          47.5182226
-        ],
-        [
-          8.7605451,
-          47.5182907
-        ],
-        [
-          8.7604935,
-          47.5185276
-        ],
-        [
-          8.7604147,
-          47.5189361
-        ],
-        [
-          8.7603329,
-          47.5194106
-        ],
-        [
-          8.7602831,
-          47.5196852
-        ],
-        [
-          8.7601935,
-          47.5201893
-        ],
-        [
-          8.7600769,
-          47.5207505
-        ],
-        [
-          8.7600302,
-          47.5209431
-        ],
-        [
-          8.7599781,
-          47.5209393
-        ],
-        [
-          8.75936,
-          47.520892
-        ],
-        [
-          8.7593317,
-          47.5208898
-        ],
-        [
-          8.759016,
-          47.5208659
-        ],
-        [
-          8.7589849,
-          47.5208599
-        ],
-        [
-          8.7589663,
-          47.5208446
-        ],
-        [
-          8.7589619,
-          47.5208237
-        ],
-        [
-          8.7589742,
-          47.5208049
-        ],
-        [
-          8.7590272,
-          47.5207709
-        ],
-        [
-          8.7590748,
-          47.5207306
-        ],
-        [
-          8.7591188,
-          47.5206845
-        ],
-        [
-          8.7591579,
-          47.520622
-        ],
-        [
-          8.7591799,
-          47.5205716
-        ],
-        [
-          8.7591975,
-          47.5205113
-        ],
-        [
-          8.7591992,
-          47.5204245
-        ],
-        [
-          8.7591438,
-          47.5199087
-        ],
-        [
-          8.7591337,
-          47.5197687
-        ],
-        [
-          8.7591364,
-          47.5196092
-        ],
-        [
-          8.7591471,
-          47.5194818
-        ],
-        [
-          8.7591714,
-          47.5193383
-        ],
-        [
-          8.7591957,
-          47.5192421
-        ],
-        [
-          8.7592307,
-          47.5191208
-        ],
-        [
-          8.7593627,
-          47.5187647
-        ],
-        [
-          8.759427,
-          47.5185894
-        ],
-        [
-          8.7594966,
-          47.5184025
-        ],
-        [
-          8.7595905,
-          47.5181477
-        ],
-        [
-          8.7598945,
-          47.5181709
-        ],
-        [
-          8.7605621,
-          47.5182226
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "relation/9211119",
   "properties": {
     "amenity": "school",
@@ -38257,11 +37975,11 @@
   "id": "way/112883069",
   "properties": {
     "amenity": "school",
-    "grades": "7-9",
-    "name": "Sekundarschule Lindberg",
+    "grades": "1-6",
+    "name": "Schulhaus Lindberg",
     "operator": "Stadt Winterthur",
     "operator:type": "public",
-    "website": "https://www.limpi.ch/",
+    "website": "https://www.schule-rychenberg.com/",
     "id": "way/112883069"
   },
   "geometry": {
@@ -38361,7 +38079,7 @@
   "id": "way/112883095",
   "properties": {
     "amenity": "school",
-    "grades": "0-9",
+    "grades": "1-9",
     "name": "Schule Rychenberg",
     "operator": "Stadt Winterthur",
     "operator:type": "public",
@@ -39481,7 +39199,10 @@
   "id": "way/115808359",
   "properties": {
     "amenity": "school",
-    "name": "Schule Stadel",
+    "name": "Primarschule Stadel",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schule-zinzikon.ch/primarschule/stadel-1/p-108/",
     "id": "way/115808359"
   },
   "geometry": {
@@ -43690,62 +43411,6 @@
         [
           8.6561392,
           47.3829544
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/131001289",
-  "properties": {
-    "amenity": "school",
-    "name": "Kindergarten Oberi-Dorf",
-    "id": "way/131001289"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7555733,
-          47.507598
-        ],
-        [
-          8.7557897,
-          47.5074535
-        ],
-        [
-          8.7557564,
-          47.5074211
-        ],
-        [
-          8.7559668,
-          47.5073447
-        ],
-        [
-          8.7560794,
-          47.5074614
-        ],
-        [
-          8.7558048,
-          47.5075909
-        ],
-        [
-          8.755764,
-          47.5076013
-        ],
-        [
-          8.7557318,
-          47.5076234
-        ],
-        [
-          8.7556723,
-          47.5076642
-        ],
-        [
-          8.7555733,
-          47.507598
         ]
       ]
     ]
@@ -96456,8 +96121,10 @@
   "id": "way/397797231",
   "properties": {
     "amenity": "school",
+    "grades": "1-6",
     "name": "Schule Zinzikon",
-    "website": "http://www.schule-oberi.ch/schulhaeuser.php?schulhausid=26",
+    "operator": "Stadt Winterthur",
+    "website": "https://www.schule-zinzikon.ch/primarschule/zinzikon-1/p-104/",
     "wikidata": "Q67404668",
     "id": "way/397797231"
   },
@@ -97823,6 +97490,9 @@
   "properties": {
     "amenity": "school",
     "name": "Primarschule Reutlingen",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schule-zinzikon.ch/primarschule/reutlingen-1/p-106/",
     "id": "way/414673777"
   },
   "geometry": {
@@ -124589,6 +124259,153 @@
         [
           8.8479811,
           47.3012814
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1222227081",
+  "properties": {
+    "amenity": "school",
+    "grades": "7-9",
+    "name": "Sekundarschule Wallrüti",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.sek-wallrüti.ch/",
+    "id": "way/1222227081"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7604925,
+          47.5185306
+        ],
+        [
+          8.7602827,
+          47.5196842
+        ],
+        [
+          8.76004,
+          47.5209329
+        ],
+        [
+          8.7599591,
+          47.5209349
+        ],
+        [
+          8.7589881,
+          47.520856
+        ],
+        [
+          8.7589491,
+          47.5208155
+        ],
+        [
+          8.759045,
+          47.5207589
+        ],
+        [
+          8.7591679,
+          47.5206354
+        ],
+        [
+          8.7592039,
+          47.5204654
+        ],
+        [
+          8.7591409,
+          47.5197996
+        ],
+        [
+          8.7591529,
+          47.5195041
+        ],
+        [
+          8.7592188,
+          47.5191924
+        ],
+        [
+          8.7594706,
+          47.5185225
+        ],
+        [
+          8.7600819,
+          47.518567
+        ],
+        [
+          8.7601059,
+          47.5184962
+        ],
+        [
+          8.7604925,
+          47.5185306
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1222227083",
+  "properties": {
+    "amenity": "school",
+    "grades": "1-6",
+    "name": "KGS Winterthur",
+    "operator": "Stadt Winterthur",
+    "website": "https://www.kgswinterthur.ch/kgs-primar/",
+    "id": "way/1222227083"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7596029,
+          47.5181217
+        ],
+        [
+          8.7601054,
+          47.5167662
+        ],
+        [
+          8.7601544,
+          47.5165531
+        ],
+        [
+          8.760709,
+          47.5165986
+        ],
+        [
+          8.7607335,
+          47.5166297
+        ],
+        [
+          8.76085,
+          47.5166442
+        ],
+        [
+          8.7608316,
+          47.5167642
+        ],
+        [
+          8.7608745,
+          47.5167662
+        ],
+        [
+          8.7607182,
+          47.5175609
+        ],
+        [
+          8.7605681,
+          47.5181837
+        ],
+        [
+          8.7596029,
+          47.5181217
         ]
       ]
     ]

@@ -10928,77 +10928,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/111542868",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "1",
-    "addr:postcode": "8404",
-    "addr:street": "Steinbruchweg",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "building:roof": "tile",
-    "name": "Kindergarten Gerzler",
-    "operator": "Schule Guggenbühl",
-    "id": "way/111542868"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7545004,
-          47.5129595
-        ],
-        [
-          8.7544991,
-          47.5129189
-        ],
-        [
-          8.7544586,
-          47.5129195
-        ],
-        [
-          8.7544574,
-          47.5128809
-        ],
-        [
-          8.7544506,
-          47.5126608
-        ],
-        [
-          8.7545771,
-          47.5126591
-        ],
-        [
-          8.7545796,
-          47.5127398
-        ],
-        [
-          8.7545508,
-          47.5127402
-        ],
-        [
-          8.754555,
-          47.5128779
-        ],
-        [
-          8.7546252,
-          47.5128769
-        ],
-        [
-          8.7546277,
-          47.5129577
-        ],
-        [
-          8.7545004,
-          47.5129595
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/112073349",
   "properties": {
     "addr:city": "Zürich",
@@ -12177,6 +12106,65 @@
         [
           8.6060816,
           47.3411195
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/131001289",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Oberi-Dorf",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schule-rychenberg.com/schulhaeuser/zyklus-1-kindergarten/p-54/",
+    "id": "way/131001289"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7555733,
+          47.507598
+        ],
+        [
+          8.7557897,
+          47.5074535
+        ],
+        [
+          8.7557564,
+          47.5074211
+        ],
+        [
+          8.7559668,
+          47.5073447
+        ],
+        [
+          8.7560794,
+          47.5074614
+        ],
+        [
+          8.7558048,
+          47.5075909
+        ],
+        [
+          8.755764,
+          47.5076013
+        ],
+        [
+          8.7557318,
+          47.5076234
+        ],
+        [
+          8.7556723,
+          47.5076642
+        ],
+        [
+          8.7555733,
+          47.507598
         ]
       ]
     ]
@@ -18106,6 +18094,8 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindergarten Schooren",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/216246915"
   },
   "geometry": {
@@ -23927,6 +23917,8 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindergarten Zinzikon",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/397797230"
   },
   "geometry": {
@@ -31994,7 +31986,9 @@
   "id": "way/1134027312",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kiga Unterwegli",
+    "name": "Kindergarten Unterwegli",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/1134027312"
   },
   "geometry": {
@@ -32514,6 +32508,110 @@
         [
           8.7231388,
           47.4066022
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1222227080",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Gerzler",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "id": "way/1222227080"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7547288,
+          47.5130524
+        ],
+        [
+          8.7542049,
+          47.5130562
+        ],
+        [
+          8.7541746,
+          47.5129342
+        ],
+        [
+          8.7541346,
+          47.5125859
+        ],
+        [
+          8.7543,
+          47.5124741
+        ],
+        [
+          8.7543717,
+          47.512394
+        ],
+        [
+          8.7544407,
+          47.5122878
+        ],
+        [
+          8.7546889,
+          47.5123325
+        ],
+        [
+          8.7547164,
+          47.5123586
+        ],
+        [
+          8.7547288,
+          47.5130524
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1222227082",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Wallrüti",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "id": "way/1222227082"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7594736,
+          47.5185205
+        ],
+        [
+          8.7595964,
+          47.5181461
+        ],
+        [
+          8.7605554,
+          47.518223
+        ],
+        [
+          8.7604955,
+          47.5185286
+        ],
+        [
+          8.7601089,
+          47.5184962
+        ],
+        [
+          8.7600789,
+          47.518567
+        ],
+        [
+          8.7594736,
+          47.5185205
         ]
       ]
     ]
@@ -33255,6 +33353,8 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindergarten Stadel",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "node/1307336252"
   },
   "geometry": {
@@ -33884,8 +33984,14 @@
   "type": "Feature",
   "id": "node/2216406533",
   "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "134",
+    "addr:postcode": "8404",
+    "addr:street": "Römerstrasse",
     "amenity": "kindergarten",
-    "name": "Unteres Bühl",
+    "name": "Kindergarten Unteres Bühl",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "node/2216406533"
   },
   "geometry": {
@@ -44388,6 +44494,24 @@
     "coordinates": [
       8.7179354,
       47.5168538
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11336096540",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Talwiesen",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "id": "node/11336096540"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.754031,
+      47.5017607
     ]
   }
 }

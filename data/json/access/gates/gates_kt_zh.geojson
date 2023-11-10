@@ -19292,12 +19292,10 @@
   "id": "node/2373844630",
   "properties": {
     "access": "private",
-    "barrier": "lift_gate",
-    "designation": "Gate 101",
+    "barrier": "gate",
     "emergency": "yes",
     "lift_gate:type": "single",
     "locked": "yes",
-    "name": "Tor 101",
     "id": "node/2373844630"
   },
   "geometry": {
@@ -19313,12 +19311,10 @@
   "id": "node/2373846256",
   "properties": {
     "access": "private",
-    "barrier": "lift_gate",
-    "designation": "Gate 101",
+    "barrier": "gate",
     "emergency": "yes",
     "lift_gate:type": "single",
     "locked": "yes",
-    "name": "Tor 101",
     "id": "node/2373846256"
   },
   "geometry": {
@@ -53768,7 +53764,6 @@
     "access": "private",
     "barrier": "gate",
     "emergency": "yes",
-    "name": "Tor 130",
     "id": "node/7605529263"
   },
   "geometry": {
@@ -62127,12 +62122,10 @@
   "id": "node/9192923133",
   "properties": {
     "access": "private",
-    "barrier": "lift_gate",
-    "designation": "Gate 101",
+    "barrier": "gate",
     "emergency": "yes",
     "lift_gate:type": "single",
     "locked": "yes",
-    "name": "Tor 101",
     "id": "node/9192923133"
   },
   "geometry": {
@@ -62148,12 +62141,10 @@
   "id": "node/9192923135",
   "properties": {
     "access": "private",
-    "barrier": "lift_gate",
-    "designation": "Gate 101",
+    "barrier": "gate",
     "emergency": "yes",
     "lift_gate:type": "single",
     "locked": "yes",
-    "name": "Tor 101",
     "id": "node/9192923135"
   },
   "geometry": {
@@ -62190,12 +62181,10 @@
   "id": "node/9192923162",
   "properties": {
     "access": "private",
-    "barrier": "lift_gate",
-    "designation": "Gate 101",
+    "barrier": "gate",
     "emergency": "yes",
     "lift_gate:type": "single",
     "locked": "yes",
-    "name": "Tor 101",
     "id": "node/9192923162"
   },
   "geometry": {
@@ -62453,7 +62442,6 @@
     "access": "no",
     "barrier": "gate",
     "locked": "yes",
-    "name": "Tor 105",
     "opening_hours": "Mo-Fr 05:00-22:30; Sa 05:00-22:00",
     "vehicle": "no",
     "id": "node/9196328086"
@@ -66843,7 +66831,6 @@
     "access": "no",
     "barrier": "gate",
     "locked": "yes",
-    "name": "Tor 140",
     "id": "node/10209588522"
   },
   "geometry": {
@@ -66861,7 +66848,6 @@
     "access": "private",
     "barrier": "gate",
     "emergency": "yes",
-    "name": "Tor 130",
     "id": "node/10211513473"
   },
   "geometry": {

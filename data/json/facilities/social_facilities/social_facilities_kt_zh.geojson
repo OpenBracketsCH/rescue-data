@@ -19041,6 +19041,7 @@
   "id": "way/183425080",
   "properties": {
     "addr:city": "Dietlikon",
+    "addr:country": "CH",
     "addr:housenumber": "41",
     "addr:postcode": "8305",
     "addr:street": "Schwerzelbodenstrasse",
@@ -19195,6 +19196,7 @@
   "id": "way/183425082",
   "properties": {
     "addr:city": "Dietlikon",
+    "addr:country": "CH",
     "addr:housenumber": "52",
     "addr:postcode": "8305",
     "addr:street": "Sonnenbühlstrasse",
