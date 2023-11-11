@@ -4686,6 +4686,7 @@
     "addr:street": "Ringstrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date:opening_hours": "2023-11-10",
     "dispensing": "no",
     "drive_through": "no",
     "name": "Apotheke Parkside",

@@ -39723,7 +39723,7 @@
     "healthcare:speciality": "intensive",
     "name": "Hôpital du Jura - Delémont",
     "phone": "+41 32 421 21 21",
-    "website": "http://www.h-ju.ch/",
+    "website": "https://www.h-ju.ch/",
     "wheelchair": "yes",
     "id": "way/680334118"
   },
@@ -40141,7 +40141,7 @@
     "healthcare": "hospital",
     "name": "Hôpital du Jura",
     "phone": "+41 32 465 65 65",
-    "website": "http://www.h-ju.ch",
+    "website": "https://www.h-ju.ch/",
     "id": "way/680338392"
   },
   "geometry": {
