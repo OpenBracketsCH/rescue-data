@@ -3529,7 +3529,7 @@
     "name_old": "Frauenfachschule",
     "operator": "Kanton Zürich, Bildungsdirektion",
     "short_name": "KST",
-    "website": "http://www.ksstadelhofen.ch/",
+    "website": "https://www.ksstadelhofen.ch/",
     "wikidata": "Q1728131",
     "wikimedia_commons": "Category:Kantonsschule Stadelhofen",
     "wikipedia": "en:Kantonsschule Stadelhofen",
@@ -12168,7 +12168,7 @@
     "old_name": "Kantonsschule Oerlikon",
     "operator": "Kanton Zürich, Bildungsdirektion",
     "short_name": "KZN",
-    "website": "http://www.kzn.ch/",
+    "website": "https://www.kzn.ch/",
     "wheelchair": "yes",
     "wikidata": "Q1728139",
     "wikipedia": "en:Kantonsschule Zürich Nord",
@@ -19103,7 +19103,7 @@
     "name": "Klubschule Migros",
     "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-11:30",
     "operator": "Migros-Kulturprozent",
-    "website": "http://www.klubschule.ch/Standorte/Zuerich/Zuerich/Zuerich-Oerlikon",
+    "website": "https://www.klubschule.ch/Standorte/Zuerich/Zuerich/Zuerich-Oerlikon",
     "id": "node/667115563"
   },
   "geometry": {
@@ -19175,7 +19175,7 @@
     "amenity": "school",
     "name": "Tagesschule Viso Parents",
     "phone": "+41 44 315 60 70",
-    "website": "http://www.visoparents.ch/",
+    "website": "https://www.visoparents.ch/",
     "id": "node/1617870706"
   },
   "geometry": {
@@ -19224,7 +19224,7 @@
     "name": "Klubschule Migros Tanzwerk 101",
     "opening_hours": "Mo-Fr 08:30-21:00; Sa 09:00-14:00; Su 10:00-13:30",
     "operator": "Migros-Kulturprozent",
-    "website": "http://www.klubschule.ch/Standorte/Zuerich/Zuerich/Tanzwerk101",
+    "website": "https://www.klubschule.ch/Standorte/Zuerich/Zuerich/Tanzwerk101",
     "id": "node/3250885889"
   },
   "geometry": {
@@ -19339,7 +19339,7 @@
     "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-11:30",
     "operator": "Migros-Kulturprozent",
     "start_date": "2017-08-28",
-    "website": "http://www.klubschule.ch/Standorte/Zuerich/Zuerich/Zuerich-Altstetten",
+    "website": "https://www.klubschule.ch/Standorte/Zuerich/Zuerich/Zuerich-Altstetten",
     "id": "node/4841545847"
   },
   "geometry": {
@@ -19365,7 +19365,7 @@
     "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-11:30",
     "operator": "Migros-Kulturprozent",
     "phone": "+41 44 278 62 62",
-    "website": "http://www.klubschule.ch/Standorte/Zuerich/Zuerich/Zuerich-Limmatplatz",
+    "website": "https://www.klubschule.ch/Standorte/Zuerich/Zuerich/Zuerich-Limmatplatz",
     "id": "node/4841545849"
   },
   "geometry": {
@@ -19498,7 +19498,7 @@
     "amenity": "school",
     "name": "Casa d'Italia",
     "private": "yes",
-    "website": "http://www.scuolaitaliana.ch/",
+    "website": "https://www.scuolaitaliana.ch/",
     "id": "node/5331387435"
   },
   "geometry": {

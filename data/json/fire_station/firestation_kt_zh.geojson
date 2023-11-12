@@ -5077,7 +5077,7 @@
     "addr:street": "Zürichstrasse",
     "amenity": "fire_station",
     "name": "Feuerwehr Maur, Hauptdepot",
-    "website": "http://www.feuerwehrmaur.ch/",
+    "website": "https://www.feuerwehrmaur.ch/",
     "id": "node/336313251"
   },
   "geometry": {
@@ -6279,7 +6279,7 @@
     "email": "info@fw-wislig.ch",
     "name": "Feuerwehr Weisslingen",
     "operator": "Gemeinde Weisslingen",
-    "website": "www.fw-wislig.ch",
+    "website": "https://www.fw-wislig.ch/",
     "id": "node/9907054443"
   },
   "geometry": {

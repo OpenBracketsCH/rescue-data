@@ -557,7 +557,7 @@
     "opening_hours": "Mo-Su 11:30-13:30",
     "phone": "+41 79 750 92 93",
     "source": "Bing",
-    "website": "http://www.schule-seegraeben.ch/de/onlineschalter/tagesstrukturen/",
+    "website": "https://www.schule-seegraeben.ch/de/onlineschalter/tagesstrukturen/",
     "id": "way/90896862"
   },
   "geometry": {
@@ -841,7 +841,7 @@
     "name": "Lindenbaum Chinderhuus Pfäffikon",
     "phone": "+41 44 953 33 79",
     "roof:shape": "gabled",
-    "website": "http://www.lindenbaum-chinderhuus.ch/",
+    "website": "https://www.lindenbaum-chinderhuus.ch/",
     "id": "way/96343677"
   },
   "geometry": {
@@ -1863,7 +1863,7 @@
     "building": "school",
     "name": "Tagesbetreuung Arche",
     "operator": "Schulgemeinde Wallisellen",
-    "website": "http://www.schule.wallisellen.ch/",
+    "website": "https://www.schule.wallisellen.ch/",
     "id": "way/185122752"
   },
   "geometry": {
@@ -1909,7 +1909,7 @@
     "min_age": "2",
     "name": "Spielgruppe Spielchischte",
     "phone": "+41 43 399 00 78",
-    "website": "http://www.spielchischte-uster.ch",
+    "website": "https://www.spielchischte-uster.ch/",
     "id": "way/193037015"
   },
   "geometry": {
@@ -3118,7 +3118,7 @@
     "name": "Tageshort Moos",
     "operator": "Primarschule Rüschlikon",
     "phone": "+41 44 724 30 02",
-    "website": "http://www.schulerueschlikon.ch/de/angebote/tagesbetreuung/",
+    "website": "https://www.schulerueschlikon.ch/de/angebote/tagesbetreuung/",
     "id": "way/404158923"
   },
   "geometry": {
@@ -4715,7 +4715,7 @@
     "amenity": "childcare",
     "name": "Tagesstrukturen",
     "phone": "+41 79 466 80 57",
-    "website": "http://www.schule-pfaeffikon.ch",
+    "website": "https://www.schule-pfaeffikon.ch/",
     "id": "node/3726034524"
   },
   "geometry": {
@@ -6939,7 +6939,7 @@
     "amenity": "childcare",
     "name": "Kinderkrippe Einhorn",
     "phone": "+41 78 966 02 22",
-    "website": "http://www.kinderkrippe-einhorn.ch",
+    "website": "https://www.kinderkrippe-einhorn.ch/",
     "id": "node/6746784535"
   },
   "geometry": {
@@ -6992,7 +6992,7 @@
     "email": "hello@kiddieland.ch",
     "name": "KiddieLand",
     "opening_hours": "Mo-Fr 07:00-18:30",
-    "website": "http://www.kiddieland.ch/",
+    "website": "https://www.kiddieland.ch/",
     "id": "node/6991033979"
   },
   "geometry": {
@@ -7553,7 +7553,7 @@
     "name": "PLAYground education",
     "opening_hours": "Mo-Fr 07:00-19:00",
     "phone": "+41 43 399 55 44",
-    "website": "http://playground-edu.ch",
+    "website": "https://www.playground-edu.ch/",
     "id": "node/8568706769"
   },
   "geometry": {
@@ -7702,7 +7702,7 @@
     "level": "1",
     "name": "Fugu",
     "phone": "+41 43 311 66 16",
-    "website": "http://www.kitafugu.ch/",
+    "website": "https://www.kitafugu.ch/",
     "id": "node/8909506524"
   },
   "geometry": {
@@ -11989,7 +11989,7 @@
     "amenity": "childcare",
     "name": "Krippe Schiguna Kronenwiese",
     "phone": "+41 445108470",
-    "website": "http://www.schiguna.ch/",
+    "website": "https://www.schiguna.ch/",
     "id": "node/9892386988"
   },
   "geometry": {

@@ -16025,7 +16025,7 @@
     "phone": "+41 44 941 11 50",
     "school": "primary",
     "school:CH": "primarschule",
-    "website": "http://www.primarschule-uster.ch/de/daten/schuleinheit/puent/",
+    "website": "https://www.primarschule-uster.ch/de/daten/schuleinheit/puent/",
     "id": "way/183204933"
   },
   "geometry": {
@@ -19705,7 +19705,7 @@
     "addr:city": "Wetzikon",
     "addr:country": "CH",
     "addr:housenumber": "29",
-    "addr:postcode": "8620",
+    "addr:postcode": "8623",
     "addr:street": "Baumgartenstrasse",
     "amenity": "kindergarten",
     "building": "yes",
@@ -19868,7 +19868,7 @@
     "addr:city": "Wetzikon",
     "addr:country": "CH",
     "addr:housenumber": "8",
-    "addr:postcode": "8620",
+    "addr:postcode": "8623",
     "addr:street": "Kindergartenstrasse",
     "amenity": "kindergarten",
     "building": "yes",
@@ -29749,7 +29749,7 @@
     "amenity": "kindergarten",
     "name": "Kindergarten Neuwiese",
     "phone": "+41 44 954 07 64; +41 44 954 06 61",
-    "website": "http://www.schulerussikon.ch/de/verwaltung/schulhaeuser/?action=showobject&object_id=1178",
+    "website": "https://www.schulerussikon.ch/de/verwaltung/schulhaeuser/?action=showobject&object_id=1178",
     "id": "way/904375000"
   },
   "geometry": {
@@ -33140,7 +33140,7 @@
     "amenity": "kindergarten",
     "check_date": "2023-05-05",
     "name": "Kinderkrippe Schneeflocke",
-    "website": "http://kinderkrippeschneeflocke.ch/",
+    "website": "https://www.kinderkrippeschneeflocke.ch/",
     "wheelchair": "yes",
     "id": "node/914702928"
   },
@@ -34132,7 +34132,7 @@
     "addr:street": "Im Talacher",
     "amenity": "kindergarten",
     "name": "Kindergarten Talacher",
-    "website": "http://www.wangen-bruettisellen.ch/de/bildung/schulbereiche/welcome.php?action=showobject&object_id=11302",
+    "website": "https://www.wangen-bruettisellen.ch/de/bildung/schulbereiche/welcome.php?action=showobject&object_id=11302",
     "id": "node/2353671263"
   },
   "geometry": {
@@ -34424,7 +34424,7 @@
     "amenity": "kindergarten",
     "name": "Kindergarten Sunneberg",
     "phone": "+41 44 956 55 37",
-    "website": "http://www.schulerussikon.ch/de/verwaltung/schulhaeuser/?action=showobject&object_id=1178",
+    "website": "https://www.schulerussikon.ch/de/verwaltung/schulhaeuser/?action=showobject&object_id=1178",
     "id": "node/3127562923"
   },
   "geometry": {
@@ -35848,7 +35848,7 @@
     "name": "GFZ Kindertagesstätte 4",
     "operator": "Stiftung GFZ",
     "phone": "+41 44 242 63 49",
-    "website": "http://www.gfz-zh.ch/",
+    "website": "https://gfz-zh.ch/",
     "id": "node/5083782441"
   },
   "geometry": {
@@ -36789,7 +36789,7 @@
     "name": "Kindergarten Guggenbühl",
     "operator": "Gemeinde Dietikon",
     "phone": "+41 44 741 00 71",
-    "website": "http://www.schule-dietikon.ch",
+    "website": "https://www.schule-dietikon.ch/",
     "id": "node/6153760991"
   },
   "geometry": {
@@ -38862,7 +38862,7 @@
     "name": "Chrabbelschloss",
     "opening_hours": "Mo-Fr 07:00-18:30",
     "phone": "+41 43 311 55 42",
-    "website": "http://www.chrabelschloss.ch/",
+    "website": "https://www.chrabelschloss.ch/",
     "id": "node/6974669635"
   },
   "geometry": {
@@ -39234,7 +39234,7 @@
     "operator": "Soziale Einrichtungen und Betriebe Stadt Zürich",
     "phone": "+41 44 415 69 66",
     "preschool": "yes",
-    "website": "www.stadt-zuerich.ch/kita-leutschenbach",
+    "website": "https://www.stadt-zuerich.ch/kita-leutschenbach",
     "wheelchair": "yes",
     "id": "node/8532516264"
   },
@@ -39802,7 +39802,7 @@
   "properties": {
     "amenity": "kindergarten",
     "name:en": "Clever Kidz",
-    "website": "http://cleverkidz.ch",
+    "website": "https://www.cleverkidz.ch/",
     "id": "node/9032634717"
   },
   "geometry": {

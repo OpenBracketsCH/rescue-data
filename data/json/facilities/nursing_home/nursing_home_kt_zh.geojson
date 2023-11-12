@@ -2628,7 +2628,7 @@
     "name": "Alterszentrum Sunnetal",
     "social_facility": "group_home",
     "social_facility:for": "senior",
-    "website": "http://www.sunnetal.ch/",
+    "website": "https://www.sunnetal.ch/",
     "id": "way/31311487"
   },
   "geometry": {
@@ -5188,7 +5188,7 @@
     "building": "hospital",
     "building:levels": "3",
     "name": "Wohnstätten Zwyssig",
-    "website": "http://www.wohnstaetten.ch/",
+    "website": "https://www.wohnstaetten.ch/",
     "id": "way/53016124"
   },
   "geometry": {
@@ -12034,7 +12034,7 @@
     "phone": "+41 44 835 71 71",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
-    "website": "http://www.pz-rotacher.ch/",
+    "website": "https://www.pz-rotacher.ch/",
     "id": "way/183425080"
   },
   "geometry": {
@@ -19770,7 +19770,7 @@
     "phone": "+41 44 421 56 56",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
-    "website": "http://www.aventin.ch/",
+    "website": "https://www.aventin.ch/",
     "wheelchair": "yes",
     "id": "way/692245777"
   },
@@ -23886,7 +23886,7 @@
     "operator": "Stiftung Privat-Altersheim Perla",
     "social_facility": "group_home",
     "social_facility:for": "senior",
-    "website": "http://www.perlapark.ch/",
+    "website": "https://www.perlapark.ch/",
     "wheelchair": "yes",
     "id": "node/4942450549"
   },
@@ -23913,7 +23913,7 @@
     "operator": "Verein Altersheime Wiedikon",
     "social_facility": "group_home",
     "social_facility:for": "senior",
-    "website": "http://www.burstwiese.ch/",
+    "website": "https://www.burstwiese.ch/",
     "id": "node/4942450550"
   },
   "geometry": {
@@ -23939,7 +23939,7 @@
     "operator": "Verein Altersheime Wiedikon",
     "social_facility": "group_home",
     "social_facility:for": "senior",
-    "website": "http://www.tiergarten.ch/",
+    "website": "https://www.tiergarten.ch/",
     "id": "node/4942450551"
   },
   "geometry": {
@@ -24243,7 +24243,7 @@
     "name": "Seniorenzentrum in Winterberg",
     "social_facility": "group_home",
     "social_facility:for": "senior",
-    "website": "http://www.lindau.ch/de/infrastruktur/organisationen/?action=showorg&org_id=3172",
+    "website": "https://www.lindau.ch/de/infrastruktur/organisationen/?action=showorg&org_id=3172",
     "wheelchair": "yes",
     "id": "node/5681710884"
   },

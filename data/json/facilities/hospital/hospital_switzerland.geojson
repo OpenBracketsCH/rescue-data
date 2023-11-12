@@ -26976,7 +26976,7 @@
     "name:tr": "Zürih Üniversitesi Hastanesi",
     "phone": "+41 44 255 11 11",
     "short_name": "USZ",
-    "website": "http://www.usz.ch",
+    "website": "https://www.usz.ch/",
     "wheelchair": "yes",
     "wikidata": "Q450139",
     "wikimedia_commons": "Category:Universitätsspital Zürich",
@@ -48101,7 +48101,7 @@
     "healthcare": "doctor",
     "name": "Effingerhort",
     "phone": "+41 (0)62 887 80 80",
-    "website": "http://www.effingerhort.ch/",
+    "website": "https://www.effingerhort.ch/",
     "wikidata": "Q1296214",
     "id": "node/597569466"
   },
@@ -48201,7 +48201,7 @@
     "operator:type": "private",
     "phone": "+41566499949",
     "source": "survey",
-    "website": "http://aadr.ch/",
+    "website": "https://aadr.ch/",
     "id": "node/1916287474"
   },
   "geometry": {
@@ -48684,7 +48684,7 @@
     "name": "Kanghua TCM&Lingua",
     "opening_hours": "Mo-Sa 08:00-19:00",
     "phone": "+41 44 536 35 53",
-    "website": "http://www.kanghua.ch",
+    "website": "https://www.kanghua.ch/",
     "id": "node/4101711789"
   },
   "geometry": {
@@ -50118,7 +50118,7 @@
     "name": "RODIAG Diagnostic Centers Röntgeninstitut",
     "operator": "Rodiag AG",
     "phone": "+41 43 377 40 80",
-    "website": "http://www.rodiag.ch",
+    "website": "https://www.rodiag.ch/",
     "id": "node/6395624435"
   },
   "geometry": {
@@ -51900,7 +51900,7 @@
     "opening_hours": "Mo-Su 08:00-17:30",
     "operator": "Spital Bülach",
     "phone": "+41 43 816 70 00",
-    "website": "http://www.airportmedicalcenter.ch/",
+    "website": "https://www.airportmedicalcenter.ch/",
     "wheelchair": "yes",
     "id": "node/9552076030"
   },

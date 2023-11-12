@@ -4150,7 +4150,7 @@
     "name": "Alterszentrum Sunnetal",
     "social_facility": "group_home",
     "social_facility:for": "senior",
-    "website": "http://www.sunnetal.ch/",
+    "website": "https://www.sunnetal.ch/",
     "id": "way/31311487"
   },
   "geometry": {
@@ -9931,7 +9931,7 @@
     "phone": "+41 43 266 70 10",
     "social_facility": "orphanage",
     "social_facility:for": "orphan",
-    "website": "www.fennergut.ch",
+    "website": "https://www.fennergut.ch/",
     "id": "way/67301918"
   },
   "geometry": {
@@ -18880,7 +18880,7 @@
     "name": "Chinderhuus Sunneschii",
     "operator": "Diakonieverband Ländli",
     "phone": "+41 44 915 15 00",
-    "website": "www.sunneschii.ch",
+    "website": "https://www.sunneschii.ch/",
     "id": "way/153676149"
   },
   "geometry": {
@@ -20205,7 +20205,7 @@
     "phone": "+41 44 835 71 71",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
-    "website": "http://www.pz-rotacher.ch/",
+    "website": "https://www.pz-rotacher.ch/",
     "id": "way/183425080"
   },
   "geometry": {
@@ -34961,7 +34961,7 @@
     "operator": "Caspar Appenzeller- Stiftung",
     "phone": "+41 44 838 45 45",
     "social_facility:for": "juvenile",
-    "website": "http://www.landheim.ch",
+    "website": "https://www.landheim.ch/",
     "id": "way/429524731"
   },
   "geometry": {
@@ -40116,7 +40116,7 @@
     "phone": "+41 44 421 56 56",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
-    "website": "http://www.aventin.ch/",
+    "website": "https://www.aventin.ch/",
     "wheelchair": "yes",
     "id": "way/692245777"
   },
@@ -49010,7 +49010,7 @@
     "operator": "Stiftung Privat-Altersheim Perla",
     "social_facility": "group_home",
     "social_facility:for": "senior",
-    "website": "http://www.perlapark.ch/",
+    "website": "https://www.perlapark.ch/",
     "wheelchair": "yes",
     "id": "node/4942450549"
   },
@@ -49037,7 +49037,7 @@
     "operator": "Verein Altersheime Wiedikon",
     "social_facility": "group_home",
     "social_facility:for": "senior",
-    "website": "http://www.burstwiese.ch/",
+    "website": "https://www.burstwiese.ch/",
     "id": "node/4942450550"
   },
   "geometry": {
@@ -49063,7 +49063,7 @@
     "operator": "Verein Altersheime Wiedikon",
     "social_facility": "group_home",
     "social_facility:for": "senior",
-    "website": "http://www.tiergarten.ch/",
+    "website": "https://www.tiergarten.ch/",
     "id": "node/4942450551"
   },
   "geometry": {
@@ -50007,7 +50007,7 @@
     "phone": "+41 44 515 21 46",
     "social_facility": "workshop",
     "social_facility:for": "disabled",
-    "website": "http://www.holzundkorb.ch/",
+    "website": "https://www.holzundkorb.ch/",
     "id": "node/5297598011"
   },
   "geometry": {
@@ -50414,7 +50414,7 @@
     "name": "Kompetenz-Zentrum Spitex Zürich",
     "social_facility": "ambulatory_care",
     "social_facility:for": "diseased",
-    "website": "http://www.spitex-zuerich.ch/standorte/kompetenz-zentrum-spitex-zuerich/",
+    "website": "https://www.spitex-zuerich.ch/standorte/kompetenz-zentrum-spitex-zuerich/",
     "id": "node/5468999850"
   },
   "geometry": {
@@ -50440,7 +50440,7 @@
     "phone": "+41 44 554 58 58",
     "social_facility": "ambulatory_care",
     "social_facility:for": "diseased",
-    "website": "http://www.spitex-zuerich.ch/standorte/wipkingenindustrie/",
+    "website": "https://www.spitex-zuerich.ch/standorte/wipkingenindustrie/",
     "id": "node/5468999851"
   },
   "geometry": {
@@ -50467,7 +50467,7 @@
     "phone": "+41 44 554 56 56",
     "social_facility": "ambulatory_care",
     "social_facility:for": "diseased",
-    "website": "http://www.spitex-zuerich.ch/standorte/albisrieden/",
+    "website": "https://www.spitex-zuerich.ch/standorte/albisrieden/",
     "id": "node/5468999852"
   },
   "geometry": {
@@ -50493,7 +50493,7 @@
     "phone": "+41 44 554 57 57",
     "social_facility": "ambulatory_care",
     "social_facility:for": "diseased",
-    "website": "http://www.spitex-zuerich.ch/standorte/wiedikonfriesenberg/",
+    "website": "https://www.spitex-zuerich.ch/standorte/wiedikonfriesenberg/",
     "id": "node/5468999853"
   },
   "geometry": {
@@ -50519,7 +50519,7 @@
     "phone": "+41 44 554 59 59",
     "social_facility": "ambulatory_care",
     "social_facility:for": "diseased",
-    "website": "http://www.spitex-zuerich.ch/standorte/engeleimbachwollishofen/",
+    "website": "https://www.spitex-zuerich.ch/standorte/engeleimbachwollishofen/",
     "id": "node/5468999854"
   },
   "geometry": {
@@ -50545,7 +50545,7 @@
     "phone": "+41 58 404 36 36",
     "social_facility": "ambulatory_care",
     "social_facility:for": "diseased",
-    "website": "http://www.spitex-zuerich.ch/standorte/witikon/",
+    "website": "https://www.spitex-zuerich.ch/standorte/witikon/",
     "id": "node/5468999855"
   },
   "geometry": {
@@ -50571,7 +50571,7 @@
     "phone": "+41 58 404 36 36",
     "social_facility": "ambulatory_care",
     "social_facility:for": "diseased",
-    "website": "http://www.spitex-zuerich.ch/standorte/seefeld/",
+    "website": "https://www.spitex-zuerich.ch/standorte/seefeld/",
     "id": "node/5468999856"
   },
   "geometry": {
@@ -50597,7 +50597,7 @@
     "phone": "+41 58 404 36 36",
     "social_facility": "ambulatory_care",
     "social_facility:for": "diseased",
-    "website": "http://www.spitex-zuerich.ch/standorte/aussersihlhard/",
+    "website": "https://www.spitex-zuerich.ch/standorte/aussersihlhard/",
     "id": "node/5468999857"
   },
   "geometry": {
@@ -50623,7 +50623,7 @@
     "phone": "+41 58 404 36 36",
     "social_facility": "ambulatory_care",
     "social_facility:for": "diseased",
-    "website": "http://www.spitex-zuerich.ch/standorte/hoengg/",
+    "website": "https://www.spitex-zuerich.ch/standorte/hoengg/",
     "id": "node/5468999858"
   },
   "geometry": {
@@ -50649,7 +50649,7 @@
     "phone": "+41 58 404 36 36",
     "social_facility": "ambulatory_care",
     "social_facility:for": "diseased",
-    "website": "http://www.spitex-zuerich.ch/standorte/altstetten/",
+    "website": "https://www.spitex-zuerich.ch/standorte/altstetten/",
     "id": "node/5468999859"
   },
   "geometry": {
@@ -50676,7 +50676,7 @@
     "phone": "+41 58 404 36 36",
     "social_facility": "ambulatory_care",
     "social_facility:for": "diseased",
-    "website": "http://www.spitex-zuerich.ch/standorte/affoltern/",
+    "website": "https://www.spitex-zuerich.ch/standorte/affoltern/",
     "id": "node/5468999860"
   },
   "geometry": {
@@ -50703,7 +50703,7 @@
     "phone": "+41 58 404 36 36",
     "social_facility": "ambulatory_care",
     "social_facility:for": "diseased",
-    "website": "http://www.spitex-zuerich.ch/standorte/oerlikonseebach/",
+    "website": "https://www.spitex-zuerich.ch/standorte/oerlikonseebach/",
     "id": "node/5468999861"
   },
   "geometry": {
@@ -50729,7 +50729,7 @@
     "phone": "+41 58 404 36 36",
     "social_facility": "ambulatory_care",
     "social_facility:for": "diseased",
-    "website": "http://www.spitex-zuerich.ch/standorte/schwamendingen/",
+    "website": "https://www.spitex-zuerich.ch/standorte/schwamendingen/",
     "id": "node/5468999862"
   },
   "geometry": {
@@ -50755,7 +50755,7 @@
     "phone": "+41 58 404 36 36",
     "social_facility": "ambulatory_care",
     "social_facility:for": "diseased",
-    "website": "http://www.spitex-zuerich.ch/standorte/rigiplatz/",
+    "website": "https://www.spitex-zuerich.ch/standorte/rigiplatz/",
     "id": "node/5468999863"
   },
   "geometry": {
@@ -50906,7 +50906,7 @@
     "name": "Seniorenzentrum in Winterberg",
     "social_facility": "group_home",
     "social_facility:for": "senior",
-    "website": "http://www.lindau.ch/de/infrastruktur/organisationen/?action=showorg&org_id=3172",
+    "website": "https://www.lindau.ch/de/infrastruktur/organisationen/?action=showorg&org_id=3172",
     "wheelchair": "yes",
     "id": "node/5681710884"
   },
@@ -50974,7 +50974,7 @@
     "opening_hours": "Tu 13:30-16:00",
     "social_facility": "outreach",
     "social_facility:for": "family",
-    "website": "http://familienverein-effretikon.ch/externe/muetterberatung/",
+    "website": "https://familienverein-effretikon.ch/externe/muetterberatung/",
     "id": "node/6102986594"
   },
   "geometry": {
@@ -52476,7 +52476,7 @@
     "name": "Gfellergut Kinder- und Jugendheim",
     "operator": "Stiftung Zürcher Kinder- und Jugendheime",
     "phone": "+41 43 299 33 33",
-    "website": "www.gfellergut.ch",
+    "website": "https://www.gfellergut.ch/",
     "id": "node/8610235197"
   },
   "geometry": {

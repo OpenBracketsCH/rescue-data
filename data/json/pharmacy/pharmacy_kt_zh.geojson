@@ -14,7 +14,7 @@
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
     "roof:levels": "1",
     "roof:shape": "gabled",
-    "website": "http://www.rexapotheke.ch/",
+    "website": "https://www.rexapotheke.ch/",
     "wheelchair": "yes",
     "id": "way/45897846"
   },
@@ -564,7 +564,7 @@
     "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-16:00; Su off",
     "operator": "Rotpunkt Pharma",
     "phone": "+41 44 388 00 50",
-    "website": "http://www.balgrist-apotheke.ch/",
+    "website": "https://www.balgrist-apotheke.ch/",
     "wheelchair": "yes",
     "id": "node/271223620"
   },
@@ -699,7 +699,7 @@
     "name": "Olympia Apotheke",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-17:00",
     "operator": "Rotpunkt Pharma",
-    "website": "http://www.olympia-apotheke.ch/",
+    "website": "https://www.olympia-apotheke.ch/",
     "wheelchair": "yes",
     "id": "node/301815428"
   },
@@ -938,7 +938,7 @@
     "name": "Werd Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-12:30",
     "operator": "Rotpunkt Pharma",
-    "website": "http://www.werd-apotheke.ch/",
+    "website": "https://www.werd-apotheke.ch/",
     "wheelchair": "yes",
     "id": "node/314979529"
   },
@@ -1100,7 +1100,7 @@
     "name": "Schloss",
     "opening_hours": "Mo-Fr 09:00-12:30; Sa 09:00-15:00",
     "phone": "+41 43 444 25 00",
-    "website": "http://www.apotheke-uster.ch",
+    "website": "https://www.apotheke-uster.ch/",
     "id": "node/354489329"
   },
   "geometry": {
@@ -1328,7 +1328,7 @@
     "opening_hours": "Mo-Sa 08:00-20:00",
     "operator": "Rotpunkt Pharma",
     "phone": "+41 44 308 80 10",
-    "website": "http://www.gesundhaus.ch/",
+    "website": "https://www.gesundhaus.ch/",
     "wheelchair": "yes",
     "id": "node/415400006"
   },
@@ -1352,7 +1352,7 @@
     "amenity": "pharmacy",
     "name": "Landhus Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
-    "website": "http://www.landhus-apotheke.ch/",
+    "website": "https://www.landhus-apotheke.ch/",
     "id": "node/415719038"
   },
   "geometry": {
@@ -1808,7 +1808,7 @@
     "name": "Bären-Apotheke",
     "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-17:00",
     "operator": "Rotpunkt Pharma",
-    "website": "http://www.baeren-apotheke.ch/",
+    "website": "https://www.baeren-apotheke.ch/",
     "wheelchair": "yes",
     "id": "node/613667859"
   },
@@ -1835,7 +1835,7 @@
     "name": "Apotheke Altstetten AA1",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
     "operator": "Rotpunkt Pharma",
-    "website": "http://www.aa1.ch/",
+    "website": "https://www.aa1.ch/",
     "id": "node/613704433"
   },
   "geometry": {
@@ -1918,7 +1918,7 @@
     "opening_hours": "Mo-Fr 07:30-18:30; Sa 09:00-17:00",
     "operator": "Rotpunkt Pharma",
     "phone": "+41 44 201 17 25",
-    "website": "http://www.apothekebleiche.ch/",
+    "website": "https://www.apothekebleiche.ch/",
     "wheelchair": "no",
     "id": "node/648956174"
   },
@@ -1994,7 +1994,7 @@
     "old_name": "Apotheke zum Pilgerbrunnen",
     "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-17:00",
     "operator": "Rotpunkt Pharma",
-    "website": "http://www.apotheke-pilgerbrunnen.ch/",
+    "website": "https://www.apotheke-pilgerbrunnen.ch/",
     "wheelchair": "yes",
     "id": "node/659861585"
   },
@@ -2020,7 +2020,7 @@
     "name": "Albis-Apotheke",
     "opening_hours": "Mo-Fr 08:00-12:30,13:15-18:30; Sa 08:00-12:00",
     "operator": "Rotpunkt Pharma",
-    "website": "http://www.albisapotheke.ch/",
+    "website": "https://www.albisapotheke.ch/",
     "wheelchair": "yes",
     "id": "node/660081683"
   },
@@ -2745,7 +2745,7 @@
     "operator": "Rotpunkt Pharma",
     "phone": "+41 44 311 53 33",
     "toilets:wheelchair": "no",
-    "website": "http://www.sternenapo.ch/",
+    "website": "https://www.sternenapo.ch/",
     "wheelchair": "yes",
     "id": "node/926918994"
   },
@@ -2958,7 +2958,7 @@
     "name": "Apotheke am Kreuzplatz",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:30-17:00",
     "operator": "Rotpunkt Pharma",
-    "website": "http://www.haut-und-ernaehrung.ch/apotheke-am-kreuzplatz/",
+    "website": "https://www.haut-und-ernaehrung.ch/apotheke-am-kreuzplatz/",
     "wheelchair": "yes",
     "id": "node/1346131970"
   },
@@ -3012,7 +3012,7 @@
     "name": "Klus-Apotheke",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
     "operator": "Rotpunkt Pharma",
-    "website": "http://www.klus-apotheke.ch/",
+    "website": "https://www.klus-apotheke.ch/",
     "id": "node/1359733090"
   },
   "geometry": {
@@ -3207,7 +3207,7 @@
     "name": "Fontana Apotheke",
     "old_name": "Apotheke am Bullingerplatz",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-16:00",
-    "website": "http://www.fontanaapotheke.ch/",
+    "website": "https://www.fontanaapotheke.ch/",
     "wheelchair": "yes",
     "id": "node/1413703407"
   },
@@ -3274,7 +3274,7 @@
     "name": "Lochergut Apotheke",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-18:00",
     "operator": "Rotpunkt Pharma",
-    "website": "http://www.lochergutapotheke.ch/",
+    "website": "https://www.lochergutapotheke.ch/",
     "wheelchair": "yes",
     "id": "node/1545780608"
   },
@@ -3491,7 +3491,7 @@
     "name:de": "Apotheke Affoltern",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
     "phone": "+41 44 371 25 33",
-    "website": "http://www.apothekeaffoltern.ch/",
+    "website": "https://www.apothekeaffoltern.ch/",
     "wheelchair": "yes",
     "id": "node/1687796033"
   },
@@ -3545,7 +3545,7 @@
     "operator": "Rotpunkt Pharma",
     "phone": "+41 44 730 59 89",
     "toilets:wheelchair": "yes",
-    "website": "http://www.apolilie-zentrum.ch/",
+    "website": "https://www.apolilie-zentrum.ch/",
     "wheelchair": "yes",
     "id": "node/1758460159"
   },
@@ -4275,7 +4275,7 @@
     "name": "Drogerie Teufer",
     "opening_hours": "Mo-Th 08:00-18:30; Fr 08:00-19:00; Sa 08:00-17:00",
     "shop": "chemist",
-    "website": "http://www.drogerieteufer.ch",
+    "website": "https://www.drogerieteufer.ch/",
     "wheelchair": "yes",
     "id": "node/2613296079"
   },
@@ -4547,7 +4547,7 @@
     "name": "Apotheke Lintheschergasse",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-18:00",
     "operator": "Rotpunkt Pharma",
-    "website": "http://www.pharmaservice.ch/",
+    "website": "https://www.pharmaservice.ch/",
     "wheelchair": "yes",
     "id": "node/3324778715"
   },
@@ -4694,7 +4694,7 @@
     "operator": "Rotpunkt Pharma",
     "phone": "+41 44 741 59 89",
     "toilets:wheelchair": "yes",
-    "website": "http://www.apotheke-parkside.ch/",
+    "website": "https://www.apotheke-parkside.ch/",
     "wheelchair": "yes",
     "id": "node/3681157582"
   },
@@ -4819,7 +4819,7 @@
     "payment:visa": "yes",
     "phone": "+41 44 720 06 92",
     "source": "local knowledge",
-    "website": "http://www.apotheke-thalwil.ch",
+    "website": "https://www.apotheke-thalwil.ch/",
     "wheelchair": "yes",
     "id": "node/3815185876"
   },
@@ -5229,7 +5229,7 @@
     "healthcare": "pharmacy",
     "name": "Drogerie Apotheke am Stadtplatz",
     "opening_hours": "Mo-Fr 09:00-18:30, Sa 09:00-16:00",
-    "website": "http://www.am-stadtplatz.ch/",
+    "website": "https://www.am-stadtplatz.ch/",
     "wheelchair": "yes",
     "id": "node/4734683647"
   },
@@ -5737,7 +5737,7 @@
     "operator": "Rotpunkt Pharma",
     "phone": "+41 44 463 15 33",
     "shop": "chemist",
-    "website": "http://www.triemli-apotheke.ch/",
+    "website": "https://www.triemli-apotheke.ch/",
     "id": "node/4838594398"
   },
   "geometry": {
@@ -5785,7 +5785,7 @@
     "healthcare": "pharmacy",
     "name": "Apotheke Fluntern",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-16:00",
-    "website": "http://www.apothekefluntern-zuerich.ch/",
+    "website": "https://www.apothekefluntern-zuerich.ch/",
     "id": "node/4847919195"
   },
   "geometry": {
@@ -5809,7 +5809,7 @@
     "check_date:opening_hours": "2021-06-09",
     "name": "Pelikan Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-17:00",
-    "website": "http://www.pelikan-apotheke.ch",
+    "website": "https://www.pelikan-apotheke.ch/",
     "wheelchair": "limited",
     "id": "node/4848816877"
   },
@@ -6241,7 +6241,7 @@
     "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-17:00; PH closed",
     "operator": "Rotpunkt Pharma",
     "phone": "+41 44 211 77 22",
-    "website": "http://www.waldegg-apotheke.ch/",
+    "website": "https://www.waldegg-apotheke.ch/",
     "wheelchair": "yes",
     "id": "node/6445018251"
   },
@@ -6777,7 +6777,7 @@
     "name": "Victoria Apotheke",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa,Su 10:00-17:00",
     "phone": "+41 44 259 80 80",
-    "website": "http://www.victoria-apotheke.ch/",
+    "website": "https://www.victoria-apotheke.ch/",
     "wheelchair": "yes",
     "id": "node/7967037966"
   },

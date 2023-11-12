@@ -2102,7 +2102,7 @@
     "opening_hours": "Mo-Fr 08:00-11:30, 13:30-16:30",
     "operator": "Stadt Dübendorf",
     "phone": "+41 44 801 69 00",
-    "website": "http://www.duebendorf.ch",
+    "website": "https://www.duebendorf.ch/",
     "wheelchair": "no",
     "id": "node/563313615"
   },
@@ -4223,7 +4223,7 @@
     "name": "Polizeiposten Gemeindepolizei Bassersdorf",
     "operator": "Stadt Bassersdorf",
     "phone": "+41 44 838 86 30",
-    "website": "www.bassersdorf.ch",
+    "website": "https://www.bassersdorf.ch/",
     "id": "node/9512519338"
   },
   "geometry": {
