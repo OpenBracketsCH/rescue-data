@@ -852,7 +852,10 @@
   "properties": {
     "amenity": "school",
     "name": "Schule Neuhegi",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "type": "multipolygon",
+    "website": "https://www.schule-neuhegi.ch/",
     "id": "relation/9185649"
   },
   "geometry": {
@@ -36875,7 +36878,9 @@
   "properties": {
     "amenity": "school",
     "name": "Schule Hegifeld",
-    "website": "https://www.schule-hegi.ch/",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schulehegi.ch/",
     "id": "way/109298074"
   },
   "geometry": {
@@ -37564,7 +37569,10 @@
   "id": "way/112363350",
   "properties": {
     "amenity": "school",
-    "name": "Tagesschule Hegi Dorf",
+    "name": "Schulhaus Hegi Dorf",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schulehegi.ch/unsere-schule/schulhaeuser/hegi-dorf/p-131/",
     "id": "way/112363350"
   },
   "geometry": {
@@ -45227,7 +45235,8 @@
   "properties": {
     "amenity": "school",
     "name": "Schule Tägelmoos",
-    "operator": "Schule Tägelmoos",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "website": "https://www.taegelmoos.ch/",
     "id": "way/139975268"
   },
@@ -55042,6 +55051,9 @@
   "properties": {
     "amenity": "school",
     "name": "Schule Steinacker",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://www.schule-steinacker-seen.ch/",
     "id": "way/172341987"
   },
   "geometry": {

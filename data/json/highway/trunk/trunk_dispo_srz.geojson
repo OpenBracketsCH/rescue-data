@@ -10319,6 +10319,7 @@
     "highway": "trunk",
     "int_ref": "E 41",
     "lanes": "2",
+    "lit": "no",
     "maxheight": "default",
     "maxspeed": "80",
     "motorroad": "yes",

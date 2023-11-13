@@ -11249,6 +11249,64 @@
 },
 {
   "type": "Feature",
+  "id": "way/109298062",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "8a",
+    "addr:postcode": "8404",
+    "addr:street": "Hobelwerkweg",
+    "amenity": "kindergarten",
+    "building": "school",
+    "building:roof": "flat",
+    "name": "Kindergarten Hegifeld",
+    "id": "way/109298062"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7629743,
+          47.5081564
+        ],
+        [
+          8.7628242,
+          47.5081347
+        ],
+        [
+          8.7628159,
+          47.5081612
+        ],
+        [
+          8.7627698,
+          47.5081545
+        ],
+        [
+          8.7627784,
+          47.5081274
+        ],
+        [
+          8.7626372,
+          47.508107
+        ],
+        [
+          8.7626685,
+          47.5080084
+        ],
+        [
+          8.7630057,
+          47.5080571
+        ],
+        [
+          8.7629743,
+          47.5081564
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/110887668",
   "properties": {
     "addr:city": "Uster",
@@ -13013,7 +13071,8 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindergarten Waldegg",
-    "operator": "Schule Steinacker",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/132615326"
   },
   "geometry": {
@@ -13749,7 +13808,8 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindergarten Sonnenfeld",
-    "operator": "Schule Tägelmos",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/139975269"
   },
   "geometry": {
@@ -21890,7 +21950,8 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindergarten Hinterdorf",
-    "operator": "Schule Steinacker",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/237882010"
   },
   "geometry": {
@@ -22007,7 +22068,8 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindergarten Sülacker",
-    "operator": "Schule Tägelmos",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/238265050"
   },
   "geometry": {
@@ -22068,7 +22130,8 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindergarten Wingertli",
-    "operator": "Schule Tägelmos",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "way/238265051"
   },
   "geometry": {
@@ -37243,6 +37306,48 @@
 },
 {
   "type": "Feature",
+  "id": "way/1222908274",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Hegi Im Gern",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "id": "way/1222908274"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7797052,
+          47.5038165
+        ],
+        [
+          8.7794676,
+          47.5038716
+        ],
+        [
+          8.7791469,
+          47.5039331
+        ],
+        [
+          8.7790447,
+          47.5036507
+        ],
+        [
+          8.7794906,
+          47.5035597
+        ],
+        [
+          8.7797052,
+          47.5038165
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",
@@ -47495,6 +47600,8 @@
     "addr:street": "Reismühleweg",
     "amenity": "kindergarten",
     "name": "Kindergarten Reismühle",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
     "id": "node/9757069408"
   },
   "geometry": {
