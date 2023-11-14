@@ -28615,6 +28615,91 @@
 },
 {
   "type": "Feature",
+  "id": "way/1100556528",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "2",
+    "addr:place": "Im Stockenhof",
+    "addr:postcode": "8105",
+    "amenity": "social_facility",
+    "building": "yes",
+    "contact:email": "stockenhof@senevita.ch",
+    "contact:phone": "+41 43 343 78 00",
+    "contact:website": "https://www.senevita.ch/de/standorte/betreutes-wohnen-stockenhof/",
+    "name": "Senevita Stockenhof",
+    "operator": "Senevita Gruppe",
+    "operator:type": "private",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "wheelchair": "yes",
+    "id": "way/1100556528"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4707212,
+          47.4326049
+        ],
+        [
+          8.4704785,
+          47.4326149
+        ],
+        [
+          8.4704818,
+          47.4326507
+        ],
+        [
+          8.4703692,
+          47.4326554
+        ],
+        [
+          8.4703683,
+          47.4326451
+        ],
+        [
+          8.4702902,
+          47.4326483
+        ],
+        [
+          8.4702684,
+          47.4324065
+        ],
+        [
+          8.4707235,
+          47.4323876
+        ],
+        [
+          8.4707276,
+          47.4324329
+        ],
+        [
+          8.4708061,
+          47.4324297
+        ],
+        [
+          8.4708118,
+          47.4324931
+        ],
+        [
+          8.4709006,
+          47.4324894
+        ],
+        [
+          8.4709103,
+          47.4325962
+        ],
+        [
+          8.4707212,
+          47.4326049
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1100832765",
   "properties": {
     "addr:city": "Glattbrugg",
@@ -32364,27 +32449,6 @@
     "coordinates": [
       8.5283638,
       47.3718636
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11259714071",
-  "properties": {
-    "amenity": "social_facility",
-    "name": "Senevita Stockenhof",
-    "operator": "Senevita Gruppe",
-    "operator:type": "private",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "wheelchair": "yes",
-    "id": "node/11259714071"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4708232,
-      47.4325418
     ]
   }
 }
