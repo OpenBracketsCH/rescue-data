@@ -5189,8 +5189,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6187771,
-      47.4227364
+      8.6187655,
+      47.4227487
     ]
   }
 },
@@ -5759,6 +5759,7 @@
     "addr:street": "Zürichbergstrasse",
     "amenity": "pharmacy",
     "brand": "Fortis",
+    "check_date": "2023-11-14",
     "name": "Apotheke Zürichberg",
     "opening_hours": "Mo-Fr 08:00-18:30, Sa 08:00-16:00",
     "website": "https://www.apothekezuerichberg.ch/",

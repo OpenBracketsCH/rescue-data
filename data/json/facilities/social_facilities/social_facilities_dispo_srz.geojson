@@ -53743,6 +53743,33 @@
 },
 {
   "type": "Feature",
+  "id": "node/9186576388",
+  "properties": {
+    "addr:city": "Baar",
+    "addr:housenumber": "4a",
+    "addr:postcode": "6340",
+    "addr:street": "Poststrasse",
+    "alt_name": "Zuger Opiat-​Abgabe;Drogenabgabestelle",
+    "amenity": "social_facility",
+    "email": "geschaeftsstelle@drogenforumzug.ch",
+    "healthcare": "doctor",
+    "name": "HeGeBe ZOPA",
+    "opening_hours": "Mo-Fr 07:15-09:00,16:30-18:30; Sa,Su 08:00-11:00",
+    "phone": "+41 41 728 25 10",
+    "social_facility": "outreach",
+    "website": "https://www.zg.ch/behoerden/weitere-organisationen/drogenforum-zug/hegebe-zopa",
+    "id": "node/9186576388"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5242914,
+      47.1945368
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9274664052",
   "properties": {
     "addr:city": "Thalwil",
