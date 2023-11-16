@@ -3406,11 +3406,6 @@
   "type": "Feature",
   "id": "node/6651575501",
   "properties": {
-    "addr:city": "Muotathal",
-    "addr:country": "CH",
-    "addr:housenumber": "27",
-    "addr:postcode": "6436",
-    "addr:street": "Hauptstrasse",
     "amenity": "police",
     "name": "Polizeiposten Muotathal",
     "operator": "Kantonspolizei Schwyz",

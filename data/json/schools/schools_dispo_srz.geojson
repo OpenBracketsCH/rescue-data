@@ -87074,6 +87074,7 @@
   "properties": {
     "addr:city": "Riemenstalden",
     "addr:housenumber": "3",
+    "addr:place": "Käppeliberg",
     "addr:postcode": "6452",
     "addr:street": "Käppeliberg",
     "amenity": "school",
