@@ -13366,10 +13366,11 @@
   "id": "node/8557121976",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Sanitäter Raum, beim Bademeister melden",
+    "defibrillator:location": "Strandbad, Sanitäter Raum, Beim Bademeister melden",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "opening_hours": "Tu-Su 09:00-21:00",
     "operator": "Gemeinde Männedorf, Facility Management",
     "phone": "+41 44 921 67 69",
     "id": "node/8557121976"
@@ -13387,7 +13388,7 @@
   "id": "node/8557121977",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Treppenhaus, EG",
+    "defibrillator:location": "Gemeinde Männedorf, Werkgebäude, Treppenhaus EG",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -13410,7 +13411,7 @@
   "id": "node/8557121978",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Im Treppenhaus, EG",
+    "defibrillator:location": "Gemeindehaus, Treppenhaus EG",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -15572,7 +15573,7 @@
   "id": "node/8574099763",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Treppenhaus EG",
+    "defibrillator:location": "Gemeindesaal, Treppenhaus EG",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -48064,32 +48065,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10910676159",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Treppenhaus Nord, 2.OG",
-    "description": "oranger Koffer",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "latitude": "47.40019697",
-    "longitude": "8.438441012",
-    "name": "Louis Widmer AG",
-    "opening_hours": "Mo-Fr 08:00-12:00,13:30-17:00",
-    "operator": "Lifetec AG Schweiz",
-    "phone": "0800 122 144",
-    "id": "node/10910676159"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.438441,
-      47.400197
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10910676160",
   "properties": {
     "access": "yes",
@@ -52574,6 +52549,56 @@
     "coordinates": [
       8.8198543,
       47.2758952
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11353784669",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "in der Apotheke",
+    "description": "während den Apothekenöffnungszeiten, Siehe Website www.apotheke-thalwil.ch",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Central-Apotheke Thalwil AG",
+    "phone": "+41 44 720 06 92",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11353784669"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5648513,
+      47.2949378
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11355728069",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Reformierte Kirche Zürich Leimbach",
+    "description": "Während der Öffnungszeiten zugänglich.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo - Su 08:00 - 17:00",
+    "operator": "Evang. -ref. Kirchgemeinde Zürich",
+    "phone": "+41 44 481 27 17",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11355728069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5161093,
+      47.3328787
     ]
   }
 }
