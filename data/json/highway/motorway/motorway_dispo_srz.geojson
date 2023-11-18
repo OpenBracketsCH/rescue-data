@@ -27207,7 +27207,6 @@
   "id": "way/51220368",
   "properties": {
     "alt_name": "Anschluss Brüttisellen",
-    "destination": "St. Gallen;Schaffhausen;Uster|Zürich;Flughafen",
     "destination:lanes": "St. Gallen;Schaffhausen;Uster|Zürich;Flughafen",
     "highway": "motorway",
     "lanes": "2",
