@@ -33669,6 +33669,7 @@
     "addr:street": "Schürrainweg",
     "amenity": "school",
     "building": "school",
+    "layer": "-2",
     "name": "Schulhaus und Kindergarten Kalktarren",
     "start_date": "1970",
     "id": "way/114025604"
