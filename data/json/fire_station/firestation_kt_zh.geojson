@@ -3456,47 +3456,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/202055788",
-  "properties": {
-    "addr:city": "Hittnau",
-    "addr:housenumber": "48",
-    "addr:postcode": "8335",
-    "addr:street": "Jakob Stutz-Strasse",
-    "amenity": "fire_station",
-    "building": "yes",
-    "name": "Feuerwehr Hittnau",
-    "id": "way/202055788"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.8246133,
-          47.3665439
-        ],
-        [
-          8.8244099,
-          47.3665061
-        ],
-        [
-          8.8246654,
-          47.3658818
-        ],
-        [
-          8.824873,
-          47.3659215
-        ],
-        [
-          8.8246133,
-          47.3665439
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/224779704",
   "properties": {
     "addr:city": "Hedingen",
@@ -6444,6 +6403,24 @@
     "coordinates": [
       8.5367952,
       47.417612
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11361638785",
+  "properties": {
+    "amenity": "fire_station",
+    "emergency:phone": "118",
+    "name": "Feuerwehr Hittnau",
+    "website": "https://www.fwhittnau.ch/",
+    "id": "node/11361638785"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8246742,
+      47.366147
     ]
   }
 }

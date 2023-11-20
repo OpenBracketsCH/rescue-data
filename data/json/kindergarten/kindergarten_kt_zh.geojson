@@ -818,7 +818,8 @@
   "properties": {
     "amenity": "kindergarten",
     "building": "yes",
-    "name": "Kinderkrippe",
+    "check_date": "2023-11-19",
+    "name": "Kinderkrippe Zauberloki",
     "id": "way/23794636"
   },
   "geometry": {

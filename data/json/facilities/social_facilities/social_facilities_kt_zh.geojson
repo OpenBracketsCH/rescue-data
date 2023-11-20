@@ -12227,9 +12227,10 @@
     "addr:housenumber": "21",
     "addr:postcode": "8625",
     "addr:street": "Laufenbachstrasse",
+    "alt_name": "Pflege- und Betreuungszentrum Rosengarten",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Alters & Pflegeheim Rosengarten",
+    "name": "Alters- und Pflegeheim Rosengarten",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "wheelchair": "yes",
@@ -45937,6 +45938,28 @@
     "coordinates": [
       8.5177898,
       47.3747969
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11361594777",
+  "properties": {
+    "amenity": "social_facility",
+    "mail": "info@spitex-bachtel.ch",
+    "name": "Spitex Bachtel / Zentrum Gossau",
+    "office": "nursing_service",
+    "operator": "Spitex Bachtel",
+    "phone": "044 576 00 04",
+    "social_facility": "ambulatory_care",
+    "website": "https://www.spitex-bachtel.ch",
+    "id": "node/11361594777"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7585168,
+      47.3068965
     ]
   }
 }
