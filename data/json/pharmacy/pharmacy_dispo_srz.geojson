@@ -4916,6 +4916,7 @@
     "addr:street": "Nansenstrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date": "2023-11-20",
     "dispensing": "yes",
     "name": "Apotheke & Drogerie Oerlikon",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",

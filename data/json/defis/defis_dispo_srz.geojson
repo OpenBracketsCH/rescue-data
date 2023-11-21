@@ -3003,27 +3003,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6976938403",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Reformierte Kirche",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "opening_hours": "24/7",
-    "operator": "Rettungsdienst Küssnacht",
-    "phone": "+41 79 101 93 00",
-    "id": "node/6976938403"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4435242,
-      47.0812403
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6976938404",
   "properties": {
     "access": "yes",
@@ -7508,26 +7487,6 @@
     "coordinates": [
       8.44121,
       47.0834866
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7637818881",
-  "properties": {
-    "access": "yes",
-    "description": "Aussen an Kirche",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "name": "Reformierte Kirche",
-    "opening_hours": "24/7",
-    "id": "node/7637818881"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4434595,
-      47.081245
     ]
   }
 },
@@ -33154,19 +33113,19 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Erdgeschoss im Treppenhaus zur Bibliothek",
-    "description": "während Öffnungszeiten verfügbar",
+    "description": "während Öffnungszeiten oder Anlässe im Gemeindesaal verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Gemeindeverwaltung Steinhausen",
-    "phone": "+41 41 748 11 06",
+    "phone": "+41 41 748 11 55",
     "id": "node/9112938930"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4835079,
-      47.1962339
+      8.4834736,
+      47.1964293
     ]
   }
 },
@@ -58146,8 +58105,6 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "latitude": "47.37755",
-    "longitude": "8.5327",
     "name": "Zürcher Hochschule für Angewandte Wissenschaften",
     "opening_hours": "Mo-Fr 07:00-19:00, Sa 07:00-14:00",
     "operator": "Lifetec AG Schweiz",
@@ -58157,8 +58114,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5327,
-      47.37755
+      8.5327339,
+      47.3776485
     ]
   }
 },
@@ -69835,31 +69792,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11358377069",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "DHL GLOBAL FORWARDING SCHWEIZ AG",
-    "description": "OPEN DURING WORKING HOURS, not during Lunch Break from 12:00-13:30 !",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "4",
-    "opening_hours": "8:30-17:00",
-    "operator": "RECEPTION DESK",
-    "phone": "+41325290463",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/11358377069"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5809124,
-      47.4526288
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11358394369",
   "properties": {
     "access": "yes",
@@ -69902,6 +69834,173 @@
     "coordinates": [
       8.5974081,
       47.2585948
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11363932369",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Tagesschule Wetzwil",
+    "description": "während den Schulzeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "8:00-17:00",
+    "operator": "Schule Herrliberg",
+    "phone": "+41582118510",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11363932369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6260968,
+      47.2971244
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11363932372",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Quellenhof-Stiftung, Welsikerstrasse 5",
+    "description": "Gleich bei der Küche",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "24/7",
+    "operator": "Quellenhof-Stiftung, 8404 Winterthur",
+    "phone": "+41523362380",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11363932372"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7688601,
+      47.5549854
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11363941469",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhausstrasse 39",
+    "description": "während den Schulzeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "08:00 - 17:00 ",
+    "operator": "Gemeinsame Sekundarchule Herrliberg/Erlenbach",
+    "phone": "+41582118000",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11363941469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6129701,
+      47.2882611
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11363987069",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Rebacker C - Turnhalle Rebacker C",
+    "description": "während den Schulzeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "08:00 - 17:00",
+    "operator": "Schule Herrliberg",
+    "phone": "+41 58 211 85 10",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11363987069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.613807,
+      47.2880137
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11364165828",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "beim Buswartehäuschen",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Schlieren",
+    "phone": "+41 44 738 15 08",
+    "id": "node/11364165828"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4394253,
+      47.4007605
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11364235570",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Sportanlage Langacker",
+    "description": "an der Fassade beim Ping-Pongtisch",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Herrliberg",
+    "phone": "+41 44 915 19 89",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11364235570"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6136145,
+      47.2930131
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11364235574",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Sportanlage Langacker Sanitätszimmer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Gemeinde Herrliberg",
+    "phone": "+41 44 915 19 89",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11364235574"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6140209,
+      47.293064
     ]
   }
 }
