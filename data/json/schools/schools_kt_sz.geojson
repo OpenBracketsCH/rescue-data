@@ -1507,6 +1507,10 @@
   "type": "Feature",
   "id": "way/163120147",
   "properties": {
+    "addr:city": "Küssnacht am Rigi",
+    "addr:housenumber": "18",
+    "addr:postcode": "6403",
+    "addr:street": "Seemattweg",
     "amenity": "school",
     "building": "yes",
     "id": "way/163120147"
@@ -4005,7 +4009,7 @@
   "type": "Feature",
   "id": "way/204636257",
   "properties": {
-    "addr:city": "Küssnacht (SZ)",
+    "addr:city": "Küssnacht am Rigi",
     "addr:housenumber": "67",
     "addr:postcode": "6403",
     "addr:street": "Oberdorf",
@@ -4046,7 +4050,7 @@
   "type": "Feature",
   "id": "way/204636264",
   "properties": {
-    "addr:city": "Küssnacht (SZ)",
+    "addr:city": "Küssnacht am Rigi",
     "addr:housenumber": "65",
     "addr:postcode": "6403",
     "addr:street": "Oberdorf",
@@ -7649,12 +7653,12 @@
           47.0932376
         ],
         [
-          8.4540475,
-          47.0932778
+          8.4540441,
+          47.0932801
         ],
         [
-          8.4539771,
-          47.0934183
+          8.4539808,
+          47.0934155
         ],
         [
           8.453697,
@@ -7669,24 +7673,28 @@
           47.0931722
         ],
         [
-          8.4537251,
-          47.0929431
+          8.4536743,
+          47.0931887
         ],
         [
-          8.4536184,
-          47.0929183
+          8.4537979,
+          47.0929339
         ],
         [
-          8.4536976,
-          47.0927603
+          8.4536249,
+          47.0928893
         ],
         [
-          8.4539932,
-          47.092829
+          8.4537004,
+          47.0927388
         ],
         [
-          8.4540227,
-          47.0927702
+          8.4540161,
+          47.092818
+        ],
+        [
+          8.4540402,
+          47.0927757
         ],
         [
           8.4540641,
@@ -8239,7 +8247,7 @@
   "id": "way/356910811",
   "properties": {
     "addr:city": "Küssnacht am Rigi",
-    "addr:housenumber": "1",
+    "addr:housenumber": "16",
     "addr:postcode": "6403",
     "addr:street": "Seemattweg",
     "amenity": "school",

@@ -1236,16 +1236,24 @@
           47.0762804
         ],
         [
-          8.4372664,
-          47.0763381
+          8.4372544,
+          47.0763333
         ],
         [
-          8.4373716,
-          47.0762165
+          8.4373456,
+          47.0762278
         ],
         [
-          8.4373063,
-          47.0761903
+          8.4373247,
+          47.0762194
+        ],
+        [
+          8.4373462,
+          47.0761946
+        ],
+        [
+          8.4373138,
+          47.0761816
         ],
         [
           8.4373755,
@@ -1647,7 +1655,9 @@
   "type": "Feature",
   "id": "way/630758120",
   "properties": {
+    "addr:city": "Immensee",
     "addr:housenumber": "15",
+    "addr:postcode": "6405",
     "addr:street": "Immo-Strasse",
     "amenity": "social_facility",
     "building": "yes",
@@ -2447,10 +2457,6 @@
   "type": "Feature",
   "id": "node/9427624010",
   "properties": {
-    "addr:city": "Immensee",
-    "addr:housenumber": "15",
-    "addr:postcode": "6405",
-    "addr:street": "Immo-Strasse",
     "amenity": "social_facility",
     "name": "Alters- und Pflegeheim Sunnehof",
     "operator": "Der Bezirk Küssnacht ist Träger des Sunnehofs",

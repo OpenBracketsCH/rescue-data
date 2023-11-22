@@ -45,8 +45,10 @@
   "id": "way/28858109",
   "properties": {
     "aeroway": "helipad",
-    "description": "Helipad Lions1 Rescue Helicopter",
+    "description": "Helipad  Lions1 Rescue Helicopter",
     "name": "Lions 1",
+    "operator": "Lions1 Rescue Helicopter",
+    "surface": "asphalt",
     "id": "way/28858109"
   },
   "geometry": {

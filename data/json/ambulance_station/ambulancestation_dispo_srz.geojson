@@ -916,7 +916,6 @@
   "type": "Feature",
   "id": "node/9710403481",
   "properties": {
-    "addr:city": "Küssnacht am Rigi",
     "addr:housenumber": "54",
     "addr:postcode": "6403",
     "addr:street": "Oberdorf",
