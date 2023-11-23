@@ -37039,9 +37039,11 @@
   "type": "Feature",
   "id": "way/677015081",
   "properties": {
-    "amenity": "hospital",
+    "amenity": "clinic",
     "description": "Psychiatrische Dienste Graubünden",
     "email": "info@pdgr.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "psychiatry",
     "name": "Klinik Beverin Cazis",
     "phone": "+41 58 225 35 35",
     "website": "https://www.pdgr.ch/Klinik-Beverin-Cazis.538.0.html",

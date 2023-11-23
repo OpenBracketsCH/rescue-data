@@ -21390,8 +21390,8 @@
     "addr:postcode": "8303",
     "addr:street": "Auenring",
     "amenity": "kindergarten",
-    "building": "kindergarten",
     "building:roof": "flat",
+    "demolished:building": "kindergarten",
     "name": "Kindergarten Auenring 1+2",
     "id": "way/225999818"
   },
@@ -29223,6 +29223,7 @@
   "id": "way/425905494",
   "properties": {
     "amenity": "kindergarten",
+    "landuse": "construction",
     "name": "Kindergarten Auenring",
     "id": "way/425905494"
   },

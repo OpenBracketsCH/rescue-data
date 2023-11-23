@@ -69780,7 +69780,7 @@
     "defibrillator:location": "Beim Ausflugsrestaurant Berg direkt links neben dem Eingang an der Wand montiert",
     "description": "24h verfügbar",
     "emergency": "defibrillator",
-    "emergency_phone": "144",
+    "emergency:phone": "144",
     "indoor": "no",
     "level": "0",
     "opening_hours": "24/7",
@@ -70024,6 +70024,52 @@
     "coordinates": [
       8.6140209,
       47.293064
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11368334970",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Mökah Ag Aspstrasse 3 Oberglatt ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "667452",
+    "opening_hours": "24/7",
+    "operator": "667452",
+    "id": "node/11368334970"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5018353,
+      47.4813392
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11369384969",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bäretswilerstrasse 28, 8340 Hinwil",
+    "description": "Einfahrt Tiefgarage",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "operator": "Privat",
+    "phone": "+41 79 834 69 32",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11369384969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8534784,
+      47.3163156
     ]
   }
 }
