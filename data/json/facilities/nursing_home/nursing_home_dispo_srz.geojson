@@ -5045,52 +5045,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/47033490",
-  "properties": {
-    "addr:city": "Oberembrach",
-    "addr:housenumber": "16",
-    "addr:postcode": "8425",
-    "addr:street": "Sonnenbühl",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Durchgangszentrum Sonnenbühl",
-    "operator": "ORS Service AG",
-    "phone": "+41 44 576 16 13",
-    "social_facility": "group_home",
-    "social_facility:for": "migrant",
-    "website": "https://www.schule-oberembrach.ch/cms/sonnenbuehl-dz",
-    "id": "way/47033490"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6586403,
-          47.4909256
-        ],
-        [
-          8.6590488,
-          47.4907842
-        ],
-        [
-          8.6591196,
-          47.4908777
-        ],
-        [
-          8.6587111,
-          47.491019
-        ],
-        [
-          8.6586403,
-          47.4909256
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/47248898",
   "properties": {
     "addr:city": "Andelfingen",
@@ -29961,74 +29915,6 @@
         [
           8.5302321,
           47.4108063
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/1171513992",
-  "properties": {
-    "addr:city": "Zollikon",
-    "addr:country": "CH",
-    "addr:housenumber": "11",
-    "addr:postcode": "8702",
-    "addr:street": "Buchholzstrasse",
-    "amenity": "social_facility",
-    "building": "apartments",
-    "name": "Durchgangszentrum Buchholz",
-    "social_facility": "group_home",
-    "social_facility:for": "migrant",
-    "id": "way/1171513992"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5749533,
-          47.3398747
-        ],
-        [
-          8.5750308,
-          47.3398943
-        ],
-        [
-          8.5750818,
-          47.3397959
-        ],
-        [
-          8.5751168,
-          47.3398047
-        ],
-        [
-          8.5751187,
-          47.3398014
-        ],
-        [
-          8.5751876,
-          47.3398194
-        ],
-        [
-          8.5750716,
-          47.3400385
-        ],
-        [
-          8.5746574,
-          47.3399365
-        ],
-        [
-          8.5747057,
-          47.3398468
-        ],
-        [
-          8.5749381,
-          47.3399038
-        ],
-        [
-          8.5749533,
-          47.3398747
         ]
       ]
     ]

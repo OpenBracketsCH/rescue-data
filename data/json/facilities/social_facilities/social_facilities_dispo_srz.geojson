@@ -3844,6 +3844,91 @@
 },
 {
   "type": "Feature",
+  "id": "way/28943550",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "29",
+    "addr:postcode": "8004",
+    "addr:street": "Kasernenstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Durchgangszentrum Polizeikaserne",
+    "short_name": "DZ Pollizeikaserne",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
+    "id": "way/28943550"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5318994,
+          47.3751703
+        ],
+        [
+          8.531739,
+          47.3750131
+        ],
+        [
+          8.5318421,
+          47.3749646
+        ],
+        [
+          8.531837,
+          47.3749586
+        ],
+        [
+          8.5321541,
+          47.3748097
+        ],
+        [
+          8.5321598,
+          47.3748154
+        ],
+        [
+          8.5322628,
+          47.3747673
+        ],
+        [
+          8.5324236,
+          47.374924
+        ],
+        [
+          8.5323199,
+          47.3749726
+        ],
+        [
+          8.5323262,
+          47.3749795
+        ],
+        [
+          8.5322556,
+          47.375011
+        ],
+        [
+          8.5322085,
+          47.3750323
+        ],
+        [
+          8.5320095,
+          47.3751281
+        ],
+        [
+          8.5320036,
+          47.3751222
+        ],
+        [
+          8.5318994,
+          47.3751703
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/29881598",
   "properties": {
     "addr:housenumber": "10",
@@ -7667,10 +7752,9 @@
     "amenity": "social_facility",
     "building": "yes",
     "name": "Durchgangszentrum Sonnenbühl",
-    "operator": "ORS Service AG",
-    "phone": "+41 44 576 16 13",
-    "social_facility": "group_home",
-    "social_facility:for": "migrant",
+    "short_name": "DZ Sonnenbühl",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
     "website": "https://www.schule-oberembrach.ch/cms/sonnenbuehl-dz",
     "id": "way/47033490"
   },
@@ -47916,11 +48000,13 @@
     "addr:housenumber": "11",
     "addr:postcode": "8702",
     "addr:street": "Buchholzstrasse",
+    "alt_name": "Durchgangszentrum Buchholz",
     "amenity": "social_facility",
     "building": "apartments",
-    "name": "Durchgangszentrum Buchholz",
-    "social_facility": "group_home",
-    "social_facility:for": "migrant",
+    "name": "Durchgangszentrum Zollikon",
+    "short_name": "DZ Zollikon",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
     "id": "way/1171513992"
   },
   "geometry": {
@@ -48423,6 +48509,58 @@
         [
           8.6194335,
           47.4255665
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1226193072",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "18c",
+    "addr:postcode": "8400",
+    "addr:street": "Endlikerstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Durchgangszentrum Mattenbacch",
+    "short_name": "DZ Mattenbach",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
+    "id": "way/1226193072"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7423134,
+          47.4898469
+        ],
+        [
+          8.7424783,
+          47.4897627
+        ],
+        [
+          8.7424973,
+          47.4897796
+        ],
+        [
+          8.7424108,
+          47.4898238
+        ],
+        [
+          8.7426143,
+          47.4900057
+        ],
+        [
+          8.7425359,
+          47.4900458
+        ],
+        [
+          8.7423134,
+          47.4898469
         ]
       ]
     ]
@@ -55771,6 +55909,54 @@
     "coordinates": [
       8.7585168,
       47.3068965
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11371188509",
+  "properties": {
+    "addr:city": "Richterswil",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "8805",
+    "addr:street": "Bergstrasse",
+    "amenity": "social_facility",
+    "name": "Durchgangszentrum KZU Richterswil",
+    "short_name": "DZ KZU Richterswil",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
+    "id": "node/11371188509"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6997007,
+      47.2075925
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11371227402",
+  "properties": {
+    "addr:city": "Dietlikon",
+    "addr:country": "CH",
+    "addr:housenumber": "41a",
+    "addr:postcode": "8305",
+    "addr:street": "Schwerzelbodenstrasse",
+    "amenity": "social_facility",
+    "name": "Durchgangszentrum KZU Rotacher",
+    "short_name": "DZ KZU Rotacher",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
+    "id": "node/11371227402"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6133778,
+      47.4196254
     ]
   }
 }

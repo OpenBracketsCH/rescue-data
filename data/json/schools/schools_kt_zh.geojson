@@ -44443,7 +44443,9 @@
   "type": "Feature",
   "id": "way/158555561",
   "properties": {
+    "addr:city": "Kloten",
     "addr:housenumber": "9",
+    "addr:postcode": "8302",
     "addr:street": "Lerchenweg",
     "amenity": "school",
     "building": "school",
