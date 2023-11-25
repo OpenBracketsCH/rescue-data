@@ -542,8 +542,9 @@
     "name": "Durchgangszentrum Volketswil",
     "operator": "AOZ",
     "phone": "+41 43 204 30 20",
-    "social_facility": "group_home",
-    "social_facility:for": "migrant",
+    "short_name": "DZ Volketswil",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
     "type": "multipolygon",
     "website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/dz/dz-volketswil.html",
     "id": "relation/12925844"
@@ -38186,10 +38187,11 @@
     "level": "-1",
     "location": "underground",
     "military": "bunker",
-    "name": "Temporäres Durchgangszentrum Turnerstrasse",
+    "name": "Durchgangszentrum Turnerstrasse",
     "operator": "AOZ",
-    "social_facility": "group_home",
-    "social_facility:for": "migrant",
+    "short_name": "DZ Turnerstrasse",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
     "website": "https://www.stadt-zuerich.ch/aoz/de/index/aoz/aktuell/news/eroeffnung-temporaeres-durchgangszentrum-turnerstrasse0.html",
     "id": "way/1150198138"
   },
@@ -45903,6 +45905,7 @@
     "name": "Kurzzeitunterkunft St. Peter & Paul",
     "operator": "AOZ",
     "phone": "+41 79 967 51 94",
+    "short_name": "KZU Peter und Paul;Durchgangszentrum Peter und Paul",
     "social_facility": "group_home",
     "social_facility:for": "migrant",
     "website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/dz/Kurzzeitunterkunft_Peter_und_Paul.html",
@@ -46178,6 +46181,30 @@
     "coordinates": [
       8.6133778,
       47.4196254
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11372921978",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "21",
+    "addr:postcode": "8053",
+    "addr:street": "Katzenschwanzstrasse",
+    "amenity": "social_facility",
+    "name": "Durchgangszentrum Katzenschwanzstrasse",
+    "short_name": "DZ Katzenschwantzstrasse",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
+    "id": "node/11372921978"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5969976,
+      47.3616984
     ]
   }
 }
