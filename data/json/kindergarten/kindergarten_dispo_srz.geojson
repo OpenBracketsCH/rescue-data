@@ -28216,6 +28216,10 @@
   "type": "Feature",
   "id": "way/409160836",
   "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "20",
+    "addr:postcode": "8408",
+    "addr:street": "Rappstrasse",
     "amenity": "kindergarten",
     "name": "Kindergarten Rappstrasse",
     "operator": "Stadt Winterthur",

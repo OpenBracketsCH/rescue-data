@@ -1548,24 +1548,40 @@
           47.0529963
         ],
         [
-          8.5842602,
-          47.0529189
+          8.5842356,
+          47.0529309
         ],
         [
-          8.5845378,
-          47.0531833
+          8.5845419,
+          47.0532226
         ],
         [
-          8.5846671,
-          47.0531203
+          8.5846958,
+          47.0531476
         ],
         [
           8.5847985,
           47.0532454
         ],
         [
-          8.5845103,
-          47.0533859
+          8.5845435,
+          47.0533697
+        ],
+        [
+          8.5845663,
+          47.0533914
+        ],
+        [
+          8.5845179,
+          47.053415
+        ],
+        [
+          8.5842954,
+          47.053203
+        ],
+        [
+          8.5843105,
+          47.0531956
         ],
         [
           8.5841014,
@@ -2944,11 +2960,16 @@
     "addr:postcode": "6422",
     "addr:street": "Frauholzstrasse",
     "amenity": "social_facility",
-    "description": "Die BSZ Stiftung ist die drittgrösste Arbeitgeberin im Kanton Schwyz. An mehreren Standorten erhalten Menschen mit Unterstützungsbedarf die Möglichkeit einer Ausbildung, in einer Wohngemeinschaft zu leben oder regelmässig einer Arbeit nachzugehen.",
-    "name": "BSZ Stiftung",
+    "description": "Produktion, Spedition, Personalrestaurant",
+    "email": "info@bsz-stiftung.ch",
+    "name": "BSZ Stiftung Steinen",
     "operator": "BSZ Stiftung",
+    "phone": "+41 41 817 40 40",
     "social_facility:for": "disabled",
     "website": "https://bsz-stiftung.ch/",
+    "wheelchair": "yes",
+    "wikidata": "Q105761109",
+    "wikipedia": "de:BSZ Stiftung",
     "id": "node/7470653379"
   },
   "geometry": {

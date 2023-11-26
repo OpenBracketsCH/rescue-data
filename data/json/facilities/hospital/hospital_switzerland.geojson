@@ -50827,6 +50827,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "optometry",
     "name": "Vista Clinic",
+    "opening_hours": "Mo-Fr 07:00-18:00",
     "website": "https://vista.ch/augenklinik/vista-klinik-binningen/",
     "wikidata": "Q50039865",
     "id": "node/7317277717"
