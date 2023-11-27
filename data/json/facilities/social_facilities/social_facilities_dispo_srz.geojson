@@ -37233,7 +37233,7 @@
     "operator": "Tertianum",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
-    "website": "http://www.segeten.tertianum.ch/",
+    "website": "https://www.segeten.tertianum.ch/",
     "id": "way/547682937"
   },
   "geometry": {
@@ -37386,7 +37386,7 @@
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "1991",
-    "website": "http://www.imbruehl.tertianum.ch/",
+    "website": "https://www.imbruehl.tertianum.ch/",
     "id": "way/547682938"
   },
   "geometry": {
@@ -39130,7 +39130,7 @@
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "2017-11",
-    "website": "http://www.etzelgut.tertianum.ch/",
+    "website": "https://www.etzelgut.tertianum.ch/",
     "id": "way/655416723"
   },
   "geometry": {
@@ -50471,7 +50471,7 @@
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "toilets:wheelchair": "yes",
-    "website": "http://www.letzipark.tertianum.ch/",
+    "website": "https://www.letzipark.tertianum.ch/",
     "wheelchair": "yes",
     "id": "node/5291777377"
   },
@@ -53634,7 +53634,7 @@
     "phone": "+41 41 784 06 99",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
-    "website": "http://www.pfz-ennetsee.ch/home/",
+    "website": "https://www.pfz-ennetsee.ch/home/",
     "id": "node/8749983733"
   },
   "geometry": {

@@ -81861,7 +81861,7 @@
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus",
-    "website": "http://www.schulerandental.ch/",
+    "website": "https://www.schulerandental.ch/",
     "id": "way/276599525"
   },
   "geometry": {
@@ -101555,6 +101555,7 @@
   "id": "way/482041729",
   "properties": {
     "amenity": "school",
+    "name": "Rebrain",
     "id": "way/482041729"
   },
   "geometry": {

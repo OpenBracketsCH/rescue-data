@@ -4582,7 +4582,7 @@
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus",
-    "website": "http://www.schulerandental.ch/",
+    "website": "https://www.schulerandental.ch/",
     "id": "way/276599525"
   },
   "geometry": {

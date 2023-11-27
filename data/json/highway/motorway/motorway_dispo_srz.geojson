@@ -72227,9 +72227,13 @@
   "properties": {
     "construction:end_date": "2022",
     "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "oneway": "yes",
     "opening_date": "2023-04-22",
     "ref": "A1;A4",
     "start_date": "2023",
+    "surface": "asphalt",
+    "toll": "yes",
     "id": "way/1122450691"
   },
   "geometry": {
