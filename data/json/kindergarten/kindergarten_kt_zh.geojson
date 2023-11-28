@@ -30109,17 +30109,18 @@
   "type": "Feature",
   "id": "way/943488214",
   "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "54",
-    "addr:postcode": "8400",
-    "addr:street": "Haldenstrasse",
     "amenity": "kindergarten",
-    "check_date": "2023-06-25",
+    "contact:city": "Winterthur",
+    "contact:email": "laluna@ksw.ch",
+    "contact:housenumber": "54",
+    "contact:phone": "+41 52 266 34 34",
+    "contact:postcode": "8400",
+    "contact:street": "Haldenstrasse",
+    "contact:website": "https://www.kita-laluna.ch/",
     "name": "Kita La Luna",
     "operator": "Verein \"Kindertagesstätte La Luna\"",
     "operator:type": "private",
     "preschool": "yes",
-    "website": "https://www.kita-laluna.ch/",
     "id": "way/943488214"
   },
   "geometry": {
@@ -30127,44 +30128,56 @@
     "coordinates": [
       [
         [
-          8.7304314,
-          47.5063976
+          8.7304248,
+          47.5063959
         ],
         [
-          8.7303088,
-          47.5061673
+          8.730336,
+          47.5062307
+        ],
+        [
+          8.7302998,
+          47.5061634
         ],
         [
           8.7303118,
-          47.5061595
+          47.5061459
         ],
         [
-          8.7303172,
-          47.5061453
+          8.7303424,
+          47.5061388
         ],
         [
-          8.7303314,
-          47.5061416
+          8.7304284,
+          47.5061175
         ],
         [
-          8.7304249,
-          47.5061171
+          8.7308586,
+          47.5061957
         ],
         [
-          8.730867,
-          47.5061968
+          8.730868,
+          47.5061974
         ],
         [
-          8.7307676,
-          47.506454
+          8.7307695,
+          47.5064484
+        ],
+        [
+          8.7306764,
+          47.5063516
         ],
         [
           8.7306627,
-          47.5063398
+          47.5063373
         ],
         [
-          8.7304314,
-          47.5063976
+          8.7305628,
+          47.5063619
+        ],
+        [
+          8.7304248,
+          47.5063959
         ]
       ]
     ]
