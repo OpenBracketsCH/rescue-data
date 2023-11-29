@@ -225,6 +225,7 @@
   "type": "Feature",
   "id": "way/233903417",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "20",
     "addr:postcode": "8400",
     "addr:street": "Brauerstrasse",

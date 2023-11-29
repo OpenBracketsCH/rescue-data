@@ -34250,8 +34250,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5591199,
-      47.4260923
+      8.5591303,
+      47.426104
     ]
   }
 },
@@ -42012,27 +42012,6 @@
     "coordinates": [
       8.5366105,
       47.3618677
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5607418073",
-  "properties": {
-    "access": "private",
-    "addr:housenumber": "44a",
-    "addr:street": "Am Wasser",
-    "barrier": "gate",
-    "description": "Zugang zum ERZ-Abwasserstollen ARA Glatt–Werdhölzli",
-    "name": "Stollenzugang Limmat",
-    "operator": "ERZ",
-    "id": "node/5607418073"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5095932,
-      47.3952924
     ]
   }
 },
@@ -67728,6 +67707,21 @@
 },
 {
   "type": "Feature",
+  "id": "node/10273015631",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/10273015631"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5027722,
+      47.3962964
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/10273015672",
   "properties": {
     "barrier": "gate",
@@ -67738,6 +67732,21 @@
     "coordinates": [
       8.5023362,
       47.3974573
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10273027256",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/10273027256"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5024433,
+      47.3965366
     ]
   }
 },
@@ -73714,8 +73723,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7279494,
-      47.505702
+      8.7279436,
+      47.5056995
     ]
   }
 },
@@ -73730,8 +73739,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7267848,
-      47.5060881
+      8.7267787,
+      47.5061028
     ]
   }
 },
@@ -76605,8 +76614,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7308586,
-      47.5061957
+      8.7308588,
+      47.5061953
     ]
   }
 },
