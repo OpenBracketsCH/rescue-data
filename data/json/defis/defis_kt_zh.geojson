@@ -7447,8 +7447,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.744218,
-      47.4555263
+      8.7442167,
+      47.455532
     ]
   }
 },
@@ -53129,6 +53129,88 @@
     "coordinates": [
       8.8115931,
       47.3382265
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11383459369",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "ZAG ",
+    "description": "Während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "id": "node/11383459369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7181286,
+      47.4976742
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11383562069",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "adliswil",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "id": "node/11383562069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5432591,
+      47.4105902
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11383592769",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "tet",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11383592769"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6283875,
+      47.4039264
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11383750569",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Fussballgarderoben Mooshüsli",
+    "description": "Nur mit Schlüssel zum Garderobengebäude erreichbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "FC Affoltern am Albis",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11383750569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4517533,
+      47.2855866
     ]
   }
 }

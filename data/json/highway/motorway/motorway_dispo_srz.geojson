@@ -9515,6 +9515,7 @@
     "ref": "A1L",
     "source:maxspeed": "sign",
     "surface": "asphalt",
+    "toll": "yes",
     "id": "way/23635185"
   },
   "geometry": {
@@ -47602,6 +47603,7 @@
     "shoulder:right": "yes",
     "source:maxspeed": "sign",
     "surface": "asphalt",
+    "toll": "yes",
     "id": "way/288229667"
   },
   "geometry": {
@@ -59764,6 +59766,7 @@
     "ref": "A15",
     "source:maxspeed": "sign",
     "surface": "asphalt",
+    "toll": "yes",
     "id": "way/545749123"
   },
   "geometry": {
@@ -59868,6 +59871,7 @@
     "placement": "right_of:1",
     "ref": "A15",
     "surface": "asphalt",
+    "toll": "yes",
     "width": "11",
     "id": "way/545813332"
   },
@@ -59942,6 +59946,7 @@
     "shoulder:right": "yes",
     "source:maxspeed": "sign",
     "surface": "asphalt",
+    "toll": "yes",
     "turn:lanes": "merge_to_right|none|none|slight_right",
     "width": "14.2",
     "id": "way/545813348"
@@ -60417,6 +60422,7 @@
     "source:maxspeed": "sign",
     "ssvz": "1002",
     "surface": "asphalt",
+    "toll": "yes",
     "turn:lanes": "||merge_to_left",
     "width": "10.5",
     "id": "way/545825890"
@@ -61289,6 +61295,7 @@
     "placement": "right_of:1",
     "ref": "A15",
     "surface": "asphalt",
+    "toll": "yes",
     "turn:lanes": "||slight_right",
     "width": "10",
     "id": "way/545893916"
@@ -61423,6 +61430,7 @@
     "shoulder:right": "yes",
     "source:maxspeed": "CH:motorway",
     "surface": "asphalt",
+    "toll": "yes",
     "turn:lanes": "||merge_to_left",
     "width": "10",
     "id": "way/545893920"
@@ -61924,6 +61932,7 @@
     "placement": "right_of:1",
     "ref": "A15",
     "surface": "asphalt",
+    "toll": "yes",
     "turn:lanes": "||merge_to_left",
     "width": "10.3",
     "id": "way/545937136"
@@ -63710,6 +63719,7 @@
     "ref": "A1L",
     "source:maxspeed": "sign",
     "surface": "asphalt",
+    "toll": "yes",
     "id": "way/554260410"
   },
   "geometry": {
@@ -63766,6 +63776,7 @@
     "ref": "A1L",
     "source:maxspeed": "sign",
     "surface": "asphalt",
+    "toll": "yes",
     "turn:lanes": "||merge_to_left",
     "id": "way/554260411"
   },

@@ -2380,6 +2380,83 @@
 },
 {
   "type": "Feature",
+  "id": "way/1227566231",
+  "properties": {
+    "addr:city": "Brunnen",
+    "addr:housenumber": "12",
+    "addr:postcode": "6440",
+    "addr:street": "Klosterstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@kloster-ingenbohl.ch",
+    "name": "Alters- und Pflegeheim St. Josef",
+    "phone": "+41 41 825 20 00",
+    "social_facility": "nursing_home",
+    "website": "https://www.kloster-ingenbohl.ch/",
+    "id": "way/1227566231"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6164499,
+          46.9987572
+        ],
+        [
+          8.6162781,
+          46.9984793
+        ],
+        [
+          8.6163772,
+          46.9984508
+        ],
+        [
+          8.616369,
+          46.9984376
+        ],
+        [
+          8.6165197,
+          46.9983943
+        ],
+        [
+          8.6165278,
+          46.9984073
+        ],
+        [
+          8.6166271,
+          46.9983788
+        ],
+        [
+          8.6167989,
+          46.9986566
+        ],
+        [
+          8.6166993,
+          46.9986853
+        ],
+        [
+          8.6167075,
+          46.9986986
+        ],
+        [
+          8.6165566,
+          46.998742
+        ],
+        [
+          8.6165484,
+          46.9987288
+        ],
+        [
+          8.6164499,
+          46.9987572
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/5829240341",
   "properties": {
     "addr:city": "Feusisberg",
