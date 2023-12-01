@@ -21960,7 +21960,7 @@
   "properties": {
     "addr:city": "Köniz",
     "addr:country": "CH",
-    "addr:housenumber": "4A",
+    "addr:housenumber": "4a",
     "addr:postcode": "3098",
     "addr:street": "Schulhausgässli",
     "amenity": "clinic",
@@ -21970,8 +21970,6 @@
     "healthcare": "clinic",
     "name": "Praxis Lengsfeld",
     "phone": "+41 31 972 72 12",
-    "source": "bing",
-    "source:addr": "Gebäudeadressen des Kantons Bern © Amt für Geoinformation des Kantons Bern",
     "website": "http://www.praxislengsfeld.ch",
     "id": "way/316353864"
   },

@@ -2802,6 +2802,7 @@
     "lanes": "1",
     "maxspeed": "80",
     "oneway": "yes",
+    "surface": "asphalt",
     "id": "way/8079964"
   },
   "geometry": {
@@ -7220,6 +7221,7 @@
     "lanes": "2",
     "maxspeed": "60",
     "oneway": "yes",
+    "surface": "asphalt",
     "id": "way/55557048"
   },
   "geometry": {
@@ -15080,6 +15082,7 @@
     "lanes": "3",
     "maxspeed": "60",
     "oneway": "yes",
+    "surface": "asphalt",
     "turn:lanes": "left|through|right",
     "id": "way/298580446"
   },
@@ -15122,6 +15125,7 @@
     "lanes": "2",
     "maxspeed": "60",
     "oneway": "yes",
+    "surface": "asphalt",
     "turn:lanes": "left|through",
     "id": "way/298580686"
   },

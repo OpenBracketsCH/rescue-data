@@ -7447,8 +7447,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7442167,
-      47.455532
+      8.744196,
+      47.4555246
     ]
   }
 },
@@ -53211,6 +53211,27 @@
     "coordinates": [
       8.4517533,
       47.2855866
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11385426169",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Polizeiposten kloten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "Parkplatz",
+    "operator": "Gemeinde/Kanton",
+    "id": "node/11385426169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5861704,
+      47.4501016
     ]
   }
 }
