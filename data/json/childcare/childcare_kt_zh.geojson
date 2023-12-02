@@ -9875,6 +9875,7 @@
     "contact:street": "Tannerauchstrasse",
     "isced:level": "0",
     "name": "Kinderhort Manegg 1 bis 7",
+    "wheelchair": "limited",
     "id": "node/9495439063"
   },
   "geometry": {

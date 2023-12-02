@@ -54598,6 +54598,7 @@
     "name": "Schule Manegg",
     "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Manegg",
     "operator:type": "public",
+    "wheelchair": "yes",
     "id": "way/170323919"
   },
   "geometry": {

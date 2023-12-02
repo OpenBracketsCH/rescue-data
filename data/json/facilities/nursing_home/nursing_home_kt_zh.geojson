@@ -23925,24 +23925,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5257755053",
-  "properties": {
-    "amenity": "social_facility",
-    "name": "Pallivita Bethanien",
-    "operator": "Diakonie Bethanien",
-    "social_facility": "nursing_home",
-    "id": "node/5257755053"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4926025,
-      47.3837306
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5280368590",
   "properties": {
     "addr:housenumber": "4",
@@ -24209,32 +24191,6 @@
     "coordinates": [
       8.8501398,
       47.2622812
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6349202784",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "36",
-    "addr:postcode": "8048",
-    "addr:street": "Buckhauserstrasse",
-    "amenity": "social_facility",
-    "email": "info@bethanien.ch",
-    "name": "Convita Bethanien",
-    "operator": "Diakonie Bethanien",
-    "phone": "+41 58 204 80 80",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "id": "node/6349202784"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4926811,
-      47.3838006
     ]
   }
 },

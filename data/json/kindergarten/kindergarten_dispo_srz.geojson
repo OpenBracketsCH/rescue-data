@@ -41776,6 +41776,7 @@
     "amenity": "kindergarten",
     "name": "Kindergarten Manegg I – III",
     "operator": "Stadt Zürich, SSD, Schulkreis Uto",
+    "wheelchair": "limited",
     "id": "node/5333180604"
   },
   "geometry": {
@@ -46399,6 +46400,7 @@
     "contact:street": "Tannerauchstrasse",
     "isced:level": "0",
     "name": "Kindergarten Manegg 1+2+4",
+    "wheelchair": "limited",
     "id": "node/9495439064"
   },
   "geometry": {
@@ -46994,6 +46996,7 @@
     "contact:street": "Tannerauchstrasse",
     "isced:level": "0",
     "name": "Waldkindergarten Manegg",
+    "wheelchair": "limited",
     "id": "node/9547155701"
   },
   "geometry": {
