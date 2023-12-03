@@ -18011,7 +18011,7 @@
     "addr:postcode": "8050",
     "addr:street": "Saatlenfussweg",
     "amenity": "school",
-    "architect:wikipedia": "https://de.wikipedia.org/wiki/Christian_Kerez",
+    "architect:wikipedia": "de:Christian Kerez",
     "building": "school",
     "building:levels": "8",
     "building:material": "concrete",
@@ -33907,20 +33907,16 @@
           47.5008854
         ],
         [
-          8.7503606,
-          47.5008592
+          8.7503721,
+          47.5008621
         ],
         [
-          8.7504299,
-          47.5005705
+          8.7505224,
+          47.5005828
         ],
         [
-          8.7505227,
-          47.500582
-        ],
-        [
-          8.7509109,
-          47.500645
+          8.75091,
+          47.5006458
         ],
         [
           8.7512749,
