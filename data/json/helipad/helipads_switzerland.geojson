@@ -775,7 +775,11 @@
   "id": "way/117360296",
   "properties": {
     "aeroway": "helipad",
-    "name": "1",
+    "lit": "yes",
+    "name": "CHUV 1",
+    "operator": "CHUV- Centre hospitalier universitaire vaudois",
+    "ref": "CHUV_1",
+    "surface": "metal",
     "id": "way/117360296"
   },
   "geometry": {
@@ -883,7 +887,11 @@
   "id": "way/117360300",
   "properties": {
     "aeroway": "helipad",
-    "name": "2",
+    "lit": "yes",
+    "name": "CHUV 2",
+    "operator": "CHUV- Centre hospitalier universitaire vaudois",
+    "ref": "CHUV_2",
+    "surface": "metal",
     "id": "way/117360300"
   },
   "geometry": {
@@ -7614,6 +7622,11 @@
   "id": "way/713493718",
   "properties": {
     "aeroway": "helipad",
+    "lit": "yes",
+    "name": "MORGES",
+    "operator": "EHC - Hôpital de Morges / OFAC",
+    "ref": "MOR_H",
+    "surface": "metal",
     "id": "way/713493718"
   },
   "geometry": {

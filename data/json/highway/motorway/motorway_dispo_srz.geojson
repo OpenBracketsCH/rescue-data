@@ -14901,7 +14901,6 @@
     "ref": "A1;A3",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "through|through|through|right|right",
     "id": "way/25511713"
   },
   "geometry": {
@@ -70066,7 +70065,6 @@
     "ref": "A1;A3",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "through|through|through|right|right",
     "id": "way/767383497"
   },
   "geometry": {

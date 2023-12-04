@@ -24977,6 +24977,7 @@
   "type": "Feature",
   "id": "node/9754019575",
   "properties": {
+    "alt_name": "Pflegezentrum Drei Tannen",
     "amenity": "social_facility",
     "email": "info@stiftungdreitannen.ch",
     "name": "Pflegezentrum Rosenthal",
