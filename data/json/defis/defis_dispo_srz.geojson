@@ -3295,8 +3295,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7488281,
-      47.1882667
+      8.7488363,
+      47.1882653
     ]
   }
 },
@@ -70339,6 +70339,52 @@
     "coordinates": [
       8.5861704,
       47.4501016
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11394056869",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Elias-Canetti-Strasse 7",
+    "description": "Available during opening time",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "Railpool GmbH - Zwiegniederlassung ZH",
+    "phone": "+41432178201",
+    "id": "node/11394056869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5406447,
+      47.4114942
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11394696369",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schule In der Höh",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1.OG",
+    "opening_hours": "24/7",
+    "operator": "Schule ",
+    "id": "node/11394696369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6718053,
+      47.3846454
     ]
   }
 }

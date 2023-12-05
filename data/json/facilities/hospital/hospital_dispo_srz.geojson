@@ -189,7 +189,7 @@
     "email": "info@kispi.uzh.ch",
     "emergency": "yes",
     "healthcare": "hospital",
-    "healthcare:speciality": "intensive",
+    "healthcare:speciality": "intensive;paediatric_surgery;paediatrics",
     "name": "Kinderspital Zürich",
     "operator": "Eleonorenstiftung",
     "phone": "+41 44 266 71 11",
