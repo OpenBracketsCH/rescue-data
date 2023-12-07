@@ -48772,14 +48772,15 @@
   "type": "Feature",
   "id": "node/10970275205",
   "properties": {
-    "access": "public",
+    "access": "yes",
     "defibrillator:location": "Gemeindehaus Otelfingen",
+    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "level": "0",
+    "opening_hours": "24/7",
     "operator": "Politische Gemeinde Otelfingen",
-    "phone": "+4144 847 20 47",
+    "phone": "+41 44 847 20 47",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/10970275205"
   },
@@ -53300,6 +53301,189 @@
     "coordinates": [
       8.716975,
       47.4937898
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11397446169",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingang altes Gemeindehaus, Dorfplatz 2, 8523 Hagenbuch",
+    "description": "Öffentlich zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Hagenbuch",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11397446169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8879126,
+      47.5209358
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11397452969",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Vor dem Eingang, Oberschneit 44, 8523 Hagenbuch",
+    "description": "Öffentlich zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Hagenbuch",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11397452969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8640034,
+      47.5203055
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11397453869",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Vor dem Eingang, Schneitbergstrasse 3, 8523 Hagenbuch",
+    "description": "Öffentlich zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Hagenbuch",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11397453869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8856703,
+      47.5185448
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11397516969",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schaffhausenstrasse 119b",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Neftenbach",
+    "phone": "+41 52 305 06 66",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11397516969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6808193,
+      47.5421063
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11397520069",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "altes Schulhaus Hünikon",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Neftenbach",
+    "phone": "+41 52 305 06 66",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11397520069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6701655,
+      47.5516039
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11397529169",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "TCS Zentrum Betzholz",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "Erdgeschoss Empfang",
+    "operator": "TCS Training & Events",
+    "id": "node/11397529169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8177942,
+      47.2883626
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11397677870",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Turnhalle Schulhaus Geissberg",
+    "description": "nur während Öffnungszeiten zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeinde Bubikon",
+    "phone": "+41 55 253 33 33",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11397677870"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.803702,
+      47.2570461
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11397836569",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Sanitärgebäude Camping",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde",
+    "phone": "+4152 647 47 47",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11397836569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6582941,
+      47.686095
     ]
   }
 }
