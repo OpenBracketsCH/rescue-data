@@ -4532,7 +4532,10 @@
     "addr:street": "Mitteldorfstrasse",
     "amenity": "school",
     "building": "school",
+    "building:levels": "2",
     "name": "Schulhaus Oberhallau",
+    "roof:levels": "1",
+    "roof:shape": "half-hipped",
     "wheelchair": "no",
     "id": "way/276532745"
   },

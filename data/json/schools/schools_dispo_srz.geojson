@@ -71370,7 +71370,10 @@
     "addr:street": "Thurtalstrasse",
     "amenity": "school",
     "building": "school",
+    "building:levels": "2",
     "name": "Schulhaus Thalheim",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
     "id": "way/232211576"
   },
   "geometry": {
@@ -81985,7 +81988,10 @@
     "addr:street": "Mitteldorfstrasse",
     "amenity": "school",
     "building": "school",
+    "building:levels": "2",
     "name": "Schulhaus Oberhallau",
+    "roof:levels": "1",
+    "roof:shape": "half-hipped",
     "wheelchair": "no",
     "id": "way/276532745"
   },
@@ -111272,12 +111278,16 @@
           47.1984835
         ],
         [
-          8.4880616,
-          47.198054
+          8.4873485,
+          47.1984484
         ],
         [
-          8.4875761,
-          47.1981293
+          8.4870252,
+          47.198385
+        ],
+        [
+          8.4867621,
+          47.1982976
         ],
         [
           8.4868571,
