@@ -3155,6 +3155,7 @@
     "addr:postcode": "8057",
     "addr:street": "Schaffhauserstrasse",
     "amenity": "pharmacy",
+    "check_date": "2023-12-09",
     "name": "Hirsch-Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-12:30",
     "website": "https://www.hirschapotheke.ch/",
