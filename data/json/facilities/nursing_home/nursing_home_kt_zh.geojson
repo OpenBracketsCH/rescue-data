@@ -23493,23 +23493,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2628766568",
-  "properties": {
-    "amenity": "nursing_home",
-    "name": "Senioviva",
-    "source": "http://www.senioviva.ch/",
-    "id": "node/2628766568"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5275541,
-      47.4143865
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2950839437",
   "properties": {
     "addr:city": "Dietikon",

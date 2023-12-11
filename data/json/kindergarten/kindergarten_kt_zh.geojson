@@ -16544,86 +16544,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/183641274",
-  "properties": {
-    "addr:city": "Dietlikon",
-    "addr:country": "CH",
-    "addr:housenumber": "8",
-    "addr:postcode": "8305",
-    "addr:street": "Tödistrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "building:levels": "1",
-    "name": "Kindergarten Tödi 1+2",
-    "roof:levels": "0",
-    "id": "way/183641274"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6159684,
-          47.4197353
-        ],
-        [
-          8.6159296,
-          47.4196856
-        ],
-        [
-          8.6159602,
-          47.4196746
-        ],
-        [
-          8.6159232,
-          47.4196271
-        ],
-        [
-          8.6160369,
-          47.4195865
-        ],
-        [
-          8.6160728,
-          47.4196325
-        ],
-        [
-          8.6161152,
-          47.4196174
-        ],
-        [
-          8.6161721,
-          47.4195971
-        ],
-        [
-          8.6161354,
-          47.4195501
-        ],
-        [
-          8.6162473,
-          47.4195101
-        ],
-        [
-          8.6162823,
-          47.419555
-        ],
-        [
-          8.616321,
-          47.4195411
-        ],
-        [
-          8.6163626,
-          47.4195944
-        ],
-        [
-          8.6159684,
-          47.4197353
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/183746192",
   "properties": {
     "addr:city": "Winterberg",
@@ -34524,6 +34444,23 @@
     "coordinates": [
       8.5833952,
       47.5315319
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2628766568",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Globegarden Childcare",
+    "source": "https://www.globegarden.ch/",
+    "id": "node/2628766568"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5275541,
+      47.4143865
     ]
   }
 },

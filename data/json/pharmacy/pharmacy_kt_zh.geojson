@@ -1352,6 +1352,7 @@
     "amenity": "pharmacy",
     "name": "Landhus Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
+    "operator": "Eidg. dpl. Apothekerin D. Zokouri-Hoessly",
     "website": "https://www.landhus-apotheke.ch/",
     "id": "node/415719038"
   },
