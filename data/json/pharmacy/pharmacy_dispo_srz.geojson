@@ -5821,6 +5821,37 @@
 },
 {
   "type": "Feature",
+  "id": "node/4424600895",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:place": "Hauptbahnhof, Südtrakt",
+    "addr:postcode": "8001",
+    "addr:street": "Bahnhofplatz",
+    "amenity": "pharmacy",
+    "branch": "Zürich HB (Südtrakt)",
+    "brand": "Amavita",
+    "brand:wikidata": "Q93733901",
+    "healthcare": "pharmacy",
+    "indoor": "yes",
+    "level": "0",
+    "name": "Bahnhof Apotheke",
+    "opening_hours": "07:00-24:00",
+    "operator": "GaleniCare",
+    "website": "https://www.amavita.ch/de/amavita-bahnhof-apotheke",
+    "id": "node/4424600895"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5399204,
+      47.3774931
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4424679506",
   "properties": {
     "addr:city": "Zürich",
@@ -7483,39 +7514,6 @@
     "coordinates": [
       8.6344801,
       47.6983863
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7481864953",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:place": "Hauptbahnhof, Wannerhalle",
-    "addr:postcode": "8001",
-    "amenity": "pharmacy",
-    "branch": "Zürich HB (Halle)",
-    "brand": "Amavita",
-    "brand:wikidata": "Q93733901",
-    "brand:wikipedia": "de:Amavita",
-    "healthcare": "pharmacy",
-    "indoor": "yes",
-    "level": "0",
-    "name": "Amavita",
-    "note": "Provisorium Bahnhof Apotheke bis vsl. 2023",
-    "opening_hours": "Mo-Su 07:00-24:00",
-    "operator": "GaleniCare",
-    "start_date": "2020-03-02",
-    "website": "https://www.amavita.ch/de/amavita-bahnhof-apotheke",
-    "wheelchair": "yes",
-    "id": "node/7481864953"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5400301,
-      47.3780253
     ]
   }
 },

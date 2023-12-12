@@ -15183,10 +15183,10 @@
     "addr:housenumber": "9",
     "addr:postcode": "8627",
     "addr:street": "Binzikerstrasse",
-    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde",
+    "alt_name": "Klinik Sonnhalde Haus Binzikerstrasse 9",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Klinik Sonnhalde Haus Binzikerstrasse 9",
+    "name": "Binzikerstrasse 9",
     "operator": "Klinik Sonnhalde",
     "social_facility": "assisted_living",
     "id": "way/117103481"
@@ -48659,6 +48659,50 @@
         [
           8.6164499,
           46.9987572
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1230284805",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "41",
+    "addr:postcode": "8004",
+    "addr:street": "Kasernenstrasse",
+    "amenity": "social_facility",
+    "name": "Kontakt- und Anlaufstelle Kaserne",
+    "phone": "+41 44 415 56 90",
+    "short_name": "K&A Kaserne",
+    "social_facility": "outreach",
+    "website": "https://www.stadt-zuerich.ch/sd/de/index/unterstuetzung/drogen/kontaktundanlaufstellen.html",
+    "id": "way/1230284805"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5311101,
+          47.3756543
+        ],
+        [
+          8.5313376,
+          47.3754986
+        ],
+        [
+          8.5317082,
+          47.3757802
+        ],
+        [
+          8.5314924,
+          47.3759153
+        ],
+        [
+          8.5311101,
+          47.3756543
         ]
       ]
     ]
