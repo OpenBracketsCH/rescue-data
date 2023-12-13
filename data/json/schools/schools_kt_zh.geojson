@@ -9472,6 +9472,7 @@
   "properties": {
     "amenity": "school",
     "website": "https://www.schuleduernten.ch/",
+    "wheelchair": "limited",
     "id": "way/30810418"
   },
   "geometry": {

@@ -14425,6 +14425,10 @@
   "type": "Feature",
   "id": "way/155992440",
   "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "13",
+    "addr:postcode": "8953",
+    "addr:street": "Staffelackerstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Staffelacker",
