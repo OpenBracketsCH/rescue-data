@@ -35929,26 +35929,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9311244017",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Uster",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "id": "node/9311244017"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7192572,
-      47.3577467
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9312156340",
   "properties": {
     "access": "yes",
@@ -70891,6 +70871,29 @@
     "coordinates": [
       8.7268782,
       47.6290452
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11414264569",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Büelwisen, neben Eingang Turnhalle",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "Vor Turnhalle Eingang",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Winterthur",
+    "phone": "+41796123723",
+    "id": "node/11414264569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7644599,
+      47.4829263
     ]
   }
 }

@@ -1982,6 +1982,7 @@
     "addr:postcode": "2024",
     "addr:street": "Rue de l'Hôpital",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Hôpital de la Béroche",
     "phone": "+41 32 836 42 42",
     "type": "multipolygon",
@@ -1996,16 +1997,20 @@
           46.8921174
         ],
         [
-          6.7708928,
-          46.8927132
+          6.7709378,
+          46.8924311
         ],
         [
-          6.771367,
-          46.893016
+          6.7717575,
+          46.8928879
         ],
         [
-          6.7713026,
-          46.8931245
+          6.7718797,
+          46.8929668
+        ],
+        [
+          6.7713723,
+          46.893207
         ],
         [
           6.7715048,
@@ -10254,7 +10259,10 @@
     "amenity": "hospital",
     "description": "Gériatrie",
     "healthcare": "hospital",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/H%C3%B4pitalTroisCh%C3%AAnes-Vue.jpg",
     "name": "Hôpital des Trois-Chêne",
+    "wikidata": "Q121863605",
+    "wikimedia_commons": "https://commons.wikimedia.org/wiki/Category:H%C3%B4pital_des_Trois-Ch%C3%AAne",
     "id": "way/87504249"
   },
   "geometry": {
