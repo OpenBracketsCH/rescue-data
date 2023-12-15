@@ -40061,8 +40061,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5749103,
-      47.4525883
+      8.5749226,
+      47.4525901
     ]
   }
 },
@@ -77968,24 +77968,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10217123828",
-  "properties": {
-    "access": "no",
-    "barrier": "gate",
-    "locked": "yes",
-    "name": "Tor 141.1",
-    "id": "node/10217123828"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5685168,
-      47.4470727
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10217123830",
   "properties": {
     "access": "no",
@@ -77999,6 +77981,24 @@
     "coordinates": [
       8.5639328,
       47.446636
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10217123858",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "locked": "yes",
+    "name": "Tor 141.1",
+    "id": "node/10217123858"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5684856,
+      47.4470653
     ]
   }
 },
