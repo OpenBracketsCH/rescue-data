@@ -70896,6 +70896,97 @@
       47.4829263
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11419730269",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Hatzenbühl",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "08:00-17:00",
+    "operator": "Gemeinde",
+    "id": "node/11419730269"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.647692,
+      47.4524683
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11419927569",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Am Gebäudes des Bahnhof Dinhard (Welsikon)",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Dinhard",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11419927569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7530136,
+      47.5532875
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11420038069",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Tertianum Gartenhof, 1. Obergeschoss gegenüber dem Lift, neben dem Treppenhaus",
+    "description": "Jederzeit verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "24/7",
+    "operator": "Tertianum Gartenhof",
+    "phone": "+41 52 544 74 60",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11420038069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6885279,
+      47.5076461
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11421360969",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Werft 3, Seite von Tor 140, bei Lift neben Stempelkasten",
+    "description": "nur für Leute innerhalb Flughafenareal verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "operator": "Swiss Int. Airlines / SRTechnics",
+    "id": "node/11421360969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5649026,
+      47.4422623
+    ]
+  }
 }
 ]
 }
