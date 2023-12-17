@@ -6294,7 +6294,6 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
-    "layer": "0",
     "lit": "yes",
     "maxspeed": "60",
     "oneway": "yes",
