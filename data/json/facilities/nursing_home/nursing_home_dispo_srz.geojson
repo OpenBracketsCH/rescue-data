@@ -30837,6 +30837,7 @@
     "addr:street": "Else-Züblin-Strasse",
     "amenity": "social_facility",
     "capacity": "8",
+    "check_date": "2023-12-17",
     "name": "Pflegewohngruppe Sunnige Hof",
     "operator": "Stadt Zürich, GUD",
     "social_facility": "nursing_home",

@@ -40726,6 +40726,7 @@
     "addr:housenumber": "24",
     "addr:street": "Eulenweg",
     "amenity": "social_facility",
+    "check_date": "2023-12-17",
     "name": "SAW-Siedlung Buchlern",
     "operator": "Stiftung Alterswohnungen der Stadt Zürich (SAW)",
     "social_facility": "assisted_living",
@@ -40746,6 +40747,7 @@
   "id": "node/5274656843",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2023-12-17",
     "name": "SAW-Siedlung Feldblume",
     "operator": "Stiftung Alterswohnungen der Stadt Zürich (SAW)",
     "social_facility": "assisted_living",
@@ -41300,6 +41302,7 @@
     "addr:street": "Else-Züblin-Strasse",
     "amenity": "social_facility",
     "capacity": "8",
+    "check_date": "2023-12-17",
     "name": "Pflegewohngruppe Sunnige Hof",
     "operator": "Stadt Zürich, GUD",
     "social_facility": "nursing_home",
