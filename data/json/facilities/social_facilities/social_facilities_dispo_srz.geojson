@@ -5067,6 +5067,7 @@
     "name": "Alterswohnungen Schulthesspark",
     "operator": "Stiftung Diakoniewerk Neumünster",
     "roof:levels": "0",
+    "roof:shape": "flat",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",

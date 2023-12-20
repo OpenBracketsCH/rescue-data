@@ -22509,7 +22509,9 @@
   "type": "Feature",
   "id": "way/45573590",
   "properties": {
+    "addr:city": "Kloten",
     "addr:housenumber": "25",
+    "addr:postcode": "8302",
     "addr:street": "Dorfstrasse",
     "amenity": "school",
     "building": "school",
