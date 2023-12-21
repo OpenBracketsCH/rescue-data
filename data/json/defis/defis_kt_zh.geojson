@@ -13716,12 +13716,11 @@
   "id": "node/8560769138",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Mehrzweckhalle Zentrum, Durchgang zur Halle an der Wand neben dem Beleuchtungsschalter",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Mehrzweckhalle Zentrum, Links vor dem Haupteingang",
+    "description": "24h",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-We 08:30-12:00,13:30-16:00; Th 08:30-12:00,13:30-18:30; Fr 07:30-14:00",
+    "indoor": "no",
     "operator": "Gemeindeverwaltung Urdorf",
     "phone": "+41 44 736 51 11",
     "id": "node/8560769138"
@@ -13729,8 +13728,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4223442,
-      47.385659
+      8.4220979,
+      47.3854076
     ]
   }
 },
@@ -18712,29 +18711,6 @@
     "coordinates": [
       8.4388652,
       47.4036305
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8780676552",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Der Defi befindet sich im Auto",
-    "description": "24h verfügbar (über Betreiber)",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "Yvonne Schmidt",
-    "phone": "+41 78 679 18 50",
-    "id": "node/8780676552"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6148906,
-      47.6655066
     ]
   }
 },
@@ -24461,8 +24437,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7476224,
-      47.3060752
+      8.7487438,
+      47.3051601
     ]
   }
 },
@@ -48238,6 +48214,7 @@
   "type": "Feature",
   "id": "node/10910676177",
   "properties": {
+    "access": "no",
     "defibrillator:location": "Empfang;Future Camp",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
@@ -53975,6 +53952,30 @@
     "coordinates": [
       8.474139,
       47.3392589
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11434561769",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Eingang der Gemeindebibliothek an einer Säule",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Gossau",
+    "phone": "+41449365511",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11434561769"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7629359,
+      47.301374
     ]
   }
 }
