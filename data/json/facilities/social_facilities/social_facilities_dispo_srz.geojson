@@ -50843,28 +50843,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5400748563",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "88",
-    "addr:postcode": "8005",
-    "addr:street": "Ausstellungsstrasse",
-    "amenity": "social_facility",
-    "name": "Sozialzentrum Ausstellungsstrasse",
-    "operator": "Stadt Zürich, Sozialdepartement",
-    "social_facility": "outreach",
-    "id": "node/5400748563"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5342267,
-      47.383897
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5400748564",
   "properties": {
     "addr:city": "Zürich",
