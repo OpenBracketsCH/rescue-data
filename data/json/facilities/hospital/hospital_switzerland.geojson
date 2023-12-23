@@ -35006,12 +35006,18 @@
   "type": "Feature",
   "id": "way/675594223",
   "properties": {
+    "addr:city": "Wil (SG)",
     "addr:housenumber": "32",
+    "addr:postcode": "9500",
     "addr:street": "Fürstenlandstrasse",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
+    "healthcare:speciality": "internal;gynaecology;emergency;surgery;orthopaedics;trauma;geriatrics;anaesthetics",
     "name": "Spital Wil",
+    "operator": "Spitalregion Fürstenland Toggenburg",
+    "phone": "+41 71 914 61 11",
+    "website": "https://www.srft.ch/",
     "id": "way/675594223"
   },
   "geometry": {

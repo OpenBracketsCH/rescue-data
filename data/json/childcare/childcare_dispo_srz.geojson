@@ -1180,7 +1180,6 @@
     "amenity": "childcare",
     "building": "yes",
     "name": "kihz Tierspital",
-    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
     "website": "https://www.kihz.uzh.ch/de/kitas/kihz-tierspital.html",
     "id": "way/113820364"
   },
@@ -1189,24 +1188,24 @@
     "coordinates": [
       [
         [
-          8.5529287,
-          47.399555
+          8.5529286,
+          47.3995546
         ],
         [
-          8.5529895,
-          47.3996209
+          8.5529889,
+          47.3996206
         ],
         [
-          8.552827,
-          47.3996896
+          8.5528311,
+          47.3996867
         ],
         [
-          8.5527662,
-          47.3996237
+          8.5527708,
+          47.3996208
         ],
         [
-          8.5529287,
-          47.399555
+          8.5529286,
+          47.3995546
         ]
       ]
     ]
