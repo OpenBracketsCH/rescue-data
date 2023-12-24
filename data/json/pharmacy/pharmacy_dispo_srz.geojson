@@ -1741,8 +1741,10 @@
     "addr:street": "Rathausplatz",
     "amenity": "pharmacy",
     "dispensing": "yes",
+    "healthcare": "pharmacy",
     "name": "Zum Mohrenkönig",
     "phone": "+41 52 741 21 33",
+    "website": "https://www.rotpunkt-apotheken.ch/apotheken/apotheke-stein-am-rhein",
     "wheelchair": "no",
     "id": "node/441986102"
   },

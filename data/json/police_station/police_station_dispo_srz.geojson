@@ -2446,6 +2446,7 @@
     "opening_hours": "Tu, Th-Fr 08:00-17:00; Mo 07:00-17:00; We 08:00-13:00",
     "operator": "Stadtpolizei Zürich",
     "website": "https://www.stadt-zuerich.ch/pd/de/index/stadtpolizei_zuerich.html",
+    "wheelchair": "no",
     "id": "node/1362649058"
   },
   "geometry": {

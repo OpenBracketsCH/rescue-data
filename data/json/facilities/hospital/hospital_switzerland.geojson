@@ -16509,6 +16509,7 @@
   "id": "way/211971876",
   "properties": {
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "EMS Maison de Vessy",
     "id": "way/211971876"
   },
@@ -17726,11 +17727,9 @@
     "addr:street": "Hohe Strasse",
     "amenity": "hospital",
     "healthcare": "rehabilitation",
-    "healthcare:speciality": "physiatry",
-    "name": "Chrischona Klinik",
-    "phone": "+41 61 646 95 00",
-    "source": "GeoDaten Kanton Basel-Stadt",
-    "website": "https://www.reha.buespi.ch/",
+    "name": "Irides Pflege",
+    "note": "Standort wegen Umbauphase bis Mitte 2024",
+    "website": "https://irides.ch/",
     "id": "way/241615808"
   },
   "geometry": {
