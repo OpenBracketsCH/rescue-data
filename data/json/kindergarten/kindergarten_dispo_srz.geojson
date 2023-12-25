@@ -23817,47 +23817,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/256616267",
-  "properties": {
-    "addr:city": "Hinteregg",
-    "addr:housenumber": "4",
-    "addr:postcode": "8132",
-    "addr:street": "Leeacherstrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Tagesstrukturen Pavillon Leeacher",
-    "id": "way/256616267"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6810238,
-          47.3073734
-        ],
-        [
-          8.6809339,
-          47.3073268
-        ],
-        [
-          8.6811193,
-          47.3071608
-        ],
-        [
-          8.6812091,
-          47.3072074
-        ],
-        [
-          8.6810238,
-          47.3073734
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/256616270",
   "properties": {
     "addr:city": "Hinteregg",
@@ -38043,16 +38002,16 @@
     "addr:postcode": "8004",
     "addr:street": "Lutherstrasse",
     "amenity": "kindergarten",
-    "name": "Kinderhaus Bozza Stauffacher",
-    "operator": "Kinderhaus Bozza",
-    "website": "http://www.kinderhaus-am-stauffacher.ch/",
+    "name": "Stauffacher",
+    "operator": "Globalgarden Childcare",
+    "website": "https://www.globegarden.ch/locations/stauffacher",
     "id": "node/890983670"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5291927,
-      47.3743295
+      8.5290412,
+      47.3743152
     ]
   }
 },
