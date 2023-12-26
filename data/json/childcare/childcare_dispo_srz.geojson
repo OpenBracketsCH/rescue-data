@@ -5646,6 +5646,7 @@
   "id": "node/5358951416",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2023-12-25",
     "name": "Gartenspielgruppe Paradiesli",
     "id": "node/5358951416"
   },
