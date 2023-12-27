@@ -22043,6 +22043,44 @@
 },
 {
   "type": "Feature",
+  "id": "way/313459921",
+  "properties": {
+    "amenity": "clinic",
+    "building": "yes",
+    "healthcare": "clinic",
+    "source": "Bing",
+    "id": "way/313459921"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9322916,
+          45.8583124
+        ],
+        [
+          8.932164,
+          45.8580985
+        ],
+        [
+          8.9324346,
+          45.8580202
+        ],
+        [
+          8.9325622,
+          45.8582341
+        ],
+        [
+          8.9322916,
+          45.8583124
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/316353864",
   "properties": {
     "addr:city": "Köniz",
@@ -47370,6 +47408,51 @@
 },
 {
   "type": "Feature",
+  "id": "way/1123960495",
+  "properties": {
+    "amenity": "clinic",
+    "building": "yes",
+    "healthcare": "clinic",
+    "id": "way/1123960495"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.0272725,
+          46.1975165
+        ],
+        [
+          9.0271589,
+          46.1974383
+        ],
+        [
+          9.0274124,
+          46.1972618
+        ],
+        [
+          9.0276262,
+          46.1974089
+        ],
+        [
+          9.0275124,
+          46.1974881
+        ],
+        [
+          9.0274123,
+          46.1974192
+        ],
+        [
+          9.0272725,
+          46.1975165
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1144217909",
   "properties": {
     "addr:city": "Glattbrugg",
@@ -47730,6 +47813,51 @@
         [
           7.6128897,
           47.4919027
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1234440958",
+  "properties": {
+    "amenity": "clinic",
+    "building": "yes",
+    "healthcare": "clinic",
+    "id": "way/1234440958"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9422407,
+          45.8580961
+        ],
+        [
+          8.9420705,
+          45.8579143
+        ],
+        [
+          8.9423598,
+          45.8577628
+        ],
+        [
+          8.9424355,
+          45.8578498
+        ],
+        [
+          8.9424506,
+          45.8579288
+        ],
+        [
+          8.9424449,
+          45.8580026
+        ],
+        [
+          8.9422407,
+          45.8580961
         ]
       ]
     ]
@@ -54179,6 +54307,57 @@
     "coordinates": [
       6.6185961,
       46.5403466
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11457410255",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Centro medico Chiasso",
+    "id": "node/11457410255"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0329936,
+      45.8328114
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11457410256",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Centro medico Stabio",
+    "id": "node/11457410256"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9422511,
+      45.8579222
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11457472170",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Centro medico Stabio Fisioterapia",
+    "id": "node/11457472170"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9323391,
+      45.8581703
     ]
   }
 }

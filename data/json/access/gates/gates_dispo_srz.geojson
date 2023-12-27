@@ -89837,7 +89837,6 @@
   "properties": {
     "barrier": "gate",
     "material": "wood",
-    "maxheight": "2",
     "id": "node/11454175809"
   },
   "geometry": {
@@ -89845,6 +89844,40 @@
     "coordinates": [
       8.7431341,
       47.4549109
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11457635057",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/11457635057"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7561237,
+      47.4659481
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11457635058",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/11457635058"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7561305,
+      47.4659369
     ]
   }
 }
