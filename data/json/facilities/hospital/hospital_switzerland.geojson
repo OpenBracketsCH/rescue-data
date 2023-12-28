@@ -10578,6 +10578,7 @@
     "addr:postcode": "3270",
     "addr:street": "Lyssstrasse",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Spital Aarberg",
     "id": "way/88279822"
   },

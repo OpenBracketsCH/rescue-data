@@ -2675,6 +2675,7 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Riedwies 1,2,3",
+    "preschool": "yes",
     "id": "way/35168675"
   },
   "geometry": {

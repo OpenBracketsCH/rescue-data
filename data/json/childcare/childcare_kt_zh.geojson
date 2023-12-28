@@ -104,6 +104,60 @@
 },
 {
   "type": "Feature",
+  "id": "way/35218240",
+  "properties": {
+    "addr:city": "Uetikon am See",
+    "addr:housenumber": "22",
+    "addr:postcode": "8707",
+    "addr:street": "Talstrasse",
+    "amenity": "childcare",
+    "building": "yes",
+    "name": "Kinderkrippe Tatzelwurm",
+    "website": "https://tatzelwurm.ch/",
+    "id": "way/35218240"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6825286,
+          47.2674616
+        ],
+        [
+          8.6823088,
+          47.2673005
+        ],
+        [
+          8.6823286,
+          47.2672894
+        ],
+        [
+          8.6824654,
+          47.2672129
+        ],
+        [
+          8.6826688,
+          47.2673765
+        ],
+        [
+          8.6826039,
+          47.2674159
+        ],
+        [
+          8.6825702,
+          47.2674364
+        ],
+        [
+          8.6825286,
+          47.2674616
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/43111281",
   "properties": {
     "addr:city": "Bachenbülach",
