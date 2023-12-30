@@ -358,6 +358,7 @@
     "addr:street": "Speerweg",
     "amenity": "fire_station",
     "building": "yes",
+    "name": "Feuerwehr Oetwil am See",
     "id": "way/24434272"
   },
   "geometry": {
