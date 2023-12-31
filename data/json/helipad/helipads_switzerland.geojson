@@ -3215,6 +3215,8 @@
   "id": "way/321993370",
   "properties": {
     "aeroway": "helipad",
+    "name": "Lodrino Heliport",
+    "source": "ourairports.com",
     "id": "way/321993370"
   },
   "geometry": {
@@ -22034,23 +22036,6 @@
     "coordinates": [
       8.6463087,
       46.4083934
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1042149385",
-  "properties": {
-    "aeroway": "helipad",
-    "name": "Lodrino Heliport",
-    "source": "ourairports.com",
-    "id": "node/1042149385"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.9939825,
-      46.2940764
     ]
   }
 },

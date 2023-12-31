@@ -40452,6 +40452,7 @@
   "id": "node/9245866369",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2023-12-30",
     "contact:city": "Zürich",
     "contact:housenumber": "111",
     "contact:postcode": "8005",
