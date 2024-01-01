@@ -6869,66 +6869,6 @@
       [
         8.6512203,
         47.4237578
-      ],
-      [
-        8.6509738,
-        47.4237765
-      ],
-      [
-        8.6504563,
-        47.4238093
-      ],
-      [
-        8.6499671,
-        47.4238334
-      ],
-      [
-        8.6497115,
-        47.4238444
-      ],
-      [
-        8.6494588,
-        47.4238485
-      ],
-      [
-        8.6482549,
-        47.4238655
-      ],
-      [
-        8.6479171,
-        47.4238602
-      ],
-      [
-        8.6476673,
-        47.4238543
-      ],
-      [
-        8.6474213,
-        47.4238473
-      ],
-      [
-        8.6471701,
-        47.42384
-      ],
-      [
-        8.6469172,
-        47.4238297
-      ],
-      [
-        8.6464031,
-        47.4237999
-      ],
-      [
-        8.646118,
-        47.4237813
-      ],
-      [
-        8.645831,
-        47.4237616
-      ],
-      [
-        8.6450079,
-        47.4236989
       ]
     ]
   }
@@ -39213,8 +39153,8 @@
         47.3871424
       ],
       [
-        8.6724716,
-        47.3869938
+        8.6723938,
+        47.3870256
       ]
     ]
   }
@@ -62153,8 +62093,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6724716,
-        47.3869938
+        8.6723938,
+        47.3870256
       ],
       [
         8.6732835,
@@ -62285,7 +62225,7 @@
     "nat_name": "N15",
     "old_name": "A53",
     "oneway": "yes",
-    "placement": "right_of:1",
+    "placement": "transition",
     "ref": "A15",
     "shoulder:right": "yes",
     "source:maxspeed": "CH:motorway",
@@ -62307,8 +62247,8 @@
         47.3836306
       ],
       [
-        8.6812417,
-        47.3838225
+        8.6809695,
+        47.3839669
       ]
     ]
   }
@@ -62318,7 +62258,7 @@
   "id": "way/545834242",
   "properties": {
     "alt_name": "Oberlandautobahn",
-    "change:lanes": "not_left|not_right|yes",
+    "change:lanes": "yes|not_right|yes",
     "highway": "motorway",
     "lanes": "3",
     "maxspeed": "120",
@@ -62408,26 +62348,24 @@
   "id": "way/545834246",
   "properties": {
     "alt_name": "Oberlandautobahn",
-    "change:lanes": "not_left|yes|no",
+    "change:lanes": "yes|yes|no",
     "highway": "motorway",
     "lanes": "3",
     "maxspeed": "120",
     "nat_name": "N15",
     "old_name": "A53",
     "oneway": "yes",
-    "placement": "right_of:1",
     "ref": "A15",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||slight_right",
     "id": "way/545834246"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.6888591,
-        47.378523
+        8.6888873,
+        47.3785067
       ],
       [
         8.6883908,
@@ -62442,12 +62380,12 @@
   "properties": {
     "alt_name": "Oberlandautobahn",
     "highway": "motorway",
-    "lanes": "3",
+    "lanes": "2",
     "maxspeed": "120",
     "nat_name": "N15",
     "old_name": "A53",
     "oneway": "yes",
-    "placement": "right_of:1",
+    "placement": "transition",
     "ref": "A15",
     "surface": "asphalt",
     "toll": "yes",
@@ -62458,12 +62396,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6894026,
-        47.3781932
+        8.689534,
+        47.3781106
       ],
       [
-        8.6888591,
-        47.378523
+        8.6888873,
+        47.3785067
       ]
     ]
   }
@@ -62487,8 +62425,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6812417,
-        47.3838225
+        8.6809695,
+        47.3839669
       ],
       [
         8.680676,
@@ -62522,13 +62460,14 @@
   "id": "way/545834251",
   "properties": {
     "alt_name": "Oberlandautobahn",
+    "change:lanes": "yes|not_right|yes",
     "highway": "motorway",
     "lanes": "3",
     "maxspeed": "120",
     "nat_name": "N15",
     "old_name": "A53",
     "oneway": "yes",
-    "placement": "right_of:1",
+    "placement": "transition",
     "ref": "A15",
     "shoulder:right": "yes",
     "source:maxspeed": "CH:motorway",
@@ -62550,8 +62489,8 @@
         47.3782036
       ],
       [
-        8.6896759,
-        47.3779
+        8.6897309,
+        47.3778709
       ]
     ]
   }
@@ -62561,14 +62500,13 @@
   "id": "way/545834252",
   "properties": {
     "alt_name": "Oberlandautobahn",
-    "change:lanes": "not_left|not_right|yes",
+    "change:lanes": "yes|not_right|yes",
     "highway": "motorway",
     "lanes": "3",
     "maxspeed": "120",
     "nat_name": "N15",
     "old_name": "A53",
     "oneway": "yes",
-    "placement": "right_of:1",
     "ref": "A15",
     "shoulder:right": "yes",
     "source:maxspeed": "CH:motorway",
@@ -62623,12 +62561,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6803013,
-        47.384164
+        8.6808123,
+        47.3838752
       ],
       [
-        8.6812323,
-        47.3836682
+        8.6812444,
+        47.3836428
       ],
       [
         8.6817166,
@@ -62716,8 +62654,8 @@
         47.3842734
       ],
       [
-        8.6803013,
-        47.384164
+        8.6802529,
+        47.3841871
       ]
     ]
   }
@@ -63171,8 +63109,8 @@
         47.3778256
       ],
       [
-        8.6894026,
-        47.3781932
+        8.689534,
+        47.3781106
       ]
     ]
   }
@@ -63282,8 +63220,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6896759,
-        47.3779
+        8.6897309,
+        47.3778709
       ],
       [
         8.6901222,
@@ -80417,6 +80355,155 @@
       [
         8.6401473,
         47.4228309
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1235781554",
+  "properties": {
+    "change:lanes": "yes|yes|yes|no",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "4",
+    "lit": "no",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "A1;A4",
+    "source:maxspeed": "CH:motorway",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1235781554"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6503101,
+        47.4238175
+      ],
+      [
+        8.6499671,
+        47.4238334
+      ],
+      [
+        8.6497115,
+        47.4238444
+      ],
+      [
+        8.6494588,
+        47.4238485
+      ],
+      [
+        8.6482549,
+        47.4238655
+      ],
+      [
+        8.6479171,
+        47.4238602
+      ],
+      [
+        8.6476673,
+        47.4238543
+      ],
+      [
+        8.6474213,
+        47.4238473
+      ],
+      [
+        8.6471701,
+        47.42384
+      ],
+      [
+        8.6469172,
+        47.4238297
+      ],
+      [
+        8.6464031,
+        47.4237999
+      ],
+      [
+        8.646118,
+        47.4237813
+      ],
+      [
+        8.645831,
+        47.4237616
+      ],
+      [
+        8.6450079,
+        47.4236989
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1235781555",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "placement": "transition",
+    "ref": "A1;A4",
+    "source:maxspeed": "CH:motorway",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1235781555"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6512203,
+        47.4237578
+      ],
+      [
+        8.6509738,
+        47.4237765
+      ],
+      [
+        8.6503101,
+        47.4238175
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1235810494",
+  "properties": {
+    "alt_name": "Oberlandautobahn",
+    "highway": "motorway",
+    "lanes": "2",
+    "maxspeed": "120",
+    "nat_name": "N15",
+    "old_name": "A53",
+    "oneway": "yes",
+    "placement": "transition",
+    "ref": "A15",
+    "shoulder:right": "yes",
+    "source:maxspeed": "CH:motorway",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through|through;slight_right",
+    "width": "7.4",
+    "id": "way/1235810494"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6802529,
+        47.3841871
+      ],
+      [
+        8.6808123,
+        47.3838752
       ]
     ]
   }
