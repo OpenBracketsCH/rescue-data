@@ -21080,6 +21080,7 @@
   "id": "way/1222245810",
   "properties": {
     "aeroway": "helipad",
+    "name": "H2",
     "operator": "Rose Helicopter AG",
     "id": "way/1222245810"
   },
@@ -21112,6 +21113,7 @@
   "id": "way/1222245811",
   "properties": {
     "aeroway": "helipad",
+    "name": "H1",
     "operator": "Rose Helicopter AG",
     "id": "way/1222245811"
   },

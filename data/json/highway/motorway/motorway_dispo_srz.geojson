@@ -4395,8 +4395,8 @@
         47.3507843
       ],
       [
-        8.7393033,
-        47.3505543
+        8.7392926,
+        47.3505607
       ]
     ]
   }
@@ -28683,8 +28683,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.7393033,
-        47.3505543
+        8.7392926,
+        47.3505607
       ],
       [
         8.739557,
@@ -28695,8 +28695,8 @@
         47.3502044
       ],
       [
-        8.740004,
-        47.350056
+        8.7399906,
+        47.3500615
       ]
     ]
   }
@@ -61610,7 +61610,7 @@
   "id": "way/545825871",
   "properties": {
     "alt_name": "Oberlandautobahn",
-    "change:lanes": "not_left|yes|no",
+    "change:lanes": "yes|yes|no",
     "highway": "motorway",
     "lanes": "3",
     "lit": "no",
@@ -61622,7 +61622,7 @@
     "ref": "A15",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "yes|yes|not_left",
+    "turn:lanes": "none|none|slight_right",
     "width": "10.8",
     "id": "way/545825871"
   },
@@ -61735,7 +61735,7 @@
     "ref": "A15",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "through|throurgh|merge_to_left",
+    "turn:lanes": "none|none|merge_to_left",
     "width": "10.8",
     "id": "way/545825880"
   },
@@ -61898,7 +61898,7 @@
     "ssvz": "1002",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "through|throurgh|merge_to_left",
+    "turn:lanes": "none|none|merge_to_left",
     "width": "10.5",
     "id": "way/545825890"
   },
@@ -80119,7 +80119,7 @@
   "properties": {
     "alt_name": "Oberlandautobahn",
     "highway": "motorway",
-    "lanes": "2",
+    "lanes": "3",
     "lit": "no",
     "maxspeed": "80",
     "nat_name": "N15",
@@ -80128,6 +80128,7 @@
     "placement": "transition",
     "ref": "A15",
     "toll": "yes",
+    "turn:lanes": "none|none|slight_right",
     "id": "way/1235633194"
   },
   "geometry": {
