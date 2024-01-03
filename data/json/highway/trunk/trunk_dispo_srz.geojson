@@ -2700,6 +2700,7 @@
     "lit": "yes",
     "maxspeed": "60",
     "name": "Knonauerstrasse",
+    "name:etymology:wikidata": "Q66328",
     "smoothness": "excellent",
     "surface": "asphalt",
     "id": "way/8079961"
