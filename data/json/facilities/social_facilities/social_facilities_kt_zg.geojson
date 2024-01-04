@@ -1387,6 +1387,7 @@
     "addr:housenumber": "3",
     "addr:postcode": "6312",
     "addr:street": "Kirchmattstrasse",
+    "alt_name": "Pflegezentrum Weiherpark",
     "amenity": "social_facility",
     "email": "leitung@weiherpark.ch",
     "name": "Seniorenzentrum Weiherpark",
@@ -1394,7 +1395,7 @@
     "phone": "+41 41 741 27 80",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
-    "website": "https://www.weiherpark.ch/Bibliothek/Wohnen.htm",
+    "website": "https://www.weiherpark.ch/",
     "id": "way/729375815"
   },
   "geometry": {
