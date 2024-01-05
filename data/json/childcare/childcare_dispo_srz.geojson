@@ -4154,13 +4154,13 @@
   "type": "Feature",
   "id": "node/482762658",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "9",
-    "addr:postcode": "8050",
-    "addr:street": "Max-Bill-Platz",
     "amenity": "childcare",
     "check_date": "2023-05-13",
-    "name": "Allegra Kinderhäuser",
+    "email": "kita.imbirch@unsere-champions.ch",
+    "name": "Allegra Kinderhaus Im Birch",
+    "opening_hours": "Mo-Fr 07:00-18:30",
+    "phone": "+41 44 310 64 64",
+    "website": "https://unsere-champions.ch/imbirch/",
     "wheelchair": "yes",
     "id": "node/482762658"
   },
@@ -13110,6 +13110,26 @@
     "coordinates": [
       8.556827,
       47.0521296
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11486572489",
+  "properties": {
+    "amenity": "childcare",
+    "email": "mupfelchischte@abbkinderkrippen.ch",
+    "name": "ABB Kinderkrippe Mupfelchischte",
+    "opening_hours": "Mo-Fr 07:00-18:30",
+    "phone": "+41 44 313 00 13",
+    "website": "https://www.abbkinderkrippen.ch/krippen-horte/mupfelchischte-oerlikon/",
+    "id": "node/11486572489"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5383499,
+      47.4142715
     ]
   }
 }

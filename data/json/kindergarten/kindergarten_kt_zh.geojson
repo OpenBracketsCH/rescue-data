@@ -437,6 +437,7 @@
     "amenity": "kindergarten",
     "building": "yes",
     "building:roof": "tile",
+    "check_date": "2024-01-04",
     "name": "Kita Fantasia",
     "operator": "Familiaris Winterthur",
     "operator:type": "private",
@@ -30176,6 +30177,7 @@
   "id": "way/945787337",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-01-04",
     "name": "Kindergarten Geissberg",
     "id": "way/945787337"
   },

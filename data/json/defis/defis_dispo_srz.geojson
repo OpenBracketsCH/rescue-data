@@ -17037,8 +17037,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5402105,
-      47.4107906
+      8.5402269,
+      47.4108068
     ]
   }
 },
@@ -49789,20 +49789,22 @@
   "id": "node/10240608410",
   "properties": {
     "access": "yes",
+    "check_date": "2024.01.01",
     "defibrillator:location": "Reppischtalstrasse 5",
     "description": "Bushaltestelle / Busgarage",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "operator": "Feuerwehr /Gemeinde Aeugst am Albis",
-    "phone": "+41447635060",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Aeugst am Albis",
+    "phone": "+41 44 763 50 60",
     "id": "node/10240608410"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4867687,
-      47.2845556
+      8.487018,
+      47.2845986
     ]
   }
 },
@@ -71230,6 +71232,29 @@
     "coordinates": [
       8.4683032,
       47.1804274
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11486139194",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Halle 550",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Migros-Genossenschafts-Bund",
+    "phone": "+41 58 543 95 50",
+    "wheelchair": "limited",
+    "id": "node/11486139194"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.538968,
+      47.4117471
     ]
   }
 }
