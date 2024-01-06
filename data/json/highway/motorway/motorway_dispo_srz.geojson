@@ -24889,6 +24889,7 @@
   "id": "way/38742143",
   "properties": {
     "destination": "San Bernardino;Chur;Zürich-City",
+    "destination:ref": "A 3",
     "highway": "motorway",
     "lanes": "2",
     "lit": "yes",
@@ -44843,6 +44844,10 @@
   "id": "way/210309227",
   "properties": {
     "designation": "Bern;Basel;Sankt Gallen;Westring-Zürich",
+    "destination": "Bern;Basel;St. Gallen;Westring-Zürich",
+    "destination:int_ref": "E 41",
+    "destination:ref": "A 3; A 4",
+    "destination:symbol": "airport",
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "1",
