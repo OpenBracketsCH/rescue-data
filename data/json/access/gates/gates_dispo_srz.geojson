@@ -15647,6 +15647,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/1347451684",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/1347451684"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7161858,
+      47.406545
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1350936301",
   "properties": {
     "barrier": "lift_gate",
@@ -51380,8 +51397,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5530337,
-      47.3756903
+      8.5530427,
+      47.3756791
     ]
   }
 },
