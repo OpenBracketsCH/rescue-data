@@ -1802,10 +1802,9 @@
   "id": "way/780915827",
   "properties": {
     "barrier": "gate",
-    "bicycle": "no",
     "description": "Froschschutz",
     "foot": "yes",
-    "motor_vehicle": "no",
+    "vehicle": "no",
     "id": "way/780915827"
   },
   "geometry": {
@@ -47545,8 +47544,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4901834,
-      47.3518419
+      8.4902008,
+      47.3518705
     ]
   }
 },
@@ -47562,8 +47561,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.490119,
-      47.3512452
+      8.4901151,
+      47.3512486
     ]
   }
 },

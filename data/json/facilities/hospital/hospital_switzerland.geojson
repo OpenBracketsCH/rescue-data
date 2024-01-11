@@ -13576,69 +13576,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/161924875",
-  "properties": {
-    "addr:city": "Speicher",
-    "addr:country": "CH",
-    "addr:housenumber": "5",
-    "addr:postcode": "9042",
-    "addr:state": "AR",
-    "addr:street": "Vögelinsegg",
-    "amenity": "clinic",
-    "building": "yes",
-    "healthcare": "clinic",
-    "name": "Berit Paracelsus Klinik",
-    "operator": "Berit Paracelsus Klinik AG",
-    "operator:type": "private",
-    "website": "https://beritklinik.ch/",
-    "id": "way/161924875"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          9.437498,
-          47.4149001
-        ],
-        [
-          9.4377119,
-          47.4148964
-        ],
-        [
-          9.4377113,
-          47.414918
-        ],
-        [
-          9.4377983,
-          47.4149144
-        ],
-        [
-          9.4378119,
-          47.4152953
-        ],
-        [
-          9.4377231,
-          47.4155743
-        ],
-        [
-          9.4375462,
-          47.4155761
-        ],
-        [
-          9.4373835,
-          47.4151345
-        ],
-        [
-          9.437498,
-          47.4149001
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/163033468",
   "properties": {
     "addr:city": "St. Urban",
@@ -54787,6 +54724,23 @@
     "coordinates": [
       6.5514217,
       46.5505264
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11505549442",
+  "properties": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Augenklinik Bellavista",
+    "id": "node/11505549442"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4377694,
+      47.4160259
     ]
   }
 }

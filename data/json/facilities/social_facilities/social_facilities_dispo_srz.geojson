@@ -3165,9 +3165,11 @@
     "addr:street": "Weissenrainstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-01-10",
     "name": "Altersheim Abendruh",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
+    "wheelchair": "yes",
     "id": "way/25918806"
   },
   "geometry": {
