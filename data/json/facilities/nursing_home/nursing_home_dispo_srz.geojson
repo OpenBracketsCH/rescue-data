@@ -13564,6 +13564,81 @@
 },
 {
   "type": "Feature",
+  "id": "way/187943413",
+  "properties": {
+    "addr:housenumber": "58",
+    "addr:street": "Hegnaustrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "wohnheim@arbeitsheim.ch",
+    "name": "Arbeitsheim Wangen",
+    "phone": "+44 44 805 99 00",
+    "social_facility": "nursing_home",
+    "website": "https://www.arbeitsheim.ch/",
+    "id": "way/187943413"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.648068,
+          47.4055689
+        ],
+        [
+          8.6479326,
+          47.4054695
+        ],
+        [
+          8.6481272,
+          47.4053481
+        ],
+        [
+          8.6482077,
+          47.4054072
+        ],
+        [
+          8.6483239,
+          47.4053347
+        ],
+        [
+          8.6484003,
+          47.4053908
+        ],
+        [
+          8.6483609,
+          47.4054154
+        ],
+        [
+          8.6483868,
+          47.4054344
+        ],
+        [
+          8.648262,
+          47.4055123
+        ],
+        [
+          8.6482361,
+          47.4054933
+        ],
+        [
+          8.6482105,
+          47.4055092
+        ],
+        [
+          8.648189,
+          47.4054934
+        ],
+        [
+          8.648068,
+          47.4055689
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/190257056",
   "properties": {
     "addr:city": "Freienbach",
@@ -25148,6 +25223,13 @@
   "id": "way/663517345",
   "properties": {
     "amenity": "social_facility",
+    "contact:city": "Horgen",
+    "contact:email": "info@www.stapferstiftung.ch",
+    "contact:housenumber": "1",
+    "contact:phone": "+41 44 727 48 00",
+    "contact:postcode": "8810",
+    "contact:street": "Lindenstrasse",
+    "contact:website": "https://www.stapferstiftung.ch/",
     "name": "Stapfer Stiftung",
     "social_facility": "group_home",
     "social_facility:for": "senior",
