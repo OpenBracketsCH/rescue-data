@@ -12530,6 +12530,53 @@
       47.4117471
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11510500871",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Securitas AG Einsatzzentrale",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "operator": "Securitas AG",
+    "phone": "+41589105858",
+    "id": "node/11510500871"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5187499,
+      47.3730025
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11510563569",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Max-Högger-Strasse 6",
+    "description": "Beim Empfang Links",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "5. OG",
+    "opening_hours": "Mo-Fr 8:00-17:00",
+    "operator": "Firma",
+    "phone": "+41444211919",
+    "id": "node/11510563569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4891601,
+      47.3937086
+    ]
+  }
 }
 ]
 }

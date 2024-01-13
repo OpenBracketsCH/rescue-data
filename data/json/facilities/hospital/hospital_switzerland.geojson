@@ -3388,16 +3388,16 @@
           47.3888109
         ],
         [
-          9.2824684,
-          47.3884484
+          9.2824421,
+          47.3884502
         ],
         [
-          9.2824007,
-          47.388432
+          9.2823699,
+          47.3884319
         ],
         [
-          9.2823475,
-          47.3884195
+          9.2823433,
+          47.3884255
         ],
         [
           9.2824696,
@@ -35606,6 +35606,8 @@
     "phone": "+41 61 305 11 11",
     "source": "GeoDaten Kanton Basel-Stadt",
     "website": "https://merianiselin.ch/klinik/",
+    "wikidata": "Q13142784",
+    "wikipedia": "als:Merian Iiseli Spiddaal",
     "id": "way/675964524"
   },
   "geometry": {
@@ -35841,7 +35843,7 @@
   "properties": {
     "amenity": "hospital",
     "healthcare": "hospital",
-    "name": "Klinik am Rosenberg",
+    "name": "Hirslanden Klinik am Rosenberg",
     "phone": "+41 71 898 52 52",
     "website": "https://www.hirslanden.ch/global/de/startseite/kliniken_zentren/klinik_am_rosenberg.html",
     "wikidata": "Q23783920",
@@ -39785,7 +39787,7 @@
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
-    "name": "Spital Heiden",
+    "name": "Medizinisches Ambulatorium",
     "operator": "Spitalverbund Appenzell-Ausserrhoden",
     "phone": "+41 71 898 61 11",
     "short_name": "KSH",

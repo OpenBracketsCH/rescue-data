@@ -5516,7 +5516,7 @@
   "id": "node/2677616092",
   "properties": {
     "amenity": "fire_station",
-    "name": "Betriebsfeuerwehr PUK Rheinau",
+    "name": "Stützpunktfeuerwehr Weinland - Depot Rheinau",
     "id": "node/2677616092"
   },
   "geometry": {
@@ -6046,11 +6046,11 @@
   "id": "node/7462551855",
   "properties": {
     "addr:city": "Uhwiesen",
-    "addr:housenumber": "5",
+    "addr:housenumber": "8",
     "addr:postcode": "8248",
     "addr:street": "Wassergasse",
     "amenity": "fire_station",
-    "name": "Feuerwehr Kohlfirst",
+    "name": "Stützpunktfeuerwehr Weinland - Depot Uhwiesen",
     "id": "node/7462551855"
   },
   "geometry": {
