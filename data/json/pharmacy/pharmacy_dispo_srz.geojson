@@ -1095,6 +1095,7 @@
     "addr:street": "Birmensdorferstrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date": "2024-01-13",
     "dispensing": "yes",
     "healthcare": "pharmacy",
     "name": "Werd Apotheke",
@@ -6709,12 +6710,14 @@
     "addr:postcode": "8045",
     "addr:street": "Giesshübelstrasse",
     "amenity": "pharmacy",
+    "check_date": "2024-01-13",
     "healthcare": "pharmacy",
     "level": "0",
     "name": "Apotheke Drogerie Brunaupark",
     "opening_hours": "Mo-Fr 09:00-19:00;Sa 08:00-18:00",
     "shop": "chemist",
     "website": "https://www.apotheke-drogerie-brunaupark.ch/",
+    "wheelchair": "yes",
     "id": "node/4912996195"
   },
   "geometry": {

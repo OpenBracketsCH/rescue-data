@@ -18128,26 +18128,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8758166417",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Bahnhof Langnau-Gattikon",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "operator": "SZU",
-    "id": "node/8758166417"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5439684,
-      47.2872371
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8764092303",
   "properties": {
     "access": "no",
@@ -54333,6 +54313,22 @@
     "coordinates": [
       8.4891601,
       47.3937086
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11513755733",
+  "properties": {
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "id": "node/11513755733"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5438382,
+      47.2871434
     ]
   }
 }
