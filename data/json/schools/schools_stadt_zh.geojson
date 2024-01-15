@@ -3482,7 +3482,7 @@
     "addr:street": "Turnerstrasse",
     "amenity": "school",
     "description": "Primarschule",
-    "name": "Schule Turner-Rösli",
+    "name": "Schule Weinberg-Turner",
     "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
     "website": "https://www.stadt-zuerich.ch/schulen/de/weinberg.html",
     "id": "way/37475222"
@@ -4537,6 +4537,7 @@
     "amenity": "school",
     "building": "yes",
     "name": "Montessori Tagesschule Blüemlisalp",
+    "phone": "+41 44 310 18 82",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
     "website": "http://www.tsba.ch/",
     "id": "way/87972373"

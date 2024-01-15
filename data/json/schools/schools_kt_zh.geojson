@@ -15572,7 +15572,7 @@
     "addr:street": "Turnerstrasse",
     "amenity": "school",
     "description": "Primarschule",
-    "name": "Schule Turner-Rösli",
+    "name": "Schule Weinberg-Turner",
     "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
     "website": "https://www.stadt-zuerich.ch/schulen/de/weinberg.html",
     "id": "way/37475222"
@@ -25927,6 +25927,7 @@
     "amenity": "school",
     "building": "yes",
     "name": "Montessori Tagesschule Blüemlisalp",
+    "phone": "+41 44 310 18 82",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
     "website": "http://www.tsba.ch/",
     "id": "way/87972373"
@@ -77831,8 +77832,8 @@
           47.419653
         ],
         [
-          8.6161084,
-          47.4201656
+          8.6161068,
+          47.4201655
         ],
         [
           8.6158705,
@@ -86774,6 +86775,51 @@
         [
           8.755268,
           47.30833
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/610862511",
+  "properties": {
+    "addr:city": "Glattpark (Opfikon)",
+    "addr:housenumber": "20",
+    "addr:postcode": "8152",
+    "addr:street": "Dufaux-Strasse",
+    "amenity": "school",
+    "grades": "1-4",
+    "name": "Primarschule Glattpark",
+    "opening_date": "2023-08-15",
+    "operator": "Gemeinde Opfikon",
+    "operator:type": "public",
+    "website": "https://www.schule-opfikon.ch/glattpark/unsere-schule/primarschule/p-399/",
+    "id": "way/610862511"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5604353,
+          47.4217458
+        ],
+        [
+          8.559834,
+          47.4210844
+        ],
+        [
+          8.5609314,
+          47.4206407
+        ],
+        [
+          8.5615098,
+          47.4212966
+        ],
+        [
+          8.5604353,
+          47.4217458
         ]
       ]
     ]
