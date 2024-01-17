@@ -50408,6 +50408,24 @@
       47.0162445
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11523655556",
+  "properties": {
+    "amenity": "kindergarten",
+    "check_date": "2024-01-16",
+    "name": "Kinderkrippe Bambi",
+    "website": "https://kinderkrippe-bambi.ch",
+    "id": "node/11523655556"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.500306,
+      47.422867
+    ]
+  }
 }
 ]
 }

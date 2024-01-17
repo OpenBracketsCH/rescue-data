@@ -330,9 +330,11 @@
     "addr:postcode": "8046",
     "addr:street": "In Böden",
     "amenity": "police",
+    "check_date": "2024-01-16",
     "name": "Quartierwache Affoltern",
     "opening_hours": "Mo 08:00-12:00, 13:00-17:00; Tu-Th 11:00-17:30",
     "operator": "Stadtpolizei Zürich",
+    "wheelchair": "yes",
     "id": "node/935796165"
   },
   "geometry": {
