@@ -25444,6 +25444,56 @@
 },
 {
   "type": "Feature",
+  "id": "way/284092328",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "400",
+    "addr:postcode": "8046",
+    "addr:street": "Binzmühlestrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "contact:phone": "+41 44 413 23 04",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/huerstholz/ueberuns/standorte/kindergaerten.html#kindergarten_huerstholz",
+    "isced:level": "0",
+    "name": "Kindergarten Hürstholz",
+    "operator:type": "public",
+    "id": "way/284092328"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5208675,
+          47.4148082
+        ],
+        [
+          8.5207501,
+          47.4146933
+        ],
+        [
+          8.5208659,
+          47.4146394
+        ],
+        [
+          8.5209687,
+          47.4145911
+        ],
+        [
+          8.5210841,
+          47.4147063
+        ],
+        [
+          8.5208675,
+          47.4148082
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/289329278",
   "properties": {
     "addr:city": "Hinwil",
@@ -28882,6 +28932,7 @@
     "addr:street": "Binzmühlestrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2024-01-17",
     "description": "GBZ-Siedlung Holzmatt II",
     "name": "Kindergarten Holzmatt",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Hürstholz",
@@ -37607,6 +37658,7 @@
   "id": "node/373513145",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-01-17",
     "contact:city": "Zürich",
     "contact:housenumber": "5",
     "contact:phone": "+41 44 413 07 06",
@@ -46083,30 +46135,6 @@
     "coordinates": [
       8.5037465,
       47.4193399
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9334376700",
-  "properties": {
-    "amenity": "kindergarten",
-    "contact:city": "Zürich",
-    "contact:housenumber": "491",
-    "contact:phone": "+41 44 413 23 04",
-    "contact:postcode": "8046",
-    "contact:street": "Seebacherstrasse",
-    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/huerstholz/ueberuns/standorte/kindergaerten.html#kindergarten_huerstholz",
-    "isced:level": "0",
-    "name": "Kindergarten Hürstholz",
-    "operator:type": "public",
-    "id": "node/9334376700"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5215081,
-      47.4148348
     ]
   }
 },

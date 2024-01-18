@@ -53268,8 +53268,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4757249,
-      47.1844683
+      8.4748299,
+      47.1842765
     ]
   }
 },
@@ -71595,6 +71595,52 @@
     "coordinates": [
       8.5715723,
       47.4495545
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11524133169",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Givaudan International SA",
+    "description": "Einsatzmaterial der Givaudan Betriebssanität",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "07:00 - 18:00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11524133169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7030065,
+      47.446168
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11524270369",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingang Turnhalle Schulhaus Wülflingerstrasse (aussen)",
+    "description": "durgehend zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Winterthur",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11524270369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7170881,
+      47.5058487
     ]
   }
 }

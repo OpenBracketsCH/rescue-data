@@ -54745,6 +54745,26 @@
       47.4160259
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11525057771",
+  "properties": {
+    "amenity": "clinic",
+    "name": "Zentrum für Tropen- und Reisemedizin",
+    "name:en": "Centre for Tropical and Travel Medicine",
+    "operator": "Swiss TPH",
+    "phone": "+41612848255",
+    "website": "https://travelmedicine.swisstph.ch/",
+    "id": "node/11525057771"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5955813,
+      47.551207
+    ]
+  }
 }
 ]
 }

@@ -276,6 +276,48 @@
 },
 {
   "type": "Feature",
+  "id": "way/210722426",
+  "properties": {
+    "aeroway": "helipad",
+    "emergency": "landing_site",
+    "ref": "RICHSP",
+    "website": "https://www.helipad.org/app/default.asp?padId=33",
+    "id": "way/210722426"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6991569,
+          47.2083027
+        ],
+        [
+          8.6992484,
+          47.2082602
+        ],
+        [
+          8.6993133,
+          47.2083247
+        ],
+        [
+          8.6992318,
+          47.2083625
+        ],
+        [
+          8.6992218,
+          47.2083672
+        ],
+        [
+          8.6991569,
+          47.2083027
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/211928046",
   "properties": {
     "aeroway": "helipad",
@@ -2426,19 +2468,147 @@
 },
 {
   "type": "Feature",
-  "id": "node/281385797",
+  "id": "way/1240566335",
   "properties": {
     "aeroway": "helipad",
-    "emergency": "landing_site",
-    "ref": "RICHSP",
-    "website": "https://www.helipad.org/app/default.asp?padId=33",
-    "id": "node/281385797"
+    "ref": "LSPV",
+    "surface": "paved",
+    "id": "way/1240566335"
   },
   "geometry": {
-    "type": "Point",
+    "type": "Polygon",
     "coordinates": [
-      8.6992421,
-      47.2083199
+      [
+        [
+          8.8654258,
+          47.2043342
+        ],
+        [
+          8.8654376,
+          47.2043005
+        ],
+        [
+          8.865504,
+          47.2043113
+        ],
+        [
+          8.8654922,
+          47.2043449
+        ],
+        [
+          8.8654258,
+          47.2043342
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1240566337",
+  "properties": {
+    "aeroway": "helipad",
+    "ref": "LSPV",
+    "surface": "paved",
+    "id": "way/1240566337"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8656568,
+          47.2043696
+        ],
+        [
+          8.8656675,
+          47.2043341
+        ],
+        [
+          8.8657345,
+          47.2043434
+        ],
+        [
+          8.8657238,
+          47.2043789
+        ],
+        [
+          8.8656568,
+          47.2043696
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1240566338",
+  "properties": {
+    "aeroway": "helipad",
+    "ref": "LSPV",
+    "surface": "paved",
+    "id": "way/1240566338"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.865982,
+          47.2044172
+        ],
+        [
+          8.8659936,
+          47.2043809
+        ],
+        [
+          8.866058,
+          47.2043904
+        ],
+        [
+          8.8660464,
+          47.2044267
+        ],
+        [
+          8.865982,
+          47.2044172
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1240566415",
+  "properties": {
+    "aeroway": "helipad",
+    "id": "way/1240566415"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5170302,
+          47.343497
+        ],
+        [
+          8.517066,
+          47.3434172
+        ],
+        [
+          8.5171767,
+          47.34344
+        ],
+        [
+          8.5171408,
+          47.3435199
+        ],
+        [
+          8.5170302,
+          47.343497
+        ]
+      ]
     ]
   }
 },
@@ -2455,72 +2625,6 @@
     "coordinates": [
       8.5513244,
       47.3741908
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1394053346",
-  "properties": {
-    "aeroway": "helipad",
-    "id": "node/1394053346"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5170985,
-      47.3434665
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10635697663",
-  "properties": {
-    "aeroway": "helipad",
-    "ref": "LSPV",
-    "surface": "paved",
-    "id": "node/10635697663"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8656988,
-      47.2043582
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10635697664",
-  "properties": {
-    "aeroway": "helipad",
-    "ref": "LSPV",
-    "surface": "paved",
-    "id": "node/10635697664"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8660223,
-      47.2044016
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10635697682",
-  "properties": {
-    "aeroway": "helipad",
-    "ref": "LSPV",
-    "surface": "paved",
-    "id": "node/10635697682"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8654649,
-      47.2043242
     ]
   }
 },
