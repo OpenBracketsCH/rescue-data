@@ -41195,11 +41195,10 @@
   "properties": {
     "access": "no",
     "defibrillator:location": "Bethlehemweg 12, 6405 Immensee",
-    "description": "Während Schulbetrieb verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 07:30-18:00",
+    "opening_hours": "Mo-Su 06:45-20:15",
     "operator": "Gymnasium Immensee",
     "phone": "+41418548181",
     "id": "node/9731780817"
@@ -71916,6 +71915,30 @@
     "coordinates": [
       8.6165975,
       47.4240194
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11530797569",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Gesundheitszentrum Gut",
+    "description": "wärend den Öffnungszeiten verfügbar 2.OG beim Eingang Kraftraumpersonal immer vor Ort",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2.OG",
+    "opening_hours": "Mo 07:00-21:00;Tu 07:00-21:00;We 07:00-21:00;Th 07:00-21:00;Fr 07:00-20:00;Sa 08:00-15:00;Su 08:00-15:00",
+    "operator": "Gesundheitszentrum",
+    "phone": "+41447683015",
+    "id": "node/11530797569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4593461,
+      47.2444593
     ]
   }
 }

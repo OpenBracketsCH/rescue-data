@@ -10378,6 +10378,38 @@
 },
 {
   "type": "Feature",
+  "id": "node/1042969674",
+  "properties": {
+    "access": "permissive",
+    "barrier": "gate",
+    "id": "node/1042969674"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4305921,
+      47.4372788
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1042970753",
+  "properties": {
+    "access": "permissive",
+    "barrier": "gate",
+    "id": "node/1042970753"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4285526,
+      47.4380949
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1044931338",
   "properties": {
     "barrier": "gate",

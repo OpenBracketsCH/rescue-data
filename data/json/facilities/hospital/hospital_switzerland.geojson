@@ -41532,8 +41532,8 @@
           46.1683691
         ],
         [
-          8.7915382,
-          46.1688684
+          8.7915004,
+          46.1688607
         ],
         [
           8.7914684,
@@ -42174,6 +42174,7 @@
     "operator": "Clienia Littenheid AG",
     "phone": "+41 71 929 60 60",
     "website": "https://www.clienia.ch/de/standorte/standorte-stationaer/thurgau/littenheid",
+    "wheelchair": "yes",
     "id": "way/681055950"
   },
   "geometry": {
