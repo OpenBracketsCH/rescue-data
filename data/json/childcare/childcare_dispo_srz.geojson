@@ -5276,25 +5276,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5043175515",
-  "properties": {
-    "amenity": "childcare",
-    "check_date": "2023-04-15",
-    "level": "0",
-    "name": "HelenDoron",
-    "operator:type": "private",
-    "id": "node/5043175515"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4022824,
-      47.4034639
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5053656692",
   "properties": {
     "age_group": "2-4",
@@ -13151,6 +13132,30 @@
     "coordinates": [
       8.5431217,
       47.2362707
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11534042083",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "11",
+    "addr:postcode": "8200",
+    "addr:street": "Zur Stahlgiesserei",
+    "amenity": "childcare",
+    "email": "kibis@sah-sh.ch",
+    "name": "Kibis Kindertagesstätte",
+    "opening_hours": "Mo-Fr 06:30-19:30",
+    "operator": "SAH Schaffhausen",
+    "website": "https://kibis-sh.ch",
+    "id": "node/11534042083"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6308869,
+      47.7054859
     ]
   }
 }

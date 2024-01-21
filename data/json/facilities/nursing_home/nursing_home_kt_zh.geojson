@@ -16427,53 +16427,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/309737699",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "68",
-    "addr:postcode": "8053",
-    "addr:street": "Drusbergstrasse",
-    "amenity": "social_facility",
-    "building": "residential",
-    "name": "Pflegewohngruppe Drusberg",
-    "phone": "+41 44 381 59 30",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
-    "website": "https://www.drusberg.info/",
-    "id": "way/309737699"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5831542,
-          47.3550015
-        ],
-        [
-          8.5829607,
-          47.3548841
-        ],
-        [
-          8.5830894,
-          47.3547868
-        ],
-        [
-          8.5832828,
-          47.3549042
-        ],
-        [
-          8.5831542,
-          47.3550015
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/311974884",
   "properties": {
     "addr:city": "Schöfflisdorf",
@@ -24018,9 +23971,10 @@
     "amenity": "social_facility",
     "capacity": "10",
     "name": "Pflegewohngruppe Hausäcker",
-    "operator": "Stadt Zürich, GUD",
+    "operator": "Stadt Zürich, GUD / Gesundheitszentren für das Alter",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
+    "wheelchair": "yes",
     "id": "node/5280368590"
   },
   "geometry": {

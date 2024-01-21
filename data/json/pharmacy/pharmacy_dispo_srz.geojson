@@ -2541,6 +2541,7 @@
     "amenity": "pharmacy",
     "branch": "Zürich Bahnhofstrasse",
     "brand": "Coop Vitality",
+    "check_date": "2024-01-20",
     "healthcare": "pharmacy",
     "level": "0",
     "name": "Coop Vitality",
@@ -4404,6 +4405,7 @@
     "amenity": "pharmacy",
     "branch": "Zürich Wiedikon M-Märt",
     "brand": "Achillea Apotheke",
+    "check_date": "2024-01-20",
     "healthcare": "pharmacy",
     "level": "0",
     "name": "Drogama Apotheke Drogerie",
@@ -6562,6 +6564,7 @@
     "addr:street": "Triemlistrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date": "2024-01-20",
     "dispensing": "yes",
     "name": "Triemli-Apotheke & Drogerie",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su 09:00-14:00",
@@ -6569,6 +6572,7 @@
     "phone": "+41 44 463 15 33",
     "shop": "chemist",
     "website": "https://www.triemli-apotheke.ch/",
+    "wheelchair": "yes",
     "id": "node/4838594398"
   },
   "geometry": {

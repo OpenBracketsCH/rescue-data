@@ -16923,56 +16923,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/174680951",
-  "properties": {
-    "addr:city": "Dietikon",
-    "addr:housename": "Kindergarten in der Lachen",
-    "addr:housenumber": "14",
-    "addr:postcode": "8953",
-    "addr:street": "In der Lachen",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten in der Lachen",
-    "id": "way/174680951"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.3997293,
-          47.3975632
-        ],
-        [
-          8.3995991,
-          47.3974533
-        ],
-        [
-          8.3996461,
-          47.3974267
-        ],
-        [
-          8.3996064,
-          47.397393
-        ],
-        [
-          8.3996483,
-          47.39737
-        ],
-        [
-          8.3998182,
-          47.3975138
-        ],
-        [
-          8.3997293,
-          47.3975632
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/176223663",
   "properties": {
     "addr:housenumber": "16",
@@ -40985,6 +40935,7 @@
     "addr:street": "Sieberstrasse",
     "amenity": "kindergarten",
     "capacity": "22",
+    "check_date": "2024-01-20",
     "name": "Kids & Co Kindertagesstätte Tiergarten",
     "opening_hours": "Mo-Fr 07:00-19:00",
     "operator": "profawo Zürich",

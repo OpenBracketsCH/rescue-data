@@ -172,6 +172,30 @@
       47.6618739
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11534042083",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "11",
+    "addr:postcode": "8200",
+    "addr:street": "Zur Stahlgiesserei",
+    "amenity": "childcare",
+    "email": "kibis@sah-sh.ch",
+    "name": "Kibis Kindertagesstätte",
+    "opening_hours": "Mo-Fr 06:30-19:30",
+    "operator": "SAH Schaffhausen",
+    "website": "https://kibis-sh.ch",
+    "id": "node/11534042083"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6308869,
+      47.7054859
+    ]
+  }
 }
 ]
 }

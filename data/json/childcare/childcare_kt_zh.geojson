@@ -5014,25 +5014,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5043175515",
-  "properties": {
-    "amenity": "childcare",
-    "check_date": "2023-04-15",
-    "level": "0",
-    "name": "HelenDoron",
-    "operator:type": "private",
-    "id": "node/5043175515"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4022824,
-      47.4034639
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5053656692",
   "properties": {
     "age_group": "2-4",
