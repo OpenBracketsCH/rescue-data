@@ -3793,9 +3793,9 @@
     "name:de": "Spitalzentrum Biel",
     "name:fr": "Centre hospitalier de Bienne",
     "type": "multipolygon",
-    "website": "https://www.spitalzentrum-biel.ch/home/",
     "wheelchair": "yes",
     "wikidata": "Q2311339",
+    "wikimedia_commons": "Category:Spitalzentrum Biel",
     "id": "relation/15578536"
   },
   "geometry": {
@@ -39505,7 +39505,11 @@
     "addr:street": "Hohmadstrasse",
     "amenity": "hospital",
     "emergency": "no",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
     "name": "Hohmad Privatklinik",
+    "operator": "Medaxo",
+    "operator:type": "private",
     "phone": "+41 33 225 25 80",
     "source": "https://geodienste.ch/",
     "website": "https://www.klinikhohmad.ch",
@@ -54768,6 +54772,30 @@
     "coordinates": [
       7.5955813,
       47.551207
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11537746961",
+  "properties": {
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "11",
+    "addr:postcode": "2502",
+    "addr:street": "Esplanade-Palais des Congrès",
+    "amenity": "clinic",
+    "contact:email": "info@occo-seeland.ch",
+    "contact:phone": "+41 32 633 41 48",
+    "contact:website": "https://occo-seeland.ch",
+    "healthcare": "clinic",
+    "name": "Occo",
+    "id": "node/11537746961"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2488794,
+      47.1358243
     ]
   }
 }

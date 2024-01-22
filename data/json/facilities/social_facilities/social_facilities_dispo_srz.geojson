@@ -36722,6 +36722,7 @@
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "2014",
+    "wheelchair": "yes",
     "id": "way/545775511"
   },
   "geometry": {

@@ -91193,6 +91193,128 @@
       47.4029929
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11536297939",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11536297939"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6255737,
+      47.401894
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11536297947",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11536297947"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6249956,
+      47.4016799
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11536297955",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11536297955"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6251642,
+      47.4015379
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11536337819",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11536337819"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6244901,
+      47.401406
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11536337832",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11536337832"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6242472,
+      47.4012414
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11536337875",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11536337875"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6252214,
+      47.4019491
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11537786854",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11537786854"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4260927,
+      47.439729
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11538219967",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/11538219967"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7345671,
+      47.4164768
+    ]
+  }
 }
 ]
 }

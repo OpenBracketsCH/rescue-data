@@ -1010,12 +1010,14 @@
     "branch": "Zürich Seebach",
     "brand": "Medbase",
     "brand:wikidata": "Q50038690",
+    "check_date": "2024-01-21",
     "dispensing": "yes",
     "name": "Medbase Apotheke Seebach",
     "old_name": "Niklaus Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
     "operator": "Medbase Apotheken",
     "website": "https://www.topwell.ch/medbaseapothekezuerichseebach/",
+    "wheelchair": "yes",
     "id": "node/310133210"
   },
   "geometry": {
@@ -4763,12 +4765,12 @@
     "addr:postcode": "8057",
     "addr:street": "Hofwiesenstrasse",
     "amenity": "pharmacy",
-    "check_date": "2023-06-24",
+    "check_date": "2024-01-21",
     "healthcare": "pharmacy",
     "name": "Wehntal-Apotheke",
     "opening_hours": "Mo-Fr 08:00-12:00, 14:00-18:30; Sa 08:30-12:30",
     "website": "http://www.wehntal-apotheke.ch/",
-    "wheelchair": "limited",
+    "wheelchair": "no",
     "id": "node/2479519173"
   },
   "geometry": {

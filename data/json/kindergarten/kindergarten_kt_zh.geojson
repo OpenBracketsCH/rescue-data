@@ -32771,6 +32771,74 @@
 },
 {
   "type": "Feature",
+  "id": "way/1241734833",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Waldspielgruppe",
+    "id": "way/1241734833"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6944928,
+          47.4398632
+        ],
+        [
+          8.6944971,
+          47.439852
+        ],
+        [
+          8.694509,
+          47.4398438
+        ],
+        [
+          8.6945255,
+          47.4398407
+        ],
+        [
+          8.694542,
+          47.4398436
+        ],
+        [
+          8.6945541,
+          47.4398517
+        ],
+        [
+          8.6945587,
+          47.4398628
+        ],
+        [
+          8.6945544,
+          47.4398739
+        ],
+        [
+          8.6945425,
+          47.4398822
+        ],
+        [
+          8.6945261,
+          47.4398853
+        ],
+        [
+          8.6945095,
+          47.4398824
+        ],
+        [
+          8.6944974,
+          47.4398743
+        ],
+        [
+          8.6944928,
+          47.4398632
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
@@ -33109,6 +33177,7 @@
   "id": "node/614451300",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-01-21",
     "name": "Krippe Windrädli",
     "id": "node/614451300"
   },
@@ -44684,6 +44753,26 @@
     "coordinates": [
       8.500306,
       47.422867
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11536951156",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "82a",
+    "addr:postcode": "8050",
+    "addr:street": "Glatttalstrasse",
+    "amenity": "kindergarten",
+    "name": "Kinderhort Eichrain 2+3",
+    "id": "node/11536951156"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5464235,
+      47.4282933
     ]
   }
 }

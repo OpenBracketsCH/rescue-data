@@ -23051,6 +23051,81 @@
 },
 {
   "type": "Feature",
+  "id": "way/1241596875",
+  "properties": {
+    "aeroway": "helipad",
+    "name": "Helilandeplatz Villa Hohegg",
+    "surface": "grass",
+    "id": "way/1241596875"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4036649,
+          46.9955461
+        ],
+        [
+          8.4037882,
+          46.9954326
+        ],
+        [
+          8.4039299,
+          46.9954978
+        ],
+        [
+          8.4038097,
+          46.9956112
+        ],
+        [
+          8.4036649,
+          46.9955461
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1241598036",
+  "properties": {
+    "aeroway": "helipad",
+    "name": "Rosebeiz / Schwesteregg",
+    "operator": "Rosebeitz",
+    "surface": "grass",
+    "id": "way/1241598036"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.9918997,
+          46.9960473
+        ],
+        [
+          7.9919728,
+          46.9959877
+        ],
+        [
+          7.9920633,
+          46.9960404
+        ],
+        [
+          7.9919911,
+          46.9960924
+        ],
+        [
+          7.9918997,
+          46.9960473
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/822278390",
   "properties": {
     "aeroway": "helipad",

@@ -5080,7 +5080,11 @@
   "id": "node/4128241330",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2024-01-21",
     "name": "Kinderkrippe Harmonie",
+    "phone": "+41 44 536 75 61",
+    "website": "https://grow2gether.com",
+    "wheelchair": "no",
     "id": "node/4128241330"
   },
   "geometry": {
