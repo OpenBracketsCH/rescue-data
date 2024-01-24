@@ -12434,6 +12434,23 @@
       47.2362707
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11542732869",
+  "properties": {
+    "addr:postcode": "8952",
+    "amenity": "childcare",
+    "name": "Kinderhort Schärerwiese",
+    "id": "node/11542732869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.44996,
+      47.396352
+    ]
+  }
 }
 ]
 }

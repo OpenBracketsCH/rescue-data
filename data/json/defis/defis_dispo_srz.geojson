@@ -4205,18 +4205,23 @@
   "type": "Feature",
   "id": "node/7080077070",
   "properties": {
+    "access": "customers",
     "defibrillator:location": "Im Pfister beim Haupteingang nach der Drehtüre links. Vis à vis der Kasse.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su off; PH off",
+    "operator": "Möbel Pfister",
+    "phone": "+41 44 823 95 22",
     "wheelchair": "yes",
     "id": "node/7080077070"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6012732,
-      47.4016773
+      8.6012922,
+      47.4017078
     ]
   }
 },
@@ -8599,6 +8604,7 @@
     "description": "Beim Sportplatz an der Wand",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "id": "node/7656550617"
   },
@@ -23114,6 +23120,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "operator": "Primarschule",
     "id": "node/8562637924"
   },
   "geometry": {
@@ -71961,6 +71968,41 @@
     "coordinates": [
       8.5531716,
       47.0480924
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11542478897",
+  "properties": {
+    "access": "unknown",
+    "emergency": "defibrillator",
+    "id": "node/11542478897"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7656155,
+      47.3366718
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11542498423",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Neben Eingang Restaurant Schwert",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "operator": "Restaurant Schwert",
+    "id": "node/11542498423"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9148427,
+      47.2755315
     ]
   }
 }

@@ -885,24 +885,40 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5738409,
-        47.4224858
+        8.573846,
+        47.4224773
       ],
       [
-        8.5738855,
-        47.4222026
+        8.5738903,
+        47.4222642
       ],
       [
-        8.5739195,
-        47.4220086
+        8.5739216,
+        47.4221023
       ],
       [
-        8.5739455,
-        47.4217638
+        8.5739442,
+        47.4219457
       ],
       [
-        8.5739777,
-        47.4214977
+        8.5739671,
+        47.4217619
+      ],
+      [
+        8.5739793,
+        47.4216246
+      ],
+      [
+        8.5740064,
+        47.4212198
+      ],
+      [
+        8.5740232,
+        47.4208319
+      ],
+      [
+        8.5740344,
+        47.4202081
       ]
     ]
   }
@@ -938,8 +954,8 @@
         47.42293
       ],
       [
-        8.5738409,
-        47.4224858
+        8.573846,
+        47.4224773
       ]
     ]
   }
@@ -6551,16 +6567,16 @@
         47.4138672
       ],
       [
-        8.5747499,
-        47.4140427
+        8.574747,
+        47.414049
       ],
       [
-        8.574725,
-        47.4141641
+        8.5747221,
+        47.414169
       ],
       [
-        8.5747036,
-        47.4142778
+        8.5747011,
+        47.4142788
       ]
     ]
   }
@@ -7921,6 +7937,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -12485,8 +12502,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5747036,
-        47.4142778
+        8.5747011,
+        47.4142788
       ],
       [
         8.5746849,
@@ -12502,7 +12519,6 @@
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "2",
-    "layer": "2",
     "lit": "yes",
     "maxspeed": "signals",
     "oneway": "yes",
@@ -12521,20 +12537,16 @@
         47.4143677
       ],
       [
-        8.5746479,
-        47.4146634
+        8.5746371,
+        47.4146615
       ],
       [
         8.5745895,
         47.414996
       ],
       [
-        8.5745437,
-        47.4154275
-      ],
-      [
-        8.5744879,
-        47.4162513
+        8.5745116,
+        47.4155704
       ]
     ]
   }
@@ -28030,6 +28042,7 @@
     "cs_dir:forward": "2",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "100",
     "oneway": "yes",
     "ref": "A3",
@@ -28394,47 +28407,13 @@
 },
 {
   "type": "Feature",
-  "id": "way/46703859",
-  "properties": {
-    "destination": "Zürich-City",
-    "highway": "motorway",
-    "lanes": "2",
-    "layer": "2",
-    "lit": "yes",
-    "maxspeed": "100",
-    "oneway": "yes",
-    "placement": "transition",
-    "ref": "A1L",
-    "surface": "asphalt",
-    "toll": "yes",
-    "id": "way/46703859"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.5741375,
-        47.4154769
-      ],
-      [
-        8.5741489,
-        47.4150998
-      ],
-      [
-        8.5741794,
-        47.4143198
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/46703860",
   "properties": {
+    "change:lanes": "yes|not_right|no|not_left|yes",
     "destination": "Sankt Gallen;Schaffhausen",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
-    "lanes": "2",
+    "lanes": "5",
     "lit": "yes",
     "maxspeed": "100",
     "oneway": "yes",
@@ -28442,18 +28421,19 @@
     "ref": "A1;A4",
     "surface": "asphalt",
     "toll": "yes",
+    "turn:lanes": "none|none|none|none|merge_to_left",
     "id": "way/46703860"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.5741761,
-        47.4177389
+        8.5741282,
+        47.4188023
       ],
       [
-        8.5741955,
-        47.4169338
+        8.5741407,
+        47.4174411
       ]
     ]
   }
@@ -28462,7 +28442,7 @@
   "type": "Feature",
   "id": "way/46703861",
   "properties": {
-    "change:lanes": "not_left|not_left|not_right",
+    "change:lanes": "yes|not_left|yes",
     "destination": "Bern;Chur;Luzern;Nordring-Zürich",
     "destination:int_ref": "E 41;E 60",
     "destination:ref": "A 1;A 4",
@@ -28484,16 +28464,46 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5745494,
-        47.4204595
+        8.5745347,
+        47.4201909
       ],
       [
-        8.5745162,
-        47.4207536
+        8.5745295,
+        47.4207626
       ],
       [
-        8.5745107,
-        47.4210408
+        8.5745021,
+        47.4211979
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/46703862",
+  "properties": {
+    "highway": "motorway",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "placement": "right_of:1",
+    "ref": "A1L",
+    "shoulder:left": "yes",
+    "surface": "asphalt",
+    "toll": "no",
+    "id": "way/46703862"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5740344,
+        47.4202081
+      ],
+      [
+        8.5740497,
+        47.4195641
       ]
     ]
   }
@@ -32443,12 +32453,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5745107,
-        47.4210408
+        8.5745021,
+        47.4211979
       ],
       [
-        8.5745022,
-        47.4212244
+        8.5744946,
+        47.4213242
       ],
       [
         8.5744894,
@@ -35142,51 +35152,20 @@
         47.4210404
       ],
       [
-        8.5742543,
-        47.4204696
+        8.5742567,
+        47.4204728
       ],
       [
-        8.5742189,
-        47.4200808
+        8.5742267,
+        47.4200877
       ],
       [
-        8.5742002,
-        47.4197232
+        8.5742165,
+        47.419913
       ],
       [
-        8.5741865,
-        47.4193928
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/132683810",
-  "properties": {
-    "bridge": "yes",
-    "highway": "motorway",
-    "int_ref": "E 41;E 60",
-    "lanes": "2",
-    "layer": "1",
-    "lit": "yes",
-    "maxspeed": "100",
-    "oneway": "yes",
-    "ref": "A1;A4",
-    "surface": "asphalt",
-    "toll": "yes",
-    "id": "way/132683810"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.5742874,
-        47.4143285
-      ],
-      [
-        8.5742953,
-        47.4142426
+        8.5741686,
+        47.4193941
       ]
     ]
   }
@@ -35332,8 +35311,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5743942,
-        47.4133027
+        8.5743719,
+        47.4134079
       ],
       [
         8.5744376,
@@ -35422,8 +35401,9 @@
   "id": "way/132683818",
   "properties": {
     "bridge": "yes",
+    "destination": "Zürich-City",
     "highway": "motorway",
-    "lanes": "2",
+    "lanes": "1",
     "layer": "1",
     "lit": "yes",
     "maxspeed": "100",
@@ -35437,12 +35417,20 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5741794,
-        47.4143198
+        8.5741981,
+        47.4143217
       ],
       [
-        8.5741804,
-        47.4142469
+        8.5741607,
+        47.4137309
+      ],
+      [
+        8.5741499,
+        47.4136176
+      ],
+      [
+        8.5741349,
+        47.4135109
       ]
     ]
   }
@@ -35453,7 +35441,7 @@
   "properties": {
     "bridge": "yes",
     "highway": "motorway",
-    "lanes": "2",
+    "lanes": "1",
     "layer": "1",
     "lit": "yes",
     "maxspeed": "80",
@@ -35462,35 +35450,26 @@
     "source:maxspeed": "sign",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "merge_to_right|none",
     "id": "way/132683821"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.5741804,
-        47.4142469
+        8.5741349,
+        47.4135109
       ],
       [
-        8.5741868,
-        47.4139982
+        8.5741277,
+        47.4134627
       ],
       [
-        8.5741667,
-        47.4137042
+        8.574104,
+        47.4133577
       ],
       [
-        8.5741518,
-        47.4135579
-      ],
-      [
-        8.5741254,
-        47.4134186
-      ],
-      [
-        8.5740801,
-        47.4132809
+        8.5740817,
+        47.4132838
       ]
     ]
   }
@@ -35517,12 +35496,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5742449,
-        47.4228444
+        8.5742269,
+        47.4228391
       ],
       [
-        8.5741315,
-        47.4230065
+        8.5741252,
+        47.422989
       ]
     ]
   }
@@ -35547,32 +35526,32 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5741315,
-        47.4230065
+        8.5741252,
+        47.422989
       ],
       [
-        8.5739422,
-        47.4232675
+        8.5739344,
+        47.4232686
       ],
       [
-        8.5738405,
-        47.4234344
+        8.5738311,
+        47.4234413
       ],
       [
-        8.5737552,
-        47.4235904
+        8.5737607,
+        47.4235697
       ],
       [
-        8.5736892,
-        47.4237219
+        8.5736845,
+        47.4237267
       ],
       [
-        8.5736383,
-        47.4238402
+        8.5736179,
+        47.4238848
       ],
       [
-        8.5735663,
-        47.4240216
+        8.5735632,
+        47.424028
       ],
       [
         8.5735098,
@@ -37195,64 +37174,64 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5746324,
-        47.4207613
+        8.5746402,
+        47.4207661
       ],
       [
         8.5746812,
         47.4209854
       ],
       [
-        8.5747184,
-        47.4212123
+        8.5747027,
+        47.421137
       ],
       [
-        8.5747342,
-        47.4213723
+        8.5747145,
+        47.4212686
       ],
       [
-        8.5747335,
-        47.4215276
+        8.5747248,
+        47.4214195
       ],
       [
-        8.5747215,
-        47.4216926
+        8.5747241,
+        47.4215833
+      ],
+      [
+        8.5747097,
+        47.4217499
       ],
       [
         8.5746931,
         47.4218599
       ],
       [
-        8.5746496,
-        47.4220476
+        8.5746418,
+        47.4220561
       ],
       [
-        8.5746163,
-        47.4221484
+        8.5745959,
+        47.4221946
       ],
       [
-        8.5745786,
-        47.4222376
+        8.5745281,
+        47.422344
       ],
       [
-        8.5745336,
-        47.4223413
+        8.5744621,
+        47.4224628
       ],
       [
-        8.5744809,
-        47.4224416
+        8.5743978,
+        47.4225767
       ],
       [
-        8.5744276,
-        47.4225412
+        8.5743512,
+        47.4226494
       ],
       [
-        8.5743661,
-        47.4226399
-      ],
-      [
-        8.5742449,
-        47.4228444
+        8.5742269,
+        47.4228391
       ]
     ]
   }
@@ -39190,6 +39169,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
@@ -39415,6 +39395,7 @@
     "cs_dir:forward": "1",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -42426,7 +42407,7 @@
   "id": "way/194211720",
   "properties": {
     "bridge": "yes",
-    "change:lanes": "not_left|not_left|not_right",
+    "change:lanes": "yes|not_left|yes",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "3",
@@ -42446,11 +42427,11 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5744812,
-        47.4164287
+        8.5744898,
+        47.4164326
       ],
       [
-        8.5744875,
+        8.5744832,
         47.4169229
       ]
     ]
@@ -42460,7 +42441,7 @@
   "type": "Feature",
   "id": "way/194211721",
   "properties": {
-    "change:lanes": "not_left|not_left|yes|not_right",
+    "change:lanes": "yes|not_left|yes|yes",
     "destination:int_ref:lanes": "|E 41;E 60|E 41;E 60|",
     "destination:lanes": "|Bern;Chur;Luzern;Nordring-Zürich|Bern;Chur;Luzern;Nordring-Zürich|Bülach;Flughafen",
     "destination:ref:lanes": "|A1;A4|A1;A4|A11",
@@ -42483,28 +42464,28 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5744806,
+        8.5744691,
         47.4181919
       ],
       [
-        8.5744784,
-        47.4185759
+        8.5744698,
+        47.4186918
       ],
       [
-        8.5744854,
-        47.4189754
+        8.5744724,
+        47.4190173
       ],
       [
-        8.5744904,
-        47.419377
+        8.5744861,
+        47.4193945
       ],
       [
-        8.5745141,
-        47.4199317
+        8.5744959,
+        47.4197017
       ],
       [
-        8.5745494,
-        47.4204595
+        8.5745347,
+        47.4201909
       ]
     ]
   }
@@ -66363,7 +66344,7 @@
   "type": "Feature",
   "id": "way/554267355",
   "properties": {
-    "change:lanes": "not_left|not_left|not_right|no",
+    "change:lanes": "yes|not_left|yes|yes",
     "destination:int_ref:lanes": "|E 41;E 60|E 41;E 60|",
     "destination:lanes": "|Bern;Chur;Luzern;Nordring-Zürich|Bern;Chur;Luzern;Nordring-Zürich|Bülach;Flughafen",
     "destination:ref:lanes": "|A1;A4|A1;A4|A11",
@@ -66385,11 +66366,11 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5745078,
-        47.4175387
+        8.5744848,
+        47.4174335
       ],
       [
-        8.5744806,
+        8.5744691,
         47.4181919
       ]
     ]
@@ -66399,7 +66380,7 @@
   "type": "Feature",
   "id": "way/554267357",
   "properties": {
-    "change:lanes": "no|not_left|not_right",
+    "change:lanes": "no|not_left|yes",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "3",
@@ -66418,12 +66399,16 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5744879,
-        47.4162513
+        8.5745116,
+        47.4155704
       ],
       [
-        8.5744812,
-        47.4164287
+        8.574503,
+        47.4157373
+      ],
+      [
+        8.5744959,
+        47.4161114
       ]
     ]
   }
@@ -66454,12 +66439,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5745494,
-        47.4204595
+        8.5745347,
+        47.4201909
       ],
       [
-        8.5746324,
-        47.4207613
+        8.5746402,
+        47.4207661
       ]
     ]
   }
@@ -66485,12 +66470,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5741865,
-        47.4193928
+        8.5741686,
+        47.4193941
       ],
       [
-        8.5741761,
-        47.4177389
+        8.5741282,
+        47.4188023
       ]
     ]
   }
@@ -72034,12 +72019,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5744875,
+        8.5744832,
         47.4169229
       ],
       [
-        8.5745078,
-        47.4175387
+        8.5744848,
+        47.4174335
       ]
     ]
   }
@@ -72795,134 +72780,14 @@
 },
 {
   "type": "Feature",
-  "id": "way/788998839",
-  "properties": {
-    "change:lanes": "not_left|not_right|yes",
-    "highway": "motorway",
-    "lanes": "1",
-    "lit": "yes",
-    "maxspeed": "100",
-    "nat_name": "N11",
-    "old_name": "A51",
-    "oneway": "yes",
-    "placement": "right_of:1",
-    "ref": "A11",
-    "shoulder:right": "yes",
-    "surface": "asphalt",
-    "toll": "no",
-    "turn:lanes": "none|none|merge_to_left",
-    "id": "way/788998839"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.5739777,
-        47.4214977
-      ],
-      [
-        8.5740317,
-        47.4211914
-      ],
-      [
-        8.5740635,
-        47.4203568
-      ],
-      [
-        8.5740883,
-        47.419585
-      ],
-      [
-        8.574096,
-        47.4190656
-      ],
-      [
-        8.5741391,
-        47.4169338
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/788998840",
-  "properties": {
-    "change:lanes": "not_left|not_right|yes",
-    "highway": "motorway",
-    "lanes": "1",
-    "layer": "2",
-    "lit": "yes",
-    "maxspeed": "100",
-    "nat_name": "N11",
-    "old_name": "A51",
-    "oneway": "yes",
-    "placement": "right_of:1",
-    "ref": "A11",
-    "shoulder:right": "yes",
-    "surface": "asphalt",
-    "toll": "no",
-    "turn:lanes": "none|none|merge_to_left",
-    "id": "way/788998840"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.5741555,
-        47.4164441
-      ],
-      [
-        8.5742282,
-        47.4157407
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/788998841",
-  "properties": {
-    "bridge": "yes",
-    "change:lanes": "not_left|not_right|yes",
-    "highway": "motorway",
-    "lanes": "1",
-    "layer": "1",
-    "lit": "yes",
-    "maxspeed": "100",
-    "nat_name": "N11",
-    "old_name": "A51",
-    "oneway": "yes",
-    "placement": "right_of:1",
-    "ref": "A11",
-    "shoulder:right": "yes",
-    "surface": "asphalt",
-    "toll": "no",
-    "turn:lanes": "none|none|merge_to_left",
-    "id": "way/788998841"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.5741391,
-        47.4169338
-      ],
-      [
-        8.5741555,
-        47.4164441
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/788998842",
   "properties": {
     "bridge": "yes",
-    "destination": "Sankt Gallen;Schaffhausen",
+    "change:lanes": "yes|yes|not_right|not_left",
+    "destination:lanes": "Sankt Gallen;Schaffhausen|Sankt Gallen;Schaffhausen|Sankt Gallen;Schaffhausen|Zürich-City",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
-    "lanes": "2",
+    "lanes": "4",
     "layer": "1",
     "lit": "yes",
     "maxspeed": "100",
@@ -72937,78 +72802,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5741955,
-        47.4169338
+        8.5741681,
+        47.4169396
       ],
       [
-        8.5742235,
-        47.4164454
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/788998844",
-  "properties": {
-    "change:lanes": "not_left|not_right|yes",
-    "highway": "motorway",
-    "lanes": "1",
-    "lit": "yes",
-    "maxspeed": "100",
-    "oneway": "yes",
-    "placement": "right_of:1",
-    "ref": "A1L",
-    "shoulder:left": "yes",
-    "surface": "asphalt",
-    "toll": "no",
-    "turn:lanes": "none|none|merge_to_left",
-    "id": "way/788998844"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.5741079,
-        47.4164453
-      ],
-      [
-        8.5741375,
-        47.4154769
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/788998845",
-  "properties": {
-    "bridge": "yes",
-    "change:lanes": "not_left|not_right|yes",
-    "highway": "motorway",
-    "lanes": "1",
-    "layer": "1",
-    "lit": "yes",
-    "maxspeed": "100",
-    "oneway": "yes",
-    "placement": "right_of:1",
-    "ref": "A1L",
-    "shoulder:left": "yes",
-    "surface": "asphalt",
-    "toll": "no",
-    "turn:lanes": "none|none|merge_to_left",
-    "id": "way/788998845"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.5740853,
-        47.416932
-      ],
-      [
-        8.5741079,
-        47.4164453
+        8.5741774,
+        47.4164357
       ]
     ]
   }
@@ -73357,9 +73156,10 @@
   "id": "way/789013794",
   "properties": {
     "bridge": "yes",
+    "destination": "Sankt Gallen;Schaffhausen",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
-    "lanes": "2",
+    "lanes": "3",
     "layer": "1",
     "lit": "yes",
     "maxspeed": "100",
@@ -73374,56 +73174,32 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5742953,
-        47.4142426
+        8.5742622,
+        47.4143331
       ],
       [
-        8.5743059,
-        47.4139666
+        8.5742857,
+        47.4140967
       ],
       [
-        8.5743328,
-        47.4136822
+        8.574308,
+        47.4138444
       ],
       [
-        8.574375,
-        47.4134508
+        8.574322,
+        47.4137031
       ],
       [
-        8.5743942,
-        47.4133027
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/789048684",
-  "properties": {
-    "change:lanes": "not_left|not_right|yes",
-    "highway": "motorway",
-    "lanes": "1",
-    "lit": "yes",
-    "maxspeed": "100",
-    "oneway": "yes",
-    "placement": "right_of:1",
-    "ref": "A1L",
-    "shoulder:left": "yes",
-    "surface": "asphalt",
-    "toll": "no",
-    "turn:lanes": "none|none|merge_to_left",
-    "id": "way/789048684"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.5740358,
-        47.4188102
+        8.5743375,
+        47.413576
       ],
       [
-        8.5740853,
-        47.416932
+        8.5743541,
+        47.4134844
+      ],
+      [
+        8.5743719,
+        47.4134079
       ]
     ]
   }
@@ -73432,10 +73208,11 @@
   "type": "Feature",
   "id": "way/789051407",
   "properties": {
-    "destination": "Sankt Gallen;Schaffhausen",
+    "change:lanes": "yes|yes|not_right|not_left",
+    "destination:lanes": "Sankt Gallen;Schaffhausen|Sankt Gallen;Schaffhausen|Sankt Gallen;Schaffhausen|Zürich-City",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
-    "lanes": "2",
+    "lanes": "4",
     "layer": "2",
     "lit": "yes",
     "maxspeed": "100",
@@ -73450,16 +73227,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5742235,
-        47.4164454
+        8.5741774,
+        47.4164357
       ],
       [
-        8.5742453,
-        47.4160684
-      ],
-      [
-        8.5742282,
-        47.4157407
+        8.5742023,
+        47.415766
       ]
     ]
   }
@@ -73468,10 +73241,11 @@
   "type": "Feature",
   "id": "way/789270052",
   "properties": {
-    "destination": "Sankt Gallen;Schaffhausen",
+    "change:lanes": "yes|yes|not_right|not_left",
+    "destination:lanes": "Sankt Gallen;Schaffhausen|Sankt Gallen;Schaffhausen|Sankt Gallen;Schaffhausen|Zürich-City",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
-    "lanes": "2",
+    "lanes": "4",
     "lit": "yes",
     "maxspeed": "100",
     "oneway": "yes",
@@ -73485,12 +73259,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5742282,
-        47.4157407
+        8.5742023,
+        47.415766
       ],
       [
-        8.5742874,
-        47.4143285
+        8.5742391,
+        47.4146676
       ]
     ]
   }
@@ -81798,6 +81572,163 @@
       [
         8.6094767,
         47.4084926
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1242394952",
+  "properties": {
+    "change:lanes": "yes|not_left|yes",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "signals",
+    "oneway": "yes",
+    "placement": "right_of:2",
+    "ref": "A1;A4",
+    "shoulder:left": "yes",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1242394952"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5744959,
+        47.4161114
+      ],
+      [
+        8.5744898,
+        47.4164326
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1242400743",
+  "properties": {
+    "destination": "Sankt Gallen;Schaffhausen",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "placement": "transition",
+    "ref": "A1;A4",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1242400743"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5742391,
+        47.4146676
+      ],
+      [
+        8.5742622,
+        47.4143331
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1242400744",
+  "properties": {
+    "change:lanes": "yes|yes|not_right|not_left",
+    "destination:lanes": "Sankt Gallen;Schaffhausen|Sankt Gallen;Schaffhausen|Sankt Gallen;Schaffhausen|Zürich-City",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "placement": "transition",
+    "ref": "A1;A4",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1242400744"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5741407,
+        47.4174411
+      ],
+      [
+        8.5741681,
+        47.4169396
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1242400745",
+  "properties": {
+    "change:lanes": "no|no|no",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "placement": "right_of:1",
+    "ref": "A1L",
+    "shoulder:left": "yes",
+    "surface": "asphalt",
+    "toll": "no",
+    "turn:lanes": "none|none|merge_to_left",
+    "id": "way/1242400745"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5740497,
+        47.4195641
+      ],
+      [
+        8.5741282,
+        47.4188023
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1242400746",
+  "properties": {
+    "destination": "Zürich-City",
+    "highway": "motorway",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A1L",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1242400746"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5742391,
+        47.4146676
+      ],
+      [
+        8.5741981,
+        47.4143217
       ]
     ]
   }
