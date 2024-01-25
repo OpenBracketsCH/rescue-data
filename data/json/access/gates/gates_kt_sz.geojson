@@ -6209,6 +6209,7 @@
   "id": "node/11307760338",
   "properties": {
     "barrier": "lift_gate",
+    "lift_gate:type": "single",
     "id": "node/11307760338"
   },
   "geometry": {

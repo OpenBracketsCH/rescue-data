@@ -44775,6 +44775,27 @@
       47.4282933
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11545518776",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "45",
+    "addr:postcode": "8038",
+    "addr:street": "Paradiesstrasse",
+    "amenity": "kindergarten",
+    "contact:website": "https://www.stadt-zuerich.ch/kita-paradies",
+    "name": "Kita Paradies",
+    "id": "node/11545518776"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5270991,
+      47.334211
+    ]
+  }
 }
 ]
 }
