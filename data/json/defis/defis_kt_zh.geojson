@@ -52963,26 +52963,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11377869369",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Bei der Garage Montiert",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "id": "node/11377869369"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.729333,
-      47.5329028
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11379798269",
   "properties": {
     "access": "no",
@@ -54832,6 +54812,54 @@
     "coordinates": [
       8.6307263,
       47.4461136
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11549959869",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Geeren, im Gang vor der Tür zur Turnhalle",
+    "description": "während dem Schulbetrieb verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "operator": "Gemeindeverwaltung Bassersdorf",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11549959869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6223149,
+      47.4428919
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11550576569",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "BSFH Berufsfachschule",
+    "description": "Während der Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "2",
+    "opening_hours": "Mo-Fr 8:00-17:00",
+    "operator": "BSFH Berufsfachschule",
+    "phone": "+41 44 302 06 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11550576569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5453409,
+      47.4159029
     ]
   }
 }
