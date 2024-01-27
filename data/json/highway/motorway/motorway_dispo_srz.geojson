@@ -7938,6 +7938,7 @@
     "highway": "motorway",
     "lanes": "2",
     "lit": "no",
+    "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -57935,6 +57936,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
