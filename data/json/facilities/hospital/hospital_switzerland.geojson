@@ -3792,6 +3792,7 @@
     "name": "Centre hospitalier Bienne / Spitalzentrum Biel",
     "name:de": "Spitalzentrum Biel",
     "name:fr": "Centre hospitalier de Bienne",
+    "toilets:wheelchair": "yes",
     "type": "multipolygon",
     "wheelchair": "yes",
     "wikidata": "Q2311339",
@@ -53481,6 +53482,7 @@
     "name": "GNZ Wattwil",
     "operator": "Berit Klinik",
     "operator:type": "community",
+    "wheelchair": "yes",
     "id": "node/9720364632"
   },
   "geometry": {
