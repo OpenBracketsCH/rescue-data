@@ -38135,11 +38135,13 @@
     "addr:housenumber": "122",
     "addr:street": "Sielva",
     "amenity": "hospital",
+    "check_date": "2024-01-29",
     "emergency": "yes",
     "name": "Center da sandà Val Müstair",
     "name:de": "Gesundheitszentrum Val Müstair",
     "phone": "+41 81 851 61 00",
     "website": "https://update.csvm.ch/de/",
+    "wheelchair": "yes",
     "id": "way/677018870"
   },
   "geometry": {

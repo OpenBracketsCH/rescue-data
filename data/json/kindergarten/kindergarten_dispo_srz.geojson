@@ -44376,9 +44376,10 @@
   "type": "Feature",
   "id": "node/7191372873",
   "properties": {
+    "alt_name": "Winkelweg Chindsgi",
     "amenity": "kindergarten",
     "level": "0",
-    "name": "Winkelweg Chindsgi",
+    "name": "Kindergarten Winkelweg",
     "operator:type": "public",
     "id": "node/7191372873"
   },
@@ -50564,6 +50565,22 @@
     "coordinates": [
       8.5270991,
       47.334211
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11563738992",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Ausserdorf",
+    "id": "node/11563738992"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.903233,
+      47.1754223
     ]
   }
 }
