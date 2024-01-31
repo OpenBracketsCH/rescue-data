@@ -17766,6 +17766,7 @@
     "addr:street": "Plaz",
     "amenity": "clinic",
     "building": "yes",
+    "check_date": "2024-01-30",
     "healthcare": "clinic",
     "healthcare:speciality": "psychiatry",
     "name": "Clinica Holistica Engiadina",

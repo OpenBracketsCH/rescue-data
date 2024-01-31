@@ -3707,6 +3707,151 @@
 },
 {
   "type": "Feature",
+  "id": "way/1244578980",
+  "properties": {
+    "barrier": "gate",
+    "height": "1.5",
+    "material": "metal",
+    "id": "way/1244578980"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4428207,
+        47.4342651
+      ],
+      [
+        8.4428041,
+        47.4342168
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1244578981",
+  "properties": {
+    "barrier": "gate",
+    "height": "1.5",
+    "material": "wood",
+    "id": "way/1244578981"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4405621,
+        47.4360593
+      ],
+      [
+        8.4405465,
+        47.436043
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1244578996",
+  "properties": {
+    "barrier": "gate",
+    "id": "way/1244578996"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.444668,
+        47.4335719
+      ],
+      [
+        8.4446544,
+        47.4336019
+      ],
+      [
+        8.444637,
+        47.4336404
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1244578998",
+  "properties": {
+    "barrier": "gate",
+    "fence_type": "metal",
+    "material": "metal",
+    "id": "way/1244578998"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4460569,
+        47.4329623
+      ],
+      [
+        8.4460023,
+        47.4329294
+      ],
+      [
+        8.4459804,
+        47.4329161
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1244579000",
+  "properties": {
+    "barrier": "gate",
+    "fence_type": "metal",
+    "material": "metal",
+    "id": "way/1244579000"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4455547,
+        47.4339409
+      ],
+      [
+        8.4456208,
+        47.433927
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1244579050",
+  "properties": {
+    "barrier": "gate",
+    "fence_type": "metal",
+    "height": "1.5",
+    "material": "metal",
+    "id": "way/1244579050"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4445788,
+        47.4335637
+      ],
+      [
+        8.4446059,
+        47.4335025
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/25427486",
   "properties": {
     "barrier": "gate",
@@ -55521,6 +55666,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/6614561681",
+  "properties": {
+    "barrier": "gate",
+    "foot": "yes",
+    "locked": "no",
+    "id": "node/6614561681"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4531094,
+      47.4312496
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6621225339",
   "properties": {
     "barrier": "gate",
@@ -91650,6 +91812,38 @@
     "coordinates": [
       8.7728302,
       47.521363
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11569259844",
+  "properties": {
+    "access": "permissive",
+    "barrier": "gate",
+    "locked": "no",
+    "id": "node/11569259844"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4518798,
+      47.4303133
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11570992940",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11570992940"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6311963,
+      47.2720796
     ]
   }
 }
