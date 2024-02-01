@@ -27325,6 +27325,7 @@
   "id": "way/705211045",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-01-31",
     "name": "Kindergarten Oerlikoner",
     "id": "way/705211045"
   },
@@ -36312,6 +36313,7 @@
   "id": "node/5170831389",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-01-31",
     "contact:city": "Zürich",
     "contact:housenumber": "98",
     "contact:phone": "+41 44 413 77 21",

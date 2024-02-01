@@ -43625,52 +43625,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/944995062",
-  "properties": {
-    "addr:city": "Dübendorf",
-    "addr:housenumber": "1",
-    "addr:postcode": "8600",
-    "addr:street": "Giessenplatz",
-    "amenity": "social_facility",
-    "building": "yes",
-    "email": "giessenturm@tertianum.ch",
-    "name": "Tertianum Giessenturm",
-    "operator": "Tertianum Management AG Dübendorf",
-    "phone": "+41 43 549 03 03",
-    "social_facility": "nursing_home",
-    "website": "https://www.tertianum.ch/de/tertianum-giessenturm-duebendorf",
-    "id": "way/944995062"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6135672,
-          47.4008166
-        ],
-        [
-          8.6134762,
-          47.4006061
-        ],
-        [
-          8.6138215,
-          47.4005377
-        ],
-        [
-          8.6139125,
-          47.4007481
-        ],
-        [
-          8.6135672,
-          47.4008166
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/952996514",
   "properties": {
     "amenity": "social_facility",
@@ -48142,52 +48096,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1181357933",
-  "properties": {
-    "addr:city": "Dübendorf",
-    "addr:housenumber": "3",
-    "addr:postcode": "8600",
-    "addr:street": "Giessenplatz",
-    "amenity": "social_facility",
-    "building": "yes",
-    "email": "giessenturm@tertianum.ch",
-    "name": "Tertianum Giessenturm",
-    "operator": "Tertianum Management AG Dübendorf",
-    "phone": "+41 43 549 03 03",
-    "social_facility": "nursing_home",
-    "website": "https://www.tertianum.ch/de/tertianum-giessenturm-duebendorf",
-    "id": "way/1181357933"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6142578,
-          47.4006797
-        ],
-        [
-          8.6141668,
-          47.4004693
-        ],
-        [
-          8.6145121,
-          47.4004008
-        ],
-        [
-          8.6146031,
-          47.4006113
-        ],
-        [
-          8.6142578,
-          47.4006797
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1181357934",
   "properties": {
     "addr:city": "Dübendorf",
@@ -48209,24 +48117,36 @@
     "coordinates": [
       [
         [
-          8.6139125,
-          47.4007481
+          8.6135658,
+          47.4008156
         ],
         [
-          8.6138215,
-          47.4005377
+          8.6134748,
+          47.4006052
         ],
         [
-          8.6141668,
-          47.4004693
+          8.6135971,
+          47.4005774
         ],
         [
-          8.6142578,
-          47.4006797
+          8.6140305,
+          47.4004966
         ],
         [
-          8.6139125,
-          47.4007481
+          8.6143265,
+          47.4004357
+        ],
+        [
+          8.6145111,
+          47.4003996
+        ],
+        [
+          8.6146029,
+          47.4006105
+        ],
+        [
+          8.6135658,
+          47.4008156
         ]
       ]
     ]

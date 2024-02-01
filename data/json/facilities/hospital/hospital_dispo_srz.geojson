@@ -13305,6 +13305,22 @@
       47.3481751
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11574857764",
+  "properties": {
+    "amenity": "clinic",
+    "name": "Physio Lorze",
+    "id": "node/11574857764"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4581751,
+      47.1822726
+    ]
+  }
 }
 ]
 }

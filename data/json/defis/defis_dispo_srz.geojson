@@ -2487,28 +2487,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6976909979",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Eingang Tierpark",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "Gemeindeverwaltung Arth",
-    "phone": "+41 41 859 02 02",
-    "id": "node/6976909979"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5535162,
-      47.0515877
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6976909980",
   "properties": {
     "access": "yes",
@@ -17510,8 +17488,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.459017,
-      47.1805603
+      8.4590197,
+      47.1805562
     ]
   }
 },
@@ -72219,6 +72197,98 @@
     "coordinates": [
       8.8405609,
       47.3057751
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11572596269",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Zugerstrasse 50",
+    "description": "Von 08:00 bis 17:00",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "operator": "SIKA",
+    "phone": "+41584366800",
+    "id": "node/11572596269"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5207187,
+      47.18693
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11572642369",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "FME Feinmechanik AG",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:30-17:00",
+    "operator": "FME Feinmechanik AG",
+    "phone": "+41448681414",
+    "id": "node/11572642369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5632688,
+      47.5717074
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11573102971",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Laubisrütistrasse 42a, 8712 Stäfa",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "3",
+    "operator": "Sensirion AG",
+    "phone": "+41449271411",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11573102971"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7461263,
+      47.2378082
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11573726170",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Gemeindshaus Embrach",
+    "description": "Aussen am Gebäude angebracht",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "Aussen",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde",
+    "id": "node/11573726170"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5946552,
+      47.5023356
     ]
   }
 }
