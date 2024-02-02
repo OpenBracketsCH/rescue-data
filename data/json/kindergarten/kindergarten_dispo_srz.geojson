@@ -4874,7 +4874,9 @@
   "type": "Feature",
   "id": "way/43795949",
   "properties": {
+    "addr:city": "Winkel",
     "addr:housenumber": "4",
+    "addr:postcode": "8185",
     "addr:street": "Wisentalstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
@@ -4882,7 +4884,6 @@
     "name": "Kindergarten Meadows Montessori",
     "roof:levels": "2",
     "roof:shape": "gabled",
-    "source": "Yahoo aerial images",
     "id": "way/43795949"
   },
   "geometry": {
@@ -4890,24 +4891,24 @@
     "coordinates": [
       [
         [
-          8.5549141,
-          47.4782295
+          8.5549352,
+          47.4782235
         ],
         [
-          8.5550615,
-          47.4780691
+          8.5550739,
+          47.4780643
         ],
         [
-          8.555208,
-          47.4781251
+          8.5552047,
+          47.4781164
         ],
         [
-          8.5550561,
-          47.4782874
+          8.555066,
+          47.4782755
         ],
         [
-          8.5549141,
-          47.4782295
+          8.5549352,
+          47.4782235
         ]
       ]
     ]

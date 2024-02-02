@@ -11218,18 +11218,19 @@
   "id": "node/7853369112",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Im Werkgebäude",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Haupteingang Feuerwehrgebäude",
+    "description": "24/7 verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "opening_hours": "24/7",
+    "operator": "Feuerwehr Wallisellen",
     "id": "node/7853369112"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5827617,
-      47.4130915
+      8.5828593,
+      47.4129811
     ]
   }
 },
@@ -11237,18 +11238,18 @@
   "type": "Feature",
   "id": "node/7853369113",
   "properties": {
-    "access": "yes",
     "defibrillator:location": "bei der Feuerwehr",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "operator": "Feuerwehr Wallisellen",
     "id": "node/7853369113"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5827389,
-      47.412723
+      8.5827099,
+      47.4128595
     ]
   }
 },
@@ -72289,6 +72290,30 @@
     "coordinates": [
       8.5946552,
       47.5023356
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11576274769",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Seestrasse 110 F",
+    "description": "beim Eingang links",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2.OG",
+    "opening_hours": "Mo-Fr   09:00 -16:00",
+    "operator": "Berufswahlschule Uster",
+    "phone": "+41434442344",
+    "id": "node/11576274769"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6965526,
+      47.348691
     ]
   }
 }
