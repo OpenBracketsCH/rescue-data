@@ -6424,6 +6424,28 @@
       47.366147
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11578887862",
+  "properties": {
+    "addr:city": "Wallisellen",
+    "addr:housenumber": "11",
+    "addr:postcode": "8304",
+    "addr:street": "Industriestrasse",
+    "amenity": "fire_station",
+    "name": "Feuerwehr Wallisellen",
+    "operator": "Stadt Wallisellen",
+    "phone": "+41448302279",
+    "id": "node/11578887862"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5827102,
+      47.412929
+    ]
+  }
 }
 ]
 }
