@@ -626,6 +626,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "maxspeed:type": "CH:motorway",
     "oneway": "yes",
@@ -8272,6 +8273,7 @@
     "cs_dir:forward": "2",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -8424,6 +8426,7 @@
     "avz": "607",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",

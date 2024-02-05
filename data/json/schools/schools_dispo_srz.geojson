@@ -125384,6 +125384,70 @@
 },
 {
   "type": "Feature",
+  "id": "way/1245999681",
+  "properties": {
+    "amenity": "school",
+    "grades": "0-6",
+    "name": "Schulanlage Grossacher",
+    "operator": "Schule Winkel",
+    "operator:type": "public",
+    "website": "https://www.schule-winkel.ch/",
+    "id": "way/1245999681"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5572127,
+          47.4877708
+        ],
+        [
+          8.5574881,
+          47.4869041
+        ],
+        [
+          8.557967,
+          47.4869638
+        ],
+        [
+          8.5584501,
+          47.4869069
+        ],
+        [
+          8.5589351,
+          47.4869597
+        ],
+        [
+          8.5589372,
+          47.4875083
+        ],
+        [
+          8.559153,
+          47.4880222
+        ],
+        [
+          8.5583966,
+          47.4881111
+        ],
+        [
+          8.558152,
+          47.4879555
+        ],
+        [
+          8.5573648,
+          47.4878361
+        ],
+        [
+          8.5572127,
+          47.4877708
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/256335788",
   "properties": {
     "amenity": "school",
@@ -127244,36 +127308,6 @@
     "coordinates": [
       8.643981,
       47.4470425
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5308796521",
-  "properties": {
-    "amenity": "school",
-    "id": "node/5308796521"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5586416,
-      47.4878873
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5308796621",
-  "properties": {
-    "amenity": "school",
-    "id": "node/5308796621"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5584671,
-      47.487501
     ]
   }
 },
