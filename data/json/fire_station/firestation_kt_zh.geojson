@@ -5643,6 +5643,7 @@
     "amenity": "fire_station",
     "name": "Milizfeuerwehr Kompanie Zürich West",
     "operator": "Stadt Zürich",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/feuerwehr/freiwillige_feuerwehr/formationen_auf_einenblick/formationen-brand/kp_zh_west.html",
     "id": "node/4265648191"
   },
   "geometry": {

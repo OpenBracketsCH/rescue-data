@@ -18345,7 +18345,8 @@
     "building": "yes",
     "name": "Hort Allenmoos 1 & 2",
     "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
-    "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
+    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "wikidata": "Q124432748",
     "id": "way/192153614"
   },
   "geometry": {
@@ -38639,30 +38640,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1584041804",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "100",
-    "addr:postcode": "8404",
-    "addr:street": "Else-Züblin-Strasse",
-    "amenity": "kindergarten",
-    "name": "Kita am Park",
-    "operator": "Kita am Park GmbH",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "https://www.kita-ampark.ch/",
-    "id": "node/1584041804"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7653414,
-      47.5036492
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1608430484",
   "properties": {
     "addr:housenumber": "117a",
@@ -39373,31 +39350,6 @@
     "coordinates": [
       8.62647,
       47.6888693
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2424804588",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "79",
-    "addr:postcode": "8404",
-    "addr:street": "Ida-Sträuli-Strasse",
-    "amenity": "kindergarten",
-    "name": "Kita Äntenäscht",
-    "operator": "Familiaris Winterthur",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "https://www.familiaris.ch/aentenaescht/",
-    "wheelchair": "yes",
-    "id": "node/2424804588"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7657961,
-      47.5036658
     ]
   }
 },
@@ -41047,6 +40999,24 @@
 },
 {
   "type": "Feature",
+  "id": "node/4952798655",
+  "properties": {
+    "amenity": "kindergarten",
+    "check_date": "2024-02-05",
+    "name": "krippe kinderparadies",
+    "wheelchair": "yes",
+    "id": "node/4952798655"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5111328,
+      47.3646064
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4952798656",
   "properties": {
     "addr:city": "Zürich",
@@ -41077,6 +41047,7 @@
   "properties": {
     "amenity": "kindergarten",
     "capacity": "18",
+    "check_date": "2024-02-05",
     "contact:city": "Zürich",
     "contact:housenumber": "18",
     "contact:phone": "+41 44 413 78 49",
@@ -42227,6 +42198,7 @@
   "id": "node/6061461127",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-02-05",
     "name": "Kindergarten Ägerten",
     "id": "node/6061461127"
   },

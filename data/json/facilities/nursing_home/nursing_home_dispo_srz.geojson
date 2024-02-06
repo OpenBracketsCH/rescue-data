@@ -30784,6 +30784,7 @@
     "operator": "Stadt Zürich, GUD",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
+    "website": "https://www.stadt-zuerich.ch/zuerich-im-alter/de/index/wohnen/alters-und-pflegeheime/Kreis_2/lienihof.html",
     "id": "node/5280368591"
   },
   "geometry": {

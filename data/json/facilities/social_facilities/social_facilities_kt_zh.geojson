@@ -7995,28 +7995,32 @@
     "coordinates": [
       [
         [
-          8.6190092,
-          47.3988817
+          8.6190009,
+          47.3988837
         ],
         [
-          8.6192694,
-          47.3988101
+          8.6192684,
+          47.3988103
         ],
         [
-          8.6192852,
-          47.3988367
+          8.6192858,
+          47.3988393
         ],
         [
-          8.6193354,
-          47.3989211
+          8.619334,
+          47.3989198
         ],
         [
-          8.6190774,
-          47.3989935
+          8.6193359,
+          47.3989229
         ],
         [
-          8.6190092,
-          47.3988817
+          8.6190684,
+          47.3989963
+        ],
+        [
+          8.6190009,
+          47.3988837
         ]
       ]
     ]
@@ -29848,6 +29852,7 @@
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "1973",
+    "website": "https://www.stadt-zuerich.ch/zuerich-im-alter/de/index/wohnen/alterswohnungen/Kreis_9/saw_werdhoelzli.html",
     "id": "way/545775507"
   },
   "geometry": {
@@ -30026,6 +30031,7 @@
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "1978",
+    "website": "https://www.stadt-zuerich.ch/zuerich-im-alter/de/index/wohnen/alterswohnungen/Kreis_11/saw_riedenhalden.html",
     "id": "way/545775510"
   },
   "geometry": {
@@ -30239,6 +30245,7 @@
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "1958",
+    "website": "https://www.stadt-zuerich.ch/zuerich-im-alter/de/index/wohnen/alterswohnungen/Kreis_11/saw_felsenrain.html",
     "id": "way/545775513"
   },
   "geometry": {
@@ -30480,6 +30487,7 @@
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "1972",
+    "website": "https://www.stadt-zuerich.ch/zuerich-im-alter/de/index/wohnen/alterswohnungen/Kreis_6/saw_irchel.html",
     "id": "way/545775516"
   },
   "geometry": {
@@ -30596,6 +30604,7 @@
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "1968",
+    "website": "https://www.stadt-zuerich.ch/zuerich-im-alter/de/index/wohnen/alterswohnungen/Kreis_3/saw_friesenberg.html",
     "id": "way/545775517"
   },
   "geometry": {
@@ -40676,6 +40685,7 @@
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "1976",
+    "website": "https://www.stadt-zuerich.ch/zuerich-im-alter/de/index/wohnen/alterswohnungen/Kreis_2/saw_mittelleimbach.html",
     "id": "node/5254279796"
   },
   "geometry": {
@@ -40765,6 +40775,7 @@
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "1975",
+    "website": "https://www.stadt-zuerich.ch/zuerich-im-alter/de/index/wohnen/alterswohnungen/Kreis_9/saw_gruenau.html",
     "id": "node/5274656854"
   },
   "geometry": {
@@ -40963,6 +40974,7 @@
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "1972",
+    "website": "https://www.stadt-zuerich.ch/zuerich-im-alter/de/index/wohnen/alterswohnungen/Kreis_7/saw_gladbachstrasse.html",
     "id": "node/5274657029"
   },
   "geometry": {
@@ -41006,6 +41018,7 @@
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "2013",
+    "website": "https://www.stadt-zuerich.ch/zuerich-im-alter/de/index/wohnen/alterswohnungen/Kreis_8/saw_seefeldstrasse.html",
     "id": "node/5274657031"
   },
   "geometry": {
@@ -41253,6 +41266,7 @@
     "operator": "Stadt Zürich, GUD",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
+    "website": "https://www.stadt-zuerich.ch/zuerich-im-alter/de/index/wohnen/alters-und-pflegeheime/Kreis_2/lienihof.html",
     "id": "node/5280368591"
   },
   "geometry": {
@@ -41968,6 +41982,7 @@
     "addr:postcode": "8004",
     "addr:street": "Agnesstrasse",
     "amenity": "social_facility",
+    "check_date": "2024-02-05",
     "name": "Spitex-Zentrum Aussersihl/Hard",
     "operator": "Spitex Zürich Limmat",
     "phone": "+41 58 404 36 36",
@@ -46172,6 +46187,51 @@
     "coordinates": [
       8.5969976,
       47.3616984
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11589475136",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "65",
+    "addr:postcode": "8404",
+    "addr:street": "Ida-Sträuli-Strasse",
+    "amenity": "social_facility",
+    "name": "Chupferhammer",
+    "social_facility": "assisted_living",
+    "social_facility:for": "disabled;mental_health",
+    "id": "node/11589475136"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7663311,
+      47.5040091
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11589475137",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "75",
+    "addr:postcode": "8404",
+    "addr:street": "Ida-Sträuli-Strasse",
+    "amenity": "social_facility",
+    "name": "andante Tageszentrum",
+    "operator": "Stiftung andante",
+    "social_facility": "workshop",
+    "social_facility:for": "disabled",
+    "id": "node/11589475137"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7656386,
+      47.5042887
     ]
   }
 }
