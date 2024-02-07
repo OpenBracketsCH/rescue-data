@@ -22180,8 +22180,8 @@
           47.5181035
         ],
         [
-          8.7588463,
-          47.5181118
+          8.7588603,
+          47.5181127
         ],
         [
           8.7592655,
@@ -50199,6 +50199,7 @@
   "id": "node/5274657031",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2024-02-06",
     "name": "SAW-Siedlung Seefeldstrasse",
     "operator": "Stiftung Alterswohnungen der Stadt Zürich (SAW)",
     "social_facility": "assisted_living",
@@ -50210,8 +50211,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5500746,
-      47.3625849
+      8.5500459,
+      47.3625948
     ]
   }
 },
