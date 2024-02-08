@@ -24240,6 +24240,21 @@
       47.1940466
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11594240577",
+  "properties": {
+    "aeroway": "helipad",
+    "id": "node/11594240577"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7874911,
+      46.2573042
+    ]
+  }
 }
 ]
 }

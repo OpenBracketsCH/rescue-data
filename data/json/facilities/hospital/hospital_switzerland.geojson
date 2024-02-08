@@ -53512,10 +53512,12 @@
     "addr:housenumber": "14",
     "addr:postcode": "8952",
     "addr:street": "Wagistrasse",
+    "alt_name": "PET/CT-MR Zentrum Schlieren USZ",
     "amenity": "clinic",
     "email": "nuklearmedizin@usz.ch",
     "healthcare": "clinic",
-    "name": "PET/CT-MR Zentrum Schlieren USZ Klinik",
+    "name": "USZ Wagi 14",
+    "operator": "USZ",
     "phone": "+41 43 254 04 11",
     "website": "https://www.usz.ch/",
     "id": "node/9662210482"
@@ -54922,6 +54924,41 @@
     "coordinates": [
       8.4581751,
       47.1822726
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11594926769",
+  "properties": {
+    "healthcare": "clinic",
+    "name": "ALTIUS Swiss Sportmed Center AG",
+    "website": "https://www.altius.ag/",
+    "id": "node/11594926769"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7903996,
+      47.5531236
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11594926793",
+  "properties": {
+    "healthcare": "clinic",
+    "healthcare:speciality": "plastic_surgery",
+    "name": "AESTHEA",
+    "website": "https://www.aesthea.ch",
+    "id": "node/11594926793"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7983338,
+      47.5579648
     ]
   }
 }

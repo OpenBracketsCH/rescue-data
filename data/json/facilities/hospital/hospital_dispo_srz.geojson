@@ -12967,10 +12967,12 @@
     "addr:housenumber": "14",
     "addr:postcode": "8952",
     "addr:street": "Wagistrasse",
+    "alt_name": "PET/CT-MR Zentrum Schlieren USZ",
     "amenity": "clinic",
     "email": "nuklearmedizin@usz.ch",
     "healthcare": "clinic",
-    "name": "PET/CT-MR Zentrum Schlieren USZ Klinik",
+    "name": "USZ Wagi 14",
+    "operator": "USZ",
     "phone": "+41 43 254 04 11",
     "website": "https://www.usz.ch/",
     "id": "node/9662210482"
