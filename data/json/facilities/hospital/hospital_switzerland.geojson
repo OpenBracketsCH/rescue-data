@@ -11084,11 +11084,14 @@
   "type": "Feature",
   "id": "way/100053000",
   "properties": {
+    "alt_name": "Klinik für Suchttherapie",
     "amenity": "clinic",
     "building": "yes",
-    "healthcare": "clinic",
-    "name": "Klinik für Suchttherapie",
+    "healthcare": "rehabilitation",
+    "name": "Entzug Neuenhof",
+    "operator": "entero Stiftung",
     "source": "Bing",
+    "website": "https://www.entero.ch/de/klinik/entzug-neuenhof",
     "id": "way/100053000"
   },
   "geometry": {
@@ -14796,8 +14799,10 @@
     "amenity": "hospital",
     "emergency": "no",
     "name": "Klinik Barmelweid",
+    "official_name": "Klinik und Pflegezentrum Barmelweid",
     "operator": "Klinik und Pflegezentrum Barmelweid",
     "place": "neighbourhood",
+    "website": "https://www.barmelweid.ch/",
     "wheelchair": "yes",
     "wikidata": "Q1670503",
     "id": "way/170327038"
@@ -15598,6 +15603,7 @@
   "id": "way/189529423",
   "properties": {
     "amenity": "hospital",
+    "contact:website": "https://www.felixplatter.ch/",
     "healthcare": "hospital",
     "name": "Felix-Platter-Spital",
     "wheelchair": "yes",
@@ -17751,6 +17757,82 @@
         [
           7.6843878,
           47.5695679
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/243587365",
+  "properties": {
+    "addr:city": "Bad Zurzach",
+    "addr:country": "CH",
+    "addr:housenumber": "33",
+    "addr:postcode": "5330",
+    "addr:street": "Badstrasse",
+    "amenity": "clinic",
+    "building": "yes",
+    "building:levels": "3",
+    "email": "ksm.zurzach@ksm.ch",
+    "fax": "+41 56 269 60 39",
+    "healthcare": "clinic",
+    "name": "Klinik für Schlafmedizin",
+    "phone": "+41 56 269 60 20",
+    "website": "https://www.ksm.ch",
+    "id": "way/243587365"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.2874023,
+          47.590787
+        ],
+        [
+          8.2872624,
+          47.5906813
+        ],
+        [
+          8.2873287,
+          47.5906414
+        ],
+        [
+          8.2872389,
+          47.5905736
+        ],
+        [
+          8.287419,
+          47.5904652
+        ],
+        [
+          8.2874442,
+          47.5904825
+        ],
+        [
+          8.2876456,
+          47.5906362
+        ],
+        [
+          8.2879733,
+          47.5908843
+        ],
+        [
+          8.2878218,
+          47.5909754
+        ],
+        [
+          8.2877912,
+          47.5909938
+        ],
+        [
+          8.2874666,
+          47.5907483
+        ],
+        [
+          8.2874023,
+          47.590787
         ]
       ]
     ]
@@ -24060,6 +24142,52 @@
         [
           8.7232657,
           47.4996361
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/382674794",
+  "properties": {
+    "addr:city": "Aarau",
+    "addr:housenumber": "4",
+    "addr:postcode": "5000",
+    "addr:street": "Bahnhofplatz",
+    "amenity": "clinic",
+    "building:part": "yes",
+    "email": "aarau@pallas-kliniken.ch",
+    "healthcare": "clinic",
+    "indoor": "yes",
+    "name": "Pallas Augenklinik Aarau",
+    "operator": "Palls Kliniken",
+    "website": "https://www.pallas-kliniken.ch/de",
+    "id": "way/382674794"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.0517449,
+          47.391898
+        ],
+        [
+          8.051696,
+          47.3919819
+        ],
+        [
+          8.0514682,
+          47.3919211
+        ],
+        [
+          8.0515171,
+          47.3918372
+        ],
+        [
+          8.0517449,
+          47.391898
         ]
       ]
     ]
@@ -54959,6 +55087,46 @@
     "coordinates": [
       7.7983338,
       47.5579648
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11597633515",
+  "properties": {
+    "amenity": "clinic",
+    "contact:website": "https://www.upk.ch/kinder-und-jugendliche/unsere-angebote/kinder-und-jugendliche-ambulant",
+    "healthcare": "clinic",
+    "healthcare:speciality": "child_psychiatry",
+    "name": "Poliklinik für Kinder und Jugendliche",
+    "id": "node/11597633515"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5832808,
+      47.5561249
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11597817659",
+  "properties": {
+    "addr:housenumber": "20",
+    "addr:street": "Centralbahnstrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "ophthalmology;surgery",
+    "name": "OP-Zentrum Bahnhof Basel",
+    "website": "https://augenzentrumbasel.ch/op-zentrum/",
+    "id": "node/11597817659"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5888142,
+      47.5477811
     ]
   }
 }

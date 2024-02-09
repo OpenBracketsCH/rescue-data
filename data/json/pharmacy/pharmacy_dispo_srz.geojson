@@ -3166,6 +3166,7 @@
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
     "check_date": "2023-05-13",
+    "healthcare": "pharmacy",
     "name": "Sternen Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
     "operator": "Rotpunkt Pharma",
