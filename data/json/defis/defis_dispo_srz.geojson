@@ -10838,8 +10838,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5278823,
-      47.5775396
+      8.5278968,
+      47.5774458
     ]
   }
 },
@@ -22574,12 +22574,13 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Bei der Bushaltestelle in Richtung Bahnhof Dietikon",
-    "description": "24h verfügbar",
+    "description": "Im grünen Wandkasten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Stadt Dietikon",
+    "operator": "Stadt Dietikon, Lifetec AG Schweiz",
+    "phone": "+41 800 122 144",
     "id": "node/8560981264"
   },
   "geometry": {
@@ -69690,7 +69691,7 @@
     "defibrillator:location": "In der Cafeteria rechts",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
-    "opening_hours": "Montag 06:00 – 21:00 Dienstag 12:00 – 21:00 Mittwoch 06:00 – 21:00 Donnerstag 08:00 – 21:00 Freitag 08:00 – 21:00 Samstag 09:00 – 18:00 Sonn-/Feiertag\t09:00 – 18:00",
+    "opening_hours": "Mo,We 06:00-21:00; Tu 12:00-21:00; Th,Fr 08:00-21:00; Sa,Su,PH 09:00-18:00",
     "id": "node/11358294185"
   },
   "geometry": {

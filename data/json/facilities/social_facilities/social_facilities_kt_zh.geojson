@@ -46235,6 +46235,27 @@
       47.5042887
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11606548188",
+  "properties": {
+    "amenity": "social_facility",
+    "cuisine": "regional",
+    "name": "Subito",
+    "opening_hours": "Mo-Fr 11:00-13:30",
+    "opening_hours:kitchen": "Mo-Fr 11:45-12:45",
+    "operator": "Reformierte Kirche Dübendorf-Schwerzenbach",
+    "social_facility": "food_bank",
+    "id": "node/11606548188"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.620391,
+      47.3988077
+    ]
+  }
 }
 ]
 }
