@@ -43165,63 +43165,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/155992843",
-  "properties": {
-    "addr:city": "Dietikon",
-    "addr:housenumber": "2",
-    "addr:postcode": "8953",
-    "addr:street": "Kindergartenweg",
-    "amenity": "school",
-    "building": "kindergarten",
-    "name": "Kindergarten Breiti 1+2",
-    "id": "way/155992843"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.392082,
-          47.4028098
-        ],
-        [
-          8.3920856,
-          47.4028061
-        ],
-        [
-          8.3920563,
-          47.4027914
-        ],
-        [
-          8.3920784,
-          47.4027707
-        ],
-        [
-          8.3921083,
-          47.4027854
-        ],
-        [
-          8.3922021,
-          47.4026973
-        ],
-        [
-          8.392299,
-          47.4027451
-        ],
-        [
-          8.3921781,
-          47.402857
-        ],
-        [
-          8.392082,
-          47.4028098
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/156066474",
   "properties": {
     "addr:city": "Embrach",

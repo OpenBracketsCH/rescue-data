@@ -14195,7 +14195,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "int_ref": "E 41",
-    "lanes": "3",
+    "lanes": "2",
     "layer": "1",
     "maxspeed": "120",
     "oneway": "yes",
@@ -14203,7 +14203,6 @@
     "ref": "A4",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||merge_to_left",
     "id": "way/25018636"
   },
   "geometry": {
@@ -14214,12 +14213,16 @@
         47.0040076
       ],
       [
-        8.6209011,
-        47.0042047
+        8.6209068,
+        47.0041888
       ],
       [
-        8.6208093,
-        47.0044035
+        8.6208501,
+        47.0043053
+      ],
+      [
+        8.6208084,
+        47.0044023
       ]
     ]
   }
@@ -14244,16 +14247,16 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6208093,
-        47.0044035
+        8.62077,
+        47.0044905
       ],
       [
-        8.6207941,
-        47.0044315
+        8.620721,
+        47.0046208
       ],
       [
-        8.620692,
-        47.0047116
+        8.6206798,
+        47.0047421
       ],
       [
         8.620645,
@@ -69974,6 +69977,7 @@
     "cs_dir:forward": "2",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -70106,6 +70110,7 @@
     "cs_dir:forward": "1",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -82309,6 +82314,35 @@
       [
         8.5741981,
         47.4143217
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1248881417",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "placement": "right_of:1",
+    "ref": "A4",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1248881417"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6208084,
+        47.0044023
+      ],
+      [
+        8.62077,
+        47.0044905
       ]
     ]
   }

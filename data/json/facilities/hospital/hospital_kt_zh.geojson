@@ -3222,9 +3222,11 @@
     "addr:postcode": "8618",
     "addr:street": "Schlösslistrasse",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "healthcare:speciality": "psychiatry",
     "name": "Clienia Schlössli",
     "operator": "Clienia",
+    "operator:type": "private",
     "website": "https://www.clienia.ch/",
     "id": "way/263135458"
   },
