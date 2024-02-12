@@ -55150,6 +55150,26 @@
       47.5519135
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11610128471",
+  "properties": {
+    "addr:housenumber": "32",
+    "addr:street": "Lyssachstrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Stadtbachpraxis",
+    "website": "https://www.stadtbachpraxis.ch/",
+    "id": "node/11610128471"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6193908,
+      47.0599457
+    ]
+  }
 }
 ]
 }

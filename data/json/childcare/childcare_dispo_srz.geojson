@@ -4921,26 +4921,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3854405726",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "311b",
-    "addr:postcode": "8053",
-    "addr:street": "Witikonerstrasse",
-    "amenity": "childcare",
-    "name": "Kinderkrippe Apfelblüte",
-    "id": "node/3854405726"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5870814,
-      47.3585337
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3884226546",
   "properties": {
     "amenity": "childcare",

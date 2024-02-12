@@ -40263,6 +40263,30 @@
 },
 {
   "type": "Feature",
+  "id": "node/3854405726",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "311b",
+    "addr:postcode": "8053",
+    "addr:street": "Witikonerstrasse",
+    "amenity": "kindergarten",
+    "email": "jilakashani@yahoo.de",
+    "name": "Kinderkrippe Apfelblüte",
+    "nursery": "yes",
+    "phone": "+41 76 371 01 05",
+    "website": "https://www.apfelbluete.ch/standorte/kinderkrippe-witikon",
+    "id": "node/3854405726"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5870814,
+      47.3585337
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3901252920",
   "properties": {
     "amenity": "kindergarten",

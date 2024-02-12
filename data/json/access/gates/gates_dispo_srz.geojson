@@ -18848,8 +18848,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7349194,
-      47.2510537
+      8.7348431,
+      47.2510031
     ]
   }
 },
@@ -26164,8 +26164,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7405086,
-      47.4958774
+      8.7405024,
+      47.4958757
     ]
   }
 },
@@ -53783,6 +53783,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/6367264877",
+  "properties": {
+    "access": "yes",
+    "barrier": "lift_gate",
+    "description": "Strasse während der Amphibienwanderung gesperrt.",
+    "lift_gate:type": "single",
+    "locked": "no",
+    "motor_vehicle:conditional": "no @ (Feb 15-Apr 15 Mo-Su 18:00-08:00; Jun-Jul; Oct 10-Nov 20 19:00-07:00)",
+    "id": "node/6367264877"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6287772,
+      47.4600539
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6367725814",
   "properties": {
     "barrier": "gate",
@@ -61376,6 +61396,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/7357048631",
+  "properties": {
+    "barrier": "gate",
+    "name": "B Eingang Tösstalstrasse",
+    "id": "node/7357048631"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7381927,
+      47.49507
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/7358196000",
   "properties": {
     "barrier": "gate",
@@ -63429,6 +63465,22 @@
     "coordinates": [
       8.6519806,
       47.2653582
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7764521789",
+  "properties": {
+    "access": "yes",
+    "barrier": "gate",
+    "id": "node/7764521789"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5075555,
+      47.2966315
     ]
   }
 },
@@ -78374,8 +78426,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7362626,
-      47.2507352
+      8.7362554,
+      47.250733
     ]
   }
 },
@@ -92160,6 +92212,57 @@
     "coordinates": [
       8.6207722,
       47.4670494
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11609651658",
+  "properties": {
+    "barrier": "gate",
+    "locked": "yes",
+    "vehicle": "private",
+    "id": "node/11609651658"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5017791,
+      47.5913898
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11610835462",
+  "properties": {
+    "barrier": "gate",
+    "foot": "yes",
+    "id": "node/11610835462"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.507878,
+      47.2969372
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11611103771",
+  "properties": {
+    "barrier": "gate",
+    "locked": "no",
+    "material": "metal",
+    "wheelchair": "no",
+    "id": "node/11611103771"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6145067,
+      47.2791701
     ]
   }
 }

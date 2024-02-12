@@ -2470,59 +2470,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/31301560",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "48",
-    "addr:postcode": "8049",
-    "addr:street": "Rütihofstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "description": "BGS-Siedlung Rütihof III",
-    "name": "Alterswohngemeinschaft Freiblick",
-    "owner": "Baugenossenschaft Sonnengarten (BGS)",
-    "social_facility": "group_home",
-    "start_date": "1997..1998",
-    "id": "way/31301560"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4768381,
-          47.4139168
-        ],
-        [
-          8.4768839,
-          47.4139165
-        ],
-        [
-          8.4768852,
-          47.4139941
-        ],
-        [
-          8.4768858,
-          47.4140252
-        ],
-        [
-          8.476729,
-          47.4140264
-        ],
-        [
-          8.4767272,
-          47.4139176
-        ],
-        [
-          8.4768381,
-          47.4139168
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/31311487",
   "properties": {
     "addr:city": "Fällanden",

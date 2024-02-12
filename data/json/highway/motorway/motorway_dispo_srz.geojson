@@ -1762,6 +1762,38 @@
 },
 {
   "type": "Feature",
+  "id": "way/4768777",
+  "properties": {
+    "alt_name": "Zugerautobahn",
+    "highway": "motorway",
+    "lanes": "2",
+    "loc_name": "Blegikurve",
+    "maxspeed": "80",
+    "name": "Verzweigung Blegi",
+    "nat_name": "N14",
+    "old_name": "A4a",
+    "oneway": "yes",
+    "ref": "A14",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/4768777"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.463132,
+        47.1992682
+      ],
+      [
+        8.4624716,
+        47.1997526
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/4770567",
   "properties": {
     "alt_name": "Zugerautobahn",
@@ -1782,16 +1814,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4648102,
-        47.1977642
+        8.4645615,
+        47.1979558
       ],
       [
-        8.4652618,
-        47.1974153
-      ],
-      [
-        8.4660624,
-        47.1967994
+        8.4647568,
+        47.1978043
       ]
     ]
   }
@@ -9475,12 +9503,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.459837,
-        47.1994352
+        8.4598332,
+        47.1994378
       ],
       [
-        8.460812,
-        47.2001382
+        8.4608074,
+        47.2001392
       ]
     ]
   }
@@ -14070,24 +14098,16 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4589271,
-        47.1989368
+        8.458921,
+        47.1989389
       ],
       [
-        8.457513,
-        47.1979204
+        8.4577711,
+        47.1981097
       ],
       [
-        8.457222,
-        47.1977079
-      ],
-      [
-        8.4554852,
-        47.1964352
-      ],
-      [
-        8.4553106,
-        47.1963616
+        8.4568338,
+        47.197477
       ]
     ]
   }
@@ -14113,8 +14133,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.460812,
-        47.2001382
+        8.4608074,
+        47.2001392
       ],
       [
         8.4610319,
@@ -14150,8 +14170,8 @@
         47.201244
       ],
       [
-        8.4635442,
-        47.2021175
+        8.4634671,
+        47.2020584
       ]
     ]
   }
@@ -14424,7 +14444,7 @@
     "maxspeed": "100",
     "maxspeed:variable": "yes",
     "oneway": "yes",
-    "placement": "middle_of:2",
+    "placement": "right_of:2",
     "ref": "A4",
     "shoulder": "no",
     "source:maxspeed": "signals",
@@ -14440,8 +14460,8 @@
         47.1953358
       ],
       [
-        8.4535977,
-        47.1951316
+        8.4536,
+        47.1951285
       ]
     ]
   }
@@ -14507,16 +14527,20 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4539873,
-        47.1952058
+        8.4539919,
+        47.1952011
       ],
       [
-        8.4576974,
-        47.1978493
+        8.4561939,
+        47.1967802
       ],
       [
-        8.4583508,
-        47.1983136
+        8.457631,
+        47.1978135
+      ],
+      [
+        8.4581069,
+        47.1981517
       ]
     ]
   }
@@ -14584,8 +14608,8 @@
         47.1949922
       ],
       [
-        8.4539873,
-        47.1952058
+        8.4539919,
+        47.1952011
       ]
     ]
   }
@@ -14601,7 +14625,7 @@
     "maxspeed": "100",
     "maxspeed:variable": "yes",
     "oneway": "yes",
-    "placement": "middle_of:2",
+    "placement": "right_of:2",
     "ref": "A4",
     "shoulder": "no",
     "source:maxspeed": "signals",
@@ -14613,8 +14637,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4535977,
-        47.1951316
+        8.4536,
+        47.1951285
       ],
       [
         8.453062,
@@ -28032,7 +28056,7 @@
     "nat_name": "N14",
     "old_name": "A4a",
     "oneway": "yes",
-    "placement": "right_of:1",
+    "placement": "middle_of:2",
     "ref": "A14",
     "smoothness": "excellent",
     "surface": "asphalt",
@@ -28043,12 +28067,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.470191,
-        47.1937305
+        8.4702063,
+        47.1937383
       ],
       [
-        8.4674076,
-        47.1959381
+        8.4673847,
+        47.1959246
       ]
     ]
   }
@@ -35355,20 +35379,75 @@
         47.1925084
       ],
       [
-        8.4715568,
-        47.1926827
+        8.4713446,
+        47.1928399
       ],
       [
-        8.4713245,
-        47.1928571
+        8.4702063,
+        47.1937383
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/131285591",
+  "properties": {
+    "alt_name": "Zugerautobahn",
+    "highway": "motorway",
+    "lanes": "2",
+    "loc_name": "Blegikurve",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
+    "name": "Verzweigung Blegi",
+    "nat_name": "N14",
+    "old_name": "A4a",
+    "oneway": "yes",
+    "ref": "A14",
+    "shoulder": "right",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through|slight_right",
+    "id": "way/131285591"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.458216,
+        47.1988309
       ],
       [
-        8.4706925,
-        47.1933433
+        8.4581054,
+        47.1986877
       ],
       [
-        8.470191,
-        47.1937305
+        8.4579752,
+        47.1985311
+      ],
+      [
+        8.4578727,
+        47.1984176
+      ],
+      [
+        8.4577546,
+        47.1982943
+      ],
+      [
+        8.4576311,
+        47.1981699
+      ],
+      [
+        8.4574451,
+        47.1979944
+      ],
+      [
+        8.4573027,
+        47.1978721
+      ],
+      [
+        8.4568338,
+        47.197477
       ]
     ]
   }
@@ -43204,11 +43283,8 @@
   "id": "way/201739035",
   "properties": {
     "alt_name": "Zugerautobahn",
-    "destination:colour:lanes": "green|green|blue|blue",
-    "destination:lanes": "Chur;Baar;Zug-Zentrum|Chur;Baar;Zug-Zentrum|Steinhausen|Zug;Cham-Ost",
-    "destination:ref:lanes": "A 4a|A 4a||",
     "highway": "motorway",
-    "lanes": "4",
+    "lanes": "3",
     "lit": "no",
     "maxspeed": "100",
     "nat_name": "N14",
@@ -43218,19 +43294,122 @@
     "smoothness": "excellent",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "through|through|slight_right|slight_right",
     "id": "way/201739035"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.4669153,
-        47.1960905
+        8.465404,
+        47.1972794
       ],
       [
-        8.4690576,
-        47.1944367
+        8.465996,
+        47.1968032
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/201739037",
+  "properties": {
+    "alt_name": "Zugerautobahn",
+    "highway": "motorway",
+    "lanes": "2",
+    "loc_name": "Blegikurve",
+    "maxspeed": "80",
+    "name": "Verzweigung Blegi",
+    "nat_name": "N14",
+    "old_name": "A4a",
+    "oneway": "yes",
+    "ref": "A14",
+    "shoulder": "right",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/201739037"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4623875,
+        47.1991192
+      ],
+      [
+        8.4626224,
+        47.1990515
+      ],
+      [
+        8.4627854,
+        47.1989939
+      ],
+      [
+        8.4629627,
+        47.1989297
+      ],
+      [
+        8.4631583,
+        47.1988437
+      ],
+      [
+        8.4633322,
+        47.1987563
+      ],
+      [
+        8.4635071,
+        47.1986652
+      ],
+      [
+        8.4636975,
+        47.1985543
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/201739038",
+  "properties": {
+    "alt_name": "Zugerautobahn",
+    "highway": "motorway",
+    "lanes": "2",
+    "layer": "-1",
+    "loc_name": "Blegikurve",
+    "maxspeed": "80",
+    "name": "Verzweigung Blegi",
+    "nat_name": "N14",
+    "old_name": "A4a",
+    "oneway": "yes",
+    "ref": "A14",
+    "shoulder": "right",
+    "surface": "asphalt",
+    "toll": "yes",
+    "tunnel": "yes",
+    "id": "way/201739038"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4614575,
+        47.1992576
+      ],
+      [
+        8.4616843,
+        47.1992441
+      ],
+      [
+        8.4619283,
+        47.1992099
+      ],
+      [
+        8.4621238,
+        47.1991767
+      ],
+      [
+        8.4623875,
+        47.1991192
       ]
     ]
   }
@@ -45297,8 +45476,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4635442,
-        47.2021175
+        8.4634671,
+        47.2020584
       ],
       [
         8.4639181,
@@ -46281,6 +46460,66 @@
       [
         8.7975853,
         47.5322384
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/229430790",
+  "properties": {
+    "alt_name": "Zugerautobahn",
+    "destination": "Chur;Baar;Zug-Zentrum",
+    "destination:ref": "A 4a",
+    "highway": "motorway",
+    "lanes": "2",
+    "loc_name": "Blegikurve",
+    "maxspeed": "80",
+    "name": "Verzweigung Blegi",
+    "nat_name": "N14",
+    "old_name": "A4a",
+    "oneway": "yes",
+    "ref": "A14",
+    "shoulder": "right",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/229430790"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4597771,
+        47.1990327
+      ],
+      [
+        8.459988,
+        47.1990928
+      ],
+      [
+        8.4602361,
+        47.1991565
+      ],
+      [
+        8.4604616,
+        47.1991995
+      ],
+      [
+        8.4607137,
+        47.1992336
+      ],
+      [
+        8.4609855,
+        47.1992567
+      ],
+      [
+        8.4612343,
+        47.1992611
+      ],
+      [
+        8.4614575,
+        47.1992576
       ]
     ]
   }
@@ -49537,6 +49776,167 @@
       [
         8.620491,
         47.0062779
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/273300890",
+  "properties": {
+    "alt_name": "Zugerautobahn",
+    "highway": "motorway",
+    "lanes": "2",
+    "loc_name": "Blegikurve",
+    "maxspeed": "70",
+    "name": "Verzweigung Blegi",
+    "nat_name": "N14",
+    "old_name": "A4a",
+    "oneway": "yes",
+    "ref": "A14",
+    "shoulder": "right",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/273300890"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4624716,
+        47.1997526
+      ],
+      [
+        8.4624083,
+        47.1997937
+      ],
+      [
+        8.4623036,
+        47.1998544
+      ],
+      [
+        8.4622281,
+        47.1998954
+      ],
+      [
+        8.4621556,
+        47.1999317
+      ],
+      [
+        8.4620758,
+        47.1999685
+      ],
+      [
+        8.4620027,
+        47.1999986
+      ],
+      [
+        8.4618994,
+        47.2000383
+      ],
+      [
+        8.461805,
+        47.2000703
+      ],
+      [
+        8.4616812,
+        47.2001073
+      ],
+      [
+        8.461541,
+        47.200144
+      ],
+      [
+        8.4613742,
+        47.2001784
+      ],
+      [
+        8.461179,
+        47.2002069
+      ],
+      [
+        8.4610325,
+        47.2002193
+      ],
+      [
+        8.4609106,
+        47.2002244
+      ],
+      [
+        8.4607461,
+        47.2002271
+      ],
+      [
+        8.4606171,
+        47.2002251
+      ],
+      [
+        8.4604949,
+        47.2002179
+      ],
+      [
+        8.4603588,
+        47.2002068
+      ],
+      [
+        8.460261,
+        47.2001942
+      ],
+      [
+        8.4601443,
+        47.2001761
+      ],
+      [
+        8.4600173,
+        47.2001501
+      ],
+      [
+        8.4598898,
+        47.200119
+      ],
+      [
+        8.4597336,
+        47.2000743
+      ],
+      [
+        8.4596021,
+        47.2000297
+      ],
+      [
+        8.4594814,
+        47.1999828
+      ],
+      [
+        8.4593684,
+        47.1999321
+      ],
+      [
+        8.4592377,
+        47.1998641
+      ],
+      [
+        8.4591136,
+        47.1997928
+      ],
+      [
+        8.4589752,
+        47.1996988
+      ],
+      [
+        8.4588766,
+        47.1996231
+      ],
+      [
+        8.4587809,
+        47.199541
+      ],
+      [
+        8.4586972,
+        47.1994521
+      ],
+      [
+        8.458618,
+        47.1993648
       ]
     ]
   }
@@ -61661,20 +62061,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4660624,
-        47.1967994
+        8.4647568,
+        47.1978043
       ],
       [
-        8.4663664,
-        47.1965663
-      ],
-      [
-        8.4668016,
-        47.1962319
-      ],
-      [
-        8.4669153,
-        47.1960905
+        8.465404,
+        47.1972794
       ]
     ]
   }
@@ -61691,6 +62083,7 @@
     "nat_name": "N14",
     "old_name": "A4a",
     "oneway": "yes",
+    "placement": "middle_of:2",
     "ref": "A14",
     "surface": "asphalt",
     "toll": "yes",
@@ -61701,12 +62094,20 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4674076,
-        47.1959381
+        8.4673847,
+        47.1959246
       ],
       [
-        8.4662356,
-        47.1968212
+        8.4667872,
+        47.1963854
+      ],
+      [
+        8.4661864,
+        47.1968536
+      ],
+      [
+        8.4652557,
+        47.1975797
       ],
       [
         8.4643459,
@@ -61952,8 +62353,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4690576,
-        47.1944367
+        8.4690622,
+        47.19443
       ],
       [
         8.4705209,
@@ -68646,14 +69047,13 @@
   "type": "Feature",
   "id": "way/554480393",
   "properties": {
-    "destination:lanes": "Gotthard;Luzern|Gotthard;Luzern|Gotthard;Luzern|Cham;Aarau;Hünenberg",
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "4",
     "maxspeed": "100",
     "maxspeed:variable": "yes",
     "oneway": "yes",
-    "placement": "middle_of:2",
+    "placement": "right_of:2",
     "ref": "A4",
     "shoulder:right": "yes",
     "source:maxspeed": "signals",
@@ -68666,12 +69066,16 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4553106,
-        47.1963616
+        8.4568338,
+        47.197477
       ],
       [
-        8.4538909,
-        47.1953358
+        8.4559604,
+        47.196832
+      ],
+      [
+        8.4552522,
+        47.1963172
       ]
     ]
   }
@@ -69086,6 +69490,57 @@
       [
         8.8272783,
         47.2515328
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/608991659",
+  "properties": {
+    "alt_name": "Zugerautobahn",
+    "destination": "Chur;Baar;Zug-Zentrum",
+    "destination:ref": "A 4a",
+    "highway": "motorway",
+    "lanes": "2",
+    "loc_name": "Blegikurve",
+    "maxspeed": "100",
+    "name": "Verzweigung Blegi",
+    "nat_name": "N14",
+    "old_name": "A4a",
+    "oneway": "yes",
+    "ref": "A14",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/608991659"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4581069,
+        47.1981517
+      ],
+      [
+        8.4584878,
+        47.1984069
+      ],
+      [
+        8.4586828,
+        47.1985294
+      ],
+      [
+        8.4588447,
+        47.1986263
+      ],
+      [
+        8.458991,
+        47.1987072
+      ],
+      [
+        8.4591642,
+        47.1987868
       ]
     ]
   }
@@ -72278,6 +72733,7 @@
     "nat_name": "N14",
     "old_name": "A4a",
     "oneway": "yes",
+    "placement": "middle_of:2",
     "ref": "A14",
     "surface": "asphalt",
     "toll": "yes",
@@ -72292,8 +72748,8 @@
         47.1982932
       ],
       [
-        8.4642177,
-        47.1983936
+        8.463132,
+        47.1992682
       ]
     ]
   }
@@ -74242,20 +74698,16 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4583508,
-        47.1983136
+        8.4581069,
+        47.1981517
       ],
       [
-        8.458423,
-        47.1984293
+        8.4589396,
+        47.1987991
       ],
       [
-        8.4587244,
-        47.198646
-      ],
-      [
-        8.459042,
-        47.1988636
+        8.4590393,
+        47.1988641
       ]
     ]
   }
@@ -74283,12 +74735,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.459042,
-        47.1988636
+        8.4590393,
+        47.1988641
       ],
       [
-        8.4592121,
-        47.1989846
+        8.4592071,
+        47.1989875
       ]
     ]
   }
@@ -74344,12 +74796,79 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.459095,
-        47.1990597
+        8.4590904,
+        47.1990613
       ],
       [
-        8.4589271,
-        47.1989368
+        8.458921,
+        47.1989389
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/885025941",
+  "properties": {
+    "alt_name": "Zugerautobahn",
+    "highway": "motorway",
+    "lanes": "2",
+    "loc_name": "Blegikurve",
+    "maxspeed": "70",
+    "name": "Verzweigung Blegi",
+    "nat_name": "N14",
+    "old_name": "A4a",
+    "oneway": "yes",
+    "ref": "A14",
+    "shoulder": "right",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/885025941"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4584979,
+        47.19921
+      ],
+      [
+        8.458216,
+        47.1988309
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/885025942",
+  "properties": {
+    "alt_name": "Zugerautobahn",
+    "covered": "yes",
+    "highway": "motorway",
+    "lanes": "2",
+    "loc_name": "Blegikurve",
+    "maxspeed": "70",
+    "name": "Verzweigung Blegi",
+    "nat_name": "N14",
+    "old_name": "A4a",
+    "oneway": "yes",
+    "ref": "A14",
+    "shoulder": "right",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/885025942"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.458618,
+        47.1993648
+      ],
+      [
+        8.4584979,
+        47.19921
       ]
     ]
   }
@@ -77483,12 +78002,8 @@
         47.1981658
       ],
       [
-        8.4645516,
-        47.1979625
-      ],
-      [
-        8.4648102,
-        47.1977642
+        8.4645615,
+        47.1979558
       ]
     ]
   }
@@ -77547,8 +78062,8 @@
         47.1995121
       ],
       [
-        8.459095,
-        47.1990597
+        8.4590904,
+        47.1990613
       ]
     ]
   }
@@ -77575,12 +78090,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4592121,
-        47.1989846
+        8.4592071,
+        47.1989875
       ],
       [
-        8.459837,
-        47.1994352
+        8.4598332,
+        47.1994378
       ]
     ]
   }
@@ -82343,6 +82858,80 @@
       [
         8.62077,
         47.0044905
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1249317173",
+  "properties": {
+    "alt_name": "Zugerautobahn",
+    "destination:colour:lanes": "green|green|blue|blue",
+    "destination:lanes": "Chur;Baar;Zug-Zentrum|Chur;Baar;Zug-Zentrum|Steinhausen|Zug;Cham-Ost",
+    "destination:ref:lanes": "A 4a|A 4a||",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "no",
+    "maxspeed": "100",
+    "nat_name": "N14",
+    "old_name": "A4a",
+    "oneway": "yes",
+    "ref": "A14",
+    "smoothness": "excellent",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through|through|slight_right|slight_right",
+    "id": "way/1249317173"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.465996,
+        47.1968032
+      ],
+      [
+        8.4665639,
+        47.1963617
+      ],
+      [
+        8.4690622,
+        47.19443
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1249317174",
+  "properties": {
+    "destination:lanes": "Gotthard;Luzern|Gotthard;Luzern|Gotthard;Luzern|Cham;Aarau;Hünenberg",
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "4",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
+    "oneway": "yes",
+    "placement": "right_of:2",
+    "ref": "A4",
+    "shoulder:right": "yes",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through|through|through|slight_right",
+    "id": "way/1249317174"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4552522,
+        47.1963172
+      ],
+      [
+        8.4538909,
+        47.1953358
       ]
     ]
   }
