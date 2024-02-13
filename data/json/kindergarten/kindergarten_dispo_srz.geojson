@@ -41272,28 +41272,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4967620683",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "143",
-    "addr:postcode": "8005",
-    "addr:street": "Heinrichstrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Heinrich 143 A + B",
-    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
-    "id": "node/4967620683"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5262516,
-      47.3866448
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5032940481",
   "properties": {
     "addr:city": "Bülach",
@@ -49875,8 +49853,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5546315,
-      47.4915032
+      8.5550016,
+      47.490336
     ]
   }
 },

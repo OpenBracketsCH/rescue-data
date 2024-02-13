@@ -6056,7 +6056,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "layer": "1",
-    "maxspeed": "80",
+    "maxspeed": "100",
     "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "right_of:1",
@@ -6091,7 +6091,7 @@
     "highway": "trunk",
     "int_ref": "E 41",
     "lanes": "2",
-    "maxspeed": "80",
+    "maxspeed": "100",
     "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "right_of:1",
@@ -19201,7 +19201,7 @@
     "highway": "trunk",
     "int_ref": "E 41",
     "lanes": "2",
-    "maxspeed": "80",
+    "maxspeed": "100",
     "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "right_of:1",
@@ -19215,12 +19215,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6204356,
-        47.0054085
-      ],
-      [
-        8.6204502,
-        47.0052511
+        8.6204707,
+        47.0051257
       ],
       [
         8.6204812,
@@ -19541,7 +19537,7 @@
     "highway": "trunk",
     "int_ref": "E 41",
     "lanes": "1",
-    "maxspeed": "80",
+    "maxspeed": "100",
     "maxspeed:variable": "yes",
     "oneway": "yes",
     "overtaking": "no",
@@ -27033,7 +27029,7 @@
     "highway": "trunk",
     "int_ref": "E 41",
     "lanes": "1",
-    "maxspeed": "80",
+    "maxspeed": "100",
     "maxspeed:variable": "yes",
     "oneway": "yes",
     "ref": "A4",
@@ -27969,6 +27965,42 @@
       [
         8.7436036,
         47.3454894
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1249521130",
+  "properties": {
+    "destination": "Gotthard;Altdorf;Morschach",
+    "highway": "trunk",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
+    "oneway": "yes",
+    "placement": "right_of:1",
+    "ref": "A4",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "merge_to_right|through",
+    "id": "way/1249521130"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6204356,
+        47.0054085
+      ],
+      [
+        8.6204511,
+        47.0052623
+      ],
+      [
+        8.6204707,
+        47.0051257
       ]
     ]
   }

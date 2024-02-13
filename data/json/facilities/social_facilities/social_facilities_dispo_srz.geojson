@@ -15184,63 +15184,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/117103477",
-  "properties": {
-    "addr:city": "Grüningen",
-    "addr:country": "CH",
-    "addr:housenumber": "1",
-    "addr:postcode": "8627",
-    "addr:street": "am Binzikerbach",
-    "alt_name": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde;BiBa B",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Klinik Sonnhalde Haus Am Binzikerbach B",
-    "operator": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde;BiBa A",
-    "social_facility": "assisted_living",
-    "id": "way/117103477"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7611378,
-          47.2811581
-        ],
-        [
-          8.7611388,
-          47.2812622
-        ],
-        [
-          8.7611389,
-          47.2812751
-        ],
-        [
-          8.7610853,
-          47.2812753
-        ],
-        [
-          8.7610852,
-          47.2812632
-        ],
-        [
-          8.7610221,
-          47.2812634
-        ],
-        [
-          8.7610211,
-          47.2811586
-        ],
-        [
-          8.7611378,
-          47.2811581
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/117103481",
   "properties": {
     "addr:city": "Grüningen",
@@ -46901,6 +46844,71 @@
 },
 {
   "type": "Feature",
+  "id": "way/1120461310",
+  "properties": {
+    "addr:city": "Grüningen",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "8627",
+    "addr:street": "am Binzikerbach",
+    "alt_name": "Pflegeheim SonnhaldePflegezentrum Sonnhalde;BiBa B",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Klimik Sonnhalde Haus am Binzikerbach B",
+    "operator": "Pflegeheim Sonnhalde Pflegezentrum Sonnhalde;BiBa B",
+    "social_facility": "assisted_living",
+    "id": "way/1120461310"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7612644,
+          47.2808889
+        ],
+        [
+          8.7612647,
+          47.2809232
+        ],
+        [
+          8.7612809,
+          47.2809231
+        ],
+        [
+          8.7612814,
+          47.2809851
+        ],
+        [
+          8.7612816,
+          47.2810016
+        ],
+        [
+          8.7612256,
+          47.2810018
+        ],
+        [
+          8.7612255,
+          47.2809924
+        ],
+        [
+          8.7611619,
+          47.2809927
+        ],
+        [
+          8.761161,
+          47.2808894
+        ],
+        [
+          8.7612644,
+          47.2808889
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1144153197",
   "properties": {
     "amenity": "social_facility",
@@ -48796,8 +48804,14 @@
     "addr:postcode": "8001",
     "addr:street": "Hirschengraben",
     "amenity": "social_facility",
+    "check_date": "2024-02-12",
     "healthcare": "blood_donation",
-    "name": "SRK Zürich",
+    "name": "Blutspende SRK Zürich",
+    "opening_hours": "Mo 10:00-17:00; Tu 11:30-19:00; We 07:30-17:00; Th 08:00-19:00",
+    "phone": "+41 58 272 52 84",
+    "website": "https://blutspendezurich.ch",
+    "wheelchair": "limited",
+    "wheelchair:description": "Es gibt eine Rampe zum Personalraum, die nach Absprache genutzt werden könnte, der Haupteingang hat eine größere Stufe (ca. anderthalb Handbreit).",
     "id": "node/765813879"
   },
   "geometry": {
@@ -50268,6 +50282,8 @@
     "addr:postcode": "8005",
     "addr:street": "Konradstrasse",
     "amenity": "social_facility",
+    "check_date": "2024-02-12",
+    "fixme": "not signed as SAW, check if still run by SAW",
     "name": "SAW-Siedlung Konradstrasse",
     "operator": "Stiftung Alterswohnungen der Stadt Zürich (SAW)",
     "social_facility": "assisted_living",

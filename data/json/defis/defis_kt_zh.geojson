@@ -847,16 +847,21 @@
   "type": "Feature",
   "id": "node/5738599622",
   "properties": {
+    "access": "yes",
+    "contact:phone": "+41 44 723 21 11",
+    "defibrillator:location": "Eingangsbereich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "note": "während der Öffnungszeiten verfügbar",
+    "operator": "Gemeindeverwaltung Thalwil",
     "id": "node/5738599622"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.56534,
-      47.29237
+      8.5653767,
+      47.2923429
     ]
   }
 },
@@ -25275,26 +25280,6 @@
     "coordinates": [
       8.4393487,
       47.5249861
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9288935118",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Gemeindeverwaltung",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "operator": "Gemeinde Thalwil",
-    "id": "node/9288935118"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5651704,
-      47.2922494
     ]
   }
 },
@@ -55264,6 +55249,311 @@
     "coordinates": [
       8.4450023,
       47.3971233
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11612866569",
+  "properties": {
+    "access": "no",
+    "contact:phone": "+41 44 723 21 11",
+    "defibrillator:location": "Jenny-Schloss, Eingangsbereich",
+    "description": "während der Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Gemeinde Thalwil",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11612866569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5663158,
+      47.2921144
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11612869169",
+  "properties": {
+    "access": "no",
+    "contact:phone": "+41 44 723 21 11",
+    "defibrillator:location": "Haus Sonnegg (Sozialamt), Eingangsbereich",
+    "description": "während der Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Gemeinde Thalwil",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11612869169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5652958,
+      47.2919434
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11612870970",
+  "properties": {
+    "access": "no",
+    "contact:phone": "+41 44 723 21 11",
+    "defibrillator:location": "Bauamt, Eingangsbereich",
+    "description": "während der Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Gemeinde Thalwil",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11612870970"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5679264,
+      47.2897202
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11612870971",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Berg, Lehrerzimmer",
+    "description": "während der Unterrichtszeiten erreichbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Schule Thalwil",
+    "phone": "+41 44 723 22 66",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11612870971"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5618526,
+      47.291263
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11612870972",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Oeggisbüel, Lehrerzimmer",
+    "description": "während der Unterrichtszeiten erreichbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Schule Thalwil",
+    "phone": "+41 44 723 22 66",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11612870972"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5698777,
+      47.2891199
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11612883669",
+  "properties": {
+    "access": "no",
+    "contact:phone": "+41 44 723 21 11",
+    "defibrillator:location": "Werkhof, Eingangsbereich, 1. Stock",
+    "description": "während der Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "operator": "Gemeinde Thalwil",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11612883669"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5654199,
+      47.2857467
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11612888569",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Feld, Lehrerzimmer",
+    "description": "während der Unterrichtszeiten erreichbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Schule Thalwil",
+    "phone": "+41 44 723 22 66",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11612888569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5628557,
+      47.2916996
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11612892569",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Schwandel, Lehrerzimmer",
+    "description": "während der Unterrichtszeiten erreichbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Schule Thalwil",
+    "phone": "+41 44 723 22 66",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11612892569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5646528,
+      47.2934206
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11612898369",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Ludretikon, Lehrerzimmer",
+    "description": "während der Unterrichtszeiten erreichbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeinde Thalwil",
+    "phone": "+41 44 723 22 66",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11612898369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5620564,
+      47.2960911
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11612900269",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Oelwiese, Lehrerzimmer",
+    "description": "während der Unterrichtszeiten erreichbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Schule Thalwil",
+    "phone": "+41 44 723 22 66",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11612900269"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5669112,
+      47.289833
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11612903669",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Schweikrüti, Lehrerzimmer",
+    "description": "während der Unterrichtszeiten erreichbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Schule Thalwil",
+    "phone": "+41 44 723 22 66",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11612903669"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5517246,
+      47.2821077
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11612907869",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Sportanlage Band, Eingangsbereich",
+    "description": "während der Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeinde Thalwil",
+    "phone": "+41 44 723 21 11",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11612907869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5516119,
+      47.2887414
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11613747569",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Reichle & De-Massari AG, Binzstrasse 32",
+    "description": "Empfangsbereich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:30 - 17:00",
+    "operator": "Reichle & De-Massari AG",
+    "phone": "+41 79 932 66 35",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11613747569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8002626,
+      47.3302751
     ]
   }
 }

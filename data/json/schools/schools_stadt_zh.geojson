@@ -15940,10 +15940,6 @@
           47.3405174
         ],
         [
-          8.5333703,
-          47.3404769
-        ],
-        [
           8.5335129,
           47.3401099
         ],
@@ -19619,9 +19615,36 @@
 },
 {
   "type": "Feature",
+  "id": "node/4967620683",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "143",
+    "addr:postcode": "8005",
+    "addr:street": "Heinrichstrasse",
+    "amenity": "school",
+    "check_date": "2024-02-12",
+    "name": "Provisorium der Schule Kornhaus",
+    "note": "Primarschule",
+    "id": "node/4967620683"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5262516,
+      47.3866448
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/5142601754",
   "properties": {
+    "addr:housenumber": "59",
+    "addr:street": "Josefstrasse",
     "amenity": "school",
+    "check_date": "2024-02-12",
+    "level": "4",
     "name": "IST Höhere Fachschule für Tourismus",
     "name:fr": "IST Ecole supérieure du tourisme",
     "website": "https://www.ist-edu.ch/",
