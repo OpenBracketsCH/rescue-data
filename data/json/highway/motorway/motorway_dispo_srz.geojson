@@ -14642,8 +14642,8 @@
         47.1928544
       ],
       [
-        8.4502578,
-        47.1927183
+        8.4498998,
+        47.1924595
       ]
     ]
   }
@@ -14733,7 +14733,7 @@
     "maxspeed": "100",
     "maxspeed:variable": "yes",
     "oneway": "yes",
-    "placement": "middle_of:2",
+    "placement": "right_of:2",
     "ref": "A4",
     "shoulder": "no",
     "source:maxspeed": "signals",
@@ -70895,8 +70895,8 @@
         47.1905015
       ],
       [
-        8.4478302,
-        47.190775
+        8.4478421,
+        47.1907671
       ]
     ]
   }
@@ -78313,7 +78313,7 @@
     "maxspeed": "100",
     "maxspeed:variable": "yes",
     "oneway": "yes",
-    "placement": "middle_of:2",
+    "placement": "right_of:2",
     "ref": "A4",
     "shoulder": "no",
     "source:maxspeed": "signals",
@@ -78359,8 +78359,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4502578,
-        47.1927183
+        8.4498998,
+        47.1924595
       ],
       [
         8.4492862,
@@ -78421,12 +78421,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4478302,
-        47.190775
+        8.4478421,
+        47.1907671
       ],
       [
-        8.4484448,
-        47.1912237
+        8.4478619,
+        47.1907805
       ]
     ]
   }
@@ -78451,8 +78451,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4484448,
-        47.1912237
+        8.4478619,
+        47.1907805
       ],
       [
         8.4490593,

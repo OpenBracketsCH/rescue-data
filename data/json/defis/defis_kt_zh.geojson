@@ -18536,6 +18536,7 @@
     "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Stadt Schlieren, Bereich Liegenschaften",
     "phone": "+41 44 738 15 08",
@@ -55554,6 +55555,49 @@
     "coordinates": [
       8.8002626,
       47.3302751
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11618720612",
+  "properties": {
+    "access": "customers",
+    "defibrillator:location": "Mercedes Autogarage EG im Büro\nMO-FR 08:00-18:30\nSA 09:00-17:00",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Mercedes-Benz Automobil AG",
+    "id": "node/11618720612"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5486812,
+      47.3618678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11620111569",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schutzengasse 15",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "operator": "Hotel St.Gotthard",
+    "phone": "+41442277700",
+    "id": "node/11620111569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5401875,
+      47.3758396
     ]
   }
 }
