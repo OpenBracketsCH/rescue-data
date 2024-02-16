@@ -1334,11 +1334,16 @@
   "type": "Feature",
   "id": "node/6398162759",
   "properties": {
+    "access": "yes",
     "defibrillator:location": "Hängt an der Wand links neben dem Eingang zur Rezeption. / Hanging on the wall to the left of the entrance of the reception.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "operator": "Gästehaus Hunziker",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Baugenossenschaft mehr als wohnen (MAW)",
+    "phone": "+41 44 325 40 45",
+    "wheelchair": "limited",
     "id": "node/6398162759"
   },
   "geometry": {
@@ -42255,7 +42260,7 @@
   "properties": {
     "access": "no",
     "defibrillator:location": "Fitnesscenter",
-    "description": "während Öffnungszeiten",
+    "description": "nur für Mitglieder während 24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -42267,8 +42272,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6480613,
-      47.5162917
+      8.648057,
+      47.5164833
     ]
   }
 },
@@ -73079,6 +73084,30 @@
     "coordinates": [
       8.8201493,
       47.2744867
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11626263469",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Zahnmedizin Zürich Nord",
+    "description": "während Öffnungszeiten ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "operator": "Geschäft",
+    "phone": "+41443251505",
+    "id": "node/11626263469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5729943,
+      47.4053473
     ]
   }
 }

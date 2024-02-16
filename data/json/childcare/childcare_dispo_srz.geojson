@@ -13208,6 +13208,29 @@
       47.396352
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11627813466",
+  "properties": {
+    "addr:city": "Winkel",
+    "addr:housenumber": "6",
+    "addr:postcode": "8185",
+    "addr:street": "Spichergasse",
+    "amenity": "childcare",
+    "name": "kleine RiESEN",
+    "operator": "kleine RiESEN GmbH",
+    "operator:type": "private",
+    "website": "https://kleine-riesen.ch/",
+    "id": "node/11627813466"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5550539,
+      47.4906991
+    ]
+  }
 }
 ]
 }
