@@ -19385,6 +19385,7 @@
     "note": "Die Zentrum Sunnegarte AG ist eine gemeinnützige Aktiengesellschaft und wird geführt als Kompetenzzentrum für Pflege und Betreuung (stationär und ambulant), Wohnen im Alter und verschiedene Serviceleistungen.",
     "operator": "Zentrum Sunnegarte AG",
     "phone": "+41 55 253 01 11",
+    "roof:shape": "flat",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "start_date": "2019",

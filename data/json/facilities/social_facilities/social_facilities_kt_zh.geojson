@@ -32954,6 +32954,7 @@
     "note": "Die Zentrum Sunnegarte AG ist eine gemeinnützige Aktiengesellschaft und wird geführt als Kompetenzzentrum für Pflege und Betreuung (stationär und ambulant), Wohnen im Alter und verschiedene Serviceleistungen.",
     "operator": "Zentrum Sunnegarte AG",
     "phone": "+41 55 253 01 11",
+    "roof:shape": "flat",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "start_date": "2019",
@@ -36775,6 +36776,7 @@
     "building:levels": "5",
     "name": "Alterssiedlung Bürg",
     "operator": "Zentrum Sunnegarte AG",
+    "roof:shape": "flat",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "2022",
@@ -39854,29 +39856,6 @@
     "coordinates": [
       8.4848695,
       47.2310998
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2885194401",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "32",
-    "addr:postcode": "8005",
-    "addr:street": "Röntgenstrasse",
-    "amenity": "social_facility",
-    "name": "Zentrum für Selbstbestimmtes Leben (ZSL / CIL)",
-    "phone": "+41 44 272 80 00",
-    "website": "http://www.zslschweiz.ch",
-    "wheelchair": "yes",
-    "id": "node/2885194401"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5275498,
-      47.3837572
     ]
   }
 },

@@ -2166,43 +2166,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/268146981",
-  "properties": {
-    "aeroway": "helipad",
-    "location": "roof",
-    "maxweight": "5",
-    "id": "way/268146981"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          9.8385025,
-          46.4965684
-        ],
-        [
-          9.8383944,
-          46.4965212
-        ],
-        [
-          9.8384698,
-          46.4964384
-        ],
-        [
-          9.8385816,
-          46.4964874
-        ],
-        [
-          9.8385025,
-          46.4965684
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/274849081",
   "properties": {
     "aeroway": "helipad",
