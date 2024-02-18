@@ -12503,6 +12503,23 @@
       47.4906991
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11635003920",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Spielhuus Elefant",
+    "website": "https://www.spielhuuselefant.ch/",
+    "id": "node/11635003920"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5949446,
+      47.3601314
+    ]
+  }
 }
 ]
 }

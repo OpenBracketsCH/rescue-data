@@ -18238,64 +18238,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/220676313",
-  "properties": {
-    "addr:city": "Wolfhausen",
-    "addr:country": "CH",
-    "addr:housenumber": "6",
-    "addr:postcode": "8633",
-    "addr:street": "Aubrigstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Bühlhof 1",
-    "id": "way/220676313"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7961597,
-          47.2589442
-        ],
-        [
-          8.7961946,
-          47.258856
-        ],
-        [
-          8.7963096,
-          47.258878
-        ],
-        [
-          8.7963193,
-          47.2588531
-        ],
-        [
-          8.7964067,
-          47.2588695
-        ],
-        [
-          8.7963943,
-          47.2589027
-        ],
-        [
-          8.796509,
-          47.2589242
-        ],
-        [
-          8.7964761,
-          47.2590039
-        ],
-        [
-          8.7961597,
-          47.2589442
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/222919541",
   "properties": {
     "addr:city": "Dietikon",
@@ -33070,6 +33012,54 @@
 },
 {
   "type": "Feature",
+  "id": "way/1251828019",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Bühlhof 1",
+    "id": "way/1251828019"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7959997,
+          47.2589709
+        ],
+        [
+          8.7962568,
+          47.2586803
+        ],
+        [
+          8.7966551,
+          47.2588266
+        ],
+        [
+          8.7965094,
+          47.2590673
+        ],
+        [
+          8.7964979,
+          47.2590662
+        ],
+        [
+          8.7963366,
+          47.2590335
+        ],
+        [
+          8.7963191,
+          47.2590303
+        ],
+        [
+          8.7959997,
+          47.2589709
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
@@ -34642,6 +34632,7 @@
   "id": "node/2485259073",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-02-17",
     "name": "Betreuung Schönengrund",
     "id": "node/2485259073"
   },
@@ -35478,6 +35469,7 @@
   "id": "node/4110517449",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-02-17",
     "name": "Betreuung Weberstrasse",
     "operator": "Tagesschule Mattenbach",
     "id": "node/4110517449"

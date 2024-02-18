@@ -26357,7 +26357,6 @@
   "id": "way/488106209",
   "properties": {
     "addr:city": "Fläsch",
-    "addr:country": "CH",
     "addr:housenumber": "12",
     "addr:postcode": "7306",
     "addr:street": "Steigstrasse",
@@ -48540,6 +48539,49 @@
         [
           8.9422407,
           45.8580961
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1251613836",
+  "properties": {
+    "addr:city": "Prilly",
+    "addr:housenumber": "60",
+    "addr:postcode": "1008",
+    "addr:street": "Rte de Cery",
+    "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "healthcare:speciality": "psychiatry",
+    "name": "Libra/Mensa/Pyxis/Gaia/Gaia/Ulysse/Artémis",
+    "id": "way/1251613836"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6082567,
+          46.5468737
+        ],
+        [
+          6.6084257,
+          46.5465804
+        ],
+        [
+          6.6086654,
+          46.5466476
+        ],
+        [
+          6.6085006,
+          46.5469195
+        ],
+        [
+          6.6082567,
+          46.5468737
         ]
       ]
     ]

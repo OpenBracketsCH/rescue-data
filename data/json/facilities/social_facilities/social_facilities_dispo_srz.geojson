@@ -51386,6 +51386,7 @@
     "addr:housenumber": "17",
     "addr:street": "Pflanzschulstrasse",
     "amenity": "social_facility",
+    "check_date": "2024-02-17",
     "name": "VESO Werkstatt",
     "operator": "VESO",
     "social_facility": "workshop",
