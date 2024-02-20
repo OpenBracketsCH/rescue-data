@@ -12667,6 +12667,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "name": "Mercedes-Benz Automobil AG",
     "opening_hours": "Mo-Fr 08:00-18:30 SA 09:00-17:00",
     "operator": "Lifetec AG Schweiz",
@@ -12749,6 +12750,30 @@
     "coordinates": [
       8.5729943,
       47.4053473
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11640683353",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "1.OG Korridor",
+    "description": "Oranger Koffer",
+    "emergency": "defibrillator",
+    "emergency_telephone_code": "144",
+    "indoor": "yes",
+    "level": "1",
+    "name": "ZHAW Zürich Campus Zentrum Toniareal",
+    "operator": "Lifetec AG Schweiz",
+    "phone": "+41 800 122 144",
+    "id": "node/11640683353"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.515036,
+      47.3915535
     ]
   }
 }

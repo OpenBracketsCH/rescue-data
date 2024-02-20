@@ -37750,6 +37750,42 @@
 },
 {
   "type": "Feature",
+  "id": "way/1252222321",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Roos",
+    "id": "way/1252222321"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4725341,
+          47.4298238
+        ],
+        [
+          8.4715634,
+          47.4300808
+        ],
+        [
+          8.4714328,
+          47.4298782
+        ],
+        [
+          8.4723996,
+          47.4296168
+        ],
+        [
+          8.4725341,
+          47.4298238
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",
@@ -49107,26 +49143,6 @@
     "coordinates": [
       8.46275,
       47.4359695
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9939318040",
-  "properties": {
-    "addr:city": "Regensdorf",
-    "addr:housenumber": "17",
-    "addr:postcode": "8105",
-    "addr:street": "Ackerstrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Roos",
-    "id": "node/9939318040"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4722395,
-      47.4297511
     ]
   }
 },

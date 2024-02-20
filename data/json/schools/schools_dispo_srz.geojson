@@ -11374,64 +11374,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/31663831",
-  "properties": {
-    "addr:city": "Regensdorf",
-    "addr:housenumber": "96",
-    "addr:postcode": "8105",
-    "addr:street": "Hofwiesenstrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Chrüzächer",
-    "source": "Yahoo aerial images",
-    "id": "way/31663831"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4730282,
-          47.4286156
-        ],
-        [
-          8.4729686,
-          47.4284874
-        ],
-        [
-          8.4732004,
-          47.4284381
-        ],
-        [
-          8.473175,
-          47.4283836
-        ],
-        [
-          8.4733439,
-          47.4283477
-        ],
-        [
-          8.4733731,
-          47.4284104
-        ],
-        [
-          8.4732818,
-          47.4284298
-        ],
-        [
-          8.4733376,
-          47.4285498
-        ],
-        [
-          8.4730282,
-          47.4286156
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/31688459",
   "properties": {
     "amenity": "school",
