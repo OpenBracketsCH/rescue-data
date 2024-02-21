@@ -18735,6 +18735,7 @@
   "id": "way/193919804",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-02-19",
     "name": "Kindergarten Lindau",
     "source": "Bing",
     "id": "way/193919804"
