@@ -46316,6 +46316,35 @@
       47.3988077
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11649314675",
+  "properties": {
+    "access": "yes",
+    "amenity": "social_facility",
+    "contact:email": "info@foodsharing.de",
+    "covered": "yes",
+    "fee": "no",
+    "fridge": "yes",
+    "indoor": "no",
+    "location": "outdoor",
+    "name": "Madame Frigo - Wetzikon",
+    "network": "Madame Frigo",
+    "opening_hours": "24/7",
+    "operator": "foodsharing.de",
+    "social_facility": "food_bank",
+    "social_facility:for": "everyone",
+    "wikipedia": "de:Foodsharing.de",
+    "id": "node/11649314675"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8435638,
+      47.3013612
+    ]
+  }
 }
 ]
 }

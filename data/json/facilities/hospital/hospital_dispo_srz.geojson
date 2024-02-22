@@ -3181,7 +3181,7 @@
     "addr:postcode": "8400",
     "addr:street": "Schickstrasse",
     "alt_name": "Spital Lindberg: Klinik Lindberg",
-    "amenity": "clinic",
+    "amenity": "hospital",
     "email": "info@lindberg.ch",
     "healthcare": "hospital",
     "name": "Privatklinik Lindberg",

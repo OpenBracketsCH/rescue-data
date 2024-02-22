@@ -5286,6 +5286,7 @@
   "properties": {
     "addr:postcode": "8006",
     "amenity": "childcare",
+    "check_date": "2024-02-21",
     "name": "kihz Sumatra",
     "opening_hours": "Mo-Fr 07:00-18:30",
     "phone": "+41 44 634 63 50",

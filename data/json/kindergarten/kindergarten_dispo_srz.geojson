@@ -44244,7 +44244,11 @@
   "type": "Feature",
   "id": "node/6734622139",
   "properties": {
+    "addr:housenumber": "35",
+    "addr:street": "Scheuchzerstrasse",
     "amenity": "kindergarten",
+    "check_date": "2024-02-21",
+    "level": "-1",
     "name": "Montessori Schule Zürich",
     "website": "https://www.montessori-zuerich.ch/",
     "id": "node/6734622139"
