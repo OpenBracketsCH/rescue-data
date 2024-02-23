@@ -871,23 +871,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2476915929",
-  "properties": {
-    "barrier": "gate",
-    "material": "wood",
-    "note": "Hier ist eine Absperrung des Weges damit niemand hier weitergeht. Der Weg scheint aufgehoben worden zu sein.",
-    "id": "node/2476915929"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6730371,
-      47.7168868
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2842902476",
   "properties": {
     "barrier": "gate",

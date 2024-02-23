@@ -48589,6 +48589,66 @@
 },
 {
   "type": "Feature",
+  "id": "way/1253624488",
+  "properties": {
+    "addr:city": "Rheinfelden",
+    "addr:country": "CH",
+    "addr:housenumber": "33",
+    "addr:postcode": "4310",
+    "addr:street": "Roberstenstrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Villa Robersten",
+    "phone": "+41 61 835 08 65",
+    "website": "https://www.gzf.ch/spital/besuch/anreise-villa-robersten.html",
+    "id": "way/1253624488"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.79817,
+          47.5577386
+        ],
+        [
+          7.7982408,
+          47.5577954
+        ],
+        [
+          7.7985494,
+          47.558015
+        ],
+        [
+          7.7985054,
+          47.5580431
+        ],
+        [
+          7.798402,
+          47.5581093
+        ],
+        [
+          7.7983455,
+          47.5580691
+        ],
+        [
+          7.7982615,
+          47.5581194
+        ],
+        [
+          7.7979541,
+          47.5578744
+        ],
+        [
+          7.79817,
+          47.5577386
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/29207267",
   "properties": {
     "id": "way/29207267"
