@@ -60,6 +60,7 @@
   "properties": {
     "amenity": "kindergarten",
     "building": "yes",
+    "check_date": "2024-02-24",
     "name": "Rainhalde",
     "id": "way/41062610"
   },
@@ -555,6 +556,7 @@
   "id": "way/892401596",
   "properties": {
     "amenity": "kindergarten",
+    "name": "Kindergarten Inwil",
     "id": "way/892401596"
   },
   "geometry": {

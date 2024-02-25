@@ -1486,7 +1486,10 @@
     "addr:street": "Rigistrasse",
     "amenity": "school",
     "building": "school",
+    "building:levels": "3",
     "name": "Schulhaus Inwil",
+    "roof:levels": "0",
+    "roof:shape": "flat",
     "id": "way/41062607"
   },
   "geometry": {
