@@ -5949,6 +5949,7 @@
     "defibrillator:location": "Bei der Turnhalle",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "id": "node/7579637110"
   },
@@ -73433,6 +73434,28 @@
     "coordinates": [
       8.7349855,
       47.2345671
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11662949469",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingang Turnhalle Lohn / SH",
+    "description": "öffentlich zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11662949469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6665703,
+      47.7552226
     ]
   }
 }
