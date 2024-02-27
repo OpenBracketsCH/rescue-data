@@ -37620,6 +37620,7 @@
   "id": "node/6628539921",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-02-26",
     "contact:city": "Zürich",
     "contact:housenumber": "158",
     "contact:phone": "+41 44 413 74 35",

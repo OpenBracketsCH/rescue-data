@@ -523,6 +523,7 @@
     "addr:street": "Museumstrasse",
     "alt_name": "Kapo HB Museumstrasse",
     "amenity": "police",
+    "check_date": "2024-02-26",
     "indoor": "yes",
     "level": "0",
     "name": "Polizeiposten Hauptbahnhof Zürich",
@@ -530,6 +531,7 @@
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",
     "operator:wikipedia": "de:Kantonspolizei Zürich",
+    "wheelchair": "yes",
     "id": "node/4424600907"
   },
   "geometry": {

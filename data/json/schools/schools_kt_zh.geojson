@@ -82740,6 +82740,8 @@
     "addr:postcode": "8004",
     "addr:street": "Hohlstrasse",
     "amenity": "school",
+    "check_date": "2024-02-26",
+    "fixme": "big construction site in 2024, was not used as a school for a few years before that",
     "name": "Schule Hard",
     "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
     "id": "way/542202434"
