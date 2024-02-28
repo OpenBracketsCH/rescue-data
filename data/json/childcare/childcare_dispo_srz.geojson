@@ -6955,7 +6955,8 @@
   "id": "node/6757002955",
   "properties": {
     "amenity": "childcare",
-    "name": "Popepoppa",
+    "check_date": "2024-02-27",
+    "name": "pop e poppa frechdachs",
     "operator:type": "private",
     "website": "http://popepoppa.ch",
     "id": "node/6757002955"

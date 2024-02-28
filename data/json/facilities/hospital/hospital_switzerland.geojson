@@ -9,6 +9,7 @@
     "healthcare": "hospital",
     "name": "Centre Neuchâtelois de Psychiatrie Prefagier",
     "type": "multipolygon",
+    "website": "https://www.cnp.ch/accueil/",
     "id": "relation/310026"
   },
   "geometry": {
