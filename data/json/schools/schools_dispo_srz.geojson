@@ -13399,12 +13399,14 @@
     "addr:street": "Florhofgasse",
     "amenity": "school",
     "building": "yes",
+    "check_date": "2024-02-28",
     "description": "Direktion und Zentrale Dienste",
     "name": "Musikschule Konservatorium Zürich (MKZ)",
     "opening_hours": "Mo-Th 08:30-12:00, 13:30-17:00; Fr 08:30-12:00, 13:30-16:00",
     "operator": "Stadt Zürich, SSD, Musikschule Konservatorium Zürich",
     "short_name": "MKZ",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "wheelchair": "no",
     "id": "way/33819357"
   },
   "geometry": {
@@ -88520,12 +88522,12 @@
           47.3290626
         ],
         [
-          8.7830205,
-          47.3292984
+          8.7830219,
+          47.3293182
         ],
         [
-          8.7829837,
-          47.3293425
+          8.7829915,
+          47.3293489
         ],
         [
           8.7829833,
@@ -88548,20 +88550,20 @@
           47.3297045
         ],
         [
-          8.781726,
-          47.3297563
+          8.7817483,
+          47.3297545
         ],
         [
-          8.7815625,
-          47.3297855
+          8.7815859,
+          47.3297861
         ],
         [
-          8.781548,
-          47.329646
+          8.7815423,
+          47.3296462
         ],
         [
-          8.7815803,
-          47.3295045
+          8.7815492,
+          47.3295813
         ],
         [
           8.7817254,
@@ -88621,12 +88623,12 @@
           47.329383
         ],
         [
-          8.7829837,
-          47.3293425
+          8.7829915,
+          47.3293489
         ],
         [
-          8.7830205,
-          47.3292984
+          8.7830219,
+          47.3293182
         ],
         [
           8.7829544,
