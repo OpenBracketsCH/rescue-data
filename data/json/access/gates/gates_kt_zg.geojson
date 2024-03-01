@@ -432,21 +432,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/498492939",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/498492939"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5328771,
-      47.1819993
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/530782153",
   "properties": {
     "barrier": "lift_gate",
