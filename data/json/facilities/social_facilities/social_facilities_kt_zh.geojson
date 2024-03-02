@@ -41807,12 +41807,14 @@
   "id": "node/5465299536",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2024-03-01",
     "name": "Kinder-Spitex Kanton Zürich",
     "phone": "+41 842 400 200",
     "short_name": "kispex",
     "social_facility": "ambulatory_care",
     "social_facility:for": "child",
     "website": "https://kinderspitex-zuerich.ch/",
+    "wheelchair": "no",
     "id": "node/5465299536"
   },
   "geometry": {
@@ -42975,6 +42977,34 @@
     "coordinates": [
       8.6412454,
       47.6898909
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8152206418",
+  "properties": {
+    "access": "yes",
+    "amenity": "social_facility",
+    "covered": "no",
+    "fee": "no",
+    "fridge": "yes",
+    "indoor": "no",
+    "location": "outdoor",
+    "name": "Head-Quartier",
+    "network": "Madame Frigo",
+    "opening_hours": "24/7",
+    "operator": "gzoerlikon",
+    "social_facility": "food_bank",
+    "social_facility:for": "everyone",
+    "wikipedia": "de:Foodsharing.de",
+    "id": "node/8152206418"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5455992,
+      47.4078218
     ]
   }
 },
@@ -46345,6 +46375,34 @@
     "coordinates": [
       8.8435638,
       47.3013612
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11681747435",
+  "properties": {
+    "amenity": "social_facility",
+    "contact:email": "info@foodsharing.de",
+    "covered": "no",
+    "fee": "no",
+    "fridge": "yes",
+    "indoor": "no",
+    "location": "outdoor",
+    "network": "Madame Frigo",
+    "opening_hours": "24/7",
+    "operator": "foodsharing.de",
+    "social_facility": "food_bank",
+    "social_facility:for": "everyone",
+    "website": "https://foodsharing.de/",
+    "wikipedia": "de:Foodsharing.de",
+    "id": "node/11681747435"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6171852,
+      47.4249874
     ]
   }
 }
