@@ -41656,12 +41656,14 @@
     "addr:postcode": "8004",
     "addr:street": "Zweierstrasse",
     "amenity": "social_facility",
+    "check_date": "2024-03-02",
     "email": "kreis3-4@oja.ch",
     "name": "OJA Kreis 3 & 4",
     "opening_hours": "We-Sa",
     "social_facility": "outreach",
     "social_facility:for": "juvenile",
     "website": "https://www.oja.ch/einrichtungen/oja-kreis-34/",
+    "wheelchair": "no",
     "id": "node/5400748560"
   },
   "geometry": {

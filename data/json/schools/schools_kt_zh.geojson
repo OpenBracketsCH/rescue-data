@@ -60304,6 +60304,10 @@
           47.4837681
         ],
         [
+          8.7639817,
+          47.4837874
+        ],
+        [
           8.7638849,
           47.4838014
         ],
@@ -100020,6 +100024,29 @@
 },
 {
   "type": "Feature",
+  "id": "node/4468291101",
+  "properties": {
+    "addr:housenumber": "13",
+    "addr:street": "Maschinenstrasse",
+    "amenity": "school",
+    "check_date": "2024-03-02",
+    "description": "Handarbeit, Werken, Malatelier, Logopädie",
+    "level": "0",
+    "name": "Schule Pfingstweid",
+    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
+    "operator:type": "public",
+    "id": "node/4468291101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5157604,
+      47.3875218
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4798725703",
   "properties": {
     "amenity": "school",
@@ -100645,6 +100672,7 @@
   "id": "node/6925924988",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-03-02",
     "contact:city": "Zürich",
     "contact:housenumber": "102",
     "contact:phone": "+41 43 268 26 26",
@@ -100655,13 +100683,14 @@
     "name": "Juventus Schulen",
     "operator": "Stiftung Juventus-Schulen",
     "operator:type": "private",
+    "wheelchair": "yes",
     "id": "node/6925924988"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5293922,
-      47.3799046
+      8.5298792,
+      47.3800683
     ]
   }
 },

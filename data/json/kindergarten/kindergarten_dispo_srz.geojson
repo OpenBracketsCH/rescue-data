@@ -614,6 +614,7 @@
     "building:levels": "1",
     "name": "Kindergarten Burgacker",
     "roof:levels": "0",
+    "roof:shape": "flat",
     "id": "way/22952685"
   },
   "geometry": {
@@ -4478,6 +4479,7 @@
     "building:levels": "1",
     "name": "Kindergarten Burgacker",
     "roof:levels": "0",
+    "roof:shape": "gabled",
     "id": "way/42526782"
   },
   "geometry": {
@@ -18245,7 +18247,7 @@
     "preschool": "yes",
     "roof:material": "grass",
     "roof:shape": "flat",
-    "website": "https://www.salzh.ch/kita/kita-bueelwiesenweg/",
+    "website": "https://salzh.ch/betreuung/kita/",
     "id": "way/189956506"
   },
   "geometry": {
@@ -26400,6 +26402,7 @@
   "id": "way/305315995",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-03-02",
     "name": "Kindergarten Burgacker",
     "wheelchair": "yes",
     "id": "way/305315995"

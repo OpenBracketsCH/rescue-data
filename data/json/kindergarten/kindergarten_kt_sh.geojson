@@ -63,6 +63,7 @@
     "building:levels": "1",
     "name": "Kindergarten Burgacker",
     "roof:levels": "0",
+    "roof:shape": "flat",
     "id": "way/22952685"
   },
   "geometry": {
@@ -123,6 +124,7 @@
     "building:levels": "1",
     "name": "Kindergarten Burgacker",
     "roof:levels": "0",
+    "roof:shape": "gabled",
     "id": "way/42526782"
   },
   "geometry": {
@@ -2654,6 +2656,7 @@
   "id": "way/305315995",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-03-02",
     "name": "Kindergarten Burgacker",
     "wheelchair": "yes",
     "id": "way/305315995"

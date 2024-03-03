@@ -12960,9 +12960,11 @@
   "type": "Feature",
   "id": "node/11160546299",
   "properties": {
+    "alt_name": "Fugu Kinderkrippe Zürich Eggbühl",
     "amenity": "childcare",
+    "brand": "kita fugu",
     "fee": "yes",
-    "name": "Fugu Kinderkrippe Zürich Eggbühl",
+    "name": "kita fugu",
     "operator": "Fugu Kinderkrippen",
     "website": "https://www.kitafugu.ch/fugu-kinderkrippe-zuerich-eggbuehl/",
     "id": "node/11160546299"
