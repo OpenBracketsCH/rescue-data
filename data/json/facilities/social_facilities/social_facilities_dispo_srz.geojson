@@ -49649,6 +49649,7 @@
     "alt_name": "Alterszentrum Laubegg",
     "amenity": "social_facility",
     "capacity": "60+7",
+    "check_date": "2024-03-03",
     "email": "asz­laubegg@zuerich.ch",
     "name": "Gesundheitszentrum für das Alter Laubegg",
     "operator": "Stadt Zürich, GUD",
@@ -49656,13 +49657,14 @@
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "website": "http://www.stadt­zuerich.ch/az-laubegg",
+    "wheelchair": "yes",
     "id": "node/4937236843"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5134482,
-      47.3578499
+      8.5134859,
+      47.3578886
     ]
   }
 },

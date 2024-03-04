@@ -12223,8 +12223,10 @@
     "addr:postcode": "8032",
     "addr:street": "Forchstrasse",
     "amenity": "childcare",
+    "check_date": "2024-03-03",
     "name": "Rachel's Kinderkrippe",
     "website": "https://www.rachelskinderkrippe.ch/",
+    "wheelchair": "no",
     "id": "node/10889076247"
   },
   "geometry": {

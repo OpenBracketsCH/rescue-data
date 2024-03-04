@@ -10416,11 +10416,13 @@
     "addr:street": "Forchstrasse",
     "amenity": "nursing_home",
     "building": "yes",
+    "check_date": "2024-03-03",
     "name": "Pflegeheim Rehalp",
     "operator": "Stiftung Diakoniewerk Neumünster",
     "phone": "+41 44 387 55 55",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
     "website": "https://www.az-hottingen-rehalp.ch/pflegeheimrehalp",
+    "wheelchair": "yes",
     "id": "way/125417750"
   },
   "geometry": {
@@ -30345,6 +30347,7 @@
   "id": "node/3602021649",
   "properties": {
     "amenity": "nursing_home",
+    "check_date": "2024-03-04",
     "name": "Stiftung Langenegger Haus",
     "website": "https://www.langeneggerhaus.ch/",
     "id": "node/3602021649"
@@ -30489,6 +30492,7 @@
     "alt_name": "Alterszentrum Laubegg",
     "amenity": "social_facility",
     "capacity": "60+7",
+    "check_date": "2024-03-03",
     "email": "asz­laubegg@zuerich.ch",
     "name": "Gesundheitszentrum für das Alter Laubegg",
     "operator": "Stadt Zürich, GUD",
@@ -30496,13 +30500,14 @@
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "website": "http://www.stadt­zuerich.ch/az-laubegg",
+    "wheelchair": "yes",
     "id": "node/4937236843"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5134482,
-      47.3578499
+      8.5134859,
+      47.3578886
     ]
   }
 },

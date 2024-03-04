@@ -28290,10 +28290,6 @@
     "coordinates": [
       [
         [
-          8.689293,
-          47.5086703
-        ],
-        [
           8.6893857,
           47.5086505
         ],
@@ -28330,16 +28326,12 @@
           47.5090015
         ],
         [
-          8.689292,
-          47.5090843
+          8.689376,
+          47.5090828
         ],
         [
-          8.689292,
-          47.5090756
-        ],
-        [
-          8.689293,
-          47.5086703
+          8.6893857,
+          47.5086505
         ]
       ]
     ]
@@ -41865,28 +41857,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5295851920",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "70",
-    "addr:postcode": "8008",
-    "addr:street": "Lenggstrasse",
-    "amenity": "kindergarten",
-    "description": "Mittag-/Abendhort (Lengg I + III), Morgentisch (Lengg II)",
-    "name": "Hort Lengg",
-    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg",
-    "id": "node/5295851920"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.573943,
-      47.3541339
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5295851929",
   "properties": {
     "amenity": "kindergarten",
@@ -43938,23 +43908,6 @@
     "coordinates": [
       8.5164035,
       47.357028
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6633307833",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittaghort Bachtobel 6",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/6633307833"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5134134,
-      47.3578273
     ]
   }
 },

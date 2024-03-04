@@ -4243,6 +4243,7 @@
     "amenity": "fire_station",
     "building": "yes",
     "building:levels": "1",
+    "check_date": "2024-03-04",
     "name": "Stützpunktfeuerwehr Weinland - Depot Ossingen",
     "roof:levels": "1",
     "roof:shape": "gabled",

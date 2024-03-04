@@ -586,6 +586,7 @@
     "addr:postcode": "8032",
     "addr:street": "Forchstrasse",
     "amenity": "pharmacy",
+    "check_date": "2024-03-03",
     "name": "Hirslanden-Apotheke",
     "opening_hours": "Mo-Fr 07:45-18:30; Sa 07:45-16:00",
     "operator": "Dr. rer. nat. Karl-Rudolf Reichenbach",
@@ -595,8 +596,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5676263,
-      47.3604242
+      8.5676494,
+      47.3604238
     ]
   }
 },
@@ -1702,7 +1703,7 @@
     "brand": "BENU",
     "brand:wikidata": "Q62562792",
     "name": "BENU Apotheke",
-    "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:00-16:00",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
     "operator": "BENU Pharmacies",
     "source": "Kort-App",
     "website": "https://www.benu.ch/de/pharmacies/eulen/",
