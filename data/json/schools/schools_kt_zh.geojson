@@ -15360,6 +15360,7 @@
   "id": "way/37392962",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-03-04",
     "name": "Primarschule Trüllikon",
     "toilets:wheelchair": "yes",
     "wheelchair": "yes",
@@ -53413,6 +53414,7 @@
   "id": "way/208705006",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-03-04",
     "name": "Primarschule Truttikon",
     "id": "way/208705006"
   },
@@ -91068,6 +91070,7 @@
   "id": "way/856707919",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-03-04",
     "name": "Sekundarschule",
     "id": "way/856707919"
   },
@@ -91124,6 +91127,7 @@
   "id": "way/856707921",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-03-04",
     "name": "Schule Zentrum",
     "id": "way/856707921"
   },

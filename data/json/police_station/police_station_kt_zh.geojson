@@ -2397,6 +2397,7 @@
     "addr:postcode": "8450",
     "addr:street": "Thurtalstrasse",
     "amenity": "police",
+    "check_date": "2024-03-04",
     "name": "Polizeiposten Andelfingen",
     "operator": "Kantonspolizei Zürich",
     "phone": "+41 52 305 21 11",

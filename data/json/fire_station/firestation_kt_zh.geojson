@@ -1327,6 +1327,7 @@
     "addr:street": "Im Bilg",
     "amenity": "fire_station",
     "building": "yes",
+    "check_date": "2024-03-04",
     "name": "Feuerwehr Andelfingen",
     "id": "way/47298400"
   },
@@ -5044,6 +5045,7 @@
   "id": "node/312747435",
   "properties": {
     "amenity": "fire_station",
+    "check_date": "2024-03-04",
     "name": "Feuerwehr Schlieren",
     "id": "node/312747435"
   },
