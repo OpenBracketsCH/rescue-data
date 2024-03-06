@@ -33995,6 +33995,7 @@
     "addr:street": "Schöneggstrasse",
     "amenity": "school",
     "building": "yes",
+    "name": "Luberzen",
     "id": "way/114790554"
   },
   "geometry": {
@@ -34245,6 +34246,7 @@
   "properties": {
     "amenity": "school",
     "building": "yes",
+    "name": "Luberzen",
     "id": "way/114790569"
   },
   "geometry": {

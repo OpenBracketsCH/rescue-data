@@ -10067,8 +10067,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5133805,
-      47.3929512
+      8.5134691,
+      47.3929987
     ]
   }
 },
@@ -10590,6 +10590,34 @@
     "coordinates": [
       8.6016646,
       47.3481751
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11693487630",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "133",
+    "addr:postcode": "8005",
+    "addr:street": "Hardturmstrasse",
+    "amenity": "clinic",
+    "contact:city": "Zürich",
+    "contact:email": "institut@patho.ch",
+    "contact:housenumber": "133",
+    "contact:postcode": "8005",
+    "contact:street": "Hardturmstrasse",
+    "contact:website": "zytologie@patho.ch",
+    "level": "5",
+    "name": "Pathologie Institut Enge",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 09:00-11:15",
+    "id": "node/11693487630"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5135053,
+      47.393022
     ]
   }
 }

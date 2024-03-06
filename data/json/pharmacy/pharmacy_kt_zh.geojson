@@ -6052,6 +6052,7 @@
     "addr:street": "Goldschlägiplatz",
     "alt_name": "Apotheke Dr. Kunz",
     "amenity": "pharmacy",
+    "check_date:opening_hours": "2024-03-05",
     "dispensing": "yes",
     "email": "schlieren@apothekedrkunz.ch",
     "healthcare": "pharmacy",
