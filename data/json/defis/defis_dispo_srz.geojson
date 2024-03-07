@@ -2178,21 +2178,23 @@
   "id": "node/6976909962",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Perron Gleis 2",
+    "defibrillator:location": "Vor dem Bahnhof, nähe Gleis 2",
     "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Schweizerische Südostbahn",
     "phone": "+41 58 580 70 70",
+    "wheelchair": "limited",
     "id": "node/6976909962"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7226978,
-      47.1568595
+      8.7227292,
+      47.1567328
     ]
   }
 },
@@ -17705,8 +17707,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5911938,
-      47.0308482
+      8.5913132,
+      47.0309017
     ]
   }
 },
@@ -20139,9 +20141,14 @@
   "type": "Feature",
   "id": "node/8480125218",
   "properties": {
+    "access": "yes",
+    "defibrillator:location": "An der Wand",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "wheelchair": "limited",
     "id": "node/8480125218"
   },
   "geometry": {
@@ -38948,12 +38955,15 @@
   "type": "Feature",
   "id": "node/9604725915",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Vermögenszentrum: Kundenempfang 2. OG",
+    "access": "customers",
+    "defibrillator:location": "Vermögenszentrum: Kundenempfang 1. OG",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "wheelchair": "limited",
     "id": "node/9604725915"
   },
   "geometry": {
@@ -55250,8 +55260,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.53009,
-      47.52979
+      8.5300709,
+      47.529809
     ]
   }
 },
@@ -72389,23 +72399,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11586583469",
-  "properties": {
-    "defibrillator:location": "Vor dem Bahnhof, nähe Gleis 2",
-    "emergency": "defibrillator",
-    "indoor": "no",
-    "id": "node/11586583469"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7227093,
-      47.1567061
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11591030469",
   "properties": {
     "access": "no",
@@ -73779,6 +73772,29 @@
     "coordinates": [
       8.5017038,
       47.3818683
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11697120986",
+  "properties": {
+    "access": "customers",
+    "defibrillator:location": "Kassen Theater 11",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Theater 11 Zürich",
+    "phone": "+41 44 265 56 56",
+    "wheelchair": "limited",
+    "id": "node/11697120986"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5496224,
+      47.4106875
     ]
   }
 }

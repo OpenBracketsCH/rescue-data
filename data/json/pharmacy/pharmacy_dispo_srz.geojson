@@ -5171,25 +5171,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3201294391",
-  "properties": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "healthcare": "pharmacy",
-    "level": "1",
-    "name": "Löwenapotheke",
-    "id": "node/3201294391"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7940802,
-      47.2008273
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3246024362",
   "properties": {
     "addr:city": "Glattpark (Opfikon)",
@@ -7361,6 +7342,29 @@
     "coordinates": [
       8.5421947,
       47.5058487
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7465426715",
+  "properties": {
+    "amenity": "pharmacy",
+    "branch": "Pfäffikon SZ Seedammcenter",
+    "brand": "Benu",
+    "brand:wikidata": "Q62562792",
+    "healthcare": "pharmacy",
+    "level": "1",
+    "name": "Benu",
+    "opening_hours": "Mo-Fr 09:00-21:00, Sa 08:00-18:00; PH off",
+    "website": "https://www.benu.ch/",
+    "id": "node/7465426715"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7938142,
+      47.2008101
     ]
   }
 },

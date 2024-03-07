@@ -11844,9 +11844,14 @@
   "type": "Feature",
   "id": "node/8480125218",
   "properties": {
+    "access": "yes",
+    "defibrillator:location": "An der Wand",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "wheelchair": "limited",
     "id": "node/8480125218"
   },
   "geometry": {
@@ -28001,12 +28006,15 @@
   "type": "Feature",
   "id": "node/9604725915",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Vermögenszentrum: Kundenempfang 2. OG",
+    "access": "customers",
+    "defibrillator:location": "Vermögenszentrum: Kundenempfang 1. OG",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "wheelchair": "limited",
     "id": "node/9604725915"
   },
   "geometry": {
@@ -41161,8 +41169,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.53009,
-      47.52979
+      8.5300709,
+      47.529809
     ]
   }
 },
@@ -56262,6 +56270,29 @@
     "coordinates": [
       8.5017038,
       47.3818683
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11697120986",
+  "properties": {
+    "access": "customers",
+    "defibrillator:location": "Kassen Theater 11",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Theater 11 Zürich",
+    "phone": "+41 44 265 56 56",
+    "wheelchair": "limited",
+    "id": "node/11697120986"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5496224,
+      47.4106875
     ]
   }
 }

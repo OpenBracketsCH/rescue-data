@@ -2241,35 +2241,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1079030714",
-  "properties": {
-    "access": "no",
-    "barrier": "gate",
-    "description": "ausserhalb der Badesaison geöffnet",
-    "foot": "yes",
-    "height": "2",
-    "locked": "yes",
-    "material": "metal",
-    "opening_hours": "Sep 15-May 15",
-    "wheelchair": "limited",
-    "id": "way/1079030714"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.5113144,
-        47.2650498
-      ],
-      [
-        8.5112662,
-        47.2650389
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1079035965",
   "properties": {
     "access": "no",
@@ -7007,8 +6978,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5104416,
-      47.2658148
+      8.5104444,
+      47.2658154
     ]
   }
 },
@@ -7031,8 +7002,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5086764,
-      47.2677374
+      8.509287,
+      47.2673782
     ]
   }
 },
@@ -8290,26 +8261,6 @@
     "coordinates": [
       8.5560141,
       47.2937976
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/462123871",
-  "properties": {
-    "access": "customers",
-    "barrier": "lift_gate",
-    "bicycle": "yes",
-    "foot": "no",
-    "motorcar": "yes",
-    "motorcycle": "yes",
-    "id": "node/462123871"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4716271,
-      47.4383685
     ]
   }
 },
@@ -36772,8 +36723,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5387882,
-      47.2422498
+      8.5387826,
+      47.242258
     ]
   }
 },
@@ -45475,46 +45426,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4967962122",
-  "properties": {
-    "access": "customers",
-    "barrier": "lift_gate",
-    "bicycle": "yes",
-    "foot": "no",
-    "motorcar": "yes",
-    "motorcycle": "yes",
-    "id": "node/4967962122"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4717845,
-      47.438216
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4967962127",
-  "properties": {
-    "access": "customers",
-    "barrier": "lift_gate",
-    "bicycle": "yes",
-    "foot": "no",
-    "motorcar": "yes",
-    "motorcycle": "yes",
-    "id": "node/4967962127"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4717473,
-      47.4383569
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4968756011",
   "properties": {
     "access": "yes",
@@ -49888,8 +49799,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4611001,
-      47.4059525
+      8.4624725,
+      47.4059056
     ]
   }
 },
@@ -56044,25 +55955,6 @@
     "coordinates": [
       8.7098277,
       47.1089658
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6644708821",
-  "properties": {
-    "access": "permit",
-    "barrier": "lift_gate",
-    "bicycle": "yes",
-    "foot": "yes",
-    "horse": "no",
-    "id": "node/6644708821"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4720492,
-      47.438882
     ]
   }
 },
@@ -92957,6 +92849,68 @@
     "coordinates": [
       8.5787904,
       47.4164242
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11696993477",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11696993477"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5747169,
+      47.3638978
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11697354717",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11697354717"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4626812,
+      47.4056371
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11697354718",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11697354718"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4625711,
+      47.4053592
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11697869272",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "node/11697869272"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5127796,
+      47.2670492
     ]
   }
 }

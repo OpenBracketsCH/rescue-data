@@ -77,7 +77,6 @@
     "addr:street": "Mattenstrasse",
     "description": "Notfalltreffpunkt Stadt Zug",
     "emergency": "disaster_help_point",
-    "location": "Schulhaus Guthirt",
     "name": "Schulhaus Guthirt",
     "id": "node/9418104503"
   },

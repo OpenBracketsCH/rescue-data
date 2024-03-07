@@ -51660,47 +51660,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/161452023",
-  "properties": {
-    "amenity": "school",
-    "building": "yes",
-    "name": "Kindergarten",
-    "id": "way/161452023"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5195715,
-          47.1776822
-        ],
-        [
-          8.5195563,
-          47.1776346
-        ],
-        [
-          8.519521,
-          47.1775236
-        ],
-        [
-          8.5198545,
-          47.1774746
-        ],
-        [
-          8.5199049,
-          47.1776332
-        ],
-        [
-          8.5195715,
-          47.1776822
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/161703925",
   "properties": {
     "addr:city": "Cham",
@@ -131147,6 +131106,27 @@
     "coordinates": [
       8.7540898,
       47.4879096
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11698508815",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "80",
+    "addr:postcode": "8105",
+    "addr:street": "Althardstrasse",
+    "amenity": "school",
+    "name": "Kleingruppenschule Furttal",
+    "website": "https://www.ps-regensdorf.ch/kleingruppenschule/kontakt-1/p-864/",
+    "id": "node/11698508815"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4711493,
+      47.4396643
     ]
   }
 }

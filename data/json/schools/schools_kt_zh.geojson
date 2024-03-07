@@ -103697,6 +103697,27 @@
       47.4879096
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11698508815",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "80",
+    "addr:postcode": "8105",
+    "addr:street": "Althardstrasse",
+    "amenity": "school",
+    "name": "Kleingruppenschule Furttal",
+    "website": "https://www.ps-regensdorf.ch/kleingruppenschule/kontakt-1/p-864/",
+    "id": "node/11698508815"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4711493,
+      47.4396643
+    ]
+  }
 }
 ]
 }
