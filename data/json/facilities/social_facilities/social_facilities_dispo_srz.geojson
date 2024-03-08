@@ -31741,6 +31741,7 @@
     "addr:street": "Kirchweg",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-03-07",
     "name": "Alters- und Pflegezentrum Stammertal",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
@@ -33878,6 +33879,7 @@
     "religion": "christian",
     "social_facility": "assisted_living",
     "website": "https://xn--wohnen-zrich-klb.heilsarmee.ch/",
+    "wheelchair": "yes",
     "id": "way/338444094"
   },
   "geometry": {
@@ -41176,6 +41178,7 @@
     "addr:street": "Hauptstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-03-07",
     "name": "Alters- und Pflegezentrum Stammertal",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
@@ -55810,6 +55813,7 @@
     "name": "Trimons Werk-Stadt",
     "social_facility": "outreach",
     "website": "https://www.trimons.ch/werk-stadt/",
+    "wheelchair": "limited",
     "id": "node/10839356050"
   },
   "geometry": {
@@ -55834,6 +55838,7 @@
     "social_facility": "assisted_living",
     "social_facility:for": "woman",
     "website": "https://www.stauffacherin-zuerich.ch/",
+    "wheelchair": "no",
     "id": "node/10839657685"
   },
   "geometry": {

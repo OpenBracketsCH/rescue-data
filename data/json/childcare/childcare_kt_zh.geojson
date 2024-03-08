@@ -12529,6 +12529,30 @@
       47.3601314
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11702200400",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "78",
+    "addr:postcode": "8050",
+    "addr:street": "Binzmühlestrasse",
+    "alt_name": "KiTa 1 - Zürich, Oerlikon",
+    "amenity": "childcare",
+    "name": "Kita Mariakäfer",
+    "operator": "Kita Mariakäfer",
+    "website": "https://kinderkrippe-mariakaefer.ch/kita-1-zuerich-oerlikon/",
+    "id": "node/11702200400"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5425371,
+      47.4148792
+    ]
+  }
 }
 ]
 }
