@@ -30197,33 +30197,10 @@
 },
 {
   "type": "Feature",
-  "id": "node/9790903218",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Schulhaus Oberdürnten",
-    "description": "unter Vordach",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "?",
-    "phone": "+41754227406",
-    "id": "node/9790903218"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8652348,
-      47.2783117
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9790922417",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Schulhaus Oberdürnten",
+    "defibrillator:location": "Schulhaus Oberdürnten unter Vordach",
     "description": "unter Vordach, rechts vom Eingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -56363,6 +56340,99 @@
     "coordinates": [
       8.8272518,
       47.4737072
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11703379269",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Kindergarten Neumatt ",
+    "description": "7/24h",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Gemeinde Urdorf",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11703379269"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4212941,
+      47.3890599
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11703870771",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Neben Einfahrt Tiefgarage",
+    "description": "immer verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Baugenossenschaft Halde Zürich",
+    "phone": "+41444342040",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11703870771"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4743589,
+      47.3919398
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11704202870",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Stückler 3",
+    "description": "Hofseitig",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Baugenossenschaft Halde Zürich",
+    "phone": "+41444342040",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11704202870"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4753138,
+      47.3909484
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11704203671",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Stückler 3",
+    "description": "Hofseitig",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Baugenossenschaft Halde Zürich",
+    "phone": "+41444342040",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11704203671"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4765154,
+      47.3903491
     ]
   }
 }
