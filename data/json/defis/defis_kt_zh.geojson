@@ -56435,6 +56435,79 @@
       47.3903491
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11716085268",
+  "properties": {
+    "access": "permit",
+    "defibrillator:location": "5. OG Empfang\n1183LTM",
+    "description": "Oranger Koffer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "5.OG",
+    "name": "CMS von Erlach Partners AG",
+    "opening_hours": "Mo-Fr 08:00-19:00",
+    "operator": "Lifetec AG Schweiz",
+    "phone": "+41 800 122 144",
+    "id": "node/11716085268"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5381509,
+      47.3674248
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11718109869",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Steakhouse Bahnhof",
+    "description": "Während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "operator": "Bahnhöfli GmbH",
+    "phone": "+41793775373",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11718109869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4579604,
+      47.2442503
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11721951571",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haupteingang Keller AG",
+    "description": "Während den Bürozeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "Mo-Fr 6:00-18:00",
+    "operator": "Keller Druckmesstechnik AG",
+    "id": "node/11721951571"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7475329,
+      47.4985308
+    ]
+  }
 }
 ]
 }
