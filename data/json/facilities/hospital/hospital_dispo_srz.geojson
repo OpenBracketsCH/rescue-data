@@ -12422,6 +12422,36 @@
 },
 {
   "type": "Feature",
+  "id": "node/6058029616",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "177",
+    "addr:postcode": "8003",
+    "addr:street": "Badenerstrasse",
+    "alt_name": "Geburtshaus Delphis;Geburtshaus Delfys;Geburtshaus Delfis",
+    "amenity": "clinic",
+    "email": "info@delphys.ch",
+    "healthcare": "birthing_centre",
+    "image": "https://www.delphys.ch/assets/images/7/Logo-Startseite-032d1721.jpg",
+    "level": "1;2",
+    "name": "Geburtshaus Delphys",
+    "operator": "Geburtshaus Delphys",
+    "phone": "+41 44 491 91 20",
+    "short_name": "Delphys",
+    "website": "https://www.delphys.ch/",
+    "id": "node/6058029616"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5198714,
+      47.3746572
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6316596968",
   "properties": {
     "addr:city": "Feuerthalen",

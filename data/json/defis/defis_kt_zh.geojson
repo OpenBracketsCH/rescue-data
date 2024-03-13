@@ -16476,20 +16476,19 @@
   "id": "node/8592626283",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Seebad Oberrieden bei Abfallcontainern, zwischen Badikiosk und Badmeisterraum",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Büro Bademeister",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "operator": "Gemeinde Oberrieden / Badmeister Oggenfuss, Schrepfer, Barmettler",
+    "operator": "Gemeinde Oberrieden",
     "phone": "+41 44 720 07 58",
     "id": "node/8592626283"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5821339,
-      47.276282
+      8.5822224,
+      47.2762656
     ]
   }
 },
@@ -48640,7 +48639,7 @@
   "type": "Feature",
   "id": "node/10973218010",
   "properties": {
-    "access": "24/7",
+    "access": "yes",
     "defibrillator:location": "Aussenwand am Schulhaus Untermosen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -56506,6 +56505,31 @@
     "coordinates": [
       8.7475329,
       47.4985308
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11722110669",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Firma: Nova Swiss",
+    "description": "während Öffungszeiten verfügbar (an Empfang / Rezeption wenden) ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo - Fr 08:00 - 17:00",
+    "operator": "Nova Werke AG",
+    "phone": "+41 52 354 16 16",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11722110669"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6813565,
+      47.4190043
     ]
   }
 }
