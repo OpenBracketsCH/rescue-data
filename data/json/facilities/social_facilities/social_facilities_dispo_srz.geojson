@@ -49917,14 +49917,15 @@
     "amenity": "social_facility",
     "level": "2",
     "name": "Kinderparadies",
+    "opening_hours": "Mo-Sa 09:00-18:45",
     "social_facility:for": "children",
     "id": "node/5026288943"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.498457,
-      47.3866516
+      8.4984822,
+      47.3866567
     ]
   }
 },

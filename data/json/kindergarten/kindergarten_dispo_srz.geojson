@@ -45500,6 +45500,7 @@
   "id": "node/9008386897",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-03-13",
     "kindergarten": "yes",
     "name": "Pandolino",
     "nursery": "yes",

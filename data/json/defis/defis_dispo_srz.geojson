@@ -26052,8 +26052,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4995369,
-      47.3862268
+      8.4997088,
+      47.3863342
     ]
   }
 },
@@ -33102,13 +33102,13 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Erdgeschoss im Treppenhaus zur Bibliothek, beim Feuerlöscher",
-    "description": "während Öffnungszeiten oder Anlässe im Gemeindesaal verfügbar",
+    "description": "Zoll AED 3, mit Kindertaste und CPR Feedback. Inkl. Notfallset: Schere, Rasierer, Beatmungs-Folie, Taschenmaske in Hartbox mit Filter, Gummizug, Handschuhe und Alkoholpads.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Gemeindeverwaltung Steinhausen",
     "phone": "+41 41 748 11 55",
-    "ref": "ZOLL AED 3",
+    "ref": "Gemeindesaal Steinhausen",
     "id": "node/9112938930"
   },
   "geometry": {
@@ -74058,6 +74058,54 @@
     "coordinates": [
       8.8497464,
       47.1848141
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11727223569",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Bezirksgericht, im Gebäude am Empfang melden",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 7:45- 11:45, 13:30-16:30",
+    "operator": "Bezirksgericht Uster",
+    "phone": "+41 43 366 33 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11727223569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7144649,
+      47.3505422
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11727256169",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Werkhof Steinhausen",
+    "description": "Schiller Fred Easy",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeindeverwaltung Steinhausen",
+    "phone": "+41 41 748 11 55",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11727256169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4798432,
+      47.1929141
     ]
   }
 }
