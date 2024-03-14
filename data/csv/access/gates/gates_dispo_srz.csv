@@ -5821,3 +5821,7 @@ FeatureCollection,"{'type': 'Feature', 'id': 'node/11716455122', 'properties': {
 FeatureCollection,"{'type': 'Feature', 'id': 'node/11716455123', 'properties': {'barrier': 'gate', 'id': 'node/11716455123'}, 'geometry': {'type': 'Point', 'coordinates': [8.5149784, 47.5844221]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/11716455146', 'properties': {'barrier': 'gate', 'id': 'node/11716455146'}, 'geometry': {'type': 'Point', 'coordinates': [8.5136662, 47.5825297]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/11717121349', 'properties': {'access': 'private', 'barrier': 'gate', 'id': 'node/11717121349'}, 'geometry': {'type': 'Point', 'coordinates': [8.53914, 47.3374752]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/11722110601', 'properties': {'barrier': 'gate', 'id': 'node/11722110601'}, 'geometry': {'type': 'Point', 'coordinates': [8.5137961, 47.1708244]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/11722311398', 'properties': {'barrier': 'gate', 'id': 'node/11722311398'}, 'geometry': {'type': 'Point', 'coordinates': [8.4946016, 47.6055522]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/11724267082', 'properties': {'access': 'private', 'barrier': 'gate', 'gate:type': 'rolling', 'id': 'node/11724267082'}, 'geometry': {'type': 'Point', 'coordinates': [8.5776865, 47.2832275]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/11725355055', 'properties': {'barrier': 'lift_gate', 'lift_gate:type': 'single', 'id': 'node/11725355055'}, 'geometry': {'type': 'Point', 'coordinates': [8.5836795, 47.268119]}}"
