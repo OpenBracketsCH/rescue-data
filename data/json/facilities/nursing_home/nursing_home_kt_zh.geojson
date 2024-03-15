@@ -832,83 +832,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/10743329",
-  "properties": {
-    "addr:city": "Niederglatt",
-    "addr:housenumber": "55",
-    "addr:postcode": "8172",
-    "addr:street": "Grafschaftstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "email": "info@altersheim-eichi.ch",
-    "name": "Alters- und Pflegeheim Eichi",
-    "phone": "+41 44 851 82 00",
-    "social_facility": "nursing_home",
-    "website": "https://www.altersheim-eichi.ch/kontakt/",
-    "id": "way/10743329"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5008308,
-          47.493913
-        ],
-        [
-          8.5006564,
-          47.493872
-        ],
-        [
-          8.5006914,
-          47.4938039
-        ],
-        [
-          8.5004802,
-          47.4935009
-        ],
-        [
-          8.5006895,
-          47.4934336
-        ],
-        [
-          8.5009582,
-          47.4938173
-        ],
-        [
-          8.5008666,
-          47.4938472
-        ],
-        [
-          8.5008661,
-          47.4938495
-        ],
-        [
-          8.5008564,
-          47.4938484
-        ],
-        [
-          8.5008437,
-          47.4938526
-        ],
-        [
-          8.5008363,
-          47.4938663
-        ],
-        [
-          8.5008546,
-          47.4938707
-        ],
-        [
-          8.5008308,
-          47.493913
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/22702052",
   "properties": {
     "addr:housenumber": "7",
@@ -23246,6 +23169,102 @@
 },
 {
   "type": "Feature",
+  "id": "way/1262590479",
+  "properties": {
+    "amenity": "social_facility",
+    "contact:city": "Niederglatt",
+    "contact:email": "info@altersheim-eichi.ch",
+    "contact:housenumber": "55",
+    "contact:phone": "+41 44 851 82 00",
+    "contact:postcode": "8172",
+    "contact:street": "Grafschaftstrasse",
+    "contact:website": "https://www.altersheim-eichi.ch/kontakt/",
+    "name": "Alters- und Pflegeheim Eichi",
+    "social_facility": "nursing_home",
+    "id": "way/1262590479"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.500698,
+          47.4941846
+        ],
+        [
+          8.5005798,
+          47.494017
+        ],
+        [
+          8.5006423,
+          47.493897
+        ],
+        [
+          8.5006564,
+          47.493872
+        ],
+        [
+          8.5006914,
+          47.4938039
+        ],
+        [
+          8.5004802,
+          47.4935009
+        ],
+        [
+          8.5004037,
+          47.4934031
+        ],
+        [
+          8.5007395,
+          47.4933766
+        ],
+        [
+          8.5009086,
+          47.4933779
+        ],
+        [
+          8.5011346,
+          47.4934079
+        ],
+        [
+          8.5014887,
+          47.4934108
+        ],
+        [
+          8.5016105,
+          47.4938766
+        ],
+        [
+          8.5009961,
+          47.4940772
+        ],
+        [
+          8.5010464,
+          47.4941703
+        ],
+        [
+          8.5007983,
+          47.4942513
+        ],
+        [
+          8.5007272,
+          47.4942748
+        ],
+        [
+          8.500676,
+          47.4941998
+        ],
+        [
+          8.500698,
+          47.4941846
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/80080369",
   "properties": {
     "addr:city": "Zürich",
@@ -24292,6 +24311,7 @@
     "addr:postcode": "8180",
     "addr:street": "Soligänterstrasse",
     "amenity": "social_facility",
+    "check_date": "2024-03-14",
     "name": "Alterszentrum - Pflegewohngruppe Soligänter",
     "operator": "Stiftung Alterszentrum Region Bülach",
     "phone": "+41 44 861 83 72",

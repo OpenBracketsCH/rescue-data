@@ -226,9 +226,12 @@
     "addr:street": "Dorfstrasse",
     "amenity": "pharmacy",
     "building": "house",
+    "building:levels": "2",
     "building:roof": "tile",
     "name": "Tösstal-Apotheke",
     "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-15:00",
+    "roof:levels": "2",
+    "roof:shape": "gabled",
     "shop": "chemist",
     "id": "way/251638359"
   },

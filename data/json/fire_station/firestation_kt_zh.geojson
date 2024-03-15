@@ -2301,11 +2301,17 @@
   "type": "Feature",
   "id": "way/114188576",
   "properties": {
+    "addr:city": "Bassersdorf",
+    "addr:housenumber": "1",
+    "addr:postcode": "8303",
+    "addr:street": "Ufmattenstrasse",
     "amenity": "fire_station",
     "building": "yes",
     "building:levels": "2",
+    "email": "info@feuerwehr-bassersdorf.ch",
     "name": "Feuerwehr Bassersdorf",
     "roof:colour": "brown",
+    "website": "feuerwehr-bassersdorf.ch",
     "id": "way/114188576"
   },
   "geometry": {
