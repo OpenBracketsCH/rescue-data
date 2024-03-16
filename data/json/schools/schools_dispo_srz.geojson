@@ -56782,65 +56782,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/183644208",
-  "properties": {
-    "addr:city": "Dietlikon",
-    "addr:country": "CH",
-    "addr:housenumber": "6",
-    "addr:postcode": "8305",
-    "addr:street": "Dorfstrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Dorf 1-5",
-    "source": "bing",
-    "id": "way/183644208"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6168755,
-          47.4258275
-        ],
-        [
-          8.6168739,
-          47.4257291
-        ],
-        [
-          8.6168274,
-          47.4257294
-        ],
-        [
-          8.6168261,
-          47.4256541
-        ],
-        [
-          8.6168513,
-          47.4256539
-        ],
-        [
-          8.6168491,
-          47.4255219
-        ],
-        [
-          8.6171093,
-          47.4255199
-        ],
-        [
-          8.6171143,
-          47.4258258
-        ],
-        [
-          8.6168755,
-          47.4258275
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/183746196",
   "properties": {
     "addr:city": "Winterberg",
@@ -131078,6 +131019,29 @@
     "coordinates": [
       8.4711493,
       47.4396643
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11735106969",
+  "properties": {
+    "addr:postcode": "8048",
+    "amenity": "school",
+    "name": "Durchstart",
+    "name:de": "durchstart",
+    "name:en": "durchstart",
+    "name:fr": "durchstart",
+    "operator": "durchstart",
+    "phone": "043 344 05 51",
+    "website": "https://durchstart.ch/",
+    "id": "node/11735106969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4923858,
+      47.3884484
     ]
   }
 }

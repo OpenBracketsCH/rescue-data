@@ -35126,7 +35126,10 @@
     "addr:postcode": "8048",
     "addr:street": "Freihofstrasse",
     "amenity": "kindergarten",
+    "check_date": "2024-03-15",
     "name": "Chinderhuus KribbelKrabbel",
+    "name:fr": "Chinderhuus KribbelKrabbel",
+    "operator": "Globegarden Childcare",
     "phone": "+41 43 817 02 82",
     "website": "https://www.kribbelkrabbel.ch/",
     "id": "node/3309592623"

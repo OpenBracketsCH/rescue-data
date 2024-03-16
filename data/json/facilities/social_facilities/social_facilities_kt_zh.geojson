@@ -46445,6 +46445,28 @@
       47.4249874
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11733380110",
+  "properties": {
+    "addr:city": "Dietlikon",
+    "addr:housenumber": "5a",
+    "addr:postcode": "8305",
+    "addr:street": "Dorfstrasse",
+    "amenity": "social_facility",
+    "email": "ginabeyeler@gmx.ch",
+    "name": "Bring- & Holbörse",
+    "website": "https://www.dietlikon.ch/kultur-freizeit/freizeit/vereine/vereinsliste/details.html/130/association/56",
+    "id": "node/11733380110"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6171433,
+      47.4248637
+    ]
+  }
 }
 ]
 }

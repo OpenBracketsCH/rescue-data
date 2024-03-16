@@ -21721,6 +21721,29 @@
       47.4109396
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11735106969",
+  "properties": {
+    "addr:postcode": "8048",
+    "amenity": "school",
+    "name": "Durchstart",
+    "name:de": "durchstart",
+    "name:en": "durchstart",
+    "name:fr": "durchstart",
+    "operator": "durchstart",
+    "phone": "043 344 05 51",
+    "website": "https://durchstart.ch/",
+    "id": "node/11735106969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4923858,
+      47.3884484
+    ]
+  }
 }
 ]
 }
