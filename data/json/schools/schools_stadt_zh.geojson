@@ -6814,6 +6814,7 @@
     "addr:street": "Merkurstrasse",
     "amenity": "school",
     "building": "yes",
+    "check_date": "2024-03-16",
     "name": "Jugendmusikschule Zürich",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
     "id": "way/121291959"
