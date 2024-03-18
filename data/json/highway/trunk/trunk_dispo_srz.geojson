@@ -168,6 +168,57 @@
 },
 {
   "type": "Feature",
+  "id": "way/4514083",
+  "properties": {
+    "alt_name": "Weinlandautobahn",
+    "highway": "trunk",
+    "int_ref": "E 41",
+    "lanes": "1",
+    "maxspeed": "80",
+    "nat_name": "N4",
+    "oneway": "yes",
+    "ref": "A4;E41",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/4514083"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6979911,
+        47.5277442
+      ],
+      [
+        8.6980618,
+        47.5276672
+      ],
+      [
+        8.6982426,
+        47.5275642
+      ],
+      [
+        8.6984405,
+        47.5274498
+      ],
+      [
+        8.6986385,
+        47.5273382
+      ],
+      [
+        8.6987626,
+        47.5272672
+      ],
+      [
+        8.6988487,
+        47.5272199
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/4542955",
   "properties": {
     "alt_name": "Weinlandautobahn",
@@ -354,7 +405,7 @@
     "shoulder": "no",
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "turn:lanes": "through|slight_right",
     "id": "way/4578023"
   },
@@ -406,151 +457,15 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "id": "way/4578027"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.6644756,
-        47.7187656
-      ],
-      [
-        8.6645817,
-        47.7187815
-      ],
-      [
-        8.6646633,
-        47.7187947
-      ],
-      [
-        8.6647563,
-        47.7188111
-      ],
-      [
-        8.6648318,
-        47.7188264
-      ],
-      [
-        8.6649361,
-        47.7188492
-      ],
-      [
-        8.6650568,
-        47.718878
-      ],
-      [
-        8.665148,
-        47.7189005
-      ],
-      [
-        8.6652487,
-        47.7189276
-      ],
-      [
-        8.6653361,
-        47.7189532
-      ],
-      [
-        8.6654257,
-        47.7189803
-      ],
-      [
-        8.6655319,
-        47.7190154
-      ],
-      [
-        8.6656205,
-        47.7190463
-      ],
-      [
-        8.6657242,
-        47.7190838
-      ],
-      [
-        8.6658157,
-        47.7191196
-      ],
-      [
-        8.6658952,
-        47.7191515
-      ],
-      [
-        8.665982,
-        47.7191888
-      ],
-      [
-        8.6660626,
-        47.7192249
-      ],
-      [
-        8.6661517,
-        47.7192668
-      ],
-      [
-        8.6662389,
-        47.7193111
-      ],
-      [
-        8.6663145,
-        47.7193507
-      ],
-      [
-        8.6663901,
-        47.7193922
-      ],
-      [
-        8.6664621,
-        47.7194327
-      ],
-      [
-        8.6665443,
-        47.7194812
-      ],
-      [
-        8.6666133,
-        47.719524
-      ],
-      [
-        8.6666789,
-        47.7195673
-      ],
-      [
-        8.6667511,
-        47.7196152
-      ],
-      [
-        8.6668304,
-        47.719672
-      ],
-      [
-        8.6669097,
-        47.7197292
-      ],
-      [
-        8.6669731,
-        47.7197786
-      ],
-      [
-        8.6670321,
-        47.7198265
-      ],
-      [
-        8.6670925,
-        47.719877
-      ],
-      [
-        8.6671529,
-        47.7199306
-      ],
-      [
-        8.6672123,
-        47.7199874
-      ],
-      [
-        8.6672762,
-        47.72005
+        8.667249,
+        47.7200215
       ],
       [
         8.6673417,
@@ -1685,7 +1600,7 @@
     "shoulder": "no",
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "turn:lanes": "through|slight_right",
     "id": "way/4733548"
   },
@@ -1760,7 +1675,7 @@
     "shoulder": "no",
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "turn:lanes": "through|slight_right",
     "id": "way/4733549"
   },
@@ -1802,7 +1717,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "turn:lanes": "through|merge_to_left",
     "id": "way/4733550"
   },
@@ -1836,7 +1751,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "id": "way/4733551"
   },
   "geometry": {
@@ -2211,8 +2126,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6862131,
-        47.6120586
+        8.6862312,
+        47.6119938
       ],
       [
         8.6862742,
@@ -2221,6 +2136,10 @@
       [
         8.6863601,
         47.6114219
+      ],
+      [
+        8.6864007,
+        47.6111731
       ],
       [
         8.6864412,
@@ -2344,6 +2263,7 @@
     "lanes": "2",
     "layer": "1",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "maxweight:signed": "no",
     "motorroad": "yes",
     "nat_name": "N4",
@@ -4578,6 +4498,7 @@
     "lanes": "1",
     "layer": "1",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "maxweight:signed": "no",
     "motorroad": "yes",
     "nat_name": "N4",
@@ -4641,6 +4562,7 @@
     "lanes": "2",
     "layer": "1",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "maxweight:signed": "no",
     "motorroad": "yes",
     "nat_name": "N4",
@@ -4706,12 +4628,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6896316,
-        47.5955302
-      ],
-      [
-        8.689597,
-        47.5954015
+        8.6895862,
+        47.5953491
       ],
       [
         8.6895721,
@@ -4853,6 +4771,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
@@ -4893,6 +4812,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
@@ -4974,6 +4894,7 @@
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
+    "placement": "right_of:1",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -5150,8 +5071,8 @@
         47.61335
       ],
       [
-        8.6860069,
-        47.6127469
+        8.685938,
+        47.6129568
       ]
     ]
   }
@@ -6333,6 +6254,7 @@
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
+    "placement": "right_of:1",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -6367,6 +6289,7 @@
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
+    "placement": "right_of:1",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -6452,9 +6375,11 @@
     "int_ref": "E 41",
     "lanes": "2",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
+    "placement": "right_of:1",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -6905,24 +6830,24 @@
         47.5931113
       ],
       [
-        8.6898833,
-        47.5933079
+        8.6898676,
+        47.593351
       ],
       [
-        8.6898374,
-        47.5934388
+        8.6898437,
+        47.5934272
       ],
       [
-        8.6897951,
-        47.5935642
+        8.6898018,
+        47.5935544
       ],
       [
-        8.6897677,
-        47.5936509
+        8.6897729,
+        47.5936519
       ],
       [
-        8.6897448,
-        47.5937374
+        8.689747,
+        47.5937397
       ],
       [
         8.6896978,
@@ -6984,12 +6909,16 @@
         47.7137312
       ],
       [
-        8.6501634,
-        47.7138521
+        8.6501446,
+        47.7138413
       ],
       [
-        8.6503746,
-        47.7140017
+        8.6503236,
+        47.7139656
+      ],
+      [
+        8.6504983,
+        47.7140971
       ],
       [
         8.6508448,
@@ -7563,6 +7492,41 @@
 },
 {
   "type": "Feature",
+  "id": "way/52731931",
+  "properties": {
+    "alt_name": "Weinlandautobahn",
+    "highway": "trunk",
+    "int_ref": "E 41",
+    "lanes": "1",
+    "maxspeed": "80",
+    "nat_name": "N4",
+    "oneway": "yes",
+    "ref": "A4;E41",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/52731931"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6985933,
+        47.5274426
+      ],
+      [
+        8.6981177,
+        47.5277036
+      ],
+      [
+        8.6979911,
+        47.5277442
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/55543044",
   "properties": {
     "alt_name": "Weinlandautobahn",
@@ -7577,6 +7541,7 @@
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
+    "placement": "right_of:1",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -7701,7 +7666,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "id": "way/64951971"
   },
   "geometry": {
@@ -7851,7 +7816,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "id": "way/64951984"
   },
   "geometry": {
@@ -8105,6 +8070,10 @@
         47.610843
       ],
       [
+        8.6865268,
+        47.6111699
+      ],
+      [
         8.6864842,
         47.6114104
       ],
@@ -8113,8 +8082,8 @@
         47.611806
       ],
       [
-        8.6863325,
-        47.6120866
+        8.6863383,
+        47.6120644
       ]
     ]
   }
@@ -9994,7 +9963,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "id": "way/133433730"
   },
   "geometry": {
@@ -10325,8 +10294,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6830106,
-        47.5804761
+        8.6830089,
+        47.5802986
       ],
       [
         8.6830128,
@@ -10457,8 +10426,8 @@
         47.5856333
       ],
       [
-        8.6859692,
-        47.5857514
+        8.6859703,
+        47.5857525
       ],
       [
         8.6862425,
@@ -10663,7 +10632,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "id": "way/179146669"
   },
   "geometry": {
@@ -10702,7 +10671,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "turn:lanes:forward": "through|merge_to_left",
     "id": "way/179146672"
   },
@@ -10741,7 +10710,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "turn:lanes:backward": "through|right",
     "turn:lanes:forward": "through|merge_to_left",
     "id": "way/179146676"
@@ -11329,15 +11298,19 @@
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "merge_to_right|none",
+    "turn:lanes": "merge_to_right|through",
     "id": "way/185448699"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.6512452,
-        47.7147702
+        8.6514699,
+        47.7149162
+      ],
+      [
+        8.6512613,
+        47.714782
       ],
       [
         8.6510934,
@@ -11348,8 +11321,12 @@
         47.7145377
       ],
       [
-        8.6507713,
-        47.7144156
+        8.6507267,
+        47.7143758
+      ],
+      [
+        8.6505721,
+        47.7142599
       ]
     ]
   }
@@ -11739,16 +11716,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6615598,
-        47.7188675
-      ],
-      [
-        8.6612271,
-        47.7189044
-      ],
-      [
-        8.6608548,
-        47.7189405
+        8.6608481,
+        47.7189419
       ],
       [
         8.6605548,
@@ -11802,7 +11771,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "id": "way/197438441"
   },
   "geometry": {
@@ -12357,7 +12326,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "id": "way/197438444"
   },
   "geometry": {
@@ -12424,7 +12393,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "turn:lanes:forward": "left|through",
     "id": "way/197629245"
   },
@@ -12467,7 +12436,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "turn:lanes:forward": "left|through",
     "id": "way/197629249"
   },
@@ -12561,9 +12530,11 @@
     "int_ref": "E 41",
     "lanes": "2",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
+    "placement": "right_of:1",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -12976,7 +12947,6 @@
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
-    "overtaking": "no",
     "placement": "middle_of:1",
     "ref": "A4;E41;E54",
     "surface": "asphalt",
@@ -13017,22 +12987,6 @@
       [
         8.6418763,
         47.7110554
-      ],
-      [
-        8.6417464,
-        47.7109869
-      ],
-      [
-        8.6416041,
-        47.7109099
-      ],
-      [
-        8.6414016,
-        47.7107849
-      ],
-      [
-        8.6412187,
-        47.710667
       ]
     ]
   }
@@ -13253,6 +13207,7 @@
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
+    "placement": "middle_of:1",
     "ref": "A4;E41",
     "source:maxspeed": "sign",
     "surface": "asphalt",
@@ -13309,6 +13264,26 @@
       [
         8.6313187,
         47.677388
+      ],
+      [
+        8.6313895,
+        47.677432
+      ],
+      [
+        8.6314643,
+        47.6774806
+      ],
+      [
+        8.6315736,
+        47.6775553
+      ],
+      [
+        8.6316656,
+        47.6776203
+      ],
+      [
+        8.6318151,
+        47.6777358
       ]
     ]
   }
@@ -13324,11 +13299,13 @@
     "lanes": "2",
     "layer": "1",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "maxweight:signed": "no",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
     "overtaking:hgv": "no",
+    "placement": "right_of:1",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -13359,10 +13336,12 @@
     "int_ref": "E 41",
     "lanes": "2",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
     "overtaking:hgv": "no",
+    "placement": "right_of:1",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -13386,20 +13365,16 @@
         47.6762094
       ],
       [
-        8.6278343,
-        47.6761232
+        8.6279265,
+        47.6761533
       ],
       [
         8.6275756,
         47.6760384
       ],
       [
-        8.6273597,
-        47.6759656
-      ],
-      [
-        8.6271383,
-        47.6758918
+        8.6273633,
+        47.675968
       ]
     ]
   }
@@ -13463,7 +13438,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "turn:lanes:forward": "through|right",
     "id": "way/254691684"
   },
@@ -13496,6 +13471,7 @@
     "lanes": "2",
     "lit": "yes",
     "maxspeed": "80",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
@@ -13511,16 +13487,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6470188,
-        47.7126916
-      ],
-      [
-        8.646807,
-        47.712624
-      ],
-      [
-        8.6464856,
-        47.7125228
+        8.6464886,
+        47.7125231
       ],
       [
         8.6461882,
@@ -13554,6 +13522,7 @@
     "lanes": "2",
     "lit": "yes",
     "maxspeed": "80",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
@@ -13644,6 +13613,7 @@
     "lit": "yes",
     "maxheight": "default",
     "maxspeed": "80",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "old_name": "H15",
@@ -13660,24 +13630,20 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6504351,
-        47.7141614
+        8.6499132,
+        47.7138051
       ],
       [
-        8.6500863,
-        47.7139072
+        8.6496467,
+        47.7136565
       ],
       [
-        8.6498745,
-        47.7137744
+        8.6494044,
+        47.7135394
       ],
       [
-        8.6495859,
-        47.7136162
-      ],
-      [
-        8.6492883,
-        47.7134794
+        8.6491622,
+        47.7134282
       ],
       [
         8.6489726,
@@ -13688,12 +13654,16 @@
         47.7131954
       ],
       [
-        8.6481269,
-        47.7130462
+        8.6481287,
+        47.7130438
+      ],
+      [
+        8.6475782,
+        47.7128641
       ],
       [
         8.6470188,
-        47.7126916
+        47.712691
       ]
     ]
   }
@@ -13725,7 +13695,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "id": "way/254701830"
   },
   "geometry": {
@@ -13922,9 +13892,12 @@
     "int_ref": "E 41",
     "lanes": "2",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
+    "overtaking:hgv": "yes",
+    "placement": "right_of:1",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -13936,8 +13909,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6271383,
-        47.6758918
+        8.6273633,
+        47.675968
       ],
       [
         8.6269336,
@@ -14004,12 +13977,20 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6860069,
-        47.6127469
+        8.6859979,
+        47.6127726
       ],
       [
-        8.6862131,
-        47.6120586
+        8.6860679,
+        47.6125539
+      ],
+      [
+        8.6861722,
+        47.6122054
+      ],
+      [
+        8.6862312,
+        47.6119938
       ]
     ]
   }
@@ -14040,8 +14021,16 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6863325,
-        47.6120866
+        8.6863383,
+        47.6120644
+      ],
+      [
+        8.6862964,
+        47.6122214
+      ],
+      [
+        8.6861859,
+        47.6125809
       ],
       [
         8.6861263,
@@ -14127,16 +14116,16 @@
         47.5937249
       ],
       [
-        8.6896682,
-        47.5936381
+        8.6896716,
+        47.5936399
       ],
       [
-        8.6896987,
-        47.5935509
+        8.6897067,
+        47.5935397
       ],
       [
-        8.689748,
-        47.5934223
+        8.6897443,
+        47.5934394
       ],
       [
         8.6898053,
@@ -15127,12 +15116,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6830106,
-        47.5804761
+        8.6830089,
+        47.5802986
       ],
       [
-        8.6829992,
-        47.5800277
+        8.6829877,
+        47.5798295
       ]
     ]
   }
@@ -15157,23 +15146,19 @@
     "source:maxspeed": "sign",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "through|merge_to_left",
+    "turn:lanes:forward": "through|merge_to_left",
     "id": "way/297070973"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.6829992,
-        47.5800277
+        8.6829877,
+        47.5798295
       ],
       [
-        8.6829772,
-        47.5792609
-      ],
-      [
-        8.6829667,
-        47.5789023
+        8.6829623,
+        47.5787702
       ]
     ]
   }
@@ -15207,8 +15192,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.682947,
-        47.578527
+        8.6829477,
+        47.5785295
       ],
       [
         8.6829458,
@@ -15535,7 +15520,7 @@
     "source:maxspeed": "sign",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "through|merge_to_left",
+    "turn:lanes:forward": "through|merge_to_left",
     "id": "way/297070979"
   },
   "geometry": {
@@ -16184,7 +16169,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "id": "way/304151600"
   },
   "geometry": {
@@ -16447,6 +16432,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
@@ -16613,6 +16599,7 @@
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "no",
+    "overtaking:hgv:backward": "no",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -16656,24 +16643,8 @@
         47.678857
       ],
       [
-        8.6329066,
-        47.6789758
-      ],
-      [
-        8.633026,
-        47.6791669
-      ],
-      [
-        8.6330995,
-        47.6793033
-      ],
-      [
-        8.6331827,
-        47.6794646
-      ],
-      [
-        8.6332294,
-        47.6795666
+        8.6328981,
+        47.6789635
       ]
     ]
   }
@@ -17000,6 +16971,7 @@
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
+    "placement": "right_of:1",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -17222,6 +17194,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
@@ -17261,6 +17234,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
@@ -17359,6 +17333,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
@@ -17930,12 +17905,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6829667,
-        47.5789023
+        8.6829623,
+        47.5787702
       ],
       [
-        8.682947,
-        47.578527
+        8.6829477,
+        47.5785295
       ]
     ]
   }
@@ -18586,6 +18561,7 @@
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
+    "placement": "right_of:1",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -18620,6 +18596,7 @@
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
+    "placement": "right_of:1",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -19598,10 +19575,6 @@
       [
         8.6514699,
         47.7149162
-      ],
-      [
-        8.6512452,
-        47.7147702
       ]
     ]
   }
@@ -19887,6 +19860,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
@@ -19930,6 +19904,7 @@
     "int_ref": "E 41",
     "lanes": "1",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
@@ -19979,6 +19954,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
@@ -20352,7 +20328,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "id": "way/659151288"
   },
   "geometry": {
@@ -20835,6 +20811,7 @@
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
+    "placement": "right_of:1",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -21503,8 +21480,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6262596,
-        47.6912229
+        8.6262671,
+        47.6912164
       ],
       [
         8.6262166,
@@ -21539,8 +21516,8 @@
         47.6917768
       ],
       [
-        8.6255555,
-        47.6919204
+        8.625566,
+        47.6919106
       ],
       [
         8.6254595,
@@ -22997,7 +22974,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "id": "way/953102321"
   },
   "geometry": {
@@ -23039,9 +23016,11 @@
     "int_ref": "E 41",
     "lanes": "2",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
+    "placement": "right_of:1",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -23125,7 +23104,7 @@
     "source:maxspeed": "sign",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes:backward": "throiugh|slight_right",
+    "turn:lanes:backward": "through|slight_right",
     "id": "way/983517734"
   },
   "geometry": {
@@ -23166,7 +23145,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "id": "way/1000333502"
   },
   "geometry": {
@@ -23202,7 +23181,6 @@
     "nat_name": "N4",
     "old_name": "H15",
     "oneway": "yes",
-    "placement": "transition",
     "ref": "A4;E41;E54",
     "shoulder:right": "yes",
     "source:maxspeed": "CH:rural",
@@ -23214,12 +23192,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6507713,
-        47.7144156
+        8.6505721,
+        47.7142599
       ],
       [
-        8.6504351,
-        47.7141614
+        8.6504301,
+        47.7141606
       ]
     ]
   }
@@ -24410,59 +24388,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1223349676",
-  "properties": {
-    "alt_name": "Weinlandautobahn",
-    "highway": "trunk",
-    "int_ref": "E 41",
-    "lanes": "1",
-    "maxspeed": "80",
-    "maxspeed:variable": "yes",
-    "motorroad": "yes",
-    "nat_name": "N4",
-    "oneway": "yes",
-    "ref": "A4;E41",
-    "source:maxspeed": "sign",
-    "surface": "asphalt",
-    "toll": "yes",
-    "id": "way/1223349676"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.6313187,
-        47.677388
-      ],
-      [
-        8.6313895,
-        47.677432
-      ],
-      [
-        8.6314643,
-        47.6774806
-      ],
-      [
-        8.6315736,
-        47.6775553
-      ],
-      [
-        8.6316656,
-        47.6776203
-      ],
-      [
-        8.6318151,
-        47.6777358
-      ],
-      [
-        8.6319313,
-        47.6778829
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1223349677",
   "properties": {
     "alt_name": "Weinlandautobahn",
@@ -24470,10 +24395,12 @@
     "int_ref": "E 41",
     "lanes": "2",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
     "overtaking:hgv": "no",
+    "placement": "right_of:1",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -24485,24 +24412,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6319313,
-        47.6778829
-      ],
-      [
-        8.6317598,
-        47.6777675
-      ],
-      [
-        8.6316106,
-        47.6776532
-      ],
-      [
-        8.6314503,
-        47.6775417
-      ],
-      [
-        8.6312718,
-        47.677427
+        8.631244,
+        47.6774109
       ],
       [
         8.6311047,
@@ -26193,6 +26104,43 @@
 },
 {
   "type": "Feature",
+  "id": "way/1259755727",
+  "properties": {
+    "alt_name": "Weinlandautobahn",
+    "destination:lanes": "Sankt Gallen;Winterthur|Zürich;Wülflingen",
+    "highway": "trunk",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "80",
+    "nat_name": "N4",
+    "oneway": "yes",
+    "ref": "A4;E41",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1259755727"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6988487,
+        47.5272199
+      ],
+      [
+        8.6990174,
+        47.5271187
+      ],
+      [
+        8.6992333,
+        47.5269814
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1259762135",
   "properties": {
     "alt_name": "Weinlandautobahn",
@@ -26507,6 +26455,7 @@
     "int_ref": "E 41",
     "lanes": "1",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
@@ -26543,6 +26492,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
@@ -26644,6 +26594,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
@@ -27289,6 +27240,7 @@
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
+    "placement": "right_of:1",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -27438,6 +27390,7 @@
     "motorroad": "yes",
     "nat_name": "N4",
     "oneway": "yes",
+    "placement": "right_of:1",
     "ref": "A4;E41",
     "shoulder": "no",
     "source:maxspeed": "sign",
@@ -27743,8 +27696,8 @@
         47.691134
       ],
       [
-        8.6262596,
-        47.6912229
+        8.6262671,
+        47.6912164
       ]
     ]
   }
@@ -27896,7 +27849,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "id": "way/1262774086"
   },
   "geometry": {
@@ -27932,7 +27885,7 @@
     "shoulder": "no",
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "turn:lanes": "through|slight_right",
     "id": "way/1262774087"
   },
@@ -28007,7 +27960,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "id": "way/1263020982"
   },
   "geometry": {
@@ -28046,7 +27999,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "CH:rural",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "id": "way/1263020983"
   },
   "geometry": {
@@ -28084,7 +28037,7 @@
     "ref": "A4;E41;E54",
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
-    "toll": "no",
+    "toll": "yes",
     "turn:lanes:forward": "through|sight_right",
     "id": "way/1263020988"
   },
@@ -28106,6 +28059,583 @@
       [
         8.699704,
         47.7439523
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1263537344",
+  "properties": {
+    "destination": "Transit;Schaffhausen-Nord;Rheinfall;BBC Arena",
+    "highway": "trunk",
+    "int_ref": "E 41;E 54",
+    "lanes": "1",
+    "maxspeed": "80",
+    "motorroad": "yes",
+    "nat_name": "N4",
+    "old_name": "H15",
+    "oneway": "yes",
+    "ref": "A4;E41;E54",
+    "shoulder:right": "yes",
+    "source:maxspeed": "CH:rural",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1263537344"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6615598,
+        47.7188675
+      ],
+      [
+        8.6612271,
+        47.7189044
+      ],
+      [
+        8.6608481,
+        47.7189419
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1263537345",
+  "properties": {
+    "change:lanes": "no|no",
+    "hazard": "deer",
+    "highway": "trunk",
+    "int_ref": "E 41;E 54",
+    "lanes": "2",
+    "lanes:backward": "1",
+    "lanes:forward": "1",
+    "maxheight": "default",
+    "maxspeed": "80",
+    "motorroad": "yes",
+    "nat_name": "N4",
+    "old_name": "H15",
+    "oneway": "no",
+    "overtaking": "no",
+    "placement": "left_of:1",
+    "ref": "A4;E41;E54",
+    "source:maxspeed": "CH:rural",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1263537345"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6644756,
+        47.7187656
+      ],
+      [
+        8.6645817,
+        47.7187815
+      ],
+      [
+        8.6646633,
+        47.7187947
+      ],
+      [
+        8.6647563,
+        47.7188111
+      ],
+      [
+        8.6648318,
+        47.7188264
+      ],
+      [
+        8.6649361,
+        47.7188492
+      ],
+      [
+        8.6650568,
+        47.718878
+      ],
+      [
+        8.665148,
+        47.7189005
+      ],
+      [
+        8.6652487,
+        47.7189276
+      ],
+      [
+        8.6653361,
+        47.7189532
+      ],
+      [
+        8.6654257,
+        47.7189803
+      ],
+      [
+        8.6655319,
+        47.7190154
+      ],
+      [
+        8.6656205,
+        47.7190463
+      ],
+      [
+        8.6657242,
+        47.7190838
+      ],
+      [
+        8.6658157,
+        47.7191196
+      ],
+      [
+        8.6658952,
+        47.7191515
+      ],
+      [
+        8.665982,
+        47.7191888
+      ],
+      [
+        8.6660626,
+        47.7192249
+      ],
+      [
+        8.6661517,
+        47.7192668
+      ],
+      [
+        8.6662389,
+        47.7193111
+      ],
+      [
+        8.6663145,
+        47.7193507
+      ],
+      [
+        8.6663901,
+        47.7193922
+      ],
+      [
+        8.6664621,
+        47.7194327
+      ],
+      [
+        8.6665443,
+        47.7194812
+      ],
+      [
+        8.6666133,
+        47.719524
+      ],
+      [
+        8.6666789,
+        47.7195673
+      ],
+      [
+        8.6667511,
+        47.7196152
+      ],
+      [
+        8.6668304,
+        47.719672
+      ],
+      [
+        8.6669097,
+        47.7197292
+      ],
+      [
+        8.6669731,
+        47.7197786
+      ],
+      [
+        8.6670321,
+        47.7198265
+      ],
+      [
+        8.6670925,
+        47.719877
+      ],
+      [
+        8.6671529,
+        47.7199306
+      ],
+      [
+        8.667249,
+        47.7200215
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1263537348",
+  "properties": {
+    "bicycle": "no",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 41;E 54",
+    "lanes": "1",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "80",
+    "motorroad": "yes",
+    "nat_name": "N4",
+    "old_name": "H15",
+    "oneway": "yes",
+    "placement": "middle_of:1",
+    "ref": "A4;E41;E54",
+    "shoulder:right": "yes",
+    "source:maxspeed": "CH:rural",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1263537348"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6504301,
+        47.7141606
+      ],
+      [
+        8.650248,
+        47.7140287
+      ],
+      [
+        8.6500646,
+        47.7139009
+      ],
+      [
+        8.6499132,
+        47.7138051
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1263601972",
+  "properties": {
+    "bicycle": "no",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 41;E 54",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "80",
+    "maxspeed:variable": "yes",
+    "motorroad": "yes",
+    "nat_name": "N4",
+    "oneway": "yes",
+    "placement": "middle_of:1",
+    "ref": "A4;E41;E54",
+    "shoulder": "no",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1263601972"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6470188,
+        47.712691
+      ],
+      [
+        8.646807,
+        47.712624
+      ],
+      [
+        8.6464886,
+        47.7125231
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1263601974",
+  "properties": {
+    "bicycle": "no",
+    "destination": "Zürich;Rheinfall;Schaffhausen-Süd",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 41;E 54",
+    "lanes": "1",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "80",
+    "motorroad": "yes",
+    "nat_name": "N4",
+    "oneway": "yes",
+    "overtaking": "no",
+    "placement": "middle_of:1",
+    "ref": "A4;E41;E54",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1263601974"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6418763,
+        47.7110554
+      ],
+      [
+        8.6417464,
+        47.7109869
+      ],
+      [
+        8.6416041,
+        47.7109099
+      ],
+      [
+        8.6414016,
+        47.7107849
+      ],
+      [
+        8.6412187,
+        47.710667
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1263608190",
+  "properties": {
+    "alt_name": "Weinlandautobahn",
+    "highway": "trunk",
+    "int_ref": "E 41",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed": "80",
+    "maxspeed:variable:forward": "yes",
+    "motorroad": "yes",
+    "nat_name": "N4",
+    "oneway": "no",
+    "ref": "A4;E41",
+    "shoulder": "no",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1263608190"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6328981,
+        47.6789635
+      ],
+      [
+        8.633026,
+        47.6791669
+      ],
+      [
+        8.6330995,
+        47.6793033
+      ],
+      [
+        8.6331827,
+        47.6794646
+      ],
+      [
+        8.6332294,
+        47.6795666
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1263608192",
+  "properties": {
+    "alt_name": "Weinlandautobahn",
+    "highway": "trunk",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "maxspeed": "80",
+    "motorroad": "yes",
+    "nat_name": "N4",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "placement": "right_of:1",
+    "ref": "A4;E41",
+    "shoulder": "no",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1263608192"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6317598,
+        47.6777675
+      ],
+      [
+        8.6316106,
+        47.6776532
+      ],
+      [
+        8.6314503,
+        47.6775417
+      ],
+      [
+        8.631244,
+        47.6774109
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1263608195",
+  "properties": {
+    "alt_name": "Weinlandautobahn",
+    "highway": "trunk",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "maxspeed": "80",
+    "motorroad": "yes",
+    "nat_name": "N4",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "placement": "transition",
+    "ref": "A4;E41",
+    "shoulder": "no",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1263608195"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6319313,
+        47.6778829
+      ],
+      [
+        8.6317598,
+        47.6777675
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1263608196",
+  "properties": {
+    "alt_name": "Weinlandautobahn",
+    "highway": "trunk",
+    "int_ref": "E 41",
+    "lanes": "1",
+    "maxspeed": "80",
+    "maxspeed:variable": "yes",
+    "motorroad": "yes",
+    "nat_name": "N4",
+    "oneway": "yes",
+    "placement": "transition",
+    "ref": "A4;E41",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1263608196"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6318151,
+        47.6777358
+      ],
+      [
+        8.6319313,
+        47.6778829
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1263610201",
+  "properties": {
+    "alt_name": "Weinlandautobahn",
+    "destination": "Kleinandelfingen",
+    "highway": "trunk",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
+    "motorroad": "yes",
+    "nat_name": "N4",
+    "oneway": "yes",
+    "placement": "right_of:1",
+    "ref": "A4;E41",
+    "shoulder": "no",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1263610201"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.685938,
+        47.6129568
+      ],
+      [
+        8.6859979,
+        47.6127726
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1263610204",
+  "properties": {
+    "alt_name": "Weinlandautobahn",
+    "highway": "trunk",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
+    "motorroad": "yes",
+    "nat_name": "N4",
+    "oneway": "yes",
+    "ref": "A4;E41",
+    "shoulder": "no",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "merge_to_right|through",
+    "id": "way/1263610204"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6896316,
+        47.5955302
+      ],
+      [
+        8.689597,
+        47.5954015
+      ],
+      [
+        8.6895862,
+        47.5953491
       ]
     ]
   }

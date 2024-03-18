@@ -39662,6 +39662,57 @@
 },
 {
   "type": "Feature",
+  "id": "way/1263511207",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Alterszentrum im Wisli",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.wisliamsee.ch/",
+    "id": "way/1263511207"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7112321,
+          47.203216
+        ],
+        [
+          8.7108527,
+          47.2028351
+        ],
+        [
+          8.7115109,
+          47.2025494
+        ],
+        [
+          8.712198,
+          47.2024997
+        ],
+        [
+          8.7125499,
+          47.2029241
+        ],
+        [
+          8.7117729,
+          47.2033682
+        ],
+        [
+          8.7116114,
+          47.2032088
+        ],
+        [
+          8.7112321,
+          47.203216
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/80080369",
   "properties": {
     "addr:city": "Zürich",

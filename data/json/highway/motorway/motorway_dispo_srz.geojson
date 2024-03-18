@@ -21214,7 +21214,7 @@
     "cs_dir": "2",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
-    "lanes": "3",
+    "lanes": "4",
     "lit": "yes",
     "maxspeed": "100",
     "oneway": "yes",
@@ -21231,12 +21231,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6982563,
-        47.5213217
+        8.6979157,
+        47.5209174
       ],
       [
-        8.6976727,
-        47.5206298
+        8.6976711,
+        47.5206302
       ],
       [
         8.6974626,
@@ -30375,6 +30375,88 @@
 },
 {
   "type": "Feature",
+  "id": "way/52731913",
+  "properties": {
+    "alt_name": "Weinlandautobahn",
+    "destination:lanes": "Sankt Gallen;Winterthur|Zürich;Wülflingen",
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "80",
+    "nat_name": "N4",
+    "oneway": "yes",
+    "placement": "right_of:1",
+    "ref": "A4;E41",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/52731913"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6992333,
+        47.5269814
+      ],
+      [
+        8.6993932,
+        47.5268783
+      ],
+      [
+        8.699547,
+        47.5267777
+      ],
+      [
+        8.6996573,
+        47.5266997
+      ],
+      [
+        8.6997655,
+        47.5266198
+      ],
+      [
+        8.6998755,
+        47.5265413
+      ],
+      [
+        8.6999803,
+        47.5264613
+      ],
+      [
+        8.7000794,
+        47.5263819
+      ],
+      [
+        8.700176,
+        47.5263016
+      ],
+      [
+        8.7002681,
+        47.5262207
+      ],
+      [
+        8.7003571,
+        47.5261397
+      ],
+      [
+        8.700467,
+        47.5260371
+      ],
+      [
+        8.7005744,
+        47.5259336
+      ],
+      [
+        8.700665,
+        47.5258362
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/52731915",
   "properties": {
     "highway": "motorway",
@@ -36959,12 +37041,8 @@
         47.5221324
       ],
       [
-        8.6987756,
-        47.5218676
-      ],
-      [
-        8.6985761,
-        47.521684
+        8.6987626,
+        47.5218546
       ]
     ]
   }
@@ -50612,6 +50690,132 @@
       [
         8.7049403,
         47.4764122
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/255110064",
+  "properties": {
+    "alt_name": "Weinlandautobahn",
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "80",
+    "nat_name": "N4",
+    "oneway": "yes",
+    "ref": "A4;E41",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/255110064"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.699488,
+        47.5269433
+      ],
+      [
+        8.6993208,
+        47.5270384
+      ],
+      [
+        8.6991395,
+        47.5271359
+      ],
+      [
+        8.6989894,
+        47.5272185
+      ],
+      [
+        8.6988263,
+        47.5273127
+      ],
+      [
+        8.6985933,
+        47.5274426
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/255110067",
+  "properties": {
+    "alt_name": "Weinlandautobahn",
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "80",
+    "nat_name": "N4",
+    "oneway": "yes",
+    "placement": "middle_of:1",
+    "ref": "A4;E41",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through|merge_to_left",
+    "id": "way/255110067"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.7007704,
+        47.5258915
+      ],
+      [
+        8.7006542,
+        47.5260167
+      ],
+      [
+        8.7005562,
+        47.5261148
+      ],
+      [
+        8.7004637,
+        47.5262002
+      ],
+      [
+        8.7003711,
+        47.526284
+      ],
+      [
+        8.7003078,
+        47.5263391
+      ],
+      [
+        8.7002738,
+        47.5263687
+      ],
+      [
+        8.7001859,
+        47.526444
+      ],
+      [
+        8.7000849,
+        47.5265242
+      ],
+      [
+        8.6999869,
+        47.5266045
+      ],
+      [
+        8.6998705,
+        47.5266898
+      ],
+      [
+        8.6997609,
+        47.5267657
+      ],
+      [
+        8.699488,
+        47.5269433
       ]
     ]
   }
@@ -64570,13 +64774,14 @@
   "id": "way/545618307",
   "properties": {
     "avz": "93",
-    "change:lanes": "not_left|not_right|no",
+    "change:lanes": "not_left|not_right|not_left|not_right",
     "cs_dir": "2",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
-    "lanes": "3",
+    "lanes": "4",
     "lit": "yes",
     "maxspeed": "100",
+    "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "right_of:1",
     "ref": "A1;A4",
@@ -64591,12 +64796,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6985761,
-        47.521684
+        8.698569,
+        47.521692
       ],
       [
-        8.6982563,
-        47.5213217
+        8.6982555,
+        47.5213238
       ]
     ]
   }
@@ -85450,6 +85655,73 @@
       [
         8.9608814,
         47.1840567
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1263611500",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 60",
+    "lanes": "2",
+    "maxspeed": "80",
+    "maxspeed:variable": "yes",
+    "oneway": "yes",
+    "ref": "A1",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1263611500"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6987626,
+        47.5218546
+      ],
+      [
+        8.698569,
+        47.521692
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1263611501",
+  "properties": {
+    "avz": "93",
+    "change:lanes": "not_left|not_right|not_left|not_right",
+    "cs_dir": "2",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
+    "oneway": "yes",
+    "placement": "right_of:1",
+    "ref": "A1;A4",
+    "shoulder:right": "yes",
+    "source:maxspeed": "sign",
+    "ssvz": "700N",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1263611501"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6982555,
+        47.5213238
+      ],
+      [
+        8.6979157,
+        47.5209174
       ]
     ]
   }

@@ -31970,59 +31970,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1084678071",
-  "properties": {
-    "addr:city": "Richterswil",
-    "addr:housenumber": "10",
-    "addr:postcode": "8805",
-    "addr:street": "Im Wisli",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Wisli 1+2",
-    "id": "way/1084678071"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7099157,
-          47.2036416
-        ],
-        [
-          8.7098649,
-          47.2035914
-        ],
-        [
-          8.7100487,
-          47.203506
-        ],
-        [
-          8.7100735,
-          47.2035304
-        ],
-        [
-          8.7100784,
-          47.2035283
-        ],
-        [
-          8.7100998,
-          47.2035497
-        ],
-        [
-          8.7101047,
-          47.2035545
-        ],
-        [
-          8.7099157,
-          47.2036416
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1117243200",
   "properties": {
     "addr:city": "Nänikon",
@@ -33090,6 +33037,42 @@
 },
 {
   "type": "Feature",
+  "id": "way/1263535711",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Wisli",
+    "id": "way/1263535711"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7097081,
+          47.2037892
+        ],
+        [
+          8.7095347,
+          47.2036139
+        ],
+        [
+          8.7099302,
+          47.2034333
+        ],
+        [
+          8.7101036,
+          47.2036087
+        ],
+        [
+          8.7097081,
+          47.2037892
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
@@ -34057,22 +34040,6 @@
     "coordinates": [
       8.4978747,
       47.4931593
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1675589394",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Wisli",
-    "id": "node/1675589394"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.709836,
-      47.2036513
     ]
   }
 },
