@@ -41656,8 +41656,8 @@
   "id": "node/10763309930",
   "properties": {
     "access": "no",
-    "defibrillator:location": "In der Produktion",
-    "description": "in weissem Wandkasten",
+    "defibrillator:location": "Schellenberg Druck AG\nSchützenhausstrasse 5\nIn der Produktion\n1304LTM",
+    "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -45858,7 +45858,7 @@
   "id": "node/10763310095",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Grossraumbüro",
+    "defibrillator:location": "Cadillac Europe GmbH\nBoulevard Lilienthal 6\nGrossraumbüro\n1292LTM",
     "description": "gelber Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -45866,6 +45866,7 @@
     "latitude": "47.42488",
     "longitude": "8.56231",
     "name": "Cadillac Europe GmbH",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763310095"
@@ -56342,8 +56343,7 @@
   "type": "Feature",
   "id": "node/11703379269",
   "properties": {
-    "access": "yes",
-    "defibrillator:location": "Kindergarten Neumatt ",
+    "defibrillator:location": "Kindergarten Neumatt",
     "description": "7/24h",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -56355,8 +56355,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4212941,
-      47.3890599
+      8.4212965,
+      47.3891154
     ]
   }
 },
@@ -56638,7 +56638,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "06:00-19:00",
+    "opening_hours": "05:15-20:00",
     "operator": "Dyconex AG",
     "phone": "+41 43 266 11 47",
     "source": "local_knowledge, defikarte.ch",
@@ -56823,7 +56823,7 @@
   "id": "node/11734218765",
   "properties": {
     "access": "private",
-    "defibrillator:location": "VZ Corporate Services AG\nGotthardstrasse 6\n3. OG Eingang Geradeaus",
+    "defibrillator:location": "VZ Corporate Services AG\nGotthardstrasse 6\n3. OG Eingang Geradeaus\n1274LTM",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -57031,6 +57031,195 @@
     "coordinates": [
       8.8435901,
       47.3025468
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11740475069",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulverwaltung ",
+    "description": "Beim Eingang ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Urdorf",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11740475069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4240782,
+      47.387066
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11740595799",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "VZ Corporate Services\nGotthardstrasse 6 8002 ZH\n6.OG Zwischenraum (Glastüre, Schulungsraum)\n1277LTM",
+    "description": "Oranger Koffer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "6.OG",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "operator": "Lifetec AG Schweiz",
+    "phone": "+41 800 122 144",
+    "id": "node/11740595799"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5371223,
+      47.3664305
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11740623614",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "VZ Corporate Services\nClaridenstrasse 19 8002 ZH\n6.OG Eingang rechts\n1278 LTM",
+    "description": "Oranger Koffer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "6.OG",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "operator": "Lifetec AG Schweiz",
+    "phone": "+41 800 122 144",
+    "id": "node/11740623614"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5376664,
+      47.366754
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11740633987",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "VZ Corporate Services\nBethovenstrasse 20 8002 ZH\n1.OG Kaffeteria Eingang Links\n1279LTM",
+    "description": "Oranger Koffer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1.OG",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "operator": "Lifetec AG Schweiz",
+    "phone": "+41 800 122 144",
+    "id": "node/11740633987"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5367395,
+      47.3664318
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11740637060",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "VZ Corporate Services\nClaridenstrasse 19 8002 ZH\nIm EG unter Treppe neben Feuerwehrschlauch\n1281LTM",
+    "description": "Oranger Koffer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "operator": "Lifetec AG Schweiz",
+    "phone": "+41 800 122 144",
+    "id": "node/11740637060"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5375422,
+      47.3667008
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11740654337",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "VZ Corporate Services\nGotthardstrasse 6 8002 ZH\n2.OG bei Empfangsthecke\n1283LTM",
+    "description": "Oranger Koffer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2 OG",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "operator": "Lifetec AG Schweiz",
+    "phone": "+41 800 122 144",
+    "id": "node/11740654337"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5370835,
+      47.3664131
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11741303826",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Jensen AG\nIfangstrasse 15\nhinter dem Kundendienst\n1293LTM",
+    "description": "Oranger Koffer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Th07:30–12:00, 13:00–17:30, Fr 07:30–12:00, 13:00–16:00 Sa 10:00–14:00",
+    "operator": "Lifetec AG Schweiz",
+    "phone": "+41 800 122 144",
+    "id": "node/11741303826"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5346488,
+      47.4517692
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11741399645",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Cadillac Europe GmbH\nBahnhofstrasse 75\n1301LTM",
+    "description": "Oranger Koffer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-We 08:00–19:00 Th+Fr 08:00–20:00 Sa 09:00–17:00",
+    "operator": "Lifetec AG Schweiz",
+    "phone": "+41 800 122 144",
+    "id": "node/11741399645"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5387067,
+      47.3751011
     ]
   }
 }

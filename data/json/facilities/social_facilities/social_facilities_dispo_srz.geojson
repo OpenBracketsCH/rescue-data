@@ -8433,6 +8433,54 @@
 },
 {
   "type": "Feature",
+  "id": "way/53016124",
+  "properties": {
+    "addr:housenumber": "2",
+    "addr:postcode": "8048",
+    "addr:street": "Zwyssigstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Wohnstätten Zwyssig",
+    "social_facility": "nursing_home",
+    "social_facility:for": "disabled",
+    "website": "https://www.wohnstaetten.ch/",
+    "id": "way/53016124"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4855542,
+          47.3845931
+        ],
+        [
+          8.4856835,
+          47.3845543
+        ],
+        [
+          8.4857343,
+          47.3846321
+        ],
+        [
+          8.4857765,
+          47.3846963
+        ],
+        [
+          8.4856472,
+          47.3847351
+        ],
+        [
+          8.4855542,
+          47.3845931
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/53018672",
   "properties": {
     "addr:city": "Zürich",

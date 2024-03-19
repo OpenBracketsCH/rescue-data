@@ -4231,27 +4231,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2631271549",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "12",
-    "addr:postcode": "8046",
-    "addr:street": "Weidmannstrasse",
-    "amenity": "childcare",
-    "check_date": "2023-09-25",
-    "name": "Kinderkrippe Dinolina",
-    "id": "node/2631271549"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5020144,
-      47.4236585
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2631271554",
   "properties": {
     "addr:city": "Zürich",
@@ -4283,14 +4262,14 @@
     "amenity": "childcare",
     "check_date": "2023-09-25",
     "name": "Kinderkrippe Dinolina",
-    "website": "http://www.grow2gether.ch/",
+    "website": "http://www.grow2gether.ch/KK/DE/Dinolina_DE/Kontakt_Dl_DE.html",
     "id": "node/2631271560"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5019818,
-      47.4235575
+      8.5020035,
+      47.4235913
     ]
   }
 },
