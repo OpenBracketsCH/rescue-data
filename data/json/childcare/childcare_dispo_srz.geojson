@@ -13260,6 +13260,25 @@
       47.4148792
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11746040085",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Край Рай",
+    "name:de": "Russische Kinderkrippe Krai Rai",
+    "name:en": "Krai Rai Russian Kindergarten",
+    "website": "https://krairai.ch/",
+    "id": "node/11746040085"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5469683,
+      47.4114384
+    ]
+  }
 }
 ]
 }

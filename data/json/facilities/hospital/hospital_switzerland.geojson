@@ -21456,11 +21456,10 @@
   "id": "way/299349027",
   "properties": {
     "building:colour": "#DCE1D8",
-    "building:levels": "15",
+    "building:levels": "3",
     "building:material": "concrete",
     "building:part": "yes",
     "healthcare": "hospital",
-    "height": "60",
     "roof:colour": "#6E7472",
     "roof:shape": "flat",
     "toilets:wheelchair": "yes",
@@ -21472,24 +21471,40 @@
     "coordinates": [
       [
         [
-          8.9099339,
-          47.5491722
+          8.9098997,
+          47.5491445
         ],
         [
-          8.9100093,
-          47.5489588
+          8.909977,
+          47.5489342
         ],
         [
-          8.9106122,
-          47.5490558
+          8.9106256,
+          47.5490429
         ],
         [
-          8.9105368,
-          47.5492693
+          8.9106167,
+          47.5490669
         ],
         [
-          8.9099339,
-          47.5491722
+          8.910879,
+          47.5491109
+        ],
+        [
+          8.9107955,
+          47.5493378
+        ],
+        [
+          8.9102663,
+          47.5492491
+        ],
+        [
+          8.9102813,
+          47.5492085
+        ],
+        [
+          8.9098997,
+          47.5491445
         ]
       ]
     ]
@@ -30538,8 +30553,8 @@
     "coordinates": [
       [
         [
-          8.9090498,
-          47.5479121
+          8.9089235,
+          47.5479501
         ],
         [
           8.9094575,
@@ -30618,16 +30633,32 @@
           47.5502693
         ],
         [
-          8.9090209,
-          47.5490133
+          8.9089737,
+          47.5491053
         ],
         [
-          8.9092751,
-          47.5484824
+          8.9089464,
+          47.5489626
         ],
         [
-          8.9090498,
-          47.5479121
+          8.9090244,
+          47.5488171
+        ],
+        [
+          8.9090808,
+          47.5486438
+        ],
+        [
+          8.9091263,
+          47.5482551
+        ],
+        [
+          8.9088701,
+          47.5481031
+        ],
+        [
+          8.9089235,
+          47.5479501
         ]
       ]
     ]
@@ -55393,11 +55424,11 @@
     "amenity": "clinic",
     "healthcare": "clinic",
     "healthcare:speciality": "general",
-    "name": "Centre de santé Blécherette",
+    "name": "Unisanté | Centre de santé Blécherette",
     "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su off",
     "operator": "Unisanté",
     "operator:type": "public",
-    "phone": "+41 21 545 11 45",
+    "phone": "+41 21 545 11 40",
     "website": "https://www.unisante.ch/fr/consultations-medicales/sites-medicaux/centre-sante-blecherette",
     "id": "node/11420627702"
   },

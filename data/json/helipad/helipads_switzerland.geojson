@@ -23683,6 +23683,46 @@
 },
 {
   "type": "Feature",
+  "id": "way/1264302642",
+  "properties": {
+    "aeroway": "helipad",
+    "lit": "no",
+    "name": "St Moritz-Bad Heliport",
+    "operator": "Swiss Helicopter",
+    "ref": "LSXM",
+    "surface": "grass",
+    "id": "way/1264302642"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.8242399,
+          46.4789085
+        ],
+        [
+          9.8241604,
+          46.4788523
+        ],
+        [
+          9.8242253,
+          46.4788088
+        ],
+        [
+          9.8243048,
+          46.478865
+        ],
+        [
+          9.8242399,
+          46.4789085
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/822278390",
   "properties": {
     "aeroway": "helipad",
@@ -24448,26 +24488,6 @@
     "coordinates": [
       7.8500265,
       46.1445359
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10640671480",
-  "properties": {
-    "aeroway": "helipad",
-    "lit": "no",
-    "name": "St Moritz-Bad Heliport",
-    "operator": "Swiss Helicopter",
-    "ref": "LSXM",
-    "surface": "grass",
-    "id": "node/10640671480"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      9.8242514,
-      46.4789825
     ]
   }
 },

@@ -100593,6 +100593,7 @@
   "id": "node/6715729834",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-03-19",
     "description": "Kurzzeitgymnasium und 10. Schuljahr",
     "name": "Hull's School",
     "operator": "Hull's School Ltd",
