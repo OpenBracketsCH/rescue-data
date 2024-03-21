@@ -3019,6 +3019,7 @@
     "addr:postcode": "8953",
     "addr:street": "Bahnhofplatz",
     "amenity": "police",
+    "check_date": "2024-03-20",
     "entrance": "yes",
     "name": "Polizeiposten Dietikon",
     "operator": "Kantonspolizei Zürich",

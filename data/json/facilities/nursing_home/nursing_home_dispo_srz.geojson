@@ -30937,10 +30937,12 @@
   "id": "node/6722838930",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2024-03-20",
     "name": "Pflegewohngruppe Wolfswinkel",
     "operator": "Stadt Zürich, GUD",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
+    "wheelchair": "yes",
     "id": "node/6722838930"
   },
   "geometry": {
