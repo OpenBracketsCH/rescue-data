@@ -37480,30 +37480,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10316593209",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Schulhaus Glärnisch, beim rotem Pausenplatz unter Dach",
-    "description": "Öffentlich",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "Stadt Wädenswil, Immobilien",
-    "phone": "+4 175 500 01 89",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/10316593209"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.666743,
-      47.2307596
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10316720832",
   "properties": {
     "access": "yes",
@@ -56304,11 +56280,13 @@
   "type": "Feature",
   "id": "node/11703379269",
   "properties": {
+    "access": "yes",
     "defibrillator:location": "Kindergarten Neumatt",
-    "description": "7/24h",
+    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Gemeinde Urdorf",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/11703379269"
@@ -57480,6 +57458,78 @@
     "coordinates": [
       8.642951,
       47.271514
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11749904870",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Hauptgebäude, Stampfenbachstrasse 110",
+    "description": "Während Öffnungszeiten verfügbar, Durchgang Treppenhaus in Büroräumlichkeiten, links",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "Hochbauamt Kanton Zürich",
+    "phone": "+41 43 259 28 42",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11749904870"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5410233,
+      47.383679
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11749987469",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Hauseingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "elektro4 AG",
+    "phone": "+41449224444",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11749987469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5903753,
+      47.3081754
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11751559069",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Süssenberg 12, 8453 Alten",
+    "description": "Während Anwesenheit verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "UG",
+    "operator": "Privatperson",
+    "phone": "+41793085882",
+    "id": "node/11751559069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6412194,
+      47.5990654
     ]
   }
 }
