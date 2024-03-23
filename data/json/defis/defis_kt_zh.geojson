@@ -1120,8 +1120,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5722215,
-      47.5412623
+      8.5722091,
+      47.541251
     ]
   }
 },
@@ -21704,8 +21704,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4637178,
-      47.401904
+      8.4636196,
+      47.4019631
     ]
   }
 },
@@ -51198,30 +51198,6 @@
     "coordinates": [
       8.5279199,
       47.4509566
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11241213471",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Turnhalle Hohfurri",
-    "description": "Während Schulzeiten Verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "0",
-    "opening_hours": "Mo-Fr 07:20-18:00",
-    "operator": "Schule Hohfurri",
-    "phone": "+41 52 267 19 88",
-    "id": "node/11241213471"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6951904,
-      47.5077969
     ]
   }
 },

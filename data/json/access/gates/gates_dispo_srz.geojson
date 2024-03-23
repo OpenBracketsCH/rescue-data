@@ -5638,7 +5638,7 @@
   "properties": {
     "access": "private",
     "barrier": "gate",
-    "emergency": "yes",
+    "emergency": "no",
     "name": "Tor 130",
     "id": "node/290383657"
   },
@@ -39446,6 +39446,21 @@
     "coordinates": [
       8.5747174,
       47.5437788
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3784843472",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/3784843472"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5719415,
+      47.5411225
     ]
   }
 },
@@ -78801,7 +78816,7 @@
   "properties": {
     "access": "private",
     "barrier": "gate",
-    "emergency": "yes",
+    "emergency": "no",
     "id": "node/10211513473"
   },
   "geometry": {
@@ -93427,6 +93442,55 @@
     "coordinates": [
       8.535826,
       47.5181533
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11752945784",
+  "properties": {
+    "barrier": "gate",
+    "material": "wood",
+    "opening_hours": "24/7",
+    "id": "node/11752945784"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5778461,
+      47.3527835
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11752945785",
+  "properties": {
+    "barrier": "gate",
+    "material": "wood",
+    "opening_hours": "24/7",
+    "id": "node/11752945785"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5782362,
+      47.3528592
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11753059979",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11753059979"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5721904,
+      47.5413658
     ]
   }
 }
