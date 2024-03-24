@@ -49498,6 +49498,7 @@
     "addr:postcode": "8400",
     "addr:street": "Wartstrasse",
     "amenity": "social_facility",
+    "check_date": "2024-03-23",
     "name": "C.A.S.A.",
     "operator": "Heilsarmee",
     "id": "node/4109460420"
@@ -50974,13 +50975,15 @@
     "addr:postcode": "8006",
     "addr:street": "Langmauerstrasse",
     "amenity": "social_facility",
+    "check_date": "2024-03-23",
     "email": "kreis6-wipkingen@oja.ch",
     "name": "OJA Kreis 6 & Wipkingen",
-    "opening_hours": "Tu-Fr",
+    "opening_hours": "Mi-Fr",
     "phone": "+41 44 363 1984",
     "social_facility": "outreach",
     "social_facility:for": "juvenile",
     "website": "https://www.oja.ch/einrichtungen/oja-kreis-6-wipkingen/",
+    "wheelchair": "no",
     "id": "node/5400748558"
   },
   "geometry": {
@@ -52077,23 +52080,6 @@
     "coordinates": [
       8.7328951,
       47.4946906
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7055152946",
-  "properties": {
-    "amenity": "social_facility",
-    "name": "Spitex Herzschlag",
-    "social_facility": "ambulatory_care",
-    "id": "node/7055152946"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5417576,
-      47.3892694
     ]
   }
 },

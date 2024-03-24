@@ -5546,7 +5546,6 @@
   "id": "way/37277021",
   "properties": {
     "addr:city": "Chur",
-    "addr:country": "CH",
     "addr:housenumber": "220",
     "addr:postcode": "7000",
     "addr:street": "Loëstrasse",
@@ -29302,7 +29301,6 @@
   "id": "way/651203822",
   "properties": {
     "addr:city": "Chur",
-    "addr:country": "CH",
     "addr:housenumber": "118",
     "addr:postcode": "7000",
     "addr:street": "Lürlibadstrasse",

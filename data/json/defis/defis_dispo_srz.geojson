@@ -479,8 +479,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8011626,
-      47.2569849
+      8.8011573,
+      47.2569857
     ]
   }
 },
@@ -75221,6 +75221,26 @@
     "coordinates": [
       8.6412194,
       47.5990654
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11755247369",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus, Trakt 3",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG, links nach dem Eingang",
+    "id": "node/11755247369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4550568,
+      47.4805402
     ]
   }
 }
