@@ -115,34 +115,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9417226662",
-  "properties": {
-    "activation": "blackout;phone_breakdown;evacuation",
-    "contact:city": "Zürich",
-    "contact:country": "CH",
-    "contact:housenumber": "208",
-    "contact:postcode": "8050",
-    "contact:street": "Tramstrasse",
-    "disaster_help_point:alert": "yes",
-    "disaster_help_point:healthcare": "yes",
-    "disaster_help_point:information": "yes",
-    "emergency": "disaster_help_point",
-    "name": "Turnhalle Schulhaus Saatlen",
-    "operator": "RFO/GFO Kanton Zürich",
-    "source": "https://www.zh.ch/de/sicherheit-justiz/bevoelkerungsschutz/notfalltreffpunkte.html",
-    "temporary": "yes",
-    "id": "node/9417226662"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5629473,
-      47.4085233
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9417226663",
   "properties": {
     "activation": "blackout;phone_breakdown;evacuation",

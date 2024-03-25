@@ -41936,31 +41936,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9545137589",
-  "properties": {
-    "amenity": "kindergarten",
-    "contact:city": "Zürich",
-    "contact:housenumber": "208",
-    "contact:phone": "+41 44 413 18 93",
-    "contact:postcode": "8050",
-    "contact:street": "Tramstrasse",
-    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/saatlen/ueberuns/standorte/tramstrasse.html",
-    "isced:level": "0",
-    "name": "Kindergarten Saatlen",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Saatlen",
-    "operator:type": "public",
-    "id": "node/9545137589"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5625336,
-      47.4086027
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9547135363",
   "properties": {
     "amenity": "kindergarten",

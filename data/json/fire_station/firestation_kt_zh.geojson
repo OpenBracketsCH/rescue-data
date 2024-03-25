@@ -2311,7 +2311,7 @@
     "email": "info@feuerwehr-bassersdorf.ch",
     "name": "Feuerwehr Bassersdorf",
     "roof:colour": "brown",
-    "website": "feuerwehr-bassersdorf.ch",
+    "website": "https://feuerwehr-bassersdorf.ch/",
     "id": "way/114188576"
   },
   "geometry": {

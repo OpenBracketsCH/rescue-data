@@ -4014,16 +4014,18 @@
     "addr:postcode": "8001",
     "addr:street": "Rämistrasse",
     "amenity": "pharmacy",
+    "check_date": "2024-03-24",
     "dispensing": "yes",
     "name": "Pfauen-Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-16:00",
+    "wheelchair": "yes",
     "id": "node/1740538020"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5496843,
-      47.3706223
+      8.5496573,
+      47.3706294
     ]
   }
 },
