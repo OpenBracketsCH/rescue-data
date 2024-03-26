@@ -1779,6 +1779,7 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Küsnacht ZH",
+    "website": "https://www.feuerwehr-kuesnacht.ch/",
     "id": "way/66986858"
   },
   "geometry": {
@@ -6168,28 +6169,6 @@
     "coordinates": [
       8.6757043,
       47.4729076
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8859864018",
-  "properties": {
-    "addr:city": "Küsnacht",
-    "addr:country": "CH",
-    "addr:housenumber": "30a",
-    "addr:postcode": "8700",
-    "addr:street": "Freihofstrasse",
-    "amenity": "fire_station",
-    "building": "yes",
-    "name": "Feuerwehr Küsnacht ZH",
-    "id": "node/8859864018"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5863561,
-      47.310052
     ]
   }
 },

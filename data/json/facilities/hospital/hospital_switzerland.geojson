@@ -39179,6 +39179,7 @@
     "addr:postcode": "2610",
     "addr:street": "Les Fontenayes",
     "amenity": "hospital",
+    "check_date": "2024-03-25",
     "ele": "855",
     "name": "Hôpital du Jura bernois - St-Imier",
     "phone": "+41 32 942 24 22",
@@ -55803,6 +55804,27 @@
     "coordinates": [
       8.5135053,
       47.393022
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11762026995",
+  "properties": {
+    "amenity": "clinic",
+    "email": "magendarmfricktal@hin.ch",
+    "name": "Magen Darm Fricktal AG",
+    "opening_hours": "Mo-Th 07:30-12:30,13:00-16:00; We 07:30-13:00; Fr 07:30-12:00,13:00-16:00",
+    "operator": "Dr. med. Mariann Szabo",
+    "phone": "+41 62 871 80 08",
+    "website": "https://www.magendarmfricktal.ch/",
+    "id": "node/11762026995"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0112561,
+      47.5049437
     ]
   }
 }
