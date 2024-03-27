@@ -7790,6 +7790,7 @@
     "addr:postcode": "6438",
     "addr:street": "Mythencenterstrasse",
     "amenity": "pharmacy",
+    "healthcare": "pharmacy",
     "level": "1",
     "name": "Mythen Apotheke Drogerie",
     "shop": "chemist",

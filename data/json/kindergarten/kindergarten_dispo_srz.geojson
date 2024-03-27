@@ -4520,6 +4520,7 @@
     "addr:street": "Maienstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2024-03-26",
     "isced:level": "0",
     "name": "Kindergarten Kügeliloo",
     "id": "way/42687515"
@@ -28829,15 +28830,15 @@
           47.4851521
         ],
         [
-          8.6915905,
+          8.6915913,
           47.485096
         ],
         [
-          8.6915885,
-          47.4850289
+          8.6915897,
+          47.4850317
         ],
         [
-          8.6915815,
+          8.6915867,
           47.4849027
         ],
         [

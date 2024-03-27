@@ -56484,6 +56484,27 @@
       47.4248637
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11735106969",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "durchstart",
+    "operator": "durchstart",
+    "phone": "+41 43 344 05 51",
+    "social_facility": "outreach",
+    "social_facility:for": "juvenile",
+    "website": "https://durchstart.ch/",
+    "id": "node/11735106969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4923871,
+      47.3884377
+    ]
+  }
 }
 ]
 }
