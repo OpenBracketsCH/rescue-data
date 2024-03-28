@@ -102745,27 +102745,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9819305118",
-  "properties": {
-    "addr:city": "Dübendorf",
-    "addr:housenumber": "28",
-    "addr:postcode": "8600",
-    "addr:street": "Bahnhofstrasse",
-    "amenity": "school",
-    "name": "Privatschule-Schatzinsel",
-    "operator": "Privatschule-Schatzinsel GmbH",
-    "id": "node/9819305118"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6192991,
-      47.3977757
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9825204527",
   "properties": {
     "addr:city": "Brüttisellen",

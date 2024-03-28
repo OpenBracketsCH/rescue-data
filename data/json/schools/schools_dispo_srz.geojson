@@ -125220,6 +125220,65 @@
 },
 {
   "type": "Feature",
+  "id": "way/1266746841",
+  "properties": {
+    "addr:housenumber": "19a",
+    "addr:street": "Lüssiweg",
+    "amenity": "school",
+    "building": "school",
+    "building:levels": "2",
+    "id": "way/1266746841"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5220107,
+          47.1770092
+        ],
+        [
+          8.5219784,
+          47.1769063
+        ],
+        [
+          8.5220166,
+          47.1769007
+        ],
+        [
+          8.5221091,
+          47.1768873
+        ],
+        [
+          8.5220821,
+          47.1768014
+        ],
+        [
+          8.522255,
+          47.1767763
+        ],
+        [
+          8.5223462,
+          47.1770675
+        ],
+        [
+          8.5221775,
+          47.177092
+        ],
+        [
+          8.5221455,
+          47.1769897
+        ],
+        [
+          8.5220107,
+          47.1770092
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/256335788",
   "properties": {
     "amenity": "school",
@@ -129971,27 +130030,6 @@
     "coordinates": [
       8.6092106,
       47.4001245
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9819305118",
-  "properties": {
-    "addr:city": "Dübendorf",
-    "addr:housenumber": "28",
-    "addr:postcode": "8600",
-    "addr:street": "Bahnhofstrasse",
-    "amenity": "school",
-    "name": "Privatschule-Schatzinsel",
-    "operator": "Privatschule-Schatzinsel GmbH",
-    "id": "node/9819305118"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6192991,
-      47.3977757
     ]
   }
 },

@@ -2469,6 +2469,7 @@
     "addr:street": "Bremgartnerstrasse",
     "alt_name": "KomPol Dietikon",
     "amenity": "police",
+    "check_date": "2024-03-27",
     "description": "Stadtpolizei und Fundbüro",
     "name": "Polizeiposten Stadtpolizei Dietikon",
     "operator": "Stadt Dietikon",
