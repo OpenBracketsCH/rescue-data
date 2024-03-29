@@ -11844,29 +11844,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7928159875",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Beim Bademeister",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "0",
-    "name": "Strandbad Cham",
-    "operator": "Einwohnergemeinde Cham",
-    "id": "node/7928159875"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4685466,
-      47.1804138
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7928159878",
   "properties": {
     "defibrillator:location": "Beim Bademeister / Kiosk",
@@ -75487,6 +75464,52 @@
     "coordinates": [
       8.5312472,
       47.3427957
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11768399169",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Nähe Bushaltestelle Mangelegg",
+    "description": "öffentlich zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "unbekannt",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11768399169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6544156,
+      47.0287164
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11769891969",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Seniorenzentrum Im Reiat",
+    "description": "24 Stunden Verfügbar, in der Nacht muss man der Nachtwache klingeln via Hausglocke",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "Erdgeschoss",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Thayngen",
+    "id": "node/11769891969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7040135,
+      47.746147
     ]
   }
 }
