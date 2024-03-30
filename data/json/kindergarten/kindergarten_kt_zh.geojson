@@ -37068,6 +37068,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/6053546268",
+  "properties": {
+    "addr:housenumber": "118",
+    "addr:street": "Altstetterstrasse",
+    "amenity": "kindergarten",
+    "check_date": "2024-03-29",
+    "name": "Zentrum ELCH Altstetten",
+    "website": "https://zentrumelch.ch/altstetten",
+    "id": "node/6053546268"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4867325,
+      47.389929
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6061461127",
   "properties": {
     "amenity": "kindergarten",
@@ -37937,6 +37957,7 @@
   "id": "node/6631628135",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-03-29",
     "contact:city": "Zürich",
     "contact:housenumber": "22",
     "contact:phone": "+41 44 413 75 25",
@@ -37961,6 +37982,7 @@
   "id": "node/6631628136",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-03-29",
     "name": "Kindergarten Dachslernstrasse",
     "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
     "id": "node/6631628136"
@@ -37968,8 +37990,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4743221,
-      47.3909087
+      8.4741974,
+      47.3910638
     ]
   }
 },

@@ -3433,9 +3433,11 @@
   "id": "node/6976938420",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Spitex Regio Arth-Goldau",
+    "check_date": "2024-03-10",
+    "defibrillator:location": "Spitex Regio Arth-Goldau - Rechte Seite des Gebäudes, montiert an der Wand unter dem Balkon",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Spitex Regio Arth-Goldau",
     "phone": "+41 41 859 14 00",
@@ -3444,8 +3446,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5489521,
-      47.0453926
+      8.5489517,
+      47.0453865
     ]
   }
 },
@@ -3561,19 +3563,23 @@
   "id": "node/6976938426",
   "properties": {
     "access": "yes",
+    "check_date": "2024-03-10",
     "defibrillator:location": "Schwyzer Kantonalbank",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Schwyzer Kantonalbank",
+    "outdoor": "yes",
     "phone": "+41 58 800 20 20",
     "id": "node/6976938426"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5478855,
-      47.0498199
+      8.5479193,
+      47.0498173
     ]
   }
 },
@@ -49532,23 +49538,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10227906586",
-  "properties": {
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "id": "node/10227906586"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5479323,
-      47.049818
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10231055787",
   "properties": {
     "access": "no",
@@ -75510,6 +75499,52 @@
     "coordinates": [
       8.7040135,
       47.746147
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11770725069",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Brunnenstrasse 1",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "\"6.00-19.00\"",
+    "operator": "Privat",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11770725069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7198471,
+      47.3501903
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11771872169",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Tennis Club Grafstal, links vom Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Tennis Club Grafstal",
+    "phone": "+41 78 857 50 44",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11771872169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6987633,
+      47.4462043
     ]
   }
 }

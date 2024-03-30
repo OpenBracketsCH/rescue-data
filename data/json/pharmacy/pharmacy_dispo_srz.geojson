@@ -2181,11 +2181,13 @@
     "addr:street": "Badenerstrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date": "2024-03-29",
     "check_date:opening_hours": "2023-04-27",
     "name": "Apotheke Altstetten AA1",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
     "operator": "Rotpunkt Pharma",
     "website": "https://www.aa1.ch/",
+    "wheelchair": "yes",
     "id": "node/613704433"
   },
   "geometry": {

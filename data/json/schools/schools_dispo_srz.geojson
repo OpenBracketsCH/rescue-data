@@ -117099,6 +117099,10 @@
           47.0524555
         ],
         [
+          8.5411023,
+          47.0526009
+        ],
+        [
           8.5407226,
           47.0532786
         ],
@@ -125702,24 +125706,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/481443835",
-  "properties": {
-    "amenity": "school",
-    "description": "Kinder-Reiten in Albisrieden",
-    "name": "Kinderreitschule",
-    "website": "https://www.kinderreitschule.ch/",
-    "id": "node/481443835"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4807934,
-      47.3734318
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/493226240",
   "properties": {
     "addr:city": "Zug",
@@ -130931,6 +130917,25 @@
     "coordinates": [
       8.4711493,
       47.4396643
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11771015648",
+  "properties": {
+    "amenity": "school",
+    "check_date": "2024-03-29",
+    "name": "SISZ Tagesschule",
+    "phone": "+41 43 321 88 29",
+    "website": "https://sisz.ch",
+    "id": "node/11771015648"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4821114,
+      47.3742254
     ]
   }
 }
