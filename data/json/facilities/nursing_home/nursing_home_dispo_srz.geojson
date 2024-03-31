@@ -7904,7 +7904,7 @@
     "addr:street": "Brüschägertenweg",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Haus A",
+    "name": "Altersheim Grüneck Haus A",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "id": "way/99826401"
@@ -7961,7 +7961,7 @@
     "addr:street": "Brüschägertenweg",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Haus B",
+    "name": "Altersheim Grüneck Haus B",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "id": "way/99826431"
