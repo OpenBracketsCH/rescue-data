@@ -80406,7 +80406,7 @@
     "source:maxspeed": "sign",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "through|through|merge_to_leftmerge_to_left",
+    "turn:lanes": "through|through|merge_to_left|merge_to_left",
     "id": "way/1202049008"
   },
   "geometry": {

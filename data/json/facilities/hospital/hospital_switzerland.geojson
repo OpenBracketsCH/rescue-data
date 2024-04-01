@@ -36844,14 +36844,17 @@
   "type": "Feature",
   "id": "way/675989323",
   "properties": {
-    "amenity": "hospital",
-    "contact:website": "https://www.spitalzentrum-biel.ch/patienten-besucher/medizinisches-angebot/kinderklinik-wildermeth/",
+    "amenity": "clinic",
     "ele": "496",
-    "healthcare": "hospital",
+    "fixme": "Check tagging",
+    "healthcare": "clinic",
     "healthcare:speciality": "paediatrics",
-    "name": "Clinique pour enfants Wildermeth",
-    "name:de": "Kinderklinik Wildermeth",
-    "name:fr": "Clinique pour enfants Wildermeth",
+    "name": "Centre de développement et neuroréhabilitation pédiatrique de la fondation Wildermeth Bienne / Zentrum für Entwicklungsförderung und pädiatrische Neurorehabilitation der Stiftung Wildermeth Biel",
+    "name:de": "Zentrum für Entwicklungsförderung und pädiatrische Neurorehabilitation der Stiftung Wildermeth Biel",
+    "name:fr": "Centre de développement et neuroréhabilitation pédiatrique de la fondation Wildermeth Bienne",
+    "short_name:de": "Z.E.N.",
+    "short_name:fr": "C.D.N.",
+    "website": "https://www.zen-biel.ch/",
     "id": "way/675989323"
   },
   "geometry": {
@@ -43900,16 +43903,28 @@
           46.9686295
         ],
         [
-          7.4868871,
-          46.9691531
+          7.4868988,
+          46.9691618
         ],
         [
-          7.4867393,
-          46.9694416
+          7.486778,
+          46.9693772
         ],
         [
-          7.4866858,
-          46.9696014
+          7.4867446,
+          46.9694452
+        ],
+        [
+          7.4867173,
+          46.9695172
+        ],
+        [
+          7.4867028,
+          46.9695819
+        ],
+        [
+          7.4866924,
+          46.9696523
         ],
         [
           7.4866844,
@@ -46852,9 +46867,14 @@
   "type": "Feature",
   "id": "way/966657435",
   "properties": {
+    "addr:city": "Bouveret",
+    "addr:housenumber": "28",
+    "addr:postcode": "1897",
+    "addr:street": "Chaussée du Canal",
     "building": "yes",
     "healthcare": "clinic",
     "healthcare:speciality": "general",
+    "source": "Swiss Image 2024 + GWR from http://qa.poole.ch/addresses/GWR/6154_all.osm.zip",
     "id": "way/966657435"
   },
   "geometry": {
@@ -46862,28 +46882,28 @@
     "coordinates": [
       [
         [
-          6.8636561,
-          46.381285
+          6.8636702,
+          46.3812855
         ],
         [
-          6.8636663,
-          46.3811981
+          6.8636797,
+          46.3812046
         ],
         [
-          6.8639915,
-          46.3812079
+          6.8639808,
+          46.3812195
         ],
         [
-          6.8639732,
-          46.3813579
+          6.8639705,
+          46.3813598
         ],
         [
-          6.8637496,
-          46.3813495
+          6.8637597,
+          46.3813504
         ],
         [
-          6.8636561,
-          46.381285
+          6.8636702,
+          46.3812855
         ]
       ]
     ]
@@ -51463,8 +51483,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.186882,
-      46.7200303
+      8.1868545,
+      46.7200637
     ]
   }
 },
