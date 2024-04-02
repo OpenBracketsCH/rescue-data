@@ -653,8 +653,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5452717,
-      47.367682
+      8.545276,
+      47.3676704
     ]
   }
 },
@@ -2766,8 +2766,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5458658,
-      47.3680944
+      8.5458885,
+      47.3681104
     ]
   }
 },
@@ -5292,8 +5292,6 @@
   "type": "Feature",
   "id": "node/4512105546",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:postcode": "8050",
     "amenity": "pharmacy",
     "branch": "Zürich Oerlikon",
     "brand": "Achillea Apotheke",
@@ -5302,6 +5300,7 @@
     "name": "Bahnhof Apotheke Oerlikon",
     "opening_hours": "Mo-Su 07:00-22:00",
     "operator": "Dr. Bähler Dropa",
+    "phone": "+41 44 364 44 44",
     "website": "https://achillea.ch/standorte/bahnhof-apotheke-oerlikon",
     "wheelchair": "yes",
     "id": "node/4512105546"

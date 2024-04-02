@@ -227,6 +227,93 @@
 },
 {
   "type": "Feature",
+  "id": "way/47122266",
+  "properties": {
+    "addr:city": "Brütten",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8311",
+    "addr:street": "Brüelgasse",
+    "amenity": "childcare",
+    "building": "kindergarten",
+    "building:levels": "2",
+    "check_date": "2023-04-17",
+    "email": "petra.cammarota@kinderhaus-chruesimuesi.ch",
+    "name": "Kinderhaus Chrüsimüsi",
+    "opening_hours": "Mo-Fr 07:00-18:15; PH off",
+    "phone": "052 347 11 02",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
+    "website": "http://www.kinderhaus-chruesimuesi.ch/",
+    "wheelchair": "no",
+    "id": "way/47122266"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6741992,
+          47.4731005
+        ],
+        [
+          8.6743084,
+          47.4730112
+        ],
+        [
+          8.6743762,
+          47.4730491
+        ],
+        [
+          8.674415,
+          47.4730174
+        ],
+        [
+          8.6744954,
+          47.4730624
+        ],
+        [
+          8.6744828,
+          47.4730726
+        ],
+        [
+          8.6745078,
+          47.4730866
+        ],
+        [
+          8.6745033,
+          47.4730903
+        ],
+        [
+          8.6745187,
+          47.4730989
+        ],
+        [
+          8.6745015,
+          47.4731129
+        ],
+        [
+          8.6744847,
+          47.4731266
+        ],
+        [
+          8.6744694,
+          47.4731181
+        ],
+        [
+          8.6743724,
+          47.4731974
+        ],
+        [
+          8.6741992,
+          47.4731005
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/47139515",
   "properties": {
     "amenity": "childcare",
@@ -6925,8 +7012,10 @@
   "id": "node/7070399495",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2024-04-01",
     "name": "Kita Fugu",
     "website": "https://www.kitafugu.ch",
+    "wheelchair": "no",
     "id": "node/7070399495"
   },
   "geometry": {

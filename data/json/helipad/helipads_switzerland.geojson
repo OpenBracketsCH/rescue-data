@@ -23235,6 +23235,44 @@
 },
 {
   "type": "Feature",
+  "id": "way/1251194071",
+  "properties": {
+    "aeroway": "helipad",
+    "name": "Klinik Gut",
+    "operator": "Klinik Gut",
+    "surface": "metal",
+    "id": "way/1251194071"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.8351023,
+          46.4835372
+        ],
+        [
+          9.8351643,
+          46.4835052
+        ],
+        [
+          9.8352169,
+          46.4835536
+        ],
+        [
+          9.8351549,
+          46.4835855
+        ],
+        [
+          9.8351023,
+          46.4835372
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1251943660",
   "properties": {
     "aeroway": "helipad",
