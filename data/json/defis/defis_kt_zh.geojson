@@ -6482,8 +6482,8 @@
   "type": "Feature",
   "id": "node/7962630332",
   "properties": {
+    "access": "no",
     "emergency": "defibrillator",
-    "emergency:phone": "144",
     "indoor": "yes",
     "id": "node/7962630332"
   },
@@ -12553,26 +12553,6 @@
     "coordinates": [
       8.6499772,
       47.3234426
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8556472948",
-  "properties": {
-    "access": "no",
-    "description": "Privater AED (Leiter First Responder Gruppe Küsnacht-Zumikon)",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "operator": "Nik Fritsch",
-    "id": "node/8556472948"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5801198,
-      47.329142
     ]
   }
 },
@@ -57801,13 +57781,13 @@
   "id": "node/11775742569",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Residenz Stadtpark ",
+    "defibrillator:location": "Residenz Stadtpark",
     "description": "Zugang Theaterstrasse 4 Administration",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "EG Eingang Landihallenweg 1",
-    "opening_hours": "Mo - Fr \n08:00 - 17:00",
+    "level": "0",
+    "opening_hours": "Mo - Fr 08:00 - 17:00",
     "operator": "Residenz Stadtpark Atlas Stiftung",
     "phone": "+41582682400",
     "id": "node/11775742569"
@@ -57815,8 +57795,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7145897,
-      47.3490904
+      8.714626,
+      47.3490796
     ]
   }
 },
@@ -57886,6 +57866,81 @@
     "coordinates": [
       8.5175485,
       47.3583982
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11782156569",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Hohmatt",
+    "description": "links vom Haupteingang an der Aussenwand",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Turbenthal",
+    "phone": "+41796731334",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11782156569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8439941,
+      47.443984
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11782158269",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Neubrunn",
+    "description": "im Vorraum links. Dieser ist immer zugänglich.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Turbenthal",
+    "phone": "+41 79 673 13 34",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11782158269"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8951385,
+      47.4409872
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11782159069",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Schmidrüti",
+    "description": "an der Aussenwand",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Turbenthal",
+    "phone": "+41 79 673 13 34",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11782159069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.900975,
+      47.4135507
     ]
   }
 }

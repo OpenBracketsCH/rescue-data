@@ -70283,8 +70283,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.3983425,
-      47.4017938
+      8.398342,
+      47.4017941
     ]
   }
 },
@@ -70302,8 +70302,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.3979619,
-      47.401976
+      8.3979617,
+      47.4019772
     ]
   }
 },
@@ -81560,6 +81560,88 @@
     "coordinates": [
       8.6736331,
       47.4837932
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11780003825",
+  "properties": {
+    "access": "yes",
+    "barrier": "lift_gate",
+    "lift_gate:type": "single",
+    "note": "Access restrictions are handled on the road restrictions, thus the barrier has access=yes. See also OSM-Note https://www.openstreetmap.org/note/3276100.",
+    "id": "node/11780003825"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5177764,
+      47.3920263
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11780316176",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11780316176"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.546357,
+      47.317623
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11780316205",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "node/11780316205"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5452398,
+      47.3106457
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11781304619",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "id": "node/11781304619"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4896457,
+      47.3372447
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11781403279",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "id": "node/11781403279"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4896946,
+      47.3378195
     ]
   }
 }

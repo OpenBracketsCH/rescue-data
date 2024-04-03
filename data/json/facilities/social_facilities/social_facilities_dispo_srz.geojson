@@ -40786,12 +40786,12 @@
           47.3457836
         ],
         [
-          8.7300167,
-          47.3459542
+          8.7300011,
+          47.3459399
         ],
         [
-          8.7302594,
-          47.3462557
+          8.7302607,
+          47.3462464
         ],
         [
           8.7299713,
@@ -46854,52 +46854,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1144153197",
-  "properties": {
-    "amenity": "social_facility",
-    "name": "Residenz Stadtpark",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "id": "way/1144153197"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7153291,
-          47.3493498
-        ],
-        [
-          8.7147801,
-          47.3494841
-        ],
-        [
-          8.7144974,
-          47.3489447
-        ],
-        [
-          8.7143665,
-          47.348666
-        ],
-        [
-          8.7149223,
-          47.348654
-        ],
-        [
-          8.7150304,
-          47.3488254
-        ],
-        [
-          8.7153291,
-          47.3493498
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1144645873",
   "properties": {
     "amenity": "social_facility",
@@ -48970,35 +48924,6 @@
           47.203216
         ]
       ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/80080369",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "118",
-    "addr:postcode": "8038",
-    "addr:street": "Kalchbühlstrasse",
-    "alt_name": "Alterszentrum Kalchbühl",
-    "amenity": "social_facility",
-    "capacity": "51",
-    "email": "asz-kalchbuehl@zuerich.ch",
-    "name": "Gesundheitszentrum für das Alter Kalchbühl",
-    "operator": "Stadt Zürich, GUD",
-    "phone": "+41 44 485 51 00",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "website": "https://www.stadt-zuerich.ch/az-kalchbuehl",
-    "id": "node/80080369"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5342067,
-      47.3345738
     ]
   }
 },
@@ -53023,6 +52948,7 @@
     "addr:postcode": "8708",
     "addr:street": "Seestrasse",
     "amenity": "social_facility",
+    "check_date": "2024-04-02",
     "email": "pflege.seerose@bethesda-alterszentren.ch",
     "name": "Altersheim Seerose",
     "operator": "Bethesda Alterszentren AG",
@@ -56504,6 +56430,24 @@
     "coordinates": [
       8.4923871,
       47.3884377
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11780012193",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Residenz Stadtpark",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "node/11780012193"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7148178,
+      47.3490167
     ]
   }
 }
