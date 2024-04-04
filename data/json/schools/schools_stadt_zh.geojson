@@ -9083,8 +9083,8 @@
           47.3686547
         ],
         [
-          8.5220787,
-          47.3686192
+          8.52208,
+          47.3686119
         ],
         [
           8.5231305,
@@ -19742,6 +19742,7 @@
     "addr:postcode": "8032",
     "addr:street": "Neptunstrasse",
     "amenity": "school",
+    "check_date": "2024-04-03",
     "name": "Sprungbrett Montessori-Schule",
     "operator": "Montessori-Schule GmbH",
     "private": "yes",

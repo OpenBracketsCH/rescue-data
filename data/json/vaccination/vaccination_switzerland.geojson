@@ -294,46 +294,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1013498240",
-  "properties": {
-    "building": "yes",
-    "healthcare": "yes",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum Leuggern",
-    "vaccination": "covid19",
-    "website": "https://www.spitalleuggern.ch/index.php?id=919",
-    "id": "way/1013498240"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.2167394,
-          47.5819649
-        ],
-        [
-          8.2169178,
-          47.5817671
-        ],
-        [
-          8.217028,
-          47.5818123
-        ],
-        [
-          8.2168497,
-          47.5820102
-        ],
-        [
-          8.2167394,
-          47.5819649
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1853060089",
   "properties": {
     "amenity": "restaurant",
