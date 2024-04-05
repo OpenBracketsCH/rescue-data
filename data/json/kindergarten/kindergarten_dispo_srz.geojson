@@ -26010,6 +26010,47 @@
 },
 {
   "type": "Feature",
+  "id": "way/299913320",
+  "properties": {
+    "amenity": "kindergarten",
+    "isced:level": "0",
+    "name": "Kindergarten Breitlen",
+    "id": "way/299913320"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7724632,
+          47.2543246
+        ],
+        [
+          8.7719826,
+          47.2545321
+        ],
+        [
+          8.7717359,
+          47.254301
+        ],
+        [
+          8.7722717,
+          47.2540246
+        ],
+        [
+          8.7723064,
+          47.254124
+        ],
+        [
+          8.7724632,
+          47.2543246
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/299913322",
   "properties": {
     "amenity": "kindergarten",
