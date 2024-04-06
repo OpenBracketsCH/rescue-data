@@ -42849,23 +42849,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6628788317",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittaghort Scherr 4",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
-    "id": "node/6628788317"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5477446,
-      47.385721
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6628788318",
   "properties": {
     "amenity": "kindergarten",

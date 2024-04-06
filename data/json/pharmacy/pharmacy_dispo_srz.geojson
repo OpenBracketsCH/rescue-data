@@ -3065,6 +3065,7 @@
     "addr:street": "Universitätstrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date": "2024-04-05",
     "check_date:opening_hours": "2020-10-08",
     "healthcare": "pharmacy",
     "name": "Rigi Apotheke und Drogerie",
@@ -3072,6 +3073,8 @@
     "operator": "Rotpunkt Pharma",
     "shop": "chemist",
     "website": "https://www.apotheke-rigi.ch/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Eingang näher an der Seilbahnstation ist rollstuhlgängig.",
     "id": "node/891896164"
   },
   "geometry": {
@@ -3256,11 +3259,13 @@
     "addr:postcode": "8006",
     "addr:street": "Universitätstrasse",
     "amenity": "pharmacy",
+    "check_date": "2024-04-05",
     "name": "Biotheke",
     "official_name": "Winkelried Apotheke AG",
     "old_name": "Winkelried Apotheke",
     "opening_hours": "Mo-Fr 08:30-18:30; Sa 09:00-16:00",
     "website": "https://www.biotheke.ch/",
+    "wheelchair": "yes",
     "id": "node/943868646"
   },
   "geometry": {

@@ -11278,9 +11278,11 @@
     "addr:street": "Nordstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-04-05",
     "name": "Klinik Lindenegg",
     "social_facility": "nursing_home",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
+    "wheelchair": "yes",
     "id": "way/95242192"
   },
   "geometry": {
