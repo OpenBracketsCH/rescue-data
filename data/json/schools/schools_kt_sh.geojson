@@ -2375,6 +2375,7 @@
     "addr:street": "Reckenstrasse",
     "amenity": "school",
     "building": "yes",
+    "check_date": "2024-04-07",
     "name": "Reckenschulhaus",
     "id": "way/195806252"
   },
@@ -5203,6 +5204,7 @@
   "id": "way/290563601",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-04-07",
     "name": "Primarschule Silberberg",
     "id": "way/290563601"
   },
@@ -6761,6 +6763,7 @@
   "id": "node/7479728770",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-04-07",
     "name": "Orientierungsschule",
     "id": "node/7479728770"
   },
@@ -6777,6 +6780,7 @@
   "id": "node/7479728771",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-04-07",
     "name": "Primarschule",
     "id": "node/7479728771"
   },

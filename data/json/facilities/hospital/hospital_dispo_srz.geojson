@@ -13607,6 +13607,24 @@
       47.393022
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11800118612",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare:speciality": "ophthalmology",
+    "name": "betterview",
+    "website": "https://betterview.ch/",
+    "id": "node/11800118612"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5412212,
+      47.3768034
+    ]
+  }
 }
 ]
 }
