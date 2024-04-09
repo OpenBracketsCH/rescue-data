@@ -9577,6 +9577,10 @@
           46.7822073
         ],
         [
+          6.6471575,
+          46.7820822
+        ],
+        [
           6.6470219,
           46.781914
         ],
@@ -9587,6 +9591,14 @@
         [
           6.6473176,
           46.7819539
+        ],
+        [
+          6.6474037,
+          46.7819214
+        ],
+        [
+          6.6474563,
+          46.7819015
         ],
         [
           6.6475095,
@@ -55912,6 +55924,29 @@
     "coordinates": [
       8.5412212,
       47.3768034
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11802009169",
+  "properties": {
+    "addr:housenumber": "13",
+    "addr:postcode": "1400",
+    "addr:street": "Rue des Remparts",
+    "amenity": "clinic",
+    "email": "secretariat@osteopathe-yverdon.ch",
+    "name": "Ostéopathie des Remparts",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "phone": "+41244362121",
+    "website": "https://osteopathe-yverdon.ch",
+    "id": "node/11802009169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6404632,
+      46.7797027
     ]
   }
 }

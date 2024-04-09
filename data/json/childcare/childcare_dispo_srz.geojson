@@ -13280,6 +13280,22 @@
       47.4114384
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11802544285",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kinderkrippe BAMBI",
+    "id": "node/11802544285"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5456078,
+      47.4192155
+    ]
+  }
 }
 ]
 }
