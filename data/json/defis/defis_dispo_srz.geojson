@@ -321,29 +321,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2840471203",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Links draussen an der Wand vorm Eingang Gemeindehaus Wald",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "0",
-    "name": "Gemeindehaus Wald ZH",
-    "opening_hours": "24/7",
-    "wheelchair": "yes",
-    "id": "node/2840471203"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.9148335,
-      47.2757265
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2978025989",
   "properties": {
     "addr:city": "Andelfingen",
@@ -10144,19 +10121,20 @@
   "id": "node/7819540960",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Restaurant",
-    "description": "während Sommermonaten",
+    "defibrillator:location": "neben dem Eingang",
+    "description": "öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "opening_hours": "Mo-Su 09:00-21:00",
+    "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Gemeinde Richterswil",
     "id": "node/7819540960"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6782847,
-      47.1848878
+      8.6782311,
+      47.1848586
     ]
   }
 },
@@ -52624,8 +52602,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5358191,
-      47.370222
+      8.5358168,
+      47.3702121
     ]
   }
 },
@@ -56021,6 +55999,7 @@
     "description": "gelber Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "fixme": "Duplikat zum Defi (n10565068109)?",
     "indoor": "yes",
     "latitude": "47.37206",
     "longitude": "8.53656",
@@ -59635,6 +59614,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "latitude": "47.37246",
+    "level": "8",
     "longitude": "8.53492",
     "name": "avobis GROUP AG",
     "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
@@ -63100,6 +63080,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "latitude": "47.36899",
+    "level": "2",
     "longitude": "8.53974",
     "name": "Banque Internationale à Luxembourg (Suisse) SA",
     "opening_hours": "Mo-Fr 09:00-12:00, 13:30-16:30",
@@ -65501,16 +65482,15 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "EG",
+    "level": "0",
     "opening_hours": "Mo-Fr 06:30-19:00",
-    "operator": "Privat",
     "id": "node/11038063814"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5346152,
-      47.373032
+      8.5347127,
+      47.3730878
     ]
   }
 },
@@ -71714,8 +71694,12 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Neben Eingang Restaurant Schwert",
+    "description": "24h verfügbar",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
     "operator": "Restaurant Schwert",
     "id": "node/11542498423"
   },
@@ -75967,8 +75951,53 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6672916,
-      47.2303808
+      8.6667566,
+      47.2306906
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11804248869",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Turnhalle Elba, rechts vom Eingang",
+    "description": "Jederzeit verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Gemeinde Wald",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11804248869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9144129,
+      47.2792363
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11804495470",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Tennishalle",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "operator": "Tennsihalle TSB",
+    "id": "node/11804495470"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5386262,
+      47.5084598
     ]
   }
 }
