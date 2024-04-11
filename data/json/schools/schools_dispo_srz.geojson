@@ -127954,6 +127954,7 @@
     "addr:postcode": "8001",
     "addr:street": "Löwenstrasse",
     "amenity": "school",
+    "check_date": "2024-04-10",
     "grades": "10-13",
     "name": "Academic Gateway",
     "operator": "Academic Gateway AG",
@@ -127964,8 +127965,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5350159,
-      47.3738472
+      8.5350181,
+      47.3739358
     ]
   }
 },

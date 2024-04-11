@@ -8513,6 +8513,53 @@
 },
 {
   "type": "Feature",
+  "id": "way/122456061",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "473",
+    "addr:postcode": "8051",
+    "addr:street": "Winterthurerstrasse",
+    "amenity": "social_facility",
+    "building": "house",
+    "email": "malve@vierwiesen.ch",
+    "name": "WG Malve",
+    "old_name": "Wohnheim Altes Pfarrhaus",
+    "operator": "vier wiesen",
+    "phone": "+41 44 325 26 77",
+    "social_facility": "group_home",
+    "website": "https://www.vierwiesen.ch/8er-wg/",
+    "id": "way/122456061"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5691919,
+          47.4040706
+        ],
+        [
+          8.5693675,
+          47.4040969
+        ],
+        [
+          8.5693377,
+          47.4041884
+        ],
+        [
+          8.5691632,
+          47.4041614
+        ],
+        [
+          8.5691919,
+          47.4040706
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/122942384",
   "properties": {
     "addr:city": "Zürich",

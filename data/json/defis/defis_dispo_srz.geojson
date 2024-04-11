@@ -28499,8 +28499,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5437994,
-      47.3784945
+      8.5438452,
+      47.3781587
     ]
   }
 },
@@ -75998,6 +75998,80 @@
     "coordinates": [
       8.5386262,
       47.5084598
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11806710469",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "medica Medizinische Laboratorien AG (am Haupteingang eine Treppe tiefer)",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "-1",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-12:00",
+    "operator": "medica Medizinische Laboratorien AG",
+    "phone": "+41 44 269 99 99",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11806710469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5512841,
+      47.3706868
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11807232869",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Empfang rechts",
+    "description": "während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "08:00-17:00",
+    "operator": "Seewadel Zentrum für Gesundheit und Alter",
+    "phone": "+41433227474",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11807232869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4463615,
+      47.2780062
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11807234769",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Treppenhaus Restaurant beim Lift ",
+    "description": "während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "08:00-17:00",
+    "operator": "Seewadel Zentrum für Gesundheit und Alter",
+    "phone": "+41433227474",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11807234769"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4463828,
+      47.2779989
     ]
   }
 }

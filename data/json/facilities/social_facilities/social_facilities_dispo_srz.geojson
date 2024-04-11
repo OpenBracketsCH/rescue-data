@@ -1143,6 +1143,13 @@
   "id": "relation/16034273",
   "properties": {
     "amenity": "social_facility",
+    "contact:city": "Pfäffikon ZH",
+    "contact:email": "info@sophieguyer.ch",
+    "contact:housenumber": "7",
+    "contact:phone": "+41 44 952 56 56",
+    "contact:postcode": "8330",
+    "contact:street": "Zelglistrasse",
+    "contact:website": "https://www.sophieguyer.ch/",
     "name": "Sophie Guyer Alterszentrum",
     "operator": "Stiftung Sophie Guyer",
     "social_facility": "assisted_living",
@@ -1385,88 +1392,6 @@
         [
           8.7841707,
           47.368037
-        ]
-      ],
-      [
-        [
-          8.7851427,
-          47.3687049
-        ],
-        [
-          8.7850799,
-          47.3687895
-        ],
-        [
-          8.7850104,
-          47.3688831
-        ],
-        [
-          8.7850693,
-          47.3689425
-        ],
-        [
-          8.7851864,
-          47.3690074
-        ],
-        [
-          8.7852579,
-          47.3689752
-        ],
-        [
-          8.785302,
-          47.3689523
-        ],
-        [
-          8.7853479,
-          47.3689255
-        ],
-        [
-          8.7854065,
-          47.3688898
-        ],
-        [
-          8.7854859,
-          47.368836
-        ],
-        [
-          8.785554,
-          47.3687855
-        ],
-        [
-          8.7856953,
-          47.3686733
-        ],
-        [
-          8.7856319,
-          47.3686271
-        ],
-        [
-          8.7855671,
-          47.3686689
-        ],
-        [
-          8.7855345,
-          47.368645
-        ],
-        [
-          8.7853165,
-          47.3687077
-        ],
-        [
-          8.7852302,
-          47.3686809
-        ],
-        [
-          8.7852156,
-          47.368699
-        ],
-        [
-          8.7851093,
-          47.3686623
-        ],
-        [
-          8.7851427,
-          47.3687049
         ]
       ]
     ]
@@ -15477,6 +15402,53 @@
         [
           8.5944647,
           47.4058716
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/122456061",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "473",
+    "addr:postcode": "8051",
+    "addr:street": "Winterthurerstrasse",
+    "amenity": "social_facility",
+    "building": "house",
+    "email": "malve@vierwiesen.ch",
+    "name": "WG Malve",
+    "old_name": "Wohnheim Altes Pfarrhaus",
+    "operator": "vier wiesen",
+    "phone": "+41 44 325 26 77",
+    "social_facility": "group_home",
+    "website": "https://www.vierwiesen.ch/8er-wg/",
+    "id": "way/122456061"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5691919,
+          47.4040706
+        ],
+        [
+          8.5693675,
+          47.4040969
+        ],
+        [
+          8.5693377,
+          47.4041884
+        ],
+        [
+          8.5691632,
+          47.4041614
+        ],
+        [
+          8.5691919,
+          47.4040706
         ]
       ]
     ]
