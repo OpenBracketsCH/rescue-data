@@ -9016,51 +9016,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1202490198",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "5",
-    "addr:postcode": "8004",
-    "addr:street": "Gustav-Gull-Platz",
-    "alt_name": "Ambulantes Zentrum Europaallee; Ambulatorium Europaallee",
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "name": "Stadtspital Zürich Europaallee",
-    "operator": "Stadtspital Zürich",
-    "phone": "+41 44 416 32 00",
-    "website": "https://www.stadt-zuerich.ch/site/europaallee/de/index.html",
-    "id": "way/1202490198"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5306597,
-          47.3796265
-        ],
-        [
-          8.5308417,
-          47.3795611
-        ],
-        [
-          8.5309157,
-          47.3796298
-        ],
-        [
-          8.5307354,
-          47.3797311
-        ],
-        [
-          8.5306597,
-          47.3796265
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/29207267",
   "properties": {
     "id": "way/29207267"
@@ -10422,6 +10377,31 @@
     "coordinates": [
       8.5480809,
       47.3244424
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10570514549",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "5",
+    "addr:postcode": "8004",
+    "addr:street": "Gustav-Gull-Platz",
+    "alt_name": "Ambulantes Zentrum Europaallee; Ambulatorium Europaallee",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Stadtspital Zürich Europaallee",
+    "operator": "Stadtspital Zürich",
+    "phone": "+41 44 416 32 00",
+    "website": "https://www.stadt-zuerich.ch/site/europaallee/de/index.html",
+    "id": "node/10570514549"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5308675,
+      47.3796327
     ]
   }
 },

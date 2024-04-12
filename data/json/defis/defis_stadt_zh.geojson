@@ -5678,7 +5678,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5606606,
+      8.5606607,
       47.4162371
     ]
   }
@@ -6513,7 +6513,7 @@
     "check_date": "2022-12-14",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "fixme": "genau Lagebeschreibung und Zugangsinformationen  fehlen noch.",
+    "fixme": "genau Lagebeschreibung und Zugangsinformationen fehlen noch.",
     "indoor": "yes",
     "id": "node/9954854107"
   },
@@ -9923,7 +9923,7 @@
   "id": "node/10763310081",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Bei Firma Crealogix: Im 8. OG;Im 9. OG",
+    "defibrillator:location": "Bei Firma Crealogix im 9. OG",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -13729,6 +13729,30 @@
     "coordinates": [
       8.5512841,
       47.3706868
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11809690980",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Uetlibergstrasse 132",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "11",
+    "opening_hours": "Mo-Fr 08:30-16:30",
+    "operator": "private company",
+    "phone": "+41444610524",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11809690980"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5164589,
+      47.3606188
     ]
   }
 }

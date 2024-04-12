@@ -36165,6 +36165,7 @@
     "addr:postcode": "8404",
     "addr:street": "Römerstrasse",
     "amenity": "kindergarten",
+    "check_date": "2024-04-11",
     "name": "Kindertreff",
     "operator": "Kindertreff Winterthur GmbH",
     "operator:type": "private",

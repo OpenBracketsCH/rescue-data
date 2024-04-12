@@ -12568,6 +12568,22 @@
       47.4192155
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11810205560",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kita Busi",
+    "id": "node/11810205560"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5188827,
+      47.3402372
+    ]
+  }
 }
 ]
 }

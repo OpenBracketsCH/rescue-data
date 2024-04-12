@@ -39596,7 +39596,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5606606,
+      8.5606607,
       47.4162371
     ]
   }
@@ -44929,7 +44929,7 @@
     "check_date": "2022-12-14",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "fixme": "genau Lagebeschreibung und Zugangsinformationen  fehlen noch.",
+    "fixme": "genau Lagebeschreibung und Zugangsinformationen fehlen noch.",
     "indoor": "yes",
     "id": "node/9954854107"
   },
@@ -45054,13 +45054,13 @@
   "id": "node/9960949180",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Dienstgebäude",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Waffenplatz ZH-Reppischtal, Dienstgebäude",
+    "description": "Nicht öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Amt für Militär und Zivilschutz",
-    "phone": "+41 79 520 58 10",
+    "phone": "+41 58 484 44 22",
     "id": "node/9960949180"
   },
   "geometry": {
@@ -45076,13 +45076,13 @@
   "id": "node/9960949181",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Forsthaus",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Waffenplatz ZH-Reppischtal, Forsthaus",
+    "description": "Nicht öffentlich Zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Amt für Militär und Zivilschutz",
-    "phone": "+41 79 520 58 10",
+    "phone": "+41 58 484 44 22",
     "id": "node/9960949181"
   },
   "geometry": {
@@ -45098,13 +45098,13 @@
   "id": "node/9960949182",
   "properties": {
     "access": "no",
-    "defibrillator:location": "OKA",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Waffenplatz ZH-Reppischtal, OKA",
+    "description": "Nicht öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Amt für Militär und Zivilschutz",
-    "phone": "+41 79 520 58 10",
+    "phone": "+41 58 484 44 22",
     "id": "node/9960949182"
   },
   "geometry": {
@@ -45120,13 +45120,13 @@
   "id": "node/9960949183",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Kaserne E",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Kaserne Reppsichtal, Geb E",
+    "description": "Nicht öffenlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Amt für Militär und Zivilschutz",
-    "phone": "+41 79 520 58 10",
+    "phone": "+41 058 484 44 22",
     "id": "node/9960949183"
   },
   "geometry": {
@@ -45142,13 +45142,13 @@
   "id": "node/9960949184",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Kaserne A",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Kaserne Reppsichtal, Geb A",
+    "description": "Nicht öffentlich Zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Amt für Militär und Zivilschutz",
-    "phone": "+41 79 520 58 10",
+    "phone": "+41 58 484 44 22",
     "id": "node/9960949184"
   },
   "geometry": {
@@ -45164,13 +45164,13 @@
   "id": "node/9960949185",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Kaserne B",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Kaserne Reppsichtal, Geb",
+    "description": "Nicht öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Amt für Militär und Zivilschutz",
-    "phone": "+41 79 520 58 10",
+    "phone": "+41 58 484 44 22",
     "id": "node/9960949185"
   },
   "geometry": {
@@ -45186,13 +45186,13 @@
   "id": "node/9960949186",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Mehrzweckhalle",
+    "defibrillator:location": "Kaserne Reppsichtal, MZH",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Amt für Militär und Zivilschutz",
-    "phone": "+41 79 520 58 10",
+    "phone": "+41 58 484 44 22",
     "id": "node/9960949186"
   },
   "geometry": {
@@ -45208,13 +45208,13 @@
   "id": "node/9960949187",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Kaserne H2",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Kaserne Reppsichtal, Geb H",
+    "description": "nicht öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Amt für Militär und Zivilschutz",
-    "phone": "+41 79 520 58 10",
+    "phone": "+41 58 484 44 22",
     "id": "node/9960949187"
   },
   "geometry": {
@@ -50129,22 +50129,20 @@
   "id": "node/10272990609",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Tertianum Etzelblick, Gartenstrasse 17, 8805 Richterswil",
-    "description": "Haupteingang",
+    "defibrillator:location": "öffentlich zugänglich",
+    "description": "Haupteingang / Vorraum an Wand",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "0",
     "opening_hours": "24/7",
     "operator": "Altersheim Tertianum Etzelblick",
-    "phone": "+41 43 544 01 01",
     "id": "node/10272990609"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7085243,
-      47.2058255
+      8.7087854,
+      47.2057487
     ]
   }
 },
@@ -59454,7 +59452,7 @@
   "id": "node/10763310081",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Bei Firma Crealogix: Im 8. OG;Im 9. OG",
+    "defibrillator:location": "Bei Firma Crealogix im 9. OG",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -76072,6 +76070,142 @@
     "coordinates": [
       8.4463828,
       47.2779989
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11809608272",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Chrüzächer, Turnhalle",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "Eingangsbereich",
+    "opening_hours": "Mo-Fr 07:00-22:00",
+    "operator": "Gemeinde",
+    "id": "node/11809608272"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4732919,
+      47.4284123
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11809641172",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Ruggenacher 1",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "Lehrerzimmer",
+    "operator": "Gemeinde",
+    "id": "node/11809641172"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4663305,
+      47.4342373
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11809641370",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Ruggenacher 3, Trakt C",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "Eingang Turnhalle",
+    "operator": "Gemeinde",
+    "id": "node/11809641370"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4642724,
+      47.4357547
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11809670469",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "BZ Sonnhalde",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG, Gemeinschaftsraum",
+    "operator": "Gemeinde",
+    "id": "node/11809670469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4620663,
+      47.4525817
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11809690980",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Uetlibergstrasse 132",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "11",
+    "opening_hours": "Mo-Fr 08:30-16:30",
+    "operator": "private company",
+    "phone": "+41444610524",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11809690980"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5164589,
+      47.3606188
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11810431569",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Tiefgarage, Besucherzugang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "-1",
+    "opening_hours": "24/7",
+    "operator": "Eigentümergemeinschaft",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11810431569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.472921,
+      47.3343317
     ]
   }
 }
