@@ -81796,6 +81796,25 @@
       47.3713531
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11811939281",
+  "properties": {
+    "access": "customers",
+    "barrier": "gate",
+    "material": "wood",
+    "motor_vehicle": "no",
+    "wheelchair": "no",
+    "id": "node/11811939281"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.400827,
+      47.4035536
+    ]
+  }
 }
 ]
 }

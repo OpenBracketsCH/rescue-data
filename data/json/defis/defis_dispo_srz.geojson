@@ -67200,8 +67200,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "24/7",
-    "operator": "Kanton Zürich Strickhof ",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "operator": "Kanton Zürich Strickhof",
     "phone": "+41795444906",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/11210666237"
@@ -67209,8 +67209,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5361833,
-      47.1128486
+      8.5361772,
+      47.1130893
     ]
   }
 },
@@ -76206,6 +76206,146 @@
     "coordinates": [
       8.472921,
       47.3343317
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11811208069",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Platz Feldstrasse 13 /21",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Verwaltung ",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11811208069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4455649,
+      47.4031804
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11811219137",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Erdgeschoss, Friedbergstrasse 68",
+    "description": "nur während der Bürozeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 8:00-17:00",
+    "operator": "Letec IT Solutions AG",
+    "phone": "+41526324422",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11811219137"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6277813,
+      47.6970324
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11811221512",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Rheinweg 6, rechts neben Eingang",
+    "description": "nur während der Bürozeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 8:00-17:00",
+    "operator": "Letec IT Solutions AG",
+    "phone": "+41526324422",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11811221512"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6227602,
+      47.6919305
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11811526969",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Neuwies",
+    "description": "Jederzeit Verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Wald",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11811526969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9214724,
+      47.2746141
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11811584527",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Högler",
+    "description": "Direkt bei dem Eingang vom Gebäude Trackt B",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "EG - Eingang",
+    "opening_hours": "24/7",
+    "operator": "Schulhaus Högler",
+    "id": "node/11811584527"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6089485,
+      47.3938658
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11812245969",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "treppenhaus EG",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "Mo-Fr 07:00-17:00",
+    "operator": "Inauen Strassenbau Gutenswil",
+    "phone": "+41449451445",
+    "id": "node/11812245969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7168813,
+      47.3800608
     ]
   }
 }

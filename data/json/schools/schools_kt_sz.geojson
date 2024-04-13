@@ -3645,6 +3645,7 @@
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Ebnet",
+    "wheelchair": "yes",
     "id": "way/204636257"
   },
   "geometry": {

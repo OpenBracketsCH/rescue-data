@@ -13303,6 +13303,8 @@
   "properties": {
     "amenity": "childcare",
     "name": "Kita Busi",
+    "phone": "+41 44 341 15 15",
+    "website": "https://www.kita-buesi.ch/buesi-manegg-zh/",
     "id": "node/11810205560"
   },
   "geometry": {

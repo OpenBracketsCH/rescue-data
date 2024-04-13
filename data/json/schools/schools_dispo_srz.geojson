@@ -54318,8 +54318,20 @@
           47.3478769
         ],
         [
+          8.527222,
+          47.3479415
+        ],
+        [
           8.5274719,
           47.3481573
+        ],
+        [
+          8.5273195,
+          47.3482772
+        ],
+        [
+          8.5272853,
+          47.3483042
         ],
         [
           8.5271871,
@@ -63686,6 +63698,7 @@
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Ebnet",
+    "wheelchair": "yes",
     "id": "way/204636257"
   },
   "geometry": {
@@ -126945,6 +126958,7 @@
   "id": "node/4864766804",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-04-12",
     "name": "Schulhaus Letzi",
     "id": "node/4864766804"
   },
