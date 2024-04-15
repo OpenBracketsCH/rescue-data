@@ -42345,88 +42345,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/126532041",
-  "properties": {
-    "addr:city": "Dübendorf",
-    "addr:country": "CH",
-    "addr:housenumber": "18",
-    "addr:postcode": "8600",
-    "addr:street": "Untere Geerenstrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Wil",
-    "id": "way/126532041"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6158643,
-          47.3890665
-        ],
-        [
-          8.6158392,
-          47.3890471
-        ],
-        [
-          8.6159967,
-          47.3889518
-        ],
-        [
-          8.6159422,
-          47.3889094
-        ],
-        [
-          8.6159661,
-          47.3888953
-        ],
-        [
-          8.6158068,
-          47.3887724
-        ],
-        [
-          8.6159134,
-          47.3887086
-        ],
-        [
-          8.6160455,
-          47.3888113
-        ],
-        [
-          8.6160086,
-          47.3888339
-        ],
-        [
-          8.6161205,
-          47.3889221
-        ],
-        [
-          8.6160369,
-          47.3889726
-        ],
-        [
-          8.616214,
-          47.3891094
-        ],
-        [
-          8.6160327,
-          47.3892173
-        ],
-        [
-          8.6158499,
-          47.3890757
-        ],
-        [
-          8.6158643,
-          47.3890665
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/126895661",
   "properties": {
     "amenity": "school",
@@ -125323,6 +125241,118 @@
         [
           8.5220107,
           47.1770092
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1272465097",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:country": "CH",
+    "addr:housenumber": "18",
+    "addr:postcode": "8600",
+    "addr:street": "Untere Geerenstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Wil",
+    "id": "way/1272465097"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6159661,
+          47.3888953
+        ],
+        [
+          8.6158081,
+          47.3887725
+        ],
+        [
+          8.6159129,
+          47.3887107
+        ],
+        [
+          8.6160421,
+          47.3888111
+        ],
+        [
+          8.6160031,
+          47.3888341
+        ],
+        [
+          8.6160319,
+          47.3888565
+        ],
+        [
+          8.6159661,
+          47.3888953
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1272465100",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:country": "CH",
+    "addr:housenumber": "18",
+    "addr:postcode": "8600",
+    "addr:street": "Untere Geerenstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Wil",
+    "id": "way/1272465100"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6159638,
+          47.3889717
+        ],
+        [
+          8.6159894,
+          47.3889911
+        ],
+        [
+          8.616029,
+          47.388967
+        ],
+        [
+          8.6160366,
+          47.3889727
+        ],
+        [
+          8.6162145,
+          47.3891094
+        ],
+        [
+          8.6160326,
+          47.3892179
+        ],
+        [
+          8.6158473,
+          47.3890756
+        ],
+        [
+          8.6158628,
+          47.3890664
+        ],
+        [
+          8.6158375,
+          47.389047
+        ],
+        [
+          8.6159638,
+          47.3889717
         ]
       ]
     ]

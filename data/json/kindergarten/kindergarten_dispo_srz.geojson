@@ -46553,6 +46553,7 @@
   "id": "node/9497435460",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-04-14",
     "contact:city": "Zürich",
     "contact:housenumber": "37",
     "contact:phone": "+41 44 413 35 54",
@@ -46583,6 +46584,7 @@
     "addr:postcode": "8041",
     "addr:street": "Maneggstrasse",
     "amenity": "kindergarten",
+    "check_date": "2024-04-14",
     "name": "MURMELI HUUS Greencity Leimbach",
     "operator": "MURMELI HUUS Kindertagesstätten",
     "website": "https://murmeli-huus.ch/kinderkrippe-leimbach/",

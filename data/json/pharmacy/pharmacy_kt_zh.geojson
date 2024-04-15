@@ -6101,8 +6101,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4416088,
-      47.3999185
+      8.4415944,
+      47.399918
     ]
   }
 },
@@ -6486,6 +6486,7 @@
     "brand": "Coop Vitality",
     "healthcare": "pharmacy",
     "name": "Coop Vitality",
+    "opening_hours": "Mo-Sa 08:00-20:00; PH off",
     "operator": "Coop Vitality & GaleniCare",
     "website": "https://www.coopvitality.ch/de/coop-vitality-bachenbulach",
     "id": "node/7442531318"
@@ -6493,8 +6494,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5421947,
-      47.5058487
+      8.5424955,
+      47.5069492
     ]
   }
 },

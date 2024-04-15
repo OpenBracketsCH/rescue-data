@@ -34990,16 +34990,20 @@
           46.8008435
         ],
         [
-          7.1397547,
-          46.8003339
+          7.13968,
+          46.8003945
         ],
         [
-          7.1405694,
-          46.8003829
+          7.1397253,
+          46.8003876
         ],
         [
-          7.1405635,
-          46.8004101
+          7.1403751,
+          46.8004399
+        ],
+        [
+          7.1404631,
+          46.8004261
         ],
         [
           7.1405608,
@@ -55655,6 +55659,24 @@
     "coordinates": [
       6.6404632,
       46.7797027
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11816169507",
+  "properties": {
+    "alt_name": "Hopital Cantonal Fribourg HFR urgences notfall emergency spital hospital fribourg FR",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Urgences / Notfall",
+    "id": "node/11816169507"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1383068,
+      46.8020019
     ]
   }
 }

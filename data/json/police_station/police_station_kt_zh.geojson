@@ -2534,29 +2534,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4687822396",
-  "properties": {
-    "addr:city": "Männedorf",
-    "addr:housenumber": "6",
-    "addr:postcode": "8708",
-    "addr:street": "Saurenbachstrasse",
-    "alt_name": "KomPol Männedorf",
-    "amenity": "police",
-    "name": "Polizeiposten Stadtpolizei Männedorf",
-    "operator": "Stadt Männedorf",
-    "phone": "+41 44 921 66 44",
-    "id": "node/4687822396"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6975938,
-      47.2500668
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4869996378",
   "properties": {
     "addr:city": "Zürich",
