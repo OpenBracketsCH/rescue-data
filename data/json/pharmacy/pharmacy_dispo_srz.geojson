@@ -795,30 +795,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/282655583",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "4",
-    "addr:postcode": "8400",
-    "addr:street": "Steiggasse",
-    "amenity": "pharmacy",
-    "check_date": "2023-07-07",
-    "dispensing": "yes",
-    "name": "Steinberg-Apotheke",
-    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
-    "wheelchair": "yes",
-    "id": "node/282655583"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7280144,
-      47.4981044
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/287262549",
   "properties": {
     "addr:city": "Schwyz",
@@ -6366,6 +6342,7 @@
     "addr:street": "St. Peterstrasse",
     "amenity": "pharmacy",
     "brand": "Fortis",
+    "check_date": "2024-04-15",
     "check_date:opening_hours": "2022-05-04",
     "healthcare": "pharmacy",
     "name": "St. Peter Apotheke",
@@ -6653,6 +6630,7 @@
     "addr:postcode": "8001",
     "addr:street": "Pelikanstrasse",
     "amenity": "pharmacy",
+    "check_date": "2024-04-15",
     "check_date:opening_hours": "2021-06-09",
     "name": "Pelikan Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-17:00",
