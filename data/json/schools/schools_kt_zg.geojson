@@ -8619,27 +8619,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4901949922",
-  "properties": {
-    "addr:housenumber": "12",
-    "addr:postcode": "6343",
-    "addr:street": "Suurstoffi",
-    "amenity": "school",
-    "name": "Hochschule Luzern - Informatik",
-    "name:de": "Hochschule Luzern - Informatik",
-    "website": "https://www.hslu.ch/",
-    "id": "node/4901949922"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4357843,
-      47.1438738
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5152330922",
   "properties": {
     "addr:housenumber": "19",

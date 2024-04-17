@@ -61403,65 +61403,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/197080323",
-  "properties": {
-    "amenity": "school",
-    "id": "way/197080323"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6989946,
-          47.2511183
-        ],
-        [
-          8.6990994,
-          47.2510696
-        ],
-        [
-          8.6992463,
-          47.2510013
-        ],
-        [
-          8.6995304,
-          47.2508905
-        ],
-        [
-          8.6996214,
-          47.250855
-        ],
-        [
-          8.6999406,
-          47.2512432
-        ],
-        [
-          8.6999453,
-          47.2512489
-        ],
-        [
-          8.6991558,
-          47.2515938
-        ],
-        [
-          8.6989584,
-          47.2514077
-        ],
-        [
-          8.6991856,
-          47.2512972
-        ],
-        [
-          8.6989946,
-          47.2511183
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/197120820",
   "properties": {
     "amenity": "school",
@@ -72197,6 +72138,8 @@
   "id": "way/236632309",
   "properties": {
     "amenity": "school",
+    "name": "Schule Oetwil am See",
+    "website": "https://www.schule-oetwil.ch/",
     "id": "way/236632309"
   },
   "geometry": {
@@ -127085,27 +127028,6 @@
     "coordinates": [
       8.6473518,
       47.5152167
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4901949922",
-  "properties": {
-    "addr:housenumber": "12",
-    "addr:postcode": "6343",
-    "addr:street": "Suurstoffi",
-    "amenity": "school",
-    "name": "Hochschule Luzern - Informatik",
-    "name:de": "Hochschule Luzern - Informatik",
-    "website": "https://www.hslu.ch/",
-    "id": "node/4901949922"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4357843,
-      47.1438738
     ]
   }
 },
