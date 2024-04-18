@@ -895,94 +895,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/251525095",
-  "properties": {
-    "addr:city": "Unteriberg",
-    "addr:housenumber": "9c",
-    "addr:postcode": "8842",
-    "addr:street": "Waagtalstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "email": "info@aphybrig.ch",
-    "name": "Alters- und Pflegeheim Ybrig",
-    "phone": "+41(0)55 414 66 00",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "source": "bing;local knowledge",
-    "website": "https://www.aphybrig.ch/",
-    "wheelchair": "yes",
-    "id": "way/251525095"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.8033306,
-          47.0585533
-        ],
-        [
-          8.8026997,
-          47.0582261
-        ],
-        [
-          8.8027673,
-          47.0581656
-        ],
-        [
-          8.8025643,
-          47.0580603
-        ],
-        [
-          8.8024498,
-          47.0581628
-        ],
-        [
-          8.8022824,
-          47.058076
-        ],
-        [
-          8.8025501,
-          47.0578364
-        ],
-        [
-          8.8027142,
-          47.0579215
-        ],
-        [
-          8.8026186,
-          47.0580071
-        ],
-        [
-          8.8027155,
-          47.0580574
-        ],
-        [
-          8.8027759,
-          47.0580033
-        ],
-        [
-          8.8031423,
-          47.0581933
-        ],
-        [
-          8.8030635,
-          47.0582637
-        ],
-        [
-          8.8034375,
-          47.0584577
-        ],
-        [
-          8.8033306,
-          47.0585533
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/303065442",
   "properties": {
     "addr:city": "Lachen",
@@ -2450,6 +2362,75 @@
         [
           8.6164499,
           46.9987572
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1273269942",
+  "properties": {
+    "amenity": "social_facility",
+    "contact:city": "Unteriberg",
+    "contact:email": "info@aphybrig.ch",
+    "contact:housenumber": "9c",
+    "contact:phone": "+41 55 414 66 00",
+    "contact:postcode": "8842",
+    "contact:street": "Waagtalstrasse",
+    "contact:website": "https://www.aphybrig.ch/",
+    "email": "info@aphybrig.ch",
+    "name": "Alters- und Pflegeheim Ybrig",
+    "opening_hours": "Mo-Fr 07:30-16:30",
+    "phone": "+41(0)55 414 66 00",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.aphybrig.ch/",
+    "id": "way/1273269942"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8026251,
+          47.0577029
+        ],
+        [
+          8.8047263,
+          47.0589063
+        ],
+        [
+          8.8042123,
+          47.0589119
+        ],
+        [
+          8.8042094,
+          47.058843
+        ],
+        [
+          8.802857,
+          47.0588506
+        ],
+        [
+          8.8025378,
+          47.0581881
+        ],
+        [
+          8.802089,
+          47.0583009
+        ],
+        [
+          8.8019374,
+          47.0579172
+        ],
+        [
+          8.8022304,
+          47.0580026
+        ],
+        [
+          8.8026251,
+          47.0577029
         ]
       ]
     ]

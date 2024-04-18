@@ -276,48 +276,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/210722426",
-  "properties": {
-    "aeroway": "helipad",
-    "emergency": "landing_site",
-    "ref": "RICHSP",
-    "website": "https://www.helipad.org/app/default.asp?padId=33",
-    "id": "way/210722426"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6991569,
-          47.2083027
-        ],
-        [
-          8.6992484,
-          47.2082602
-        ],
-        [
-          8.6993133,
-          47.2083247
-        ],
-        [
-          8.6992318,
-          47.2083625
-        ],
-        [
-          8.6992218,
-          47.2083672
-        ],
-        [
-          8.6991569,
-          47.2083027
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/211928046",
   "properties": {
     "aeroway": "helipad",
