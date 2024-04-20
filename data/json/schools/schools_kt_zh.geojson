@@ -42651,6 +42651,7 @@
     "amenity": "school",
     "building": "school",
     "name": "Turnhalle",
+    "wikidata": "Q125524129",
     "id": "way/155956435"
   },
   "geometry": {
@@ -42870,6 +42871,7 @@
     "building": "school",
     "check_date": "2024-03-20",
     "name": "Fondli Trakt 1",
+    "wikidata": "Q125524129",
     "id": "way/156393987"
   },
   "geometry": {
@@ -42983,6 +42985,7 @@
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Fondli",
+    "wikidata": "Q125524129",
     "id": "way/156393990"
   },
   "geometry": {
@@ -43033,6 +43036,7 @@
     "building": "school",
     "check_date": "2024-03-20",
     "name": "Fondli Trakt 2",
+    "wikidata": "Q125524129",
     "id": "way/156393995"
   },
   "geometry": {

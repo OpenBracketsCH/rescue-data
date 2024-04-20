@@ -3546,6 +3546,7 @@
     "addr:street": "Aabachstrasse",
     "amenity": "school",
     "building": "yes",
+    "check_date": "2024-04-19",
     "name": "KBZ",
     "id": "way/151825845"
   },
