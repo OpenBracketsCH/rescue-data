@@ -1591,7 +1591,7 @@
     "addr:street": "Schaffhauserstrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
-    "check_date": "2024-01-07",
+    "check_date": "2024-04-20",
     "level": "0",
     "name": "Gesundhaus Falken Apotheke",
     "opening_hours": "Mo-Sa 08:00-20:00",
@@ -7995,9 +7995,10 @@
     "addr:postcode": "8091",
     "addr:street": "Spöndlistrasse",
     "amenity": "pharmacy",
-    "name": "Kantonsapotheke",
+    "name": "ZüriPharm AG",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:30-13:30",
     "operator": "Universitätsspital Zürich",
+    "phone": "044 255 85 30",
     "id": "node/8497598414"
   },
   "geometry": {

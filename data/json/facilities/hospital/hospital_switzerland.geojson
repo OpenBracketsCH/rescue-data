@@ -47995,6 +47995,7 @@
     "amenity": "clinic",
     "building": "yes",
     "healthcare": "clinic",
+    "name": "Centromedicl",
     "id": "way/1123960495"
   },
   "geometry": {
@@ -48559,6 +48560,7 @@
   "properties": {
     "amenity": "hospital",
     "healthcare": "hospital",
+    "name": "Klinik St.Pirminsberg",
     "id": "way/1273634561"
   },
   "geometry": {
@@ -55121,23 +55123,6 @@
     "coordinates": [
       8.5746791,
       47.3552798
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11028353062",
-  "properties": {
-    "amenity": "clinic",
-    "healthcare:speciality": "plastic_surgery",
-    "name": "Hair & Skin",
-    "id": "node/11028353062"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      9.5314892,
-      46.8508481
     ]
   }
 },
