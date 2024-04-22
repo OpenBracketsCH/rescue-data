@@ -33757,7 +33757,7 @@
   "id": "node/3862413835",
   "properties": {
     "barrier": "gate",
-    "locked:conditional": "no @ (Mo-Sa 06:00-20:30)",
+    "opening_hours": "Mo-Fr 07:00-17:00",
     "id": "node/3862413835"
   },
   "geometry": {
@@ -38912,8 +38912,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5831739,
-      47.2245704
+      8.5831865,
+      47.2245615
     ]
   }
 },
@@ -68393,7 +68393,7 @@
   "id": "node/10240734073",
   "properties": {
     "barrier": "gate",
-    "locked:conditional": "no @ (Mo-Sa 06:00-20:30)",
+    "opening_hours": "Mo-Fr 07:00-17:00",
     "id": "node/10240734073"
   },
   "geometry": {
