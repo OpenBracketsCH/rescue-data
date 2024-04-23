@@ -3507,6 +3507,7 @@
   "properties": {
     "amenity": "school",
     "building": "yes",
+    "check_date": "2024-04-23",
     "name": "Schule Holzhäusern",
     "id": "way/144073672"
   },

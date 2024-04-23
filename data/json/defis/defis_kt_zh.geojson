@@ -58927,6 +58927,151 @@
       47.24681
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11836801386",
+  "properties": {
+    "access": "yes",
+    "addr:housenumber": "230",
+    "addr:street": "Bassersdorferstrasse",
+    "defibrillator:location": "Werkstatt neben Office\n1407LTM",
+    "description": "Oranger Koffer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "name": "Bau Power Group AG",
+    "opening_hours": "Mo-Fr 07:30-17:00",
+    "operator": "Lifetec AG Schweiz",
+    "phone": "+41 800 122 144",
+    "ref": "1407LTM",
+    "id": "node/11836801386"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6031448,
+      47.4491972
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11837012369",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Gemeindehaus (Haupteingang)",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Seuzach, Abteilung Sicherheit, Stationsstrasse 1, 8472 Seuzach",
+    "phone": "+41 52 320 40 41",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11837012369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7305313,
+      47.5363699
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11837545269",
+  "properties": {
+    "defibrillator:location": "Feuerwehrgebäude",
+    "description": "während Bürozeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Feuerwehr Dielsdorf",
+    "phone": "+41448533805",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11837545269"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4599823,
+      47.4777282
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11837545270",
+  "properties": {
+    "defibrillator:location": "Gemeindehaus Dielsdorf, Eingangshalle links an der Wand",
+    "description": "während Öffungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeindeverwaltung Dielsdorf",
+    "phone": "+41448533805",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11837545270"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4523004,
+      47.4832716
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11837611069",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Bürogebäude Empfang",
+    "description": "während den Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "Thommen AG",
+    "phone": "+41448714545",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11837611069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4563767,
+      47.4467993
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11839050471",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bogenhangar",
+    "description": "Nur für Flughafen Mitarbeiter während Betrieb zugänglich, ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Su 05:00 - 23:00",
+    "operator": "Dnata Switzerland AG",
+    "phone": "+41438158450",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11839050471"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5673511,
+      47.4465707
+    ]
+  }
 }
 ]
 }

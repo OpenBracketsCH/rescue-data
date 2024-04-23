@@ -213,11 +213,12 @@
     "addr:housenumber": "7",
     "addr:postcode": "8706",
     "addr:street": "Bruechstrasse",
-    "alt_name": "Feuerwehr Meilen",
+    "alt_name": "Wache Meilen",
     "amenity": "fire_station",
     "building": "yes",
     "name": "Stützpunktfeuerwehr Meilen",
     "operator": "Gemeinde Meilen",
+    "reg_name": "Feuerwehr Meilen",
     "id": "way/24388711"
   },
   "geometry": {
@@ -356,6 +357,7 @@
     "addr:housenumber": "4",
     "addr:postcode": "8618",
     "addr:street": "Speerweg",
+    "alt_name": "Wache Oetwil am See",
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Oetwil am See",
@@ -3218,6 +3220,84 @@
 },
 {
   "type": "Feature",
+  "id": "way/169313793",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "125",
+    "addr:postcode": "8105",
+    "addr:street": "Riedthofstrasse",
+    "alt_name": "Wache Regensdorf",
+    "amenity": "fire_station",
+    "building": "apartments",
+    "name": "Feuerwehr Regensdorf",
+    "opening_hours": "24/7",
+    "phone": "+41 44 843 33 10",
+    "source": "knowledge",
+    "website": "https://lodur-zh.ch/regensdorf/",
+    "id": "way/169313793"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4641321,
+          47.4384794
+        ],
+        [
+          8.4637601,
+          47.4385236
+        ],
+        [
+          8.4637244,
+          47.4383862
+        ],
+        [
+          8.4637145,
+          47.438352
+        ],
+        [
+          8.4638955,
+          47.4383302
+        ],
+        [
+          8.4638787,
+          47.4382663
+        ],
+        [
+          8.4641312,
+          47.4382359
+        ],
+        [
+          8.4641441,
+          47.4382851
+        ],
+        [
+          8.4641321,
+          47.4382865
+        ],
+        [
+          8.4641487,
+          47.4383498
+        ],
+        [
+          8.4640992,
+          47.4383558
+        ],
+        [
+          8.4641277,
+          47.4384625
+        ],
+        [
+          8.4641321,
+          47.4384794
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/194305659",
   "properties": {
     "amenity": "fire_station",
@@ -5344,29 +5424,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/467522058",
-  "properties": {
-    "addr:housenumber": "125",
-    "addr:postcode": "8105",
-    "addr:street": "Riedthofstrasse",
-    "amenity": "fire_station",
-    "name": "Feuerwehr Regensdorf",
-    "opening_hours": "24/7",
-    "phone": "+41 44 843 33 10",
-    "source": "knowledge",
-    "website": "https://lodur-zh.ch/regensdorf/",
-    "id": "node/467522058"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4638419,
-      47.4384311
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/469240394",
   "properties": {
     "amenity": "fire_station",
@@ -5922,12 +5979,9 @@
   "type": "Feature",
   "id": "node/4867930570",
   "properties": {
-    "addr:city": "Steinmaur",
-    "addr:housenumber": "30",
-    "addr:postcode": "8162",
-    "addr:street": "Hauptstrasse",
+    "alt_name": "Wache Steinmaur",
     "amenity": "fire_station",
-    "operator": "Feuerwehr Banesto",
+    "name": "Feuerwehr Banesto",
     "id": "node/4867930570"
   },
   "geometry": {

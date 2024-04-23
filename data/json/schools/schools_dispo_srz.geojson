@@ -44799,6 +44799,7 @@
   "properties": {
     "amenity": "school",
     "building": "yes",
+    "check_date": "2024-04-23",
     "name": "Schule Holzhäusern",
     "id": "way/144073672"
   },
@@ -129321,8 +129322,8 @@
     "contact:street": "Stapferstrasse",
     "contact:website": "https://nsz.ch/",
     "isced:level": "3",
-    "name": "NEUE SCHULE ZÜRICH",
-    "operator": "NEUE SCHULE ZÜRICH",
+    "name": "Neue Schule Zürich",
+    "operator": "Neue Schule Zürich",
     "operator:type": "private",
     "id": "node/9717546279"
   },

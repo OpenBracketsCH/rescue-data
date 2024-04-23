@@ -10917,6 +10917,7 @@
   "id": "node/9532277096",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2024-04-22",
     "contact:city": "Zug",
     "contact:housenumber": "6/8",
     "contact:postcode": "6300",

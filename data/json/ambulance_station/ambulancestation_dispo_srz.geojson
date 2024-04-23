@@ -671,6 +671,7 @@
   "type": "Feature",
   "id": "node/7465975604",
   "properties": {
+    "alt_name": "Wache Dübendorf",
     "check_date": "2024-04-14",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Uster - Wache Dübendorf",

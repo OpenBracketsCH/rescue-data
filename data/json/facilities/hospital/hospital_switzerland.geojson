@@ -26022,6 +26022,7 @@
     "addr:housenumber": "5",
     "addr:street": "Avenue Jacob-Daniel Maillard",
     "amenity": "hospital",
+    "check_date": "2024-04-22",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "Hôpital de la Tour",
@@ -31777,6 +31778,7 @@
     "addr:postcode": "1000",
     "addr:street": "Chemin de Montétan",
     "amenity": "hospital",
+    "check_date": "2024-04-22",
     "healthcare": "hospital",
     "name": "Hopital de l'Enfance",
     "id": "way/675169918"
