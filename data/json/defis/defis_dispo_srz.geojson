@@ -71115,10 +71115,10 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "EG",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Securitas AG",
-    "phone": "+41589105858",
+    "phone": "+41 58 910 58 58",
     "id": "node/11510500871"
   },
   "geometry": {
@@ -76714,7 +76714,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "08:00-17:00",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
     "operator": "EFP AG",
     "phone": "+41 44 843 41 41",
     "source": "local_knowledge, defikarte.ch",
@@ -76966,6 +76966,98 @@
     "coordinates": [
       8.5673511,
       47.4465707
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11840701170",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "SNH Soziales Netz Bezirk Horgen",
+    "description": "Gebäude von 6 bis 20 Uhr offen (wochentags)",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1. OG",
+    "operator": "SNH",
+    "phone": "+41447181717",
+    "id": "node/11840701170"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6067227,
+      47.2569298
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11841326490",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Sporthalle Breite",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "Draussen",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Embrach",
+    "id": "node/11841326490"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5963874,
+      47.5038651
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11841326607",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Chliriethalle ",
+    "description": "07.00-12.00  13.00-16.00 Uhr",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Gemeinde Oberglatt",
+    "phone": "+41 43 497 62 12",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11841326607"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5177839,
+      47.4700158
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11841699890",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bei Garagentor",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Annen Holzbau AG",
+    "phone": "+41 41 859 10 10",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11841699890"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5427616,
+      47.0440706
     ]
   }
 }
