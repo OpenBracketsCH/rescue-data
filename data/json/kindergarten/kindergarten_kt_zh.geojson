@@ -31767,6 +31767,7 @@
     "building:levels": "2",
     "name": "Provisorium Kindergarten Schützenwiese",
     "operator": "Stadt Winterthur",
+    "roof:shape": "flat",
     "id": "way/1191768971"
   },
   "geometry": {

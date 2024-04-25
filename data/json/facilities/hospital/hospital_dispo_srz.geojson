@@ -13008,27 +13008,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9562163314",
-  "properties": {
-    "amenity": "clinic",
-    "email": "hello@viselio.com",
-    "level": "9",
-    "name": "Testcenter beim Radisson Blu",
-    "operator": "Viselio",
-    "phone": "+41 44 505 12 92",
-    "website": "https://www.viselio.com/zrh/",
-    "id": "node/9562163314"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5640781,
-      47.4526417
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9611423948",
   "properties": {
     "amenity": "clinic",

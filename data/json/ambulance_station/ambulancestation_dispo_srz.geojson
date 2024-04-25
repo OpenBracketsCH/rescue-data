@@ -378,6 +378,69 @@
 },
 {
   "type": "Feature",
+  "id": "way/368291218",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "183",
+    "addr:postcode": "8105",
+    "addr:street": "Riedthofstrasse",
+    "alt_name": "Wache Regensdorf",
+    "building": "service",
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Limmattal - Wache Regensdorf",
+    "operator": "Rettungsdienst Limmattal",
+    "id": "way/368291218"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4624265,
+          47.4391805
+        ],
+        [
+          8.4624904,
+          47.4392656
+        ],
+        [
+          8.4621014,
+          47.4393992
+        ],
+        [
+          8.462033,
+          47.4393081
+        ],
+        [
+          8.4619914,
+          47.4393224
+        ],
+        [
+          8.461913,
+          47.439218
+        ],
+        [
+          8.4620427,
+          47.4391735
+        ],
+        [
+          8.4622126,
+          47.4391857
+        ],
+        [
+          8.4622533,
+          47.43924
+        ],
+        [
+          8.4624265,
+          47.4391805
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/843565567",
   "properties": {
     "addr:city": "Lachen SZ",
@@ -688,28 +751,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7465975605",
-  "properties": {
-    "addr:city": "Regensdorf",
-    "addr:housenumber": "183",
-    "addr:postcode": "8105",
-    "addr:street": "Riedthofstrasse",
-    "emergency": "ambulance_station",
-    "name": "Rettungsdienst Limmattal - Wache Regensdorf",
-    "operator": "Rettungsdienst Limmattal",
-    "source": "local knowledge",
-    "id": "node/7465975605"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4621506,
-      47.4393164
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7465975608",
   "properties": {
     "emergency": "ambulance_station",
@@ -940,6 +981,27 @@
     "coordinates": [
       8.8430759,
       47.2596602
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11843241786",
+  "properties": {
+    "alt_name": "Wache MoPi",
+    "email": "info@mopi.ch",
+    "emergency": "ambulance_station",
+    "name": "MoPi",
+    "operator": "MoPi.ch AG",
+    "phone": "+41 80 014 43 65",
+    "website": "https://www.mopi.ch/",
+    "id": "node/11843241786"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5160027,
+      47.3879322
     ]
   }
 }

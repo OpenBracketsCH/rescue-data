@@ -13316,6 +13316,22 @@
       47.3402372
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11844907898",
+  "properties": {
+    "amenity": "childcare",
+    "name": "pop e poppa",
+    "id": "node/11844907898"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5486405,
+      47.403622
+    ]
+  }
 }
 ]
 }

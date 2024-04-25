@@ -2620,6 +2620,7 @@
     "maxspeed": "80",
     "oneway": "yes",
     "ref": "A1L",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/10621367"
   },
@@ -14393,6 +14394,7 @@
     "maxspeed": "80",
     "oneway": "yes",
     "ref": "A1L",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes",
     "tunnel:name": "Milchbucktunnel",

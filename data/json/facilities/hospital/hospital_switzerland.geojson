@@ -1037,247 +1037,6 @@
 },
 {
   "type": "Feature",
-  "id": "relation/9056474",
-  "properties": {
-    "amenity": "hospital",
-    "contact:phone": "+41 316322111",
-    "contact:website": "http://www.kinderkliniken.insel.ch/",
-    "emergency": "yes",
-    "healthcare": "hospital",
-    "healthcare:speciality": "paediatrics",
-    "name": "Julie-von-Jenner-Haus",
-    "old_name": "Kinderkliniken Inselspital",
-    "operator": "Insel Gruppe AG",
-    "type": "multipolygon",
-    "wikidata": "Q30254034",
-    "id": "relation/9056474"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.4255516,
-          46.946734
-        ],
-        [
-          7.4257911,
-          46.9465526
-        ],
-        [
-          7.4258703,
-          46.9466017
-        ],
-        [
-          7.4259303,
-          46.9465564
-        ],
-        [
-          7.4259737,
-          46.9465834
-        ],
-        [
-          7.4260099,
-          46.9466058
-        ],
-        [
-          7.4260689,
-          46.9465613
-        ],
-        [
-          7.4261552,
-          46.9466148
-        ],
-        [
-          7.4260961,
-          46.9466594
-        ],
-        [
-          7.4261687,
-          46.9467047
-        ],
-        [
-          7.4262891,
-          46.946614
-        ],
-        [
-          7.4263682,
-          46.9466636
-        ],
-        [
-          7.4264284,
-          46.9466182
-        ],
-        [
-          7.426594,
-          46.9467205
-        ],
-        [
-          7.4264742,
-          46.9468107
-        ],
-        [
-          7.4265535,
-          46.94686
-        ],
-        [
-          7.4264182,
-          46.9469624
-        ],
-        [
-          7.4263731,
-          46.9469965
-        ],
-        [
-          7.4264524,
-          46.9470457
-        ],
-        [
-          7.4264403,
-          46.947055
-        ],
-        [
-          7.4264935,
-          46.9470878
-        ],
-        [
-          7.4264673,
-          46.9471376
-        ],
-        [
-          7.4263922,
-          46.9470913
-        ],
-        [
-          7.4263347,
-          46.9471348
-        ],
-        [
-          7.4262945,
-          46.9471652
-        ],
-        [
-          7.4263619,
-          46.9472071
-        ],
-        [
-          7.426318,
-          46.9472469
-        ],
-        [
-          7.4262457,
-          46.947202
-        ],
-        [
-          7.4262219,
-          46.94722
-        ],
-        [
-          7.426147,
-          46.9472767
-        ],
-        [
-          7.4261032,
-          46.9472496
-        ],
-        [
-          7.4258939,
-          46.94712
-        ],
-        [
-          7.4257886,
-          46.9470543
-        ],
-        [
-          7.4257412,
-          46.9470246
-        ],
-        [
-          7.4258035,
-          46.9469805
-        ],
-        [
-          7.4257302,
-          46.9469357
-        ],
-        [
-          7.4255502,
-          46.9470714
-        ],
-        [
-          7.4254642,
-          46.947018
-        ],
-        [
-          7.4255239,
-          46.9469727
-        ],
-        [
-          7.4254512,
-          46.9469276
-        ],
-        [
-          7.4253914,
-          46.9469728
-        ],
-        [
-          7.4251964,
-          46.9468519
-        ],
-        [
-          7.4251533,
-          46.9468252
-        ],
-        [
-          7.4250931,
-          46.9468703
-        ],
-        [
-          7.4249025,
-          46.9467517
-        ],
-        [
-          7.4248866,
-          46.9467637
-        ],
-        [
-          7.4248326,
-          46.9467305
-        ],
-        [
-          7.4251544,
-          46.9464872
-        ],
-        [
-          7.4253249,
-          46.9465941
-        ],
-        [
-          7.4253995,
-          46.9466395
-        ],
-        [
-          7.4253394,
-          46.9466849
-        ],
-        [
-          7.4254118,
-          46.9467298
-        ],
-        [
-          7.4254718,
-          46.9466845
-        ],
-        [
-          7.4255516,
-          46.946734
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "relation/9065183",
   "properties": {
     "addr:city": "Affoltern am Albis",
@@ -44211,7 +43970,7 @@
     "addr:postcode": "4500",
     "addr:street": "Schöngrünstrasse",
     "amenity": "hospital",
-    "email": "info.bss@spital.so.ch",
+    "email": "nicola.jedvaj@helion.ch",
     "emergency": "yes",
     "fax": "+41 32 627 30 79",
     "healthcare": "hospital",
@@ -54007,27 +53766,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9562163314",
-  "properties": {
-    "amenity": "clinic",
-    "email": "hello@viselio.com",
-    "level": "9",
-    "name": "Testcenter beim Radisson Blu",
-    "operator": "Viselio",
-    "phone": "+41 44 505 12 92",
-    "website": "https://www.viselio.com/zrh/",
-    "id": "node/9562163314"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5640781,
-      47.4526417
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9566025272",
   "properties": {
     "addr:housenumber": "86",
@@ -55823,6 +55561,49 @@
     "coordinates": [
       7.1383068,
       46.8020019
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11845447220",
+  "properties": {
+    "amenity": "hospital",
+    "contact:phone": "+41 31 632 21 11",
+    "contact:website": "http://www.kinderkliniken.insel.ch/",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "paediatrics",
+    "name": "Kinderkliniken Inselspital",
+    "operator": "Insel Gruppe AG",
+    "wikidata": "Q30254034",
+    "id": "node/11845447220"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4259426,
+      46.9469004
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11846334610",
+  "properties": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "dental_oral_maxillo_facial_surgery",
+    "name": "Klinik für Mund-, Kiefer- und Gesichtschirurgie",
+    "phone": "+41 62 838 45 08",
+    "website": "https://www.ksa.ch/de/kantonsspital-aarau/aufenthalt-und-besuch/fachbereiche/mkg-mund-kiefer-gesichtschirurgie",
+    "id": "node/11846334610"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0588524,
+      47.3891398
     ]
   }
 }

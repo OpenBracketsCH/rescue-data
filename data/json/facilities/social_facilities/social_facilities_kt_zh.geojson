@@ -1961,10 +1961,12 @@
     "amenity": "social_facility",
     "building": "dormitory",
     "building:levels": "3",
+    "check_date": "2024-04-24",
     "name": "Wohnheim Heilsarmee",
     "operator": "Heilsarmee",
     "phone": "+41 52 208 90 50",
     "roof:levels": "2",
+    "roof:shape": "gabled",
     "social_facility": "assisted_living",
     "website": "https://www.heilsarmee.ch/standorte/wohnheim-winterthur",
     "id": "way/22814914"
@@ -21292,6 +21294,7 @@
   "id": "way/212711723",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2024-04-23",
     "name": "Alterssiedlung Winterberg",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
@@ -42935,6 +42938,7 @@
   "properties": {
     "access": "yes",
     "amenity": "social_facility",
+    "brand:wikipedia": "de:Foodsharing.de",
     "covered": "no",
     "fee": "no",
     "fridge": "yes",
@@ -42946,7 +42950,6 @@
     "operator": "gzoerlikon",
     "social_facility": "food_bank",
     "social_facility:for": "everyone",
-    "wikipedia": "de:Foodsharing.de",
     "id": "node/8152206418"
   },
   "geometry": {
