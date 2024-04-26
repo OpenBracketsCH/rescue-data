@@ -1732,6 +1732,68 @@
 },
 {
   "type": "Feature",
+  "id": "way/42731291",
+  "properties": {
+    "addr:city": "Bülach",
+    "addr:housenumber": "8",
+    "addr:postcode": "8180",
+    "addr:street": "Bannhaldenstrasse",
+    "amenity": "clinic",
+    "building": "yes",
+    "contact:email": "geburtshaus@spitalbuelach.ch",
+    "contact:phone": "+41 44 863 83 27",
+    "contact:website": "https://www.spitalbuelach.ch/geburtshaus",
+    "healthcare": "birthing_centre",
+    "name": "Geburtshaus Spital Bülach",
+    "operator": "Spital Bülach AG",
+    "id": "way/42731291"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5353373,
+          47.5226339
+        ],
+        [
+          8.5353638,
+          47.5225613
+        ],
+        [
+          8.5354974,
+          47.5225835
+        ],
+        [
+          8.5354713,
+          47.5226549
+        ],
+        [
+          8.5354282,
+          47.5226477
+        ],
+        [
+          8.5354237,
+          47.5226603
+        ],
+        [
+          8.5353538,
+          47.5226487
+        ],
+        [
+          8.535358,
+          47.5226374
+        ],
+        [
+          8.5353373,
+          47.5226339
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/46511032",
   "properties": {
     "addr:city": "Baar",
@@ -4258,6 +4320,89 @@
         [
           8.7186616,
           47.2702927
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/271325269",
+  "properties": {
+    "addr:city": "Bäretswil",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8344",
+    "addr:street": "Schürlistrasse",
+    "amenity": "clinic",
+    "building": "yes",
+    "email": "info@geburtshaus-zho.ch",
+    "healthcare": "birthing_centre",
+    "healthcare:speciality": "midwife",
+    "name": "Geburtshaus Zürcher Oberland",
+    "phone": "+41 44 939 99 00",
+    "website": "https://geburtshaus-zho.ch/",
+    "id": "way/271325269"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8471003,
+          47.3323545
+        ],
+        [
+          8.8472645,
+          47.332268
+        ],
+        [
+          8.8472757,
+          47.3322778
+        ],
+        [
+          8.8472968,
+          47.3322667
+        ],
+        [
+          8.8473426,
+          47.3323066
+        ],
+        [
+          8.8473229,
+          47.332317
+        ],
+        [
+          8.8473426,
+          47.3323343
+        ],
+        [
+          8.8473662,
+          47.3323219
+        ],
+        [
+          8.847414,
+          47.3323636
+        ],
+        [
+          8.8473918,
+          47.3323752
+        ],
+        [
+          8.8474044,
+          47.3323862
+        ],
+        [
+          8.8473179,
+          47.3324318
+        ],
+        [
+          8.8472375,
+          47.3324742
+        ],
+        [
+          8.8471003,
+          47.3323545
         ]
       ]
     ]
@@ -12379,22 +12524,21 @@
   "type": "Feature",
   "id": "node/6058029616",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "177",
-    "addr:postcode": "8003",
-    "addr:street": "Badenerstrasse",
     "alt_name": "Geburtshaus Delphis;Geburtshaus Delfys;Geburtshaus Delfis",
     "amenity": "clinic",
-    "email": "info@delphys.ch",
+    "contact:city": "Zürich",
+    "contact:email": "info@delphys.ch",
+    "contact:housenumber": "177",
+    "contact:phone": "+41 44 491 91 20",
+    "contact:postcode": "8003",
+    "contact:street": "Badenerstrasse",
+    "contact:website": "https://www.delphys.ch/",
     "healthcare": "birthing_centre",
     "image": "https://www.delphys.ch/assets/images/7/Logo-Startseite-032d1721.jpg",
     "level": "1;2",
     "name": "Geburtshaus Delphys",
     "operator": "Geburtshaus Delphys",
-    "phone": "+41 44 491 91 20",
     "short_name": "Delphys",
-    "website": "https://www.delphys.ch/",
     "id": "node/6058029616"
   },
   "geometry": {
@@ -13138,27 +13282,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9768060623",
-  "properties": {
-    "amenity": "clinic",
-    "email": "info@geburtshaus-zho.ch",
-    "healthcare": "birthing_centre",
-    "healthcare:speciality": "midwife",
-    "name": "Geburtshaus Zürcher Oberland",
-    "phone": "+41449399900",
-    "website": "https://geburtshaus-zho.ch/",
-    "id": "node/9768060623"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8472584,
-      47.3323461
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9789746388",
   "properties": {
     "addr:housenumber": "59",
@@ -13258,17 +13381,18 @@
   "type": "Feature",
   "id": "node/10570514549",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "5",
-    "addr:postcode": "8004",
-    "addr:street": "Gustav-Gull-Platz",
     "alt_name": "Ambulantes Zentrum Europaallee; Ambulatorium Europaallee",
     "amenity": "clinic",
+    "contact:city": "Zürich",
+    "contact:housenumber": "5",
+    "contact:phone": "+41 44 416 32 00",
+    "contact:postcode": "8004",
+    "contact:street": "Gustav-Gull-Platz",
+    "contact:website": "https://www.stadt-zuerich.ch/site/europaallee/de/index.html",
     "healthcare": "clinic",
     "name": "Stadtspital Zürich Europaallee",
+    "opening_hours": "Mo 07:30-16:00; Tu-Fr 07:30-17:00; We 07:30-15:45",
     "operator": "Stadtspital Zürich",
-    "phone": "+41 44 416 32 00",
-    "website": "https://www.stadt-zuerich.ch/site/europaallee/de/index.html",
     "id": "node/10570514549"
   },
   "geometry": {

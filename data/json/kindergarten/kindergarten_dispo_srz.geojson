@@ -34427,6 +34427,10 @@
           47.3788244
         ],
         [
+          8.5146851,
+          47.3790801
+        ],
+        [
           8.514871,
           47.3791791
         ],
@@ -42683,6 +42687,7 @@
   "id": "node/6624405843",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-04-25",
     "contact:city": "Zürich",
     "contact:housenumber": "195",
     "contact:phone": "+41 44 413 77 09",

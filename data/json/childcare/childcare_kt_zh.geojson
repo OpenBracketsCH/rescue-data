@@ -12603,6 +12603,22 @@
       47.403622
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11848146333",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Bambola",
+    "id": "node/11848146333"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5420566,
+      47.4095629
+    ]
+  }
 }
 ]
 }

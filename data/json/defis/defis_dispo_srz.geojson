@@ -26436,27 +26436,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8644261479",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Im Büro der Baugenossenschaft Zurlinden hat es am Empfang einen Defibrillator.",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-Fr 08:00-12:00",
-    "id": "node/8644261479"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4854581,
-      47.3755757
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8644298813",
   "properties": {
     "access": "yes",
@@ -77267,6 +77246,74 @@
     "coordinates": [
       8.6711328,
       47.4333605
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11846412369",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Kantonsschule Schwyz, Osteingang",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11846412369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6541152,
+      47.0242369
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11847153471",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Werkhof bei Garage",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Bäretswil",
+    "phone": "+41449391737",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11847153471"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8583064,
+      47.3335549
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11848321843",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Werkhalle",
+    "description": "eingeschränkt verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Firma",
+    "phone": "+41 44 787 81 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11848321843"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6874282,
+      47.1902812
     ]
   }
 }
