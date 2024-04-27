@@ -41152,6 +41152,7 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kidi Schloss",
+    "website": "https://www.kidischloss.ch/",
     "id": "node/4773368621"
   },
   "geometry": {

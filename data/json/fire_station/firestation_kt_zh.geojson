@@ -1742,6 +1742,7 @@
     "addr:street": "Bergstrasse",
     "amenity": "fire_station",
     "building": "yes",
+    "check_date": "2024-04-26",
     "name": "Gemeindepolizei und Feuerwehr",
     "id": "way/61540529"
   },

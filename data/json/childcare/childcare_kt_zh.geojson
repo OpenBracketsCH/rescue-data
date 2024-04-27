@@ -2166,6 +2166,64 @@
 },
 {
   "type": "Feature",
+  "id": "way/212429062",
+  "properties": {
+    "addr:housenumber": "9",
+    "addr:postcode": "8312",
+    "addr:street": "Eschikerstrasse",
+    "amenity": "childcare",
+    "building": "apartments",
+    "building:levels": "2",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
+    "id": "way/212429062"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6902488,
+          47.4555956
+        ],
+        [
+          8.6903594,
+          47.4555239
+        ],
+        [
+          8.6904891,
+          47.4556152
+        ],
+        [
+          8.6904514,
+          47.4556397
+        ],
+        [
+          8.6904588,
+          47.4556449
+        ],
+        [
+          8.6904191,
+          47.4556707
+        ],
+        [
+          8.6904116,
+          47.4556654
+        ],
+        [
+          8.6903784,
+          47.455687
+        ],
+        [
+          8.6902488,
+          47.4555956
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/232713453",
   "properties": {
     "addr:city": "Wetzikon",

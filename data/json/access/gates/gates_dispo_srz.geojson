@@ -4637,6 +4637,7 @@
     "access": "private",
     "barrier": "gate",
     "emergency": "no",
+    "locked": "yes",
     "id": "node/103117823"
   },
   "geometry": {
@@ -47102,8 +47103,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5443128,
-      47.3994514
+      8.5443132,
+      47.3994503
     ]
   }
 },
