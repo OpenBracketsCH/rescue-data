@@ -2228,6 +2228,7 @@
     "amenity": "childcare",
     "building": "apartments",
     "building:levels": "2",
+    "name": "Spielgruppe Winterberg",
     "roof:levels": "1",
     "roof:shape": "gabled",
     "id": "way/212429062"
@@ -9881,6 +9882,7 @@
   "id": "node/9360324752",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2024-04-26",
     "contact:city": "Zürich",
     "contact:housenumber": "27",
     "contact:phone": "+41 44 413 75 09",
@@ -9905,6 +9907,7 @@
   "id": "node/9360324753",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2024-04-28",
     "contact:city": "Zürich",
     "contact:housenumber": "618",
     "contact:phone": "+41 44 413 29 21",

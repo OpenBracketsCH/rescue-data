@@ -55730,6 +55730,23 @@
       47.3891398
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11853957446",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "arztpraxis rapperswil",
+    "id": "node/11853957446"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8269737,
+      47.2282769
+    ]
+  }
 }
 ]
 }
