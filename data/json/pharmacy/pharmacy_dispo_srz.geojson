@@ -3822,6 +3822,7 @@
     "addr:street": "Unterer Graben",
     "amenity": "pharmacy",
     "brand": "Achillea Apotheke",
+    "check_date:opening_hours": "2024-04-29",
     "name": "Rathaus Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
     "operator": "Dr. Bähler Dropa",

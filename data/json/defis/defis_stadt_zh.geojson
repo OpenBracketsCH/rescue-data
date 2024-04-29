@@ -13423,7 +13423,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-We 08:00-19:00 Th+Fr 08:00-20:00 Sa 09:00-17:00",
+    "opening_hours": "Mo-We 08:00-19:00, Th-Fr 08:00-20:00, Sa 09:00-17:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/11741399645"
@@ -13431,8 +13431,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5387067,
-      47.3751011
+      8.5385095,
+      47.3747534
     ]
   }
 },
@@ -14031,6 +14031,30 @@
     "coordinates": [
       8.5199092,
       47.3890738
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11862998970",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Praxis für Neurologie und Kopfschmerzen",
+    "description": "Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "2",
+    "operator": "Praxis",
+    "phone": "+41 79 296 49 79",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11862998970"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.538098,
+      47.3770498
     ]
   }
 }

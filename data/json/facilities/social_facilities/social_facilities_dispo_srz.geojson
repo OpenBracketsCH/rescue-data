@@ -5578,7 +5578,7 @@
     "addr:street": "Brandschenkestrasse",
     "alt_name": "Altersheim Residenz Zürich Enge",
     "amenity": "social_facility",
-    "building": "yes",
+    "building": "residential",
     "email": "enge@tertianum.ch",
     "name": "Tertianum Residenz Zürich Enge",
     "operator": "Tertianum - Beteiligungsgesellschaft Capvis",
@@ -5595,40 +5595,40 @@
     "coordinates": [
       [
         [
-          8.5264389,
-          47.3663705
+          8.5264376,
+          47.3663723
         ],
         [
-          8.5262976,
-          47.3663553
+          8.5263005,
+          47.3663574
         ],
         [
-          8.5261957,
-          47.3663443
+          8.5261941,
+          47.3663459
         ],
         [
-          8.5260016,
-          47.3663235
+          8.5260019,
+          47.3663251
         ],
         [
-          8.5260111,
-          47.3662829
+          8.5260116,
+          47.366284
         ],
         [
-          8.5260276,
-          47.3662126
+          8.5260284,
+          47.3662125
         ],
         [
-          8.5260461,
-          47.3661335
+          8.5260474,
+          47.3661322
         ],
         [
-          8.5264834,
-          47.3661805
+          8.5264831,
+          47.3661793
         ],
         [
-          8.5264389,
-          47.3663705
+          8.5264376,
+          47.3663723
         ]
       ]
     ]
@@ -28795,6 +28795,7 @@
     "addr:street": "Gründenstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-04-28",
     "email": "info@rhyhuus.ch",
     "name": "Rhyhuus Flurlingen",
     "operator": "Verein Rhyhuus Flurlingen",
