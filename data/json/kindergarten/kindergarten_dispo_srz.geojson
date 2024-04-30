@@ -37908,6 +37908,41 @@
 },
 {
   "type": "Feature",
+  "id": "way/1278338227",
+  "properties": {
+    "amenity": "kindergarten",
+    "id": "way/1278338227"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6723347,
+          47.5127519
+        ],
+        [
+          8.6724161,
+          47.5127158
+        ],
+        [
+          8.6724698,
+          47.512771
+        ],
+        [
+          8.6723884,
+          47.5128071
+        ],
+        [
+          8.6723347,
+          47.5127519
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",

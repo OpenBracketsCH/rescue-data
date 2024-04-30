@@ -57160,13 +57160,13 @@
   "type": "Feature",
   "id": "node/11745350249",
   "properties": {
-    "access": "während_schulbetrieb",
-    "defibrillator:location": "Schulpflege Horgen\nDorfstrasse 47\nTrakt A, Eingangsbereich\n1320LTM",
+    "access": "customers",
+    "defibrillator:location": "Schulpflege Horgen Dorfstrasse 47 Trakt A, Eingangsbereich 1320LTM",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "EG",
+    "level": "0",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/11745350249"
@@ -57183,13 +57183,13 @@
   "type": "Feature",
   "id": "node/11745382068",
   "properties": {
-    "access": "während_schulbetrieb",
-    "defibrillator:location": "Schulpflege Horgen\nMaurenmoosstrasse 1\nEingang Turnhalle\n1321LTM",
+    "access": "customers",
+    "defibrillator:location": "Schulpflege Horgen Maurenmoosstrasse 1 Eingang Turnhalle 1321LTM",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "EG",
+    "level": "0",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/11745382068"
@@ -59492,6 +59492,149 @@
     "coordinates": [
       8.538098,
       47.3770498
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11865656969",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haus der Zürcher Parlamente",
+    "description": "Während der Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "operator": "Parlamentsdienste Kanton Zürich",
+    "id": "node/11865656969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5154567,
+      47.3800713
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11865713769",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Hallenbad Kilchberg",
+    "description": "während den Öffnungszeiten erreichbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo.-Fr. 08.00-22.00\nSa.-So 08.00-18.00",
+    "operator": "Hallenbad Gemeinde Kilchberg ",
+    "phone": "+41447163090",
+    "id": "node/11865713769"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5390929,
+      47.319488
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11866236869",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "ipw Empfang Schlosstal",
+    "description": "während der Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "ipw",
+    "phone": "+4152 264 33 33",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11866236869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.684864,
+      47.5063234
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11866252469",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "im Eingangsbereich",
+    "description": "während der Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "ipw",
+    "phone": "+4152 264 33 33",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11866252469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5429913,
+      47.5189361
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11866260169",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "im Eingangsbereich",
+    "description": "während der Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "ipw",
+    "phone": "+4152 264 33 33",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11866260169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.717882,
+      47.5040187
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11866263369",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "im Eingangsbereich",
+    "description": "während der Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "ipw",
+    "phone": "+4152 264 33 33",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11866263369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.582747,
+      47.5251597
     ]
   }
 }
