@@ -6657,8 +6657,12 @@
   "type": "Feature",
   "id": "way/62093484",
   "properties": {
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
     "addr:housenumber": "130",
+    "addr:postcode": "8406",
     "addr:street": "Dättnauerstrasse",
+    "addr:suburb": "Dättnau",
     "amenity": "kindergarten",
     "building": "yes",
     "building:roof": "tile",
@@ -35284,6 +35288,7 @@
     "phone": "+41 52 317 04 76",
     "preschool": "yes",
     "website": "https://www.ps-ossingen.ch/",
+    "wheelchair": "no",
     "id": "node/3602025724"
   },
   "geometry": {

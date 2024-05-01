@@ -47044,7 +47044,7 @@
   "id": "way/1046465229",
   "properties": {
     "addr:city": "Basel",
-    "addr:housename": "33",
+    "addr:housenumber": "33",
     "addr:postcode": "4056",
     "addr:street": "Spitalstrasse",
     "amenity": "hospital",
@@ -52289,8 +52289,9 @@
   "properties": {
     "amenity": "clinic",
     "healthcare": "clinic",
-    "name": "ARUD Zentrum für Suchtmedizin",
+    "name": "Arud Zentrum für Suchtmedizin",
     "opening_hours": "Mo-Fr 08:00-17:00",
+    "website": "https://arud.ch/",
     "wheelchair": "yes",
     "id": "node/7044143562"
   },

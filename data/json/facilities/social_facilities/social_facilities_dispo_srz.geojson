@@ -34366,6 +34366,84 @@
 },
 {
   "type": "Feature",
+  "id": "way/385906351",
+  "properties": {
+    "addr:housenumber": "359",
+    "addr:street": "Limmattalstrasse",
+    "amenity": "social_facility",
+    "building": "residential",
+    "description": "Pflegezentrum Bombach, Haus B",
+    "name": "Gesundheitszentrum Bombach - Haus B",
+    "operator": "Gesundheitszentren für das Alter",
+    "operator:type": "public",
+    "owner": "Immobilien Stadt Zürich (IMMO)",
+    "roof:shape": "flat",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "way/385906351"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4847458,
+          47.4040308
+        ],
+        [
+          8.4846492,
+          47.4039581
+        ],
+        [
+          8.4847331,
+          47.4039043
+        ],
+        [
+          8.4847782,
+          47.4038672
+        ],
+        [
+          8.4847333,
+          47.4038196
+        ],
+        [
+          8.4846756,
+          47.4037623
+        ],
+        [
+          8.4843106,
+          47.4038819
+        ],
+        [
+          8.4842355,
+          47.4037761
+        ],
+        [
+          8.4849074,
+          47.4035129
+        ],
+        [
+          8.4851089,
+          47.4037272
+        ],
+        [
+          8.4851629,
+          47.4037031
+        ],
+        [
+          8.4852393,
+          47.4037825
+        ],
+        [
+          8.4847458,
+          47.4040308
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/398238825",
   "properties": {
     "addr:city": "Oberwil b. Zug",

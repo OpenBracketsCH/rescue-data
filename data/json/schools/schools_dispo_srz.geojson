@@ -90932,6 +90932,7 @@
     "amenity": "school",
     "check_date": "2024-03-04",
     "name": "Orenberg / Pünt",
+    "wheelchair": "yes",
     "id": "way/354486089"
   },
   "geometry": {
@@ -125924,7 +125925,9 @@
     "operator": "Primarschulgemeinde Ossingen",
     "operator:type": "public",
     "phone": "+41 52 317 15 45",
+    "toilets:wheelchair": "yes",
     "website": "https://www.ps-ossingen.ch/",
+    "wheelchair": "yes",
     "id": "node/3602025723"
   },
   "geometry": {
@@ -127081,6 +127084,7 @@
     "operator:type": "public",
     "phone": "+41 52 317 45 58",
     "website": "https://www.sekossingen.ch/",
+    "wheelchair": "yes",
     "id": "node/7049795616"
   },
   "geometry": {
