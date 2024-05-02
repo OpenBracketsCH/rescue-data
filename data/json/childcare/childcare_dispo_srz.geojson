@@ -5824,6 +5824,24 @@
 },
 {
   "type": "Feature",
+  "id": "node/5775184590",
+  "properties": {
+    "amenity": "childcare",
+    "check_date": "2024-05-01",
+    "name": "Krippe Krümel",
+    "wheelchair": "no",
+    "id": "node/5775184590"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5480622,
+      47.405867
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/5784735973",
   "properties": {
     "addr:city": "Opfikon",
