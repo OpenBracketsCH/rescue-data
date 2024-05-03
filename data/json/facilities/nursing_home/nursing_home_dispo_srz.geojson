@@ -29404,10 +29404,6 @@
   "type": "Feature",
   "id": "way/1181357934",
   "properties": {
-    "addr:city": "Dübendorf",
-    "addr:housenumber": "2",
-    "addr:postcode": "8600",
-    "addr:street": "Giessenplatz",
     "amenity": "social_facility",
     "building": "yes",
     "email": "giessenturm@tertianum.ch",
