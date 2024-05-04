@@ -4313,6 +4313,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/2522352706",
+  "properties": {
+    "addr:city": "Geroldswil",
+    "addr:housenumber": "27",
+    "addr:postcode": "8954",
+    "addr:street": "Huebwiesenstrasse",
+    "amenity": "childcare",
+    "name": "KiTa Stärneland",
+    "id": "node/2522352706"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4090011,
+      47.4219445
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2631271554",
   "properties": {
     "addr:city": "Zürich",

@@ -46527,6 +46527,30 @@
       47.3490167
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11876320413",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "17",
+    "addr:postcode": "8400",
+    "addr:street": "Pflanzschulstrasse",
+    "amenity": "social_facility",
+    "name": "Läbesruum",
+    "operator": "Läbesruum",
+    "operator:type": "private",
+    "social_facility": "workshop",
+    "website": "https://www.laebesruum.ch",
+    "id": "node/11876320413"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7401071,
+      47.4961443
+    ]
+  }
 }
 ]
 }

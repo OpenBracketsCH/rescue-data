@@ -4854,22 +4854,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2522352706",
-  "properties": {
-    "amenity": "pharmacy",
-    "name": "Locher",
-    "id": "node/2522352706"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4089961,
-      47.4219739
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2526218137",
   "properties": {
     "amenity": "pharmacy",
