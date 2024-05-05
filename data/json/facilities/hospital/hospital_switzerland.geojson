@@ -52224,6 +52224,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/6876017000",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "id": "node/6876017000"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6235898,
+      46.5197543
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6945957071",
   "properties": {
     "addr:housenumber": "5",
