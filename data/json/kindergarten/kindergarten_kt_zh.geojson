@@ -35803,6 +35803,7 @@
     "addr:postcode": "8404",
     "addr:street": "Hegistrasse",
     "amenity": "kindergarten",
+    "check_date": "2024-05-05",
     "name": "Betreuung Talwiesen",
     "id": "node/4122641599"
   },

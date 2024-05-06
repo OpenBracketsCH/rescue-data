@@ -7755,8 +7755,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7201759,
-      47.5223354
+      8.7201654,
+      47.5223492
     ]
   }
 },
@@ -7785,8 +7785,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7213188,
-      47.5214618
+      8.7213143,
+      47.5214683
     ]
   }
 },
@@ -80013,7 +80013,9 @@
   "type": "Feature",
   "id": "node/11592591456",
   "properties": {
+    "access": "private",
     "barrier": "gate",
+    "material": "metal",
     "id": "node/11592591456"
   },
   "geometry": {

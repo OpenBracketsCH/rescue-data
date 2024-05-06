@@ -52934,10 +52934,12 @@
     "addr:postcode": "8630",
     "addr:street": "Joweid Zentrum",
     "amenity": "social_facility",
+    "contact:pobox": "717",
+    "description": "Vormals Stiftung für Ganzheitliche Betreuung",
     "email": "info@sfgb.ch",
-    "name": "Stiftung für Ganzheitliche Betreuung",
+    "name": "Vivazzo Stiftung",
     "phone": "+41 55 251 04 00",
-    "website": "https://www.joweid.ch/mieter/stiftung-fur-ganzheitliche-betreuung",
+    "website": "https://vivazzo.ch/",
     "id": "node/8570776670"
   },
   "geometry": {
