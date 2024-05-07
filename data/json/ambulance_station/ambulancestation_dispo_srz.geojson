@@ -387,7 +387,7 @@
     "alt_name": "Wache Regensdorf",
     "building": "service",
     "emergency": "ambulance_station",
-    "name": "Rettungsdienst Limmattal - Wache Regensdorf",
+    "name": "Rettungsdienst Limmattal",
     "operator": "Rettungsdienst Limmattal",
     "id": "way/368291218"
   },
@@ -611,6 +611,7 @@
     "addr:housenumber": "7",
     "addr:postcode": "8706",
     "addr:street": "Bruechstrasse",
+    "alt_name": "Wache Meilen",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Spital Männedorf AG",
     "id": "node/4592367996"
@@ -716,9 +717,10 @@
   "type": "Feature",
   "id": "node/7463260938",
   "properties": {
-    "alt_name": "Wache RD Schwyz;Wache RD MediTrans GmbH",
+    "alt_name": "Wache RD Schwyz",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Schwyz",
+    "old_name": "Wache RD MediTrans GmbH",
     "operator": "Rettungsdienst Schwyz",
     "id": "node/7463260938"
   },
@@ -753,8 +755,9 @@
   "type": "Feature",
   "id": "node/7465975608",
   "properties": {
+    "alt_name": "Wache Oetwil am See",
     "emergency": "ambulance_station",
-    "name": "Rettungsdienst Männedorf - Wache Oetwil am See",
+    "name": "Rettungsdienst Männedorf",
     "operator": "Rettungsdienst Spital Uster",
     "id": "node/7465975608"
   },
@@ -791,9 +794,10 @@
   "type": "Feature",
   "id": "node/8227050913",
   "properties": {
+    "alt_name": "Wache Kilchberg",
     "emergency": "ambulance_station",
-    "name": "Rettungsdienst Horgen - Wache Kilchberg",
-    "operator": "Rettungsdienst Horgen",
+    "name": "Rettungsdienst Horgen",
+    "operator": "See-Spital",
     "id": "node/8227050913"
   },
   "geometry": {

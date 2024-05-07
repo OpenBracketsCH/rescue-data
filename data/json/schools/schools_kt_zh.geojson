@@ -79818,20 +79818,20 @@
           47.3891954
         ],
         [
-          8.5133302,
-          47.3892578
+          8.5133249,
+          47.3892622
         ],
         [
-          8.5129629,
-          47.3887379
+          8.5129565,
+          47.3887364
         ],
         [
-          8.5133878,
-          47.388599
+          8.5133316,
+          47.3886232
         ],
         [
-          8.5138907,
-          47.3883851
+          8.513916,
+          47.3883831
         ],
         [
           8.5146119,
@@ -101106,9 +101106,11 @@
     "contact:postcode": "8027",
     "contact:street": "Bederstrasse",
     "contact:website": "https://www.raeberschule.ch/raeberschule",
+    "level": "2",
     "name": "Dr. Raebers Höhere Handelsschule",
-    "operator": "Inh. O. Wolz Sprachschule St. Annahof",
+    "operator": "Raeber Education AG",
     "operator:type": "private",
+    "website": "https://www.raeberschule.ch/",
     "id": "node/9697522215"
   },
   "geometry": {

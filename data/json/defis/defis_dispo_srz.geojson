@@ -13683,7 +13683,7 @@
   "id": "node/7930654680",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Schulhaus Herti, Fassade Seiteneingang",
+    "defibrillator:location": "Schulhaus Herti, Eichwaldstrasse 19 (Pavillon A, Eingang)",
     "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -13696,8 +13696,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5040279,
-      47.1814862
+      8.504339,
+      47.1824433
     ]
   }
 },
@@ -20189,6 +20189,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "id": "node/8494549157"
   },
   "geometry": {
@@ -23538,6 +23539,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "1",
     "opening_hours": "24/7",
     "operator": "Genossenschaft Migros Zürich, Adrian Eigenmann (Verantwortlich für die Betriebssanität Areal",
     "phone": "+41 58 561 51 11",
@@ -68354,29 +68356,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11281303370",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "FW Gebäude, neben Eingang zum Gebäude",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "level": "0",
-    "operator": "FW VOR, Gemeinde Lohn",
-    "phone": "+41526494749",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/11281303370"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6661392,
-      47.754734
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11281390446",
   "properties": {
     "emergency": "defibrillator",
@@ -73653,16 +73632,17 @@
   "id": "node/11716085268",
   "properties": {
     "access": "permit",
-    "defibrillator:location": "5. OG Empfang\n1183LTM",
+    "defibrillator:location": "Büro Empfang im 6. OG. Linkeseite Backoffice unter einen Regal\n1183LTM",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "5.OG",
+    "level": "6.og",
     "name": "CMS von Erlach Partners AG",
     "opening_hours": "Mo-Fr 08:00-19:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
+    "ref": "1183LTM",
     "id": "node/11716085268"
   },
   "geometry": {
@@ -77767,6 +77747,129 @@
     "coordinates": [
       8.731285,
       47.4972675
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11882992826",
+  "properties": {
+    "access": "private",
+    "addr:housenumber": "30",
+    "addr:street": "Zugerstrasse",
+    "defibrillator:location": "Werkstatt bei Brandmeldeanlage\n1366ltm",
+    "description": "Oranger Koffer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "name": "Gysi AG",
+    "opening_hours": "Mo-Do 07:00–12:00, 13:00–17:00; Fr 07:00–12:00, 13:00–16:00",
+    "operator": "Lifetec AG Schweiz",
+    "phone": "+14800 122 144",
+    "ref": "1366LTM",
+    "id": "node/11882992826"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5219258,
+      47.189956
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11883197569",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Feuerwehrgebäude",
+    "description": "24/7",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeindeverwaltung Dielsdorf",
+    "phone": "+41448533805",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11883197569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4599662,
+      47.4777427
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11883826670",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Gemeindehaus Dielsdorf, Haupteingang",
+    "description": "24/7",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeindeverwaltung Dielsdorf",
+    "phone": "+41448533805",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11883826670"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.452338,
+      47.4832462
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11884829669",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Büelstrasse 46, 8143 Stallikon",
+    "description": "Bei Anwesenheit verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7 ",
+    "operator": "Privatperson",
+    "phone": "+ 41 794113334",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11884829669"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4831566,
+      47.3448569
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11884962169",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Artherstrasse, Clubhaus TCK",
+    "description": "Immer zugänglich, neben dem Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "operator": "TC Küssnacht",
+    "phone": "+41 41 850 20 22",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11884962169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.449173,
+      47.0893187
     ]
   }
 }

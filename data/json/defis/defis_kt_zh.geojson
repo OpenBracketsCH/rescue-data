@@ -11907,6 +11907,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "id": "node/8494549157"
   },
   "geometry": {
@@ -15012,6 +15013,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "1",
     "opening_hours": "24/7",
     "operator": "Genossenschaft Migros Zürich, Adrian Eigenmann (Verantwortlich für die Betriebssanität Areal",
     "phone": "+41 58 561 51 11",
@@ -56210,16 +56212,17 @@
   "id": "node/11716085268",
   "properties": {
     "access": "permit",
-    "defibrillator:location": "5. OG Empfang\n1183LTM",
+    "defibrillator:location": "Büro Empfang im 6. OG. Linkeseite Backoffice unter einen Regal\n1183LTM",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "5.OG",
+    "level": "6.og",
     "name": "CMS von Erlach Partners AG",
     "opening_hours": "Mo-Fr 08:00-19:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
+    "ref": "1183LTM",
     "id": "node/11716085268"
   },
   "geometry": {
@@ -59760,6 +59763,78 @@
     "coordinates": [
       8.731285,
       47.4972675
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11883197569",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Feuerwehrgebäude",
+    "description": "24/7",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeindeverwaltung Dielsdorf",
+    "phone": "+41448533805",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11883197569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4599662,
+      47.4777427
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11883826670",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Gemeindehaus Dielsdorf, Haupteingang",
+    "description": "24/7",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeindeverwaltung Dielsdorf",
+    "phone": "+41448533805",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11883826670"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.452338,
+      47.4832462
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11884829669",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Büelstrasse 46, 8143 Stallikon",
+    "description": "Bei Anwesenheit verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7 ",
+    "operator": "Privatperson",
+    "phone": "+ 41 794113334",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11884829669"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4831566,
+      47.3448569
     ]
   }
 }
