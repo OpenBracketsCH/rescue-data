@@ -146,6 +146,7 @@
     "building:colour": "brown",
     "building:levels": "1",
     "building:use": "education",
+    "check_date": "2024-05-07",
     "name": "Kindergarten Altgasse",
     "nohousenumber": "yes",
     "operator": "Schulen Baar",
