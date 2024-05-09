@@ -22817,7 +22817,8 @@
   "type": "Feature",
   "id": "node/2082550436",
   "properties": {
-    "barrier": "gate",
+    "barrier": "lift_gate",
+    "lift_gate:type": "single",
     "id": "node/2082550436"
   },
   "geometry": {
@@ -61275,6 +61276,7 @@
   "properties": {
     "access": "private",
     "barrier": "gate",
+    "material": "metal",
     "id": "node/7308571110"
   },
   "geometry": {
@@ -61289,7 +61291,9 @@
   "type": "Feature",
   "id": "node/7308571116",
   "properties": {
+    "access": "private",
     "barrier": "gate",
+    "material": "metal",
     "id": "node/7308571116"
   },
   "geometry": {
@@ -61306,6 +61310,7 @@
   "properties": {
     "access": "private",
     "barrier": "gate",
+    "material": "wood",
     "id": "node/7308571118"
   },
   "geometry": {
