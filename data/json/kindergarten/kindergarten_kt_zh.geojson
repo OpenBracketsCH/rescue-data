@@ -24007,16 +24007,12 @@
     "coordinates": [
       [
         [
-          8.7024885,
-          47.4737075
+          8.701811,
+          47.4733458
         ],
         [
-          8.7018257,
-          47.4737194
-        ],
-        [
-          8.701808,
-          47.4732696
+          8.7019064,
+          47.4732678
         ],
         [
           8.7024708,
@@ -24025,6 +24021,14 @@
         [
           8.7024885,
           47.4737075
+        ],
+        [
+          8.7018257,
+          47.4737194
+        ],
+        [
+          8.701811,
+          47.4733458
         ]
       ]
     ]
@@ -41801,9 +41805,11 @@
   "type": "Feature",
   "id": "node/9529165916",
   "properties": {
+    "alt_name": "Güxi Kinderhort Albisriederplatz",
     "amenity": "kindergarten",
+    "branch": "Zürich Albisriederplatz",
     "email": "kontakt@guexi.ch",
-    "name": "Güxi Kinderkrippe Albisriederplatz",
+    "name": "Güxi Kinderhort",
     "operator": "Güxi Kinderkrippen",
     "phone": "+41 43 266 62 62",
     "website": "https://www.guexi.ch/de/standorte",
@@ -41812,8 +41818,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5108122,
-      47.3783982
+      8.5108051,
+      47.3784175
     ]
   }
 },
@@ -41901,9 +41907,12 @@
   "type": "Feature",
   "id": "node/9529440135",
   "properties": {
+    "alt_name": "Güxi Kinderkrippe Albisriederplatz West",
     "amenity": "kindergarten",
+    "branch": "Zürich Albisriederplatz West",
     "email": "kontakt@guexi.ch",
-    "name": "Güxi Kinderkrippe ZH-Albisriederplatz West Kreis 4",
+    "name": "Güxi Kinderkrippe",
+    "opening_hours": "Mo-Fr 06:30-18:00; PH off",
     "operator": "Güxi Kinderkrippen",
     "phone": "+41 43 266 62 62",
     "website": "https://www.guexi.ch/de/standorte",
@@ -41912,8 +41921,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.507053,
-      47.3799835
+      8.5070436,
+      47.3799714
     ]
   }
 },
