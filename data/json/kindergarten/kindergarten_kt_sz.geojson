@@ -715,6 +715,51 @@
 },
 {
   "type": "Feature",
+  "id": "way/209562676",
+  "properties": {
+    "addr:housenumber": "3",
+    "addr:street": "Stationsweg",
+    "amenity": "kindergarten",
+    "building": "house",
+    "building:levels": "2",
+    "email": "info@kita-aladin.ch",
+    "name": "Kita Aladin",
+    "opening_hours": "Mo-Fr 06:30-18:30; PH off",
+    "phone": "+41 77 5223194;+41 55 4601085",
+    "roof:shape": "gabled",
+    "website": "https://kita-aladin-siebnen.ch",
+    "id": "way/209562676"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.902255,
+          47.1823699
+        ],
+        [
+          8.9024202,
+          47.1823686
+        ],
+        [
+          8.9024217,
+          47.1824589
+        ],
+        [
+          8.9022565,
+          47.1824603
+        ],
+        [
+          8.902255,
+          47.1823699
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/397729693",
   "properties": {
     "addr:city": "Tuggen",
