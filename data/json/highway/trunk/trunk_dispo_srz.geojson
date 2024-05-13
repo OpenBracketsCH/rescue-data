@@ -17686,6 +17686,7 @@
     "lanes": "3",
     "lanes:backward": "2",
     "lanes:forward": "1",
+    "maxspeed": "100",
     "maxspeed:backward": "80",
     "maxspeed:forward": "100",
     "maxspeed:variable": "yes",
@@ -17732,6 +17733,7 @@
     "lanes": "4",
     "lanes:backward": "2",
     "lanes:forward": "2",
+    "maxspeed": "100",
     "maxspeed:backward": "80",
     "maxspeed:forward": "100",
     "maxspeed:variable": "yes",
@@ -17749,6 +17751,10 @@
       [
         8.6226799,
         47.0001324
+      ],
+      [
+        8.6226867,
+        47.0003222
       ],
       [
         8.6226891,
@@ -17796,7 +17802,7 @@
     "highway": "trunk",
     "int_ref": "E 41",
     "lanes": "2",
-    "maxspeed": "80",
+    "maxspeed": "100",
     "maxspeed:variable": "yes",
     "oneway": "no",
     "ref": "A4",
@@ -20301,6 +20307,10 @@
       [
         8.6221919,
         47.0022159
+      ],
+      [
+        8.622112,
+        47.0023475
       ],
       [
         8.6220524,
