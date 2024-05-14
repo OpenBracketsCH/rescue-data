@@ -3,6 +3,71 @@
 "features": [
 {
   "type": "Feature",
+  "id": "way/1161312515",
+  "properties": {
+    "activation": "blackout;phone_breakdown;evacuation",
+    "addr:housenumber": "4",
+    "addr:postcode": "8192",
+    "addr:street": "Sportweg",
+    "building": "yes",
+    "contact:city": "Glattfelden",
+    "contact:country": "CH",
+    "contact:housenumber": "4",
+    "contact:postcode": "8192",
+    "contact:street": "Sportweg",
+    "emergency": "disaster_help_point",
+    "name": "Mehrzweckhalle \"Eichhölzli\"",
+    "operator": "RFO/GFO Kanton Zürich",
+    "source": "https://www.zh.ch/de/sicherheit-justiz/bevoelkerungsschutz/notfalltreffpunkte.html",
+    "temporary": "yes",
+    "id": "way/1161312515"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5055712,
+          47.5535962
+        ],
+        [
+          8.505627,
+          47.5535721
+        ],
+        [
+          8.5057568,
+          47.553515
+        ],
+        [
+          8.5057657,
+          47.5535242
+        ],
+        [
+          8.5058624,
+          47.5534816
+        ],
+        [
+          8.5060415,
+          47.553667
+        ],
+        [
+          8.5061314,
+          47.5537591
+        ],
+        [
+          8.5058516,
+          47.5538835
+        ],
+        [
+          8.5055712,
+          47.5535962
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9417226658",
   "properties": {
     "activation": "blackout;phone_breakdown;evacuation",
@@ -5337,31 +5402,6 @@
     "coordinates": [
       8.6012255,
       47.3829221
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9417237773",
-  "properties": {
-    "activation": "blackout;phone_breakdown;evacuation",
-    "contact:city": "Glattfelden",
-    "contact:country": "CH",
-    "contact:housenumber": "4",
-    "contact:postcode": "8192",
-    "contact:street": "Sportweg",
-    "emergency": "disaster_help_point",
-    "name": "Mehrzweckhalle \"Eichhölzli\"",
-    "operator": "RFO/GFO Kanton Zürich",
-    "source": "https://www.zh.ch/de/sicherheit-justiz/bevoelkerungsschutz/notfalltreffpunkte.html",
-    "temporary": "yes",
-    "id": "node/9417237773"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5060441,
-      47.5536718
     ]
   }
 },

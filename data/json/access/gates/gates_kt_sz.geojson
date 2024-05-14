@@ -6541,6 +6541,23 @@
       47.1743383
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11901228056",
+  "properties": {
+    "access": "private",
+    "barrier": "lift_gate",
+    "foot": "no",
+    "id": "node/11901228056"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6896853,
+      46.9913845
+    ]
+  }
 }
 ]
 }

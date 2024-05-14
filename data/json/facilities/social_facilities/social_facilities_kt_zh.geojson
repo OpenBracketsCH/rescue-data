@@ -540,7 +540,7 @@
     "building": "yes",
     "capacity": "134",
     "name": "Durchgangszentrum Volketswil",
-    "operator": "AOZ",
+    "operator": "AOZ, Asylorganisation Zürich",
     "phone": "+41 43 204 30 20",
     "short_name": "DZ Volketswil",
     "social_facility": "shelter",
@@ -2589,6 +2589,85 @@
 },
 {
   "type": "Feature",
+  "id": "way/25636848",
+  "properties": {
+    "addr:city": "Richterswil",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "8805",
+    "addr:street": "Bergstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "contact:website": "https://www.richterswil.ch/aktuellesinformationen/1482811",
+    "name": "Durchgangszentrum KZU Richterswil",
+    "old_name": "Paraceisus Spital",
+    "short_name": "DZ KZU Richterswil",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
+    "id": "way/25636848"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6996977,
+          47.2075117
+        ],
+        [
+          8.7001676,
+          47.2080589
+        ],
+        [
+          8.7000148,
+          47.2081195
+        ],
+        [
+          8.6998837,
+          47.2079668
+        ],
+        [
+          8.6996767,
+          47.2080489
+        ],
+        [
+          8.6996265,
+          47.2079905
+        ],
+        [
+          8.6996635,
+          47.2079758
+        ],
+        [
+          8.6996462,
+          47.2079556
+        ],
+        [
+          8.6996566,
+          47.2079516
+        ],
+        [
+          8.6996033,
+          47.2078895
+        ],
+        [
+          8.6997548,
+          47.2078295
+        ],
+        [
+          8.6995366,
+          47.2075755
+        ],
+        [
+          8.6996977,
+          47.2075117
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/25812119",
   "properties": {
     "addr:city": "Männedorf",
@@ -3488,9 +3567,11 @@
     "addr:housenumber": "29",
     "addr:postcode": "8004",
     "addr:street": "Kasernenstrasse",
+    "alt_name": "MNA Zentrum Polizeikaserne",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Durchgangszentrum Polizeikaserne",
+    "operator": "AOZ, Asylorganisation Zürich",
     "short_name": "DZ Pollizeikaserne",
     "social_facility": "shelter",
     "social_facility:for": "refugee",
@@ -6344,10 +6425,12 @@
     "addr:housenumber": "401.1",
     "addr:postcode": "8153",
     "addr:street": "Rohrstrasse",
+    "alt_name": "Rückkehrzentren Rohr",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Asylantenunterkunft 1",
     "ref": "U13",
+    "short_name": "RZ Rohr",
     "social_facility": "shelter",
     "id": "way/43483867"
   },
@@ -6403,10 +6486,12 @@
     "addr:housenumber": "401",
     "addr:postcode": "8153",
     "addr:street": "Rohrstrasse",
+    "alt_name": "Rückkehrzentren Rohr",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Asylantenunterkunft 2",
     "ref": "U14",
+    "short_name": "RZ Rohr",
     "social_facility": "shelter",
     "id": "way/43483868"
   },
@@ -6482,10 +6567,12 @@
     "addr:housenumber": "401.2",
     "addr:postcode": "8153",
     "addr:street": "Rohrstrasse",
+    "alt_name": "Rückkehrzentren Rohr",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Asylantenunterkunft 3",
     "ref": "U16",
+    "short_name": "RZ Rohr",
     "social_facility": "shelter",
     "id": "way/43483869"
   },
@@ -8066,6 +8153,77 @@
         [
           8.4751599,
           47.389596
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/52405781",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "660",
+    "addr:postcode": "8055",
+    "addr:street": "Birmensdorferstrasse",
+    "alt_name": "MNA Aussenstelle Albisrieden",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "contact:phone": "+41 79 506 00 20",
+    "contact:website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/mje/Standorte-und-Kontakte.html",
+    "name": "MNA-Wohngruppe Albisrieden",
+    "operator": "AOZ, Asylorganisation Zürich",
+    "social_facility": "group_home",
+    "id": "way/52405781"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4833024,
+          47.3688961
+        ],
+        [
+          8.4832808,
+          47.3688655
+        ],
+        [
+          8.4832763,
+          47.3688664
+        ],
+        [
+          8.4832265,
+          47.3688012
+        ],
+        [
+          8.4835249,
+          47.3686987
+        ],
+        [
+          8.4835736,
+          47.3687643
+        ],
+        [
+          8.483367,
+          47.3688359
+        ],
+        [
+          8.4833897,
+          47.3688668
+        ],
+        [
+          8.4833765,
+          47.3688813
+        ],
+        [
+          8.48333,
+          47.3688975
+        ],
+        [
+          8.4833024,
+          47.3688961
         ]
       ]
     ]
@@ -13327,6 +13485,151 @@
         [
           8.5387876,
           47.3870256
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/108361341",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8006",
+    "addr:street": "Obstgartensteig",
+    "alt_name": "MNA Aussenstelle Obstgartensteig",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "contact:phone": "+41 79 624 91 01",
+    "contact:website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/mje/Standorte-und-Kontakte.html",
+    "name": "MNA-Wohngruppe Obstgarten",
+    "operator": "AOZ, Asylorganisation Zürich",
+    "social_facility": "group_home",
+    "id": "way/108361341"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5419407,
+          47.3824251
+        ],
+        [
+          8.5421509,
+          47.3824658
+        ],
+        [
+          8.5421097,
+          47.3825635
+        ],
+        [
+          8.5421028,
+          47.3825799
+        ],
+        [
+          8.5420671,
+          47.382573
+        ],
+        [
+          8.5420615,
+          47.3825865
+        ],
+        [
+          8.5420207,
+          47.3825786
+        ],
+        [
+          8.5419961,
+          47.3825738
+        ],
+        [
+          8.5420042,
+          47.3825546
+        ],
+        [
+          8.5418949,
+          47.3825335
+        ],
+        [
+          8.5419407,
+          47.3824251
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/110450789",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "145",
+    "addr:postcode": "8050",
+    "addr:street": "Affolternstrasse",
+    "alt_name": "MNA Aussenstelle Affolternstrasse",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "building:levels": "2",
+    "contact:phone": "+41 79 305 90 15",
+    "contact:website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/mje/Standorte-und-Kontakte.html",
+    "name": "MNA Wohngruppe Oerlikon",
+    "operator": "AOZ, Asylorganisation Zürich",
+    "roof:levels": "1",
+    "roof:shape": "mansard",
+    "social_facility": "group_home",
+    "id": "way/110450789"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5321952,
+          47.4109324
+        ],
+        [
+          8.5324146,
+          47.4108908
+        ],
+        [
+          8.5324631,
+          47.4108818
+        ],
+        [
+          8.5324488,
+          47.4108466
+        ],
+        [
+          8.532513,
+          47.4108347
+        ],
+        [
+          8.5325278,
+          47.410871
+        ],
+        [
+          8.5325827,
+          47.4108607
+        ],
+        [
+          8.5326217,
+          47.4109565
+        ],
+        [
+          8.532454,
+          47.4109878
+        ],
+        [
+          8.5322396,
+          47.4110262
+        ],
+        [
+          8.5321952,
+          47.4109324
         ]
       ]
     ]
@@ -27952,6 +28255,128 @@
 },
 {
   "type": "Feature",
+  "id": "way/354003485",
+  "properties": {
+    "addr:city": "Affoltern am Albis",
+    "addr:country": "CH",
+    "addr:housenumber": "100",
+    "addr:postcode": "8910",
+    "addr:street": "Mühlebergstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "contact:phone": "+41 79 159 75 98",
+    "contact:website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/mna/lilienberg.html",
+    "name": "MNA Zentrum Lilienberg",
+    "operator": "AOZ, Asylorganisation Zürich",
+    "social_facility": "group_home",
+    "id": "way/354003485"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4652311,
+          47.2782484
+        ],
+        [
+          8.4653579,
+          47.2782996
+        ],
+        [
+          8.4652767,
+          47.2783922
+        ],
+        [
+          8.465313,
+          47.2783974
+        ],
+        [
+          8.4653058,
+          47.2784131
+        ],
+        [
+          8.4652936,
+          47.2784272
+        ],
+        [
+          8.4652775,
+          47.2784383
+        ],
+        [
+          8.4652521,
+          47.2784201
+        ],
+        [
+          8.4652114,
+          47.2784665
+        ],
+        [
+          8.4652143,
+          47.2784677
+        ],
+        [
+          8.4652033,
+          47.2784802
+        ],
+        [
+          8.4653555,
+          47.2785416
+        ],
+        [
+          8.4652762,
+          47.278631
+        ],
+        [
+          8.4652468,
+          47.2786383
+        ],
+        [
+          8.4652147,
+          47.2786257
+        ],
+        [
+          8.4652099,
+          47.2786055
+        ],
+        [
+          8.4651174,
+          47.2785681
+        ],
+        [
+          8.4651395,
+          47.278543
+        ],
+        [
+          8.4650058,
+          47.278489
+        ],
+        [
+          8.4649888,
+          47.2785084
+        ],
+        [
+          8.4649359,
+          47.278487
+        ],
+        [
+          8.4650867,
+          47.2783153
+        ],
+        [
+          8.4651499,
+          47.2783409
+        ],
+        [
+          8.4652311,
+          47.2782484
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/355264876",
   "properties": {
     "addr:city": "Zürich",
@@ -38195,17 +38620,67 @@
 },
 {
   "type": "Feature",
+  "id": "way/1148772879",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "16",
+    "addr:postcode": "8050",
+    "addr:street": "Aubruggweg",
+    "amenity": "social_facility",
+    "building": "yes",
+    "building:colour": "#C05476",
+    "building:levels": "2",
+    "contact:phone": "+41 44 752 08 27",
+    "contact:website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/mje/Standorte-und-Kontakte.html",
+    "name": "MNA Ausstenstelle Aubruggweg",
+    "operator": "AOZ, Asylorganisation Zürich",
+    "roof:colour": "#DBDBDB",
+    "roof:shape": "flat",
+    "social_facility": "group_home",
+    "id": "way/1148772879"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5703118,
+          47.4121977
+        ],
+        [
+          8.5704348,
+          47.4122286
+        ],
+        [
+          8.5703492,
+          47.4123873
+        ],
+        [
+          8.5702261,
+          47.4123555
+        ],
+        [
+          8.5703118,
+          47.4121977
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1148855733",
   "properties": {
     "addr:city": "Adliswil",
     "addr:housenumber": "25",
     "addr:postcode": "8134",
     "addr:street": "Sihlstrasse",
-    "alt_name": "Durchgangszentrum Adliswil",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Asylzentrum Adliswil",
+    "name": "Durchgangszentrum Sihlau",
+    "old_name": "Asylzentrum Adliswil",
     "phone": "+41 44 709 08 90",
+    "short_name": "DZ Sihlau",
     "social_facility": "group_home",
     "social_facility:for": "migrant",
     "id": "way/1148855733"
@@ -38850,7 +39325,8 @@
     "contact:street": "Untere Bahnhofstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/dz/dz-kollbrunn.html",
     "name": "Durchgangszentrum Kollbrunn",
-    "operator": "AOZ",
+    "operator": "AOZ, Asylorganisation Zürich",
+    "short_name": "DZ Kollbrunn",
     "social_facility": "group_home",
     "social_facility:for": "migrant",
     "id": "way/1170860312"
@@ -38951,17 +39427,18 @@
     "addr:housenumber": "243",
     "addr:postcode": "8050",
     "addr:street": "Regensbergstrasse",
+    "alt_name": "MNA Zentrum Regensbergstrasse",
     "amenity": "social_facility",
     "building": "apartments",
     "building:levels": "3",
     "capacity": "100",
+    "contact:website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/mje/Standorte-und-Kontakte.html",
     "name": "Durchgangszentrum Regensbergstrasse",
-    "operator": "AOZ",
+    "operator": "AOZ, Asylorganisation Zürich",
     "phone": "+41 44 312 72 11",
     "roof:levels": "0",
     "social_facility": "group_home",
     "social_facility:for": "migrant",
-    "website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/dz/regensbergstrasse.html",
     "id": "way/1170869696"
   },
   "geometry": {
@@ -40068,6 +40545,63 @@
         [
           8.631252,
           47.3056188
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1282473929",
+  "properties": {
+    "addr:city": "Urdorf",
+    "addr:housenumber": "337",
+    "addr:postcode": "8902",
+    "addr:street": "Werkhofstrasse",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "layer": "-1",
+    "level": "-1",
+    "name": "Rückkehrzentren Urdorf",
+    "short_name": "RZ Urdorf",
+    "social_facility": "group_home",
+    "id": "way/1282473929"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.420585,
+          47.3735648
+        ],
+        [
+          8.4206649,
+          47.3733711
+        ],
+        [
+          8.4213544,
+          47.3735014
+        ],
+        [
+          8.4213277,
+          47.373566
+        ],
+        [
+          8.4212987,
+          47.3736364
+        ],
+        [
+          8.4212675,
+          47.3736305
+        ],
+        [
+          8.4212433,
+          47.3736892
+        ],
+        [
+          8.420585,
+          47.3735648
         ]
       ]
     ]
@@ -46341,12 +46875,14 @@
   "type": "Feature",
   "id": "node/10881103027",
   "properties": {
+    "alt_name": "MNA Zentrum Peter & Paul",
     "amenity": "social_facility",
     "capacity": "200",
-    "name": "Kurzzeitunterkunft St. Peter & Paul",
-    "operator": "AOZ",
+    "name": "Durchgangszentrum St. Peter & Paul",
+    "old_name": "Kurzzeitunterkunft St. Peter & Paul",
+    "operator": "AOZ, Asylorganisation Zürich",
     "phone": "+41 79 967 51 94",
-    "short_name": "KZU Peter und Paul;Durchgangszentrum Peter und Paul",
+    "short_name": "DZ Peter und Paul",
     "social_facility": "group_home",
     "social_facility:for": "migrant",
     "website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/dz/Kurzzeitunterkunft_Peter_und_Paul.html",
@@ -46605,30 +47141,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11371188509",
-  "properties": {
-    "addr:city": "Richterswil",
-    "addr:country": "CH",
-    "addr:housenumber": "16",
-    "addr:postcode": "8805",
-    "addr:street": "Bergstrasse",
-    "amenity": "social_facility",
-    "name": "Durchgangszentrum KZU Richterswil",
-    "short_name": "DZ KZU Richterswil",
-    "social_facility": "shelter",
-    "social_facility:for": "refugee",
-    "id": "node/11371188509"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6997007,
-      47.2075925
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11371227402",
   "properties": {
     "addr:city": "Dietlikon",
@@ -46880,6 +47392,44 @@
     "coordinates": [
       8.7401071,
       47.4961443
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11900986173",
+  "properties": {
+    "amenity": "social_facility",
+    "contact:website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/mje/Standorte-und-Kontakte.html",
+    "name": "MNA Aussenstelle Römerhof",
+    "operator": "AOZ, Asylorganisation Zürich",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "node/11900986173"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5630153,
+      47.3687656
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11901154911",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "MNA Zentrum Uster",
+    "operator": "AOZ, Asylorganisation Zürich",
+    "social_facility": "group_home",
+    "id": "node/11901154911"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7292989,
+      47.3460973
     ]
   }
 }
