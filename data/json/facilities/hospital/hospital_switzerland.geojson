@@ -27894,7 +27894,7 @@
     "addr:housenumber": "100",
     "addr:postcode": "8091",
     "addr:street": "Rämistrasse",
-    "alt_name": "USZ Campus",
+    "alt_name": "USZ Campus;Universitätsspital Zürich Zentrum",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
