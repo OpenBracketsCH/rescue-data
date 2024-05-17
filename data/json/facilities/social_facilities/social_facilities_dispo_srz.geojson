@@ -20448,132 +20448,128 @@
     "coordinates": [
       [
         [
-          8.6129223,
-          47.4199894
+          8.6129087,
+          47.4199769
         ],
         [
-          8.6127226,
-          47.4199174
+          8.6127568,
+          47.4199126
         ],
         [
-          8.6127519,
-          47.4198801
+          8.6127842,
+          47.4198829
         ],
         [
-          8.6127289,
-          47.4198722
+          8.6127509,
+          47.4198689
         ],
         [
-          8.6128236,
-          47.4197475
+          8.6128902,
+          47.4197181
         ],
         [
-          8.6128529,
-          47.4197575
+          8.6129016,
+          47.4197229
         ],
         [
-          8.6129955,
-          47.4195781
+          8.6130473,
+          47.4195652
         ],
         [
-          8.6130081,
-          47.4195815
+          8.6130092,
+          47.4195491
         ],
         [
-          8.6130243,
-          47.4195611
+          8.6130604,
+          47.4194936
         ],
         [
-          8.6129941,
-          47.4195488
+          8.6131116,
+          47.4194382
         ],
         [
-          8.613051,
-          47.4194871
+          8.6131512,
+          47.419455
         ],
         [
-          8.613096,
-          47.4194383
+          8.6132971,
+          47.419297
         ],
         [
-          8.613126,
-          47.419452
+          8.6132841,
+          47.4192915
         ],
         [
-          8.6131447,
-          47.4194323
+          8.6134233,
+          47.4191408
         ],
         [
-          8.6131333,
-          47.4194266
+          8.613457,
+          47.4191551
         ],
         [
-          8.6132774,
-          47.4192962
+          8.6134832,
+          47.4191267
         ],
         [
-          8.6132507,
-          47.4192847
+          8.6136373,
+          47.4191919
         ],
         [
-          8.6134111,
-          47.4191329
+          8.6134688,
+          47.4193742
         ],
         [
-          8.6134318,
-          47.4191438
+          8.6134837,
+          47.4193805
         ],
         [
-          8.6134707,
-          47.4191105
+          8.6133904,
+          47.4194815
         ],
         [
-          8.6136321,
-          47.4191983
+          8.6137264,
+          47.4196237
         ],
         [
-          8.6135506,
-          47.4192768
+          8.613543,
+          47.4198222
         ],
         [
-          8.6135758,
-          47.4192891
+          8.6134989,
+          47.4198036
         ],
         [
-          8.613384,
-          47.4194742
+          8.6133808,
+          47.4197536
         ],
         [
-          8.6137161,
-          47.4196224
+          8.6133964,
+          47.4197367
         ],
         [
-          8.6135308,
-          47.4198241
+          8.6133796,
+          47.4197296
         ],
         [
-          8.6133466,
-          47.4197501
+          8.613342,
+          47.4197703
         ],
         [
-          8.6133349,
-          47.4197667
+          8.6131827,
+          47.4197029
         ],
         [
-          8.6131722,
-          47.4197069
+          8.6130866,
+          47.419807
         ],
         [
-          8.6130893,
-          47.4198077
+          8.6130716,
+          47.4198006
         ],
         [
-          8.6130593,
-          47.4197958
-        ],
-        [
-          8.6129223,
-          47.4199894
+          8.6129087,
+          47.4199769
         ]
       ]
     ]
@@ -47627,6 +47623,7 @@
     "short_name": "DZ Turnerstrasse",
     "social_facility": "shelter",
     "social_facility:for": "refugee",
+    "usage": "civil_shelter",
     "website": "https://www.stadt-zuerich.ch/aoz/de/index/aoz/aktuell/news/eroeffnung-temporaeres-durchgangszentrum-turnerstrasse0.html",
     "id": "way/1150198138"
   },
@@ -49012,11 +49009,14 @@
     "addr:postcode": "8400",
     "addr:street": "Endlikerstrasse",
     "amenity": "social_facility",
-    "building": "yes",
-    "name": "Durchgangszentrum Mattenbacch",
+    "building": "bunker",
+    "layer": "-1",
+    "level": "-1",
+    "name": "Durchgangszentrum Mattenbach",
     "short_name": "DZ Mattenbach",
     "social_facility": "shelter",
     "social_facility:for": "refugee",
+    "usage": "civil_shelter",
     "id": "way/1226193072"
   },
   "geometry": {
@@ -49024,32 +49024,52 @@
     "coordinates": [
       [
         [
-          8.7423134,
-          47.4898469
+          8.7423143,
+          47.4898477
         ],
         [
-          8.7424783,
-          47.4897627
+          8.7424785,
+          47.4897629
         ],
         [
-          8.7424973,
-          47.4897796
+          8.7424972,
+          47.4897794
         ],
         [
-          8.7424108,
-          47.4898238
+          8.7424103,
+          47.4898243
         ],
         [
-          8.7426143,
-          47.4900057
+          8.7426139,
+          47.4900044
         ],
         [
-          8.7425359,
-          47.4900458
+          8.7419223,
+          47.4903616
         ],
         [
-          8.7423134,
-          47.4898469
+          8.7416999,
+          47.490165
+        ],
+        [
+          8.7418691,
+          47.4900776
+        ],
+        [
+          8.7419201,
+          47.4900513
+        ],
+        [
+          8.7422305,
+          47.489891
+        ],
+        [
+          8.7422805,
+          47.4898652
+        ],
+        [
+          8.7423143,
+          47.4898477
         ]
       ]
     ]
@@ -49754,12 +49774,15 @@
     "addr:postcode": "8902",
     "addr:street": "Werkhofstrasse",
     "amenity": "social_facility",
-    "building": "apartments",
+    "building": "bunker",
     "layer": "-1",
     "level": "-1",
+    "location": "underground",
+    "military": "bunker",
     "name": "Rückkehrzentren Urdorf",
     "short_name": "RZ Urdorf",
     "social_facility": "group_home",
+    "usage": "civil_shelter",
     "id": "way/1282473929"
   },
   "geometry": {
@@ -49797,6 +49820,170 @@
         [
           8.420585,
           47.3735648
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1283547760",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "19",
+    "addr:postcode": "8053",
+    "addr:street": "Katzenschwanzstrasse",
+    "amenity": "social_facility",
+    "building": "bunker",
+    "layer": "-1",
+    "level": "-1",
+    "name": "Durchgangszentrum Katzenschwanzstrasse",
+    "short_name": "DZ Katzenschwantzstrasse",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
+    "usage": "civil_shelter",
+    "id": "way/1283547760"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5966996,
+          47.3617142
+        ],
+        [
+          8.5967537,
+          47.3617264
+        ],
+        [
+          8.5967437,
+          47.3617468
+        ],
+        [
+          8.5967003,
+          47.361737
+        ],
+        [
+          8.5966472,
+          47.3617251
+        ],
+        [
+          8.5966568,
+          47.3617054
+        ],
+        [
+          8.596087,
+          47.3615772
+        ],
+        [
+          8.596125,
+          47.3614997
+        ],
+        [
+          8.5960872,
+          47.3614912
+        ],
+        [
+          8.596075,
+          47.361516
+        ],
+        [
+          8.5960464,
+          47.3615096
+        ],
+        [
+          8.5960929,
+          47.3614148
+        ],
+        [
+          8.596111,
+          47.3614189
+        ],
+        [
+          8.5961694,
+          47.3612998
+        ],
+        [
+          8.5967719,
+          47.3614353
+        ],
+        [
+          8.5967573,
+          47.3614652
+        ],
+        [
+          8.5967386,
+          47.361461
+        ],
+        [
+          8.596725,
+          47.3614886
+        ],
+        [
+          8.5968017,
+          47.3615059
+        ],
+        [
+          8.5966996,
+          47.3617142
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1283560401",
+  "properties": {
+    "addr:city": "Dietlikon",
+    "addr:country": "CH",
+    "addr:housenumber": "41a",
+    "addr:postcode": "8305",
+    "addr:street": "Schwerzelbodenstrasse",
+    "amenity": "social_facility",
+    "building": "bunker",
+    "layer": "-1",
+    "level": "-1",
+    "name": "Kurzzeitunterkunft Rotacher",
+    "short_name": "DZ KZU Rotacher",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
+    "usage": "civil_shelter",
+    "id": "way/1283560401"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6130923,
+          47.4200583
+        ],
+        [
+          8.613063,
+          47.4200123
+        ],
+        [
+          8.6134056,
+          47.4199047
+        ],
+        [
+          8.6134989,
+          47.4198036
+        ],
+        [
+          8.613543,
+          47.4198222
+        ],
+        [
+          8.6134185,
+          47.419956
+        ],
+        [
+          8.6130923,
+          47.4200583
         ]
       ]
     ]
@@ -57046,54 +57233,6 @@
     "coordinates": [
       8.7585168,
       47.3068965
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11371227402",
-  "properties": {
-    "addr:city": "Dietlikon",
-    "addr:country": "CH",
-    "addr:housenumber": "41a",
-    "addr:postcode": "8305",
-    "addr:street": "Schwerzelbodenstrasse",
-    "amenity": "social_facility",
-    "name": "Durchgangszentrum KZU Rotacher",
-    "short_name": "DZ KZU Rotacher",
-    "social_facility": "shelter",
-    "social_facility:for": "refugee",
-    "id": "node/11371227402"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6133778,
-      47.4196254
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11372921978",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "21",
-    "addr:postcode": "8053",
-    "addr:street": "Katzenschwanzstrasse",
-    "amenity": "social_facility",
-    "name": "Durchgangszentrum Katzenschwanzstrasse",
-    "short_name": "DZ Katzenschwantzstrasse",
-    "social_facility": "shelter",
-    "social_facility:for": "refugee",
-    "id": "node/11372921978"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5969976,
-      47.3616984
     ]
   }
 },

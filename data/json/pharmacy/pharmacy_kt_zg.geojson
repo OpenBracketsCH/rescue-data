@@ -353,6 +353,7 @@
     "phone": "+41 41 711 85 00",
     "shop": "chemist",
     "website": "https://www.hertiapotheke.ch/",
+    "wheelchair": "yes",
     "id": "node/6690547557"
   },
   "geometry": {

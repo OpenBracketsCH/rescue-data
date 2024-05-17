@@ -2582,132 +2582,6 @@
 },
 {
   "type": "Feature",
-  "id": "relation/13372764",
-  "properties": {
-    "addr:city": "Sion",
-    "addr:postcode": "1951",
-    "addr:street": "Avenue du Grand-Champsec",
-    "amenity": "hospital",
-    "emergency": "yes",
-    "healthcare": "hospital",
-    "name": "Hôpital de Sion",
-    "toilets:wheelchair": "yes",
-    "type": "multipolygon",
-    "website": "https://www.hopitalduvalais.ch/fr/lhopital-du-valais/sites/sion.html",
-    "wheelchair": "yes",
-    "wikidata": "Q3145292",
-    "id": "relation/13372764"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.383995,
-          46.2342178
-        ],
-        [
-          7.3840725,
-          46.2337943
-        ],
-        [
-          7.3852865,
-          46.2332473
-        ],
-        [
-          7.3864557,
-          46.2331205
-        ],
-        [
-          7.3874675,
-          46.2332786
-        ],
-        [
-          7.3881632,
-          46.2333643
-        ],
-        [
-          7.3888252,
-          46.2338125
-        ],
-        [
-          7.3891177,
-          46.2340105
-        ],
-        [
-          7.3893276,
-          46.2346386
-        ],
-        [
-          7.3895971,
-          46.2346844
-        ],
-        [
-          7.3898467,
-          46.235265
-        ],
-        [
-          7.3898427,
-          46.2365665
-        ],
-        [
-          7.3893753,
-          46.2365756
-        ],
-        [
-          7.3893624,
-          46.2365854
-        ],
-        [
-          7.3884098,
-          46.2373111
-        ],
-        [
-          7.3880461,
-          46.2375594
-        ],
-        [
-          7.3879507,
-          46.2375156
-        ],
-        [
-          7.3872554,
-          46.2372216
-        ],
-        [
-          7.3869987,
-          46.2371035
-        ],
-        [
-          7.3866304,
-          46.2369116
-        ],
-        [
-          7.3861921,
-          46.2366904
-        ],
-        [
-          7.3842501,
-          46.2355502
-        ],
-        [
-          7.3847998,
-          46.2351122
-        ],
-        [
-          7.3844375,
-          46.2347664
-        ],
-        [
-          7.383995,
-          46.2342178
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "relation/13506524",
   "properties": {
     "addr:city": "Schaffhausen",
@@ -23344,6 +23218,134 @@
 },
 {
   "type": "Feature",
+  "id": "way/335490255",
+  "properties": {
+    "addr:city": "Sion",
+    "addr:housenumber": "80",
+    "addr:postcode": "1951",
+    "addr:street": "Avenue du Grand-Champsec",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hôpital de Sion",
+    "name:de": "Spital Sitten",
+    "name:fr": "Hôpital de Sion",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.hopitalduvalais.ch/fr/lhopital-du-valais/sites/sion.html",
+    "wheelchair": "yes",
+    "wikidata": "Q3145292",
+    "id": "way/335490255"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.383995,
+          46.2342178
+        ],
+        [
+          7.3840725,
+          46.2337943
+        ],
+        [
+          7.3852865,
+          46.2332473
+        ],
+        [
+          7.3864557,
+          46.2331205
+        ],
+        [
+          7.3874675,
+          46.2332786
+        ],
+        [
+          7.3881632,
+          46.2333643
+        ],
+        [
+          7.3888252,
+          46.2338125
+        ],
+        [
+          7.3891177,
+          46.2340105
+        ],
+        [
+          7.3893598,
+          46.2344976
+        ],
+        [
+          7.3895971,
+          46.2346844
+        ],
+        [
+          7.3898467,
+          46.235265
+        ],
+        [
+          7.3898427,
+          46.2365665
+        ],
+        [
+          7.3893753,
+          46.2365756
+        ],
+        [
+          7.3893624,
+          46.2365854
+        ],
+        [
+          7.3884098,
+          46.2373111
+        ],
+        [
+          7.3880461,
+          46.2375594
+        ],
+        [
+          7.3879507,
+          46.2375156
+        ],
+        [
+          7.3872554,
+          46.2372216
+        ],
+        [
+          7.3869987,
+          46.2371035
+        ],
+        [
+          7.3866304,
+          46.2369116
+        ],
+        [
+          7.3861921,
+          46.2366904
+        ],
+        [
+          7.3842501,
+          46.2355502
+        ],
+        [
+          7.3847998,
+          46.2351122
+        ],
+        [
+          7.3844375,
+          46.2347664
+        ],
+        [
+          7.383995,
+          46.2342178
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/339025313",
   "properties": {
     "addr:city": "Zürich",
@@ -32375,10 +32377,18 @@
   "type": "Feature",
   "id": "way/675359360",
   "properties": {
+    "addr:city": "Martigny",
+    "addr:housenumber": "27",
+    "addr:postcode": "1920",
+    "addr:street": "Avenue de la Fusion",
     "amenity": "hospital",
+    "emergency": "yes",
     "healthcare": "hospital",
     "layer": "1",
-    "name": "Hôpital du Valais - Martigny",
+    "name": "Hôpital de Martigny",
+    "name:de": "Spital Martigny",
+    "name:fr": "Hôpital de Martigny",
+    "operator": "Hôpital du Valais",
     "phone": "+41 27 603 90 00",
     "source": "Bing",
     "website": "https://www.hopitalduvalais.ch/fr/lhopital-du-valais/sites/martigny.html",
@@ -32931,6 +32941,8 @@
     "emergency": "yes",
     "healthcare": "hospital",
     "name": "Spital Visp",
+    "name:de": "Spital Visp",
+    "name:fr": "Hôpital de Visp",
     "phone": "+41 (0)27 970 33 33",
     "toilets:wheelchair": "yes",
     "website": "https://www.hopitalduvalais.ch/de/spital-wallis/standorte/visp.html",
@@ -40776,9 +40788,12 @@
   "type": "Feature",
   "id": "way/680308645",
   "properties": {
+    "addr:city": "Monthey",
+    "addr:housenumber": "10",
     "addr:postcode": "1870",
-    "addr:street": "Route de Morgins 10",
+    "addr:street": "Route de Morgins",
     "amenity": "hospital",
+    "healthcare": "psychotherapist",
     "healthcare:speciality": "psychiatry",
     "name": "Hôpital psychiatrique de Malévoz",
     "phone": "+41 27 604 73 33",
@@ -46626,7 +46641,7 @@
   "properties": {
     "amenity": "hospital",
     "healthcare": "hospital",
-    "name": "Extension et transformation de l’Hôpital",
+    "name": "Extension et transformation de l’hôpital",
     "id": "way/996685264"
   },
   "geometry": {
@@ -46909,9 +46924,15 @@
   "type": "Feature",
   "id": "way/1025032541",
   "properties": {
+    "addr:city": "Crans-Montana",
+    "addr:housenumber": "1",
+    "addr:postcode": "3963",
+    "addr:street": "Impasse Palace Bellevue",
     "amenity": "hospital",
     "healthcare": "hospital",
     "name": "Clinique Bernoise de Crans Montana",
+    "name:de": "Berner Klinik Crans Montana",
+    "name:fr": "Clinique Bernoise de Crans Montana",
     "id": "way/1025032541"
   },
   "geometry": {
@@ -51296,7 +51317,7 @@
     "healthcare": "clinic",
     "level": "1",
     "name": "mediX Praxis Dübendorf",
-    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-18:00",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-18:00",
     "phone": "+41 44 802 10 00",
     "website": "https://www.medix-praxis-duebendorf.ch/",
     "id": "node/5193024721"

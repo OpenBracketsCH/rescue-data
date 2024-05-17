@@ -12341,7 +12341,7 @@
     "healthcare": "clinic",
     "level": "1",
     "name": "mediX Praxis Dübendorf",
-    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-18:00",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-18:00",
     "phone": "+41 44 802 10 00",
     "website": "https://www.medix-praxis-duebendorf.ch/",
     "id": "node/5193024721"

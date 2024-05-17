@@ -249,6 +249,7 @@
     "contact:website": "https://www.globegarden.ch/",
     "name": "Globegarden Kita - Uptown",
     "operator": "Globegarden Childcare",
+    "wheelchair": "yes",
     "id": "node/9532277096"
   },
   "geometry": {
