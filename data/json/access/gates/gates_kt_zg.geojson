@@ -432,6 +432,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/528254609",
+  "properties": {
+    "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "material": "metal",
+    "motor_vehicle": "no",
+    "note": "Signal 2.14 \"Verbot für Motorwagen,\nMotorräder und Motorfahrräder\"",
+    "id": "node/528254609"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6886005,
+      47.154352
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/530782153",
   "properties": {
     "barrier": "lift_gate",
