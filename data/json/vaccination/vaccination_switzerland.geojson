@@ -305,6 +305,7 @@
   "id": "node/1853060089",
   "properties": {
     "amenity": "restaurant",
+    "check_date": "2024-05-20",
     "cuisine": "regional",
     "healthcare:speciality": "vaccination",
     "name": "Alte Mühle",

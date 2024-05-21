@@ -3840,24 +3840,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1584012924",
-  "properties": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "APODRO Drogerie",
-    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
-    "id": "node/1584012924"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8497374,
-      47.25774
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1598834330",
   "properties": {
     "addr:city": "Zürich",
