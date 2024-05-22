@@ -33562,39 +33562,15 @@
 },
 {
   "type": "Feature",
-  "id": "node/9181030071",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Im Fitnessstudio, Erdgeschoss, Im hinteren Teil des Studios, direkt vor den WCs",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "0",
-    "opening_hours": "Mo-Fr 18:00-20:00",
-    "operator": "ONE MORE GmbH, Aaron Müller",
-    "phone": "+41 43 499 80 10",
-    "id": "node/9181030071"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.3774449,
-      47.5084024
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9181030072",
   "properties": {
     "access": "yes",
     "defibrillator:location": "Im Fitnessstudio, Erdgeschoss, bei der Eingangstüre links",
-    "description": "24h verfügbar",
+    "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "24/7",
+    "opening_hours": "Mo-Th 08:00-18:00; Fr-Sa 08:30-11:00",
     "operator": "ONE MORE GmbH, Aaron Müller",
     "phone": "+41 43 499 80 10",
     "id": "node/9181030072"
@@ -48891,15 +48867,16 @@
   "type": "Feature",
   "id": "node/10185369837",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Büro Bademeister (rechts neben Haupteingang)",
-    "description": "während Öffnungszeiten verfügbar",
+    "access": "yes",
+    "defibrillator:location": "Durchgang ( rechts neben WC )",
+    "description": "während Öffnungszeiten täglich verfügbar von 09:00 bis 20:00",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
     "level": "0",
     "operator": "Gemeinde Rüschlikon",
     "phone": "+41 44 724 72 61",
+    "ref": "Seestrasse 23",
     "id": "node/10185369837"
   },
   "geometry": {
@@ -48914,22 +48891,23 @@
   "type": "Feature",
   "id": "node/10185369838",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Eingangsbereich (zwischen WC Herren und WC-Damen)",
-    "description": "während Öffnungszeiten verfügbar",
+    "access": "yes",
+    "defibrillator:location": "Links beim Eingangsbereich",
+    "description": "Immer verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
     "level": "0",
     "operator": "Gemeinde Rüschlikon",
     "phone": "+41 44 724 72 61",
+    "ref": "Sportplatzhaus Feldimoostrasse 10",
     "id": "node/10185369838"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5453623,
-      47.306328
+      8.5454915,
+      47.3063422
     ]
   }
 },
@@ -48951,8 +48929,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5469449,
-      47.3071574
+      8.5468666,
+      47.3073065
     ]
   }
 },
@@ -48997,8 +48975,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.556236,
-      47.3081822
+      8.5564184,
+      47.3082055
     ]
   }
 },
@@ -69833,29 +69811,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11397446169",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Eingang altes Gemeindehaus, Dorfplatz 2, 8523 Hagenbuch",
-    "description": "Öffentlich zugänglich",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "Gemeinde Hagenbuch",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/11397446169"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8879126,
-      47.5209358
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11397452969",
   "properties": {
     "access": "yes",
@@ -78941,27 +78896,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11917619770",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Zürich Hauptbahnhof",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "level": "Gleis 21/22, Sektor B ",
-    "opening_hours": "24/7",
-    "id": "node/11917619770"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5564413,
-      47.4231732
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11919160369",
   "properties": {
     "access": "no",
@@ -78980,6 +78914,75 @@
     "coordinates": [
       8.7632035,
       47.4849811
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11921869170",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Allmendstrasse 13/15, neben Briefkasten bei Rampe",
+    "description": "allg. Zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Frenademez AG, Allmendstrasse 13",
+    "phone": "+41 41 749 90 20",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11921869170"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4868151,
+      47.1902484
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11921929761",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Aussen an Gebäudeecke im grünen Metallkasten. / Outside on the corner of the building in the green metal box.",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/11921929761"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6532395,
+      47.288257
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11922335569",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "beim Empfang",
+    "description": "nur während der Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2",
+    "opening_hours": "Mo-Fr  08:00-11:30, 14:00-17:00",
+    "operator": "Notariat Affoltern",
+    "phone": "+41 44 752 36 36",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11922335569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4419468,
+      47.2758163
     ]
   }
 }

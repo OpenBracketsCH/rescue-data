@@ -694,7 +694,6 @@
     "addr:city": "Zürich",
     "addr:country": "CH",
     "addr:housenumber": "6",
-    "addr:place": "Stauffacher",
     "addr:postcode": "8004",
     "addr:street": "Badenerstrasse",
     "amenity": "pharmacy",

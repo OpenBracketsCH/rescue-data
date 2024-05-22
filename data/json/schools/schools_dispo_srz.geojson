@@ -12227,7 +12227,7 @@
     "addr:street": "Deinikonerstrasse",
     "amenity": "school",
     "building": "school",
-    "name": "Primarschulhaus Sennweid",
+    "name": "Primarschulhaus + Kindergarten Sennweid",
     "operator": "Schulen Baar",
     "id": "way/32216356"
   },
@@ -51048,6 +51048,7 @@
   "id": "way/163203509",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-05-21",
     "name": "Schulhaus Dorf",
     "id": "way/163203509"
   },
@@ -70608,6 +70609,10 @@
         [
           8.795012,
           47.3236835
+        ],
+        [
+          8.7950153,
+          47.3237236
         ],
         [
           8.7950326,
@@ -121235,6 +121240,63 @@
 },
 {
   "type": "Feature",
+  "id": "way/1094394798",
+  "properties": {
+    "addr:city": "Baar",
+    "addr:housenumber": "13",
+    "addr:postcode": "6340",
+    "addr:street": "Deinikonerstrasse",
+    "amenity": "school",
+    "building": "yes",
+    "name": "SEB Sennweid",
+    "id": "way/1094394798"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5309928,
+          47.1996581
+        ],
+        [
+          8.5310311,
+          47.1993704
+        ],
+        [
+          8.5312804,
+          47.1993858
+        ],
+        [
+          8.5312643,
+          47.1995069
+        ],
+        [
+          8.5312423,
+          47.1995056
+        ],
+        [
+          8.5312292,
+          47.1996045
+        ],
+        [
+          8.5311986,
+          47.1996026
+        ],
+        [
+          8.5311896,
+          47.1996703
+        ],
+        [
+          8.5309928,
+          47.1996581
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1096261709",
   "properties": {
     "addr:city": "Schaffhausen",
@@ -122011,6 +122073,43 @@
         [
           8.6130086,
           47.1359518
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1108126277",
+  "properties": {
+    "amenity": "school",
+    "building": "yes",
+    "name": "Schulhausprovisorium Wiesental",
+    "id": "way/1108126277"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5197727,
+          47.1990206
+        ],
+        [
+          8.5194857,
+          47.1987926
+        ],
+        [
+          8.5195854,
+          47.1987347
+        ],
+        [
+          8.5198724,
+          47.1989626
+        ],
+        [
+          8.5197727,
+          47.1990206
         ]
       ]
     ]
