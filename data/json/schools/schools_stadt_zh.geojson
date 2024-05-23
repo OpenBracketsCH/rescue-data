@@ -11681,6 +11681,7 @@
   "id": "way/257637018",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-05-22",
     "contact:city": "Zürich",
     "contact:housenumber": "50",
     "contact:phone": "+41 44 413 26 50",
@@ -20068,6 +20069,7 @@
   "id": "node/5741495350",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-05-22",
     "contact:city": "Zürich",
     "contact:email": "info@akad.ch",
     "contact:housenumber": "43",
@@ -20108,6 +20110,7 @@
   "id": "node/5741495353",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-05-22",
     "name": "Kalaidos Bildungsgruppe",
     "website": "https://www.kalaidos.ch/",
     "id": "node/5741495353"

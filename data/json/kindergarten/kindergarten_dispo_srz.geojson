@@ -39839,31 +39839,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2778215145",
-  "properties": {
-    "addr:city": "Wolfhausen",
-    "addr:country": "CH",
-    "addr:housenumber": "26",
-    "addr:postcode": "8633",
-    "addr:street": "Lochrütistrasse",
-    "amenity": "kindergarten",
-    "check_date": "2023-10-22",
-    "contact:email": "info@kitaplus.ch",
-    "contact:phone": "+41 55 243 32 46",
-    "contact:website": "http://www.kitaplus.ch/",
-    "name": "KiTa plus",
-    "id": "node/2778215145"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8005546,
-      47.2589818
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2927936944",
   "properties": {
     "amenity": "kindergarten",
@@ -45926,6 +45901,7 @@
   "id": "node/9210087227",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-05-22",
     "contact:city": "Zürich",
     "contact:housenumber": "50",
     "contact:phone": "+41 44 413 26 50",

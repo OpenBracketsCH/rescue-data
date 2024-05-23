@@ -4653,6 +4653,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/2778215145",
+  "properties": {
+    "amenity": "childcare",
+    "check_date": "2023-10-22",
+    "email": "info@kitaplus.ch",
+    "name": "KiTa plus",
+    "phone": "+41 55 243 32 46",
+    "website": "https://www.kitaplus.ch/",
+    "id": "node/2778215145"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8005546,
+      47.2589818
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3373699876",
   "properties": {
     "amenity": "childcare",

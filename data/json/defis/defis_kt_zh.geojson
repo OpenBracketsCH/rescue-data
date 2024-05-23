@@ -33181,13 +33181,12 @@
   "type": "Feature",
   "id": "node/9995101346",
   "properties": {
-    "access": "yes",
+    "access": "unknown",
     "defibrillator:location": "Ortsmuseum",
-    "description": "24h verfügbar",
+    "description": "Stand 09.05.2024: Der Defi ist von Aussen nicht auffindbar.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
+    "indoor": "yes",
     "operator": "Stadt Kloten",
     "phone": "+41 44 815 11 11",
     "id": "node/9995101346"
@@ -38082,30 +38081,6 @@
     "coordinates": [
       8.6730945,
       47.2287926
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10584861305",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Activ Fitness, im Garderobendurchgang",
-    "description": "Nur während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "1",
-    "opening_hours": "Mo-Fr 08:00-22:00, Sa-Su 09:00-18:00",
-    "operator": "Activ Fitness",
-    "phone": "+41432330101",
-    "id": "node/10584861305"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7981296,
-      47.323698
     ]
   }
 },
@@ -60099,7 +60074,7 @@
   "id": "node/11902360270",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Tauchplatz Terlinde",
+    "defibrillator:location": "Tauchplatz Terlinden",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
