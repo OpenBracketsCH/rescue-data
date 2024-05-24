@@ -1298,22 +1298,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8341092093",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Hofmatt",
-    "id": "node/8341092093"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5247972,
-      47.0627678
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10072682063",
   "properties": {
     "amenity": "kindergarten",

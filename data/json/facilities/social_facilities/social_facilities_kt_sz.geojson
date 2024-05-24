@@ -3062,6 +3062,7 @@
   "id": "node/8341092087",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2024-05-23",
     "name": "Alterswohnungen Hofmatt",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",

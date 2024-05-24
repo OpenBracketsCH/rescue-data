@@ -44938,22 +44938,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8341092093",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Hofmatt",
-    "id": "node/8341092093"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5247972,
-      47.0627678
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8399310085",
   "properties": {
     "addr:city": "Pfäffikon ZH",
@@ -46295,6 +46279,7 @@
   "id": "node/9294284353",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-05-23",
     "name": "Filasez",
     "phone": "+41 44 548 00 32",
     "website": "https://filasez.ch/",

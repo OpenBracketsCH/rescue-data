@@ -13147,6 +13147,7 @@
     "addr:street": "Zum Park",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-05-23",
     "email": "sekretariat@somosa.ch",
     "name": "Modellstation Somosa",
     "operator": "Stiftung Somosa",
@@ -42947,7 +42948,8 @@
   "id": "node/5465299536",
   "properties": {
     "amenity": "social_facility",
-    "check_date": "2024-03-01",
+    "check_date": "2024-05-23",
+    "fixme": "Nachmieter gesucht ab 1. August 2024",
     "name": "Kinder-Spitex Kanton Zürich",
     "phone": "+41 842 400 200",
     "short_name": "kispex",

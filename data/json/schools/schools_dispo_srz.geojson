@@ -13225,7 +13225,10 @@
     "addr:street": "Hofmatt",
     "amenity": "school",
     "building": "school",
+    "building:levels": "3",
+    "check_date": "2024-05-23",
     "name": "Schulhaus Hofmatt",
+    "roof:levels": "1",
     "id": "way/33529725"
   },
   "geometry": {
@@ -127726,6 +127729,22 @@
     "coordinates": [
       8.5350181,
       47.3739358
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8341092093",
+  "properties": {
+    "amenity": "school",
+    "name": "Gemeindeschulen Arth",
+    "id": "node/8341092093"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5247972,
+      47.0627678
     ]
   }
 },
