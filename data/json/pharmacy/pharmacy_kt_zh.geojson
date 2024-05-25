@@ -563,7 +563,7 @@
     "healthcare": "pharmacy",
     "name": "Dropa Brunnen",
     "old_name": "Brunnenapotheke",
-    "opening_hours": "Mo-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-16:00",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:30-18:30; Sa 09:00-16:00",
     "operator": "Dr. Bähler Dropa",
     "website": "https://dropa.ch/standorte/dropa-apotheke-brunnen",
     "id": "node/269234979"

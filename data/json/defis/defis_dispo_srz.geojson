@@ -8601,10 +8601,12 @@
   "type": "Feature",
   "id": "node/7656536185",
   "properties": {
-    "defibrillator:location": "In der Apotheke",
+    "defibrillator:location": "Apotheke Dropa",
     "description": "Während Öffnungszeiten beim Personal melden",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:30-18:30; Sa 09:00-16:00",
     "id": "node/7656536185"
   },
   "geometry": {
@@ -8619,10 +8621,12 @@
   "type": "Feature",
   "id": "node/7656536186",
   "properties": {
-    "defibrillator:location": "Bank",
-    "description": "In der Bank verlangen",
+    "defibrillator:location": "Steueramt",
+    "description": "Beim Schalter links die Treppe hinunter. ",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo,Tu,Th 08:00-11:30, 13:30-16:30; We 08:00-11:30, 13:30-18:30; Fr 08:00-14:00; PH off",
     "id": "node/7656536186"
   },
   "geometry": {
@@ -15128,18 +15132,21 @@
   "type": "Feature",
   "id": "node/8099628241",
   "properties": {
-    "defibrillator:location": "Im Stadthaus West, Zugang Oberlandstrasse während Öffnungszeiten",
+    "defibrillator:location": "Stadthaus West",
+    "description": "Zugang Oberlandstrasse während Öffnungszeiten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:30-16:30",
     "operator": "Stadt Uster, Stadthaus West",
     "id": "node/8099628241"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7154306,
-      47.3537349
+      8.7154861,
+      47.3537471
     ]
   }
 },
@@ -15147,11 +15154,11 @@
   "type": "Feature",
   "id": "node/8099632605",
   "properties": {
-    "defibrillator:location": "Im Feuerwehrdepot Während Arbeitszeit 07:30 - 17:00 Uhr",
+    "defibrillator:location": "Feuerwehrdepot",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 07:00-17:00",
+    "opening_hours": "Mo-Fr 07:30-17:00",
     "operator": "Feuerwehr Uster",
     "id": "node/8099632605"
   },
@@ -24196,8 +24203,8 @@
   "id": "node/8574210688",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Bademeisterraum",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Dorfbadi",
+    "description": "während Öffnungszeiten verfügbar\nBademeisterraum",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -24302,19 +24309,20 @@
   "id": "node/8574210693",
   "properties": {
     "access": "no",
-    "defibrillator:location": "beim Haupteingang",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Stadthaus beim Haupteingang",
+    "description": "während Öffnungszeiten verfügbar\nBeim Haupteingang, links Treppe halb runter.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "opening_hours": "Mo,Tu,Th 08:00-11:30, 13:30-16:30; We 08:00-11:30, 13:30-18:30; Fr 08:00-14:00; PH off",
     "operator": "Stadt Uster",
     "id": "node/8574210693"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7191574,
-      47.3486833
+      8.7190466,
+      47.3486345
     ]
   }
 },
@@ -24323,6 +24331,7 @@
   "id": "node/8574210694",
   "properties": {
     "access": "no",
+    "defibrillator:location": "MusikContainer",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -24343,19 +24352,20 @@
   "id": "node/8574210695",
   "properties": {
     "access": "no",
-    "defibrillator:location": "im Stadthoofsaal",
+    "defibrillator:location": "Stadthoofsaal",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "operator": "Stadt Uster",
     "id": "node/8574210695"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7154721,
-      47.3488651
+      8.7154226,
+      47.3490063
     ]
   }
 },
@@ -24427,8 +24437,8 @@
   "id": "node/8574210700",
   "properties": {
     "access": "no",
-    "defibrillator:location": "im Aufenthaltsraum Werkgebäude",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Werkgebäude",
+    "description": "während Öffnungszeiten verfügbar\nim Aufenthaltsraum Werkgebäude",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -26979,14 +26989,15 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "operator": "Kath. Kirche Uster",
     "id": "node/8742684118"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7233584,
-      47.349524
+      8.7230887,
+      47.3495862
     ]
   }
 },
@@ -32880,11 +32891,12 @@
   "id": "node/9107168038",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Bei Eingang rechts",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Kath. Kirchgemeinde",
+    "description": "während Öffnungszeiten verfügbar\nBei Eingang rechts",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "opening_hours": "Mo-Su 08:00-18:00",
     "operator": "Kath. Kirchgemeinde Uster",
     "phone": "+41 44 944 85 48",
@@ -32893,8 +32905,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7236662,
-      47.3494284
+      8.7235552,
+      47.3494025
     ]
   }
 },
@@ -33745,14 +33757,15 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "operator": "Gemeinde",
     "id": "node/9206228717"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7213558,
-      47.3483419
+      8.7217953,
+      47.3483225
     ]
   }
 },
@@ -41870,18 +41883,19 @@
   "properties": {
     "access": "no",
     "defibrillator:location": "Kirchgemeindehaus, Zentralstr. 40",
-    "description": "während Öffnungszeiten",
+    "description": "während Öffnungszeiten\nHaupteingang gleich rechts an der Wand",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "operator": "Evangelisch-Reformierte Kirche Uster",
     "id": "node/9790823317"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7158613,
-      47.3458678
+      8.7158334,
+      47.345827
     ]
   }
 },
@@ -44910,9 +44924,9 @@
   "type": "Feature",
   "id": "node/9960949180",
   "properties": {
-    "access": "no",
+    "access": "yes",
     "defibrillator:location": "Waffenplatz ZH-Reppischtal, Dienstgebäude",
-    "description": "Nicht öffentlich zugänglich",
+    "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -44932,12 +44946,13 @@
   "type": "Feature",
   "id": "node/9960949181",
   "properties": {
-    "access": "no",
+    "access": "yes",
     "defibrillator:location": "Waffenplatz ZH-Reppischtal, Forsthaus",
-    "description": "Nicht öffentlich Zugänglich",
+    "description": "Öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "opening_hours": "24/7",
     "operator": "Amt für Militär und Zivilschutz",
     "phone": "+41 58 484 44 22",
     "id": "node/9960949181"
@@ -46268,11 +46283,12 @@
   "id": "node/10011403731",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Turnhalleneingang",
+    "defibrillator:location": "Schulhaus Pünt, Turnhalleneingang",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "opening_hours": "Mo-Fr 07:00-20:00",
     "operator": "Sanität24 AG",
     "phone": "+41 56 611 99 88",
@@ -46281,8 +46297,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7133853,
-      47.3495901
+      8.7132317,
+      47.3495866
     ]
   }
 },
@@ -59791,8 +59807,8 @@
   "id": "node/10763310102",
   "properties": {
     "access": "no",
-    "defibrillator:location": "1. OG, Reception",
-    "description": "oranger Koffer",
+    "defibrillator:location": "Allianz Empfang",
+    "description": "1. OG, Reception\noranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -73630,7 +73646,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-Fr 7:45- 11:45, 13:30-16:30",
+    "opening_hours": "Mo-Fr 8:00-11:45, 13:30-16:30; PH off",
     "operator": "Bezirksgericht Uster",
     "phone": "+41 43 366 33 00",
     "source": "local_knowledge, defikarte.ch",
@@ -75196,7 +75212,8 @@
   "id": "node/11770725069",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Brunnenstrasse 1",
+    "defibrillator:location": "BIZ, Brunnenstrasse 1",
+    "description": "In der Halle links an der Wand",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -75256,8 +75273,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.714626,
-      47.3490796
+      8.7151044,
+      47.3490393
     ]
   }
 },
