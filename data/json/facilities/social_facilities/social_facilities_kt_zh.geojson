@@ -41311,6 +41311,25 @@
 },
 {
   "type": "Feature",
+  "id": "node/3881850631",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "4",
+    "addr:postcode": "8049",
+    "addr:street": "Naglerwiesenstrasse",
+    "amenity": "social_facility",
+    "id": "node/3881850631"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4831325,
+      47.4136178
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4081379795",
   "properties": {
     "addr:city": "Winterthur",

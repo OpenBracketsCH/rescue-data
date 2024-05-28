@@ -3057,31 +3057,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9417237679",
-  "properties": {
-    "activation": "blackout;phone_breakdown;evacuation",
-    "contact:city": "Rüschlikon",
-    "contact:country": "CH",
-    "contact:housenumber": "29",
-    "contact:postcode": "8803",
-    "contact:street": "Pilgerweg",
-    "emergency": "disaster_help_point",
-    "name": "Gemeindehaus",
-    "operator": "RFO/GFO Kanton Zürich",
-    "source": "https://www.zh.ch/de/sicherheit-justiz/bevoelkerungsschutz/notfalltreffpunkte.html",
-    "temporary": "yes",
-    "id": "node/9417237679"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5554773,
-      47.3081912
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9417237680",
   "properties": {
     "activation": "blackout;phone_breakdown;evacuation",

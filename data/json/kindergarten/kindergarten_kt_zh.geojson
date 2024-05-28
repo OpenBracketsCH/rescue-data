@@ -35829,6 +35829,7 @@
   "id": "node/4122641611",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-05-27",
     "name": "Kindergarten Eulachpark",
     "id": "node/4122641611"
   },
@@ -35845,6 +35846,7 @@
   "id": "node/4122641612",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-05-27",
     "name": "Betreuung Eulachpark",
     "id": "node/4122641612"
   },
