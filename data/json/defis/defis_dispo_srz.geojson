@@ -65107,15 +65107,19 @@
   "id": "node/11038063711",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Schulhaus Matten",
-    "description": "rechts vom Haupteingang",
+    "addr:housenumber": "16",
+    "addr:street": "Matten",
+    "defibrillator:location": "Eingang \nSchulhaus Matten 1429LTS",
+    "description": "Grüner Kasten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "level": "Hochparterre",
+    "name": "Schulhaus Matten",
     "opening_hours": "24/7",
-    "operator": "Feuerwehr Hünenberg",
-    "phone": "+41417802521",
+    "operator": "Lifetec AG Schweiz",
+    "phone": "+41800 122 144",
+    "ref": "1429LTS",
     "id": "node/11038063711"
   },
   "geometry": {
@@ -71179,6 +71183,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
     "operator": "Gemeindeverwaltung Bassersdorf",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/11527842769"
@@ -71186,8 +71192,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6319387,
-      47.4394306
+      8.6321053,
+      47.4393891
     ]
   }
 },
@@ -79174,6 +79180,74 @@
     "coordinates": [
       8.7693074,
       47.3711382
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11939182869",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Mandarin Oriental Savoy, Zurich",
+    "description": "24/7- 2 AED on-site",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "3",
+    "opening_hours": "24/7",
+    "phone": "+41 43 588 3888",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11939182869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5396167,
+      47.369829
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11939228969",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Maurerschule Winterthur, vor der Turnhalle (Eingange)",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11939228969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7367487,
+      47.4917396
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11940501369",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Polizeistation Wald (nicht öffentlich zugänglich)",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "Mo-Fr 07:30-12:00, 13:00-17:00",
+    "operator": "Kantonspolizei Zürich",
+    "phone": "+41586486420",
+    "id": "node/11940501369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9128568,
+      47.276608
     ]
   }
 }
