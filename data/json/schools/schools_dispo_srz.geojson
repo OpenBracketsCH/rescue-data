@@ -102925,6 +102925,7 @@
   "id": "way/532894545",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-05-29",
     "contact:city": "Zürich",
     "contact:housenumber": "491",
     "contact:phone": "+41 44 413 23 00",
@@ -103039,6 +103040,7 @@
   "id": "way/532894546",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-05-29",
     "contact:city": "Zürich",
     "contact:housenumber": "5",
     "contact:phone": "+41 44 413 07 10",

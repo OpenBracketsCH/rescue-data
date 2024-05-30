@@ -56914,29 +56914,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10839356050",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "87",
-    "addr:postcode": "8004",
-    "addr:street": "Badenerstrasse",
-    "amenity": "social_facility",
-    "name": "Trimons Werk-Stadt",
-    "social_facility": "outreach",
-    "website": "https://www.trimons.ch/werk-stadt/",
-    "wheelchair": "limited",
-    "id": "node/10839356050"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5258984,
-      47.3738536
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10839657685",
   "properties": {
     "addr:city": "Zürich",
