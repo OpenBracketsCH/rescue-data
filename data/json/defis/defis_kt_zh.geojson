@@ -35925,8 +35925,10 @@
   "id": "node/10185369836",
   "properties": {
     "access": "no",
-    "addr:housenumber": "Niedelbadstrasse 58",
-    "addr:postcode": "8803 Rüschlikon",
+    "addr:city": "Rüschlikon",
+    "addr:housenumber": "58",
+    "addr:postcode": "8803",
+    "addr:street": "Nidelbadstrasse",
     "defibrillator:location": "Eingangsbereich Erdgeschoss (hinter Eingangstüre)",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
@@ -60402,7 +60404,7 @@
     "emergency": "defibrillator",
     "indoor": "yes",
     "level": "0",
-    "op": "08:00-12:00, 13:00-17:00",
+    "opening_hours": "08:00-12:00, 13:00-17:00",
     "operator": "Tertianum Bülach",
     "id": "node/11936677684"
   },
@@ -60614,6 +60616,30 @@
     "coordinates": [
       8.8077843,
       47.3315808
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11944422269",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "ANDRITZ Soutec AG / Bürogebäude",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "Mo-Fr 8:00-17:00",
+    "operator": "Firma",
+    "phone": "+41523040744",
+    "id": "node/11944422269"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6567923,
+      47.5242265
     ]
   }
 }
