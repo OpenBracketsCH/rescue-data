@@ -742,6 +742,7 @@
   "id": "node/2074367679",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-05-31",
     "name": "Swiss International School Kindergarten",
     "id": "node/2074367679"
   },

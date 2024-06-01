@@ -3787,7 +3787,7 @@
     "amenity": "fire_station",
     "building": "fire_station",
     "name": "Stützpunkt Feuerwehr Hinwil",
-    "phone": "+41 44 937 20 24",
+    "phone": "+41 44 938 56 60",
     "website": "https://www.feuerwehr-hinwil.ch/",
     "id": "way/252140184"
   },
@@ -3814,6 +3814,10 @@
         [
           8.8344521,
           47.306595
+        ],
+        [
+          8.8345983,
+          47.3067461
         ],
         [
           8.8346706,

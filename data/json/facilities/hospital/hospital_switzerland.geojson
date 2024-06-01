@@ -55622,6 +55622,25 @@
       47.2282769
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11948865318",
+  "properties": {
+    "amenity": "clinic",
+    "name": "Centre médico-chirurgical Vermont - Grand-Pré",
+    "opening_hours": "24/7",
+    "phone": "+41227345150",
+    "website": "https://www.cmvg.ch",
+    "id": "node/11948865318"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1336962,
+      46.2158958
+    ]
+  }
 }
 ]
 }

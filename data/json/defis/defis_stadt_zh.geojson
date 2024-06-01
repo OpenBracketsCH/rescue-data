@@ -12443,29 +12443,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11510500871",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Securitas AG Einsatzzentrale",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "0",
-    "opening_hours": "24/7",
-    "operator": "Securitas AG",
-    "phone": "+41 58 910 58 58",
-    "id": "node/11510500871"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5187499,
-      47.3730025
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11510563569",
   "properties": {
     "access": "no",
@@ -14227,6 +14204,30 @@
     "coordinates": [
       8.5396167,
       47.369829
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11947777469",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Securitas AG Einsatzzentrale ",
+    "description": "Der Defibrillator befindet sich im Gebäude und steht nur nach telefonischer Vereinbarung zur Verfügung. (058 910 38 00)",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Securitas AG Schweizerische Bewachungsgesellschaft ",
+    "phone": "+41 58 910 38 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11947777469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.518797,
+      47.3729831
     ]
   }
 }
