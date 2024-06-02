@@ -58947,6 +58947,27 @@
 },
 {
   "type": "Feature",
+  "id": "node/6945707321",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "foot": "no",
+    "locked": "yes",
+    "note": "Wildruhezone",
+    "swing_gate:type": "single",
+    "vehicle": "no",
+    "id": "node/6945707321"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6329226,
+      47.2384544
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6945923937",
   "properties": {
     "barrier": "gate",
