@@ -12084,6 +12084,7 @@
     "addr:street": "Hohenklingenstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-06-02",
     "name": "Altersheim Hauserstiftung Höngg",
     "operator": "Hauserstiftung",
     "social_facility": "group_home",
