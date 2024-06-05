@@ -65812,6 +65812,7 @@
     "amenity": "school",
     "building": "school",
     "building:levels": "5",
+    "check_date": "2024-06-04",
     "name": "Sek 1 March Siebnen, Schulhaus",
     "operator": "Bezirk March",
     "roof:shape": "flat",
@@ -65939,6 +65940,7 @@
     "addr:street": "Äussere Bahnhofstrasse",
     "amenity": "school",
     "building": "sports_centre",
+    "check_date": "2024-06-04",
     "name": "Sek 1 March Siebnen, Turnhalle",
     "operator": "Bezirk March",
     "id": "way/217735698"
@@ -81518,6 +81520,7 @@
     "addr:street": "Rämistrasse",
     "amenity": "school",
     "building": "yes",
+    "check_date": "2024-06-04",
     "name": "Literaturgymnasium & Realgymnasium Rämibühl",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
     "wikipedia": "de:Kantonsschule Rämibühl",

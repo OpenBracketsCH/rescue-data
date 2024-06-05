@@ -15873,6 +15873,7 @@
     "addr:street": "Minervastrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-06-04",
     "name": "Alters- und Pflegeheim St. Otmar",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
@@ -45008,6 +45009,7 @@
     "addr:housenumber": "25",
     "addr:street": "Quellenstrasse",
     "amenity": "social_facility",
+    "check_date": "2024-06-04",
     "email": "stiftung@frauenhaus-zhv.ch",
     "name": "Stiftung Frauenhaus Zürich",
     "name:en": "Women Refuge Zürich",
@@ -45015,6 +45017,7 @@
     "social_facility": "shelter",
     "social_facility:for": "women",
     "website": "https://www.frauenhaus-zhv.ch",
+    "wheelchair": "yes",
     "id": "node/8600303441"
   },
   "geometry": {

@@ -11833,6 +11833,7 @@
     "addr:street": "Rämistrasse",
     "amenity": "school",
     "building": "yes",
+    "check_date": "2024-06-04",
     "name": "Literaturgymnasium & Realgymnasium Rämibühl",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
     "wikipedia": "de:Kantonsschule Rämibühl",
