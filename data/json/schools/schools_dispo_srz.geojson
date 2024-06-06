@@ -34525,7 +34525,9 @@
     "amenity": "school",
     "building": "school",
     "building:levels": "2",
+    "check_date": "2024-06-05",
     "name": "Gewerbliche Berufsschule",
+    "roof:shape": "many",
     "source": "landsat",
     "id": "way/98867433"
   },

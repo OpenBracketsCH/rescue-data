@@ -4646,6 +4646,10 @@
   "type": "Feature",
   "id": "way/665102197",
   "properties": {
+    "addr:city": "Kloten",
+    "addr:housenumber": "16",
+    "addr:postcode": "8302",
+    "addr:street": "Werkhofstrasse",
     "alt_name": "Wache Flughafen",
     "amenity": "fire_station",
     "building": "transportation",
