@@ -3099,6 +3099,7 @@
     "building": "yes",
     "building:colour": "#DEC7AF",
     "building:levels": "2",
+    "check_date": "2024-06-08",
     "name": "Villa Ninck",
     "roof:levels": "2",
     "roof:orientation": "across",
@@ -3340,70 +3341,6 @@
         [
           8.537609,
           47.293682
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/41949795",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "64",
-    "addr:postcode": "8046",
-    "addr:street": "Zehntenhausstrasse",
-    "amenity": "kindergarten",
-    "building": "school",
-    "building:levels": "2",
-    "isced:level": "0",
-    "name": "Kindergarten Zehntenhaus I + II",
-    "roof:levels": "1",
-    "id": "way/41949795"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5081732,
-          47.42278
-        ],
-        [
-          8.5083096,
-          47.422764
-        ],
-        [
-          8.5083346,
-          47.4228621
-        ],
-        [
-          8.5084162,
-          47.4228525
-        ],
-        [
-          8.5084257,
-          47.4228895
-        ],
-        [
-          8.5083121,
-          47.422903
-        ],
-        [
-          8.5082776,
-          47.4229069
-        ],
-        [
-          8.5082411,
-          47.422911
-        ],
-        [
-          8.5082078,
-          47.4229151
-        ],
-        [
-          8.5081732,
-          47.42278
         ]
       ]
     ]
@@ -27039,7 +26976,7 @@
     "contact:street": "Zehntenhausstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/blumenfeld/ueberuns/standorte/kindergaerten.html",
     "name": "Kindergarten Zehntenhaus",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Blumenfeld",
+    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
     "operator:type": "public",
     "id": "way/705219554"
   },
@@ -27052,12 +26989,12 @@
           47.4229911
         ],
         [
-          8.5080759,
-          47.4225963
+          8.5081036,
+          47.4227704
         ],
         [
-          8.5080535,
-          47.4224659
+          8.5080478,
+          47.4224637
         ],
         [
           8.5081541,

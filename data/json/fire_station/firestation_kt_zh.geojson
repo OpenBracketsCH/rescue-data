@@ -6228,6 +6228,7 @@
   "id": "node/7353590220",
   "properties": {
     "amenity": "fire_station",
+    "check_date": "2024-06-05",
     "name": "Feuerwehr Bülach",
     "id": "node/7353590220"
   },

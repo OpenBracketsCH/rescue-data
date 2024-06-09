@@ -35162,51 +35162,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/404696759",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "4",
-    "addr:postcode": "8046",
-    "addr:street": "Mühlackerstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "SWS Notwohneinrichtung Brothuuse",
-    "operator": "Sozialwerk Pfarrer Sieber",
-    "phone": "+41 43 495 90 87",
-    "social_facility": "assisted_living",
-    "website": "https://www.swsieber.ch/was-wir-tun/weiterhelfen/notwohnsiedlung/",
-    "id": "way/404696759"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5074612,
-          47.4234996
-        ],
-        [
-          8.5074077,
-          47.4234219
-        ],
-        [
-          8.5076664,
-          47.4233409
-        ],
-        [
-          8.5077183,
-          47.4234191
-        ],
-        [
-          8.5074612,
-          47.4234996
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/405651571",
   "properties": {
     "addr:city": "Weisslingen",
@@ -57652,6 +57607,26 @@
     "coordinates": [
       8.7292989,
       47.3460973
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11965056523",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "SWS Notwohneinrichtung Brothuuse",
+    "operator": "Sozialwerk Pfarrer Sieber",
+    "phone": "+41 43 495 90 87",
+    "social_facility": "assisted_living",
+    "website": "https://www.swsieber.ch/was-wir-tun/weiterhelfen/notwohnsiedlung/",
+    "id": "node/11965056523"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5075444,
+      47.42341
     ]
   }
 }

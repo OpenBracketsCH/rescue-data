@@ -10531,8 +10531,7 @@
     "addr:housenumber": "319",
     "addr:postcode": "8008",
     "addr:street": "Forchstrasse",
-    "amenity": "hospital",
-    "healthcare": "hospital",
+    "amenity": "clinic",
     "healthcare:speciality": "sports_medicine",
     "name": "Universitäres Zentrum für Prävention und Sportmedizin",
     "operator": "Universitätsklinik Balgrist",
@@ -10542,8 +10541,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5746791,
-      47.3552798
+      8.5747218,
+      47.3552764
     ]
   }
 },

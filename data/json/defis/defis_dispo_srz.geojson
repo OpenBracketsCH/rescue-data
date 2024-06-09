@@ -5157,6 +5157,7 @@
     "defibrillator:location": "Aussenbereich neben Bankeingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "opening_hours": "24/7",
     "id": "node/7565155650"
   },
@@ -50028,8 +50029,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7155753,
-      47.3435847
+      8.7155665,
+      47.343476
     ]
   }
 },

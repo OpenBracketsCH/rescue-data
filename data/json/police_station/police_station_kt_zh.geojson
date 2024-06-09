@@ -2108,6 +2108,7 @@
     "addr:street": "Allmendstrasse",
     "alt_name": "KomPol Bülach",
     "amenity": "police",
+    "check_date": "2024-06-05",
     "email": "stadtpolizei@buelach.ch",
     "name": "Stadtpolizei Bülach",
     "opening_hours": "Mo-We 08:00-12:00, 14:00-17:00; Th 08:00-12:00, 14:00-18:39; Fr 08:00-14:00; PH off",
