@@ -53115,21 +53115,22 @@
   "id": "node/11406161969",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Genossenschaftslokal BG Halde\nEugen Huber-Str. 100\n1342LTS",
-    "description": "Grüner Kasten /  Koffer Orange",
+    "defibrillator:location": "Aussen an der Wand vom Genossenschaftslokal BG Halde, Eugen Huber-Str. 100, 1342LTS",
+    "description": "Grüner Kasten / Koffer Orange",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
+    "survey_date": "2024-06-07",
     "id": "node/11406161969"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4764509,
-      47.3876869
+      8.4764643,
+      47.3876615
     ]
   }
 },
@@ -61018,6 +61019,55 @@
     "coordinates": [
       8.8273054,
       47.5636699
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11968249369",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Turnhalle Breiteacker, Breiteackerstr. 44a / Achtung: ersetzt Defi-Standort im Foyer  47,5155432, 8,6471656",
+    "description": "an der Turnhalle - Aussenfassade Ost (Zufahrt zum Schulhaus/ Ecke Breiteackerstr.)",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Pfungen",
+    "phone": "+41 52 305 07 70",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11968249369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6473989,
+      47.5155993
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11968300569",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Polyright SA, Adlikerstrasse 290, 8105 Regensdorf",
+    "description": "Bei Anwesenheit kann der Defi abgegeben werden. ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "3",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
+    "operator": "Polyright SA",
+    "phone": "+41 27 303 50 07",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11968300569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4669981,
+      47.4434362
     ]
   }
 }

@@ -13590,6 +13590,25 @@
       47.3768034
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11966532530",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Fachspital Sunne-Egge",
+    "opening_hours": "24/7",
+    "start_date": "25.06.2024",
+    "wheelchair": "yes",
+    "id": "node/11966532530"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5174969,
+      47.4151388
+    ]
+  }
 }
 ]
 }

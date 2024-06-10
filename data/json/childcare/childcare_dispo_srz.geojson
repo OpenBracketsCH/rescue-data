@@ -13468,6 +13468,22 @@
       47.4095629
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11966259700",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Krippe KiMi",
+    "id": "node/11966259700"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4471008,
+      47.4029858
+    ]
+  }
 }
 ]
 }
