@@ -55645,18 +55645,19 @@
   "type": "Feature",
   "id": "node/11966532530",
   "properties": {
-    "amenity": "hospital",
+    "amenity": "clinic",
     "name": "Fachspital Sunne-Egge",
     "opening_hours": "24/7",
-    "start_date": "25.06.2024",
+    "operator": "Sozialwerk Pfarrer Sieber",
+    "start_date": "2024-06-25",
     "wheelchair": "yes",
     "id": "node/11966532530"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5174969,
-      47.4151388
+      8.5175183,
+      47.4150552
     ]
   }
 }
