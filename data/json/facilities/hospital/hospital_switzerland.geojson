@@ -53162,29 +53162,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8998456884",
-  "properties": {
-    "amenity": "clinic",
-    "email": "flughafen.ambulant@zurzachcare.ch",
-    "healthcare": "clinic",
-    "level": "0",
-    "name": "Ambulantes Zentrum ZURZACH Care",
-    "opening_hours": "Mo-Th 07:30-19:00; Fr 07:30-16:00",
-    "operator": "ZURZACH Care",
-    "phone": "+41 56 269 51 52",
-    "website": "https://www.zurzachcare.ch/flughafen-ambulant",
-    "id": "node/8998456884"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5657467,
-      47.4492497
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9028857238",
   "properties": {
     "addr:city": "Zürich",

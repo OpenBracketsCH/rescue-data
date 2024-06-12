@@ -3873,6 +3873,7 @@
     "addr:street": "Waldhofstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-06-11",
     "name": "Alterszentrum Brühlgut",
     "social_facility": "group_home",
     "social_facility:for": "senior",

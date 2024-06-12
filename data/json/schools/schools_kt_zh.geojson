@@ -18601,6 +18601,7 @@
     "amenity": "school",
     "building": "school",
     "building:levels": "3",
+    "check_date": "2024-06-11",
     "isced:level": "1;2",
     "name": "Schulhaus Kolbenacker",
     "owner": "Immobilien Stadt Zürich (IMMO)",
@@ -62046,6 +62047,7 @@
   "id": "way/251216270",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-06-11",
     "contact:city": "Zürich",
     "contact:housenumber": "71",
     "contact:phone": "+41 44 413 03 70",
