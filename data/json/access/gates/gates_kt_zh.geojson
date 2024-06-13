@@ -72888,7 +72888,7 @@
   "id": "node/10822741999",
   "properties": {
     "barrier": "gate",
-    "vehicle": "customer",
+    "vehicle": "customers",
     "id": "node/10822741999"
   },
   "geometry": {
@@ -74454,7 +74454,7 @@
   "id": "node/11035774707",
   "properties": {
     "barrier": "gate",
-    "vehicle": "customer",
+    "vehicle": "customers",
     "id": "node/11035774707"
   },
   "geometry": {
@@ -74470,7 +74470,7 @@
   "id": "node/11035774708",
   "properties": {
     "barrier": "gate",
-    "vehicle": "customer",
+    "vehicle": "customers",
     "id": "node/11035774708"
   },
   "geometry": {
