@@ -41894,12 +41894,9 @@
     "amenity": "kindergarten",
     "contact:city": "Zürich",
     "contact:housenumber": "20a",
-    "contact:phone": "+41 44 413 72 99",
     "contact:postcode": "8049",
     "contact:street": "Frankentalerstrasse",
-    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/ruetihof/ueberuns/standorte/kindergaerten.html#frankental_i_undii",
-    "name": "Kindergarten Frankental 1+2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Rütihof",
+    "name": "Kinderkrippe BAMBI",
     "operator:type": "public",
     "id": "node/9533924882"
   },

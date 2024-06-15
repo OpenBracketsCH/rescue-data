@@ -59534,7 +59534,6 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "level": "unter Tribüne",
     "opening_hours": "24/7",
     "operator": "karl‘s kühne gassenschau gmbh",
     "id": "node/11886136369"
@@ -59542,8 +59541,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.3864541,
-      47.4128077
+      8.3859586,
+      47.4131494
     ]
   }
 },
@@ -61320,8 +61319,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-Fr 9:00-19:00",
-    "operator": "Sunflower Labs GmbH ",
+    "opening_hours": "Mo-Fr 09:00-19:00",
+    "operator": "Sunflower Labs GmbH",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/11978145569"
   },
@@ -61330,6 +61329,123 @@
     "coordinates": [
       8.4769928,
       47.3484334
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11980196169",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Gemeindekanzlei Andelfingen",
+    "description": "immer zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Andelfingen",
+    "phone": "+41523042700",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11980196169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6796713,
+      47.5951523
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11980198269",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "altes Werk- und Feuerwehrgebäude Niederwil",
+    "description": "immer zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Andelfingen",
+    "phone": "+41523042700",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11980198269"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7174958,
+      47.5794026
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11980205669",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Sporthalle Niederfeld (Seiteneingang beim Parkplatz)",
+    "description": "immer zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Andelfingen",
+    "phone": "+41523042700",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11980205669"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.672483,
+      47.5966572
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11980451370",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Weidstrasse 17",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Privatperson",
+    "phone": "+41792866765",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11980451370"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6710453,
+      47.4313388
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11981101469",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Garderobengebäude Fussballclub",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Oetwil am See",
+    "phone": "+41 44 929 60 11",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11981101469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7282085,
+      47.271564
     ]
   }
 }
