@@ -10700,8 +10700,10 @@
     "addr:street": "Hobelwerkweg",
     "amenity": "kindergarten",
     "building": "school",
+    "building:levels": "1",
     "building:roof": "flat",
     "name": "Kindergarten Hegifeld",
+    "roof:levels": "0",
     "id": "way/109298062"
   },
   "geometry": {
