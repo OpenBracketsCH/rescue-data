@@ -495,3 +495,4 @@ FeatureCollection,"{'type': 'Feature', 'id': 'node/11063474683', 'properties': {
 FeatureCollection,"{'type': 'Feature', 'id': 'node/11063474684', 'properties': {'aeroway': 'helipad', 'ele': '2235', 'icao': 'LSYC', 'name': 'Crap Sogn Gion', 'id': 'node/11063474684'}, 'geometry': {'type': 'Point', 'coordinates': [9.2151663, 46.8359487]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/11219834008', 'properties': {'aeroway': 'helipad', 'id': 'node/11219834008'}, 'geometry': {'type': 'Point', 'coordinates': [8.5183357, 47.1940466]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/11594240577', 'properties': {'aeroway': 'helipad', 'id': 'node/11594240577'}, 'geometry': {'type': 'Point', 'coordinates': [8.7874911, 46.2573042]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/11980672056', 'properties': {'aeroway': 'helipad', 'id': 'node/11980672056'}, 'geometry': {'type': 'Point', 'coordinates': [8.38723, 47.4111475]}}"
