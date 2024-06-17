@@ -39266,7 +39266,8 @@
   "type": "Feature",
   "id": "node/10725889310",
   "properties": {
-    "access": "yes",
+    "access": "24/7",
+    "colour": "lime",
     "defibrillator:location": "Postautohaltestelle Wührenbach",
     "description": "24h verfügbar",
     "emergency": "defibrillator",
@@ -39279,8 +39280,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5891147,
-      47.2467506
+      8.5892017,
+      47.2468993
     ]
   }
 },
@@ -61494,6 +61495,51 @@
     "coordinates": [
       8.6550763,
       47.3875835
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11985922069",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Beim Haupteingang, hinten rechts neben der Schiebetür.",
+    "description": "Während den Öffnungszeiten Verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "operator": "Swiss International Air Lines",
+    "id": "node/11985922069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5776979,
+      47.451584
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11986009969",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Depot Feuerwehr",
+    "description": "Nicht Öffentlich verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Feuerwehr Pfungen",
+    "phone": "+41 52 315 23 23",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11986009969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6434078,
+      47.5173924
     ]
   }
 }
