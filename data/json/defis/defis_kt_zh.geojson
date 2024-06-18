@@ -39266,7 +39266,7 @@
   "type": "Feature",
   "id": "node/10725889310",
   "properties": {
-    "access": "24/7",
+    "access": "yes",
     "colour": "lime",
     "defibrillator:location": "Postautohaltestelle Wührenbach",
     "description": "24h verfügbar",
@@ -61540,6 +61540,51 @@
     "coordinates": [
       8.6434078,
       47.5173924
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11986966169",
+  "properties": {
+    "defibrillator:location": "Tennishalle Blue Point Uster",
+    "description": "im Restaurant",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "Erdgeschoss",
+    "opening_hours": "8:00 - 20:00",
+    "operator": "Blue Point",
+    "id": "node/11986966169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7250498,
+      47.3585676
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11989100469",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "MFH, vor dem Hauteingang, ca 5meter von der Strasse entfernt",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "operator": "Vermutlich Privat",
+    "phone": "+41444068239",
+    "id": "node/11989100469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7097889,
+      47.3534596
     ]
   }
 }

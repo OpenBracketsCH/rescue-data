@@ -6579,6 +6579,7 @@
   "id": "way/47318176",
   "properties": {
     "amenity": "hospital",
+    "check_date": "2024-06-17",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "Clinique de la Source",

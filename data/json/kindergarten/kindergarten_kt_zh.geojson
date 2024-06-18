@@ -12430,16 +12430,28 @@
           47.5331114
         ],
         [
-          8.7382914,
-          47.5331949
+          8.73829,
+          47.5331943
         ],
         [
-          8.7381865,
-          47.5332445
+          8.7382249,
+          47.533225
+        ],
+        [
+          8.7381589,
+          47.5332577
+        ],
+        [
+          8.738112,
+          47.5332831
         ],
         [
           8.7380707,
           47.5333081
+        ],
+        [
+          8.7380241,
+          47.5333382
         ],
         [
           8.7379727,
@@ -38130,30 +38142,6 @@
     "coordinates": [
       8.478619,
       47.3928057
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6631642692",
-  "properties": {
-    "amenity": "kindergarten",
-    "contact:city": "Zürich",
-    "contact:housenumber": "31",
-    "contact:phone": "+41 44 413 74 87",
-    "contact:postcode": "8064",
-    "contact:street": "Grünauring",
-    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/gruenau/ueberuns/standorte/kindergaerten.html",
-    "name": "Kindergarten Grünau 3 + 4",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Grünau",
-    "operator:type": "public",
-    "id": "node/6631642692"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4869585,
-      47.396265
     ]
   }
 },

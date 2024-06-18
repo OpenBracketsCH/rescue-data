@@ -55028,6 +55028,7 @@
     "addr:housenumber": "81",
     "addr:street": "Ida-Sträuli-Strasse",
     "amenity": "social_facility",
+    "check_date": "2024-06-17",
     "name": "Quellenhof Awg Winterthur",
     "operator": "Quellenhof Stiftung",
     "social_facility": "assisted_living",
@@ -57632,6 +57633,29 @@
     "coordinates": [
       8.5075444,
       47.42341
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11987039036",
+  "properties": {
+    "addr:city": "Bülach",
+    "addr:housenumber": "22",
+    "addr:postcode": "8180",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "social_facility",
+    "name": "ABD PLUS Private Spitex",
+    "phone": "+41 44 860 13 13",
+    "social_facility": "ambulatory_care",
+    "website": "https://abd-plus.ch/",
+    "id": "node/11987039036"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5401134,
+      47.5206216
     ]
   }
 }

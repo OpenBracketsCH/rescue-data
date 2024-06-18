@@ -8320,54 +8320,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1118326382",
-  "properties": {
-    "addr:city": "Zug",
-    "addr:housenumber": "32",
-    "addr:postcode": "6300",
-    "addr:street": "St.Johannesstrasse",
-    "amenity": "school",
-    "building": "school",
-    "id": "way/1118326382"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5038485,
-          47.1810491
-        ],
-        [
-          8.5036449,
-          47.1810792
-        ],
-        [
-          8.5035678,
-          47.1808367
-        ],
-        [
-          8.5039228,
-          47.1807845
-        ],
-        [
-          8.5040012,
-          47.1810261
-        ],
-        [
-          8.5039198,
-          47.1810389
-        ],
-        [
-          8.5038485,
-          47.1810491
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1154276531",
   "properties": {
     "amenity": "school",
