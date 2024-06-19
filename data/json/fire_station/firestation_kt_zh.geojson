@@ -1198,6 +1198,7 @@
     "addr:street": "Maulackerstrasse",
     "amenity": "fire_station",
     "building": "yes",
+    "check_date": "2024-06-18",
     "name": "Feuerwehr Altbach - Depot Nürensdorf",
     "id": "way/46974264"
   },

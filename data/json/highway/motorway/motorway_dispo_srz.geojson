@@ -4811,7 +4811,7 @@
     "highway": "motorway",
     "lanes": "3",
     "lit": "yes",
-    "maxspeed": "60",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "A1L",
     "toll": "yes",

@@ -359,6 +359,7 @@
     "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00; Tu, Th 11:00-17:00",
     "operator": "Stadtpolizei Zürich",
     "phone": "+41 44 411 83 33",
+    "wheelchair": "yes",
     "id": "node/983436285"
   },
   "geometry": {

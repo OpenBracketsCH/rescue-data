@@ -1227,7 +1227,7 @@
     "brand:wikidata": "Q62562792",
     "dispensing": "yes",
     "healthcare": "pharmacy",
-    "name": "BENU Apotheke",
+    "name": "BENU",
     "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-17:00",
     "operator": "BENU Pharmacies",
     "website": "https://www.benu.ch/de/pharmacies/faellanden/",
@@ -1237,8 +1237,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6410784,
-      47.3736751
+      8.6409872,
+      47.3737003
     ]
   }
 },

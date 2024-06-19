@@ -16331,6 +16331,7 @@
     "building": "yes",
     "healthcare": "clinic",
     "name": "Centro Medico",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00",
     "source": "website and survey",
     "website": "https://www.centromedico.ch/",
     "id": "way/228362596"
@@ -55547,6 +55548,7 @@
     "amenity": "clinic",
     "healthcare": "clinic",
     "name": "Centro medico Chiasso",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00",
     "id": "node/11457410255"
   },
   "geometry": {

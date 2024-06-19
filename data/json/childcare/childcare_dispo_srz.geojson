@@ -11328,6 +11328,7 @@
     "name": "Kinderhort Probstei - Morgen-Mittag-Abend",
     "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Probstei",
     "operator:type": "public",
+    "wheelchair": "limited",
     "id": "node/9544898140"
   },
   "geometry": {

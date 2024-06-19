@@ -1526,6 +1526,8 @@
     "name": "Schule Probstei",
     "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Probstei",
     "operator:type": "public",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "limited",
     "id": "way/31688459"
   },
   "geometry": {
@@ -20356,6 +20358,7 @@
     "name": "RgZ Heilpädagogische Schule Zürich",
     "operator": "Stiftung RgZ Heilpädagogische Schule Zürich",
     "operator:type": "private",
+    "wheelchair": "yes",
     "id": "node/9128635696"
   },
   "geometry": {
