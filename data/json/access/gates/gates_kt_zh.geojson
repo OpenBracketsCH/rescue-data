@@ -16783,6 +16783,7 @@
   "properties": {
     "access": "private",
     "barrier": "gate",
+    "survey:date": "2024-06-16",
     "id": "node/1820416020"
   },
   "geometry": {
@@ -83908,6 +83909,21 @@
     "coordinates": [
       8.6869539,
       47.4350516
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11991405988",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/11991405988"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7789828,
+      47.2517156
     ]
   }
 }

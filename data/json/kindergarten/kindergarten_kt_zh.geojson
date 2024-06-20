@@ -44588,6 +44588,7 @@
     "name": "Kindergarten Grünau 1 + 2",
     "phone": "+41 44 413 05 63",
     "website": "https://www.stadt-zuerich.ch/schulen/de/gruenau/ueberuns/standorte/kindergaerten.html",
+    "wheelchair": "limited",
     "id": "node/10828205583"
   },
   "geometry": {

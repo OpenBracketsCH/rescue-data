@@ -9333,6 +9333,7 @@
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/gruenau/betreuung/standorte.html",
     "name": "Kinderhort Grünau 2",
     "operator:type": "public",
+    "wheelchair": "no",
     "id": "node/9357721221"
   },
   "geometry": {
@@ -9356,6 +9357,7 @@
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/gruenau/betreuung/standorte.html",
     "name": "Kinderhort Grünau 1 + Morgentisch",
     "operator:type": "public",
+    "wheelchair": "yes",
     "id": "node/9357721222"
   },
   "geometry": {

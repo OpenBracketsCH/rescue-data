@@ -24750,6 +24750,22 @@
       47.4111475
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/11992829989",
+  "properties": {
+    "aeroway": "helipad",
+    "name": "Hörnlihütte",
+    "id": "node/11992829989"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6772028,
+      45.9822946
+    ]
+  }
 }
 ]
 }

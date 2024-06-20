@@ -9932,7 +9932,7 @@
   "id": "node/8702470111",
   "properties": {
     "addr:city": "Kilchberg",
-    "addr:housenumber": "155A",
+    "addr:housenumber": "155a",
     "addr:postcode": "8802",
     "addr:street": "Seestrasse",
     "amenity": "clinic",

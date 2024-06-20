@@ -23209,7 +23209,10 @@
   "type": "Feature",
   "id": "way/332307795",
   "properties": {
-    "addr:street": "Hans Albrecht-Strasse",
+    "addr:city": "Bad Ragaz",
+    "addr:housenumber": "5",
+    "addr:postcode": "7310",
+    "addr:street": "Hermitageweg",
     "amenity": "clinic",
     "building": "yes",
     "healthcare": "clinic",
@@ -23223,32 +23226,28 @@
     "coordinates": [
       [
         [
-          9.5031748,
-          46.99965
+          9.5031756,
+          46.9996461
         ],
         [
-          9.5029019,
-          46.999395
+          9.5029055,
+          46.9993954
         ],
         [
-          9.503105,
-          46.9992939
+          9.5031046,
+          46.9992956
         ],
         [
-          9.5032538,
-          46.9994328
+          9.5032476,
+          46.9994284
         ],
         [
-          9.5033654,
-          46.9995439
+          9.5033747,
+          46.9995463
         ],
         [
-          9.5033455,
-          46.9995561
-        ],
-        [
-          9.5031748,
-          46.99965
+          9.5031756,
+          46.9996461
         ]
       ]
     ]
@@ -53545,7 +53544,7 @@
   "id": "node/8702470111",
   "properties": {
     "addr:city": "Kilchberg",
-    "addr:housenumber": "155A",
+    "addr:housenumber": "155a",
     "addr:postcode": "8802",
     "addr:street": "Seestrasse",
     "amenity": "clinic",

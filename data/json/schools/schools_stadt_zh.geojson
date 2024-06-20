@@ -17106,6 +17106,7 @@
     "name": "Schule Grünau",
     "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Grünau",
     "operator:type": "public",
+    "wheelchair": "yes",
     "id": "way/551666196"
   },
   "geometry": {
