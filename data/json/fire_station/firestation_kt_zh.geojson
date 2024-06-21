@@ -5304,6 +5304,7 @@
   "id": "node/304826155",
   "properties": {
     "amenity": "fire_station",
+    "check_date": "2024-06-20",
     "name": "Feuerwehr Buchs-Dällikon",
     "id": "node/304826155"
   },
