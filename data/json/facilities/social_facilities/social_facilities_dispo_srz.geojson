@@ -14525,19 +14525,15 @@
     "amenity": "social_facility",
     "building": "residential",
     "building:levels": "11",
-    "capacity": "78+9",
-    "contact:email": "asz-oberstrass@zuerich.ch",
-    "contact:fax": "+41 43 255 20 71",
-    "contact:phone": "+41 43 255 20 70",
-    "contact:website": "http://www.stadt-zuerich.ch/az-oberstrass",
-    "name": "Gesundheitszentrum für das Alter Oberstrass",
-    "old_name": "Alterswohnheim Oberstrass",
-    "operator": "Stadt Zürich, GUD",
+    "capacity": "80",
+    "contact:email": "seb-sta@zuerich.ch",
+    "contact:phone": "+41 44 415 69 00",
+    "contact:website": "https://www.stadt-zuerich.ch/sd/de/index/ueber_das_departement/organisation/seb/wo.html",
+    "name": "Stationäre Wohnintegration Oberstrass",
+    "operator": "Stadt Zürich, Soziale Einrichtungen und Betriebe, Wohnen und Obdach",
     "owner": "Immobilien Stadt Zürich (IMMO)",
     "roof:levels": "0",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
+    "social_facility": "outreach",
     "start_date": "1972",
     "id": "way/112608704"
   },
@@ -14660,142 +14656,6 @@
         [
           8.5468387,
           47.3935338
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/112608733",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "65",
-    "addr:postcode": "8057",
-    "addr:street": "Langensteinenstrasse",
-    "amenity": "social_facility",
-    "building": "hospital",
-    "building:levels": "3",
-    "building:use": "residential",
-    "name": "Stationäre Wohnintegration Irchelpark",
-    "old_name": "Pflegezentrum Irchelpark",
-    "operator": "Stadt Zürich, SD",
-    "owner": "Immobilien Stadt Zürich (IMMO)",
-    "phone": "+41 44 415 55 90",
-    "social_facility": "assisted_living",
-    "social_facility:for": "homeless",
-    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
-    "start_date": "1988",
-    "id": "way/112608733"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5479393,
-          47.3936127
-        ],
-        [
-          8.5478852,
-          47.3935938
-        ],
-        [
-          8.5479087,
-          47.3935625
-        ],
-        [
-          8.5478468,
-          47.3935412
-        ],
-        [
-          8.5478237,
-          47.3935719
-        ],
-        [
-          8.5477263,
-          47.3935371
-        ],
-        [
-          8.5477997,
-          47.3934394
-        ],
-        [
-          8.5478359,
-          47.3934518
-        ],
-        [
-          8.5478804,
-          47.3933926
-        ],
-        [
-          8.5480251,
-          47.3934423
-        ],
-        [
-          8.5480191,
-          47.3934503
-        ],
-        [
-          8.5480591,
-          47.393464
-        ],
-        [
-          8.5481629,
-          47.3934419
-        ],
-        [
-          8.5481581,
-          47.3934316
-        ],
-        [
-          8.5483122,
-          47.393397
-        ],
-        [
-          8.5483392,
-          47.3934604
-        ],
-        [
-          8.5483802,
-          47.3934515
-        ],
-        [
-          8.5484308,
-          47.3935575
-        ],
-        [
-          8.5483199,
-          47.3935806
-        ],
-        [
-          8.5483052,
-          47.3935499
-        ],
-        [
-          8.5482439,
-          47.3935609
-        ],
-        [
-          8.5482602,
-          47.393596
-        ],
-        [
-          8.5482045,
-          47.3936078
-        ],
-        [
-          8.5482001,
-          47.3935985
-        ],
-        [
-          8.5479568,
-          47.3936503
-        ],
-        [
-          8.5479393,
-          47.3936127
         ]
       ]
     ]

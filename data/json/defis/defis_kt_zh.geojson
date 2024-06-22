@@ -23432,12 +23432,12 @@
   "type": "Feature",
   "id": "node/9141209418",
   "properties": {
-    "access": "Ja, für alle",
+    "access": "yes",
     "defibrillator:location": "Beim Hauseingang, in grünem AED Kasten",
     "description": "Defibrillator inkl. Notfallset. Nach Gebrauch bitte Info an 079 651 55 93 oder den QR Code am Defibrillator scannen. Danke!",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "Ja",
+    "indoor": "yes",
     "opening_hours": "24/7",
     "operator": "EMS Niederglatt",
     "phone": "+41 79 651 55 93",
@@ -55258,7 +55258,6 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Fr 7:30-16:30",
-    "operator": "Unternehmen",
     "phone": "+41 43 285 65 23",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/11629971769"
@@ -61741,9 +61740,9 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "0 ",
+    "level": "0",
     "operator": "Gemeinde Rümlang",
-    "phone": "+41448177550",
+    "phone": "+41 44 817 75 50",
     "id": "node/11997915169"
   },
   "geometry": {
@@ -61751,6 +61750,29 @@
     "coordinates": [
       8.5302595,
       47.4501861
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11998666069",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bushof",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Oetwil am See",
+    "phone": "+41449296011",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/11998666069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7209451,
+      47.2699697
     ]
   }
 }

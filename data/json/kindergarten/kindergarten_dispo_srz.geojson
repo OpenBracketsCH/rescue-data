@@ -12723,6 +12723,7 @@
     "addr:street": "Oberdorfstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2024-06-21",
     "name": "Kindergarten Oberdorf 1+2",
     "wheelchair": "no",
     "id": "way/131320207"

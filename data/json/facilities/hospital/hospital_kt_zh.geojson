@@ -9727,14 +9727,17 @@
     "addr:postcode": "8005",
     "addr:street": "Konradstrasse",
     "amenity": "clinic",
+    "check_date": "2024-06-21",
     "check_date:opening_hours": "2022-09-20",
     "email": "info@swsieber.ch",
+    "fixme": "Zettel \"Wir ziehen um am Di, 25. Juni 2024, Riedenhaldenstrasse 11, 8046 ZH, 044 537 37 00\" an der Tür",
     "healthcare": "clinic",
     "name": "Fachspital Sune-Egge",
     "old_name": "Pfarrer Sieber",
     "opening_hours:signed": "no",
     "operator": "Sozialwerk Pfarrer Sieber",
     "website": "https://www.swsieber.ch/was-wir-tun/betreuen/fachspital/",
+    "wheelchair": "yes",
     "id": "node/6516560674"
   },
   "geometry": {

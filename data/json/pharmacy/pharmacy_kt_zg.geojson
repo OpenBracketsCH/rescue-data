@@ -204,6 +204,7 @@
   "id": "node/1655834253",
   "properties": {
     "amenity": "pharmacy",
+    "check_date": "2024-06-18",
     "name": "Arkaden-Apotheke",
     "opening_hours": "Mo-Fr 08:30-12:15,13:30-18:30; Sa 08:30-16:00",
     "id": "node/1655834253"
