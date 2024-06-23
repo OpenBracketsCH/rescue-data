@@ -1554,6 +1554,7 @@
     "addr:postcode": "8005",
     "addr:street": "Fabrikstrasse",
     "amenity": "police",
+    "check_date": "2024-06-22",
     "name": "Regionalwache Industrie",
     "opening_hours": "24/7",
     "operator": "Stadtpolizei Zürich",

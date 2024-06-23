@@ -8960,6 +8960,7 @@
     "building": "residential",
     "building:levels": "2",
     "capacity": "91+8",
+    "check_date": "2024-06-22",
     "email": "asz-limmat@zuerich.ch",
     "name": "Gesundheitszentrum Limmat",
     "operator": "Stadt Zürich, GUD",
@@ -8970,6 +8971,7 @@
     "social_facility:for": "senior",
     "start_date": "1985",
     "website": "https://www.stadt-zuerich.ch/az-limmat",
+    "wheelchair": "yes",
     "id": "way/123728620"
   },
   "geometry": {

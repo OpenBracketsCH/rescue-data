@@ -15841,6 +15841,7 @@
     "building": "residential",
     "building:levels": "2",
     "capacity": "91+8",
+    "check_date": "2024-06-22",
     "email": "asz-limmat@zuerich.ch",
     "name": "Gesundheitszentrum Limmat",
     "operator": "Stadt Zürich, GUD",
@@ -15851,6 +15852,7 @@
     "social_facility:for": "senior",
     "start_date": "1985",
     "website": "https://www.stadt-zuerich.ch/az-limmat",
+    "wheelchair": "yes",
     "id": "way/123728620"
   },
   "geometry": {
@@ -27305,20 +27307,20 @@
     "coordinates": [
       [
         [
-          8.8660631,
-          47.4930878
+          8.8660583,
+          47.4930881
         ],
         [
-          8.8660703,
-          47.4930649
+          8.8660635,
+          47.4930716
         ],
         [
-          8.8661182,
-          47.4929129
+          8.8661131,
+          47.492913
         ],
         [
-          8.8661626,
-          47.4927717
+          8.8661576,
+          47.4927712
         ],
         [
           8.867788,
@@ -27333,8 +27335,8 @@
           47.4931288
         ],
         [
-          8.8660631,
-          47.4930878
+          8.8660583,
+          47.4930881
         ]
       ]
     ]
