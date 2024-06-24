@@ -5149,6 +5149,7 @@
     "addr:postcode": "8400",
     "addr:street": "Feldstrasse",
     "amenity": "childcare",
+    "check_date": "2024-06-22",
     "name": "Betreuung Feldstrasse",
     "id": "node/4110517437"
   },

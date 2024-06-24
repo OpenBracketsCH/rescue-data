@@ -4963,30 +4963,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4244070961",
-  "properties": {
-    "addr:city": "Regensdorf",
-    "addr:housenumber": "30",
-    "addr:postcode": "8105",
-    "addr:street": "Feldstrasse",
-    "amenity": "pharmacy",
-    "brand": "Rotpunkt Apotheke",
-    "name": "Apotheke Dr. Kunz",
-    "opening_hours": "Mo-Fr 09:00-12:30, 14:00-19:00; Sa 09:00-17:00",
-    "operator": "Dr. Kunz AG",
-    "website": "https://www.apothekedrkunz.ch/regensdorf/",
-    "id": "node/4244070961"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4733578,
-      47.438655
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4273219598",
   "properties": {
     "addr:city": "Opfikon",

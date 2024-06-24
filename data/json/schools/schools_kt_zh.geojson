@@ -53549,6 +53549,7 @@
     "addr:street": "Seegartenstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-06-23",
     "name": "Schulhaus Im See",
     "id": "way/213213143"
   },
@@ -62913,7 +62914,10 @@
     "addr:street": "Bahnhofstrasse",
     "amenity": "school",
     "building": "school",
+    "building:levels": "2",
+    "check_date": "2024-06-23",
     "name": "Schulheim Elgg",
+    "roof:levels": "1",
     "id": "way/257506164"
   },
   "geometry": {
@@ -70783,6 +70787,7 @@
     "addr:postcode": "8353",
     "addr:street": "Seegartenstrasse",
     "amenity": "school",
+    "check_date": "2024-06-23",
     "isced:level": "1",
     "name": "Primarschule Im See",
     "id": "way/319327859"
