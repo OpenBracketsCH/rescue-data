@@ -15068,7 +15068,7 @@
   "properties": {
     "highway": "motorway",
     "int_ref": "E 41",
-    "lanes": "4",
+    "lanes": "3",
     "maxspeed": "100",
     "oneway": "yes",
     "placement": "middle_of:2",
@@ -74010,7 +74010,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "int_ref": "E 41",
-    "lanes": "4",
+    "lanes": "3",
     "layer": "1",
     "maxspeed": "100",
     "oneway": "yes",
