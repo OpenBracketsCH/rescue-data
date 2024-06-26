@@ -58966,6 +58966,7 @@
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Wilen 2",
+    "wheelchair": "no",
     "id": "way/195276986"
   },
   "geometry": {
