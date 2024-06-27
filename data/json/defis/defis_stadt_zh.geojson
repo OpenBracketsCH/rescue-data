@@ -14484,10 +14484,12 @@
   "id": "node/12006465669",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Vorraum WC Gemeinschaftsraum ",
+    "defibrillator:location": "Vorraum WC Gemeinschaftsraum",
+    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "opening_hours": "24/7",
     "operator": "Genossenschaft Neubühl",
     "phone": "+41 44 482 15 21",
     "source": "local_knowledge, defikarte.ch",
@@ -14498,6 +14500,28 @@
     "coordinates": [
       8.5355937,
       47.3316317
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12013131569",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Versorgungsgang Xtra",
+    "description": "während Konzerten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2OG",
+    "operator": "Xtra",
+    "id": "node/12013131569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5328638,
+      47.3842581
     ]
   }
 }

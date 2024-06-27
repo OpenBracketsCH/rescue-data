@@ -30933,14 +30933,17 @@
   "type": "Feature",
   "id": "node/3350197891",
   "properties": {
+    "access": "private",
     "barrier": "gate",
+    "locked": "yes",
+    "material": "metal",
     "id": "node/3350197891"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8604826,
-      47.4753152
+      8.8604815,
+      47.4753209
     ]
   }
 },

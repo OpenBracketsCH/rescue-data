@@ -61950,10 +61950,12 @@
   "id": "node/12006465669",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Vorraum WC Gemeinschaftsraum ",
+    "defibrillator:location": "Vorraum WC Gemeinschaftsraum",
+    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "opening_hours": "24/7",
     "operator": "Genossenschaft Neubühl",
     "phone": "+41 44 482 15 21",
     "source": "local_knowledge, defikarte.ch",
@@ -61964,6 +61966,145 @@
     "coordinates": [
       8.5355937,
       47.3316317
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12011888369",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "ZürichHolz AG Treppenhaus, Eingang Treppe runter",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "-1",
+    "opening_hours": "Mo-Fr 07:00-17:30",
+    "operator": "ZürichHolz AG",
+    "phone": "+41 44 933 93 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12011888369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.721047,
+      47.4143202
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12011984169",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Pavillon Haupteingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12011984169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7773305,
+      47.4666324
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12012520069",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "altes Gemeindehaus / Restaurant Post",
+    "description": "immer zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Andelfingen",
+    "phone": "+41523042700",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12012520069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6919397,
+      47.5829235
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12012586869",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Werkhof \"Fuchsenhölzli\", Thurtalstr. 55",
+    "description": "während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Gemeinde Andelfingen",
+    "phone": "+41523042700",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12012586869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6932433,
+      47.5933724
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12012981270",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Wacker Neuson Gardarobe rechts neben der Türe",
+    "description": "nur während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo - Fr 07:00-17:30",
+    "operator": "Privatperson",
+    "phone": "+410432441400",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12012981270"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6121404,
+      47.230105
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12013131569",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Versorgungsgang Xtra",
+    "description": "während Konzerten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2OG",
+    "operator": "Xtra",
+    "id": "node/12013131569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5328638,
+      47.3842581
     ]
   }
 }
