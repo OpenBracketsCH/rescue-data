@@ -5261,3 +5261,5 @@ FeatureCollection,"{'type': 'Feature', 'id': 'node/12005002015', 'properties': {
 FeatureCollection,"{'type': 'Feature', 'id': 'node/12005002021', 'properties': {'barrier': 'lift_gate', 'id': 'node/12005002021'}, 'geometry': {'type': 'Point', 'coordinates': [8.6204864, 47.6735134]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/12007511903', 'properties': {'barrier': 'gate', 'id': 'node/12007511903'}, 'geometry': {'type': 'Point', 'coordinates': [8.5514143, 47.3078815]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/12007511929', 'properties': {'barrier': 'gate', 'id': 'node/12007511929'}, 'geometry': {'type': 'Point', 'coordinates': [8.551424, 47.306742]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/12009144265', 'properties': {'barrier': 'gate', 'material': 'metal', 'id': 'node/12009144265'}, 'geometry': {'type': 'Point', 'coordinates': [8.8593501, 47.4759412]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/12009354267', 'properties': {'access': 'private', 'barrier': 'gate', 'locked': 'yes', 'material': 'wood', 'id': 'node/12009354267'}, 'geometry': {'type': 'Point', 'coordinates': [8.8592085, 47.4759761]}}"
