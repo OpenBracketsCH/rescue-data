@@ -45210,9 +45210,9 @@
     "amenity": "social_facility",
     "email": "info@swsieber.ch",
     "name": "Sozialwerk Pfarrer Sieber",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 10:00-16:00",
     "operator": "Sozialwerk Pfarrer Sieber",
     "phone": "+41 43 336 50 80",
-    "shop": "hairdresser",
     "social_facility": "outreach",
     "website": "https://www.swsieber.ch/",
     "id": "node/8708854070"
@@ -45220,8 +45220,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5174856,
-      47.3815718
+      8.517503,
+      47.4150562
     ]
   }
 },

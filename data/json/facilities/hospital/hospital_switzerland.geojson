@@ -8990,6 +8990,10 @@
           46.7820822
         ],
         [
+          6.6471478,
+          46.7820702
+        ],
+        [
           6.6470219,
           46.781914
         ],
@@ -9036,6 +9040,10 @@
         [
           6.6476048,
           46.7820002
+        ],
+        [
+          6.6474753,
+          46.7820491
         ],
         [
           6.6474137,
@@ -52497,36 +52505,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6516560674",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "62",
-    "addr:postcode": "8005",
-    "addr:street": "Konradstrasse",
-    "amenity": "clinic",
-    "check_date": "2024-06-21",
-    "check_date:opening_hours": "2022-09-20",
-    "email": "info@swsieber.ch",
-    "fixme": "Zettel \"Wir ziehen um am Di, 25. Juni 2024, Riedenhaldenstrasse 11, 8046 ZH, 044 537 37 00\" an der Tür",
-    "healthcare": "clinic",
-    "name": "Fachspital Sune-Egge",
-    "old_name": "Pfarrer Sieber",
-    "opening_hours:signed": "no",
-    "operator": "Sozialwerk Pfarrer Sieber",
-    "website": "https://www.swsieber.ch/was-wir-tun/betreuen/fachspital/",
-    "wheelchair": "yes",
-    "id": "node/6516560674"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5341592,
-      47.3817175
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6876017000",
   "properties": {
     "amenity": "clinic",
@@ -56063,26 +56041,6 @@
     "coordinates": [
       6.1336962,
       46.2158958
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11966532530",
-  "properties": {
-    "amenity": "clinic",
-    "name": "Fachspital Sunne-Egge",
-    "opening_hours": "24/7",
-    "operator": "Sozialwerk Pfarrer Sieber",
-    "start_date": "2024-06-25",
-    "wheelchair": "yes",
-    "id": "node/11966532530"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5175183,
-      47.4150552
     ]
   }
 }
