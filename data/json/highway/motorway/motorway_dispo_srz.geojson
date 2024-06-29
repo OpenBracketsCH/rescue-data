@@ -81706,7 +81706,8 @@
   "properties": {
     "highway": "motorway",
     "int_ref": "E 41",
-    "lanes": "4",
+    "lanes": "3",
+    "layer": "1",
     "maxspeed": "100",
     "oneway": "yes",
     "placement": "middle_of:2",
@@ -81722,6 +81723,10 @@
       [
         8.4478421,
         47.1907671
+      ],
+      [
+        8.4478496,
+        47.1907722
       ],
       [
         8.4478619,

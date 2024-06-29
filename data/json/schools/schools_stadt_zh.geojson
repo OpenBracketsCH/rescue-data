@@ -21491,6 +21491,7 @@
   "id": "node/9719866404",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-06-28",
     "contact:city": "Zürich",
     "contact:email": "kontakt@talenta.ch",
     "contact:housenumber": "109",
