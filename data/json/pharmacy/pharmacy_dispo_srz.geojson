@@ -5223,7 +5223,6 @@
     "branch": "Adliswil Sunnemärt",
     "brand": "Amavita",
     "brand:wikidata": "Q93733901",
-    "brand:wikipedia": "de:Amavita",
     "email": "ama237@amavita.ch",
     "healthcare": "pharmacy",
     "level": "0",
@@ -5237,8 +5236,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5250516,
-      47.3115055
+      8.5250697,
+      47.3115344
     ]
   }
 },
