@@ -1659,8 +1659,8 @@
     "addr:street": "Neutrottenstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2024-05-19",
     "name": "Kindergarten Sonnenberg",
-    "survey:date": "2014-10-10",
     "id": "way/220181149"
   },
   "geometry": {
