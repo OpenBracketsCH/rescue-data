@@ -102565,6 +102565,7 @@
     "addr:postcode": "8706",
     "addr:street": "General-Wille-Strasse",
     "amenity": "school",
+    "check_date": "2024-07-01",
     "name": "Privatschule Portanova",
     "id": "node/9850693839"
   },
