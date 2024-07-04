@@ -83,7 +83,6 @@
     "brand": "Fortis",
     "building": "yes",
     "check_date": "2023-10-08",
-    "emergency": "defibrillator",
     "healthcare": "pharmacy",
     "name": "Apotheke Zollikon",
     "opening_hours": "Mo-Fr 08:00-12:30, 13:30-18:30, Sa 08:00-16:00",
@@ -2422,17 +2421,17 @@
     "check_date": "2024-06-02",
     "name": "Medbase Apotheke Zehntenhaus",
     "old_name": "Zehntenhaus Apotheke",
-    "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-17:00",
+    "opening_hours": "Mo-Fr 08:30-19:00, Sa 08:30-17:00; PH off",
     "operator": "Medbase Apotheken",
-    "website": "https://www.topwell.ch/medbaseapothekezuerichzehntenhau/",
+    "website": "https://www.medbase-apotheken.ch/apotheken/detail/medbase-apotheke-zuerich-zehntenhaus/",
     "wheelchair": "yes",
     "id": "node/765769912"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5067407,
-      47.4193484
+      8.5067513,
+      47.4193712
     ]
   }
 },
@@ -4715,37 +4714,6 @@
     "coordinates": [
       8.4477019,
       47.3984348
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/3726038457",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "537",
-    "addr:postcode": "8046",
-    "addr:street": "Wehntalerstrasse",
-    "alt_name": "Topwell Apotheke Zürich Nord",
-    "amenity": "pharmacy",
-    "branch": "Zürich Nord",
-    "brand": "Medbase",
-    "brand:wikidata": "Q50038690",
-    "check_date": "2024-06-02",
-    "name": "Medbase Apotheke Nord",
-    "old_name": "Nord-Apotheke",
-    "opening_hours": "Mo-Fr 08:00-12:30, 13:30-18:30; Sa 08:00-16:00",
-    "operator": "Medbase Apotheken",
-    "website": "https://www.topwell.ch/medbaseapothekezuerichnord/",
-    "wheelchair": "limited",
-    "id": "node/3726038457"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5070956,
-      47.4186133
     ]
   }
 },
