@@ -6443,16 +6443,18 @@
     "amenity": "pharmacy",
     "branch": "Volketswil Volkiland",
     "brand": "Coop Vitality",
+    "level": "0",
     "name": "Coop Vitality",
+    "opening_hours": "Mo-Sa 09:00-20:00; PH off",
     "operator": "Coop Vitality & GaleniCare",
-    "website": "https://www.coopvitality.ch/de/coop-vitality-volketswil",
+    "website": "https://www.coopvitality.ch/de/coop-vitality-volketswil-volkiland",
     "id": "node/7473206219"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6668091,
-      47.3828845
+      8.6678529,
+      47.3824856
     ]
   }
 },

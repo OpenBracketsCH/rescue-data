@@ -12762,6 +12762,23 @@
       47.4029858
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12035922286",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Hort Zelgli",
+    "website": "https://schule.schlieren.ch/hortgiardino",
+    "id": "node/12035922286"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4455577,
+      47.4042208
+    ]
+  }
 }
 ]
 }
