@@ -56400,8 +56400,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5136,
-      47.35437
+      8.5135593,
+      47.3543583
     ]
   }
 },
@@ -81386,6 +81386,25 @@
     "coordinates": [
       8.5929126,
       47.522374
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12037747205",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Im Eingangsbereich UG",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "Ruderclub Schaffhausen",
+    "id": "node/12037747205"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6549925,
+      47.6880913
     ]
   }
 }

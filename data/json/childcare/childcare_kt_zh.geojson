@@ -12779,6 +12779,22 @@
       47.4042208
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12037362407",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Rumpelkiste",
+    "id": "node/12037362407"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5536978,
+      47.3558848
+    ]
+  }
 }
 ]
 }
