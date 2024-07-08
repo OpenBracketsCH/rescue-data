@@ -2590,33 +2590,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/877150393",
-  "properties": {
-    "addr:city": "Zollikerberg",
-    "addr:housenumber": "146",
-    "addr:postcode": "8125",
-    "addr:street": "Forchstrasse",
-    "amenity": "pharmacy",
-    "branch": "Zollikerberg",
-    "brand": "Amavita",
-    "brand:wikidata": "Q93733901",
-    "brand:wikipedia": "de:Amavita",
-    "healthcare": "pharmacy",
-    "name": "Amavita",
-    "operator": "GaleniCare",
-    "website": "https://www.amavita.ch/de/amavita-apotheke-im-zollikerberg",
-    "id": "node/877150393"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5979775,
-      47.3469846
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/891896164",
   "properties": {
     "addr:city": "Zürich",

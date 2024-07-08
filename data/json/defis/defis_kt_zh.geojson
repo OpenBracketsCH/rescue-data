@@ -7040,8 +7040,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5730947,
-      47.3454807
+      8.5729405,
+      47.3455667
     ]
   }
 },
@@ -58188,8 +58188,6 @@
     "indoor": "yes",
     "level": "3",
     "opening_hours": "Mo-Fr 08:00-18:00",
-    "operator": "Swiss Avant",
-    "phone": "+41 44 878 70 50",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/11822306926"
   },
