@@ -12587,6 +12587,57 @@
 },
 {
   "type": "Feature",
+  "id": "way/98289955",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "42",
+    "addr:postcode": "8008",
+    "addr:street": "Wildbachstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "building:levels": "2",
+    "disused:amenity": "restaurant",
+    "name": "Treffpunkt City",
+    "old_name": "Freieck",
+    "opening_hours": "10:15-17:30",
+    "operator": "Stadt Zürich, Soziale Einrichtungen und Betriebe",
+    "phone": "+41 44 415 69 09",
+    "roof:levels": "1",
+    "social_facility": "outreach",
+    "website": "https://www.stadt-zuerich.ch/sd/de/index/unterstuetzung/drogen/treffpunkte/city.html#kontakt_oeffnungszeitentreffpunktcity",
+    "id": "way/98289955"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.557145,
+          47.3567041
+        ],
+        [
+          8.5570309,
+          47.3566625
+        ],
+        [
+          8.5570925,
+          47.356585
+        ],
+        [
+          8.5572065,
+          47.3566265
+        ],
+        [
+          8.557145,
+          47.3567041
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/98524706",
   "properties": {
     "addr:city": "Horgen",
@@ -33869,6 +33920,108 @@
         [
           8.5243327,
           47.3736085
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/338540634",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "11",
+    "addr:postcode": "8004",
+    "addr:street": "Cramerstrasse",
+    "amenity": "social_facility",
+    "building": "commercial",
+    "email": "info@chrischtehuesli.ch",
+    "name": "Chrischtehüsli",
+    "operator": "Chrischtehüsli",
+    "social_facility": "outreach",
+    "website": "https://www.chrischtehuesli.ch/",
+    "wheelchair": "limited",
+    "id": "way/338540634"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5258785,
+          47.3733289
+        ],
+        [
+          8.5259706,
+          47.3733108
+        ],
+        [
+          8.5259945,
+          47.3733681
+        ],
+        [
+          8.5260013,
+          47.3733681
+        ],
+        [
+          8.5260222,
+          47.3734166
+        ],
+        [
+          8.5260353,
+          47.373414
+        ],
+        [
+          8.5260534,
+          47.373456
+        ],
+        [
+          8.5260402,
+          47.3734586
+        ],
+        [
+          8.5260536,
+          47.3734898
+        ],
+        [
+          8.52587,
+          47.3735269
+        ],
+        [
+          8.5258228,
+          47.3735357
+        ],
+        [
+          8.5257898,
+          47.3734604
+        ],
+        [
+          8.5257874,
+          47.37346
+        ],
+        [
+          8.5257743,
+          47.3734287
+        ],
+        [
+          8.5257706,
+          47.3734272
+        ],
+        [
+          8.5257886,
+          47.3734076
+        ],
+        [
+          8.5257923,
+          47.3734092
+        ],
+        [
+          8.5259033,
+          47.3733882
+        ],
+        [
+          8.5258785,
+          47.3733289
         ]
       ]
     ]
