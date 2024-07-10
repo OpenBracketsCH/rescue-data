@@ -10584,6 +10584,23 @@
       47.3768034
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12043645739",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Ärztehaus",
+    "id": "node/12043645739"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7834474,
+      47.367773
+    ]
+  }
 }
 ]
 }

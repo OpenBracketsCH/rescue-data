@@ -29224,8 +29224,8 @@
           47.3595264
         ],
         [
-          8.9217508,
-          47.3598982
+          8.9217573,
+          47.3599093
         ],
         [
           8.9218455,
@@ -44157,6 +44157,7 @@
     "addr:postcode": "8184",
     "addr:street": "Schulhausstrasse",
     "amenity": "social_facility",
+    "check_date": "2024-07-09",
     "email": "info@sarb.ch",
     "name": "Alterszentrum Im Baumgarten",
     "operator": "Stiftung Alterszentrum Region Bülach",

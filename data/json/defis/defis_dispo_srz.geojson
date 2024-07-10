@@ -834,6 +834,7 @@
     "addr:housenumber": "7",
     "addr:postcode": "8330",
     "addr:street": "Bahnhofstrasse",
+    "defibrillator:location": "Fassade zur Bahnhofstrasse, neben Informationstafel",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "foot": "yes",
@@ -30927,8 +30928,8 @@
     "defibrillator:location": "Beim Bademeister",
     "emergency": "defibrillator",
     "indoor": "yes",
+    "opening_hours": "\"Badesaison\"",
     "operator": "Einwohnergemeinde Cham",
-    "Öffnungszeiten": "Badesaison",
     "id": "node/8951515805"
   },
   "geometry": {
@@ -45617,13 +45618,12 @@
   "type": "Feature",
   "id": "node/9995101347",
   "properties": {
-    "access": "yes",
+    "access": "permit",
     "defibrillator:location": "Sporthalle Stighag",
-    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "opening_hours": "24/7",
+    "opening_hours": "Mo-Fr 09:00-18:00",
     "operator": "Stadt Kloten",
     "phone": "+41 44 815 11 11",
     "id": "node/9995101347"
@@ -81469,6 +81469,31 @@
     "coordinates": [
       8.721664,
       47.2714548
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12042946769",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Eingangsraum: Schiebetüre (interne Postablage / zwischen Glastüre zu Speisesaal und Küchentüre)",
+    "description": "Falls Nacht/geschlossen: Nachtglocke nutzen und Anrufen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Stiftung Mühlehalde",
+    "phone": "+41444211111",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12042946769"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5734129,
+      47.3603645
     ]
   }
 }
