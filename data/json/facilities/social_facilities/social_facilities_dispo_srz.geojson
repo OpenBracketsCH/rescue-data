@@ -34591,7 +34591,7 @@
     "operator": "Verein Wohn- und Arbeitsgemeinschaft Suneboge",
     "phone": "+41 44 202 13 66",
     "social_facility": "assisted_living",
-    "website": "http://suneboge.ch/",
+    "website": "https://suneboge.ch/",
     "id": "way/369066205"
   },
   "geometry": {
@@ -54697,7 +54697,7 @@
     "name": "Suneboge Aussenwohgruppe zum Boge",
     "operator": "Verein Wohn- und Arbeitsgemeinschaft Suneboge",
     "social_facility": "assisted_living",
-    "website": "http://suneboge.ch/angebot/wohnen/",
+    "website": "https://suneboge.ch/angebot/wohnen/",
     "id": "node/8708829966"
   },
   "geometry": {
@@ -56469,7 +56469,7 @@
     "operator": "Katholische Kirche Zürich",
     "operator:type": "religious",
     "social_facility:for": "disabled",
-    "website": "http://www.behindertenseelsorge.ch/",
+    "website": "https://behindertenseelsorge.ch/",
     "id": "node/10565430658"
   },
   "geometry": {

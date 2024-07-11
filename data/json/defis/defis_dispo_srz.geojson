@@ -81340,15 +81340,16 @@
   "id": "node/12035211669",
   "properties": {
     "access": "permissive",
-    "defibrillator:location": "Büro (zurzeit)",
-    "description": "während Öffnungszeiten",
+    "defibrillator:location": "Untere Wiltisgasse 14, Küsnacht\nVorplatz an der Fassade",
+    "description": "ZOLL AED3",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "07:00-17:00",
-    "operator": "Privat / Firma",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Heeb + Enzler AG",
     "phone": "+41 79 666 15 90",
-    "source": "local_knowledge, defikarte.ch",
+    "ref": "#153574458",
+    "source": "local_knowledge, defikarte.ch;local knowledge;IMG_20240710_152801~2;survey;IMG_20240710_152821~2",
     "id": "node/12035211669"
   },
   "geometry": {
@@ -81494,6 +81495,54 @@
     "coordinates": [
       8.5734129,
       47.3603645
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12045183869",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Schützenstrasse",
+    "description": "Gegenüber Lehrpersonenzimmer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "MO-SA 7:00 - 20:00",
+    "operator": "Kanton Schwyz",
+    "phone": "+41 55 415 13 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12045183869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7868363,
+      47.2000894
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12045190769",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Römerrain (BBZP)",
+    "description": "Eingangsbereich (unter Infobildschirm)",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "MO-FR 7:00 - 18:00",
+    "operator": "Kanton Schwyz",
+    "phone": "+41 55 415 13 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12045190769"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.778913,
+      47.1984916
     ]
   }
 }

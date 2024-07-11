@@ -4237,7 +4237,7 @@
     "name": "Gotthard Apotheke",
     "opening_hours": "Mo-Fr 08:00-12:15,13:00-18:30; Sa 08:00-16:00",
     "phone": "+41 44 720 04 70",
-    "website": "http://gotthard.apotheke.ch/",
+    "website": "https://www.gotthard.apotheke.ch/",
     "id": "node/2526218137"
   },
   "geometry": {
@@ -4799,7 +4799,7 @@
     "name": "ApoDoc",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 10:00-17:00; PH off",
     "operator": "ApoDoc Hardbrücke",
-    "website": "http://www.apodoc.ch/",
+    "website": "https://www.apodoc.ch/",
     "wheelchair": "yes",
     "id": "node/4008942095"
   },

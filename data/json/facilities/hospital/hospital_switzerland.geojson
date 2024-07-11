@@ -2807,7 +2807,7 @@
     "name": "AndreasKlinik Cham Zug",
     "phone": "+41 41 784 07 84",
     "type": "multipolygon",
-    "website": "http://www.andreasklinik.ch/",
+    "website": "https://www.andreasklinik.ch/",
     "wheelchair": "yes",
     "wikidata": "Q23783969",
     "wikipedia": "de:AndreasKlinik",
@@ -42846,7 +42846,7 @@
     "healthcare:speciality": "intensive",
     "name": "Klinik Stephanshorn",
     "phone": "+41 71 282 71 11",
-    "website": "http://www.stephanshorn.ch/",
+    "website": "https://www.stephanshorn.ch/",
     "wikidata": "Q23783916",
     "id": "way/681050156"
   },
