@@ -166,6 +166,7 @@
     "addr:street": "Dorfstrasse",
     "amenity": "childcare",
     "building": "yes",
+    "check_date": "2024-07-13",
     "name": "KIMI Kindertagesstätte",
     "opening_hours": "Mo-Fr 07:00-18:30",
     "operator": "KIMI Krippen AG, Standort Bachenbülach",
@@ -9055,6 +9056,7 @@
   "id": "node/9340721747",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2024-07-13",
     "contact:city": "Zürich",
     "contact:housenumber": "143",
     "contact:phone": "+41 44 413 74 44",

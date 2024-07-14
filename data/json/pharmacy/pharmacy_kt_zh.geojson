@@ -3446,6 +3446,7 @@
     "amenity": "pharmacy",
     "branch": "Niederglatt",
     "brand": "TopPharm",
+    "check_date": "2024-07-13",
     "dispensing": "yes",
     "healthcare": "pharmacy",
     "name": "TopPharm Sonnen Apotheke",
@@ -3530,6 +3531,7 @@
     "brand": "Rotpunkt Apotheke",
     "dispensing": "yes",
     "email": "info@apolilie-zentrum.ch",
+    "level": "1",
     "name": "Apotheke Lilie Zentrum",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
     "operator": "Rotpunkt Pharma",
@@ -3542,8 +3544,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4482497,
-      47.3967178
+      8.4482559,
+      47.3966331
     ]
   }
 },
@@ -6519,6 +6521,7 @@
     "amenity": "pharmacy",
     "branch": "Regensdorf Zentrum",
     "brand": "Amavita",
+    "level": "1",
     "name": "Amavita Regensdorf",
     "operator": "GaleniCare",
     "website": "https://www.amavita.ch/de/amavita-apotheke-regensdorf",
@@ -6527,8 +6530,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4693016,
-      47.4314913
+      8.4696191,
+      47.4308171
     ]
   }
 },
@@ -6641,6 +6644,7 @@
     "amenity": "pharmacy",
     "branch": "Regensdorf",
     "brand": "TopPharm",
+    "level": "1",
     "name": "TopPharm Zentrums Apotheke",
     "opening_hours": "Mo-Sa 09:00-20:00",
     "operator": "TopPharm Genossenschaft",
@@ -6650,8 +6654,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4691367,
-      47.4315112
+      8.4687064,
+      47.4312086
     ]
   }
 },

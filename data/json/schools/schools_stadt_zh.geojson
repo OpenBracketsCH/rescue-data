@@ -11739,6 +11739,10 @@
           47.4232433
         ],
         [
+          8.5040347,
+          47.4232402
+        ],
+        [
           8.5039474,
           47.4231229
         ],
@@ -19917,6 +19921,7 @@
   "properties": {
     "amenity": "school",
     "branch": "Im Birch",
+    "check_date": "2024-07-13",
     "contact:city": "Zürich",
     "contact:housenumber": "5",
     "contact:postcode": "8050",
