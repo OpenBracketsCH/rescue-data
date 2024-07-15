@@ -18735,6 +18735,10 @@
   "type": "Feature",
   "id": "way/148855277",
   "properties": {
+    "addr:city": "Au ZH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8804",
+    "addr:street": "Schellerstrasse",
     "amenity": "social_facility",
     "building": "yes",
     "capacity": "20",

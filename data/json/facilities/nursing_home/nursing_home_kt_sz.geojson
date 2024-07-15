@@ -349,6 +349,7 @@
     "addr:street": "Allmeindstrasse",
     "amenity": "nursing_home",
     "building": "yes",
+    "name": "Langrüti",
     "id": "way/170203136"
   },
   "geometry": {

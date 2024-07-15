@@ -3165,6 +3165,7 @@
     "addr:street": "Bahnhofplatz",
     "alt_name": "Kapo Posten Bahnhof Winterthur",
     "amenity": "police",
+    "check_date": "2024-07-14",
     "name": "Polizeiposten Winterthur West",
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",
