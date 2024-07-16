@@ -29271,6 +29271,7 @@
   "id": "node/3149968375",
   "properties": {
     "barrier": "gate",
+    "bicycle": "private",
     "height": "2",
     "material": "metal",
     "vehicle": "private",
@@ -82239,6 +82240,7 @@
   "id": "node/11822745141",
   "properties": {
     "barrier": "gate",
+    "bicycle": "private",
     "height": "1",
     "material": "wood",
     "vehicle": "private",
