@@ -17461,6 +17461,7 @@
     "addr:postcode": "3013",
     "addr:street": "Schänzlistrasse",
     "amenity": "hospital",
+    "check_date": "2024-07-16",
     "healthcare": "hospital",
     "name": "Salem-Spital",
     "operator": "Hirslanden Gruppe",
