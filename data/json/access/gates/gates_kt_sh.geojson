@@ -237,6 +237,8 @@
   "id": "node/32594845",
   "properties": {
     "barrier": "lift_gate",
+    "bicycle": "yes",
+    "foot": "yes",
     "lift_gate:type": "single",
     "id": "node/32594845"
   },

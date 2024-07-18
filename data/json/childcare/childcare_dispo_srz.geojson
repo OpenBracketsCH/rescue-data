@@ -6274,30 +6274,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6624374821",
-  "properties": {
-    "amenity": "childcare",
-    "contact:city": "Zürich",
-    "contact:housenumber": "634",
-    "contact:phone": "+41 79 716 67 96",
-    "contact:postcode": "8046",
-    "contact:street": "Wehntalertrasse",
-    "isced:level": "0",
-    "name": "Mittaghort Holderbach 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Holderbach",
-    "operator:type": "public",
-    "id": "node/6624374821"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.498945,
-      47.4232337
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6624401692",
   "properties": {
     "amenity": "childcare",
