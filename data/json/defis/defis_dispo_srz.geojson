@@ -38790,11 +38790,11 @@
   "id": "node/9605130356",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Riedmatt Garderoben, Wand links von Schuhputzstation",
+    "defibrillator:location": "Rechts vom Eingang, draussen",
     "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
     "phone": "+41 58 728 90 63",
@@ -38803,8 +38803,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4865599,
-      47.1823027
+      8.486644,
+      47.182295
     ]
   }
 },
@@ -81763,6 +81763,54 @@
     "coordinates": [
       8.797982,
       47.4979023
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12060871969",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Katholische Kirche, links neben dem Haupteingang",
+    "description": "Aussenkasten Links vom Haupteingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeindeverwaltung Elgg",
+    "phone": "+41 52 368 55 55",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12060871969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8627106,
+      47.4930336
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12060876269",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Restaurant Schauenberg auf der Ostseite vom PP her zugänglich",
+    "description": "Aussenkasten auf der Ostseite vom PP her Zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeindeverwaltung Elgg",
+    "phone": "+41 52 368 55 55",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12060876269"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8806224,
+      47.4607899
     ]
   }
 }
