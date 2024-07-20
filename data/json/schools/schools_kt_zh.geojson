@@ -39886,6 +39886,7 @@
     "addr:street": "Schulhausstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-07-19",
     "name": "Schulhaus Rebacker B",
     "id": "way/145181893"
   },
@@ -75300,28 +75301,44 @@
           47.5033493
         ],
         [
-          8.7249738,
-          47.5033333
+          8.7249706,
+          47.5033346
         ],
         [
-          8.724988,
-          47.5034359
+          8.724977,
+          47.5033848
         ],
         [
-          8.7249829,
-          47.5034814
+          8.7249783,
+          47.5034312
         ],
         [
-          8.7249714,
-          47.5035308
+          8.7249745,
+          47.5034733
         ],
         [
-          8.724927,
-          47.5036178
+          8.7249695,
+          47.5034973
         ],
         [
-          8.7248739,
-          47.5037173
+          8.7249621,
+          47.5035243
+        ],
+        [
+          8.7249529,
+          47.5035519
+        ],
+        [
+          8.7249402,
+          47.5035808
+        ],
+        [
+          8.7249213,
+          47.5036191
+        ],
+        [
+          8.7248722,
+          47.5037182
         ],
         [
           8.7243905,
@@ -84182,6 +84199,7 @@
   "properties": {
     "alt_name": "Bildungszentrum für Erwachsene",
     "amenity": "school",
+    "check_date": "2024-07-19",
     "contact:city": "Zürich",
     "contact:email": "lernen@eb-zuerich.ch",
     "contact:housenumber": "11",
@@ -94739,6 +94757,7 @@
     "addr:street": "Schulhausstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-07-19",
     "name": "Schulhaus Rebacker B",
     "id": "way/1077895148"
   },

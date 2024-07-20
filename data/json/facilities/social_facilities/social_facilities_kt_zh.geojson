@@ -18302,6 +18302,7 @@
     "addr:street": "Schulhausstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-07-19",
     "name": "Senevita Im Rebberg",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",

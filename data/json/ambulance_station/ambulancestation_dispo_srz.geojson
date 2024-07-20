@@ -653,6 +653,7 @@
   "type": "Feature",
   "id": "node/6209722205",
   "properties": {
+    "check_date": "2024-07-19",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst See-Spital",
     "operator": "See-Spital Horgen",

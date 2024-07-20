@@ -17535,6 +17535,7 @@
   "properties": {
     "alt_name": "Bildungszentrum für Erwachsene",
     "amenity": "school",
+    "check_date": "2024-07-19",
     "contact:city": "Zürich",
     "contact:email": "lernen@eb-zuerich.ch",
     "contact:housenumber": "11",

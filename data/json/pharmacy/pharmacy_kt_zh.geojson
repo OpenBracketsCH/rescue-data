@@ -1246,7 +1246,7 @@
     "branch": "Zürich Wollishofen",
     "brand": "TopPharm",
     "brand:wikidata": "Q110277794",
-    "check_date": "2024-02-01",
+    "check_date": "2024-07-19",
     "check_date:opening_hours": "2022-10-11",
     "dispensing": "yes",
     "healthcare": "pharmacy",
@@ -1254,6 +1254,7 @@
     "opening_hours": "Mo-Fr 08:00-19:00, Sa 08:00-17:00",
     "operator": "TopPharm Genossenschaft",
     "website": "https://www.apotheke.ch/morgental",
+    "wheelchair": "yes",
     "id": "node/379714379"
   },
   "geometry": {
