@@ -55930,6 +55930,47 @@
       47.367773
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12064448952",
+  "properties": {
+    "addr:city": "Satigny",
+    "addr:housenumber": "215",
+    "addr:postcode": "1242",
+    "addr:street": "Route d'Aire-la-Ville",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Centre Médical de Satigny",
+    "phone": "+41 22 753 12 07",
+    "website": "https://www.cmsatigny.ch/",
+    "id": "node/12064448952"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0329634,
+      46.2126998
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12065171669",
+  "properties": {
+    "addr:postcode": "7188",
+    "amenity": "clinic",
+    "name": "Немецкий",
+    "id": "node/12065171669"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.768295,
+      46.6788777
+    ]
+  }
 }
 ]
 }
