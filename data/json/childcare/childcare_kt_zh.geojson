@@ -7585,26 +7585,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9192127050",
-  "properties": {
-    "amenity": "childcare",
-    "contact:phone": "+41 44 413 28 22",
-    "isced:level": "0",
-    "name": "Apfelbaum 2-3-4-5 (Mittag-/Abendhort)",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Apfelbaum",
-    "operator:type": "public",
-    "id": "node/9192127050"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5554369,
-      47.4066831
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9192708000",
   "properties": {
     "amenity": "childcare",

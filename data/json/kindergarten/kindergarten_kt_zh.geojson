@@ -33078,6 +33078,7 @@
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2023-12-01",
     "contact:city": "Zürich",
     "contact:housenumber": "235",
     "contact:phone": "+41 44 413 75 47",
@@ -38889,6 +38890,7 @@
   "id": "node/6761451233",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-07-21",
     "name": "Kindergarten Aemtler D",
     "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
     "id": "node/6761451233"
@@ -39627,6 +39629,7 @@
     "addr:housenumber": "12a",
     "addr:street": "Agnesstrasse",
     "amenity": "kindergarten",
+    "check_date": "2024-07-22",
     "name": "Kita Loki",
     "operator": "Verein Kindertagesstätte Loki",
     "operator:type": "private",
@@ -40335,26 +40338,6 @@
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Apfelbaum",
     "operator:type": "public",
     "id": "node/9190560366"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5554741,
-      47.4066309
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9192127051",
-  "properties": {
-    "amenity": "kindergarten",
-    "contact:phone": "+41 44 413 28 31",
-    "isced:level": "0",
-    "name": "Kindergärten Apfelbaum I/II",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Apfelbaum",
-    "operator:type": "public",
-    "id": "node/9192127051"
   },
   "geometry": {
     "type": "Point",
