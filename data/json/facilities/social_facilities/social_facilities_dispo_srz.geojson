@@ -11962,97 +11962,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/95561709",
-  "properties": {
-    "addr:city": "Rüschlikon",
-    "addr:country": "CH",
-    "addr:housenumber": "3",
-    "addr:postcode": "8803",
-    "addr:street": "Eggrainweg",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Pflegezentrum Nidelbad",
-    "phone": "+41 44 724 74 11",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "source": "bing",
-    "website": "https://www.pflegezentrum-nidelbad.ch/",
-    "id": "way/95561709"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5479955,
-          47.3060642
-        ],
-        [
-          8.5480547,
-          47.3058165
-        ],
-        [
-          8.5480998,
-          47.3058215
-        ],
-        [
-          8.5481483,
-          47.305827
-        ],
-        [
-          8.5484233,
-          47.305857
-        ],
-        [
-          8.5483222,
-          47.3062489
-        ],
-        [
-          8.5484572,
-          47.3062824
-        ],
-        [
-          8.5484659,
-          47.3062637
-        ],
-        [
-          8.5485893,
-          47.3062972
-        ],
-        [
-          8.5485341,
-          47.3064074
-        ],
-        [
-          8.5482221,
-          47.3063346
-        ],
-        [
-          8.5482627,
-          47.3062598
-        ],
-        [
-          8.5480683,
-          47.3062352
-        ],
-        [
-          8.5480993,
-          47.3061002
-        ],
-        [
-          8.5481045,
-          47.3060787
-        ],
-        [
-          8.5479955,
-          47.3060642
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/95966031",
   "properties": {
     "addr:city": "Pfäffikon ZH",
@@ -13751,6 +13660,7 @@
     "addr:street": "Jupiterstrasse",
     "amenity": "social_facility",
     "building": "residential",
+    "check_date": "2024-07-22",
     "name": "Tertianum Villa Böcklin",
     "owner": "Swiss Prime Site (SPS)",
     "social_facility": "assisted_living",
@@ -13814,12 +13724,14 @@
     "addr:street": "Böcklinstrasse",
     "amenity": "social_facility",
     "building": "residential",
+    "check_date": "2024-07-22",
     "name": "Tertianum Villa Böcklin",
     "owner": "Swiss Prime Site (SPS)",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
     "start_date": "1900",
+    "wheelchair": "yes",
     "id": "way/106696983"
   },
   "geometry": {
@@ -16349,6 +16261,7 @@
     "amenity": "social_facility",
     "building": "apartments",
     "building:levels": "7",
+    "check_date": "2024-07-22",
     "name": "Alterswohnungen Sunnepark",
     "operator": "Stiftung Diakoniewerk Neumünster",
     "roof:levels": "1",

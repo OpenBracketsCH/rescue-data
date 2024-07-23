@@ -36053,50 +36053,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1186182035",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindergarten Im Kessler 1+2",
-    "id": "way/1186182035"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4363575,
-          47.3962142
-        ],
-        [
-          8.4369305,
-          47.3962422
-        ],
-        [
-          8.4369155,
-          47.3964769
-        ],
-        [
-          8.436958,
-          47.3964792
-        ],
-        [
-          8.4369442,
-          47.3966393
-        ],
-        [
-          8.4364643,
-          47.3966836
-        ],
-        [
-          8.4363575,
-          47.3962142
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1186283264",
   "properties": {
     "amenity": "kindergarten",
@@ -41743,6 +41699,7 @@
   "properties": {
     "alt_name": "Kindergärten Freiestrasse 1 & 2/Betreuung",
     "amenity": "kindergarten",
+    "check_date": "2024-07-22",
     "contact:phone": "+41 44 383 42 51",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/ilgen/ueberuns/standorte/kindergaerten.html",
     "isced:level": "0",

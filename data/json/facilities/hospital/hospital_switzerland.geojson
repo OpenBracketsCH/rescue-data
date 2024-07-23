@@ -2183,80 +2183,6 @@
 },
 {
   "type": "Feature",
-  "id": "relation/13325037",
-  "properties": {
-    "addr:city": "Uznach",
-    "addr:country": "CH",
-    "addr:housenumber": "25",
-    "addr:postcode": "8730",
-    "addr:street": "Gasterstrasse",
-    "amenity": "hospital",
-    "emergency": "yes",
-    "name": "Spital Linth",
-    "phone": "+41 55 285 41 11",
-    "type": "multipolygon",
-    "website": "https://www.spital-linth.ch/",
-    "wikidata": "Q33121426",
-    "id": "relation/13325037"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.9964535,
-          47.2238575
-        ],
-        [
-          8.9962925,
-          47.2239025
-        ],
-        [
-          8.9945076,
-          47.2243008
-        ],
-        [
-          8.9937304,
-          47.2241874
-        ],
-        [
-          8.99344,
-          47.2238456
-        ],
-        [
-          8.9940115,
-          47.2235938
-        ],
-        [
-          8.9941227,
-          47.2235448
-        ],
-        [
-          8.9938625,
-          47.2232078
-        ],
-        [
-          8.9950734,
-          47.2227107
-        ],
-        [
-          8.9956274,
-          47.2229601
-        ],
-        [
-          8.9958608,
-          47.223206
-        ],
-        [
-          8.9964535,
-          47.2238575
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "relation/13506524",
   "properties": {
     "addr:city": "Schaffhausen",
@@ -31197,6 +31123,167 @@
 },
 {
   "type": "Feature",
+  "id": "way/673816076",
+  "properties": {
+    "addr:city": "Uznach",
+    "addr:country": "CH",
+    "addr:housenumber": "25",
+    "addr:postcode": "8730",
+    "addr:street": "Gasterstrasse",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Spital Linth",
+    "phone": "+41 55 285 41 11",
+    "website": "https://www.spital-linth.ch/",
+    "wikidata": "Q33121426",
+    "id": "way/673816076"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9964734,
+          47.2238642
+        ],
+        [
+          8.9963436,
+          47.2239037
+        ],
+        [
+          8.9962034,
+          47.2239418
+        ],
+        [
+          8.994937,
+          47.2242221
+        ],
+        [
+          8.9943062,
+          47.2243577
+        ],
+        [
+          8.9939489,
+          47.2244368
+        ],
+        [
+          8.993582,
+          47.2245133
+        ],
+        [
+          8.993557,
+          47.2241881
+        ],
+        [
+          8.9936822,
+          47.2241842
+        ],
+        [
+          8.9935044,
+          47.2239607
+        ],
+        [
+          8.9934746,
+          47.2239207
+        ],
+        [
+          8.9932062,
+          47.2235807
+        ],
+        [
+          8.993238,
+          47.2235637
+        ],
+        [
+          8.9931946,
+          47.2235114
+        ],
+        [
+          8.9934163,
+          47.223389
+        ],
+        [
+          8.9936408,
+          47.2232725
+        ],
+        [
+          8.9937931,
+          47.2232032
+        ],
+        [
+          8.9944306,
+          47.2229653
+        ],
+        [
+          8.9947327,
+          47.2228408
+        ],
+        [
+          8.9949332,
+          47.2227472
+        ],
+        [
+          8.9951201,
+          47.2226734
+        ],
+        [
+          8.9951298,
+          47.222706
+        ],
+        [
+          8.9951596,
+          47.2227312
+        ],
+        [
+          8.9953254,
+          47.2228169
+        ],
+        [
+          8.9953653,
+          47.2228226
+        ],
+        [
+          8.9954027,
+          47.2228204
+        ],
+        [
+          8.9956637,
+          47.2229547
+        ],
+        [
+          8.9957007,
+          47.2229937
+        ],
+        [
+          8.9956698,
+          47.2230066
+        ],
+        [
+          8.9957381,
+          47.2230734
+        ],
+        [
+          8.9959248,
+          47.2232829
+        ],
+        [
+          8.9959883,
+          47.2233553
+        ],
+        [
+          8.9960217,
+          47.2233557
+        ],
+        [
+          8.9964734,
+          47.2238642
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/673833090",
   "properties": {
     "addr:city": "Münsterlingen",
@@ -40307,6 +40394,7 @@
     "addr:postcode": "1350",
     "addr:street": "Chemin de la Magnenette",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Hôpital d'Orbe",
     "phone": "+41 24 442 61 11",
     "website": "https://www.ehnv.ch/jcms/obr_5017/orbe",
@@ -55981,6 +56069,27 @@
     "coordinates": [
       8.768295,
       46.6788777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12067660936",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "level": "4",
+    "name": "AmbYparc",
+    "opening_hours": "Mo-Fr 08:00-17:30",
+    "operator": "ehnv",
+    "website": "https://www.ehnv.ch/etablissements/ambyparc",
+    "id": "node/12067660936"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6406936,
+      46.7652226
     ]
   }
 }
