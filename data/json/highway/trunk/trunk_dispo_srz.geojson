@@ -702,6 +702,7 @@
     "motorroad": "yes",
     "oneway": "yes",
     "ref": "H4",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/4697924"
   },
@@ -7372,6 +7373,7 @@
     "motorroad": "yes",
     "oneway": "yes",
     "ref": "H4",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/51695770"
   },

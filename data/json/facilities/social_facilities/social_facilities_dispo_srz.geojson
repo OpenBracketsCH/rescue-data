@@ -8575,57 +8575,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/53017078",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "6",
-    "addr:postcode": "8048",
-    "addr:street": "Segnesstrasse",
-    "amenity": "social_facility",
-    "building": "apartments",
-    "building:levels": "5",
-    "check_date": "2023-04-27",
-    "email": "kreis9hard@oja.ch",
-    "name": "OJA Kreis 9 & Hard",
-    "opening_hours": "Tu-Fr",
-    "phone": "+41 44 400 0382",
-    "roof:levels": "0",
-    "roof:shape": "quadruple_saltbox",
-    "social_facility": "outreach",
-    "social_facility:for": "juvenile",
-    "website": "https://www.oja.ch/einrichtungen/oja-kreis-9-hard/",
-    "id": "way/53017078"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4854478,
-          47.3888786
-        ],
-        [
-          8.4853591,
-          47.3887028
-        ],
-        [
-          8.4856193,
-          47.3886422
-        ],
-        [
-          8.4857078,
-          47.3888188
-        ],
-        [
-          8.4854478,
-          47.3888786
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/53018672",
   "properties": {
     "addr:city": "Zürich",
@@ -51886,6 +51835,33 @@
     "coordinates": [
       8.5382894,
       47.4138937
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5400748557",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "6",
+    "addr:postcode": "8048",
+    "addr:street": "Segnesstrasse",
+    "amenity": "social_facility",
+    "check_date": "2023-04-27",
+    "email": "kreis9hard@oja.ch",
+    "name": "OJA Kreis 9 & Hard",
+    "opening_hours": "Tu-Fr",
+    "phone": "+41 44 400 0382",
+    "social_facility": "outreach",
+    "social_facility:for": "juvenile",
+    "website": "https://www.oja.ch/einrichtungen/oja-kreis-9-hard/",
+    "id": "node/5400748557"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4856151,
+      47.3887859
     ]
   }
 },

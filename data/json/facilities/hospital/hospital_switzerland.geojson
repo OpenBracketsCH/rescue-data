@@ -52112,6 +52112,7 @@
   "id": "node/5954425430",
   "properties": {
     "addr:city": "Lungern",
+    "addr:country": "CH",
     "addr:housenumber": "69",
     "addr:postcode": "6078",
     "addr:street": "Brünigstrasse",
