@@ -3588,6 +3588,7 @@
   "id": "way/226338375",
   "properties": {
     "addr:city": "Fischenthal",
+    "addr:country": "CH",
     "addr:housenumber": "185",
     "addr:postcode": "8497",
     "addr:street": "Tösstalstrasse",

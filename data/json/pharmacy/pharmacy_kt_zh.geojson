@@ -5189,9 +5189,8 @@
   "type": "Feature",
   "id": "node/4734683647",
   "properties": {
-    "addr:housenumber": "1",
-    "addr:street": "Marktgasse",
     "amenity": "pharmacy",
+    "drive_through": "no",
     "healthcare": "pharmacy",
     "name": "Drogerie Apotheke am Stadtplatz",
     "opening_hours": "Mo-Fr 09:00-18:30, Sa 09:00-16:00",
@@ -5202,8 +5201,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5831151,
-      47.4506086
+      8.5827866,
+      47.4498338
     ]
   }
 },

@@ -4697,6 +4697,7 @@
   "id": "node/3748984574",
   "properties": {
     "addr:city": "Fischenthal",
+    "addr:country": "CH",
     "addr:housenumber": "222",
     "addr:postcode": "8497",
     "addr:street": "Tösstalstrasse",
@@ -12751,6 +12752,25 @@
     "coordinates": [
       8.5536978,
       47.3558848
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12072224253",
+  "properties": {
+    "addr:housenumber": "15",
+    "addr:street": "Schürbungertweg",
+    "amenity": "childcare",
+    "name": "Zimbo",
+    "website": "https://zimbokita.ch/",
+    "id": "node/12072224253"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5795237,
+      47.4516421
     ]
   }
 }

@@ -36620,6 +36620,110 @@
 },
 {
   "type": "Feature",
+  "id": "way/125419236",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "70",
+    "addr:postcode": "8008",
+    "addr:street": "Lenggstrasse",
+    "amenity": "school",
+    "building": "school",
+    "check_date": "2024-03-03",
+    "description": "Mittag-/Abendhort (Lengg I + III), Morgentisch (Lengg II)",
+    "healthcare": "alternative",
+    "healthcare:speciality": "chiropractic",
+    "name": "Schulungsräume Chiropraktische Medizin",
+    "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg",
+    "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
+    "id": "way/125419236"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5739202,
+          47.3542199
+        ],
+        [
+          8.5738198,
+          47.3541079
+        ],
+        [
+          8.5740855,
+          47.3539986
+        ],
+        [
+          8.5741028,
+          47.354018
+        ],
+        [
+          8.5741348,
+          47.3540048
+        ],
+        [
+          8.5741721,
+          47.3540465
+        ],
+        [
+          8.5742378,
+          47.3540195
+        ],
+        [
+          8.574276,
+          47.3540621
+        ],
+        [
+          8.574175,
+          47.3541036
+        ],
+        [
+          8.5741838,
+          47.3541134
+        ],
+        [
+          8.5741314,
+          47.3541349
+        ],
+        [
+          8.5741396,
+          47.3541441
+        ],
+        [
+          8.5741129,
+          47.3541551
+        ],
+        [
+          8.5741043,
+          47.3541455
+        ],
+        [
+          8.5740011,
+          47.354188
+        ],
+        [
+          8.5740092,
+          47.354197
+        ],
+        [
+          8.5739827,
+          47.3542079
+        ],
+        [
+          8.5739737,
+          47.3541979
+        ],
+        [
+          8.5739202,
+          47.3542199
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/126062293",
   "properties": {
     "amenity": "school",
@@ -55781,6 +55885,7 @@
   "id": "way/226338374",
   "properties": {
     "addr:city": "Fischenthal",
+    "addr:country": "CH",
     "addr:housenumber": "222",
     "addr:postcode": "8497",
     "addr:street": "Tösstalstrasse",

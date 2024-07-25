@@ -20691,6 +20691,7 @@
   "id": "way/203241763",
   "properties": {
     "addr:city": "Steg im Tösstal",
+    "addr:country": "CH",
     "addr:housenumber": "3",
     "addr:postcode": "8496",
     "addr:street": "Sennhütte",
@@ -22186,6 +22187,7 @@
   "id": "way/231441438",
   "properties": {
     "addr:city": "Saland",
+    "addr:country": "CH",
     "addr:housenumber": "7g",
     "addr:postcode": "8493",
     "addr:street": "Im Hanfland",

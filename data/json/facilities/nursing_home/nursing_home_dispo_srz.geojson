@@ -16045,6 +16045,7 @@
   "id": "way/231441438",
   "properties": {
     "addr:city": "Saland",
+    "addr:country": "CH",
     "addr:housenumber": "7g",
     "addr:postcode": "8493",
     "addr:street": "Im Hanfland",
