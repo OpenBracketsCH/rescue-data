@@ -54413,6 +54413,28 @@
 },
 {
   "type": "Feature",
+  "id": "node/9768039070",
+  "properties": {
+    "amenity": "hospital",
+    "email": "notfall@spitalmaennedorf.ch",
+    "emergency_ward_entrance": "all",
+    "entrance": "yes",
+    "name": "Notfallstation Spital Männedorf",
+    "operator": "Spital Männedorf",
+    "phone": "+41 44 922 25 30",
+    "website": "https://www.spitalmaennedorf.ch/notfall/",
+    "id": "node/9768039070"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.697132,
+      47.250619
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9770559736",
   "properties": {
     "alt_name": "Uroklinik Rapperswil",
