@@ -6555,6 +6555,28 @@
 },
 {
   "type": "Feature",
+  "id": "node/9926400622",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "400",
+    "addr:postcode": "8048",
+    "addr:street": "Hohlstrasse",
+    "alt_name": "LRZ Zürich",
+    "amenity": "fire_station",
+    "name": "Lösch- und Rettungszug Zürich",
+    "id": "node/9926400622"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5036941,
+      47.3866866
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/10570035060",
   "properties": {
     "amenity": "fire_station",

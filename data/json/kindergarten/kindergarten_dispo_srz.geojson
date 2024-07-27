@@ -39846,6 +39846,7 @@
   "id": "node/3191241361",
   "properties": {
     "addr:city": "Saland",
+    "addr:country": "CH",
     "addr:housenumber": "27",
     "addr:postcode": "8493",
     "addr:street": "Haselhalden",
