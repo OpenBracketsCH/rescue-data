@@ -33031,6 +33031,79 @@
 },
 {
   "type": "Feature",
+  "id": "way/1304070695",
+  "properties": {
+    "amenity": "kindergarten",
+    "contact:city": "Zürich",
+    "contact:housenumber": "99",
+    "contact:phone": "+41 44 413 77 23",
+    "contact:postcode": "8005",
+    "contact:street": "Neugasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kornhaus/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "0",
+    "name": "Kindergarten Neugasse",
+    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Kornahus",
+    "operator:type": "public",
+    "id": "way/1304070695"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5248576,
+          47.3835574
+        ],
+        [
+          8.525181,
+          47.3833296
+        ],
+        [
+          8.5252043,
+          47.383319
+        ],
+        [
+          8.5253088,
+          47.3835524
+        ],
+        [
+          8.5253322,
+          47.3836091
+        ],
+        [
+          8.5252573,
+          47.383627
+        ],
+        [
+          8.525235,
+          47.3836323
+        ],
+        [
+          8.5251846,
+          47.3836443
+        ],
+        [
+          8.5251396,
+          47.3836575
+        ],
+        [
+          8.5251605,
+          47.3837071
+        ],
+        [
+          8.524975,
+          47.3837503
+        ],
+        [
+          8.5248576,
+          47.3835574
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
@@ -38298,31 +38371,6 @@
     "coordinates": [
       8.5254523,
       47.3851966
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6632963127",
-  "properties": {
-    "amenity": "kindergarten",
-    "contact:city": "Zürich",
-    "contact:housenumber": "99",
-    "contact:phone": "+41 44 413 77 23",
-    "contact:postcode": "8005",
-    "contact:street": "Neugasse",
-    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kornhaus/ueberuns/standorte/kindergaerten.html",
-    "isced:level": "0",
-    "name": "Kindergarten Neugasse",
-    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Kornahus",
-    "operator:type": "public",
-    "id": "node/6632963127"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5250483,
-      47.3835589
     ]
   }
 },
