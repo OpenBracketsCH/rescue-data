@@ -77707,8 +77707,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4900164,
-      47.3929185
+      8.490017,
+      47.3929205
     ]
   }
 },
@@ -91817,8 +91817,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7574089,
-      47.4670229
+      8.7574083,
+      47.4670227
     ]
   }
 },
@@ -97668,6 +97668,24 @@
     "coordinates": [
       8.7221757,
       47.5025918
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12080276000",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "locked": "yes",
+    "material": "wood",
+    "id": "node/12080276000"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7619552,
+      47.2608497
     ]
   }
 }

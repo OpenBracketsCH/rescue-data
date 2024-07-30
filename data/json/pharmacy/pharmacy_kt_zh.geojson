@@ -4735,7 +4735,7 @@
     "brand": "Benu",
     "brand:wikidata": "Q62562792",
     "healthcare": "pharmacy",
-    "name": "Benu",
+    "name": "BENU Apotheke",
     "old_name": "Amavita Altstetten",
     "opening_hours": "Mo-Fr 07:00-18:30, Sa 09:00-14:00; PH off",
     "operator": "BENU Pharmacies",
@@ -5010,10 +5010,11 @@
     "indoor": "yes",
     "level": "-2",
     "name": "Medbase Apotheke Zürich HB",
+    "note": "Schliessung 2024-08-14; wird nach Umbau der Coop-Verkaufsfläche zugeschlagen",
     "old_name": "Naturewell Apotheke",
     "opening_hours": "Mo-Fr 07:00-21:00; Sa-Su 09:00-20:00",
     "operator": "Medbase Apotheken",
-    "website": "https://www.topwell.ch/medbaseapothekezuerichhb/",
+    "website": "https://www.medbase-apotheken.ch/apotheken/detail/medbase-apotheke-zuerich-hb/",
     "id": "node/4424679506"
   },
   "geometry": {

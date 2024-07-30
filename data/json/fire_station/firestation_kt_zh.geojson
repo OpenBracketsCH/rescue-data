@@ -3714,7 +3714,10 @@
   "type": "Feature",
   "id": "way/250881492",
   "properties": {
+    "addr:city": "Sternenberg",
+    "addr:country": "CH",
     "addr:housenumber": "2",
+    "addr:postcode": "8499",
     "addr:street": "Dorfstrasse",
     "amenity": "fire_station",
     "building": "yes",

@@ -55730,7 +55730,7 @@
   "id": "node/11716085268",
   "properties": {
     "access": "permit",
-    "defibrillator:location": "Büro Empfang im 6. OG. Linkeseite Backoffice unter einen Regal 1183LTM",
+    "defibrillator:location": "Büro Empfang im 6. OG. Im Garderobenschrank.\n1183LTM",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -62914,6 +62914,77 @@
     "coordinates": [
       8.4345978,
       47.4527739
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12079596469",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Gadola Bau AG, Riedikerstrasse 63",
+    "description": "Montag bis Freitag an Werktagen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "06:00 - 17:00",
+    "operator": "Firma",
+    "phone": "+41 44 929 61 61",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12079596469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7134296,
+      47.3355327
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12079754671",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Eichbüelstrasse 31, Haupteingang",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "SpanSet AG",
+    "phone": "+41 44 929 70 70",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12079754671"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7255132,
+      47.2740957
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12079777969",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Industriestrasse 3, Eingang Schulungsraum, Werk 2",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "SpanSet AG",
+    "phone": "+41 44 929 70 70",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12079777969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7273405,
+      47.2741081
     ]
   }
 }

@@ -27690,7 +27690,9 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindergarten Weierhöhe",
-    "operator": "Schule Aussenwachten",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://schule-aussenwachten.ch/schule/weierhohe.php",
     "id": "way/409160854"
   },
   "geometry": {

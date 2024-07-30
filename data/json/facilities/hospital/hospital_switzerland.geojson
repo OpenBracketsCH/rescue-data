@@ -56115,6 +56115,22 @@
       46.7652226
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12079765369",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Unité Iris",
+    "id": "node/12079765369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2083183,
+      46.2081787
+    ]
+  }
 }
 ]
 }

@@ -3394,6 +3394,7 @@
   "id": "way/779607121",
   "properties": {
     "addr:city": "Bauma",
+    "addr:country": "CH",
     "addr:housenumber": "2.1",
     "addr:postcode": "8494",
     "addr:street": "Altlandenbergstrasse",

@@ -12667,6 +12667,7 @@
   "id": "way/204013415",
   "properties": {
     "addr:city": "Bauma",
+    "addr:country": "CH",
     "addr:housenumber": "10",
     "addr:postcode": "8494",
     "addr:street": "Böndlerstrasse",
@@ -12740,7 +12741,10 @@
   "type": "Feature",
   "id": "way/204013456",
   "properties": {
+    "addr:city": "Bauma",
+    "addr:country": "CH",
     "addr:housenumber": "10",
+    "addr:postcode": "8494",
     "addr:street": "Böndlerstrasse",
     "amenity": "social_facility",
     "building": "yes",
@@ -13974,6 +13978,7 @@
   "id": "way/240633972",
   "properties": {
     "addr:city": "Bauma",
+    "addr:country": "CH",
     "addr:housenumber": "9",
     "addr:postcode": "8494",
     "addr:street": "Sonnenhaldenstrasse",

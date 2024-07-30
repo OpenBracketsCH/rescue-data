@@ -26806,8 +26806,8 @@
           47.4672743
         ],
         [
-          8.7574089,
-          47.4670229
+          8.7574083,
+          47.4670227
         ],
         [
           8.7574055,
@@ -35319,7 +35319,9 @@
     "addr:street": "Weierweid",
     "amenity": "school",
     "name": "Primarschulhaus Weierweid",
-    "operator": "Schule Aussenwachten",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://schule-aussenwachten.ch/schule/weierweid.php",
     "id": "way/100088732"
   },
   "geometry": {
@@ -35392,7 +35394,9 @@
     "addr:street": "Ibergstrasse",
     "amenity": "school",
     "name": "Primaschule und Kindergarten Iberg",
-    "operator": "Schule Aussenwachten",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://schule-aussenwachten.ch/schule/iberg.php",
     "id": "way/100088767"
   },
   "geometry": {
@@ -35708,7 +35712,9 @@
     "addr:street": "Eidbergstrasse",
     "amenity": "school",
     "name": "Schule Eidberg",
-    "operator": "Schule Aussenwachten",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "website": "https://schule-aussenwachten.ch/schule/eidberg.php",
     "id": "way/101625922"
   },
   "geometry": {
