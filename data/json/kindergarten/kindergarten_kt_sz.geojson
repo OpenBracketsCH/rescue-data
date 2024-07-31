@@ -231,6 +231,7 @@
     "addr:street": "In den Matten",
     "amenity": "kindergarten",
     "building": "yes",
+    "name": "In Den Matten",
     "source": "bing",
     "id": "way/193455390"
   },

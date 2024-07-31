@@ -1875,6 +1875,7 @@
     "defibrillator:location": "Schulhaus",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Bezirksverwaltung Einsiedeln",
     "phone": "+41 55 418 41 01",
@@ -33136,11 +33137,12 @@
   "id": "node/9141209418",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Beim Hauseingang, in grünem AED Kasten",
-    "description": "Defibrillator inkl. Notfallset. Nach Gebrauch bitte Info an 079 651 55 93 oder den QR Code am Defibrillator scannen. Danke!",
+    "check_date": "2024-07-30",
+    "defibrillator:location": "Bei der Garage in grünem, markierten AED Wandschrank",
+    "description": "Automatischer Externer Defibrillator für die öffentliche Nutzung. Nach Gebrauch Gerät bitte zurück und Info an 079 651 55 93. Danke!",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
     "opening_hours": "24/7",
     "operator": "EMS Niederglatt",
     "phone": "+41 79 651 55 93",
@@ -33150,8 +33152,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4973606,
-      47.4884363
+      8.4971855,
+      47.4884328
     ]
   }
 },
@@ -81997,6 +81999,28 @@
     "coordinates": [
       8.7273405,
       47.2741081
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12083155469",
+  "properties": {
+    "defibrillator:location": "Lazariterkirche Klosterstrasse 4, Dübendorf",
+    "description": "An Hauswand von Klosterstube oberhalb Sitzbank",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Dübendorf",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12083155469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6479622,
+      47.3923829
     ]
   }
 }

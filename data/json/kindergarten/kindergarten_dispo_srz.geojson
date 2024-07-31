@@ -18143,6 +18143,7 @@
     "addr:street": "In den Matten",
     "amenity": "kindergarten",
     "building": "yes",
+    "name": "In Den Matten",
     "source": "bing",
     "id": "way/193455390"
   },
@@ -41188,7 +41189,7 @@
   "properties": {
     "amenity": "kindergarten",
     "check_date": "2024-02-05",
-    "name": "krippe kinderparadies",
+    "name": "Krippe Kinderparadies",
     "wheelchair": "yes",
     "id": "node/4952798655"
   },
