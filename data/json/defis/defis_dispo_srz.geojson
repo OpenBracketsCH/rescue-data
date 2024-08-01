@@ -66273,29 +66273,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11158614705",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Fensternische",
-    "description": "immer verfügbar ",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "level": "Parterre",
-    "operator": "Privat",
-    "phone": "+41764391755",
-    "id": "node/11158614705"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6674429,
-      47.3436444
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11158999505",
   "properties": {
     "access": "yes",
@@ -66337,24 +66314,6 @@
     "coordinates": [
       8.6476856,
       47.2719834
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11165833428",
-  "properties": {
-    "access": "yes",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "id": "node/11165833428"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5258395,
-      46.9907024
     ]
   }
 },
@@ -74908,29 +74867,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11777898935",
-  "properties": {
-    "access": "private",
-    "defibrillator:location": "Neben dem Eingang",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "0",
-    "opening_hours": "24/7",
-    "operator": "Swissgrid",
-    "wheelchair": "limited",
-    "id": "node/11777898935"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6497315,
-      47.4658886
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11777919595",
   "properties": {
     "access": "customers",
@@ -79681,28 +79617,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11974002669",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Brüttenerstrasse 50, 8309 Nürensdorf",
-    "description": "steht nicht zur Verfügung, Hochsicherheitsgeäude",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "level": "steht nicht zur Verfügung, Hochsicherheirsgelände",
-    "operator": "Axpo Werkhof Breite",
-    "id": "node/11974002669"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6497595,
-      47.4659227
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11974687263",
   "properties": {
     "access": "private",
@@ -82021,6 +81935,100 @@
     "coordinates": [
       8.6479622,
       47.3923829
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12084475169",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Kiesgrube Ghürst Holcim",
+    "description": "während Öffnungzeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "Mo-Fr 06:00-17:00\n",
+    "operator": "Holcim Hüntwangen",
+    "phone": "+41765323172",
+    "id": "node/12084475169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5080221,
+      47.592529
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12084668769",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Produktionshalle",
+    "description": "für internen Gebrauch bestimmt",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Federnfabrik Schmid AG",
+    "phone": "+41 44 929 68 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12084668769"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7178659,
+      47.2702354
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12084846169",
+  "properties": {
+    "defibrillator:location": "Hautzentrum Züri Oberland",
+    "description": "Nur während den Öffnungszeiten zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "We 08:00-12:00, 14:00-16:30; Fr 08:00-12:00, 14:00-15:30",
+    "operator": "Hautzentrum Züri Oberland, Dr. med. Janosch Nowak",
+    "phone": "+41 55 524 08 08",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12084846169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8510484,
+      47.2587646
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12084955869",
+  "properties": {
+    "defibrillator:location": "Grüngasse 19, 8004 Zürich, Departementssekretariat Gesundheits- und Umweltdepartement Stadt Zürich",
+    "description": "Während Öffnungszeiten verfügbar. Bitte im 4. Stock melden!",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "5",
+    "opening_hours": "MO-TH \"08:00-12:00 13:00-17:00 FR 08:00-12:00 13:00-16:00\"",
+    "operator": "Stadt Zürich, Departementssekretariat",
+    "phone": "+41 44 412 45 80",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12084955869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5249883,
+      47.3732955
     ]
   }
 }

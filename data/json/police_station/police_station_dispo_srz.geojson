@@ -3343,6 +3343,7 @@
     "addr:street": "Obere Bahnhofstrasse",
     "alt_name": "KomPol Affoltern am Albis",
     "amenity": "police",
+    "check_date": "2024-07-31",
     "email": "stadtpolizei@stadtaffoltern.ch",
     "name": "Polizeiposten Stadtpolizei Affoltern am Albis",
     "operator": "Stadt Affoltern am Albis",

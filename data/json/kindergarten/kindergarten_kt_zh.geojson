@@ -41011,6 +41011,7 @@
   "id": "node/9358580417",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-08-01",
     "contact:city": "Zürich",
     "contact:housenumber": "20",
     "contact:phone": "+41 44 413 10 17",
@@ -41533,6 +41534,7 @@
   "id": "node/9526782469",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-07-31",
     "email": "affolternaa@chinderstern.ch",
     "mobile": "+41 79 80 90 127",
     "name": "Kita Chinderstern Affoltern am Albis",
