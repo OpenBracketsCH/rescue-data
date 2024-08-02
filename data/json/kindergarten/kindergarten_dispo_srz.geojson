@@ -8396,7 +8396,6 @@
     "phone": "+41 44 413 14 66",
     "roof:shape": "flat",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
-    "source:addr": "survey",
     "website": "https://www.stadt-zuerich.ch/content/schulen/de/nordstrasse/betreuung/standorte.html",
     "id": "way/90250765"
   },
@@ -31998,12 +31997,12 @@
     "coordinates": [
       [
         [
-          8.5193743,
-          47.3796123
+          8.51939,
+          47.3796291
         ],
         [
-          8.519788,
-          47.3794145
+          8.519787,
+          47.3794134
         ],
         [
           8.5201063,
@@ -32014,8 +32013,8 @@
           47.3799465
         ],
         [
-          8.5193743,
-          47.3796123
+          8.51939,
+          47.3796291
         ]
       ]
     ]
