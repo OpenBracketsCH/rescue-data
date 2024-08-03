@@ -18134,60 +18134,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/193455390",
-  "properties": {
-    "addr:city": "Einsiedeln",
-    "addr:country": "CH",
-    "addr:postcode": "8840",
-    "addr:street": "In den Matten",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "In Den Matten",
-    "source": "bing",
-    "id": "way/193455390"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7420879,
-          47.1310905
-        ],
-        [
-          8.7421325,
-          47.1310695
-        ],
-        [
-          8.7421994,
-          47.1311007
-        ],
-        [
-          8.7423405,
-          47.1311684
-        ],
-        [
-          8.74225,
-          47.1312116
-        ],
-        [
-          8.7421775,
-          47.1312442
-        ],
-        [
-          8.7420345,
-          47.1311157
-        ],
-        [
-          8.7420879,
-          47.1310905
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/193919804",
   "properties": {
     "amenity": "kindergarten",
@@ -37830,6 +37776,42 @@
 },
 {
   "type": "Feature",
+  "id": "way/1305300539",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "In den Matten",
+    "id": "way/1305300539"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.741767,
+          47.1310533
+        ],
+        [
+          8.7419684,
+          47.1309536
+        ],
+        [
+          8.7423542,
+          47.1311624
+        ],
+        [
+          8.7420163,
+          47.1313177
+        ],
+        [
+          8.741767,
+          47.1310533
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",
@@ -49829,26 +49811,6 @@
     "coordinates": [
       8.7450606,
       47.1269685
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10072913317",
-  "properties": {
-    "addr:city": "Einsiedeln",
-    "addr:housenumber": "20a",
-    "addr:postcode": "8840",
-    "addr:street": "In den Matten",
-    "amenity": "kindergarten",
-    "name": "Kindergarten In den Matten",
-    "id": "node/10072913317"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7420158,
-      47.1311063
     ]
   }
 },

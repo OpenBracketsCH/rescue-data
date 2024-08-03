@@ -3962,10 +3962,6 @@
           47.3224411
         ],
         [
-          8.8024049,
-          47.3223969
-        ],
-        [
           8.8020961,
           47.3223398
         ],
@@ -52462,8 +52458,10 @@
   "type": "Feature",
   "id": "node/6945957071",
   "properties": {
+    "addr:city": "Corminboeuf",
     "addr:housenumber": "5",
-    "addr:street": "route du Pâqui",
+    "addr:postcode": "1720",
+    "addr:street": "Route du Pâqui",
     "amenity": "clinic",
     "healthcare": "clinic",
     "healthcare:speciality": "general",
