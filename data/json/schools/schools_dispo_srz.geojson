@@ -62504,7 +62504,7 @@
     "coordinates": [
       [
         [
-          8.8225845,
+          8.822587,
           47.3629458
         ],
         [
@@ -62592,39 +62592,55 @@
           47.365001
         ],
         [
-          8.8224764,
-          47.3645832
+          8.8224792,
+          47.3645834
         ],
         [
-          8.8224858,
-          47.3645602
+          8.8224883,
+          47.3645604
         ],
         [
           8.8225131,
           47.3644938
         ],
         [
-          8.822633,
-          47.364202
+          8.8226365,
+          47.3642037
         ],
         [
-          8.822657,
-          47.3641436
+          8.8226609,
+          47.3641443
         ],
         [
-          8.8227315,
-          47.3639233
+          8.8227011,
+          47.3640329
+        ],
+        [
+          8.8227375,
+          47.3639193
+        ],
+        [
+          8.822746,
+          47.3638585
         ],
         [
           8.8227468,
           47.3638
         ],
         [
-          8.8227391,
-          47.3637129
+          8.8227404,
+          47.3637506
         ],
         [
-          8.8225845,
+          8.8227342,
+          47.3637139
+        ],
+        [
+          8.8226621,
+          47.3633299
+        ],
+        [
+          8.822587,
           47.3629458
         ]
       ]
@@ -125351,8 +125367,6 @@
   "type": "Feature",
   "id": "way/1305223152",
   "properties": {
-    "addr:housenumber": "102",
-    "addr:street": "Mutschellenstrasse",
     "amenity": "school",
     "contact:phone": "+41 44 413 44 00",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/skb/ueberuns/standorte.html",
@@ -125360,7 +125374,6 @@
     "operator": "Stadt Zürich, SSD, Sonderschulen",
     "operator:type": "public",
     "short_name": "SKB",
-    "start_date": "1968",
     "toilets:wheelchair": "yes",
     "wheelchair": "yes",
     "id": "way/1305223152"
@@ -129241,6 +129254,7 @@
   "id": "node/9697845464",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-08-03",
     "contact:city": "Zürich",
     "contact:email": "zuerich@minervaschulen.ch",
     "contact:housenumber": "2",
@@ -130398,29 +130412,6 @@
     "coordinates": [
       8.4876988,
       47.5969895
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9892352971",
-  "properties": {
-    "amenity": "school",
-    "name": "Creative Arts Project Zürich",
-    "operator": "Ariane und Brigitte",
-    "operator:type": "private",
-    "phone": "+41 77 425 00 18",
-    "school": "art",
-    "short_name": "CAP Zürich",
-    "website": "https://capzh.ch/",
-    "wheelchair": "yes",
-    "id": "node/9892352971"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5360773,
-      47.3876643
     ]
   }
 },
