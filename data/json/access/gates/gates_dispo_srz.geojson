@@ -92398,6 +92398,7 @@
   "properties": {
     "access": "private",
     "barrier": "gate",
+    "locked": "yes",
     "material": "metal",
     "id": "node/11538219967"
   },

@@ -8438,6 +8438,7 @@
     "addr:street": "Landenbergstrasse",
     "amenity": "kindergarten",
     "building": "yes",
+    "check_date": "2024-08-04",
     "isced:level": "0",
     "name": "Kindergarten Landenbergstrasse",
     "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Nordstrasse",
@@ -31455,6 +31456,7 @@
   "id": "way/705488609",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-08-04",
     "contact:city": "Zürich",
     "contact:housenumber": "6",
     "contact:phone": "+41 44 413 74 66",
@@ -38801,6 +38803,7 @@
   "id": "node/1517777919",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-08-04",
     "contact:city": "Zürich",
     "contact:housenumber": "42",
     "contact:phone": "+41 44 413 76 82",
@@ -42751,6 +42754,7 @@
   "id": "node/6628634882",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-08-04",
     "contact:city": "Zürich",
     "contact:housenumber": "3",
     "contact:phone": "+41 44 363 38 30",
@@ -47129,6 +47133,7 @@
   "id": "node/9549397400",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-08-04",
     "contact:city": "Zürich",
     "contact:housenumber": "103",
     "contact:phone": "+41 44 413 72 56",

@@ -5813,6 +5813,7 @@
   "id": "node/5556899413",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2024-08-04",
     "name": "Kita am Wasser",
     "website": "https://kitaamwasser.ch/",
     "id": "node/5556899413"
@@ -11074,6 +11075,7 @@
   "id": "node/9534137382",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2024-08-04",
     "contact:city": "Zürich",
     "contact:housenumber": "6",
     "contact:phone": "+41 44 413 74 65",
@@ -11194,6 +11196,7 @@
   "id": "node/9534600804",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2024-08-04",
     "contact:city": "Zürich",
     "contact:housenumber": "14",
     "contact:phone": "+41 44 413 77 47",
