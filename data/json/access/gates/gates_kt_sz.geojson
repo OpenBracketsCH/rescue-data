@@ -82,6 +82,37 @@
 },
 {
   "type": "Feature",
+  "id": "way/1305777123",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "bicycle": "no",
+    "foot": "yes",
+    "height": "2",
+    "horse": "no",
+    "locked": "no",
+    "material": "metal",
+    "motor_vehicle": "no",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "way/1305777123"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5237314,
+        47.0631192
+      ],
+      [
+        8.5237548,
+        47.063139
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/33643021",
   "properties": {
     "barrier": "gate",
@@ -6634,6 +6665,85 @@
     "coordinates": [
       8.6206254,
       46.954424
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12093401131",
+  "properties": {
+    "barrier": "lift_gate",
+    "bicycle": "no",
+    "horse": "no",
+    "lift_gate:type": "single",
+    "id": "node/12093401131"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6279641,
+      46.9539562
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12093672759",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/12093672759"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7177722,
+      47.1682759
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12093672761",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/12093672761"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7166071,
+      47.1686357
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12093912901",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/12093912901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7732102,
+      47.174162
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12094057857",
+  "properties": {
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "node/12094057857"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4836176,
+      47.055642
     ]
   }
 }

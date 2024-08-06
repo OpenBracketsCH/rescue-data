@@ -56098,6 +56098,29 @@
       46.2081787
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12093409094",
+  "properties": {
+    "addr:city": "Crissier",
+    "addr:housenumber": "1a",
+    "addr:postcode": "1023",
+    "addr:street": "Chemin des Lentillières",
+    "healthcare": "clinic",
+    "healthcare:speciality": "endocrinology;cardiology;physiothérapie;diététique",
+    "name": "LA LIGNIERE – SQUARE SANTE",
+    "phone": "+41 21 631 08 50",
+    "website": "https://crissier.la-ligniere.ch",
+    "id": "node/12093409094"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5715971,
+      46.5518276
+    ]
+  }
 }
 ]
 }
