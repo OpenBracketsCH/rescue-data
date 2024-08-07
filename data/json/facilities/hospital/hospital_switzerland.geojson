@@ -56121,6 +56121,35 @@
       46.5518276
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12094726533",
+  "properties": {
+    "addr:city": "Bern",
+    "addr:housenumber": "14",
+    "addr:postcode": "3011",
+    "addr:street": "Effingerstrasse",
+    "amenity": "hospital",
+    "description": "Allgemeine Innere Medizin im Zentrum der Stadt Bern",
+    "email": "stefanie.siegfried@hin.ch",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general;emergency;haematology;geriatrics;internal;biochemistry;blood_check;infectious_diseases",
+    "level": "2",
+    "name": "Effinger-Praxis, Dr. med. Stefanie Siegfried",
+    "opening_hours": "Mo-Fr 08:00-12:30 13:00-17:30",
+    "phone": "031 381 58 28",
+    "website": "https://effingerpraxis.ch/",
+    "wheelchair": "yes",
+    "id": "node/12094726533"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4352206,
+      46.9460317
+    ]
+  }
 }
 ]
 }
