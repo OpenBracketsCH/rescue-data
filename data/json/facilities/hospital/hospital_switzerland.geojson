@@ -56085,22 +56085,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/12079765369",
-  "properties": {
-    "amenity": "hospital",
-    "name": "Unité Iris",
-    "id": "node/12079765369"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      6.2083183,
-      46.2081787
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/12093409094",
   "properties": {
     "addr:city": "Crissier",
@@ -56148,6 +56132,27 @@
     "coordinates": [
       7.4352206,
       46.9460317
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12096773218",
+  "properties": {
+    "addr:city": "Altdorf UR",
+    "addr:housenumber": "3",
+    "addr:postcode": "6460",
+    "addr:street": "Acherweg",
+    "amenity": "clinic",
+    "name": "Orthopädische Klinik Uri",
+    "website": "https://www.okuri.ch/",
+    "id": "node/12096773218"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6318402,
+      46.8774535
     ]
   }
 }

@@ -11736,6 +11736,7 @@
   "id": "node/9551556473",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2024-08-07",
     "contact:city": "Zürich",
     "contact:housenumber": "85",
     "contact:phone": "+41 44 413 74 38",
@@ -11873,6 +11874,7 @@
   "id": "node/9552007312",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2024-08-07",
     "contact:city": "Zürich",
     "contact:housenumber": "40",
     "contact:phone": "+41 44 413 74 26",

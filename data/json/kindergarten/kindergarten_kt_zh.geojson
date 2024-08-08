@@ -688,6 +688,7 @@
     "addr:street": "Zanggerweg",
     "amenity": "kindergarten",
     "building": "yes",
+    "check_date": "2024-08-07",
     "contact:phone": "+41 44 413 74 36",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/weinberg/ueberuns/standorte/kindergaerten.html#zanggerweg_1_und2",
     "name": "Kindergarten Zanggerweg 1+2",
@@ -37831,6 +37832,7 @@
   "id": "node/6628915105",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-08-07",
     "contact:city": "Zürich",
     "contact:housenumber": "85",
     "contact:phone": "+41 44 413 74 18",
