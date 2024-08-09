@@ -3478,6 +3478,7 @@
     "amenity": "social_facility",
     "building": "residential",
     "capacity": "73+9",
+    "check_date": "2024-08-08",
     "email": "asz-sydefaedeli@zuerich.ch",
     "name": "Gesundheitszentrum Sydefädeli",
     "operator": "Stadt Zürich, GUD",
@@ -12996,6 +12997,7 @@
     "addr:street": "Restelbergstrasse",
     "amenity": "social_facility",
     "building": "residential",
+    "check_date": "2024-08-08",
     "name": "Tertianum Villa Restelberg",
     "owner": "Swiss Prime Site (SPS)",
     "social_facility": "assisted_living",
@@ -48656,12 +48658,12 @@
           47.4900044
         ],
         [
-          8.7419223,
-          47.4903616
+          8.7419222,
+          47.4903611
         ],
         [
-          8.7416999,
-          47.490165
+          8.7416995,
+          47.4901652
         ],
         [
           8.7418691,
@@ -51472,12 +51474,13 @@
     "addr:street": "Konradstrasse",
     "amenity": "social_facility",
     "check_date": "2024-02-12",
-    "fixme": "not signed as SAW, check if still run by SAW",
     "name": "SAW-Siedlung Konradstrasse",
+    "note": "not signed as SAW, but still a Siedlung by SAW, verified on POI's own website in August 2024",
     "operator": "Stiftung Alterswohnungen der Stadt Zürich (SAW)",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "1994",
+    "website": "https://www.stadt-zuerich.ch/zuerich-im-alter/de/index/wohnen/alterswohnungen/Kreis_4/saw_konradstrasse.html",
     "id": "node/5274657032"
   },
   "geometry": {

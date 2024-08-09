@@ -4162,6 +4162,27 @@
 },
 {
   "type": "Feature",
+  "id": "way/1306376178",
+  "properties": {
+    "barrier": "gate",
+    "id": "way/1306376178"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5506969,
+        47.050059
+      ],
+      [
+        8.5506693,
+        47.0500695
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/25427486",
   "properties": {
     "barrier": "gate",
@@ -6027,21 +6048,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/290777107",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/290777107"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7675089,
-      47.1756052
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/290777108",
   "properties": {
     "barrier": "gate",
@@ -6461,15 +6467,14 @@
   "id": "node/310921269",
   "properties": {
     "barrier": "gate",
-    "bicycle": "no",
-    "foot": "yes",
+    "description": "Zufahrtstor 2 Natur- und Tierpark Goldau",
     "id": "node/310921269"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5535399,
-      47.0502242
+      8.5537519,
+      47.0494755
     ]
   }
 },
@@ -33271,8 +33276,7 @@
   "id": "node/2866812732",
   "properties": {
     "barrier": "gate",
-    "bicycle": "no",
-    "foot": "no",
+    "description": "Zufahrtstor 5 Natur- und Tierpark Goldau",
     "id": "node/2866812732"
   },
   "geometry": {
@@ -33338,8 +33342,8 @@
   "type": "Feature",
   "id": "node/2866869419",
   "properties": {
-    "access": "no",
     "barrier": "gate",
+    "description": "Zufahrtstor 3 Natur- und Tierpark Goldau",
     "id": "node/2866869419"
   },
   "geometry": {
@@ -80460,6 +80464,7 @@
   "id": "node/10301185491",
   "properties": {
     "barrier": "gate",
+    "description": "Zufahrtstor 9 Natur- und Tierpark Goldau",
     "id": "node/10301185491"
   },
   "geometry": {
@@ -91576,9 +91581,8 @@
   "type": "Feature",
   "id": "node/11466213312",
   "properties": {
-    "access": "private",
     "barrier": "gate",
-    "material": "metal",
+    "description": "Zufahrtstor 6 Natur- und Tierpark Goldau",
     "id": "node/11466213312"
   },
   "geometry": {
@@ -91593,9 +91597,8 @@
   "type": "Feature",
   "id": "node/11466213323",
   "properties": {
-    "access": "private",
     "barrier": "gate",
-    "material": "metal",
+    "description": "Zufahrtstor 11 Natur- und Tierpark Goldau",
     "id": "node/11466213323"
   },
   "geometry": {
@@ -91610,9 +91613,8 @@
   "type": "Feature",
   "id": "node/11466213324",
   "properties": {
-    "access": "private",
     "barrier": "gate",
-    "material": "metal",
+    "description": "Zufahrtstor 10 Natur- und Tierpark Goldau",
     "id": "node/11466213324"
   },
   "geometry": {
@@ -98022,6 +98024,37 @@
     "coordinates": [
       8.7414963,
       47.4101058
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12098951611",
+  "properties": {
+    "barrier": "gate",
+    "description": "Zufahrtstor 4 Natur- und Tierpark Goldau",
+    "id": "node/12098951611"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5506969,
+      47.050059
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12099501216",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/12099501216"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7675342,
+      47.1756073
     ]
   }
 }

@@ -3072,12 +3072,12 @@
   "id": "node/6976938406",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "im Eingangsbereich",
+    "defibrillator:location": "Bergstation Rigi Scheidegg",
+    "description": "Im Eingangsbereich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "opening_hours": "24/7",
     "operator": "Rigi Bahnen AG",
-    "phone": "+41 79 311 16 43",
     "id": "node/6976938406"
   },
   "geometry": {
@@ -3242,7 +3242,7 @@
   "id": "node/6976938414",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Info Pavillon",
+    "defibrillator:location": "Tourist Info Pavillon",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -3605,27 +3605,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6976938431",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Schalterraum Bahnstation Rigi Bahnen AG",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "opening_hours": "24/7",
-    "operator": "Rigi Bahnen AG",
-    "phone": "+41 79 545 46 43",
-    "id": "node/6976938431"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4842262,
-      47.055383
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6976938432",
   "properties": {
     "access": "yes",
@@ -3742,7 +3721,6 @@
     "emergency:phone": "144",
     "opening_hours": "24/7",
     "operator": "Rigi Bahnen AG",
-    "phone": "+41 79 545 46 43",
     "id": "node/6976938438"
   },
   "geometry": {
@@ -7287,29 +7265,10 @@
 },
 {
   "type": "Feature",
-  "id": "node/7637818552",
-  "properties": {
-    "access": "yes",
-    "description": "Schalterraum Bahnstation",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "name": "Rigi Staffel",
-    "opening_hours": "24/7",
-    "id": "node/7637818552"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4742692,
-      47.0536692
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7637818553",
   "properties": {
     "access": "yes",
+    "defibrillator:location": "Bergbahnen Rigi Kulm",
     "description": "Aussenfont Seite Dorfplatz",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -7320,8 +7279,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4842134,
-      47.0553603
+      8.4837861,
+      47.0552008
     ]
   }
 },
@@ -37250,8 +37209,8 @@
   "id": "node/9485343558",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Aussenwand Eingang",
-    "description": "24h verfügbar",
+    "defibrillator:location": "Vogelsangstrasse 10",
+    "description": "Aussenwand Eingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -38188,8 +38147,8 @@
   "id": "node/9579223617",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Bei Eingang",
-    "description": "Immer zugänglich",
+    "defibrillator:location": "Feuerwehrlokal, Rosengartenstrasse 14",
+    "description": "Beim Eingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -62346,29 +62305,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10885909005",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Bruggetenstrasse 3",
-    "description": "während Öffnungszeiten",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "Mo-Fr 07:00-17:00",
-    "phone": "+41 44 785 09 53",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/10885909005"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5913086,
-      47.0102257
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10888900505",
   "properties": {
     "access": "yes",
@@ -65291,7 +65227,6 @@
     "emergency:phone": "144",
     "indoor": "no",
     "operator": "Burggeist AG/ Berggasthaus Rigi Burggeist",
-    "phone": "+41 41 828 1686",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/11038066305"
   },
@@ -65718,7 +65653,7 @@
   "type": "Feature",
   "id": "node/11070879605",
   "properties": {
-    "access": "no",
+    "access": "yes",
     "defibrillator:location": "Seestrasse 39",
     "description": "24 Std. zugänglich",
     "emergency": "defibrillator",
@@ -68417,7 +68352,7 @@
   "id": "node/11332516969",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Bahnhof Sattel-Aegeri",
+    "defibrillator:location": "Bahnhof Sattel",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -68430,8 +68365,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6273575,
-      47.079986
+      8.6339097,
+      47.0815531
     ]
   }
 },

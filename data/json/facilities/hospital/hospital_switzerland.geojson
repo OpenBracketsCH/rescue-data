@@ -48783,6 +48783,46 @@
 },
 {
   "type": "Feature",
+  "id": "way/1306427186",
+  "properties": {
+    "addr:city": "St. Moritz",
+    "addr:postcode": "7500",
+    "addr:street": "Plazza Paracelsus",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Klinik Gut",
+    "id": "way/1306427186"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.8351545,
+          46.4837141
+        ],
+        [
+          9.8349068,
+          46.4834858
+        ],
+        [
+          9.8353776,
+          46.4832508
+        ],
+        [
+          9.8356198,
+          46.4834722
+        ],
+        [
+          9.8351545,
+          46.4837141
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/29207267",
   "properties": {
     "id": "way/29207267"
