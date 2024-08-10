@@ -11579,8 +11579,10 @@
   "type": "Feature",
   "id": "node/7925859050",
   "properties": {
+    "defibrillator:location": "Nordseite, zum Tennisplatz",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "id": "node/7925859050"
   },
   "geometry": {
@@ -82084,6 +82086,22 @@
     "coordinates": [
       8.7983581,
       47.6306822
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12101247770",
+  "properties": {
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "id": "node/12101247770"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4477015,
+      47.0767277
     ]
   }
 }
