@@ -50009,6 +50009,86 @@
 },
 {
   "type": "Feature",
+  "id": "way/1306815630",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "KZU Pflegezentrum Embrach",
+    "operator": "Kompetenzzentrum Pflege und Gesundheit",
+    "operator:type": "public",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "way/1306815630"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5834324,
+          47.5252018
+        ],
+        [
+          8.5823229,
+          47.5250903
+        ],
+        [
+          8.5825552,
+          47.5240414
+        ],
+        [
+          8.582581,
+          47.5240153
+        ],
+        [
+          8.5826919,
+          47.523578
+        ],
+        [
+          8.5825548,
+          47.5235196
+        ],
+        [
+          8.582633,
+          47.523175
+        ],
+        [
+          8.5843231,
+          47.5229067
+        ],
+        [
+          8.5849416,
+          47.5237928
+        ],
+        [
+          8.5849151,
+          47.5240046
+        ],
+        [
+          8.5855756,
+          47.5240643
+        ],
+        [
+          8.5853511,
+          47.5250952
+        ],
+        [
+          8.5855518,
+          47.5253264
+        ],
+        [
+          8.5837706,
+          47.5258822
+        ],
+        [
+          8.5834324,
+          47.5252018
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/473379001",
   "properties": {
     "amenity": "social_facility",
@@ -57523,6 +57603,77 @@
     "coordinates": [
       8.5401134,
       47.5206216
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12102380802",
+  "properties": {
+    "addr:city": "Embrach",
+    "addr:housenumber": "19",
+    "addr:postcode": "8424",
+    "addr:street": "Römerweg",
+    "amenity": "social_facility",
+    "name": "tilia Wohngruppe Embrach",
+    "operator": "Sozialamt Kanton Zürich",
+    "operator:type": "public",
+    "social_facility": "group_home",
+    "social_facility:for": "mental_health;disabled",
+    "id": "node/12102380802"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5870941,
+      47.5238528
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12102380803",
+  "properties": {
+    "addr:city": "Embrach",
+    "addr:housenumber": "11",
+    "addr:postcode": "8424",
+    "addr:street": "Römerweg",
+    "amenity": "social_facility",
+    "name": "tilia Tagesstätte Atelier Embrach",
+    "operator": "Sozialamt Kanton Zürich",
+    "operator:type": "public",
+    "social_facility": "workshop",
+    "social_facility:for": "mental_health",
+    "id": "node/12102380803"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5884588,
+      47.5239183
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12102380804",
+  "properties": {
+    "addr:city": "Embrach",
+    "addr:housenumber": "13",
+    "addr:postcode": "8424",
+    "addr:street": "Römerweg",
+    "amenity": "social_facility",
+    "craft": "gardener",
+    "name": "VESO Gartenbau",
+    "social_facility": "workshop",
+    "website": "https://www.veso.ch/auftrage/gartenbau.html",
+    "id": "node/12102380804"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5882923,
+      47.524146
     ]
   }
 }

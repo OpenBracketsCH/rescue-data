@@ -46902,12 +46902,13 @@
   "type": "Feature",
   "id": "way/1009849339",
   "properties": {
-    "amenity": "clinic",
+    "amenity": "hospital",
     "healthcare": "hospital",
     "healthcare:speciality": "psychiatry",
     "hospital": "psychiatry",
-    "name": "IPW - Zürcher Unterland Zentrum Hard",
+    "name": "IPW Psychiatriezentrum Hard",
     "operator": "IPW Integrierte Psychiatrie Winterthur",
+    "operator:type": "public",
     "short_name": "IPW Klinik Hard",
     "id": "way/1009849339"
   },
@@ -46916,48 +46917,12 @@
     "coordinates": [
       [
         [
-          8.5826974,
-          47.5236093
+          8.5823252,
+          47.5250891
         ],
         [
-          8.5828482,
-          47.5234445
-        ],
-        [
-          8.583042,
-          47.5233956
-        ],
-        [
-          8.5840934,
-          47.5235079
-        ],
-        [
-          8.5843241,
-          47.5234934
-        ],
-        [
-          8.5847318,
-          47.5240006
-        ],
-        [
-          8.5856274,
-          47.5240865
-        ],
-        [
-          8.5854011,
-          47.5250949
-        ],
-        [
-          8.5856101,
-          47.5253119
-        ],
-        [
-          8.5853026,
-          47.5253771
-        ],
-        [
-          8.5841538,
-          47.5257457
+          8.5834295,
+          47.5251991
         ],
         [
           8.5837656,
@@ -47014,10 +46979,6 @@
         [
           8.5823252,
           47.5250891
-        ],
-        [
-          8.5826974,
-          47.5236093
         ]
       ]
     ]

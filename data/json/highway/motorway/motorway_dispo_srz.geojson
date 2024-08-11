@@ -21569,7 +21569,7 @@
   "type": "Feature",
   "id": "way/30155954",
   "properties": {
-    "destination": "Basel;Bern;Luzern;Westring Zürich;Flughafen",
+    "destination": "Bern;Basel;St. Gallen;Westring Zürich",
     "destination:symbol": "airport",
     "highway": "motorway",
     "lanes": "2",

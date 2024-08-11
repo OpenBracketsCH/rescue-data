@@ -12779,6 +12779,30 @@
       47.4516421
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12102380801",
+  "properties": {
+    "addr:city": "Embrach",
+    "addr:housenumber": "51",
+    "addr:postcode": "8424",
+    "addr:street": "Römerweg",
+    "amenity": "childcare",
+    "name": "Kita Froschkönig",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator": "Kompetenzzentrum Pflege und Gesundheit",
+    "operator:type": "public",
+    "website": "https://www.kzu-kita.ch/kita-froschkoenig/",
+    "id": "node/12102380801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.584551,
+      47.5248083
+    ]
+  }
 }
 ]
 }
