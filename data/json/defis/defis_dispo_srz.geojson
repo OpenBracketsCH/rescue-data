@@ -17472,19 +17472,18 @@
   "id": "node/8361472284",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "An der Garage (Tor)",
-    "description": "24h verfügbar",
+    "defibrillator:location": "Bergstrasse 8",
+    "description": "an der Garage (Tor)",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
     "opening_hours": "24/7",
     "id": "node/8361472284"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5898813,
-      47.0243252
+      8.5898752,
+      47.0243962
     ]
   }
 },
@@ -17493,18 +17492,19 @@
   "id": "node/8361472285",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Rechts vom Eingang Shop, Links um die Ecke bei Tanksäule",
-    "description": "24h verfügbar bei Distillerie",
+    "defibrillator:location": "Distillerie Z´Graggen",
+    "description": "Rechts vom Shop-Eingang, links um die Ecke bei Tanksäule",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "id": "node/8361472285"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5913132,
-      47.0309017
+      8.5913029,
+      47.0309217
     ]
   }
 },
@@ -82102,6 +82102,29 @@
     "coordinates": [
       8.4477015,
       47.0767277
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12105319001",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "braunes Haus, an der Pergolawand",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "Treppe hoch links",
+    "opening_hours": "24/7",
+    "operator": "Privatpersonen ",
+    "phone": "+41763491965",
+    "id": "node/12105319001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5849561,
+      47.4607731
     ]
   }
 }
