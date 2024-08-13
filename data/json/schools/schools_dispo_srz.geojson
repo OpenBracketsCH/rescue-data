@@ -109110,6 +109110,7 @@
     "addr:city": "Glattbrugg",
     "addr:street": "Oberhauserstrasse",
     "amenity": "school",
+    "check_date": "2024-08-11",
     "name": "Primarschule Oberhausen",
     "operator": "Stadt Opfikon",
     "id": "way/681797797"

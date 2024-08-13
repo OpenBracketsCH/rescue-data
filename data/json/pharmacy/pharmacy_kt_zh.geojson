@@ -3,75 +3,6 @@
 "features": [
 {
   "type": "Feature",
-  "id": "way/45897846",
-  "properties": {
-    "addr:housenumber": "125",
-    "addr:street": "Schaffhauserstrasse",
-    "amenity": "pharmacy",
-    "building": "apartments",
-    "building:levels": "2",
-    "name": "Rex Apotheke",
-    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
-    "roof:levels": "1",
-    "roof:shape": "gabled",
-    "website": "https://www.rexapotheke.ch/",
-    "wheelchair": "yes",
-    "id": "way/45897846"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.58058,
-          47.4509773
-        ],
-        [
-          8.5806491,
-          47.450878
-        ],
-        [
-          8.5809099,
-          47.4509512
-        ],
-        [
-          8.5809127,
-          47.4509487
-        ],
-        [
-          8.5810334,
-          47.4509859
-        ],
-        [
-          8.5810055,
-          47.4510256
-        ],
-        [
-          8.5810105,
-          47.4510272
-        ],
-        [
-          8.5809345,
-          47.4511351
-        ],
-        [
-          8.5807739,
-          47.4510838
-        ],
-        [
-          8.5807949,
-          47.4510521
-        ],
-        [
-          8.58058,
-          47.4509773
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/64387385",
   "properties": {
     "addr:city": "Zollikon",
@@ -6155,6 +6086,7 @@
     "addr:postcode": "8424",
     "addr:street": "Dorfstrasse",
     "amenity": "pharmacy",
+    "check_date": "2024-08-11",
     "dispensing": "yes",
     "drive_through": "no",
     "healthcare": "pharmacy",
@@ -6166,8 +6098,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5937229,
-      47.5086256
+      8.5937021,
+      47.5086319
     ]
   }
 },
@@ -6625,6 +6557,7 @@
     "addr:street": "Schaffhauserstrasse",
     "amenity": "pharmacy",
     "brand": "Fortis",
+    "check_date": "2024-08-11",
     "name": "Claudia-Apotheke",
     "opening_hours": "Mo-Fr 08:30-24:00,13:00-18:30; Sa 10:00-16:00",
     "website": "https://www.claudia-apotheke.ch/",
@@ -6968,6 +6901,27 @@
     "coordinates": [
       8.6901599,
       47.3000196
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12106890746",
+  "properties": {
+    "addr:housenumber": "125",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "pharmacy",
+    "name": "Rex Apotheke",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
+    "website": "https://www.rexapotheke.ch/",
+    "wheelchair": "yes",
+    "id": "node/12106890746"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5810015,
+      47.4509987
     ]
   }
 }

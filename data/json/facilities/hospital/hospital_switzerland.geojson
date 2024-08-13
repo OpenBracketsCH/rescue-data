@@ -41104,15 +41104,19 @@
         ],
         [
           7.0734277,
-          47.0266285
+          47.0266222
         ],
         [
-          7.0733835,
-          47.0265965
+          7.0733609,
+          47.026564
         ],
         [
-          7.0736665,
-          47.0262546
+          7.0736442,
+          47.0262981
+        ],
+        [
+          7.0737075,
+          47.0262963
         ],
         [
           7.0747179,
@@ -41572,146 +41576,6 @@
         [
           7.5041369,
           47.425614
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/680335690",
-  "properties": {
-    "addr:city": "Dornach",
-    "addr:housenumber": "11",
-    "addr:postcode": "4143",
-    "addr:street": "Spitalweg",
-    "amenity": "hospital",
-    "emergency": "yes",
-    "healthcare": "hospital",
-    "name": "Spital Dornach",
-    "phone": "+41 61 704 44 44",
-    "website": "https://www.solothurnerspitaeler.ch/unsere-spitaeler/spital-dornach/",
-    "id": "way/680335690"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.6138299,
-          47.4872116
-        ],
-        [
-          7.6138191,
-          47.487001
-        ],
-        [
-          7.6137453,
-          47.4869885
-        ],
-        [
-          7.61374,
-          47.4869393
-        ],
-        [
-          7.6134208,
-          47.4869448
-        ],
-        [
-          7.6133121,
-          47.4869434
-        ],
-        [
-          7.6133095,
-          47.486894
-        ],
-        [
-          7.6132872,
-          47.4868949
-        ],
-        [
-          7.6132891,
-          47.4869277
-        ],
-        [
-          7.6130029,
-          47.4869351
-        ],
-        [
-          7.6130008,
-          47.486897
-        ],
-        [
-          7.6129187,
-          47.4868992
-        ],
-        [
-          7.6129041,
-          47.4866421
-        ],
-        [
-          7.6128897,
-          47.4863906
-        ],
-        [
-          7.613123,
-          47.4863294
-        ],
-        [
-          7.613119,
-          47.4861083
-        ],
-        [
-          7.6132894,
-          47.4859869
-        ],
-        [
-          7.6134261,
-          47.4859542
-        ],
-        [
-          7.6138821,
-          47.4859397
-        ],
-        [
-          7.613905,
-          47.4859396
-        ],
-        [
-          7.6143233,
-          47.4859424
-        ],
-        [
-          7.6144642,
-          47.4862279
-        ],
-        [
-          7.6145366,
-          47.4863892
-        ],
-        [
-          7.6145366,
-          47.4866394
-        ],
-        [
-          7.6141802,
-          47.4866369
-        ],
-        [
-          7.6141843,
-          47.4870282
-        ],
-        [
-          7.6141375,
-          47.4870291
-        ],
-        [
-          7.6141554,
-          47.4872099
-        ],
-        [
-          7.6138299,
-          47.4872116
         ]
       ]
     ]
@@ -48784,6 +48648,118 @@
 },
 {
   "type": "Feature",
+  "id": "way/1307307466",
+  "properties": {
+    "addr:city": "Dornach",
+    "addr:housenumber": "11",
+    "addr:postcode": "4143",
+    "addr:street": "Spitalweg",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Spital Dornach",
+    "phone": "+41 61 704 44 44",
+    "website": "https://www.solothurnerspitaeler.ch/unsere-spitaeler/spital-dornach/",
+    "id": "way/1307307466"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.6145808,
+          47.4866954
+        ],
+        [
+          7.6141915,
+          47.4867008
+        ],
+        [
+          7.6142114,
+          47.4871953
+        ],
+        [
+          7.6141758,
+          47.4872196
+        ],
+        [
+          7.6138163,
+          47.4872376
+        ],
+        [
+          7.6137974,
+          47.487032
+        ],
+        [
+          7.6133317,
+          47.4870183
+        ],
+        [
+          7.6133284,
+          47.4869432
+        ],
+        [
+          7.6129235,
+          47.4869716
+        ],
+        [
+          7.6128625,
+          47.4868658
+        ],
+        [
+          7.6128558,
+          47.486218
+        ],
+        [
+          7.6131075,
+          47.4861775
+        ],
+        [
+          7.6131039,
+          47.4860161
+        ],
+        [
+          7.6133532,
+          47.4859214
+        ],
+        [
+          7.6137372,
+          47.4859163
+        ],
+        [
+          7.6137021,
+          47.4853471
+        ],
+        [
+          7.6144259,
+          47.4853026
+        ],
+        [
+          7.6144533,
+          47.4855791
+        ],
+        [
+          7.6143623,
+          47.4855818
+        ],
+        [
+          7.6143895,
+          47.4857715
+        ],
+        [
+          7.6144752,
+          47.4857694
+        ],
+        [
+          7.6145808,
+          47.4866954
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/29207267",
   "properties": {
     "id": "way/29207267"
@@ -50610,31 +50586,6 @@
     "coordinates": [
       9.7968666,
       46.4593965
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/3600466682",
-  "properties": {
-    "addr:city": "Kilchberg",
-    "addr:housenumber": "60",
-    "addr:postcode": "8802",
-    "addr:street": "Grütstrasse",
-    "amenity": "clinic",
-    "email": "kilchberg@zurzachcare.ch",
-    "healthcare": "rehabilitation",
-    "name": "ZURZACH Care - Rehaklinik Kilchberg",
-    "operator": "ZURZACH Care AG",
-    "phone": "+41 44 716 70 00",
-    "website": "https://www.zurzachcare.ch/kilchberg",
-    "id": "node/3600466682"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5362854,
-      47.3199693
     ]
   }
 },
@@ -56104,35 +56055,6 @@
     "coordinates": [
       6.5715971,
       46.5518276
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/12094726533",
-  "properties": {
-    "addr:city": "Bern",
-    "addr:housenumber": "14",
-    "addr:postcode": "3011",
-    "addr:street": "Effingerstrasse",
-    "amenity": "hospital",
-    "description": "Allgemeine Innere Medizin im Zentrum der Stadt Bern",
-    "email": "stefanie.siegfried@hin.ch",
-    "healthcare": "hospital",
-    "healthcare:speciality": "general;emergency;haematology;geriatrics;internal;biochemistry;blood_check;infectious_diseases",
-    "level": "2",
-    "name": "Effinger-Praxis, Dr. med. Stefanie Siegfried",
-    "opening_hours": "Mo-Fr 08:00-12:30 13:00-17:30",
-    "phone": "031 381 58 28",
-    "website": "https://effingerpraxis.ch/",
-    "wheelchair": "yes",
-    "id": "node/12094726533"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.4352206,
-      46.9460317
     ]
   }
 },

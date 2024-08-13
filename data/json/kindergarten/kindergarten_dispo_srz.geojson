@@ -165,6 +165,7 @@
   "id": "way/20457119",
   "properties": {
     "addr:housename": "ETH HKK",
+    "addr:street": "Hönggerbergring",
     "amenity": "kindergarten",
     "building": "yes",
     "building:levels": "2",

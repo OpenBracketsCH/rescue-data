@@ -29685,6 +29685,7 @@
     "addr:street": "Müllackerstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-08-11",
     "name": "Tertianum Bubenholz",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",

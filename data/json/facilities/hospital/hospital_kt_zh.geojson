@@ -9259,31 +9259,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3600466682",
-  "properties": {
-    "addr:city": "Kilchberg",
-    "addr:housenumber": "60",
-    "addr:postcode": "8802",
-    "addr:street": "Grütstrasse",
-    "amenity": "clinic",
-    "email": "kilchberg@zurzachcare.ch",
-    "healthcare": "rehabilitation",
-    "name": "ZURZACH Care - Rehaklinik Kilchberg",
-    "operator": "ZURZACH Care AG",
-    "phone": "+41 44 716 70 00",
-    "website": "https://www.zurzachcare.ch/kilchberg",
-    "id": "node/3600466682"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5362854,
-      47.3199693
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3772970125",
   "properties": {
     "addr:city": "Zürich",
