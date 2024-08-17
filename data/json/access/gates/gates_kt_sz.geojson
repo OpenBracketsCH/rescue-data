@@ -134,6 +134,32 @@
 },
 {
   "type": "Feature",
+  "id": "way/1308094440",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "description": "Zufahrtstor 1 Natur- und Tierpark Goldau",
+    "emergency": "yes",
+    "locked": "yes",
+    "name": "Tor 1",
+    "id": "way/1308094440"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5533337,
+        47.0512911
+      ],
+      [
+        8.5533525,
+        47.0512865
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/33643021",
   "properties": {
     "barrier": "gate",
@@ -6829,6 +6855,26 @@
     "coordinates": [
       8.7675342,
       47.1756073
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12114172800",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "description": "Zufahrtstor 1 Natur- und Tierpark Goldau",
+    "emergency": "yes",
+    "locked": "yes",
+    "name": "Tor 1",
+    "id": "node/12114172800"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5533525,
+      47.0512865
     ]
   }
 }
