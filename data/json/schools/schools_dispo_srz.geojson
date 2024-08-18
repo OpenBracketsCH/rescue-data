@@ -58707,6 +58707,7 @@
   "id": "way/195255806",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-08-17",
     "name": "Sekundarschule Watt",
     "id": "way/195255806"
   },
@@ -125985,6 +125986,7 @@
   "id": "node/471042067",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-08-17",
     "name": "Bätzibuck",
     "id": "node/471042067"
   },

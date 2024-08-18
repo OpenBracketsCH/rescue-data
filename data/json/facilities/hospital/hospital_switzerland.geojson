@@ -18873,12 +18873,20 @@
           46.2085865
         ],
         [
+          6.2091991,
+          46.2085896
+        ],
+        [
           6.2088622,
           46.2086081
         ],
         [
           6.2082946,
           46.2086988
+        ],
+        [
+          6.2082714,
+          46.2086953
         ],
         [
           6.2081809,
@@ -36265,7 +36273,7 @@
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
-    "healthcare:speciality": "intensive",
+    "healthcare:speciality": "intensive;emergency;cardiology",
     "name": "St. Clara-Spital",
     "operator": "St. Claraspital AG",
     "operator:type": "private",
@@ -36304,20 +36312,12 @@
           47.5659896
         ],
         [
-          7.6159957,
-          47.5662019
+          7.615982,
+          47.5661826
         ],
         [
-          7.6153412,
-          47.566658
-        ],
-        [
-          7.6148397,
-          47.5670452
-        ],
-        [
-          7.6145259,
-          47.5672878
+          7.6144984,
+          47.5672547
         ],
         [
           7.6135817,
