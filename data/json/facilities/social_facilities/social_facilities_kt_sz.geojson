@@ -742,7 +742,7 @@
     "addr:street": "Heideweg",
     "amenity": "social_facility",
     "building": "yes",
-    "social_facility": "for=senior",
+    "social_facility:for": "senior",
     "id": "way/257352985"
   },
   "geometry": {
@@ -847,7 +847,7 @@
     "addr:street": "Kirchenriedweg",
     "amenity": "social_facility",
     "building": "yes",
-    "social_facility": "for=senior",
+    "social_facility:for": "senior",
     "id": "way/257353061"
   },
   "geometry": {

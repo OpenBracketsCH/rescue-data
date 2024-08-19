@@ -7610,9 +7610,7 @@
     "amenity": "social_facility",
     "building": "yes",
     "name": "Alters- und Pflegheim Peteracker",
-    "social_facility": "for=senior",
     "social_facility:for": "senior",
-    "source": "yahoo aerial images",
     "website": "https://www.peteracker.ch/",
     "id": "way/49163195"
   },
@@ -7765,7 +7763,6 @@
     "amenity": "social_facility",
     "building": "yes",
     "name": "Alters- und Pflegezentrum Dübendorf - Unterdorf",
-    "social_facility": "for=senior",
     "social_facility:for": "senior",
     "id": "way/50139310"
   },
@@ -36630,7 +36627,6 @@
     "amenity": "social_facility",
     "building": "yes",
     "name": "Alters- und Pflegezentrum Bruggwiesen",
-    "social_facility": "for=senior",
     "social_facility:for": "senior",
     "wheelchair": "yes",
     "id": "way/987632930"
@@ -43027,40 +43023,6 @@
     "coordinates": [
       8.4877315,
       47.3760393
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5426456791",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "14",
-    "addr:postcode": "8004",
-    "addr:street": "Kernstrasse",
-    "amenity": "social_facility",
-    "contact:email": "info@foodsharing.de",
-    "covered": "no",
-    "fee": "no",
-    "fridge": "yes",
-    "indoor": "no",
-    "location": "outdoor",
-    "name": "Fair-Teiler Kernstrasse",
-    "network": "Madame Frigo",
-    "opening_hours": "24/7",
-    "operator": "foodsharing.de",
-    "social_facility": "food_bank",
-    "social_facility:for": "everyone",
-    "website": "https://foodsharing.de/?page=fairteiler&sub=ft&bid=108&id=940",
-    "wheelchair": "yes",
-    "wikipedia": "de:Foodsharing.de",
-    "id": "node/5426456791"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5240891,
-      47.3754736
     ]
   }
 },

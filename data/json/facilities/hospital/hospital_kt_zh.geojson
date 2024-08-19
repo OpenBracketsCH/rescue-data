@@ -10226,9 +10226,11 @@
     "addr:postcode": "8002",
     "addr:street": "Bürglistrasse",
     "amenity": "clinic",
+    "check_date:opening_hours": "2024-08-18",
     "healthcare": "clinic",
     "healthcare:speciality": "radiology",
     "name": "Swiss Neuroradiology Institute (SNRI)",
+    "opening_hours:signed": "no",
     "website": "https://www.snri.ch/",
     "id": "node/8343640021"
   },

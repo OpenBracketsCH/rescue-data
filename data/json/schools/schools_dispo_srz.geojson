@@ -125641,6 +125641,41 @@
 },
 {
   "type": "Feature",
+  "id": "way/1308571835",
+  "properties": {
+    "amenity": "school",
+    "id": "way/1308571835"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5342471,
+          47.516223
+        ],
+        [
+          8.5345453,
+          47.5158511
+        ],
+        [
+          8.5353999,
+          47.5160077
+        ],
+        [
+          8.5353583,
+          47.5162206
+        ],
+        [
+          8.5342471,
+          47.516223
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/256335788",
   "properties": {
     "amenity": "school",
@@ -126245,33 +126280,6 @@
     "coordinates": [
       8.5827302,
       47.1390848
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/984534491",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "52",
-    "addr:postcode": "8057",
-    "addr:street": "Stüssistrasse",
-    "amenity": "school",
-    "check_date": "2024-04-01",
-    "description": "Sekundarschule",
-    "fixme": "currently construction site, POI moved to Scheuchzerstrasse. 2,see webeite",
-    "name": "Lernstudio Stüssistrasse",
-    "office": "educational_institution",
-    "operator": "Lernstudio Zürich",
-    "private": "yes",
-    "website": "https://www.lernstudio.ch/",
-    "id": "node/984534491"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5407932,
-      47.3925962
     ]
   }
 },
@@ -129393,8 +129401,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5456173,
-      47.3819045
+      8.5455529,
+      47.3818918
     ]
   }
 },
@@ -131212,6 +131220,32 @@
     "coordinates": [
       8.4821114,
       47.3742254
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12117995033",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "2",
+    "addr:street": "Scheuchzerstrasse",
+    "amenity": "school",
+    "description": "Sekundarschule",
+    "email": "kurse@lernstudio.ch",
+    "name": "Lernstudio",
+    "office": "educational_institution",
+    "operator": "Lernstudio Zürich",
+    "phone": "+41 44 382 90 90",
+    "private": "yes",
+    "website": "https://www.lernstudio.ch/de-CH/Standorte/Zuerich-Scheuchzerstrasse",
+    "id": "node/12117995033"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5456909,
+      47.3819111
     ]
   }
 }

@@ -53765,9 +53765,11 @@
     "addr:postcode": "8002",
     "addr:street": "Bürglistrasse",
     "amenity": "clinic",
+    "check_date:opening_hours": "2024-08-18",
     "healthcare": "clinic",
     "healthcare:speciality": "radiology",
     "name": "Swiss Neuroradiology Institute (SNRI)",
+    "opening_hours:signed": "no",
     "website": "https://www.snri.ch/",
     "id": "node/8343640021"
   },
@@ -55580,26 +55582,22 @@
   "type": "Feature",
   "id": "node/11014936815",
   "properties": {
-    "addr:city": "Burgdorf",
-    "addr:country": "CH",
-    "addr:housenumber": "9",
-    "addr:postcode": "3400",
-    "addr:street": "Poststrasse",
     "amenity": "clinic",
     "check_date:opening_hours": "2023-06-30",
-    "email": "hausarzt@kurwerk.ch",
+    "contact:addr": "Poststrasse 9, 3400 Burgdorf",
+    "contact:email": "hausarzt@kurwerk.ch",
+    "contact:phone": "+41 34 427 05 05",
     "healthcare:speciality": "general;surgery;physiatry;paediatrics;psychiatry;orthopaedics;neurosurgery",
     "name": "KurWerk",
     "opening_hours:signed": "no",
-    "phone": "+41 34 427 05 05",
     "website": "https://www.kurwerk.ch",
     "id": "node/11014936815"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      7.6235854,
-      47.0603519
+      7.6235845,
+      47.0603299
     ]
   }
 },
