@@ -4478,19 +4478,24 @@
   "type": "Feature",
   "id": "node/7798090756",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Im Schulhaus",
-    "description": "während Schulbetrieb verfügbar",
+    "access": "yes",
+    "defibrillator:location": "Zwischen der Turnhalle und dem Kinderhort an der Fassade",
+    "description": "Nach Gebrauch bei der Feuerwehr melden: +41 44 918 01 32",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
+    "name": "Gemeinde Zumikon",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Zumikon",
+    "phone": "+41 44 918 01 32",
     "id": "node/7798090756"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6194286,
-      47.3315898
+      8.619343,
+      47.3313265
     ]
   }
 },
@@ -4500,9 +4505,15 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Vor dem Haupteingang zur Dreifachturnhalle Farlifang",
+    "description": "Nach Gebrauch bei der Feuerwehr melden: +41 44 918 01 32",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "name": "Gemeinde Zumikon",
+    "opening_hours": "24/7",
     "operator": "Gemeinde Zumikon",
+    "phone": "+41 44 918 01 32",
     "id": "node/7798090757"
   },
   "geometry": {
@@ -4519,14 +4530,15 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "An Fassade im Durchgang zum Schulhausplatz",
-    "description": "Grüner Kasten",
+    "description": "Nach Gebrauch bei der Feuerwehr melden: +41 44 918 01 32",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "wall",
+    "indoor": "no",
     "level": "0",
     "name": "Gemeinde Zumikon",
     "opening_hours": "24/7",
     "operator": "Gemeinde Zumikon",
+    "phone": "+41 44 918 01 32",
     "id": "node/7798090758"
   },
   "geometry": {
@@ -4581,19 +4593,24 @@
   "type": "Feature",
   "id": "node/7798090761",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Im Gemeindehaus",
-    "description": "während Öffnungszeiten verfügbar",
+    "access": "yes",
+    "defibrillator:location": "Vor dem Gemeindehaus links am Pfosten",
+    "description": "Nach Gebrauch bei der Feuerwehr melden: +41 44 918 01 32",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
+    "name": "Gemeinde Zumikon",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Zumikon",
+    "phone": "+41 44 918 01 32",
     "id": "node/7798090761"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6240654,
-      47.332518
+      8.623977,
+      47.3325111
     ]
   }
 },
@@ -7248,26 +7265,6 @@
     "coordinates": [
       8.7154861,
       47.3537471
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8099632605",
-  "properties": {
-    "defibrillator:location": "Feuerwehrdepot",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-Fr 07:00-17:00",
-    "operator": "Feuerwehr Uster",
-    "id": "node/8099632605"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7152241,
-      47.3535241
     ]
   }
 },
@@ -15762,27 +15759,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8574210700",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Werkgebäude",
-    "description": "während Öffnungszeiten verfügbar\nim Aufenthaltsraum Werkgebäude",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "operator": "Stadt Uster",
-    "id": "node/8574210700"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7149142,
-      47.3534637
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8574472017",
   "properties": {
     "defibrillator:location": "Im EG neben Optiker",
@@ -18462,8 +18438,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4348741,
-      47.3972907
+      8.4350963,
+      47.3973078
     ]
   }
 },
@@ -63046,21 +63022,21 @@
   "id": "node/12090325469",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Draussen neben Tor 1 richtung Haupteingang (Gelbe AED Box)",
-    "description": "24/7",
+    "defibrillator:location": "Feuerwehr Depot",
+    "description": "Draussen neben Tor 1 richtung Haupteingang (Gelbe AED Box)",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "level": "EG",
     "opening_hours": "24/7",
-    "operator": "Stadt Uster",
+    "operator": "Feuerwehr Uster",
     "id": "node/12090325469"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7154709,
-      47.3536041
+      8.7154628,
+      47.3536069
     ]
   }
 },
@@ -63267,6 +63243,31 @@
     "coordinates": [
       8.7242013,
       47.2747706
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12120629901",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Pflegeheim Leben und Wohnen (Vitafutura AG) links neben Empfang",
+    "description": "während Öffnungszeiten verfügbar, Zufahrt vor den Haupteingang, mit Auto NICHT möglich.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Su 07:00 - 20:00",
+    "operator": "Vitafutura AG ",
+    "phone": "+41 43 399 36 71",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12120629901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.68922,
+      47.3904872
     ]
   }
 }
