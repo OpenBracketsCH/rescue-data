@@ -17889,65 +17889,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/192559145",
-  "properties": {
-    "addr:city": "Unterägeri",
-    "addr:country": "CH",
-    "addr:housenumber": "4",
-    "addr:postcode": "6314",
-    "addr:street": "Bödlistrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Euw",
-    "source": "bing",
-    "id": "way/192559145"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5780817,
-          47.1385415
-        ],
-        [
-          8.5779539,
-          47.1383914
-        ],
-        [
-          8.5781203,
-          47.1383259
-        ],
-        [
-          8.5782174,
-          47.13844
-        ],
-        [
-          8.5782895,
-          47.1384116
-        ],
-        [
-          8.578404,
-          47.1385462
-        ],
-        [
-          8.5782217,
-          47.138618
-        ],
-        [
-          8.5781378,
-          47.1385194
-        ],
-        [
-          8.5780817,
-          47.1385415
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/193010937",
   "properties": {
     "addr:city": "Zwillikon",
@@ -43357,6 +43298,7 @@
   "id": "node/6631723975",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-08-20",
     "contact:city": "Zürich",
     "contact:housenumber": "13",
     "contact:phone": "+41 44 413 74 76",
@@ -43546,6 +43488,7 @@
   "id": "node/6632980727",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-08-20",
     "contact:city": "Zürich",
     "contact:housenumber": "161",
     "contact:phone": "+41 44 413 75 73",
@@ -44234,12 +44177,17 @@
   "id": "node/6974659696",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-08-20",
     "contact:email": "info@kita-fuchsia.ch",
     "contact:facebook": "http://www.facebook.com/kitafuchsia",
     "contact:phone": "+41 43 541 84 84",
     "contact:website": "http://www.kita-fuchsia.ch/",
-    "name": "Fuchsia",
+    "name": "Kita Fuchsia",
     "opening_hours": "Mo-Fr 06:45-19:00",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "wheelchair": "no",
     "id": "node/6974659696"
   },
   "geometry": {
@@ -50400,6 +50348,42 @@
     "coordinates": [
       8.5246657,
       47.3725201
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12123103402",
+  "properties": {
+    "amenity": "kindergarten",
+    "check_date": "2024-08-20",
+    "name": "Kita Kiddi",
+    "phone": "+41 43 548 07 92",
+    "website": "https://kitakiddi.ch",
+    "id": "node/12123103402"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5087816,
+      47.3708704
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12123103408",
+  "properties": {
+    "amenity": "kindergarten",
+    "check_date": "2024-08-20",
+    "name": "Güxi Kinderkrippen",
+    "id": "node/12123103408"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4843153,
+      47.3880979
     ]
   }
 }

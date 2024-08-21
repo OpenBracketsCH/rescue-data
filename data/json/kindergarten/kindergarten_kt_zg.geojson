@@ -373,65 +373,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/192559145",
-  "properties": {
-    "addr:city": "Unterägeri",
-    "addr:country": "CH",
-    "addr:housenumber": "4",
-    "addr:postcode": "6314",
-    "addr:street": "Bödlistrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Euw",
-    "source": "bing",
-    "id": "way/192559145"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5780817,
-          47.1385415
-        ],
-        [
-          8.5779539,
-          47.1383914
-        ],
-        [
-          8.5781203,
-          47.1383259
-        ],
-        [
-          8.5782174,
-          47.13844
-        ],
-        [
-          8.5782895,
-          47.1384116
-        ],
-        [
-          8.578404,
-          47.1385462
-        ],
-        [
-          8.5782217,
-          47.138618
-        ],
-        [
-          8.5781378,
-          47.1385194
-        ],
-        [
-          8.5780817,
-          47.1385415
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/320286243",
   "properties": {
     "addr:city": "Unterägeri",

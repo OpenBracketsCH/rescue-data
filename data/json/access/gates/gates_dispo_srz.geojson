@@ -71029,6 +71029,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/8829303505",
+  "properties": {
+    "barrier": "lift_gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "id": "node/8829303505"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5391947,
+      47.1986968
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/8829420020",
   "properties": {
     "access": "private",
@@ -80928,8 +80945,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5502052,
-      47.3726452
+      8.5502121,
+      47.3726474
     ]
   }
 },

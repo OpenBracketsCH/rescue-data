@@ -1109,33 +1109,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/370155399",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "43",
-    "addr:postcode": "8406",
-    "addr:street": "Agnesstrasse",
-    "alt_name": "BENU Apotheke Schöntal",
-    "amenity": "pharmacy",
-    "branch": "Winterthur Schöntal",
-    "brand": "BENU",
-    "brand:wikidata": "Q62562792",
-    "name": "BENU Apotheke",
-    "opening_hours": "Mo-Fr 08:00-12:15,13:30-18:30; Sa 08:00-16:00",
-    "operator": "BENU Pharmacies",
-    "website": "https://www.benu.ch/de/pharmacies/schontal/",
-    "id": "node/370155399"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7110248,
-      47.4914292
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/370588821",
   "properties": {
     "addr:city": "Uster",
@@ -1774,7 +1747,7 @@
     "addr:street": "Badenerstrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
-    "check_date": "2024-03-29",
+    "check_date": "2024-08-20",
     "check_date:opening_hours": "2023-04-27",
     "name": "Apotheke Altstetten AA1",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
@@ -1803,11 +1776,13 @@
     "amenity": "pharmacy",
     "branch": "Zürich Lindenplatz",
     "brand": "Achillea Apotheke",
+    "check_date": "2024-08-20",
     "check_date:opening_hours": "2023-02-16",
     "name": "Apotheke Schafroth",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
     "operator": "Dr. Bähler Dropa",
     "website": "https://achillea.ch/standorte/apotheke-schafroth",
+    "wheelchair": "yes",
     "id": "node/613704525"
   },
   "geometry": {

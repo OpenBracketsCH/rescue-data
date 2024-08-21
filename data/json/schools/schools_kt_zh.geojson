@@ -102205,6 +102205,7 @@
   "id": "node/9726515094",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-08-21",
     "contact:city": "Zürich",
     "contact:email": "info@freie-privatschule.ch",
     "contact:housenumber": "121",
