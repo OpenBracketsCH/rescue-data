@@ -21695,6 +21695,7 @@
   "id": "node/9726557724",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-08-21",
     "contact:city": "Zürich",
     "contact:email": "info@privatschule-abisz.ch",
     "contact:housenumber": "36",

@@ -309,85 +309,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/22462867",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "54",
-    "addr:postcode": "8400",
-    "addr:street": "Tösstalstrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "building:roof": "tile",
-    "check_date": "2024-01-04",
-    "name": "Kita Fantasia",
-    "operator": "Familiaris Winterthur",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "https://www.familiaris.ch/fantasia/",
-    "id": "way/22462867"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.736449,
-          47.4956566
-        ],
-        [
-          8.7364051,
-          47.4956204
-        ],
-        [
-          8.7365215,
-          47.4955559
-        ],
-        [
-          8.7365587,
-          47.4955866
-        ],
-        [
-          8.7367904,
-          47.4954582
-        ],
-        [
-          8.7368961,
-          47.4955453
-        ],
-        [
-          8.7366691,
-          47.4956712
-        ],
-        [
-          8.7367154,
-          47.4957093
-        ],
-        [
-          8.7365922,
-          47.4957775
-        ],
-        [
-          8.7365042,
-          47.4957051
-        ],
-        [
-          8.7363405,
-          47.4957958
-        ],
-        [
-          8.7362831,
-          47.4957485
-        ],
-        [
-          8.736449,
-          47.4956566
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/22814935",
   "properties": {
     "addr:city": "Winterthur",
@@ -13925,12 +13846,12 @@
     "coordinates": [
       [
         [
-          8.7243073,
-          47.5072327
+          8.7242949,
+          47.5072106
         ],
         [
-          8.7248708,
-          47.5070057
+          8.7248327,
+          47.5069818
         ],
         [
           8.7252973,
@@ -13949,24 +13870,28 @@
           47.5076643
         ],
         [
-          8.7246026,
-          47.5077902
+          8.7245947,
+          47.5077963
         ],
         [
-          8.7245264,
-          47.5076561
+          8.7245801,
+          47.5077686
         ],
         [
-          8.7244103,
-          47.5074354
+          8.7245216,
+          47.5076572
+        ],
+        [
+          8.7244096,
+          47.5074395
         ],
         [
           8.7243378,
           47.5072928
         ],
         [
-          8.7243073,
-          47.5072327
+          8.7242949,
+          47.5072106
         ]
       ]
     ]
@@ -17619,61 +17544,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/189956506",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "8",
-    "addr:postcode": "8405",
-    "addr:street": "Büelwiesenweg",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kita SalZH Büelwiesenweg",
-    "operator": "Stiftung SalZH",
-    "operator:type": "private",
-    "preschool": "yes",
-    "roof:material": "grass",
-    "roof:shape": "flat",
-    "website": "https://salzh.ch/betreuung/kita/",
-    "id": "way/189956506"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7642042,
-          47.4841995
-        ],
-        [
-          8.7642649,
-          47.4842956
-        ],
-        [
-          8.7640972,
-          47.4843422
-        ],
-        [
-          8.7640608,
-          47.4842823
-        ],
-        [
-          8.7640517,
-          47.4842848
-        ],
-        [
-          8.7640235,
-          47.4842386
-        ],
-        [
-          8.7642042,
-          47.4841995
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/189974879",
   "properties": {
     "addr:city": "Schaffhausen",
@@ -20492,86 +20362,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/223555028",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "10a",
-    "addr:postcode": "8400",
-    "addr:street": "Scheideggstrasse",
-    "amenity": "kindergarten",
-    "building": "retail",
-    "building:levels": "1",
-    "building:roof": "flat",
-    "name": "Kindertagesstätte Schnäggehuus",
-    "operator": "Familiaris Winterthur",
-    "operator:type": "private",
-    "preschool": "yes",
-    "roof:shape": "flat",
-    "website": "https://www.familiaris.ch/schnaeggehuus/",
-    "id": "way/223555028"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7503577,
-          47.4918247
-        ],
-        [
-          8.7503555,
-          47.4916567
-        ],
-        [
-          8.7503944,
-          47.4916565
-        ],
-        [
-          8.7503936,
-          47.4915985
-        ],
-        [
-          8.7505235,
-          47.4915978
-        ],
-        [
-          8.7505236,
-          47.4916057
-        ],
-        [
-          8.7505243,
-          47.4916553
-        ],
-        [
-          8.7507289,
-          47.4916541
-        ],
-        [
-          8.7507304,
-          47.4917715
-        ],
-        [
-          8.7504973,
-          47.4917729
-        ],
-        [
-          8.7504987,
-          47.4918825
-        ],
-        [
-          8.7503584,
-          47.4918833
-        ],
-        [
-          8.7503577,
-          47.4918247
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/223555071",
   "properties": {
     "amenity": "kindergarten",
@@ -21226,71 +21016,6 @@
         [
           8.7634246,
           47.4861311
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/237882011",
-  "properties": {
-    "amenity": "kindergarten",
-    "check_date": "2024-05-14",
-    "name": "KiTa Sunneberg",
-    "operator": "Verein Kindertagesstätte Sunneberg",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "https://kita-sunneberg.ch/",
-    "id": "way/237882011"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7602037,
-          47.4847118
-        ],
-        [
-          8.7599059,
-          47.4845557
-        ],
-        [
-          8.7600014,
-          47.4845306
-        ],
-        [
-          8.7602905,
-          47.4844546
-        ],
-        [
-          8.7603504,
-          47.4844389
-        ],
-        [
-          8.7604853,
-          47.4843973
-        ],
-        [
-          8.7605026,
-          47.4844143
-        ],
-        [
-          8.7605553,
-          47.4844736
-        ],
-        [
-          8.7604338,
-          47.484536
-        ],
-        [
-          8.7603883,
-          47.4845691
-        ],
-        [
-          8.7602037,
-          47.4847118
         ]
       ]
     ]
@@ -23278,12 +23003,20 @@
           47.4244467
         ],
         [
-          8.5040262,
-          47.4242071
+          8.5040282,
+          47.4242153
         ],
         [
-          8.5046521,
-          47.4245219
+          8.5046685,
+          47.4245247
+        ],
+        [
+          8.5046444,
+          47.4245873
+        ],
+        [
+          8.5045827,
+          47.4246082
         ],
         [
           8.5041088,
@@ -38926,30 +38659,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1832532339",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "2",
-    "addr:postcode": "8405",
-    "addr:street": "Heinrich-Bosshard-Strasse",
-    "amenity": "kindergarten",
-    "name": "Kita Dampfschiff",
-    "operator": "Verein Noah Winterthur",
-    "operator:type": "religious",
-    "preschool": "yes",
-    "website": "https://kita-dampfschiff.ch/",
-    "id": "node/1832532339"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7549833,
-      47.4866377
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1837722312",
   "properties": {
     "addr:housename": "kindergarten Sunnerai",
@@ -40134,59 +39843,6 @@
     "coordinates": [
       8.5819802,
       47.1350545
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4081379790",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "10",
-    "addr:postcode": "8400",
-    "addr:street": "St. Gallerstrasse",
-    "amenity": "kindergarten",
-    "level": "1",
-    "name": "kiana Kinderkrippe",
-    "operator": "Kiana Group AG",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "https://www.kianakrippen.ch/standorte/winterthur/",
-    "id": "node/4081379790"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7341947,
-      47.4981805
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4081379793",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "17",
-    "addr:postcode": "8400",
-    "addr:street": "Tösstalstrasse",
-    "amenity": "kindergarten",
-    "check_date": "2023-07-08",
-    "level": "0",
-    "name": "Altstadt Kita Zauberland",
-    "opening_hours": "Mo-Fr 06:30-18:30; PH closed",
-    "operator": "Zauberland GmbH",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "http://altstadt-zauberland.ch/",
-    "wheelchair": "no",
-    "id": "node/4081379793"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7322409,
-      47.4982362
     ]
   }
 },
@@ -44891,30 +44547,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8724388381",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "10",
-    "addr:postcode": "8405",
-    "addr:street": "Etzbergstrasse",
-    "amenity": "kindergarten",
-    "name": "KiTa Etzberg",
-    "operator": "Verein Kindertagesstätte Sunneberg",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "https://www.kita-etzberg.ch/",
-    "id": "node/8724388381"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7610174,
-      47.4914002
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8724961325",
   "properties": {
     "addr:city": "Winterthur",
@@ -45002,30 +44634,6 @@
     "coordinates": [
       8.7359831,
       47.4973047
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8725015060",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "67",
-    "addr:postcode": "8400",
-    "addr:street": "Tösstalstrasse",
-    "amenity": "kindergarten",
-    "name": "«Fugu» Kinderkrippe Winterthur Zentrum Deutweg",
-    "operator": "«Fugu» Kinderkrippen",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "https://www.kitafugu.ch/fugu-kinderkrippe-winterthur-zentrum-deutweg/",
-    "id": "node/8725015060"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7398748,
-      47.4946697
     ]
   }
 },
