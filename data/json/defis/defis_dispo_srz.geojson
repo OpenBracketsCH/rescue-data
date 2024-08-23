@@ -9809,18 +9809,24 @@
   "type": "Feature",
   "id": "node/7798090762",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Bei Gemeindepolizei im Auto",
+    "access": "yes",
+    "defibrillator:location": "An der Fassade der Scheune gegen die Strasse",
+    "description": "Nach Gebrauch bei der Feuerwehr melden: +41 44 918 01 32",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
+    "name": "Gemeinde Zumikon",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Zumikon",
+    "phone": "+41 44 918 01 32",
     "id": "node/7798090762"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6242994,
-      47.3324499
+      8.6242246,
+      47.3271083
     ]
   }
 },
@@ -52259,19 +52265,24 @@
   "type": "Feature",
   "id": "node/10702285505",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Im Feuerwehrgebäude",
+    "access": "yes",
+    "defibrillator:location": "An Fassade vor dem Feuerwehrgebäude",
+    "description": "Nach Gebrauch bei der Feuerwehr melden: +41 44 918 03 32",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
-    "operator": "Feuerwehr Zumikon-Küsnachterberg",
+    "indoor": "no",
+    "level": "0",
+    "name": "Gemeinde Zumikon",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Zumikon",
+    "phone": "+41 44 918 01 32",
     "id": "node/10702285505"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6205108,
-      47.3387891
+      8.620575,
+      47.3386826
     ]
   }
 },
@@ -59918,31 +59929,6 @@
     "coordinates": [
       8.54663,
       47.37289
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10763310121",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Im EG, Reception;Im 5.OG, Reception",
-    "description": "oranger Koffer",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "latitude": "47.36718",
-    "longitude": "8.5335",
-    "name": "Boston Consulting Group AG (Switzerland)",
-    "operator": "Lifetec AG Schweiz",
-    "phone": "+41 800 122 144",
-    "id": "node/10763310121"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5335,
-      47.36718
     ]
   }
 },
@@ -82268,6 +82254,51 @@
     "coordinates": [
       8.5484357,
       47.3689151
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12126080801",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "main entrance 1A building",
+    "description": "ask Sika’s reception",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "operator": "Sika",
+    "id": "node/12126080801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4918715,
+      47.3978184
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12126511901",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Kassenhäuschen Sportanlage Heslibach",
+    "description": "beim Kassenhäuschen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Küsnacht",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12126511901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5870572,
+      47.3140741
     ]
   }
 }

@@ -1394,6 +1394,7 @@
     "addr:postcode": "8107",
     "addr:street": "Badenerstrasse",
     "amenity": "police",
+    "check_date": "2024-08-22",
     "name": "Polizeiposten Buchs",
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",

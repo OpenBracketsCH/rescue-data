@@ -14079,6 +14079,27 @@
       47.4974469
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12126237038",
+  "properties": {
+    "addr:housenumber": "14",
+    "addr:street": "Heulediweg",
+    "amenity": "childcare",
+    "check_date": "2024-08-22",
+    "name": "Kinderkrippe Wirbelwind",
+    "website": "https://www.kinderkrippe-wirbelwind.ch/",
+    "wheelchair": "yes",
+    "id": "node/12126237038"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5431845,
+      47.0563067
+    ]
+  }
 }
 ]
 }
