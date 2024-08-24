@@ -3,6 +3,155 @@
 "features": [
 {
   "type": "Feature",
+  "id": "way/22419596",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "4",
+    "addr:postcode": "8400",
+    "addr:street": "Trollstrasse",
+    "amenity": "childcare",
+    "building": "yes",
+    "building:levels": "3",
+    "fee": "yes",
+    "min_age": "3 months",
+    "name": "Kindervilla Chäferfäscht",
+    "opening_hours": "Mo-Fr 06:45-18:15",
+    "operator": "Chäferfäscht GmbH",
+    "operator:type": "private",
+    "preschool": "yes",
+    "roof:levels": "1",
+    "roof:shape": "half-hipped",
+    "website": "https://chaeferfaescht.com/",
+    "id": "way/22419596"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.73215,
+          47.5015728
+        ],
+        [
+          8.7321348,
+          47.5014682
+        ],
+        [
+          8.7323424,
+          47.5014545
+        ],
+        [
+          8.7323576,
+          47.5015591
+        ],
+        [
+          8.7322764,
+          47.5015645
+        ],
+        [
+          8.7322779,
+          47.5015748
+        ],
+        [
+          8.7322325,
+          47.5015778
+        ],
+        [
+          8.732231,
+          47.5015674
+        ],
+        [
+          8.73215,
+          47.5015728
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/22419962",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "16",
+    "addr:postcode": "8400",
+    "addr:street": "Trollstrasse",
+    "amenity": "childcare",
+    "building": "yes",
+    "building:roof": "tile",
+    "name": "Globegarden Trollstrasse",
+    "operator": "globegarden childcare",
+    "operator:type": "private",
+    "preschool": "yes",
+    "website": "https://www.globegarden.ch/locations/trollstrasse",
+    "id": "way/22419962"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7322346,
+          47.5021586
+        ],
+        [
+          8.7323802,
+          47.5021475
+        ],
+        [
+          8.7323861,
+          47.5021825
+        ],
+        [
+          8.7325146,
+          47.5021726
+        ],
+        [
+          8.7325232,
+          47.502224
+        ],
+        [
+          8.7324955,
+          47.5022393
+        ],
+        [
+          8.7323951,
+          47.5022455
+        ],
+        [
+          8.7323977,
+          47.5022701
+        ],
+        [
+          8.7322963,
+          47.5022779
+        ],
+        [
+          8.7322956,
+          47.5022741
+        ],
+        [
+          8.7322661,
+          47.5022763
+        ],
+        [
+          8.7322603,
+          47.5022417
+        ],
+        [
+          8.7322486,
+          47.5022426
+        ],
+        [
+          8.7322346,
+          47.5021586
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/22462867",
   "properties": {
     "addr:city": "Winterthur",
@@ -175,6 +324,64 @@
         [
           8.6549412,
           47.2750834
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/30607158",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "16",
+    "addr:postcode": "8400",
+    "addr:street": "Aeckerwiesenstrasse",
+    "amenity": "childcare",
+    "building": "yes",
+    "check_date": "2024-08-23",
+    "name": "Kinderecke Heckenrose",
+    "opening_hours": "Mo-Fr 07:00-19:00",
+    "operator": "Verein Kinderkrippe Heckenrose",
+    "operator:type": "private",
+    "website": "https://www.heckenrose.ch/",
+    "id": "way/30607158"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7105378,
+          47.5056934
+        ],
+        [
+          8.7104847,
+          47.5056192
+        ],
+        [
+          8.7105887,
+          47.5055852
+        ],
+        [
+          8.7105763,
+          47.5055679
+        ],
+        [
+          8.7106284,
+          47.5055509
+        ],
+        [
+          8.7106407,
+          47.5055682
+        ],
+        [
+          8.7106939,
+          47.5056424
+        ],
+        [
+          8.7105378,
+          47.5056934
         ]
       ]
     ]
@@ -528,6 +735,59 @@
         [
           8.5536236,
           47.4067773
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/62093484",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "130",
+    "addr:postcode": "8406",
+    "addr:street": "Dättnauerstrasse",
+    "addr:suburb": "Dättnau",
+    "amenity": "childcare",
+    "building": "yes",
+    "building:roof": "tile",
+    "name": "Kita am Weiher",
+    "opening_hours": "Mo-Fr 07:00-19:00",
+    "operator": "urban-Kita Gmbh",
+    "operator:type": "private_non_profit",
+    "preschool": "yes",
+    "website": "https://kita-am-weiher.ch/",
+    "id": "way/62093484"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6920558,
+          47.4849881
+        ],
+        [
+          8.6921222,
+          47.4850552
+        ],
+        [
+          8.6920124,
+          47.4851048
+        ],
+        [
+          8.6919843,
+          47.4851175
+        ],
+        [
+          8.6919179,
+          47.4850504
+        ],
+        [
+          8.6920558,
+          47.4849881
         ]
       ]
     ]
@@ -3945,6 +4205,146 @@
 },
 {
   "type": "Feature",
+  "id": "way/943488213",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "33",
+    "addr:postcode": "8400",
+    "addr:street": "Trollstrasse",
+    "amenity": "childcare",
+    "name": "Kinderhaus Winterthur",
+    "preschool": "yes",
+    "website": "https://www.kinderhauswinterthur.ch/",
+    "id": "way/943488213"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7317594,
+          47.5040552
+        ],
+        [
+          8.7316935,
+          47.5035387
+        ],
+        [
+          8.7322578,
+          47.5034998
+        ],
+        [
+          8.7323264,
+          47.5039395
+        ],
+        [
+          8.7322915,
+          47.50395
+        ],
+        [
+          8.732268,
+          47.5039783
+        ],
+        [
+          8.7322661,
+          47.5040094
+        ],
+        [
+          8.7317594,
+          47.5040552
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/943488214",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Winterthur",
+    "contact:email": "laluna@ksw.ch",
+    "contact:housenumber": "54",
+    "contact:phone": "+41 52 266 34 34",
+    "contact:postcode": "8400",
+    "contact:street": "Haldenstrasse",
+    "contact:website": "https://www.kita-laluna.ch/",
+    "name": "Kita La Luna",
+    "operator": "Verein \"Kindertagesstätte La Luna\"",
+    "operator:type": "private",
+    "preschool": "yes",
+    "id": "way/943488214"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7308686,
+          47.5061971
+        ],
+        [
+          8.7307691,
+          47.5064468
+        ],
+        [
+          8.7307524,
+          47.5064294
+        ],
+        [
+          8.730677,
+          47.5063514
+        ],
+        [
+          8.7306633,
+          47.5063372
+        ],
+        [
+          8.7306579,
+          47.5063385
+        ],
+        [
+          8.7305627,
+          47.5063617
+        ],
+        [
+          8.7304254,
+          47.5063952
+        ],
+        [
+          8.7303371,
+          47.5062304
+        ],
+        [
+          8.7303009,
+          47.5061627
+        ],
+        [
+          8.7303124,
+          47.5061453
+        ],
+        [
+          8.7303418,
+          47.5061382
+        ],
+        [
+          8.7304294,
+          47.5061169
+        ],
+        [
+          8.7308588,
+          47.5061953
+        ],
+        [
+          8.7308686,
+          47.5061971
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1002914617",
   "properties": {
     "amenity": "childcare",
@@ -4733,6 +5133,7 @@
     "addr:street": "Else-Züblin-Strasse",
     "amenity": "childcare",
     "name": "Kita am Park",
+    "opening_hours": "mo-Fr 07:00-18:00",
     "operator": "Kita am Park GmbH",
     "operator:type": "private",
     "preschool": "yes",
@@ -4780,6 +5181,7 @@
     "addr:street": "Heinrich-Bosshard-Strasse",
     "amenity": "childcare",
     "name": "Kita Dampfschiff",
+    "opening_hours": "Mo-Fr 06:00-18:30",
     "operator": "Verein Noah Winterthur",
     "operator:type": "religious",
     "website": "https://kita-dampfschiff.ch/",
@@ -4932,6 +5334,7 @@
     "addr:street": "Ida-Sträuli-Strasse",
     "amenity": "childcare",
     "name": "Kita Äntenäscht",
+    "opening_hours": "Mo-Fr 07:00-18:00",
     "operator": "Familiaris Winterthur",
     "operator:type": "private",
     "preschool": "yes",
@@ -5641,6 +6044,30 @@
 },
 {
   "type": "Feature",
+  "id": "node/4115297970",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "63",
+    "addr:postcode": "8400",
+    "addr:street": "Wartstrasse",
+    "amenity": "childcare",
+    "name": "Kita Zauberschiff",
+    "operator": "Familiaris Winterthur",
+    "operator:type": "private",
+    "preschool": "yes",
+    "website": "https://www.familiaris.ch/zauberschiff/",
+    "id": "node/4115297970"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7140023,
+      47.5034599
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4115297995",
   "properties": {
     "addr:city": "Winterthur",
@@ -5940,6 +6367,32 @@
     "coordinates": [
       8.4426632,
       47.4001085
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5161393315",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "185",
+    "addr:postcode": "8404",
+    "addr:street": "Römerstrasse",
+    "amenity": "childcare",
+    "check_date": "2024-08-23",
+    "name": "Kindertreff",
+    "opening_hours": "Mo-Fr 06:45-18:30",
+    "operator": "Kindertreff Winterthur GmbH",
+    "operator:type": "private",
+    "preschool": "yes",
+    "website": "https://www.kindertreff.ch/",
+    "id": "node/5161393315"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7555545,
+      47.5078132
     ]
   }
 },
@@ -6388,15 +6841,16 @@
     "amenity": "childcare",
     "check_date": "2023-08-17",
     "name": "Montessori Kinderhaus",
-    "operator": "Montessori-Kinderhaus Winterthur",
+    "operator": "Montessori-Kinderhaus Winterthur GmbH",
+    "operator:type": "private",
     "website": "https://www.montessori-winterthur.ch/",
     "id": "node/5884359026"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7188438,
-      47.5070926
+      8.7203308,
+      47.5022317
     ]
   }
 },
@@ -8188,6 +8642,32 @@
 },
 {
   "type": "Feature",
+  "id": "node/8724124587",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "31",
+    "addr:postcode": "8400",
+    "addr:street": "Neuwiesenstrasse",
+    "amenity": "childcare",
+    "check_date": "2023-07-27",
+    "name": "Apfelblüte Kinderkrippe",
+    "opening_hours": "Mo-Fr 07:00-18:30",
+    "operator": "Apfelblüte Kinderkrippe GmbH",
+    "operator:type": "private",
+    "preschool": "yes",
+    "website": "https://www.apfelbluete.ch/standorte/kinderkrippe-winterthur",
+    "id": "node/8724124587"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7195129,
+      47.5004636
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/8724388381",
   "properties": {
     "addr:city": "Winterthur",
@@ -8212,6 +8692,31 @@
 },
 {
   "type": "Feature",
+  "id": "node/8724961325",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "58",
+    "addr:postcode": "8409",
+    "addr:street": "Rümikerstrasse",
+    "amenity": "childcare",
+    "name": "Kita Luftibus",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator": "Verein Kita Luftibus",
+    "operator:type": "private",
+    "preschool": "yes",
+    "website": "https://www.kita-luftibus.ch/",
+    "id": "node/8724961325"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7776914,
+      47.5047157
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/8725015060",
   "properties": {
     "addr:city": "Winterthur",
@@ -8230,6 +8735,80 @@
     "coordinates": [
       8.7398748,
       47.4946697
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8733952489",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "56",
+    "addr:postcode": "8400",
+    "addr:street": "Marktgasse",
+    "amenity": "childcare",
+    "check_date": "2024-08-23",
+    "name": "Child Care Corner",
+    "opening_hours": "Mo-Fr 06:45-18:45",
+    "operator": "Verein Child Care Concept",
+    "operator:type": "private",
+    "preschool": "yes",
+    "website": "https://winterthur.child-care-corner.ch/",
+    "id": "node/8733952489"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7282341,
+      47.4997421
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8733952490",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "6",
+    "addr:postcode": "8400",
+    "addr:street": "Sträulistrasse",
+    "amenity": "childcare",
+    "name": "KiTa Spielpark",
+    "operator": "Brühlgut Stiftung",
+    "operator:type": "private",
+    "preschool": "yes",
+    "website": "https://www.brühlgut.ch/kitas/",
+    "id": "node/8733952490"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7285024,
+      47.501922
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8735892847",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "61",
+    "addr:postcode": "8400",
+    "addr:street": "Rychenbergstrasse",
+    "amenity": "childcare",
+    "name": "Kita Tuktuk",
+    "operator": "Verein Kindertagesstätte Loki",
+    "operator:type": "private",
+    "preschool": "yes",
+    "website": "http://www.kita-loki.ch/kita-tuktuk/",
+    "id": "node/8735892847"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7299036,
+      47.5085549
     ]
   }
 },
@@ -14098,6 +14677,30 @@
     "coordinates": [
       8.5431845,
       47.0563067
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12131429706",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "16",
+    "addr:postcode": "8400",
+    "addr:street": "Feldstrasse",
+    "amenity": "childcare",
+    "name": "Akidemy",
+    "opening_hours": "Mo-Fr 07:30-18:30",
+    "operator": "Akidemy GmbH",
+    "operator:type": "private",
+    "website": "https://www.akidemy.ch/standorte/winterthur/",
+    "id": "node/12131429706"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7186732,
+      47.5067111
     ]
   }
 }

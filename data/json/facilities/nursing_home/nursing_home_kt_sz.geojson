@@ -152,7 +152,9 @@
   "type": "Feature",
   "id": "way/123273618",
   "properties": {
+    "addr:city": "Wollerau",
     "addr:housenumber": "14",
+    "addr:postcode": "8832",
     "addr:street": "Bahnhofstrasse",
     "amenity": "nursing_home",
     "building": "yes",
@@ -240,7 +242,9 @@
   "type": "Feature",
   "id": "way/123273619",
   "properties": {
+    "addr:city": "Wollerau",
     "addr:housenumber": "16",
+    "addr:postcode": "8832",
     "addr:street": "Bahnhofstrasse",
     "amenity": "nursing_home",
     "building": "yes",

@@ -42472,6 +42472,11 @@
   "id": "way/152220153",
   "properties": {
     "amenity": "school",
+    "contact:city": "Glattbrugg",
+    "contact:housenumber": "3",
+    "contact:postcode": "8152",
+    "contact:street": "Schulstrasse",
+    "contact:website": "https://www.schule-opfikon.ch/halden/unsere-schule/ueber-uns/p-418/",
     "name": "Halden",
     "wheelchair": "limited",
     "id": "way/152220153"

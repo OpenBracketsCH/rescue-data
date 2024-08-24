@@ -32758,8 +32758,8 @@
           46.6020428
         ],
         [
-          6.2227148,
-          46.6021023
+          6.2227077,
+          46.6020994
         ],
         [
           6.2224386,
@@ -56523,6 +56523,36 @@
     "coordinates": [
       8.6318402,
       46.8774535
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12132099510",
+  "properties": {
+    "addr:city": "Biel/Bienne",
+    "addr:city:de": "Biel",
+    "addr:city:fr": "Bienne",
+    "addr:housenumber": "9",
+    "addr:postcode": "2502",
+    "addr:street": "Rue du Rüschli / Rüschlistrasse",
+    "addr:street:de": "Rüschlistrasse",
+    "addr:street:fr": "Rue du Rüschli",
+    "amenity": "clinic",
+    "contact:email": "praxis.care@hin.ch",
+    "contact:phone": "+41 32 499 09 09",
+    "contact:website": "https://www.care-biel.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "fertility",
+    "level": "0",
+    "name": "CARE",
+    "id": "node/12132099510"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2439248,
+      47.1385068
     ]
   }
 }
