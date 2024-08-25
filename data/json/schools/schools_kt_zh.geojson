@@ -54011,6 +54011,7 @@
   "id": "way/216706004",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-08-24",
     "contact:city": "Zürich",
     "contact:housenumber": "66",
     "contact:phone": "+41 44 413 21 32",
@@ -66637,6 +66638,7 @@
   "id": "way/288107624",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-08-24",
     "name": "Schule Ebnet",
     "id": "way/288107624"
   },
@@ -87851,6 +87853,7 @@
   "id": "way/754111402",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-08-24",
     "name": "Chrüzächer",
     "id": "way/754111402"
   },

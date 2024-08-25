@@ -54815,12 +54815,14 @@
     "addr:postcode": "8004",
     "addr:street": "Magnusstrasse",
     "amenity": "social_facility",
+    "check_date": "2024-08-24",
     "email": "whz.info@heilsarmee.ch",
     "name": "Heilsarmee Wohnen und Begleiten",
     "operator": "Heilsarmee Wohnen und Begleiten Zürich",
     "phone": "+41 44 298 90 00",
     "social_facility": "assisted_living",
     "website": "https://xn--wohnen-zrich-klb.heilsarmee.ch/",
+    "wheelchair": "no",
     "id": "node/8704527466"
   },
   "geometry": {
