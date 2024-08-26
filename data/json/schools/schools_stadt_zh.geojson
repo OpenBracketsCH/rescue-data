@@ -9070,6 +9070,7 @@
   "properties": {
     "amenity": "school",
     "barrier": "fence",
+    "check_date": "2024-08-25",
     "contact:city": "Zürich",
     "contact:housenumber": "29",
     "contact:phone": "+41 44 413 08 58",

@@ -37000,6 +37000,7 @@
   "id": "node/6631567472",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-08-25",
     "contact:city": "Zürich",
     "contact:housenumber": "25",
     "contact:phone": "+41 44 413 75 10",
@@ -39204,6 +39205,7 @@
   "id": "node/9171311018",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-08-25",
     "isced:level": "0",
     "name": "Aegerten 1 & 2",
     "operator": "Stadt Zürich, SSD, Schulkreis Uto",
