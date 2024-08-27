@@ -7241,8 +7241,8 @@
   "type": "Feature",
   "id": "node/497473772",
   "properties": {
-    "access": "foot",
     "barrier": "gate",
+    "foot": "yes",
     "id": "node/497473772"
   },
   "geometry": {

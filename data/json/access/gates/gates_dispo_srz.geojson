@@ -9139,8 +9139,8 @@
   "type": "Feature",
   "id": "node/497473772",
   "properties": {
-    "access": "foot",
     "barrier": "gate",
+    "foot": "yes",
     "id": "node/497473772"
   },
   "geometry": {
@@ -98688,6 +98688,21 @@
     "coordinates": [
       8.5593761,
       47.4307249
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12137415644",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/12137415644"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8319787,
+      47.1605926
     ]
   }
 }

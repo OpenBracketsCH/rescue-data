@@ -13952,6 +13952,22 @@
       47.5067111
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12137530091",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kinder Kids",
+    "id": "node/12137530091"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.513448,
+      47.3723366
+    ]
+  }
 }
 ]
 }

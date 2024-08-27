@@ -35137,14 +35137,14 @@
   "type": "Feature",
   "id": "node/10139336637",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "EG Haupttreppenhaus",
+    "access": "permit",
+    "defibrillator:location": "Veolia Ozonia Switzerland AG\nEG Haupttreppenhaus",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-Fr 07:00-18:00",
+    "opening_hours": "Mo-Fr 07:00-16:00",
     "operator": "Urs Zahner",
     "phone": "+41 79 455 81 81",
     "id": "node/10139336637"
@@ -35152,8 +35152,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6027368,
-      47.3943688
+      8.6028709,
+      47.3945139
     ]
   }
 },
@@ -62853,6 +62853,149 @@
     "coordinates": [
       8.5870572,
       47.3140741
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12137294801",
+  "properties": {
+    "defibrillator:location": "Enzenbühlstrasse 49",
+    "description": "Türcode 2700",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "UG links",
+    "opening_hours": "24/7",
+    "operator": "Klinik Hirslanden",
+    "phone": "+41443873579",
+    "id": "node/12137294801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5756503,
+      47.3503681
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12137361401",
+  "properties": {
+    "defibrillator:location": "Werkgebäude, Haupteingang",
+    "description": "während den éffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 8:30-16:30",
+    "operator": "Gemeindewerke Stäfa",
+    "phone": "+41 43 928 10 10",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12137361401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.723563,
+      47.2386273
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12137509901",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Stradbad Mythenquai, im Sanitätszimmer, im Notfallrucksack",
+    "description": "Nur während Öffnungszeiten zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "7:00-20:00",
+    "operator": "Strandbad Mythenquai, Sportamt",
+    "phone": "+41444135830",
+    "id": "node/12137509901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5354134,
+      47.3549253
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12137794501",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "EW Wald, beim Eingang",
+    "description": "24/7 öffentlich verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "EW Wald, Feuerwehr",
+    "phone": "+410552461018",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12137794501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9095849,
+      47.275797
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12137811401",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Trafostation EW Wald",
+    "description": "24/7 öffentlich Zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "EW Wald / Feuerwehr",
+    "phone": "+41 055 246 10 18",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12137811401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9066023,
+      47.2934242
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12138637901",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "In der Praxis.",
+    "description": "Während den Öffnungszeiten verfügbar.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00 - 18:00",
+    "operator": "Pinmed AG",
+    "phone": "+41445188000",
+    "id": "node/12138637901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5915698,
+      47.4140174
     ]
   }
 }

@@ -98558,6 +98558,67 @@
 },
 {
   "type": "Feature",
+  "id": "way/1311198756",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "109",
+    "contact:phone": "+41 44 413 38 01",
+    "contact:postcode": "8057",
+    "contact:street": "Wehntalerstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/guggach.html",
+    "isced:level": "1;2",
+    "name": "Guggach",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
+    "wheelchair": "yes",
+    "id": "way/1311198756"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5339087,
+          47.4030739
+        ],
+        [
+          8.5339326,
+          47.4030487
+        ],
+        [
+          8.5339985,
+          47.402979
+        ],
+        [
+          8.5344584,
+          47.4024925
+        ],
+        [
+          8.535045,
+          47.4027491
+        ],
+        [
+          8.5347154,
+          47.4030926
+        ],
+        [
+          8.534522,
+          47.4032973
+        ],
+        [
+          8.5344909,
+          47.4033302
+        ],
+        [
+          8.5339087,
+          47.4030739
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/256335788",
   "properties": {
     "amenity": "school",
