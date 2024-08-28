@@ -9121,6 +9121,7 @@
   "id": "node/9243250835",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2024-08-27",
     "contact:city": "Zürich",
     "contact:housenumber": "176",
     "contact:phone": "+41 44 413 33 16",
@@ -13966,6 +13967,26 @@
     "coordinates": [
       8.513448,
       47.3723366
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12140621206",
+  "properties": {
+    "addr:housenumber": "5",
+    "addr:street": "Binzikerstrasse",
+    "amenity": "childcare",
+    "min_age": "14 weeks",
+    "name": "Kindertagesstätte Vita",
+    "website": "http://www.kita-vita.ch/",
+    "id": "node/12140621206"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7616529,
+      47.2827915
     ]
   }
 }

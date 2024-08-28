@@ -39451,6 +39451,7 @@
   "id": "node/9243250836",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-08-27",
     "contact:city": "Zürich",
     "contact:housenumber": "176",
     "contact:phone": "+41 44 413 33 14",
@@ -40582,6 +40583,7 @@
   "id": "node/9529171817",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-08-27",
     "email": "kontakt@guexi.ch",
     "name": "Güxi Kinderkrippe Albisriederplatz Ost",
     "operator": "Güxi Kinderkrippen",

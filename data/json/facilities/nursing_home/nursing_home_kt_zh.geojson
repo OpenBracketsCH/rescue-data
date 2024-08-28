@@ -5486,6 +5486,7 @@
     "addr:street": "Ringwiesenstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-08-27",
     "name": "Seniorenzentrum Zion",
     "social_facility": "group_home",
     "social_facility:for": "senior",
@@ -5734,6 +5735,9 @@
     "addr:street": "Ringwiesenstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-08-27",
+    "fixme": "turn into node, delete duplicate south of it, it's all Mitternachtswerk except Zion next to it",
+    "name": "Missionswerk Mitternachtsruf",
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "id": "way/55508581"
@@ -6265,9 +6269,13 @@
     "addr:street": "Gorwiden",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-08-27",
+    "email": "pzg@gorwiden.ch",
     "name": "Pflegezentrum Gorwiden, Haus Gorwiden",
+    "phone": "+41 44 315 11 11",
     "social_facility": "nursing_home",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
+    "website": "https://gorwiden.ch",
     "id": "way/89530478"
   },
   "geometry": {
