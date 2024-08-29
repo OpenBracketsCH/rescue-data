@@ -208,7 +208,7 @@
   "type": "Feature",
   "id": "way/4310693",
   "properties": {
-    "destination:lanes": "Zürich City|",
+    "destination:lanes": "Zürich City",
     "highway": "motorway",
     "lanes": "2",
     "lit": "yes",
@@ -20758,7 +20758,7 @@
   "type": "Feature",
   "id": "way/29548638",
   "properties": {
-    "destination": "St. Gallen;Flughafen;Nordring Zürich",
+    "destination": "Sankt Gallen;Flughafen;Nordring Zürich",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "3",
@@ -33972,7 +33972,7 @@
   "type": "Feature",
   "id": "way/77074946",
   "properties": {
-    "destination:lanes": "Zürich City|Zürich City|St. Gallen;Flughafen;Nordring Zürich|Flughafen;Nordring Zürich|Urdorf Chur",
+    "destination:lanes": "Zürich City|Zürich City|Sankt Gallen;Flughafen;Nordring-Zürich|Flughafen;Nordring-Zürich|Urdorf Chur",
     "highway": "motorway",
     "int_ref": "E 60",
     "lanes": "5",
@@ -46277,7 +46277,6 @@
   "type": "Feature",
   "id": "way/210309176",
   "properties": {
-    "destination": "St. Gallen",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "4",
@@ -46347,7 +46346,6 @@
   "type": "Feature",
   "id": "way/210309179",
   "properties": {
-    "destination": "St. Gallen",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "2",
@@ -53638,7 +53636,6 @@
   "type": "Feature",
   "id": "way/290524399",
   "properties": {
-    "destination": "St. Gallen",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "3",

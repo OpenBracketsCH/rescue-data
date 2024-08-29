@@ -6832,8 +6832,10 @@
   "type": "Feature",
   "id": "node/448106852",
   "properties": {
+    "access": "no",
     "barrier": "gate",
     "bicycle": "no",
+    "emergency": "no",
     "foot": "no",
     "id": "node/448106852"
   },

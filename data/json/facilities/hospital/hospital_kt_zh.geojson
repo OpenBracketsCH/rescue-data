@@ -9819,6 +9819,27 @@
 },
 {
   "type": "Feature",
+  "id": "node/4237500092",
+  "properties": {
+    "check_date": "2024-08-28",
+    "healthcare": "clinic",
+    "name": "Spitex Herz",
+    "office": "association",
+    "phone": "+41 44 482 03 15",
+    "website": "https://spitexherz.ch",
+    "wheelchair": "no",
+    "id": "node/4237500092"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.533493,
+      47.3447882
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/5087016205",
   "properties": {
     "addr:city": "Winterthur",
