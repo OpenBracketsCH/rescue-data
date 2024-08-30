@@ -41202,6 +41202,7 @@
   "id": "node/5755459275",
   "properties": {
     "addr:city": "Schindellegi",
+    "addr:country": "CH",
     "addr:housenumber": "19",
     "addr:postcode": "8834",
     "addr:street": "Etzelstrasse",
