@@ -100986,7 +100986,10 @@
   "type": "Feature",
   "id": "node/9642595626",
   "properties": {
+    "addr:housenumber": "5",
+    "addr:street": "Ottikerstrasse",
     "amenity": "school",
+    "check_date": "2024-08-31",
     "contact:city": "Zürich",
     "contact:email": "esther.zehnder@stiftungmac.ch",
     "contact:housenumber": "5",
@@ -100995,6 +100998,7 @@
     "contact:street": "Ottikerstrasse",
     "contact:website": "https://stiftungmac.ch/",
     "name": "Stiftung m.a.c. – Sonderpädagogische Schule",
+    "wheelchair": "no",
     "id": "node/9642595626"
   },
   "geometry": {

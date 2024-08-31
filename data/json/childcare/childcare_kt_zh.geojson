@@ -230,6 +230,67 @@
 },
 {
   "type": "Feature",
+  "id": "way/23607875",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "52",
+    "addr:postcode": "8400",
+    "addr:street": "Tellstrasse",
+    "amenity": "childcare",
+    "building": "yes",
+    "building:levels": "3",
+    "check_date": "2024-08-30",
+    "name": "Kita SalZH",
+    "opening_hours": "Mo-Fr 06:45-18:15",
+    "operator": "Stiftung SalZH",
+    "operator:type": "private",
+    "preschool": "yes",
+    "roof:levels": "1",
+    "website": "https://salzh.ch/betreuung/kita/",
+    "id": "way/23607875"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7217227,
+          47.5049697
+        ],
+        [
+          8.721648,
+          47.5048704
+        ],
+        [
+          8.7217053,
+          47.5048508
+        ],
+        [
+          8.7216842,
+          47.5048228
+        ],
+        [
+          8.7218048,
+          47.5047818
+        ],
+        [
+          8.7218307,
+          47.5047735
+        ],
+        [
+          8.7219259,
+          47.5048999
+        ],
+        [
+          8.7217227,
+          47.5049697
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/30147315",
   "properties": {
     "addr:city": "Meilen",
@@ -2267,6 +2328,7 @@
     "amenity": "childcare",
     "building": "yes",
     "name": "Kita SalZH Büelwiesenweg",
+    "opening_hours": "Mo-Fr 06:45-18:15",
     "operator": "Stiftung SalZH",
     "operator:type": "private",
     "roof:material": "grass",
@@ -2629,6 +2691,7 @@
     "building:levels": "1",
     "building:roof": "flat",
     "name": "Kindertagesstätte Schnäggehuus",
+    "opening_hours": "Mo-Fr 07:00-18:00",
     "operator": "Familiaris Winterthur",
     "operator:type": "private",
     "roof:shape": "flat",
@@ -4882,6 +4945,72 @@
 },
 {
   "type": "Feature",
+  "id": "node/918336380",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "76o",
+    "addr:postcode": "8408",
+    "addr:street": "Wässerwiesenstrasse",
+    "amenity": "childcare",
+    "name": "Kindertagesstätte Wässerwiesen",
+    "opening_hours": "Mo-Fr 06:30-18:00",
+    "operator": "Verein Kindertagesstätte Wässerwiesen",
+    "operator:type": "private",
+    "preschool": "yes",
+    "website": "https://www.waesserwiesen.ch/",
+    "id": "node/918336380"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6865711,
+      47.5099445
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/918336420",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kinderhort Wässerwiesen",
+    "id": "node/918336420"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.686504,
+      47.5097704
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/932358108",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "1",
+    "addr:postcode": "8406",
+    "addr:street": "Auwiesenstrasse",
+    "amenity": "childcare",
+    "name": "Zwerglihuus Töss",
+    "opening_hours": "Mo-Fr 06:00-18:30",
+    "operator": "Kinderkrippe Zwerglihuus GmbH",
+    "operator:type": "private",
+    "preschool": "yes",
+    "website": "https://www.zwerglihuus.ch/kita-toess/",
+    "id": "node/932358108"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7099849,
+      47.4839812
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/954788978",
   "properties": {
     "amenity": "childcare",
@@ -5730,7 +5859,7 @@
     "addr:postcode": "8400",
     "addr:street": "Tösstalstrasse",
     "amenity": "childcare",
-    "check_date": "2023-07-08",
+    "check_date": "2024-08-30",
     "level": "0",
     "name": "Altstadt Kita Zauberland",
     "opening_hours": "Mo-Fr 06:30-18:30; PH closed",
@@ -5746,6 +5875,32 @@
     "coordinates": [
       8.7322409,
       47.4982362
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4081379801",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "13",
+    "addr:postcode": "8400",
+    "addr:street": "Wartstrasse",
+    "amenity": "childcare",
+    "check_date": "2024-08-30",
+    "name": "Pinocchio Scuola Materna Italiana",
+    "opening_hours": "Mo-Fr 06:30-18:00",
+    "operator": "Verein Kindertagesstätte Pinocchio Scuola Materna Italiana",
+    "operator:type": "private",
+    "preschool": "yes",
+    "website": "https://www.kindertagesstaette-pinocchio.ch/",
+    "id": "node/4081379801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7218045,
+      47.5008982
     ]
   }
 },
@@ -5895,6 +6050,29 @@
     "coordinates": [
       8.5327113,
       47.4111622
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4197560964",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "4",
+    "addr:postcode": "8400",
+    "addr:street": "Hektargasse",
+    "amenity": "childcare",
+    "name": "KiTa Spielblock",
+    "operator": "Brühlgut Stiftung",
+    "preschool": "yes",
+    "website": "https://www.brühlgut.ch/kitas/",
+    "id": "node/4197560964"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.718407,
+      47.4977908
     ]
   }
 },
@@ -8263,6 +8441,152 @@
 },
 {
   "type": "Feature",
+  "id": "node/8721803399",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "79",
+    "addr:postcode": "8408",
+    "addr:street": "Espenstrasse",
+    "amenity": "childcare",
+    "name": "Kita SalZH",
+    "opening_hours": "Mo-Fr 06:45-18:15",
+    "operator": "Stiftung SalZH",
+    "operator:type": "private",
+    "website": "https://salzh.ch/betreuung/kita/",
+    "id": "node/8721803399"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6802905,
+      47.5073758
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8721803401",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "181",
+    "addr:postcode": "8408",
+    "addr:street": "Weinbergstrasse",
+    "amenity": "childcare",
+    "name": "Kita Strickhof",
+    "operator": "Familiaris Winterthur",
+    "operator:type": "private",
+    "preschool": "yes",
+    "website": "https://www.familiaris.ch/strickhof/",
+    "id": "node/8721803401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6980393,
+      47.5149118
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8721803402",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "65",
+    "addr:postcode": "8408",
+    "addr:street": "Riedhofstrasse",
+    "amenity": "childcare",
+    "name": "Kita Windrädli",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator": "Verein Kinderkrippe Windrädli",
+    "operator:type": "private",
+    "preschool": "yes",
+    "website": "https://www.kita-windrädli.ch/",
+    "id": "node/8721803402"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6946217,
+      47.5159744
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8723303569",
+  "properties": {
+    "addr:housenumber": "12a",
+    "addr:street": "Agnesstrasse",
+    "amenity": "childcare",
+    "check_date": "2024-08-30",
+    "name": "Kita Loki",
+    "opening_hours": "Mo-Fr 07:00-19:00",
+    "operator": "Verein Kindertagesstätte Loki",
+    "operator:type": "private",
+    "preschool": "yes",
+    "website": "http://www.kita-loki.ch/kita-loki/",
+    "id": "node/8723303569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7138261,
+      47.4945817
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8723303570",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "18",
+    "addr:postcode": "8400",
+    "addr:street": "Robert-Sulzer-Gasse",
+    "amenity": "childcare",
+    "check_date": "2023-07-27",
+    "name": "«Fugu» Kinderkrippe Winterthur Lokstadt",
+    "operator": "«Fugu» Kinderkrippen",
+    "operator:type": "private",
+    "preschool": "yes",
+    "website": "https://www.kitafugu.ch/fugu-kinderkrippe-winterthur-lokstadt/",
+    "id": "node/8723303570"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7162893,
+      47.4951604
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8723303571",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "6",
+    "addr:postcode": "8400",
+    "addr:street": "Brühlbergstrasse",
+    "amenity": "childcare",
+    "name": "KiTa Spielberg",
+    "operator": "Brühlgut Stiftung",
+    "operator:type": "private_non_profit",
+    "preschool": "yes",
+    "website": "https://www.brühlgut.ch/kitas/",
+    "id": "node/8723303571"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7119897,
+      47.4966416
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/8724124587",
   "properties": {
     "addr:city": "Winterthur",
@@ -9559,6 +9883,31 @@
 },
 {
   "type": "Feature",
+  "id": "node/9266928170",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "197",
+    "addr:postcode": "8400",
+    "addr:street": "Untere Vogelsangstrasse",
+    "amenity": "childcare",
+    "name": "Kita Vogelsang",
+    "operator": "Verein Kindertagesstätte Sunneberg",
+    "operator:type": "private",
+    "phone": "+41 52 202 92 84",
+    "preschool": "yes",
+    "website": "https://www.kita-vogelsang.ch/",
+    "id": "node/9266928170"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7153152,
+      47.4882905
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9274868929",
   "properties": {
     "amenity": "childcare",
@@ -9899,6 +10248,7 @@
   "id": "node/9334376698",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2024-08-30",
     "contact:city": "Zürich",
     "contact:housenumber": "1",
     "contact:phone": "+41 44 413 75 29",
@@ -13987,6 +14337,78 @@
     "coordinates": [
       8.7616529,
       47.2827915
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12145938479",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "37a",
+    "addr:postcode": "8404",
+    "addr:street": "Hobelwerkweg",
+    "amenity": "childcare",
+    "name": "Nonna Rosa",
+    "opening_hours": "Mo-Fr 07:00-19:00",
+    "operator": "Kinderkrippe Nonna Rosa GmbH",
+    "operator:type": "private",
+    "website": "https://kitanonnarosa.ch/",
+    "id": "node/12145938479"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7629239,
+      47.509502
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12145938480",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "22",
+    "addr:postcode": "8404",
+    "addr:street": "Barbara-Reinhart-Strasse",
+    "amenity": "childcare",
+    "name": "Kita SalZH",
+    "opening_hours": "Mo-Fr 06:45-18:15",
+    "operator": "Stiftung SalZH",
+    "operator:type": "private",
+    "website": "https://salzh.ch/betreuung/kita/",
+    "id": "node/12145938480"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7614359,
+      47.5036646
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12145938481",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "150",
+    "addr:postcode": "8400",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "childcare",
+    "name": "Zwerglihuus Rosenberg",
+    "opening_hours": "Mo–Fr 06:00-18:30",
+    "operator": "Kinderkrippe Zwerglihuus GmbH",
+    "operator:type": "private",
+    "website": "https://www.zwerglihuus.ch/kita-rosenberg/",
+    "id": "node/12145938481"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.720774,
+      47.5162018
     ]
   }
 }

@@ -223,66 +223,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/23607875",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "52",
-    "addr:postcode": "8400",
-    "addr:street": "Tellstrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "building:levels": "3",
-    "check_date": "2023-07-01",
-    "name": "Kita SalZH",
-    "operator": "Stiftung SalZH",
-    "operator:type": "private",
-    "preschool": "yes",
-    "roof:levels": "1",
-    "website": "https://www.salzh.ch/kita/kita-tellstrasse/",
-    "id": "way/23607875"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7217227,
-          47.5049697
-        ],
-        [
-          8.721648,
-          47.5048704
-        ],
-        [
-          8.7217053,
-          47.5048508
-        ],
-        [
-          8.7216842,
-          47.5048228
-        ],
-        [
-          8.7218048,
-          47.5047818
-        ],
-        [
-          8.7218307,
-          47.5047735
-        ],
-        [
-          8.7219259,
-          47.5048999
-        ],
-        [
-          8.7217227,
-          47.5049697
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/23660510",
   "properties": {
     "addr:city": "Stäfa",
@@ -5466,53 +5406,6 @@
         [
           8.4708788,
           47.3902779
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/52092790",
-  "properties": {
-    "addr:housenumber": "16",
-    "addr:street": "Oberdorfstrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kinderkrippe Windrädli",
-    "id": "way/52092790"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.696834,
-          47.5115201
-        ],
-        [
-          8.6968109,
-          47.511413
-        ],
-        [
-          8.6969437,
-          47.5114
-        ],
-        [
-          8.696951,
-          47.5114337
-        ],
-        [
-          8.6970486,
-          47.5114241
-        ],
-        [
-          8.6970644,
-          47.5114975
-        ],
-        [
-          8.696834,
-          47.5115201
         ]
       ]
     ]
@@ -37587,42 +37480,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/918336380",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kindertagesstätte Wässerwiesen",
-    "operator": "Verein Kindertagesstätte Wässerwiesen",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "https://www.waesserwiesen.ch/",
-    "id": "node/918336380"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6865711,
-      47.5099445
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/918336420",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kinderhort Wässerwiesen",
-    "id": "node/918336420"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.686504,
-      47.5097704
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/918336423",
   "properties": {
     "amenity": "kindergarten",
@@ -37651,29 +37508,6 @@
     "coordinates": [
       8.702089,
       47.4780551
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/932358108",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "1",
-    "addr:postcode": "8406",
-    "addr:street": "Auwiesenstrasse",
-    "amenity": "kindergarten",
-    "name": "Kinderkrippe Zwerglihuus",
-    "operator": "Kinderkrippe Zwerglihuus",
-    "operator:type": "private",
-    "preschool": "yes",
-    "id": "node/932358108"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7099849,
-      47.4839812
     ]
   }
 },
@@ -39411,31 +39245,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4081379801",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "13",
-    "addr:postcode": "8400",
-    "addr:street": "Wartstrasse",
-    "amenity": "kindergarten",
-    "check_date": "2023-06-27",
-    "name": "Pinocchio Scuola Materna Italiana",
-    "operator": "Verein Kindertagesstätte Pinocchio Scuola Materna Italiana",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "https://www.kindertagesstaette-pinocchio.ch/",
-    "id": "node/4081379801"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7218045,
-      47.5008982
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4110517408",
   "properties": {
     "addr:city": "Winterthur",
@@ -39821,29 +39630,6 @@
     "coordinates": [
       8.7615146,
       47.5055887
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4197560964",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "4",
-    "addr:postcode": "8400",
-    "addr:street": "Hektargasse",
-    "amenity": "kindergarten",
-    "name": "KiTa Spielblock",
-    "operator": "Brühlgut Stiftung",
-    "preschool": "yes",
-    "website": "https://www.brühlgut.ch/kitas/",
-    "id": "node/4197560964"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.718407,
-      47.4977908
     ]
   }
 },
@@ -40869,15 +40655,16 @@
   "type": "Feature",
   "id": "node/5295851955",
   "properties": {
+    "addr:housenumber": "8",
+    "addr:street": "Neumarkt",
     "amenity": "kindergarten",
-    "check_date": "2023-04-22",
+    "check_date": "2024-08-30",
     "contact:city": "Zürich",
     "contact:housenumber": "8",
     "contact:phone": "+41 44 413 75 94",
     "contact:postcode": "8001",
     "contact:street": "Neumarkt",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/hirschengraben/ueberuns/standorte/kindergaerten.html#neumarkt",
-    "fixme": "not found during survey",
     "name": "Kindergarten Neumarkt",
     "operator": "Stadt Zürich, SSD, Schulkreis Zürichberg, Schuleinheit Hirschengraben-Schanzengraben",
     "operator:type": "public",
@@ -40886,8 +40673,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.546017,
-      47.3725621
+      8.5460216,
+      47.3725776
     ]
   }
 },
@@ -43887,26 +43674,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8721803399",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kita SalZH",
-    "opening_hours": "Mo-Fr 06:45-18:15",
-    "operator": "Stiftung SalZH",
-    "operator:type": "private",
-    "website": "https://www.salzh.ch/kita/kita-espenstrasse/",
-    "id": "node/8721803399"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6802905,
-      47.5073758
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8721803400",
   "properties": {
     "amenity": "kindergarten",
@@ -43922,118 +43689,6 @@
     "coordinates": [
       8.684654,
       47.5058858
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8721803401",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kita Strickhof",
-    "operator": "Familiaris Winterthur",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "https://www.familiaris.ch/strickhof/",
-    "id": "node/8721803401"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6980393,
-      47.5149118
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8721803402",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kita Windrädli",
-    "operator": "Verein Kinderkrippe Windrädli",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "https://www.kita-windrädli.ch/",
-    "id": "node/8721803402"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6946217,
-      47.5159744
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8723303569",
-  "properties": {
-    "addr:housenumber": "12a",
-    "addr:street": "Agnesstrasse",
-    "amenity": "kindergarten",
-    "check_date": "2024-07-22",
-    "name": "Kita Loki",
-    "operator": "Verein Kindertagesstätte Loki",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "http://www.kita-loki.ch/kita-loki/",
-    "id": "node/8723303569"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7138261,
-      47.4945817
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8723303570",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "18",
-    "addr:postcode": "8400",
-    "addr:street": "Robert-Sulzer-Gasse",
-    "amenity": "kindergarten",
-    "check_date": "2023-07-27",
-    "name": "«Fugu» Kinderkrippe Winterthur Lokstadt",
-    "operator": "«Fugu» Kinderkrippen",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "https://www.kitafugu.ch/fugu-kinderkrippe-winterthur-lokstadt/",
-    "id": "node/8723303570"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7162893,
-      47.4951604
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8723303571",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "6",
-    "addr:postcode": "8400",
-    "addr:street": "Brühlbergstrasse",
-    "amenity": "kindergarten",
-    "name": "KiTa Spielberg",
-    "operator": "Brühlgut Stiftung",
-    "operator:type": "private_non_profit",
-    "preschool": "yes",
-    "website": "https://www.brühlgut.ch/kitas/",
-    "id": "node/8723303571"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7119897,
-      47.4966416
     ]
   }
 },
@@ -44078,30 +43733,6 @@
     "coordinates": [
       8.7479832,
       47.4984249
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8725015059",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "2",
-    "addr:postcode": "8400",
-    "addr:street": "Adlerstrasse",
-    "amenity": "kindergarten",
-    "name": "Kita Trotro",
-    "operator": "Verein Kindertagesstätte Loki",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "http://www.kita-loki.ch/kita-trotro/",
-    "id": "node/8725015059"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7359831,
-      47.4973047
     ]
   }
 },
@@ -44917,31 +44548,6 @@
     "coordinates": [
       8.5350843,
       47.3700666
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9266928170",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "197",
-    "addr:postcode": "8400",
-    "addr:street": "Untere Vogelsangstrasse",
-    "amenity": "kindergarten",
-    "name": "Kita Vogelsang",
-    "operator": "Verein Kindertagesstätte Sunneberg",
-    "operator:type": "private",
-    "phone": "+41 52 202 92 84",
-    "preschool": "yes",
-    "website": "https://www.kita-vogelsang.ch/",
-    "id": "node/9266928170"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7153152,
-      47.4882905
     ]
   }
 },
@@ -48052,6 +47658,7 @@
     "addr:postcode": "8472",
     "addr:street": "Bachtobelstrasse",
     "amenity": "kindergarten",
+    "check_date": "2024-08-30",
     "name": "Kindergarten Bachtobel",
     "id": "node/9947071082"
   },
