@@ -17018,6 +17018,7 @@
   "id": "way/37346345",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-09-01",
     "name": "Schule Zentrum Kronenwiese",
     "id": "way/37346345"
   },
@@ -64057,6 +64058,7 @@
     "addr:street": "Bertastrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-08-31",
     "description": "Primarschule",
     "isced:level": "1",
     "name": "Schule Aemtler A",

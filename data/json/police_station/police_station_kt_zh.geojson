@@ -3787,6 +3787,7 @@
   "properties": {
     "alt_name": "KomPol Adliswil",
     "amenity": "police",
+    "check_date": "2024-08-31",
     "email": "polizei@adliswil.ch",
     "name": "Polizeiposten Stadtpolizei Adliswil",
     "opening_hours": "Mo 08:00-11:30, 13:30-18:30; Tu-Th 08:00-11:30, 13:30-16:00; Fr 07:00-15:00",

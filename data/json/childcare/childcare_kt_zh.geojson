@@ -14329,7 +14329,7 @@
     "amenity": "childcare",
     "min_age": "14 weeks",
     "name": "Kindertagesstätte Vita",
-    "website": "http://www.kita-vita.ch/",
+    "website": "https://www.kita-vita.ch/",
     "id": "node/12140621206"
   },
   "geometry": {
