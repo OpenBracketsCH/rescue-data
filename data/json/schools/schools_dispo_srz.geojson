@@ -125464,6 +125464,56 @@
 },
 {
   "type": "Feature",
+  "id": "way/1312602999",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "55",
+    "addr:postcode": "8050",
+    "addr:street": "Thurgauerstrasse",
+    "amenity": "school",
+    "building": "school",
+    "grades": "1-4",
+    "name": "Schulanlage Thurgauerstrasse",
+    "id": "way/1312602999"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5514055,
+          47.4153832
+        ],
+        [
+          8.552065,
+          47.416108
+        ],
+        [
+          8.5516263,
+          47.4162907
+        ],
+        [
+          8.5514978,
+          47.4161495
+        ],
+        [
+          8.5516159,
+          47.4161003
+        ],
+        [
+          8.5510848,
+          47.4155168
+        ],
+        [
+          8.5514055,
+          47.4153832
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/256335788",
   "properties": {
     "amenity": "school",
@@ -129516,6 +129566,7 @@
   "id": "node/9718125663",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-09-01",
     "contact:city": "Zürich",
     "contact:email": "lip@lipschule.ch",
     "contact:housenumber": "561",
