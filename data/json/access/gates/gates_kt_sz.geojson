@@ -1078,13 +1078,14 @@
   "id": "node/648223983",
   "properties": {
     "barrier": "gate",
+    "locked": "yes",
     "id": "node/648223983"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.9622678,
-      47.2119204
+      8.9622707,
+      47.2119172
     ]
   }
 },
@@ -6942,6 +6943,22 @@
     "coordinates": [
       8.8319787,
       47.1605926
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12151052126",
+  "properties": {
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "node/12151052126"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9620527,
+      47.2118238
     ]
   }
 }

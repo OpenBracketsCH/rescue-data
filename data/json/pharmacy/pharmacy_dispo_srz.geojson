@@ -83,6 +83,7 @@
     "addr:postcode": "8862",
     "addr:street": "Gutenbrunnen",
     "amenity": "pharmacy",
+    "building": "yes",
     "contact:phone": "+41 55 440 85 07",
     "contact:website": "https://www.schwanen-apotheke.ch/",
     "dispensing": "yes",

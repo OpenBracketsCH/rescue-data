@@ -5947,6 +5947,80 @@
 },
 {
   "type": "Feature",
+  "id": "way/42156983",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "8046",
+    "addr:street": "Riedenhaldenstrasse",
+    "alt_name": "Sune-Egge",
+    "amenity": "social_facility",
+    "building": "yes",
+    "building:levels": "4",
+    "email": "info@swsieber.ch",
+    "name": "Sozialwerk Pfarrer Sieber",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 10:00-16:00",
+    "operator": "Sozialwerk Pfarrer Sieber",
+    "phone": "+41 43 336 50 80",
+    "social_facility": "outreach",
+    "website": "https://www.swsieber.ch/",
+    "id": "way/42156983"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5176175,
+          47.414965
+        ],
+        [
+          8.51767,
+          47.415084
+        ],
+        [
+          8.5174019,
+          47.4151521
+        ],
+        [
+          8.5173966,
+          47.4151535
+        ],
+        [
+          8.5173112,
+          47.4149996
+        ],
+        [
+          8.5173068,
+          47.4150007
+        ],
+        [
+          8.5172059,
+          47.414819
+        ],
+        [
+          8.5172041,
+          47.4148158
+        ],
+        [
+          8.5174938,
+          47.4147421
+        ],
+        [
+          8.5174957,
+          47.4147456
+        ],
+        [
+          8.5176175,
+          47.414965
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/42304750",
   "properties": {
     "addr:city": "Bülach",
@@ -14850,17 +14924,12 @@
   "properties": {
     "addr:city": "Zürich",
     "addr:country": "CH",
-    "addr:housenumber": "20/22",
+    "addr:housenumber": "22",
     "addr:postcode": "8008",
     "addr:street": "Ottenweg",
-    "alt_name": "Wohnheim im Seefeld Ottenweg",
     "amenity": "social_facility",
-    "building": "yes",
-    "contact:phone": "+41 44 420 15 00",
-    "contact:website": "https://im-seefeld.ch/Standorte/Ottenweg/",
-    "name": "Wohnheim Ottenweg",
+    "building": "apartments",
     "social_facility": "assisted_living",
-    "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
     "id": "way/121289373"
   },
   "geometry": {
@@ -14868,8 +14937,8 @@
     "coordinates": [
       [
         [
-          8.5541995,
-          47.3636928
+          8.5541992,
+          47.3636971
         ],
         [
           8.5542047,
@@ -14900,32 +14969,8 @@
           47.3637723
         ],
         [
-          8.5541339,
-          47.3637669
-        ],
-        [
-          8.5541339,
-          47.3637761
-        ],
-        [
-          8.5539888,
-          47.3637897
-        ],
-        [
-          8.5539655,
-          47.3636807
-        ],
-        [
-          8.5541136,
-          47.3636666
-        ],
-        [
-          8.5541191,
-          47.3636977
-        ],
-        [
-          8.5541995,
-          47.3636928
+          8.5541992,
+          47.3636971
         ]
       ]
     ]
@@ -40946,6 +40991,81 @@
 },
 {
   "type": "Feature",
+  "id": "way/1312859211",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "8008",
+    "addr:street": "Ottenweg",
+    "alt_name": "Wohnheim im Seefeld Ottenweg",
+    "amenity": "social_facility",
+    "building": "yes",
+    "contact:phone": "+41 44 420 15 00",
+    "contact:website": "https://im-seefeld.ch/Standorte/Ottenweg/",
+    "name": "Wohnheim Ottenweg",
+    "social_facility": "assisted_living",
+    "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
+    "id": "way/1312859211"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5541799,
+          47.3637723
+        ],
+        [
+          8.5541603,
+          47.3637699
+        ],
+        [
+          8.5541339,
+          47.3637669
+        ],
+        [
+          8.5541339,
+          47.3637761
+        ],
+        [
+          8.5539888,
+          47.3637897
+        ],
+        [
+          8.5539655,
+          47.3636807
+        ],
+        [
+          8.5541136,
+          47.3636666
+        ],
+        [
+          8.5541191,
+          47.3636977
+        ],
+        [
+          8.5541822,
+          47.3636934
+        ],
+        [
+          8.5541825,
+          47.3636978
+        ],
+        [
+          8.5541992,
+          47.3636971
+        ],
+        [
+          8.5541799,
+          47.3637723
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/473379001",
   "properties": {
     "amenity": "social_facility",
@@ -45589,33 +45709,6 @@
     "coordinates": [
       8.5331464,
       47.3440231
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8708854070",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "192",
-    "addr:postcode": "8004",
-    "addr:street": "Hohlstrasse",
-    "amenity": "social_facility",
-    "email": "info@swsieber.ch",
-    "name": "Sozialwerk Pfarrer Sieber",
-    "opening_hours": "Mo-Fr 08:00-17:00; Sa 10:00-16:00",
-    "operator": "Sozialwerk Pfarrer Sieber",
-    "phone": "+41 43 336 50 80",
-    "social_facility": "outreach",
-    "website": "https://www.swsieber.ch/",
-    "id": "node/8708854070"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.517503,
-      47.4150562
     ]
   }
 },

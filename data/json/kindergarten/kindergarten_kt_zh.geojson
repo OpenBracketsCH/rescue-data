@@ -4860,50 +4860,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/48045221",
-  "properties": {
-    "addr:city": "Oerlingen",
-    "addr:housenumber": "51",
-    "addr:postcode": "8461",
-    "addr:street": "Schaffhauserstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "building:levels": "1",
-    "name": "Kindergarten Oerlingen",
-    "roof:levels": "1",
-    "roof:shape": "gabled",
-    "id": "way/48045221"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.673449,
-          47.6252981
-        ],
-        [
-          8.6735049,
-          47.6251834
-        ],
-        [
-          8.6736737,
-          47.6252207
-        ],
-        [
-          8.6736178,
-          47.6253354
-        ],
-        [
-          8.673449,
-          47.6252981
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/49895142",
   "properties": {
     "addr:city": "Schwerzenbach",

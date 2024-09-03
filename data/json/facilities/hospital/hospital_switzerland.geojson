@@ -15441,6 +15441,7 @@
   "properties": {
     "amenity": "hospital",
     "building": "hospital",
+    "healthcare": "hospital",
     "name": "Luzerner Kantonsspital Sursee",
     "wheelchair": "yes",
     "id": "way/194101694"
