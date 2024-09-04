@@ -3106,6 +3106,7 @@
     "addr:street": "Rainstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2024-09-02",
     "name": "Kindergarten Maur 1, 2, 3",
     "id": "way/42052062"
   },

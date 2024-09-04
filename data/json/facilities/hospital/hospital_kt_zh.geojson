@@ -5472,6 +5472,76 @@
 },
 {
   "type": "Feature",
+  "id": "way/561998815",
+  "properties": {
+    "alt_name": "Ambulantes Zentrum Europaallee; Ambulatorium Europaallee",
+    "amenity": "clinic",
+    "building:levels": "3",
+    "building:part": "commercial",
+    "contact:city": "Zürich",
+    "contact:housenumber": "5",
+    "contact:phone": "+41 44 416 32 00",
+    "contact:postcode": "8004",
+    "contact:street": "Gustav-Gull-Platz",
+    "contact:website": "https://www.stadt-zuerich.ch/site/europaallee/de/index.html",
+    "disused:shop": "yes",
+    "healthcare": "clinic",
+    "level": "0",
+    "name": "Stadtspital Zürich Europaallee",
+    "opening_hours": "Mo 07:30-16:00; Tu-Fr 07:30-17:00; We 07:30-15:45",
+    "operator": "Stadtspital Zürich",
+    "id": "way/561998815"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5307512,
+          47.379748
+        ],
+        [
+          8.5306491,
+          47.3796098
+        ],
+        [
+          8.5307216,
+          47.3795847
+        ],
+        [
+          8.5308486,
+          47.3795415
+        ],
+        [
+          8.5308534,
+          47.3795473
+        ],
+        [
+          8.5308619,
+          47.3795435
+        ],
+        [
+          8.5309102,
+          47.379586
+        ],
+        [
+          8.5309603,
+          47.3796301
+        ],
+        [
+          8.5308695,
+          47.3796851
+        ],
+        [
+          8.5307512,
+          47.379748
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/597392026",
   "properties": {
     "addr:city": "Zürich",
@@ -9475,6 +9545,56 @@
 },
 {
   "type": "Feature",
+  "id": "way/1312977432",
+  "properties": {
+    "alt_name": "Geburtshaus Delphis;Geburtshaus Delfys;Geburtshaus Delfis",
+    "amenity": "clinic",
+    "building:part": "yes",
+    "contact:city": "Zürich",
+    "contact:email": "info@delphys.ch",
+    "contact:housenumber": "177",
+    "contact:phone": "+41 44 491 91 20",
+    "contact:postcode": "8003",
+    "contact:street": "Badenerstrasse",
+    "contact:website": "https://www.delphys.ch/",
+    "healthcare": "birthing_centre",
+    "image": "https://www.delphys.ch/assets/images/7/Logo-Startseite-032d1721.jpg",
+    "level": "1;2",
+    "name": "Geburtshaus Delphys",
+    "operator": "Geburtshaus Delphys",
+    "short_name": "Delphys",
+    "id": "way/1312977432"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.519752,
+          47.3746896
+        ],
+        [
+          8.5197171,
+          47.3746183
+        ],
+        [
+          8.5198578,
+          47.3745868
+        ],
+        [
+          8.5198927,
+          47.374658
+        ],
+        [
+          8.519752,
+          47.3746896
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/29207267",
   "properties": {
     "id": "way/29207267"
@@ -10020,35 +10140,6 @@
     "coordinates": [
       8.5133966,
       47.3930186
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6058029616",
-  "properties": {
-    "alt_name": "Geburtshaus Delphis;Geburtshaus Delfys;Geburtshaus Delfis",
-    "amenity": "clinic",
-    "contact:city": "Zürich",
-    "contact:email": "info@delphys.ch",
-    "contact:housenumber": "177",
-    "contact:phone": "+41 44 491 91 20",
-    "contact:postcode": "8003",
-    "contact:street": "Badenerstrasse",
-    "contact:website": "https://www.delphys.ch/",
-    "healthcare": "birthing_centre",
-    "image": "https://www.delphys.ch/assets/images/7/Logo-Startseite-032d1721.jpg",
-    "level": "1;2",
-    "name": "Geburtshaus Delphys",
-    "operator": "Geburtshaus Delphys",
-    "short_name": "Delphys",
-    "id": "node/6058029616"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5198714,
-      47.3746572
     ]
   }
 },
@@ -10762,32 +10853,6 @@
     "coordinates": [
       8.5480809,
       47.3244424
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10570514549",
-  "properties": {
-    "alt_name": "Ambulantes Zentrum Europaallee; Ambulatorium Europaallee",
-    "amenity": "clinic",
-    "contact:city": "Zürich",
-    "contact:housenumber": "5",
-    "contact:phone": "+41 44 416 32 00",
-    "contact:postcode": "8004",
-    "contact:street": "Gustav-Gull-Platz",
-    "contact:website": "https://www.stadt-zuerich.ch/site/europaallee/de/index.html",
-    "healthcare": "clinic",
-    "name": "Stadtspital Zürich Europaallee",
-    "opening_hours": "Mo 07:30-16:00; Tu-Fr 07:30-17:00; We 07:30-15:45",
-    "operator": "Stadtspital Zürich",
-    "id": "node/10570514549"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5308675,
-      47.3796327
     ]
   }
 },

@@ -5303,26 +5303,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7568739430",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Polizeidienststelle",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "opening_hours": "24/7",
-    "operator": "Kanton Zug",
-    "id": "node/7568739430"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.515166,
-      47.166459
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7568739431",
   "properties": {
     "access": "yes",
@@ -12914,7 +12894,7 @@
   "type": "Feature",
   "id": "node/7930563029",
   "properties": {
-    "access": "permit",
+    "access": "private",
     "defibrillator:location": "Feuerwehr",
     "description": "Nicht öffentlich zugänglich.",
     "emergency": "defibrillator",
@@ -16057,7 +16037,7 @@
   "type": "Feature",
   "id": "node/8173672424",
   "properties": {
-    "access": "permit",
+    "access": "private",
     "defibrillator:location": "HIT: E10 Eingang, bei Postfächer",
     "description": "über Alarmzentrale 24h verfügbar, ansonsten während Betriebszeiten",
     "emergency": "defibrillator",
@@ -20202,7 +20182,6 @@
   "type": "Feature",
   "id": "node/8518644317",
   "properties": {
-    "access": "no",
     "defibrillator:location": "Gemeindehaus neben Eingang Links",
     "description": "Aussen am Gebäude",
     "emergency": "defibrillator",
@@ -21560,7 +21539,6 @@
   "type": "Feature",
   "id": "node/8557096742",
   "properties": {
-    "access": "no",
     "defibrillator:location": "24h in Einsatzfahrzeug inkl. Firstresponder",
     "description": "im Einsatzfahrzeug",
     "emergency": "defibrillator",
@@ -35120,7 +35098,7 @@
   "type": "Feature",
   "id": "node/9290775507",
   "properties": {
-    "access": "permit",
+    "access": "private",
     "defibrillator:location": "Umkleide Stadion Langriet",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -41414,7 +41392,6 @@
   "type": "Feature",
   "id": "node/9775580617",
   "properties": {
-    "access": "no",
     "defibrillator:location": "Eingang Ärztezentrum Lorze, Dorfplatz 1",
     "description": "Aussenwand, rechts vom Eingang",
     "emergency": "defibrillator",
@@ -45529,7 +45506,7 @@
   "type": "Feature",
   "id": "node/9995101347",
   "properties": {
-    "access": "permit",
+    "access": "private",
     "defibrillator:location": "Sporthalle Stighag",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -47851,8 +47828,8 @@
   "type": "Feature",
   "id": "node/10139336637",
   "properties": {
-    "access": "permit",
-    "defibrillator:location": "Veolia Ozonia Switzerland AG\nEG Haupttreppenhaus",
+    "access": "private",
+    "defibrillator:location": "Veolia Ozonia Switzerland AG EG Haupttreppenhaus",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -49573,7 +49550,6 @@
   "type": "Feature",
   "id": "node/10268300709",
   "properties": {
-    "access": "no",
     "defibrillator:location": "Auto",
     "description": "Verfügbar",
     "emergency": "defibrillator",
@@ -53057,7 +53033,6 @@
   "type": "Feature",
   "id": "node/10737441705",
   "properties": {
-    "access": "no",
     "defibrillator:location": "WGH Neuhofstrasse 14",
     "description": "Beim Haupteingang",
     "emergency": "defibrillator",
@@ -53951,7 +53926,7 @@
   "type": "Feature",
   "id": "node/10763276787",
   "properties": {
-    "access": "permit",
+    "access": "private",
     "defibrillator:location": "Nach Eingangsbereich rechte Seite",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
@@ -61269,7 +61244,6 @@
   "type": "Feature",
   "id": "node/10841271005",
   "properties": {
-    "access": "no",
     "defibrillator:location": "Rohräcker 414",
     "description": "Cafeteria",
     "emergency": "defibrillator",
@@ -62638,7 +62612,7 @@
   "type": "Feature",
   "id": "node/10956763693",
   "properties": {
-    "access": "permit",
+    "access": "private",
     "defibrillator:location": "im Treppenhaus bei der Ausbildung",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -65145,8 +65119,7 @@
   "type": "Feature",
   "id": "node/11105579105",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Garage Neuwiesenstrasse ",
+    "defibrillator:location": "Garage Neuwiesenstrasse",
     "description": "bei der Garageneinfahrt",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -66465,13 +66438,12 @@
   "type": "Feature",
   "id": "node/11251970837",
   "properties": {
-    "access": "no",
     "defibrillator:location": "Im Einsatzfahrzeuge",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "BOVIRO SECURITY GmbH ",
+    "operator": "BOVIRO SECURITY GmbH",
     "phone": "+41 79 916 55 60",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/11251970837"
@@ -68984,7 +68956,6 @@
   "type": "Feature",
   "id": "node/11411581769",
   "properties": {
-    "access": "no",
     "defibrillator:location": "Aussen rechts neben dem Haupteingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -70528,7 +70499,6 @@
   "type": "Feature",
   "id": "node/11579506069",
   "properties": {
-    "access": "no",
     "defibrillator:location": "Activ Fitness",
     "description": "Während Öffnungszeiten",
     "emergency": "defibrillator",
@@ -71821,7 +71791,6 @@
   "type": "Feature",
   "id": "node/11668936369",
   "properties": {
-    "access": "no",
     "defibrillator:location": "Gewerbehaus Eingang Ecke",
     "description": "24/7 erreichbar Treppenhaus EG",
     "emergency": "defibrillator",
@@ -71936,8 +71905,7 @@
   "type": "Feature",
   "id": "node/11680086569",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Eingang Tiefgarage links ",
+    "defibrillator:location": "Eingang Tiefgarage links",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -72216,8 +72184,8 @@
   "type": "Feature",
   "id": "node/11716085268",
   "properties": {
-    "access": "permit",
-    "defibrillator:location": "Büro Empfang im 6. OG. Im Garderobenschrank.\n1183LTM",
+    "access": "private",
+    "defibrillator:location": "Büro Empfang im 6. OG. Im Garderobenschrank. 1183LTM",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -72315,15 +72283,15 @@
   "type": "Feature",
   "id": "node/11723311466",
   "properties": {
-    "access": "permit",
-    "defibrillator:location": "EG, neben Werkstatt Büro in blauer Schrank\n\n0849LTM",
+    "access": "private",
+    "defibrillator:location": "EG, neben Werkstatt Büro in blauer Schrank 0849LTM",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "EG",
+    "level": "0",
     "name": "Emil Frey Altendorf",
-    "opening_hours": "Mo-Fr 08:00- 11:30 13:00-16:00",
+    "opening_hours": "Mo-Fr 08:00-11:30, 13:00-16:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/11723311466"
@@ -75256,8 +75224,7 @@
   "type": "Feature",
   "id": "node/11833035670",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Zürcherstrasse 28, Mettmenstetten ",
+    "defibrillator:location": "Zürcherstrasse 28, Mettmenstetten",
     "description": "in der Durchfahrt an der Wand",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -75652,7 +75619,7 @@
   "type": "Feature",
   "id": "node/11843545120",
   "properties": {
-    "access": "permit",
+    "access": "private",
     "addr:housenumber": "2",
     "addr:street": "Schiffbaustrasse",
     "defibrillator:location": "5. OG Von Lift raus, Links Eingang im Schrank bei Empfang 1353 LTM",
@@ -76386,7 +76353,6 @@
   "type": "Feature",
   "id": "node/11886136369",
   "properties": {
-    "access": "no",
     "defibrillator:location": "karl‘s kühne gassenschau gelände",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -77791,7 +77757,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "1",
-    "opening_hours": "24/7",
+    "opening_hours": "Mo-Su 10:00-19:00",
     "operator": "Privatperson",
     "phone": "+41798177784",
     "source": "local_knowledge, defikarte.ch",
@@ -82086,6 +82052,30 @@
     "coordinates": [
       8.53891,
       47.5296913
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12153470601",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Albisriederplatz 10",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Pilgerbrunnen Rotpunkt Apotheke",
+    "phone": "+41 44 406 80 40",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12153470601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5108531,
+      47.3782941
     ]
   }
 }
