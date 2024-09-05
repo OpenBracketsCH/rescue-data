@@ -51642,7 +51642,8 @@
     "amenity": "clinic",
     "email": "info@rennbahnklinik.ch",
     "healthcare": "clinic",
-    "name": "Praxisklinik Rennbahn AG",
+    "name": "Rennbahnklinik",
+    "operator": "Praxisklinik Rennbahn AG",
     "phone": "+41614656464",
     "website": "https://www.rennbahnklinik.ch/",
     "id": "node/4190469089"
