@@ -53743,6 +53743,7 @@
     "opening_hours": "Tu-We 06:00-11:00,12:00-14:30; Th 06:00-11:00,15:00-19:00; Fr 06:00-11:00,12:00-14:30,15:00-19:00; Sa 12:00-18:00",
     "operator": "Sozialwerk Pfarrer Sieber",
     "social_facility": "outreach",
+    "website": "https://www.swsieber.ch/was-wir-tun/auffangen/gassencafe/",
     "id": "node/8203162120"
   },
   "geometry": {
@@ -55354,9 +55355,10 @@
     "addr:street": "Häringstrasse",
     "amenity": "social_facility",
     "name": "Gassenküche Speak-Out",
+    "opening_hours": "Mo-Fr 18:30-21:30; Apr-Oct: We off",
     "operator": "Gassenküche Speakout Zürich",
-    "social_facility": "food_bank",
-    "website": "https://speakout-zueri.ch/?page_id=12",
+    "social_facility": "soup_kitchen",
+    "website": "https://www.speakout-zueri.ch/besuchen",
     "id": "node/9028144965"
   },
   "geometry": {
@@ -57797,6 +57799,94 @@
     "coordinates": [
       8.5882923,
       47.524146
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12159732327",
+  "properties": {
+    "addr:housenumber": "93",
+    "addr:street": "Allmendstrasse",
+    "amenity": "social_facility",
+    "name": "Essen für Alle",
+    "opening_hours": "Sa 11:00-16:00",
+    "social_facility": "food_bank",
+    "website": "https://www.essenfueralle.org/beziehen/zuerich/",
+    "id": "node/12159732327"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5195468,
+      47.3417594
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12160459728",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Broken Bread Take away",
+    "operator": "Incontro",
+    "social_facility": "soup_kitchen",
+    "social_facility:for": "underprivileged",
+    "website": "https://incontro-verein.ch/unsere-arbeit/",
+    "id": "node/12160459728"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5290624,
+      47.3804756
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12160488708",
+  "properties": {
+    "addr:housenumber": "71",
+    "addr:street": "Müllerstrasse",
+    "amenity": "social_facility",
+    "name": "Primero",
+    "opening_hours": "Mo,Fr-Sa Su 15:00-19:30",
+    "operator": "Incontro",
+    "operator:type": "religious",
+    "social_facility": "soup_kitchen",
+    "social_facility:for": "underprivileged",
+    "website": "https://incontro-verein.ch/unsere-arbeit/",
+    "id": "node/12160488708"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5283379,
+      47.3761505
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12160511961",
+  "properties": {
+    "addr:housenumber": "54",
+    "addr:street": "Stauffacherstrasse",
+    "amenity": "social_facility",
+    "name": "Imbiss54",
+    "opening_hours": "Fr 11:45-13:30",
+    "operator": "netz4",
+    "operator:type": "association",
+    "social_facility": "soup_kitchen",
+    "website": "https://netz4.ch/unsere-angebote/imbiss54/",
+    "id": "node/12160511961"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5276167,
+      47.3750535
     ]
   }
 }
