@@ -15612,6 +15612,7 @@
   "id": "way/37605723",
   "properties": {
     "amenity": "school",
+    "name": "Dietlimoos",
     "id": "way/37605723"
   },
   "geometry": {
@@ -92533,6 +92534,7 @@
   "id": "way/1000814176",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-09-07",
     "name": "Schule Dietlimoos",
     "website": "https://www.schule-adliswil.ch/dietlimoos/",
     "id": "way/1000814176"
