@@ -209,6 +209,7 @@
     "addr:postcode": "6340",
     "addr:street": "Leihgasse",
     "amenity": "police",
+    "check_date": "2024-09-09",
     "name": "Polizeidienststelle Baar",
     "opening_hours": "Mo 08:00-11:45,13:30-18:00; Tu-Fr 08:00-11:45,13:30-17:00",
     "operator": "Zuger Polizei",

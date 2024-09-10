@@ -7164,7 +7164,11 @@
     "description": "Beim Gemeindehaus, immer zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
     "opening_hours": "24/7",
+    "operator": "Gemeinde Wila",
+    "phone": "+41 52 397 27 27",
     "id": "node/7636246238"
   },
   "geometry": {
@@ -9259,6 +9263,7 @@
     "description": "nur während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "id": "node/7721023588"
   },
   "geometry": {
@@ -81498,6 +81503,77 @@
     "coordinates": [
       8.5154075,
       47.3689216
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12165287501",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Klosterinsel Rheinau",
+    "description": "Immer verfügbar in öffentlicher Toilette",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "operator": "Immobilienamt Kanton ZH / FS Rheinau",
+    "phone": "+41432596889",
+    "id": "node/12165287501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6067798,
+      47.6424516
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12165421601",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Forchwaldstrasse 55 - bei der Werkstatt / Hausfassadenfront",
+    "description": "immer verfügbar / ganzjährig ohne Einschränkung zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Einwohnergemeinde Walchwil",
+    "phone": "+41417598010",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12165421601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.518889,
+      47.1029879
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12165487301",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Verwaltungsgebäude Bucher Municipal AG, am Empfang",
+    "description": "Während den Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo - Fr 08:00-12:00, 13:00-17:00",
+    "operator": "Bucher-Guyer AG",
+    "phone": "+41 79 297 09 61",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12165487301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3667951,
+      47.5107804
     ]
   }
 }

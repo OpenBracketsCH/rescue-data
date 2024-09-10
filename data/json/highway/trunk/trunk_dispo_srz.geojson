@@ -2387,10 +2387,12 @@
     "foot": "no",
     "highway": "trunk",
     "junction": "roundabout",
+    "lanes": "1",
     "lit": "yes",
     "maxspeed": "60",
     "name": "Knonauerstrasse",
     "name:etymology:wikidata": "Q66328",
+    "sidewalk": "no",
     "smoothness": "excellent",
     "surface": "asphalt",
     "id": "way/8079961"
@@ -2570,6 +2572,7 @@
     "lanes": "1",
     "maxspeed": "80",
     "oneway": "yes",
+    "sidewalk": "no",
     "surface": "asphalt",
     "id": "way/8079964"
   },
@@ -7601,8 +7604,10 @@
     "foot": "no",
     "highway": "trunk",
     "lanes": "2",
+    "lit": "yes",
     "maxspeed": "60",
     "oneway": "yes",
+    "sidewalk": "no",
     "surface": "asphalt",
     "id": "way/55557048"
   },
@@ -9068,6 +9073,7 @@
     "lanes": "2",
     "maxspeed": "80",
     "oneway": "yes",
+    "sidewalk": "no",
     "surface": "asphalt",
     "id": "way/96069680"
   },
@@ -14606,6 +14612,7 @@
     "lit": "yes",
     "maxspeed": "80",
     "oneway": "yes",
+    "sidewalk": "no",
     "smoothness": "excellent",
     "surface": "asphalt",
     "id": "way/284183630"
@@ -15577,6 +15584,7 @@
     "lanes": "2",
     "maxspeed": "80",
     "oneway": "yes",
+    "sidewalk": "no",
     "surface": "asphalt",
     "id": "way/298580094"
   },
@@ -15646,8 +15654,10 @@
     "foot": "no",
     "highway": "trunk",
     "lanes": "3",
+    "lit": "yes",
     "maxspeed": "60",
     "oneway": "yes",
+    "sidewalk": "no",
     "surface": "asphalt",
     "turn:lanes": "left|through|right",
     "id": "way/298580446"
@@ -15689,8 +15699,10 @@
     "foot": "no",
     "highway": "trunk",
     "lanes": "2",
+    "lit": "yes",
     "maxspeed": "60",
     "oneway": "yes",
+    "sidewalk": "no",
     "surface": "asphalt",
     "turn:lanes": "left|through",
     "id": "way/298580686"
@@ -18657,6 +18669,7 @@
     "lit": "yes",
     "maxspeed": "80",
     "oneway": "yes",
+    "sidewalk": "no",
     "smoothness": "excellent",
     "surface": "asphalt",
     "id": "way/535112509"
@@ -18689,6 +18702,7 @@
     "lit": "yes",
     "maxspeed": "80",
     "oneway": "yes",
+    "sidewalk": "no",
     "smoothness": "excellent",
     "surface": "asphalt",
     "id": "way/535112510"
@@ -18860,6 +18874,7 @@
     "maxspeed": "80",
     "oneway": "yes",
     "placement": "transition",
+    "sidewalk": "no",
     "smoothness": "excellent",
     "surface": "asphalt",
     "id": "way/535112516"
@@ -18888,6 +18903,7 @@
     "lit": "yes",
     "maxspeed": "80",
     "oneway": "yes",
+    "sidewalk": "no",
     "smoothness": "excellent",
     "surface": "asphalt",
     "id": "way/535112519"
@@ -18957,6 +18973,7 @@
     "maxspeed": "80",
     "oneway": "yes",
     "placement": "transition",
+    "sidewalk": "no",
     "smoothness": "excellent",
     "surface": "asphalt",
     "id": "way/535112520"
@@ -19017,6 +19034,7 @@
     "lit": "yes",
     "maxspeed": "60",
     "oneway": "yes",
+    "sidewalk": "no",
     "smoothness": "excellent",
     "surface": "asphalt",
     "id": "way/535112527"
@@ -19138,6 +19156,7 @@
     "lit": "yes",
     "maxspeed": "60",
     "oneway": "yes",
+    "sidewalk": "no",
     "smoothness": "excellent",
     "surface": "asphalt",
     "id": "way/535112529"
