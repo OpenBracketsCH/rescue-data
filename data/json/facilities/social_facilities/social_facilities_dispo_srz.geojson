@@ -11062,12 +11062,14 @@
     "addr:street": "Pilgerweg",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-09-10",
     "email": "info@kinderhaus-thalwil.ch",
     "name": "Kinderhaus Thalwil",
     "operator": "Kinderhaus Thalwil AG",
     "phone": "+41 44 722 70 10",
     "source": "bing, survey",
     "website": "https://www.kinderhaus-thalwil.ch/",
+    "wheelchair": "yes",
     "id": "way/90492630"
   },
   "geometry": {

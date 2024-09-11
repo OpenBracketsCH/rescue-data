@@ -14686,6 +14686,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A14",
@@ -24664,6 +24665,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A14",
