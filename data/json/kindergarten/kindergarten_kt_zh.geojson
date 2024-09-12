@@ -7574,9 +7574,11 @@
     "addr:street": "Eichwisstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2024-09-11",
     "isced:level": "0",
     "name": "Kindergarten Tobel",
     "source": "bing",
+    "wheelchair": "yes",
     "id": "way/90704757"
   },
   "geometry": {

@@ -17200,6 +17200,63 @@
 },
 {
   "type": "Feature",
+  "id": "way/126409417",
+  "properties": {
+    "addr:city": "Wetzikon",
+    "addr:country": "CH",
+    "addr:housenumber": "19",
+    "addr:postcode": "8620",
+    "addr:street": "Rapperswilerstrasse",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "name": "Asylunterkunft",
+    "phone": "+41 44 415 64 70",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
+    "id": "way/126409417"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7946473,
+          47.3175046
+        ],
+        [
+          8.7946178,
+          47.317488
+        ],
+        [
+          8.7944806,
+          47.3176003
+        ],
+        [
+          8.7944085,
+          47.3175597
+        ],
+        [
+          8.7944752,
+          47.3175051
+        ],
+        [
+          8.7946799,
+          47.3173376
+        ],
+        [
+          8.7947816,
+          47.3173947
+        ],
+        [
+          8.7946473,
+          47.3175046
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/126828261",
   "properties": {
     "addr:city": "Zürich",

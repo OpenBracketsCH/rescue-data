@@ -1162,6 +1162,8 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -1272,6 +1274,8 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -7845,6 +7849,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -7872,6 +7877,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -7977,6 +7983,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -8004,6 +8011,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -8087,6 +8095,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -8178,6 +8187,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -8205,6 +8215,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -8320,6 +8331,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -9222,6 +9234,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -9258,6 +9271,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -9288,6 +9302,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -9317,6 +9332,7 @@
     "cs_dir:forward": "2",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -9350,6 +9366,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "-1",
+    "lit": "24/7",
     "maxheight": "default",
     "maxspeed": "100",
     "oneway": "yes",
@@ -9399,6 +9416,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3",
@@ -9430,6 +9448,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "-1",
+    "lit": "24/7",
     "maxheight": "default",
     "maxspeed": "80",
     "oneway": "yes",
@@ -9524,6 +9543,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3",
@@ -9581,6 +9601,7 @@
     "highway": "motorway",
     "lanes": "3",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "100",
     "oneway": "yes",
     "ref": "A3",
@@ -9609,6 +9630,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "100",
     "oneway": "yes",
     "ref": "A3",
@@ -9770,6 +9792,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "100",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -9811,6 +9834,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "100",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -9823,38 +9847,6 @@
   "geometry": {
     "type": "LineString",
     "coordinates": [
-      [
-        8.5561364,
-        47.2115936
-      ],
-      [
-        8.5557311,
-        47.2115885
-      ],
-      [
-        8.5552954,
-        47.2115912
-      ],
-      [
-        8.554801,
-        47.2116059
-      ],
-      [
-        8.5541338,
-        47.2116385
-      ],
-      [
-        8.5536455,
-        47.2116537
-      ],
-      [
-        8.5531306,
-        47.2116656
-      ],
-      [
-        8.5526751,
-        47.211666
-      ],
       [
         8.5524017,
         47.2116601
@@ -10140,6 +10132,7 @@
     "alt_name": "Zugerautobahn",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "80",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -10215,30 +10208,6 @@
       [
         8.5523376,
         47.2115701
-      ],
-      [
-        8.5525685,
-        47.2115783
-      ],
-      [
-        8.5528424,
-        47.2115812
-      ],
-      [
-        8.5530366,
-        47.2115816
-      ],
-      [
-        8.5533297,
-        47.211576
-      ],
-      [
-        8.5534839,
-        47.2115704
-      ],
-      [
-        8.5541205,
-        47.2115432
       ]
     ]
   }
@@ -13545,6 +13514,8 @@
     "alt_name": "Zugerautobahn",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
+    "maxheight:signed": "no",
     "maxspeed": "100",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -13633,6 +13604,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "100",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -13701,6 +13673,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "100",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -13777,6 +13750,7 @@
     "cs_dir:forward": "2",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "100",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -16221,6 +16195,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -16258,6 +16233,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -16311,6 +16287,8 @@
     "cs_dir:forward": "2",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -16400,6 +16378,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -18126,6 +18105,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -23799,6 +23779,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "100",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -29869,6 +29850,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -29879,22 +29861,6 @@
   "geometry": {
     "type": "LineString",
     "coordinates": [
-      [
-        8.7073307,
-        47.196315
-      ],
-      [
-        8.7063788,
-        47.1964001
-      ],
-      [
-        8.7059181,
-        47.196444
-      ],
-      [
-        8.7054152,
-        47.1964976
-      ],
       [
         8.7049442,
         47.1965539
@@ -32388,6 +32354,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "100",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -32451,6 +32418,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "100",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -32483,6 +32451,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "100",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -32539,6 +32508,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "100",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -33064,6 +33034,7 @@
     "highway": "motorway",
     "lanes": "2",
     "lit": "no",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -33564,6 +33535,7 @@
     "cs_dir:forward": "1",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
@@ -40356,6 +40328,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "100",
     "oneway": "yes",
     "ref": "A3",
@@ -40395,24 +40368,8 @@
         47.1964995
       ],
       [
-        8.7049947,
-        47.1964381
-      ],
-      [
-        8.7054728,
-        47.1963809
-      ],
-      [
-        8.7059847,
-        47.1963287
-      ],
-      [
-        8.7064188,
-        47.1962869
-      ],
-      [
-        8.7073394,
-        47.1962048
+        8.7047775,
+        47.1964668
       ]
     ]
   }
@@ -42400,6 +42357,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -44680,6 +44638,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -45713,6 +45672,7 @@
     "destination:symbol:lanes": "industry||",
     "highway": "motorway",
     "lanes": "3",
+    "lit": "yes",
     "maxspeed": "80",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -45760,6 +45720,8 @@
     "destination:lanes": "Chur;Lachen|Chur;Lachen|Pfäffikon;Rapperswil",
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -45824,6 +45786,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
@@ -45916,6 +45879,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
@@ -53754,6 +53718,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -56111,6 +56076,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -56174,6 +56140,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -56333,6 +56300,8 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -56599,6 +56568,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "100",
     "oneway": "yes",
     "ref": "A3",
@@ -56685,6 +56655,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -56746,6 +56717,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -56775,6 +56747,7 @@
     "highway": "motorway",
     "lanes": "3",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3",
@@ -56831,6 +56804,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -56863,6 +56837,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -56893,6 +56868,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -56920,6 +56896,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
@@ -57056,6 +57033,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
@@ -57192,6 +57170,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -57255,6 +57234,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -57319,9 +57299,11 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "none|none|slight_right",
     "id": "way/306293062"
@@ -57346,6 +57328,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -57385,6 +57368,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -57446,6 +57430,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -57511,6 +57496,7 @@
     "destination:ref": "A 3",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
@@ -57781,6 +57767,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -57817,6 +57804,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -58064,6 +58052,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "placement": "right_of:1",
@@ -58132,6 +58121,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -58180,6 +58170,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -58249,6 +58240,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -58285,6 +58277,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -58388,6 +58381,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
@@ -58647,6 +58641,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
@@ -58691,6 +58686,8 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -58755,6 +58752,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
@@ -58850,6 +58848,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
@@ -58902,6 +58901,8 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -62315,6 +62316,8 @@
     "alt_name": "Zugerautobahn",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
+    "maxheight:signed": "no",
     "maxspeed": "100",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -63905,6 +63908,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "120",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -63936,6 +63940,7 @@
     "highway": "motorway",
     "lanes": "2",
     "lit": "no",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -64092,6 +64097,7 @@
     "highway": "motorway",
     "lanes": "2",
     "layer": "1",
+    "lit": "no",
     "maxspeed": "120",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -64122,6 +64128,7 @@
     "alt_name": "Zugerautobahn",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -64784,6 +64791,7 @@
     "change:lanes": "yes|not_right|yes",
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -64815,6 +64823,7 @@
     "change:lanes": "yes|yes|not_left",
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxspeed": "120",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -65431,6 +65440,7 @@
     "destination:ref": "A 4a",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxheight:signed": "no",
     "maxspeed": "100",
     "nat_name": "N14",
@@ -65510,6 +65520,7 @@
     "alt_name": "Zugerautobahn",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxheight:signed": "no",
     "maxspeed": "100",
     "nat_name": "N14",
@@ -78238,6 +78249,7 @@
     "alt_name": "Zugerautobahn",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -78284,6 +78296,7 @@
     "alt_name": "Zugerautobahn",
     "highway": "motorway",
     "lanes": "3",
+    "lit": "no",
     "maxheight:signed": "no",
     "maxspeed": "120",
     "nat_name": "N14",
@@ -79788,6 +79801,7 @@
     "alt_name": "Zugerautobahn",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "nat_name": "N14",
     "old_name": "A4a",
@@ -87851,6 +87865,200 @@
       [
         8.6208389,
         47.0072773
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1314836280",
+  "properties": {
+    "highway": "motorway",
+    "lanes": "2",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1314836280"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.7047775,
+        47.1964668
+      ],
+      [
+        8.7049947,
+        47.1964381
+      ],
+      [
+        8.7054728,
+        47.1963809
+      ],
+      [
+        8.7059847,
+        47.1963287
+      ],
+      [
+        8.7064188,
+        47.1962869
+      ],
+      [
+        8.7073394,
+        47.1962048
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1314836329",
+  "properties": {
+    "highway": "motorway",
+    "lanes": "2",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1314836329"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.7073307,
+        47.196315
+      ],
+      [
+        8.7063788,
+        47.1964001
+      ],
+      [
+        8.7059181,
+        47.196444
+      ],
+      [
+        8.7054152,
+        47.1964976
+      ],
+      [
+        8.7049442,
+        47.1965539
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1314939098",
+  "properties": {
+    "alt_name": "Zugerautobahn",
+    "destination": "Gotthard;Luzern;Zürich;Zug Baar",
+    "highway": "motorway",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "100",
+    "nat_name": "N14",
+    "old_name": "A4a",
+    "oneway": "yes",
+    "ref": "A14",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1314939098"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5561364,
+        47.2115936
+      ],
+      [
+        8.5557311,
+        47.2115885
+      ],
+      [
+        8.5552954,
+        47.2115912
+      ],
+      [
+        8.554801,
+        47.2116059
+      ],
+      [
+        8.5541338,
+        47.2116385
+      ],
+      [
+        8.5536455,
+        47.2116537
+      ],
+      [
+        8.5531306,
+        47.2116656
+      ],
+      [
+        8.5526751,
+        47.211666
+      ],
+      [
+        8.5524017,
+        47.2116601
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1314939099",
+  "properties": {
+    "alt_name": "Zugerautobahn",
+    "highway": "motorway",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "80",
+    "nat_name": "N14",
+    "old_name": "A4a",
+    "oneway": "yes",
+    "ref": "A14",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1314939099"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5523376,
+        47.2115701
+      ],
+      [
+        8.5525685,
+        47.2115783
+      ],
+      [
+        8.5528424,
+        47.2115812
+      ],
+      [
+        8.5530366,
+        47.2115816
+      ],
+      [
+        8.5533297,
+        47.211576
+      ],
+      [
+        8.5534839,
+        47.2115704
+      ],
+      [
+        8.5541205,
+        47.2115432
       ]
     ]
   }

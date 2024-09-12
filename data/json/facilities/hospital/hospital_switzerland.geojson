@@ -53758,7 +53758,7 @@
     "addr:street": "Schulhausweg",
     "amenity": "clinic",
     "healthcare": "clinic",
-    "name": "Reha­Pflegeklinik Eden",
+    "name": "Reha-Pflegeklinik Eden",
     "website": "https://www.reha-pflegeklinik.ch/",
     "id": "node/7333650641"
   },
@@ -56807,6 +56807,30 @@
     "coordinates": [
       7.1088151,
       46.8218077
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12169834308",
+  "properties": {
+    "addr:city": "Wetzikon",
+    "addr:housenumber": "1",
+    "addr:postcode": "8620",
+    "addr:street": "Rapperswilerstrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Ärzteteam Unterwetzikon",
+    "opening_hours": "Mo-Fr 08:00-12:00 und 13:00-18:00",
+    "operator": "Ärzteteam Unterwetzikon",
+    "phone": "+41 44 932 30 30",
+    "id": "node/12169834308"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.793171,
+      47.3180544
     ]
   }
 }
