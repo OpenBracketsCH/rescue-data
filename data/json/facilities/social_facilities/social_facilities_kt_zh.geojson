@@ -41125,6 +41125,93 @@
 },
 {
   "type": "Feature",
+  "id": "way/1315287386",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "6",
+    "addr:postcode": "8400",
+    "addr:street": "Brühlbergstrasse",
+    "amenity": "social_facility",
+    "name": "Brühlgut Stiftung",
+    "operator": "Brühlgut Stiftung",
+    "social_facility": "group_home",
+    "social_facility:for": "disabled",
+    "id": "way/1315287386"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7112773,
+          47.4967034
+        ],
+        [
+          8.7114482,
+          47.4965212
+        ],
+        [
+          8.7114703,
+          47.4965212
+        ],
+        [
+          8.7116899,
+          47.4962982
+        ],
+        [
+          8.7118387,
+          47.4963211
+        ],
+        [
+          8.7119714,
+          47.4963559
+        ],
+        [
+          8.7121158,
+          47.4964256
+        ],
+        [
+          8.7121983,
+          47.4964565
+        ],
+        [
+          8.7123752,
+          47.4964724
+        ],
+        [
+          8.7124562,
+          47.4964615
+        ],
+        [
+          8.7125387,
+          47.4964296
+        ],
+        [
+          8.7129263,
+          47.4966526
+        ],
+        [
+          8.7124105,
+          47.4970529
+        ],
+        [
+          8.7121232,
+          47.4968946
+        ],
+        [
+          8.7119095,
+          47.4970569
+        ],
+        [
+          8.7112773,
+          47.4967034
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/473379001",
   "properties": {
     "amenity": "social_facility",

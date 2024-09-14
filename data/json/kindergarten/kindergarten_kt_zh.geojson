@@ -32188,6 +32188,52 @@
 },
 {
   "type": "Feature",
+  "id": "way/1315315557",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Dreispitz",
+    "operator": "Primarschule Embrach",
+    "operator:type": "public",
+    "id": "way/1315315557"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5918543,
+          47.5112253
+        ],
+        [
+          8.591581,
+          47.5115403
+        ],
+        [
+          8.5914884,
+          47.511699
+        ],
+        [
+          8.5913348,
+          47.511821
+        ],
+        [
+          8.5910728,
+          47.5117074
+        ],
+        [
+          8.591598,
+          47.5111261
+        ],
+        [
+          8.5918543,
+          47.5112253
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",

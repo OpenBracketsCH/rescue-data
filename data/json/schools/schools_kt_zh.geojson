@@ -103514,6 +103514,26 @@
       47.3819111
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12174774376",
+  "properties": {
+    "amenity": "school",
+    "grades": "0-6",
+    "name": "Schule des Bundesasylzentrums Embrach",
+    "operator": "Primarschule Embrach",
+    "operator:type": "public",
+    "website": "https://www.ps-embrach.ch/schule/baz-bundesasylzentrum.html",
+    "id": "node/12174774376"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5869008,
+      47.5246773
+    ]
+  }
 }
 ]
 }
