@@ -98653,6 +98653,7 @@
     "addr:street": "Thurgauerstrasse",
     "amenity": "school",
     "building": "school",
+    "building:levels": "4",
     "grades": "1-4",
     "name": "Schulanlage Thurgauerstrasse",
     "id": "way/1312602999"
