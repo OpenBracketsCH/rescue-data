@@ -12979,6 +12979,8 @@
     "name": "Rheinburg-Klinik Walzenhausen",
     "source": "GeoImage.at",
     "website": "https://www.rheinburg.ch/",
+    "wikidata": "Q130310101",
+    "wikimedia_commons": "Category:Rheinburg (Dorf 113, Walzenhausen)",
     "id": "way/152009369"
   },
   "geometry": {
@@ -56883,6 +56885,24 @@
     "coordinates": [
       8.793171,
       47.3180544
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12181406537",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Ärzte am Rhein",
+    "website": "https://www.aerzteamrhein.ch",
+    "id": "node/12181406537"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8451125,
+      47.6527468
     ]
   }
 }

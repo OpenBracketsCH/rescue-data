@@ -2883,6 +2883,7 @@
     "addr:street": "Bankstrasse",
     "alt_name": "Kapo",
     "amenity": "police",
+    "check_date": "2024-09-16",
     "name": "Polizeiposten Uster Bahnhof",
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",
