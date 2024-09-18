@@ -51274,6 +51274,7 @@
     "addr:street": "Breitestrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-09-17",
     "name": "Primarschulhaus Hofacker",
     "id": "way/164210585"
   },
@@ -125544,10 +125545,6 @@
         [
           8.5510848,
           47.4155168
-        ],
-        [
-          8.5511704,
-          47.4154811
         ],
         [
           8.5514055,

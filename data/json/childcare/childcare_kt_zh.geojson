@@ -14394,6 +14394,23 @@
       47.5162018
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12182713989",
+  "properties": {
+    "amenity": "childcare",
+    "name": "KiBe",
+    "website": "https://kibe-wädenswil.ch/",
+    "id": "node/12182713989"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6730985,
+      47.2258406
+    ]
+  }
 }
 ]
 }

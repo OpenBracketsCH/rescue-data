@@ -841,7 +841,7 @@
     "branch": "Zürich Helvetiaplatz",
     "brand": "Medbase",
     "brand:wikidata": "Q50038690",
-    "check_date": "2024-06-14",
+    "check_date": "2024-09-17",
     "dispensing": "yes",
     "name": "Medbase Apotheke Helvetiaplatz",
     "old_name": "Helvetiaplatz Apotheke",
@@ -1909,6 +1909,7 @@
     "addr:street": "Albisriederplatz",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date": "2024-09-17",
     "check_date:opening_hours": "2023-07-15",
     "healthcare": "pharmacy",
     "name": "Pilgerbrunnen Apotheke",
@@ -3181,7 +3182,7 @@
     "addr:street": "Badenerstrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
-    "check_date": "2024-04-07",
+    "check_date": "2024-09-17",
     "check_date:opening_hours": "2023-08-02",
     "dispensing": "yes",
     "healthcare": "pharmacy",
@@ -6501,8 +6502,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6685405,
-      47.2284711
+      8.6679844,
+      47.2289896
     ]
   }
 },

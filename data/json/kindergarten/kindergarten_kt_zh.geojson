@@ -14278,6 +14278,7 @@
     "addr:street": "Hofackerstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2024-09-17",
     "name": "Kindergarten Hofacker",
     "id": "way/164210625"
   },
@@ -43329,6 +43330,24 @@
     "coordinates": [
       8.4843153,
       47.3880979
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12182910814",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Thurgauerstrasse",
+    "phone": "+41 44 413 37 60",
+    "preschool": "no",
+    "id": "node/12182910814"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5512182,
+      47.4155653
     ]
   }
 }

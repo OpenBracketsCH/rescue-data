@@ -25511,6 +25511,28 @@
 },
 {
   "type": "Feature",
+  "id": "node/9679620692",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "4",
+    "addr:postcode": "8610",
+    "addr:street": "Theaterstrasse",
+    "amenity": "social_facility",
+    "name": "Residenz Stadtpark",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "node/9679620692"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.715081,
+      47.3490252
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9754019575",
   "properties": {
     "alt_name": "Pflegezentrum Drei Tannen",
@@ -25794,24 +25816,6 @@
     "coordinates": [
       8.5283638,
       47.3718636
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11780012193",
-  "properties": {
-    "amenity": "social_facility",
-    "name": "Residenz Stadtpark",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "id": "node/11780012193"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7148178,
-      47.3490167
     ]
   }
 },

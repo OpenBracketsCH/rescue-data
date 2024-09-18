@@ -6476,29 +6476,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8014066611",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Defi-Kasten oberhalb Briefkästen an Steinmauer, links neben Garagentor",
-    "description": "Alarm ertönt sobald Defikasten geöffnet ist, dadurch Alarmierung der angrenzenden Bewohner, Passanten in der Nähe. Schiller Defi, Klappe öffnen und den Anweisungen des Gerätes folgen",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "Hausartzpraxis Aeugst, Dr. H. Fischer",
-    "phone": "+41 44 761 11 11",
-    "id": "node/8014066611"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4859663,
-      47.2689864
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8014074340",
   "properties": {
     "access": "yes",
@@ -34872,21 +34849,21 @@
   "type": "Feature",
   "id": "node/10139384936",
   "properties": {
-    "defibrillator:location": "Eingang Ost oder West, 1. OG Haupteingang Firma Entec AG, Im Gang nach der 1. Säule auf der rechten Seite.",
+    "defibrillator:location": "Im Treppenhaus 4.OG  an der Wand neben dem Lift",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
+    "opening_hours": "Mo-Fr 07:00-12:00, 13:00-17:00",
     "operator": "Schibli AG",
-    "phone": "+41 44 800 80 00",
+    "phone": "+41 44 800 12 12",
     "id": "node/10139384936"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5927436,
-      47.4487601
+      8.5915366,
+      47.4487275
     ]
   }
 },
@@ -35210,7 +35187,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:00-12:00,13:00-17:00",
-    "operator": "Rico Bardole Schibli Support aG",
+    "operator": "Schibli AG",
     "phone": "+41 44 252 52 52",
     "id": "node/10170127238"
   },
@@ -59724,8 +59701,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7234904,
-      47.2733987
+      8.7234955,
+      47.2733962
     ]
   }
 },
@@ -62439,15 +62416,15 @@
   "id": "node/12144544101",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Einfahrt Garage auf der rechten Seite ",
+    "defibrillator:location": "Einfahrt Garage auf der rechten Seite",
     "description": "Immer verfügbar und öffentlich zugänglich ",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "level": "0",
     "opening_hours": "24/7",
-    "operator": "Miteigentümerschaft Rosengarten c/o Marco Aeschlimann ",
-    "phone": "+41793914565",
+    "operator": "Miteigentümerschaft Rosengarten c/o Marco Aeschlimann",
+    "phone": "+41442893333",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/12144544101"
   },
@@ -62925,6 +62902,76 @@
     "coordinates": [
       8.6708644,
       47.2284081
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12181757956",
+  "properties": {
+    "access": "customers",
+    "defibrillator:location": "Defi-Kasten oberhalb Briefkästen an Steinmauer, links neben Garagentor",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Hausartzpraxis Aeugst, Dr. H. Fischer",
+    "phone": "+41 44 761 11 11",
+    "id": "node/12181757956"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4855376,
+      47.2690488
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12182398601",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "in der Praxis",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Th, Fr 08:00 -12:00, 13:30 -18:00",
+    "operator": "Praxis",
+    "phone": "+41 44 886 80 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12182398601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5406899,
+      47.6082716
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12182401801",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "in der Praxis",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Th 08:00-12:00, 13:30-18:00 ",
+    "operator": "Praxis",
+    "phone": "+41 44 886 80 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12182401801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5407221,
+      47.6082571
     ]
   }
 }
