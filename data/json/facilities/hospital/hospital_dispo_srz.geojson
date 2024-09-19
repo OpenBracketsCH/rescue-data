@@ -14120,6 +14120,24 @@
       47.3180544
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12184694687",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Praxiszentrum Glärnisch",
+    "website": "https://www.praxiszentrum-glaernisch.ch/",
+    "id": "node/12184694687"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6683275,
+      47.2300909
+    ]
+  }
 }
 ]
 }
