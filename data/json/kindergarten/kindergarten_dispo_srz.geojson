@@ -49012,6 +49012,24 @@
       47.4155653
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12186737593",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "globegarden",
+    "phone": "+41445365532",
+    "website": "https://www.globegarden.ch/locations/waedenswil",
+    "id": "node/12186737593"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6614367,
+      47.2319221
+    ]
+  }
 }
 ]
 }
