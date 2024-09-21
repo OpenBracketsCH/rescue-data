@@ -23443,6 +23443,7 @@
   "id": "way/68301790",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-09-20",
     "name": "Schulhaus Mattenbach",
     "id": "way/68301790"
   },
@@ -37298,6 +37299,7 @@
   "id": "way/128882898",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-09-20",
     "name": "Primarschule Birch",
     "id": "way/128882898"
   },
@@ -38029,6 +38031,7 @@
     "amenity": "school",
     "building": "school",
     "building:roof": "flat",
+    "check_date": "2024-09-20",
     "name": "Primarschulhaus Birch",
     "id": "way/131661989"
   },
@@ -94152,6 +94155,7 @@
   "id": "way/1071502860",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-09-20",
     "grades": "0",
     "name": "Kindergarten Schneckenwiese",
     "id": "way/1071502860"
@@ -102003,15 +102007,15 @@
   "properties": {
     "amenity": "school",
     "contact:city": "Zürich",
-    "contact:email": "info@buchmannschule.ch",
+    "contact:email": "info@gdrb.ch",
     "contact:housenumber": "11",
     "contact:phone": "+41 44 252 65 64",
     "contact:postcode": "8044",
     "contact:street": "Keltenstrasse",
-    "contact:website": "https://www.buchmannschule.ch/",
+    "contact:website": "https://www.gdrb.ch/",
     "isced:level": "2",
-    "name": "Mittelschule Dr. Buchmann",
-    "operator": "Stiftung Mittelschule Dr. Buchmann",
+    "name": "Gymnasium Dr. Buchmann",
+    "operator": "Stiftung Gymnasium Dr. Buchmann",
     "operator:type": "private",
     "id": "node/9717579180"
   },

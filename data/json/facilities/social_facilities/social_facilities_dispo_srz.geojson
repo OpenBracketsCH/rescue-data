@@ -48805,6 +48805,7 @@
     "building": "bunker",
     "layer": "-1",
     "level": "-1",
+    "location": "underground",
     "name": "Durchgangszentrum Mattenbach",
     "short_name": "DZ Mattenbach",
     "social_facility": "shelter",
