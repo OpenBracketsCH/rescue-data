@@ -3312,6 +3312,7 @@
   "properties": {
     "amenity": "fire_station",
     "building": "yes",
+    "check_date": "2024-09-22",
     "name": "Feuerwehr Wädenswil",
     "operator": "Stadt Wädenswil",
     "id": "way/194305659"
