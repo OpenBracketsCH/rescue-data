@@ -3905,6 +3905,7 @@
     "addr:street": "Riedmatt",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-09-22",
     "name": "Riedmatt Schulhaus A",
     "id": "way/174994034"
   },

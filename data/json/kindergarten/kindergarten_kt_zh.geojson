@@ -14950,48 +14950,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/179303449",
-  "properties": {
-    "amenity": "kindergarten",
-    "check_date": "2023-04-21",
-    "name": "Kinderwerkstatt",
-    "wheelchair": "limited",
-    "id": "way/179303449"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6224754,
-          47.3930984
-        ],
-        [
-          8.6226216,
-          47.393098
-        ],
-        [
-          8.6227171,
-          47.3930978
-        ],
-        [
-          8.6227155,
-          47.3933748
-        ],
-        [
-          8.6224767,
-          47.3932064
-        ],
-        [
-          8.6224754,
-          47.3930984
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/183203917",
   "properties": {
     "addr:city": "Uster",
