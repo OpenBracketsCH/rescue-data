@@ -19279,6 +19279,7 @@
   "id": "way/46154075",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-09-23",
     "name": "Primarschule Sonnenberg",
     "school": "primary",
     "id": "way/46154075"
@@ -19943,6 +19944,7 @@
     "addr:street": "Feldhofstrasse",
     "amenity": "school",
     "building": "yes",
+    "check_date": "2024-09-23",
     "name": "Schulhaus Sonnenberg",
     "id": "way/47362123"
   },
@@ -98987,6 +98989,7 @@
     "addr:postcode": "8810",
     "addr:street": "Seestrasse",
     "amenity": "school",
+    "check_date": "2024-09-23",
     "name": "Bildungszentrum Zürichsee, Horgen",
     "short_name": "BZZ Horgen",
     "wheelchair": "limited",

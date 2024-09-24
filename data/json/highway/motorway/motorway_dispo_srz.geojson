@@ -423,8 +423,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5293827,
-        47.3296112
+        8.5293399,
+        47.3296676
       ],
       [
         8.5292753,
@@ -636,6 +636,10 @@
         47.3319402
       ],
       [
+        8.5271391,
+        47.3317613
+      ],
+      [
         8.5272199,
         47.3316917
       ],
@@ -665,12 +669,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5517527,
-        47.2892049
-      ],
-      [
-        8.5518623,
-        47.2890696
+        8.551906,
+        47.2890186
       ],
       [
         8.5519822,
@@ -8449,6 +8449,10 @@
         47.2862184
       ],
       [
+        8.5549537,
+        47.2864917
+      ],
+      [
         8.5546693,
         47.2867044
       ],
@@ -8609,196 +8613,12 @@
         47.2999638
       ],
       [
-        8.5479836,
-        47.3011914
+        8.5482504,
+        47.3005457
       ],
       [
-        8.5476426,
-        47.3019279
-      ],
-      [
-        8.5474872,
-        47.3022448
-      ],
-      [
-        8.5473275,
-        47.3025577
-      ],
-      [
-        8.5470167,
-        47.3031398
-      ],
-      [
-        8.546959,
-        47.3032476
-      ],
-      [
-        8.5465528,
-        47.3039469
-      ],
-      [
-        8.5461921,
-        47.3045409
-      ],
-      [
-        8.5460025,
-        47.3048389
-      ],
-      [
-        8.5458236,
-        47.3051098
-      ],
-      [
-        8.5456429,
-        47.3053807
-      ],
-      [
-        8.5452912,
-        47.3058975
-      ],
-      [
-        8.544902,
-        47.3064699
-      ],
-      [
-        8.5445405,
-        47.30702
-      ],
-      [
-        8.5442283,
-        47.3075127
-      ],
-      [
-        8.5441224,
-        47.3076904
-      ],
-      [
-        8.5440462,
-        47.307818
-      ],
-      [
-        8.5438973,
-        47.3080729
-      ],
-      [
-        8.543741,
-        47.3083491
-      ],
-      [
-        8.5435883,
-        47.3086249
-      ],
-      [
-        8.5434493,
-        47.3088821
-      ],
-      [
-        8.5433145,
-        47.3091396
-      ],
-      [
-        8.5431463,
-        47.3094666
-      ],
-      [
-        8.5430063,
-        47.3097435
-      ],
-      [
-        8.5426906,
-        47.3103761
-      ],
-      [
-        8.5425562,
-        47.3106456
-      ],
-      [
-        8.5424194,
-        47.310911
-      ],
-      [
-        8.542114,
-        47.3114705
-      ],
-      [
-        8.5419598,
-        47.311736
-      ],
-      [
-        8.5418002,
-        47.3120008
-      ],
-      [
-        8.5414529,
-        47.3125415
-      ],
-      [
-        8.5412185,
-        47.3128769
-      ],
-      [
-        8.5409847,
-        47.313198
-      ],
-      [
-        8.5407412,
-        47.3135187
-      ],
-      [
-        8.540494,
-        47.3138332
-      ],
-      [
-        8.5402662,
-        47.3141085
-      ],
-      [
-        8.5400318,
-        47.314383
-      ],
-      [
-        8.5398354,
-        47.3146033
-      ],
-      [
-        8.5396426,
-        47.3148179
-      ],
-      [
-        8.5395059,
-        47.3149604
-      ],
-      [
-        8.5392502,
-        47.3152238
-      ],
-      [
-        8.5390592,
-        47.3154185
-      ],
-      [
-        8.5388353,
-        47.3156389
-      ],
-      [
-        8.5386101,
-        47.315852
-      ],
-      [
-        8.5383168,
-        47.3161208
-      ],
-      [
-        8.5380245,
-        47.3163824
-      ],
-      [
-        8.5377801,
-        47.3165949
-      ],
-      [
-        8.5375397,
-        47.3167977
+        8.5481087,
+        47.3008887
       ]
     ]
   }
@@ -13992,8 +13812,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5307678,
-        47.3270108
+        8.53068,
+        47.327205
       ],
       [
         8.5309886,
@@ -41279,30 +41099,6 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5358693,
-        47.3182573
-      ],
-      [
-        8.5356469,
-        47.3184749
-      ],
-      [
-        8.5353809,
-        47.3187482
-      ],
-      [
-        8.5351333,
-        47.3190147
-      ],
-      [
-        8.5349219,
-        47.3192515
-      ],
-      [
-        8.534804,
-        47.3193891
-      ],
-      [
         8.534723,
         47.3194841
       ],
@@ -41333,50 +41129,6 @@
       [
         8.5331731,
         47.321698
-      ],
-      [
-        8.5330394,
-        47.3219499
-      ],
-      [
-        8.5328945,
-        47.3222244
-      ],
-      [
-        8.5327608,
-        47.3224931
-      ],
-      [
-        8.532637,
-        47.3227538
-      ],
-      [
-        8.5325286,
-        47.3229903
-      ],
-      [
-        8.5323451,
-        47.3234045
-      ],
-      [
-        8.532173,
-        47.3238246
-      ],
-      [
-        8.531899,
-        47.3245252
-      ],
-      [
-        8.5317519,
-        47.3249082
-      ],
-      [
-        8.5316261,
-        47.3252354
-      ],
-      [
-        8.531458,
-        47.3256682
       ]
     ]
   }
@@ -41556,8 +41308,8 @@
         47.3083209
       ],
       [
-        8.5437108,
-        47.308116
+        8.5438715,
+        47.3078367
       ]
     ]
   }
@@ -62534,24 +62286,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5485979,
-        47.2991219
-      ],
-      [
-        8.5486977,
-        47.2988171
-      ],
-      [
-        8.5487975,
-        47.298496
-      ],
-      [
-        8.5489659,
-        47.2979194
-      ],
-      [
-        8.5490608,
-        47.2975614
+        8.5491435,
+        47.2972275
       ],
       [
         8.5491471,
@@ -62670,16 +62406,8 @@
         47.2896359
       ],
       [
-        8.5515416,
-        47.2894723
-      ],
-      [
-        8.5516666,
-        47.2893134
-      ],
-      [
-        8.5517527,
-        47.2892049
+        8.5514601,
+        47.2895835
       ]
     ]
   }
@@ -63664,16 +63392,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5299409,
-        47.3285578
-      ],
-      [
-        8.5301886,
-        47.3281409
-      ],
-      [
-        8.5304338,
-        47.3276975
+        8.5305562,
+        47.327459
       ],
       [
         8.5305905,
@@ -63682,10 +63402,6 @@
       [
         8.53068,
         47.327205
-      ],
-      [
-        8.5307678,
-        47.3270108
       ]
     ]
   }
@@ -79062,6 +78778,7 @@
   "type": "Feature",
   "id": "way/841445689",
   "properties": {
+    "change:lanes": "yes|yes|yes|no",
     "destination:lanes": "San Bernardino;Chur|San Bernardino;Chur|San Bernardino;Chur|Wollishofen;Adliswil",
     "destination:ref:lanes": "A3|A3|A3|",
     "highway": "motorway",
@@ -79072,19 +78789,19 @@
     "ref": "A3",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "merge_to_right|none|none|slight_right",
+    "turn:lanes": "merge_to_right|none|none|right",
     "id": "way/841445689"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.5273561,
-        47.3315712
+        8.5277682,
+        47.3311919
       ],
       [
-        8.5276517,
-        47.3313015
+        8.5278003,
+        47.3311617
       ],
       [
         8.5279735,
@@ -87922,6 +87639,7 @@
   "type": "Feature",
   "id": "way/1293844648",
   "properties": {
+    "change:lanes": "yes|yes|no",
     "highway": "motorway",
     "lanes": "3",
     "lit": "no",
@@ -87931,19 +87649,15 @@
     "ref": "A3",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||slight_right",
+    "turn:lanes": "through|through|right",
     "id": "way/1293844648"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.5437108,
-        47.308116
-      ],
-      [
-        8.5437764,
-        47.3079984
+        8.5440196,
+        47.3075903
       ],
       [
         8.5441151,
@@ -87988,6 +87702,7 @@
   "type": "Feature",
   "id": "way/1293844649",
   "properties": {
+    "change:lanes": "yes|not_right|no",
     "highway": "motorway",
     "lanes": "3",
     "lit": "no",
@@ -87996,7 +87711,7 @@
     "oneway": "yes",
     "ref": "A3",
     "toll": "yes",
-    "turn:lanes": "straight|straight|slight_right",
+    "turn:lanes": "through|through|right",
     "id": "way/1293844649"
   },
   "geometry": {
@@ -88511,6 +88226,7 @@
   "id": "way/1308759310",
   "properties": {
     "bridge": "yes",
+    "change:lanes": "yes|not_right|yes",
     "highway": "motorway",
     "lanes": "3",
     "layer": "1",
@@ -88538,8 +88254,8 @@
         47.3293669
       ],
       [
-        8.5293827,
-        47.3296112
+        8.5293399,
+        47.3296676
       ]
     ]
   }
@@ -88549,6 +88265,7 @@
   "id": "way/1308759311",
   "properties": {
     "bridge": "yes",
+    "change:lanes": "yes|not_right|yes",
     "highway": "motorway",
     "lanes": "3",
     "layer": "1",
@@ -88598,8 +88315,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5309516,
-        47.3268964
+        8.5310045,
+        47.326781
       ],
       [
         8.5308915,
@@ -88628,24 +88345,16 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.531458,
-        47.3256682
+        8.5313593,
+        47.3259242
       ],
       [
         8.5313075,
         47.3260483
       ],
       [
-        8.5311589,
-        47.3264151
-      ],
-      [
-        8.5310522,
-        47.3266609
-      ],
-      [
-        8.5309516,
-        47.3268964
+        8.5311624,
+        47.3264065
       ]
     ]
   }
@@ -90114,6 +89823,924 @@
       [
         8.8574062,
         47.185579
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317597044",
+  "properties": {
+    "highway": "motorway",
+    "lanes": "2",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1317597044"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5460025,
+        47.3048389
+      ],
+      [
+        8.5458236,
+        47.3051098
+      ],
+      [
+        8.5456429,
+        47.3053807
+      ],
+      [
+        8.5452912,
+        47.3058975
+      ],
+      [
+        8.544902,
+        47.3064699
+      ],
+      [
+        8.5445405,
+        47.30702
+      ],
+      [
+        8.5442283,
+        47.3075127
+      ],
+      [
+        8.5441224,
+        47.3076904
+      ],
+      [
+        8.5440462,
+        47.307818
+      ],
+      [
+        8.5438973,
+        47.3080729
+      ],
+      [
+        8.543741,
+        47.3083491
+      ],
+      [
+        8.5435883,
+        47.3086249
+      ],
+      [
+        8.5434493,
+        47.3088821
+      ],
+      [
+        8.5433145,
+        47.3091396
+      ],
+      [
+        8.5431463,
+        47.3094666
+      ],
+      [
+        8.5430063,
+        47.3097435
+      ],
+      [
+        8.5426906,
+        47.3103761
+      ],
+      [
+        8.5425562,
+        47.3106456
+      ],
+      [
+        8.5424194,
+        47.310911
+      ],
+      [
+        8.542114,
+        47.3114705
+      ],
+      [
+        8.5419598,
+        47.311736
+      ],
+      [
+        8.5418002,
+        47.3120008
+      ],
+      [
+        8.5414529,
+        47.3125415
+      ],
+      [
+        8.5412185,
+        47.3128769
+      ],
+      [
+        8.5409847,
+        47.313198
+      ],
+      [
+        8.5407412,
+        47.3135187
+      ],
+      [
+        8.540494,
+        47.3138332
+      ],
+      [
+        8.5402662,
+        47.3141085
+      ],
+      [
+        8.5400318,
+        47.314383
+      ],
+      [
+        8.5398354,
+        47.3146033
+      ],
+      [
+        8.5396426,
+        47.3148179
+      ],
+      [
+        8.5395059,
+        47.3149604
+      ],
+      [
+        8.5392502,
+        47.3152238
+      ],
+      [
+        8.5390592,
+        47.3154185
+      ],
+      [
+        8.5388353,
+        47.3156389
+      ],
+      [
+        8.5386101,
+        47.315852
+      ],
+      [
+        8.5383168,
+        47.3161208
+      ],
+      [
+        8.5380245,
+        47.3163824
+      ],
+      [
+        8.5377801,
+        47.3165949
+      ],
+      [
+        8.5375397,
+        47.3167977
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317597045",
+  "properties": {
+    "change:lanes:forward": "yes|yes|no",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1317597045"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.546959,
+        47.3032476
+      ],
+      [
+        8.5468696,
+        47.3034015
+      ],
+      [
+        8.5468093,
+        47.3035053
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317597046",
+  "properties": {
+    "change:lanes:forward": "yes|not_right|yes",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1317597046"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5468093,
+        47.3035053
+      ],
+      [
+        8.5465528,
+        47.3039469
+      ],
+      [
+        8.5461921,
+        47.3045409
+      ],
+      [
+        8.5461841,
+        47.3045535
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317597047",
+  "properties": {
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes:forward": "through|through|merge_to_left",
+    "id": "way/1317597047"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5461841,
+        47.3045535
+      ],
+      [
+        8.5460025,
+        47.3048389
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317597048",
+  "properties": {
+    "highway": "motorway",
+    "lanes": "2",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1317597048"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5479836,
+        47.3011914
+      ],
+      [
+        8.5476426,
+        47.3019279
+      ],
+      [
+        8.5474872,
+        47.3022448
+      ],
+      [
+        8.5473275,
+        47.3025577
+      ],
+      [
+        8.5470167,
+        47.3031398
+      ],
+      [
+        8.546959,
+        47.3032476
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317597049",
+  "properties": {
+    "change:lanes:forward": "yes|not_right|no",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes:forward": "through|through|right",
+    "id": "way/1317597049"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5481087,
+        47.3008887
+      ],
+      [
+        8.5479836,
+        47.3011914
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317597050",
+  "properties": {
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "||slight_right",
+    "id": "way/1317597050"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5438715,
+        47.3078367
+      ],
+      [
+        8.5440196,
+        47.3075903
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317597051",
+  "properties": {
+    "change:lanes:forward": "yes|not_right|no",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1317597051"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5485979,
+        47.2991219
+      ],
+      [
+        8.5486977,
+        47.2988171
+      ],
+      [
+        8.5487975,
+        47.298496
+      ],
+      [
+        8.5489659,
+        47.2979194
+      ],
+      [
+        8.5490608,
+        47.2975614
+      ],
+      [
+        8.5491435,
+        47.2972275
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317597052",
+  "properties": {
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes:forward": "through|through|merge_to_left",
+    "id": "way/1317597052"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5514601,
+        47.2895835
+      ],
+      [
+        8.5515416,
+        47.2894723
+      ],
+      [
+        8.5516666,
+        47.2893134
+      ],
+      [
+        8.5517527,
+        47.2892049
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317597053",
+  "properties": {
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "120",
+    "maxspeed:type": "CH:motorway",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes:forward": "through|through|merge_to_left",
+    "id": "way/1317597053"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5517527,
+        47.2892049
+      ],
+      [
+        8.5518623,
+        47.2890696
+      ],
+      [
+        8.551906,
+        47.2890186
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317599358",
+  "properties": {
+    "destination:lanes": "San Bernardino;Chur|San Bernardino;Chur|San Bernardino;Chur|Wollishofen;Adliswil",
+    "destination:ref:lanes": "A3|A3|A3|",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "merge_to_right|none|none",
+    "id": "way/1317599358"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5273561,
+        47.3315712
+      ],
+      [
+        8.5275643,
+        47.3313813
+      ],
+      [
+        8.5275962,
+        47.3313521
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317599359",
+  "properties": {
+    "destination:lanes": "San Bernardino;Chur|San Bernardino;Chur|San Bernardino;Chur|Wollishofen;Adliswil",
+    "destination:ref:lanes": "A3|A3|A3|",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "merge_to_right|none|none|right",
+    "id": "way/1317599359"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5275962,
+        47.3313521
+      ],
+      [
+        8.5276517,
+        47.3313015
+      ],
+      [
+        8.5277682,
+        47.3311919
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317599360",
+  "properties": {
+    "change:lanes": "yes|not_right|yes",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "none|none|merge_to_left",
+    "id": "way/1317599360"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5299409,
+        47.3285578
+      ],
+      [
+        8.5301886,
+        47.3281409
+      ],
+      [
+        8.5303685,
+        47.3278156
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317599361",
+  "properties": {
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "none|none|merge_to_left",
+    "id": "way/1317599361"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5303685,
+        47.3278156
+      ],
+      [
+        8.5304338,
+        47.3276975
+      ],
+      [
+        8.5305562,
+        47.327459
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317599362",
+  "properties": {
+    "change:lanes": "yes|yes|no",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through|through|right",
+    "id": "way/1317599362"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5311624,
+        47.3264065
+      ],
+      [
+        8.5311589,
+        47.3264151
+      ],
+      [
+        8.5310522,
+        47.3266609
+      ],
+      [
+        8.5310045,
+        47.326781
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317599363",
+  "properties": {
+    "highway": "motorway",
+    "lanes": "2",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1317599363"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5327169,
+        47.3225856
+      ],
+      [
+        8.532637,
+        47.3227538
+      ],
+      [
+        8.5325286,
+        47.3229903
+      ],
+      [
+        8.5323451,
+        47.3234045
+      ],
+      [
+        8.532173,
+        47.3238246
+      ],
+      [
+        8.531899,
+        47.3245252
+      ],
+      [
+        8.5317519,
+        47.3249082
+      ],
+      [
+        8.5316261,
+        47.3252354
+      ],
+      [
+        8.5313593,
+        47.3259242
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317599364",
+  "properties": {
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes:forward": "through|through|merge_to_left",
+    "id": "way/1317599364"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5328779,
+        47.3222577
+      ],
+      [
+        8.5327608,
+        47.3224931
+      ],
+      [
+        8.5327169,
+        47.3225856
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317599365",
+  "properties": {
+    "change:lanes:forward": "yes|not_right|yes",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1317599365"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5331731,
+        47.321698
+      ],
+      [
+        8.5330394,
+        47.3219499
+      ],
+      [
+        8.5328945,
+        47.3222244
+      ],
+      [
+        8.5328779,
+        47.3222577
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317599366",
+  "properties": {
+    "highway": "motorway",
+    "lanes": "2",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1317599366"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5358693,
+        47.3182573
+      ],
+      [
+        8.5356469,
+        47.3184749
+      ],
+      [
+        8.5353809,
+        47.3187482
+      ],
+      [
+        8.5351333,
+        47.3190147
+      ],
+      [
+        8.5350386,
+        47.3191219
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317599367",
+  "properties": {
+    "change:lanes:forward": "yes|yes|no",
+    "highway": "motorway",
+    "lanes": "2",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through|through|right",
+    "id": "way/1317599367"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5348804,
+        47.319301
+      ],
+      [
+        8.5348287,
+        47.3193612
+      ],
+      [
+        8.534723,
+        47.3194841
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1317599368",
+  "properties": {
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through|through|right",
+    "id": "way/1317599368"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5350386,
+        47.3191219
+      ],
+      [
+        8.5348804,
+        47.319301
       ]
     ]
   }

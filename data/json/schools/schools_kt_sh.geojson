@@ -5359,65 +5359,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/299867719",
-  "properties": {
-    "addr:city": "Schaffhausen",
-    "addr:housenumber": "280",
-    "addr:postcode": "8200",
-    "addr:street": "Mühlentalstrasse",
-    "amenity": "school",
-    "building": "school",
-    "building:colour": "gold",
-    "building:levels": "3",
-    "building:material": "timber_frame",
-    "height": "20",
-    "name": "International School",
-    "roof:colour": "rosybrown",
-    "roof:height": "8.5",
-    "roof:levels": "3",
-    "roof:material": "roof_tiles",
-    "roof:orientation": "across",
-    "roof:shape": "gabled",
-    "id": "way/299867719"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6305735,
-          47.7245525
-        ],
-        [
-          8.6305962,
-          47.7243348
-        ],
-        [
-          8.6309352,
-          47.7243508
-        ],
-        [
-          8.6309326,
-          47.724375
-        ],
-        [
-          8.6309132,
-          47.7245613
-        ],
-        [
-          8.6309125,
-          47.7245685
-        ],
-        [
-          8.6305735,
-          47.7245525
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/299867722",
   "properties": {
     "amenity": "school",
@@ -6829,6 +6770,29 @@
     "coordinates": [
       8.6346151,
       47.6965585
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12196175894",
+  "properties": {
+    "amenity": "school",
+    "contact:addr": "Mühlentalstrasse 280, 8200 Schaffhausen",
+    "contact:email": "info@issh.ch",
+    "contact:facebook": "https://www.facebook.com/InternationalSchoolofSchaffhausen",
+    "contact:instagram": "https://www.instagram.com/issh_schaffhausen",
+    "contact:phone": "+41 52 6241707",
+    "name": "International School of Schaffhausen",
+    "website": "https://www.issh.ch",
+    "wikidata": "Q51855002",
+    "id": "node/12196175894"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6307579,
+      47.7244775
     ]
   }
 }

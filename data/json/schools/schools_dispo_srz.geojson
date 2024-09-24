@@ -22261,6 +22261,7 @@
   "id": "way/46154075",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-09-23",
     "name": "Primarschule Sonnenberg",
     "school": "primary",
     "id": "way/46154075"
@@ -23328,6 +23329,7 @@
     "addr:street": "Feldhofstrasse",
     "amenity": "school",
     "building": "yes",
+    "check_date": "2024-09-23",
     "name": "Schulhaus Sonnenberg",
     "id": "way/47362123"
   },
@@ -44583,64 +44585,68 @@
     "coordinates": [
       [
         [
-          8.4651452,
-          47.134123
+          8.4651439,
+          47.1341239
         ],
         [
-          8.4653274,
-          47.1339768
+          8.4653275,
+          47.1339773
         ],
         [
-          8.4653333,
+          8.4653328,
           47.1339804
         ],
         [
-          8.4653315,
+          8.4653312,
           47.1339817
         ],
         [
           8.4655367,
-          47.1341012
+          47.1341011
         ],
         [
           8.4655391,
-          47.1340993
+          47.1340992
         ],
         [
-          8.4655455,
+          8.4655463,
           47.1341034
         ],
         [
-          8.465482,
+          8.4654881,
+          47.1341498
+        ],
+        [
+          8.4654815,
           47.134155
         ],
         [
-          8.465488,
+          8.4654877,
           47.1341586
         ],
         [
           8.4654673,
-          47.1341744
+          47.1341748
         ],
         [
-          8.4654605,
-          47.13417
+          8.4654606,
+          47.1341709
         ],
         [
-          8.4653975,
-          47.1342201
+          8.4653976,
+          47.1342212
         ],
         [
-          8.4652708,
-          47.1341481
+          8.4652965,
+          47.1341625
         ],
         [
-          8.465235,
-          47.1341758
+          8.4652603,
+          47.1341914
         ],
         [
-          8.4651452,
-          47.134123
+          8.4651439,
+          47.1341239
         ]
       ]
     ]
@@ -61209,20 +61215,20 @@
           47.1343578
         ],
         [
-          8.4648854,
-          47.1344181
+          8.4649892,
+          47.1343706
         ],
         [
-          8.46466,
-          47.1341416
+          8.4647164,
+          47.1340827
         ],
         [
-          8.4650124,
-          47.1339851
+          8.4650103,
+          47.1339491
         ],
         [
-          8.4649012,
-          47.1338715
+          8.4649376,
+          47.1338687
         ],
         [
           8.4650817,
@@ -85450,65 +85456,6 @@
         [
           8.5877046,
           47.3259039
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/299867719",
-  "properties": {
-    "addr:city": "Schaffhausen",
-    "addr:housenumber": "280",
-    "addr:postcode": "8200",
-    "addr:street": "Mühlentalstrasse",
-    "amenity": "school",
-    "building": "school",
-    "building:colour": "gold",
-    "building:levels": "3",
-    "building:material": "timber_frame",
-    "height": "20",
-    "name": "International School",
-    "roof:colour": "rosybrown",
-    "roof:height": "8.5",
-    "roof:levels": "3",
-    "roof:material": "roof_tiles",
-    "roof:orientation": "across",
-    "roof:shape": "gabled",
-    "id": "way/299867719"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6305735,
-          47.7245525
-        ],
-        [
-          8.6305962,
-          47.7243348
-        ],
-        [
-          8.6309352,
-          47.7243508
-        ],
-        [
-          8.6309326,
-          47.724375
-        ],
-        [
-          8.6309132,
-          47.7245613
-        ],
-        [
-          8.6309125,
-          47.7245685
-        ],
-        [
-          8.6305735,
-          47.7245525
         ]
       ]
     ]
@@ -125838,6 +125785,7 @@
     "addr:postcode": "8810",
     "addr:street": "Seestrasse",
     "amenity": "school",
+    "check_date": "2024-09-23",
     "name": "Bildungszentrum Zürichsee, Horgen",
     "short_name": "BZZ Horgen",
     "wheelchair": "limited",
@@ -131402,6 +131350,29 @@
     "coordinates": [
       8.5869008,
       47.5246773
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12196175894",
+  "properties": {
+    "amenity": "school",
+    "contact:addr": "Mühlentalstrasse 280, 8200 Schaffhausen",
+    "contact:email": "info@issh.ch",
+    "contact:facebook": "https://www.facebook.com/InternationalSchoolofSchaffhausen",
+    "contact:instagram": "https://www.instagram.com/issh_schaffhausen",
+    "contact:phone": "+41 52 6241707",
+    "name": "International School of Schaffhausen",
+    "website": "https://www.issh.ch",
+    "wikidata": "Q51855002",
+    "id": "node/12196175894"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6307579,
+      47.7244775
     ]
   }
 }
