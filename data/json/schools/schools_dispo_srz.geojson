@@ -94429,6 +94429,7 @@
     "amenity": "school",
     "building": "school",
     "building:levels": "3",
+    "check_date": "2024-09-24",
     "name": "Schulhaus Alte Landstrasse",
     "roof:levels": "1",
     "roof:shape": "pyramidal",
@@ -97461,6 +97462,7 @@
   "id": "way/422973103",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-09-24",
     "name": "Sekundarschule Weisslingen",
     "id": "way/422973103"
   },

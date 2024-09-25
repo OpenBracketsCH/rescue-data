@@ -65840,40 +65840,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8148323984",
-  "properties": {
-    "barrier": "lift_gate",
-    "fee": "yes",
-    "lift_gate:type": "single",
-    "id": "node/8148323984"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5746917,
-      47.4536042
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8148323999",
-  "properties": {
-    "barrier": "lift_gate",
-    "fee": "yes",
-    "lift_gate:type": "single",
-    "id": "node/8148323999"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5747784,
-      47.4535632
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8155066131",
   "properties": {
     "access": "private",
@@ -85072,6 +85038,7 @@
     "barrier": "gate",
     "bicycle": "no",
     "foot": "no",
+    "maxheight": "2.1",
     "motorcar": "yes",
     "parking": "underground",
     "id": "node/10873334518"
