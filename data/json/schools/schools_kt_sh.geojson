@@ -2804,97 +2804,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/218274090",
-  "properties": {
-    "addr:city": "Schaffhausen",
-    "addr:country": "CH",
-    "addr:housenumber": "87",
-    "addr:postcode": "8201",
-    "addr:street": "Mühlenstrasse",
-    "amenity": "school",
-    "building": "commercial",
-    "building:levels": "3",
-    "name": "Sprachheilschule Marienstift",
-    "id": "way/218274090"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6245327,
-          47.692556
-        ],
-        [
-          8.6245388,
-          47.6925111
-        ],
-        [
-          8.6245221,
-          47.6925106
-        ],
-        [
-          8.6245243,
-          47.6924868
-        ],
-        [
-          8.624479,
-          47.6924846
-        ],
-        [
-          8.6244855,
-          47.6924403
-        ],
-        [
-          8.6245305,
-          47.6924425
-        ],
-        [
-          8.6245336,
-          47.6924199
-        ],
-        [
-          8.6245524,
-          47.6924207
-        ],
-        [
-          8.6245564,
-          47.6923765
-        ],
-        [
-          8.6247295,
-          47.6923883
-        ],
-        [
-          8.6247229,
-          47.6924315
-        ],
-        [
-          8.6247701,
-          47.6924354
-        ],
-        [
-          8.6247583,
-          47.6925239
-        ],
-        [
-          8.62471,
-          47.6925216
-        ],
-        [
-          8.6247036,
-          47.6925654
-        ],
-        [
-          8.6245327,
-          47.692556
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/219718126",
   "properties": {
     "amenity": "school",
@@ -5695,8 +5604,16 @@
           47.6989688
         ],
         [
-          8.6368216,
-          47.6990408
+          8.6368087,
+          47.6990084
+        ],
+        [
+          8.6368093,
+          47.6990452
+        ],
+        [
+          8.6368186,
+          47.6990967
         ],
         [
           8.6368333,
@@ -6793,6 +6710,25 @@
     "coordinates": [
       8.6307579,
       47.7244775
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12200073964",
+  "properties": {
+    "amenity": "school",
+    "contact:addr": "Mühlenstrasse 87, 8200 Schaffhausen",
+    "contact:phone": "+41 52 5505700",
+    "name": "Sprachheilschule Marienstift",
+    "website": "https://www.shss.ch/kontakt/#sprachheilschule-marienstift",
+    "id": "node/12200073964"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6246266,
+      47.6924795
     ]
   }
 }
