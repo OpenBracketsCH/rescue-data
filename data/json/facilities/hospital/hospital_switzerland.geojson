@@ -16116,8 +16116,8 @@
           46.3804779
         ],
         [
-          6.9222493,
-          46.381466
+          6.9222334,
+          46.3814606
         ],
         [
           6.9216375,
@@ -56860,6 +56860,25 @@
     "coordinates": [
       8.6683275,
       47.2300909
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12205845489",
+  "properties": {
+    "addr:floor": "1",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Medizin am Bahnhof",
+    "opening_hours": "Mo,Tu 08:00-12:00,13:00-18:00; We-Fr 08:00-12:00,13:00-17:00",
+    "id": "node/12205845489"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6750852,
+      47.2293448
     ]
   }
 }
