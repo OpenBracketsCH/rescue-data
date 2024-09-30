@@ -6793,10 +6793,15 @@
   "id": "node/9655661530",
   "properties": {
     "amenity": "pharmacy",
+    "check_date:opening_hours": "2024-09-30",
+    "dispensing": "yes",
     "healthcare": "pharmacy",
     "level": "-1",
-    "name": "Bahnhof",
+    "name": "Bahnhof Apotheke",
     "opening_hours": "Mo-Su 07:00-22:00",
+    "phone": "+41522691200",
+    "website": "https://achillea.ch/standorte/bahnhof-apotheke-winterthur",
+    "wheelchair": "yes",
     "id": "node/9655661530"
   },
   "geometry": {

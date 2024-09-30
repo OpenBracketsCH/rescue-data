@@ -598,6 +598,7 @@
     "addr:street": "Seestrasse",
     "amenity": "fire_station",
     "building": "yes",
+    "check_date": "2024-09-29",
     "name": "Feuerwehr Stäfa",
     "id": "way/32893880"
   },
