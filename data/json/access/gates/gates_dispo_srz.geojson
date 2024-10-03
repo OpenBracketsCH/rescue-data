@@ -64358,6 +64358,7 @@
   "properties": {
     "access": "private",
     "barrier": "gate",
+    "locked": "yes",
     "material": "steel",
     "wheelchair": "no",
     "id": "node/7817864384"
@@ -99068,6 +99069,21 @@
     "coordinates": [
       8.7155249,
       47.4141206
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12216392021",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/12216392021"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7155185,
+      47.4132727
     ]
   }
 }

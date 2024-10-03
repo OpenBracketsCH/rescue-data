@@ -3868,6 +3868,10 @@
   "type": "Feature",
   "id": "way/170975540",
   "properties": {
+    "addr:city": "Allenwinden",
+    "addr:housenumber": "18",
+    "addr:postcode": "6319",
+    "addr:street": "Dorfstrasse",
     "amenity": "school",
     "building": "yes",
     "id": "way/170975540"
@@ -8755,6 +8759,7 @@
   "type": "Feature",
   "id": "node/6975271489",
   "properties": {
+    "addr:city": "Baar",
     "addr:housenumber": "4",
     "addr:postcode": "6340",
     "addr:street": "Inwilerstrasse",

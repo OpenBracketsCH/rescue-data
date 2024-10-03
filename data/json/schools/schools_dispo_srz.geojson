@@ -7643,6 +7643,7 @@
     "addr:street": "Lerchenhalde",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-10-02",
     "isced:level": "1",
     "name": "Schulhaus Schauenberg",
     "start_date": "2019-08-19",
@@ -54062,6 +54063,10 @@
   "type": "Feature",
   "id": "way/170975540",
   "properties": {
+    "addr:city": "Allenwinden",
+    "addr:housenumber": "18",
+    "addr:postcode": "6319",
+    "addr:street": "Dorfstrasse",
     "amenity": "school",
     "building": "yes",
     "id": "way/170975540"
@@ -98667,6 +98672,7 @@
   "id": "way/427294441",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-10-02",
     "contact:city": "Zürich",
     "contact:housenumber": "40a",
     "contact:phone": "+41 44 413 12 21",
@@ -107235,6 +107241,7 @@
   "type": "Feature",
   "id": "way/554494709",
   "properties": {
+    "alt_name": "Primarschule Schachenmatten",
     "amenity": "school",
     "isced:level": "0;1",
     "name": "Primarschule Bonstetten",
@@ -128062,6 +128069,7 @@
   "type": "Feature",
   "id": "node/6975271489",
   "properties": {
+    "addr:city": "Baar",
     "addr:housenumber": "4",
     "addr:postcode": "6340",
     "addr:street": "Inwilerstrasse",
