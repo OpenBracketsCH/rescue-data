@@ -56061,6 +56061,7 @@
     "operator": "BSZ Stiftung",
     "social_facility:for": "disabled",
     "website": "https://bsz-stiftung.ch/",
+    "wheelchair": "yes",
     "id": "node/9468887464"
   },
   "geometry": {
