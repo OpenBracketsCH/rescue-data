@@ -48996,6 +48996,23 @@
       47.2319221
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12222057029",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "wandelbar",
+    "phone": "+41795430812",
+    "id": "node/12222057029"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.663169,
+      47.2310774
+    ]
+  }
 }
 ]
 }

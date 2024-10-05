@@ -6167,80 +6167,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/42156983",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "11",
-    "addr:postcode": "8046",
-    "addr:street": "Riedenhaldenstrasse",
-    "alt_name": "Sune-Egge",
-    "amenity": "social_facility",
-    "building": "yes",
-    "building:levels": "4",
-    "email": "info@swsieber.ch",
-    "name": "Sozialwerk Pfarrer Sieber",
-    "opening_hours": "Mo-Fr 08:00-17:00; Sa 10:00-16:00",
-    "operator": "Sozialwerk Pfarrer Sieber",
-    "phone": "+41 43 336 50 80",
-    "social_facility": "outreach",
-    "website": "https://www.swsieber.ch/",
-    "id": "way/42156983"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5176175,
-          47.414965
-        ],
-        [
-          8.51767,
-          47.415084
-        ],
-        [
-          8.5174019,
-          47.4151521
-        ],
-        [
-          8.5173966,
-          47.4151535
-        ],
-        [
-          8.5173112,
-          47.4149996
-        ],
-        [
-          8.5173068,
-          47.4150007
-        ],
-        [
-          8.5172059,
-          47.414819
-        ],
-        [
-          8.5172041,
-          47.4148158
-        ],
-        [
-          8.5174938,
-          47.4147421
-        ],
-        [
-          8.5174957,
-          47.4147456
-        ],
-        [
-          8.5176175,
-          47.414965
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/42304750",
   "properties": {
     "addr:city": "Bülach",
@@ -37772,81 +37698,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/549743055",
-  "properties": {
-    "addr:city": "Dübendorf",
-    "addr:housenumber": "26",
-    "addr:postcode": "8600",
-    "addr:street": "Riedweg",
-    "amenity": "social_facility",
-    "building": "yes",
-    "contact:phone": "+41 58 461 41 35",
-    "contact:website": "https://www.duebendorf.ch/aktuellesinformationen/1762852",
-    "name": "Bundesasylzentrum Dübendorf",
-    "operator": "SEM",
-    "short_name": "BAZ",
-    "social_facility": "shelter",
-    "social_facility:for": "refugee",
-    "id": "way/549743055"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.623838,
-          47.4030668
-        ],
-        [
-          8.6238345,
-          47.4030681
-        ],
-        [
-          8.62379,
-          47.4029542
-        ],
-        [
-          8.6237841,
-          47.4029555
-        ],
-        [
-          8.6237812,
-          47.4029457
-        ],
-        [
-          8.6238533,
-          47.402932
-        ],
-        [
-          8.6238507,
-          47.4029237
-        ],
-        [
-          8.6239691,
-          47.4029015
-        ],
-        [
-          8.6239726,
-          47.4029105
-        ],
-        [
-          8.6240447,
-          47.4028962
-        ],
-        [
-          8.6240935,
-          47.4030191
-        ],
-        [
-          8.623838,
-          47.4030668
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/551489917",
   "properties": {
     "addr:city": "Stallikon",
@@ -53864,6 +53715,10 @@
   "id": "node/8152206418",
   "properties": {
     "access": "yes",
+    "addr:city": "Zürich",
+    "addr:housenumber": "10",
+    "addr:postcode": "8050",
+    "addr:street": "Gubelstrasse",
     "amenity": "social_facility",
     "brand:wikipedia": "de:Foodsharing.de",
     "covered": "no",
