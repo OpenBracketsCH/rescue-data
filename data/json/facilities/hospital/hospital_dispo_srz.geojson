@@ -14339,30 +14339,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/12157136438",
-  "properties": {
-    "addr:city": "Dübendorf",
-    "addr:housenumber": "4",
-    "addr:postcode": "8600",
-    "addr:street": "Lindenstrasse",
-    "amenity": "hospital",
-    "healthcare": "hospital",
-    "healthcare:speciality": "dentist;general",
-    "name": "Zahnimplantat Experten",
-    "phone": "+41 78 311 5065",
-    "website": "https://www.zahnimplantat-experten.ch",
-    "id": "node/12157136438"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6200751,
-      47.397881
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/12169834308",
   "properties": {
     "addr:city": "Wetzikon",
