@@ -44081,6 +44081,8 @@
   "id": "node/7056876666",
   "properties": {
     "amenity": "social_facility",
+    "brand": "Madame Frigo",
+    "brand:website": "https://www.madamefrigo.ch/",
     "description": "Haupteingang auf der Westseite des Gebäudes, Türe zum Treppenhaus, verborgene Türe hinter dem freistehenden Treppenaufgang.",
     "email": "info@foodsharingschweiz.ch",
     "level": "0",

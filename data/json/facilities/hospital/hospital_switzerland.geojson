@@ -51559,6 +51559,7 @@
     "addr:housenumber": "17",
     "addr:street": "Rue Alfred-Vincent",
     "amenity": "clinic",
+    "check_date:opening_hours": "2024-10-06",
     "healthcare": "centre",
     "name": "Centre médical du Léman",
     "opening_hours": "Mo-Fr 08:00-18:00",

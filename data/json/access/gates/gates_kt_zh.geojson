@@ -8455,6 +8455,7 @@
   "properties": {
     "access": "private",
     "barrier": "gate",
+    "locked": "yes",
     "material": "wood",
     "id": "node/635039998"
   },
@@ -58494,43 +58495,6 @@
     "coordinates": [
       8.5418415,
       47.4250335
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8596007198",
-  "properties": {
-    "barrier": "gate",
-    "bicycle": "no",
-    "horse": "no",
-    "motor_vehicle": "no",
-    "id": "node/8596007198"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6872804,
-      47.4064625
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8596007199",
-  "properties": {
-    "barrier": "gate",
-    "bicycle": "no",
-    "foot": "no",
-    "horse": "no",
-    "motor_vehicle": "no",
-    "id": "node/8596007199"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6881728,
-      47.4053548
     ]
   }
 },

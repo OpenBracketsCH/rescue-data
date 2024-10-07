@@ -354,25 +354,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9310121050",
-  "properties": {
-    "healthcare": "vaccination_centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impf Pop-Up Panoramacenter Thun",
-    "vaccination": "covid19",
-    "website": "https://covid-kennzahlen.apps.be.ch/#/de/search",
-    "id": "node/9310121050"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.6046575,
-      46.7438657
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9310146361",
   "properties": {
     "healthcare": "vaccination_centre",
