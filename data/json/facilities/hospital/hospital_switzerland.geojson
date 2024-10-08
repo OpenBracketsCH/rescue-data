@@ -51816,6 +51816,7 @@
   "properties": {
     "healthcare": "clinic",
     "name": "Centre Médical de Morges",
+    "wheelchair": "yes",
     "id": "node/4155008523"
   },
   "geometry": {

@@ -26859,13 +26859,11 @@
   "type": "Feature",
   "id": "node/9545837617",
   "properties": {
-    "access": "yes",
+    "access": "private",
     "defibrillator:location": "Bülach Kaserne 3 EG",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "24/7",
-    "operator": "Armee",
     "id": "node/9545837617"
   },
   "geometry": {
@@ -63698,6 +63696,49 @@
     "coordinates": [
       8.6807603,
       47.3869643
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12231862904",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingang Truppengebäude",
+    "description": "Zugang links - öffentlich zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "operator": "ALC-H",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12231862904"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8348424,
+      47.3018101
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12232424601",
+  "properties": {
+    "defibrillator:location": "Zentrum Breitestein ",
+    "description": "Während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Zentrum Breitestein ",
+    "id": "node/12232424601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6793977,
+      47.5939614
     ]
   }
 }

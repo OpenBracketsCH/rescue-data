@@ -43348,6 +43348,23 @@
       47.2310774
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12232829773",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "kinder campus",
+    "website": "https://www.kinder-campus.ch",
+    "id": "node/12232829773"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4940943,
+      47.3843381
+    ]
+  }
 }
 ]
 }
