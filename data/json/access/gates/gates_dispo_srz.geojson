@@ -38407,6 +38407,7 @@
   "type": "Feature",
   "id": "node/3595071711",
   "properties": {
+    "access": "no",
     "barrier": "gate",
     "id": "node/3595071711"
   },
@@ -99133,6 +99134,22 @@
     "coordinates": [
       8.6949316,
       47.4114667
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12234347595",
+  "properties": {
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "node/12234347595"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3873594,
+      47.4068709
     ]
   }
 }

@@ -3600,6 +3600,7 @@
     "amenity": "school",
     "building": "school",
     "building:levels": "2",
+    "check_date": "2024-10-09",
     "isced:level": "0;1",
     "name": "Schulhaus Neubühl",
     "roof:levels": "0",
@@ -48453,6 +48454,7 @@
     "amenity": "school",
     "building": "school",
     "building:levels": "1",
+    "check_date": "2024-10-09",
     "name": "Tagesschule Neubühl",
     "roof:levels": "0",
     "roof:shape": "flat",
@@ -96080,6 +96082,10 @@
         [
           8.6596293,
           47.2284327
+        ],
+        [
+          8.6595522,
+          47.2283824
         ],
         [
           8.659401,

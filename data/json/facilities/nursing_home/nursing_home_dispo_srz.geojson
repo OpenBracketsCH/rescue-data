@@ -32400,6 +32400,7 @@
     "addr:postcode": "8400",
     "addr:street": "Tösstalstrasse",
     "amenity": "social_facility",
+    "check_date": "2024-10-08",
     "name": "Pension Bugatti",
     "social_facility": "group_home",
     "social_facility:for": "mental_health",

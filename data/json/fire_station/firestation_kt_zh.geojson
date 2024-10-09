@@ -6540,6 +6540,7 @@
     "addr:housenumber": "8b",
     "addr:street": "Dorfstrasse",
     "amenity": "fire_station",
+    "check_date": "2024-10-08",
     "name": "Feuerwehr Hettlingen-Dägerlen - Depot Rutschwil",
     "operator": "Feuerwehr Hettlingen-Dägerlen",
     "website": "https://fw-he-da.ch",
