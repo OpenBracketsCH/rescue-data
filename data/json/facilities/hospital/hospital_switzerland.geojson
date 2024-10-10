@@ -21239,6 +21239,93 @@
 },
 {
   "type": "Feature",
+  "id": "way/295238396",
+  "properties": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "healthcare": "hospital",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "id": "way/295238396"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.4369073,
+          46.6974934
+        ],
+        [
+          9.4368316,
+          46.6974019
+        ],
+        [
+          9.4368899,
+          46.697234
+        ],
+        [
+          9.4368443,
+          46.6971853
+        ],
+        [
+          9.4366713,
+          46.6971844
+        ],
+        [
+          9.4365793,
+          46.6970734
+        ],
+        [
+          9.4366992,
+          46.69703
+        ],
+        [
+          9.4369588,
+          46.6970319
+        ],
+        [
+          9.436979,
+          46.6970551
+        ],
+        [
+          9.4371455,
+          46.6969955
+        ],
+        [
+          9.4373439,
+          46.6972372
+        ],
+        [
+          9.437158,
+          46.6973051
+        ],
+        [
+          9.437103,
+          46.6972416
+        ],
+        [
+          9.4370915,
+          46.6972462
+        ],
+        [
+          9.4371178,
+          46.6972768
+        ],
+        [
+          9.4370455,
+          46.697446
+        ],
+        [
+          9.4369073,
+          46.6974934
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/295261008",
   "properties": {
     "addr:city": "Nyon",
@@ -39118,8 +39205,8 @@
           46.6968317
         ],
         [
-          9.4368964,
-          46.6965612
+          9.4369285,
+          46.6965873
         ],
         [
           9.4370453,
@@ -56911,6 +56998,7 @@
   "properties": {
     "addr:postcode": "7188",
     "amenity": "clinic",
+    "healthcare": "clinic",
     "name": "Немецкий",
     "id": "node/12065171669"
   },
@@ -57129,6 +57217,31 @@
     "coordinates": [
       8.6750852,
       47.2293448
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12239538793",
+  "properties": {
+    "addr:city": "Küttigen",
+    "addr:housenumber": "58c",
+    "addr:postcode": "5024",
+    "addr:street": "Hauptstrasse",
+    "amenity": "clinic",
+    "email": "praxis-kuettigen@hin.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general",
+    "name": "Praxis Küttigen",
+    "phone": "+41 62 827 11 25",
+    "website": "www.praxis-kuettigen.ch",
+    "id": "node/12239538793"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0484378,
+      47.4169447
     ]
   }
 }
