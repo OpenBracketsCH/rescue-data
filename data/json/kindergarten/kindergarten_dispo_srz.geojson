@@ -3562,7 +3562,9 @@
   "type": "Feature",
   "id": "way/42315673",
   "properties": {
+    "addr:city": "Bülach",
     "addr:housenumber": "43a",
+    "addr:postcode": "8180",
     "addr:street": "Allmendstrasse",
     "amenity": "kindergarten",
     "building": "yes",
@@ -32089,6 +32091,9 @@
   "type": "Feature",
   "id": "way/792519807",
   "properties": {
+    "addr:city": "Bülach",
+    "addr:housenumber": "43c",
+    "addr:postcode": "8180",
     "addr:street": "Allmendstrasse",
     "amenity": "kindergarten",
     "building": "yes",

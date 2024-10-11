@@ -54359,6 +54359,8 @@
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Gega (Gelbhausgarten)",
+    "wikidata": "Q29787676",
+    "wikimedia_commons": "Category:Schulhaus Gelbhausgarten (Bachstrasse 64, Schaffhausen)",
     "id": "way/172344953"
   },
   "geometry": {
