@@ -54138,8 +54138,8 @@
   "properties": {
     "addr:city": "Luzern",
     "addr:housenumber": "1",
-    "addr:postcode": "6000",
-    "addr:street": "Sonnmatt",
+    "addr:place": "Sonnmatt",
+    "addr:postcode": "6006",
     "amenity": "clinic",
     "email": "luzern@zurzachcare.ch",
     "healthcare": "clinic",
