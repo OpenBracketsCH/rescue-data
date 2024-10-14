@@ -10332,6 +10332,7 @@
   "id": "way/88183205",
   "properties": {
     "amenity": "hospital",
+    "check_date": "2024-10-13",
     "name": "Foyer Eynard Fatio",
     "id": "way/88183205"
   },
@@ -33043,6 +33044,7 @@
     "addr:postcode": "1347",
     "addr:street": "Rue de l'Hôpital",
     "amenity": "hospital",
+    "check_date": "2024-10-13",
     "healthcare": "hospital",
     "name": "Hôpital de la Vallée de Joux",
     "operator": "Etablissements Hospitaliers du Nord Vaudois",
@@ -55527,6 +55529,7 @@
     "addr:housenumber": "100",
     "addr:street": "Route de Frontenex",
     "amenity": "hospital",
+    "check_date": "2024-10-13",
     "emergency": "no",
     "healthcare": "hospital",
     "healthcare:speciality": "psychiatry",

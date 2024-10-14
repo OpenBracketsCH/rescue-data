@@ -32679,6 +32679,7 @@
     "addr:street": "Dettenriederstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-10-13",
     "name": "Sekundarschule Berg",
     "id": "way/93119365"
   },
