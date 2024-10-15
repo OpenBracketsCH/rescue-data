@@ -43218,12 +43218,12 @@
           46.7999649
         ],
         [
-          10.3033693,
-          46.7996261
+          10.3035366,
+          46.7994305
         ],
         [
-          10.3042679,
-          46.7998391
+          10.304359,
+          46.7996482
         ],
         [
           10.3042907,
@@ -51522,8 +51522,9 @@
     "healthcare": "clinic",
     "name": "Centre Médical Arcades EPFL",
     "opening_hours": "Mo-Fr 08:00-18:00",
+    "operator": "Ensemble Hospitalier de la Côte",
     "phone": "+41 21 614 63 63",
-    "website": "http://www.cm-arcadesepfl.ch/",
+    "website": "https://www.ehc-vd.ch/centremedical-arcadesepfl",
     "id": "node/2749268419"
   },
   "geometry": {

@@ -23625,6 +23625,7 @@
   "properties": {
     "access": "no",
     "barrier": "gate",
+    "locked": "no",
     "id": "node/2140400952"
   },
   "geometry": {
@@ -95803,6 +95804,7 @@
   "id": "node/11869396775",
   "properties": {
     "barrier": "gate",
+    "locked": "yes",
     "id": "node/11869396775"
   },
   "geometry": {
@@ -95820,6 +95822,7 @@
     "access": "private",
     "amenity": "parking_entrance",
     "barrier": "gate",
+    "locked": "yes",
     "parking": "underground",
     "id": "node/11869396776"
   },
@@ -99239,6 +99242,40 @@
     "coordinates": [
       8.6856867,
       47.2230777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12250992369",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/12250992369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6694553,
+      47.2621935
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12250992370",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "material": "metal",
+    "id": "node/12250992370"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6698714,
+      47.2620351
     ]
   }
 }
