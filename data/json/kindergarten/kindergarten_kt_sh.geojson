@@ -591,8 +591,11 @@
     "addr:street": "Munothaldenweg",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kindergarten_Munothalde_Munothaldenweg_Schaffhausen.jpg/800px-Kindergarten_Munothalde_Munothaldenweg_Schaffhausen.jpg",
     "name": "Kindergarten Munothalde",
     "roof:shape": "flat",
+    "wikidata": "Q29787619",
+    "wikimedia_commons": "Category:Kindergarten Munothalde (Munothaldenweg Schaffhausen)",
     "id": "way/172344943"
   },
   "geometry": {
@@ -2704,6 +2707,7 @@
     "addr:street": "Sonnenstrasse",
     "amenity": "kindergarten",
     "building": "yes",
+    "check_date": "2024-10-20",
     "name": "Kindergarten Ramsen",
     "id": "way/345571677"
   },

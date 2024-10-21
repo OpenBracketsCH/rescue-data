@@ -673,65 +673,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/218177091",
-  "properties": {
-    "addr:city": "Schaffhausen",
-    "addr:housenumber": "21",
-    "addr:postcode": "8200",
-    "addr:street": "Stokarbergstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Alterszentrum Breite - Steig",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "id": "way/218177091"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6256764,
-          47.6979704
-        ],
-        [
-          8.6256755,
-          47.6979452
-        ],
-        [
-          8.6256725,
-          47.6978574
-        ],
-        [
-          8.6256721,
-          47.6978459
-        ],
-        [
-          8.6259632,
-          47.6978414
-        ],
-        [
-          8.6259654,
-          47.6979066
-        ],
-        [
-          8.62611,
-          47.6979043
-        ],
-        [
-          8.626112,
-          47.6979636
-        ],
-        [
-          8.6256764,
-          47.6979704
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/218668257",
   "properties": {
     "addr:city": "Schaffhausen",
@@ -2125,6 +2066,7 @@
     "addr:street": "Oberdorf",
     "amenity": "nursing_home",
     "building": "yes",
+    "check_date": "2024-10-20",
     "name": "BACHWIESEN Alters- und Pflegeheim",
     "id": "way/275232016"
   },
@@ -2732,16 +2674,16 @@
           47.6976015
         ],
         [
-          8.6261528,
+          8.626154,
           47.6979928
         ],
         [
-          8.6261139,
-          47.6979944
+          8.6261124,
+          47.6979939
         ],
         [
-          8.6256205,
-          47.6980145
+          8.6256151,
+          47.6980119
         ],
         [
           8.6249883,
@@ -2855,6 +2797,26 @@
     "coordinates": [
       8.6399566,
       47.7153734
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12258603420",
+  "properties": {
+    "addr:full": "Stokarbergstrasse 21, 8200 Schaffhausen",
+    "amenity": "social_facility",
+    "name": "Alterszentrum Breite - Steig",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "website": "http://www.alterszentrum-breite.ch/DAS-HAUS-STEIG.10295.0.html",
+    "id": "node/12258603420"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6257544,
+      47.6979128
     ]
   }
 }

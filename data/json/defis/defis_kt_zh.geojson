@@ -4092,10 +4092,12 @@
   "type": "Feature",
   "id": "node/7672703045",
   "properties": {
-    "defibrillator:location": "beim Eingang zum Polizeiposten",
+    "access": "yes",
+    "defibrillator:location": "beim Eingang zum Polizeiposten, grüner Kasten an der Wand",
     "description": "Videoüberwacht und unter Alarm",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "id": "node/7672703045"
   },
@@ -13244,26 +13246,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8557229633",
-  "properties": {
-    "defibrillator:location": "Im Sanitätsfahrzeug",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-Th 07:00-11:30,13:30-17:00; Fr 07:00-11:30,13:30-15:00",
-    "operator": "Feuerwehr Kilchberg-Rüschlikon",
-    "id": "node/8557229633"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5453979,
-      47.3193841
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8557268873",
   "properties": {
     "access": "yes",
@@ -19107,7 +19089,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-We, Fr 08:00-12:00, 14:00-18:00, Th 08:00-12:00",
+    "level": "1",
+    "opening_hours": "Mo-We,Fr 08:00-12:00,14:00-18:00; Th 08:00-12:00",
     "operator": "Praxis",
     "phone": "+41 55 246 18 55",
     "id": "node/8841209217"
@@ -27220,12 +27203,12 @@
   "id": "node/9604790439",
   "properties": {
     "access": "private",
-    "defibrillator:location": "VZ VermögensZentrum \nIn der Küche\n1396 LTM",
+    "defibrillator:location": "VZ VermögensZentrum In der Küche 1396 LTM",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1.og",
+    "level": "1",
     "name": "VZ VermögensZentrum Meilen",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Lifetec AG Schweiz",
@@ -33808,10 +33791,10 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Restaurant Föhrenwäldli beim Haupteingang",
-    "description": "immer verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "id": "node/10106136122"
   },
   "geometry": {
@@ -39817,12 +39800,11 @@
   "properties": {
     "access": "no",
     "defibrillator:location": "4. OG, Grossraumbüro / Küche",
-    "description": "oranger Koffer 0955LTM",
+    "description": "oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "4.OG",
-    "name": "MLL Meyerlustenberger Lachenal Froriep AG",
+    "level": "4",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "ref": "0955LTM",
@@ -42594,30 +42576,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10763310039",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "EG, Eingang Mensa (TB 215)",
-    "description": "oranger Koffer",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "name": "Zürcher Hochschule für Angewandte Wissenschaften",
-    "opening_hours": "Mo-Fr 07:00-19:00, Sa 07:00-14:00",
-    "operator": "Lifetec AG Schweiz",
-    "phone": "+41 800 122 144",
-    "id": "node/10763310039"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.72965,
-      47.4968
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10763310040",
   "properties": {
     "access": "yes",
@@ -45203,13 +45161,12 @@
   "type": "Feature",
   "id": "node/10814304005",
   "properties": {
-    "defibrillator:location": "Rosenthalstr.7b physio.works GmbH",
-    "description": "während Öffnungszeiten verfügbar Fensterbank Nordseite (Sicht auf Pflegezentrum) im Trainingsraum",
+    "defibrillator:location": "Rosenthalstr. 7b, physio.works GmbH",
+    "description": "Fensterbank Nordseite (Sicht auf Pflegezentrum) im Trainingsraum",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "fixme": "Multiple levels specified. Is there multiple AEDs that should be mapped independently?",
     "indoor": "yes",
-    "level": "1. Stock Eingang 7a, EG Eingang 7b",
+    "level": "1",
     "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-16:00",
     "operator": "physio.works GmbH",
     "phone": "+41552463839",
@@ -46216,7 +46173,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "Erdgeschoss",
+    "level": "0",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Arztpraxis",
     "phone": "+41449542111",
@@ -46257,39 +46214,14 @@
   "type": "Feature",
   "id": "node/10926286805",
   "properties": {
-    "defibrillator:location": "Räffelstrasse 26",
-    "description": "während Arbeitszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "10. OG",
+    "level": "10",
     "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "Husqvarna Schweiz AG",
-    "phone": "044 533 35 11",
+    "phone": "+41 44 533 35 11",
     "id": "node/10926286805"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5124579,
-      47.3615054
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10926292305",
-  "properties": {
-    "defibrillator:location": "Räffelstrasse 26",
-    "description": "während Arbeitszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "10. OG",
-    "opening_hours": "Mo-Fr 08:00-17:00",
-    "operator": "Husqvarna Schweiz AG",
-    "phone": "044 533 35 11",
-    "id": "node/10926292305"
   },
   "geometry": {
     "type": "Point",
@@ -47394,8 +47326,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "latitude": "47.36352",
-    "longitude": "8.51269",
+    "level": "4",
     "name": "CMS von Erlach Partners AG",
     "opening_hours": "Mo-Fr 08:00-19:00",
     "operator": "Lifetec AG",
@@ -47990,13 +47921,12 @@
   "id": "node/11038063817",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "biz Winterthur, ",
-    "description": "Während den Öffnungszeiten verfügbar (Ausnahme: Feiertage)",
+    "defibrillator:location": "biz Winterthur",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "3. OG",
-    "opening_hours": "Mo-Fr 08:00-17:00, Sa 10:00-13:00; PH off",
+    "level": "3",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 10:00-13:00",
     "operator": "biz Winterthur",
     "phone": "+41 43 259 82 82",
     "id": "node/11038063817"
@@ -48628,9 +48558,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "level": "3. OG",
-    "opening_hours": "Mo-Do: 07:30-12:00 13:00-17:00 Fr: 07:30-12:00 13:00-16:30",
-    "operator": "Firma",
+    "level": "3",
+    "opening_hours": "Mo-Th 07:30-12:00,13:00-17:00; Fr 07:30-12:00,13:00-16:30",
     "phone": "+41583566200",
     "id": "node/11137851739"
   },
@@ -48738,36 +48667,13 @@
 },
 {
   "type": "Feature",
-  "id": "node/11162322006",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Schule Allmend (Spezialtrakt Haus C)",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "level": "EG drausen neben Eingang",
-    "opening_hours": "24/7",
-    "operator": "Schulgemeinde Meilen",
-    "id": "node/11162322006"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6476856,
-      47.2719834
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11169526141",
   "properties": {
-    "defibrillator:location": "Im innern des Gebäudes",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1. Stock",
-    "opening_hours": "Mo - Fr 08.00 - 17.00",
+    "level": "1",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "Belvédère Asset Management",
     "phone": "+41432447777",
     "id": "node/11169526141"
@@ -48966,11 +48872,11 @@
   "id": "node/11203495938",
   "properties": {
     "access": "no",
-    "defibrillator:location": "In den Sxheanden 2",
+    "defibrillator:location": "Im Anbau EG",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "Anbau EG",
+    "level": "0",
     "operator": "Pfadi Säuliamt",
     "id": "node/11203495938"
   },
@@ -49075,12 +48981,11 @@
   "type": "Feature",
   "id": "node/11220805237",
   "properties": {
-    "access": "no",
     "defibrillator:location": "Alte Winterthurerstrasse 14b, 8304 Wallisellen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "2. OG",
+    "level": "2",
     "operator": "Bischofberger AG",
     "phone": "+41 44 809 79 79",
     "id": "node/11220805237"
@@ -49381,8 +49286,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "3. OG",
-    "opening_hours": "Mo - Fr 08.00h - 17.00h",
+    "level": "3",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "TREK Office CH",
     "phone": "+41448248500",
     "id": "node/11235990337"
@@ -49404,7 +49309,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1 stock",
+    "level": "1",
     "opening_hours": "24/7",
     "operator": "Blindenheim Mühlehalde",
     "id": "node/11238699637"
@@ -49700,7 +49605,6 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Schulanlage Allmend, Haus C, Spezialtrakt, Eingang aussen",
-    "description": "Jederzeit verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -49714,8 +49618,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6476663,
-      47.2720315
+      8.6476639,
+      47.27204
     ]
   }
 },
@@ -49849,7 +49753,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "3. OG",
+    "level": "3",
     "opening_hours": "Mo-Fr: 08:00-18:00",
     "operator": "Pensimo Management AG",
     "phone": "+41445180200",
@@ -50257,7 +50161,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "Erdgeschoss",
+    "level": "0",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Praxis Dr.med. Anja Fäh, Cardiopark AG",
     "phone": "+41442018020",
@@ -50623,13 +50527,12 @@
   "type": "Feature",
   "id": "node/11357825969",
   "properties": {
-    "defibrillator:location": "Überbauung TownVillage",
-    "description": "Während Öffnungszeiten",
+    "defibrillator:location": "EG gleich beim Empfang/Kafi Theodor Überbauung TownVillage",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "EG gleich beim Empfang/Kafi Theodor",
-    "opening_hours": "Mo-Fr: 08:00-17:30",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-17:30",
     "operator": "Quellenhof-Stiftung, Sicherheitsbeauftragte/-r",
     "phone": "+41522451313",
     "id": "node/11357825969"
@@ -50647,12 +50550,12 @@
   "id": "node/11357843969",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Kongresszentrum Parkarena",
+    "defibrillator:location": "EG Raum neben Saaleingang links Kongresszentrum Parkarena",
     "description": "Während Veranstaltungen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "EG Raum neben Saaleingang links",
+    "level": "0",
     "operator": "GvC Winterthur",
     "phone": "+41522451414",
     "id": "node/11357843969"
@@ -50674,7 +50577,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1. OG",
+    "level": "1",
     "operator": "Quellenhof-Stiftung, Sicherheitsbeauftragte/-r",
     "phone": "+41522451313",
     "id": "node/11357923369"
@@ -50967,7 +50870,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "Erdgeschoss ",
+    "level": "0",
     "operator": "Primarschule Ottenbach",
     "id": "node/11375490684"
   },
@@ -50984,12 +50887,12 @@
   "id": "node/11379798269",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Beim Empfang links an der Wand ",
-    "description": "wärend Öffnungszeiten ",
+    "defibrillator:location": "Beim Empfang links an der Wand",
+    "description": "während Öffnungszeiten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "2 OG",
+    "level": "2",
     "operator": "Seuzifit",
     "id": "node/11379798269"
   },
@@ -51200,7 +51103,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1.OG",
+    "level": "1",
     "opening_hours": "24/7",
     "operator": "Schule",
     "id": "node/11394696369"
@@ -51217,13 +51120,12 @@
   "type": "Feature",
   "id": "node/11396720069",
   "properties": {
-    "access": "yes",
-    "defibrillator:location": "Lobby ASVZ, Gang zum Kraft/Cardio",
+    "defibrillator:location": "Lobby ASVZ, Gang zum Kraft/Cardio.",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "ASVZ Kraft Cardio",
+    "level": "0",
     "operator": "ASVZ",
     "id": "node/11396720069"
   },
@@ -52212,9 +52114,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "5. OG",
+    "level": "5",
     "opening_hours": "Mo-Fr 8:00-17:00",
-    "operator": "Firma",
     "phone": "+41444211919",
     "id": "node/11510563569"
   },
@@ -52655,14 +52556,13 @@
   "type": "Feature",
   "id": "node/11530797569",
   "properties": {
-    "access": "yes",
     "defibrillator:location": "Gesundheitszentrum Gut",
-    "description": "wärend den Öffnungszeiten verfügbar 2.OG beim Eingang Kraftraumpersonal immer vor Ort",
+    "description": "2.OG beim Eingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "2.OG",
-    "opening_hours": "Mo 07:00-21:00;Tu 07:00-21:00;We 07:00-21:00;Th 07:00-21:00;Fr 07:00-20:00;Sa 08:00-15:00;Su 08:00-15:00",
+    "level": "2",
+    "opening_hours": "Mo-Th 07:00-21:00; Fr 07:00-20:00; Sa 08:00-15:00; Su 08:00-15:00",
     "operator": "Gesundheitszentrum",
     "phone": "+41447683015",
     "id": "node/11530797569"
@@ -52910,8 +52810,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "2.OG",
-    "opening_hours": "Mo-Fr   09:00 -16:00",
+    "level": "2",
+    "opening_hours": "Mo-Fr 09:00-16:00",
     "operator": "Berufswahlschule Uster",
     "phone": "+41434442344",
     "id": "node/11576274769"
@@ -52990,14 +52890,13 @@
   "type": "Feature",
   "id": "node/11580402270",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "dachlissen 27, 8932 Mettmenstetten",
+    "access": "permissive",
     "description": "während den Öffnungszeiten-flexibel",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1.OG",
-    "operator": "Familienbetrieb",
+    "level": "1",
+    "operator:type": "private",
     "phone": "+41793732128",
     "id": "node/11580402270"
   },
@@ -53043,21 +52942,21 @@
   "id": "node/11584300070",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Weid-Kafi am Gebäude Hinterseite",
+    "defibrillator:location": "Weid-Kafi am Gebäude Hinterseite. Aussenwand.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "level": "Aussenwand",
+    "level": "0",
     "opening_hours": "24/7",
-    "operator": "stiftung zzr weid",
+    "operator": "Stiftung zur Weid",
     "phone": "+41447685080",
     "id": "node/11584300070"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4846568,
-      47.2315937
+      8.4846323,
+      47.2315715
     ]
   }
 },
@@ -53091,11 +52990,10 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Kaffee-Ecke",
-    "description": "während den Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "3. OG",
+    "level": "3",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "tourasia Roemer AG",
     "phone": "+410432333090",
@@ -53883,11 +53781,10 @@
   "id": "node/11645675669",
   "properties": {
     "defibrillator:location": "Geschäftshaus, im Erdgeschoss läuten.",
-    "description": "Während den Öffnungszeiten verfügbar.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "2. OG",
+    "level": "2",
     "opening_hours": "Mo-Fr 07:00-17:30",
     "operator": "Unternehmung",
     "phone": "+41522358000",
@@ -54234,7 +54131,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "2. OG",
+    "level": "2",
     "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "Kantonspolizei Zürich",
     "phone": "+41586486250",
@@ -54636,7 +54533,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "2. Stock",
+    "level": "2",
     "opening_hours": "07:30-19:00",
     "operator": "Vivo Training",
     "id": "node/11733811269"
@@ -54679,12 +54576,12 @@
   "id": "node/11734149743",
   "properties": {
     "access": "private",
-    "defibrillator:location": "VZ Corporate Services AG\n1.OG Eingang links\n1270LTM",
+    "defibrillator:location": "VZ Corporate Services AG 1.OG Eingang links 1270LTM",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1.OG",
+    "level": "1",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "lifetec AG Schweiz",
     "phone": "+41 800 122 144",
@@ -54727,15 +54624,16 @@
   "id": "node/11734169453",
   "properties": {
     "access": "private",
-    "defibrillator:location": "VZ Corporate Services AG\n4.OG Eingang Links\n1268LTM",
+    "defibrillator:location": "VZ Corporate Services AG , 4.OG Eingang Links",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "4. OG",
+    "level": "4",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
+    "ref": "1268LTM",
     "id": "node/11734169453"
   },
   "geometry": {
@@ -54751,15 +54649,16 @@
   "id": "node/11734192662",
   "properties": {
     "access": "private",
-    "defibrillator:location": "VZ Corporate Services AG\n2. OG Eingang links\n1269LTM",
+    "defibrillator:location": "VZ Corporate Services AG , 2. OG Eingang links",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "2. OG",
+    "level": "2",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
+    "ref": "1269LTM",
     "id": "node/11734192662"
   },
   "geometry": {
@@ -54775,15 +54674,16 @@
   "id": "node/11734218765",
   "properties": {
     "access": "private",
-    "defibrillator:location": "VZ Corporate Services AG\nGotthardstrasse 6\n3. OG Eingang Geradeaus\n1274LTM",
+    "defibrillator:location": "VZ Corporate Services AG, Gotthardstrasse 6, 3. OG Eingang Geradeaus",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "3.OG",
+    "level": "3",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
+    "ref": "1274LTM",
     "id": "node/11734218765"
   },
   "geometry": {
@@ -54799,12 +54699,12 @@
   "id": "node/11734234983",
   "properties": {
     "access": "private",
-    "defibrillator:location": "VZ Corporate Services AG\nGotthardstrasse 6\n4.OG Eingang rechts\n1275LTM",
+    "defibrillator:location": "VZ Corporate Services AG Gotthardstrasse 6 4.OG Eingang rechts 1275LTM",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "4.OG",
+    "level": "4",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
@@ -54823,12 +54723,12 @@
   "id": "node/11734239597",
   "properties": {
     "access": "private",
-    "defibrillator:location": "VZ Corporate Services AG\n3.OG Nach Eingang rechts\n1271LTM",
+    "defibrillator:location": "VZ Corporate Services AG 3.OG Nach Eingang rechts 1271LTM",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "3.OG",
+    "level": "3",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
@@ -54847,12 +54747,12 @@
   "id": "node/11734251171",
   "properties": {
     "access": "private",
-    "defibrillator:location": "VZ Corporate Services AG\n3.OG Eingang links",
+    "defibrillator:location": "VZ Corporate Services AG 3.OG Eingang links",
     "description": "Orager Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "3.OG",
+    "level": "3",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
@@ -54871,12 +54771,12 @@
   "id": "node/11734257217",
   "properties": {
     "access": "private",
-    "defibrillator:location": "VZ Corporate Services AG\nGotthardstrasse 6\n1.OG Eingang rechts\n1273LTM",
+    "defibrillator:location": "VZ Corporate Services AG Gotthardstrasse 6 1.OG Eingang rechts 1273LTM",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1.OG",
+    "level": "1",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
@@ -54895,15 +54795,16 @@
   "id": "node/11734370395",
   "properties": {
     "access": "private",
-    "defibrillator:location": "VZ Corporate Services AG\nGotthardstrasse 6\n5.OG Eingang rechts\n1276LTM",
+    "defibrillator:location": "VZ Corporate Services AG, Gotthardstrasse 6 , 5.OG Eingang rechts",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "5.OG",
+    "level": "5",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
+    "ref": "1276LTM",
     "id": "node/11734370395"
   },
   "geometry": {
@@ -55013,15 +54914,16 @@
   "id": "node/11740595799",
   "properties": {
     "access": "private",
-    "defibrillator:location": "VZ Corporate Services\nGotthardstrasse 6 8002 ZH\n6.OG Zwischenraum (Glastüre, Schulungsraum)\n1277LTM",
+    "defibrillator:location": "VZ Corporate Services, Gotthardstrasse 6, 8002 Zürich, 6.OG Zwischenraum (Glastüre, Schulungsraum)",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "6.OG",
+    "level": "6",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
+    "ref": "1277LTM",
     "id": "node/11740595799"
   },
   "geometry": {
@@ -55037,15 +54939,16 @@
   "id": "node/11740623614",
   "properties": {
     "access": "private",
-    "defibrillator:location": "VZ Corporate Services\nClaridenstrasse 19 8002 ZH\n6.OG Eingang rechts\n1278 LTM",
+    "defibrillator:location": "VZ Corporate Services, Claridenstrasse 19, 8002 Zürich, 6.OG Eingang rechts",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "6.OG",
+    "level": "6",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
+    "ref": "1278LTM",
     "id": "node/11740623614"
   },
   "geometry": {
@@ -55061,12 +54964,12 @@
   "id": "node/11740633987",
   "properties": {
     "access": "private",
-    "defibrillator:location": "VZ Corporate Services\nBethovenstrasse 20 8002 ZH\n1.OG Kaffeteria Eingang Links\n1279LTM",
+    "defibrillator:location": "VZ Corporate Services Bethovenstrasse 20 8002 ZH 1.OG Kaffeteria Eingang Links 1279LTM",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1.OG",
+    "level": "1",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
@@ -55109,15 +55012,16 @@
   "id": "node/11740654337",
   "properties": {
     "access": "private",
-    "defibrillator:location": "VZ Corporate Services\nGotthardstrasse 6 8002 ZH\n2.OG bei Empfangsthecke\n1283LTM",
+    "defibrillator:location": "VZ Corporate Services, 2.OG bei Empfangstheke",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "2 OG",
+    "level": "2",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
+    "ref": "1283LTM",
     "id": "node/11740654337"
   },
   "geometry": {
@@ -55385,14 +55289,15 @@
   "id": "node/11745383266",
   "properties": {
     "access": "private",
-    "defibrillator:location": "Kleiner Bäckerei Geerenweg 2 1.OG Produktion 1324LTM",
+    "defibrillator:location": "1.OG Produktion",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1.OG",
+    "level": "1",
     "opening_hours": "Mo-Fr 06:15-16:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
+    "ref": "1324LTM",
     "id": "node/11745383266"
   },
   "geometry": {
@@ -55435,8 +55340,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1.OG",
-    "opening_hours": "Mo-Fr 08:00-12:00 13:30-17:00",
+    "level": "1",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:30-17:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/11745475540"
@@ -55572,7 +55477,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "Erdgeschoss ",
+    "level": "0",
     "id": "node/11757268071"
   },
   "geometry": {
@@ -56193,7 +56098,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1. UG",
+    "level": "-1",
     "operator": "Stadt Zürich",
     "id": "node/11801328473"
   },
@@ -56547,12 +56452,12 @@
   "id": "node/11811584527",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Schulhaus Högler",
+    "defibrillator:location": "EG - Eingang Schulhaus Högler",
     "description": "Direkt bei dem Eingang vom Gebäude Trackt B",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "level": "EG - Eingang",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Schulhaus Högler",
     "id": "node/11811584527"
@@ -56686,7 +56591,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "Erdgeschoss",
+    "level": "0",
     "operator": "Bleuler Maschinenbau AG",
     "phone": "+41448561030",
     "id": "node/11818280469"
@@ -56703,13 +56608,12 @@
   "type": "Feature",
   "id": "node/11821548969",
   "properties": {
-    "access": "yes",
     "defibrillator:location": "Nobel Biocare / Envista",
-    "description": "Vom Haupteingang, Treppen nehmen, 1 Stock. Bei Reception Fragen : Defi befindet sich im Break Room.",
+    "description": "Vom Haupteingang, Treppen nehmen, 1 Stock. Bei Reception Fragen: Defi befindet sich im Break Room.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "5. OG (Haupteingang zum Gebaude ist 4.OG)",
+    "level": "1",
     "operator": "Nobel Biocare",
     "phone": "+41432114200",
     "id": "node/11821548969"
@@ -56920,7 +56824,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1. OG",
+    "level": "1",
     "opening_hours": "Mo 08:30-11:30,14:00-18:15; Tu-Th 08:30-11:30,14:00-16:30; Fr 07:30-14:00",
     "operator": "Gemeinde",
     "phone": "+41 43 355 78 13",
@@ -57136,7 +57040,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1. OG",
+    "level": "1",
     "operator": "SNH",
     "phone": "+41447181717",
     "id": "node/11840701170"
@@ -57154,11 +57058,11 @@
   "id": "node/11841326490",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Sporthalle Breite",
+    "defibrillator:location": "Sporthalle Breite;Draussen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "level": "Draussen",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Gemeinde Embrach",
     "id": "node/11841326490"
@@ -57254,7 +57158,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1.Stock",
+    "level": "1",
     "operator": "Landesmuseum",
     "id": "node/11843399769"
   },
@@ -57273,12 +57177,12 @@
     "access": "private",
     "addr:housenumber": "2",
     "addr:street": "Schiffbaustrasse",
-    "defibrillator:location": "2.OG Von Lift Raus, Rechts im Büro Eingang Mitte\n1351LTM",
+    "defibrillator:location": "2.OG Von Lift Raus, Rechts im Büro Eingang Mitte",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "2.og",
+    "level": "2",
     "name": "BDO",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
@@ -57300,12 +57204,12 @@
     "access": "private",
     "addr:housenumber": "2",
     "addr:street": "Schiffbaustrasse",
-    "defibrillator:location": "1. OG von Lift Raus, Rechts im Büro Eingang Mitte\n1350 LTM",
+    "defibrillator:location": "1. OG von Lift raus, Rechts im Büro Eingang Mitte",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1.OG",
+    "level": "1",
     "name": "BDO",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
@@ -57327,12 +57231,12 @@
     "access": "private",
     "addr:housenumber": "2",
     "addr:street": "Schiffbaustrasse",
-    "defibrillator:location": "3. OG Von Lift raus, Rechts im Büro Eingang Mitte\n1352LTM",
+    "defibrillator:location": "3. OG Von Lift raus, Rechts im Büro Eingang Mitte",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "3.og",
+    "level": "3",
     "name": "BDO",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
@@ -57739,11 +57643,11 @@
   "properties": {
     "access": "no",
     "defibrillator:location": "Activ Fitness",
-    "description": "während Öffnungszeiten des Fitness Studio verfügbar. Bei der Reception.\n",
+    "description": "während Öffnungszeiten des Fitness Studio verfügbar. Bei der Reception.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1. OG",
+    "level": "1",
     "operator": "Activ Fitness Duebendorf",
     "phone": "+410433338650",
     "id": "node/11871434670"
@@ -57763,13 +57667,12 @@
     "access": "private",
     "addr:housenumber": "24",
     "addr:street": "Beethovenstrasse",
-    "defibrillator:location": "4. OG\n1411LTM",
+    "defibrillator:location": "VZ Corporate Services AG",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "4.OG",
-    "name": "VZ Corporate Services AG 1411LTM",
+    "level": "4",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41800122144",
     "ref": "1411LTM",
@@ -58005,12 +57908,12 @@
     "access": "private",
     "addr:housenumber": "8",
     "addr:street": "obere Heslibachstrasse",
-    "defibrillator:location": "2.OG Eingang bei Sekretariat\n1414\nltm",
+    "defibrillator:location": "2.OG Eingang bei Sekretariat",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "2. OG",
+    "level": "2",
     "name": "BHZ Verwaltungs AG",
     "operator": "Lifetec Ag Schweiz",
     "phone": "+41 800 122 144",
@@ -58057,7 +57960,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "Erdgeschoss",
+    "level": "0",
     "opening_hours": "Mo-Fr 07:00-16:00",
     "operator": "Allega GmbH",
     "phone": "+41 44 852 41 11",
@@ -59027,8 +58930,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "Erdgeschoss",
-    "opening_hours": "Mo-Fr 06:00-23:00, Sa 08:00-22:00, \nSu 08:00-22:00",
+    "level": "0",
+    "opening_hours": "Mo-Fr 06:00-23:00, Sa 08:00-22:00, Su 08:00-22:00",
     "operator": "Clever Fit Opfikon",
     "phone": "+41448292235",
     "id": "node/11951574770"
@@ -59116,13 +59019,13 @@
   "id": "node/11955063269",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Zoll Embrach, Embraport 3b, 8424 Embrach",
+    "defibrillator:location": "EG (Eingangsbereich Schalter - links an der Wand);Zoll Embrach, Embraport 3b, 8424 Embrach",
     "description": "Während Betriebszeiten offen (Mittags geschlossen)",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "EG (Eingangsbereich Schalter - links an der Wand)",
-    "opening_hours": "07:00-11:30, 13:00-16:00",
+    "level": "0",
+    "opening_hours": "07:00-11:30,13:00-16:00",
     "id": "node/11955063269"
   },
   "geometry": {
@@ -59235,12 +59138,11 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Lidl Pfungen, 1. Stock vor Rolltreppe",
-    "description": "während Öffnungszeiten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1. ",
-    "opening_hours": "Mo - Sa 07:30 - 20:00; Su off",
+    "level": "1",
+    "opening_hours": "Mo-Sa 07:30-20:00; Su off",
     "operator": "Lidl Schweiz",
     "id": "node/11955853369"
   },
@@ -59352,11 +59254,11 @@
   "id": "node/11962408269",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Feuerwehrdepot / Werhof",
+    "defibrillator:location": "Feuerwehrdepot / Werhof. Draussen am Gebäude. Einfahrt.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "level": "Draussen am Gebäude. Einfahrt",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Feuerwehr Kilchberg-Rüschlikon",
     "phone": "+41447163162",
@@ -59365,8 +59267,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5461607,
-      47.3193996
+      8.546093,
+      47.3194075
     ]
   }
 },
@@ -59896,7 +59798,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "Erdgeschoss",
+    "level": "0",
     "opening_hours": "8:00 - 20:00",
     "operator": "Blue Point",
     "id": "node/11986966169"
@@ -60217,14 +60119,13 @@
   "id": "node/12006205370",
   "properties": {
     "defibrillator:location": "Renault Suisse SA, Bergermoosstr. 4, 8902 Urdorf",
-    "description": "während Öffnungszeiten verfügbar ",
+    "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "2 und Schulungsraum EG",
-    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
+    "level": "2",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
     "operator": "Renault Suisse SA",
-    "phone": "+41447770211",
     "id": "node/12006205370"
   },
   "geometry": {
@@ -60426,13 +60327,12 @@
   "type": "Feature",
   "id": "node/12013131569",
   "properties": {
-    "access": "no",
     "defibrillator:location": "Versorgungsgang Xtra",
     "description": "während Konzerten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "2OG",
+    "level": "2",
     "operator": "Xtra",
     "id": "node/12013131569"
   },
@@ -60905,7 +60805,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "Erdgeschoss",
+    "level": "0",
     "id": "node/12031435670"
   },
   "geometry": {
@@ -63161,7 +63061,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "Eingang Erdgeschoss",
+    "level": "0",
     "opening_hours": "Mo-Fr 07:30-17:00",
     "operator": "Swissmem",
     "id": "node/12217546201"
@@ -63735,6 +63635,91 @@
     "coordinates": [
       8.6691367,
       47.2310661
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12254874701",
+  "properties": {
+    "defibrillator:location": "Im Gebäude, Haupteingang rein, gradeaus durch die Tür",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 8:00-17:00",
+    "id": "node/12254874701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7655404,
+      47.5067659
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12257859601",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "PRISMA Informatik AG, bei Kaffeemaschine",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 8:00 - 17:00",
+    "operator": "Unternehmen",
+    "phone": "+41 44 833 2355",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12257859601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6264777,
+      47.4139904
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12269181902",
+  "properties": {
+    "defibrillator:location": "vor Coop Pronto",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Kempthal Raststätte",
+    "id": "node/12269181902"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6995521,
+      47.4487848
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12272024706",
+  "properties": {
+    "defibrillator:location": "Renault Suisse SA, Bergermoosstr. 4, 8902 Urdorf",
+    "description": "Im Schulungsraum; während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
+    "operator": "Renault Suisse SA",
+    "id": "node/12272024706"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4224781,
+      47.3706826
     ]
   }
 }

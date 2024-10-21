@@ -10297,6 +10297,7 @@
     "addr:street": "Kanonengasse",
     "amenity": "clinic",
     "amenity_1": "social_facility",
+    "check_date": "2024-10-19",
     "description": "Gynäkologische Sprechstunde",
     "name": "Ambulatorium Kanonengasse",
     "opening_hours": "Mo 08:30-12:00, 13:30-16:30; We-Th 08:30-12:00; Fr 08:30-12:00, 14:00-16:30",
@@ -10418,7 +10419,7 @@
     "amenity": "clinic",
     "healthcare": "clinic",
     "healthcare:speciality": "chinese_medicine;traditional_chinese_medicine",
-    "level": "1,_Aufzug_2",
+    "level": "1;2",
     "name": "TCM Li Nan",
     "operator": "Li Nan",
     "id": "node/6316596968"

@@ -25074,82 +25074,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/441570578",
-  "properties": {
-    "addr:city": "St. Moritz",
-    "addr:housenumber": "34",
-    "addr:postcode": "7500",
-    "addr:street": "Via Arona",
-    "alt_name": "Klinik Gut St. Moritz",
-    "amenity": "hospital",
-    "building": "hospital",
-    "healthcare": "hospital",
-    "name": "Ehemalige Klinik Gut",
-    "website": "https://www.klinik-gut.ch/",
-    "id": "way/441570578"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          9.8381593,
-          46.4965944
-        ],
-        [
-          9.8380898,
-          46.4965679
-        ],
-        [
-          9.8381729,
-          46.4964561
-        ],
-        [
-          9.8382224,
-          46.496475
-        ],
-        [
-          9.8382381,
-          46.4964557
-        ],
-        [
-          9.8383125,
-          46.496482
-        ],
-        [
-          9.8383741,
-          46.4964076
-        ],
-        [
-          9.8384698,
-          46.4964384
-        ],
-        [
-          9.8385816,
-          46.4964874
-        ],
-        [
-          9.8385025,
-          46.4965684
-        ],
-        [
-          9.8383809,
-          46.4966981
-        ],
-        [
-          9.838146,
-          46.4966109
-        ],
-        [
-          9.8381593,
-          46.4965944
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/443411665",
   "properties": {
     "addr:city": "Lausanne",
@@ -49571,11 +49495,15 @@
   "id": "way/1306427186",
   "properties": {
     "addr:city": "St. Moritz",
+    "addr:housenumber": "2",
     "addr:postcode": "7500",
     "addr:street": "Plazza Paracelsus",
     "amenity": "hospital",
+    "building": "hospital",
     "healthcare": "hospital",
     "name": "Klinik Gut",
+    "name:de": "Klinik Gut",
+    "name:rm": "Clinica Gut",
     "id": "way/1306427186"
   },
   "geometry": {
@@ -51477,11 +51405,13 @@
     "addr:postcode": "1202",
     "addr:street": "Rue du Grand-Pré",
     "amenity": "clinic",
+    "check_date": "2024-10-19",
+    "check_date:opening_hours": "2024-10-19",
     "description": "Traitement ambulatoire de personnes concernées par l’addiction à l’alcool, au tabac, au cannabis, à la cocaïne, aux médicaments, à l’ecstasy, aux amphétamines, aux jeux d’argent, à internet, aux jeux vidéos, au sexe, aux achats, au travail.",
     "email": "Service.Addictologie@hcuge.ch",
     "name": "CAAP Grand-Pré - Service addictologie - Hôpitaux Universitaires de Genève",
+    "opening_hours:signed": "no",
     "phone": "+41 22 372 57 50",
-    "survey:date": "2013-08-31",
     "website": "https://addictohug.ch/caap-grand-pre/",
     "wheelchair": "yes",
     "id": "node/2440334173"
@@ -52566,6 +52496,7 @@
     "addr:street": "Kanonengasse",
     "amenity": "clinic",
     "amenity_1": "social_facility",
+    "check_date": "2024-10-19",
     "description": "Gynäkologische Sprechstunde",
     "name": "Ambulatorium Kanonengasse",
     "opening_hours": "Mo 08:30-12:00, 13:30-16:30; We-Th 08:30-12:00; Fr 08:30-12:00, 14:00-16:30",
@@ -53256,7 +53187,7 @@
     "amenity": "clinic",
     "healthcare": "clinic",
     "healthcare:speciality": "chinese_medicine;traditional_chinese_medicine",
-    "level": "1,_Aufzug_2",
+    "level": "1;2",
     "name": "TCM Li Nan",
     "operator": "Li Nan",
     "id": "node/6316596968"
@@ -57246,7 +57177,7 @@
     "healthcare:speciality": "general",
     "name": "Praxis Küttigen",
     "phone": "+41 62 827 11 25",
-    "website": "www.praxis-kuettigen.ch",
+    "website": "https://www.praxis-kuettigen.ch/",
     "id": "node/12239538793"
   },
   "geometry": {

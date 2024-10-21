@@ -13595,88 +13595,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/156400349",
-  "properties": {
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Sonnenhof 1+2",
-    "id": "way/156400349"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.3954543,
-          47.40406
-        ],
-        [
-          8.3955482,
-          47.4040083
-        ],
-        [
-          8.3956571,
-          47.4041034
-        ],
-        [
-          8.3958064,
-          47.4042342
-        ],
-        [
-          8.3957137,
-          47.4042862
-        ],
-        [
-          8.3954543,
-          47.40406
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/156400350",
-  "properties": {
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Steinmürli 1+2",
-    "id": "way/156400350"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.3963071,
-          47.4044218
-        ],
-        [
-          8.3959924,
-          47.4045848
-        ],
-        [
-          8.3958714,
-          47.4044776
-        ],
-        [
-          8.3960298,
-          47.4043957
-        ],
-        [
-          8.3961846,
-          47.4043138
-        ],
-        [
-          8.3963071,
-          47.4044218
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/156856299",
   "properties": {
     "amenity": "kindergarten",
@@ -16791,48 +16709,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/215522993",
-  "properties": {
-    "addr:city": "Dietikon",
-    "addr:housenumber": "71",
-    "addr:postcode": "8953",
-    "addr:street": "Schöneggstrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Wolfsmatt 1+2",
-    "operator": "Schuleinheit Wolfsmatt",
-    "id": "way/215522993"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4093,
-          47.3992625
-        ],
-        [
-          8.4092873,
-          47.3991873
-        ],
-        [
-          8.4096211,
-          47.3991624
-        ],
-        [
-          8.4096328,
-          47.3992384
-        ],
-        [
-          8.4093,
-          47.3992625
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/216246915",
   "properties": {
     "amenity": "kindergarten",
@@ -16888,209 +16764,6 @@
         [
           8.7630023,
           47.5180952
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/222919541",
-  "properties": {
-    "addr:city": "Dietikon",
-    "addr:housenumber": "30",
-    "addr:postcode": "8953",
-    "addr:street": "Florastrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Flora",
-    "source": "bing",
-    "id": "way/222919541"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4036002,
-          47.4031737
-        ],
-        [
-          8.4035618,
-          47.403147
-        ],
-        [
-          8.4035985,
-          47.4031191
-        ],
-        [
-          8.403554,
-          47.4030661
-        ],
-        [
-          8.4035985,
-          47.4030486
-        ],
-        [
-          8.4035942,
-          47.403043
-        ],
-        [
-          8.4037091,
-          47.4029975
-        ],
-        [
-          8.4037074,
-          47.4029948
-        ],
-        [
-          8.4037133,
-          47.4029927
-        ],
-        [
-          8.4037759,
-          47.4030713
-        ],
-        [
-          8.4036803,
-          47.4031084
-        ],
-        [
-          8.403689,
-          47.4031271
-        ],
-        [
-          8.4036268,
-          47.4031498
-        ],
-        [
-          8.4036002,
-          47.4031737
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/222919554",
-  "properties": {
-    "addr:city": "Dietikon",
-    "addr:housenumber": "7",
-    "addr:postcode": "8953",
-    "addr:street": "Schulstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Zentral 1",
-    "id": "way/222919554"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4032322,
-          47.4025873
-        ],
-        [
-          8.4031155,
-          47.402438
-        ],
-        [
-          8.4032423,
-          47.4023926
-        ],
-        [
-          8.403359,
-          47.4025419
-        ],
-        [
-          8.4032322,
-          47.4025873
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/222919566",
-  "properties": {
-    "addr:city": "Dietikon",
-    "addr:housenumber": "7a",
-    "addr:postcode": "8953",
-    "addr:street": "Schulstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Zentral 2",
-    "source": "bing",
-    "id": "way/222919566"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4034455,
-          47.4028293
-        ],
-        [
-          8.4033326,
-          47.4026888
-        ],
-        [
-          8.4034479,
-          47.4026464
-        ],
-        [
-          8.4035608,
-          47.4027869
-        ],
-        [
-          8.4034455,
-          47.4028293
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/223122727",
-  "properties": {
-    "addr:city": "Dietikon",
-    "addr:housenumber": "39",
-    "addr:postcode": "8953",
-    "addr:street": "Hofackerstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Hofacker",
-    "source": "bing",
-    "id": "way/223122727"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4150154,
-          47.3963084
-        ],
-        [
-          8.4150471,
-          47.3961754
-        ],
-        [
-          8.4151599,
-          47.396188
-        ],
-        [
-          8.4151285,
-          47.3963205
-        ],
-        [
-          8.4150154,
-          47.3963084
         ]
       ]
     ]
@@ -31364,9 +31037,9 @@
   "id": "way/1274377762",
   "properties": {
     "addr:city": "Dietikon",
-    "addr:housenumber": "9",
+    "addr:housenumber": "12",
     "addr:postcode": "8953",
-    "addr:street": "Mina Hess-Strasse",
+    "addr:street": "Schachenmattstrasse",
     "amenity": "kindergarten",
     "name": "Kindergarten Schächli",
     "operator": "Stadt Dietikon",
@@ -31381,8 +31054,8 @@
     "coordinates": [
       [
         [
-          8.4051001,
-          47.407968
+          8.4052677,
+          47.4080649
         ],
         [
           8.4053596,
@@ -31409,28 +31082,12 @@
           47.4082467
         ],
         [
-          8.4048324,
-          47.4081411
+          8.4051678,
+          47.4081828
         ],
         [
-          8.404891,
-          47.4080693
-        ],
-        [
-          8.4050227,
-          47.4079492
-        ],
-        [
-          8.4050418,
-          47.4079423
-        ],
-        [
-          8.4050937,
-          47.4079727
-        ],
-        [
-          8.4051001,
-          47.407968
+          8.4052677,
+          47.4080649
         ]
       ]
     ]
@@ -32195,6 +31852,546 @@
         [
           8.5918543,
           47.5112253
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1324655010",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "36",
+    "addr:postcode": "8953",
+    "addr:street": "Bergstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Bergstrasse",
+    "operator": "Stadt Dietikon",
+    "operator:type": "government",
+    "phone": "+41 44 741 44 49",
+    "preschool": "yes",
+    "website": "https://www.schule-dietikon.ch/schulhaeuser/1604",
+    "id": "way/1324655010"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.3950832,
+          47.4007116
+        ],
+        [
+          8.3952944,
+          47.4007473
+        ],
+        [
+          8.3952602,
+          47.4009722
+        ],
+        [
+          8.3950785,
+          47.4009421
+        ],
+        [
+          8.3950342,
+          47.4009344
+        ],
+        [
+          8.3950055,
+          47.4009299
+        ],
+        [
+          8.3950832,
+          47.4007116
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1324658972",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "39",
+    "addr:postcode": "8953",
+    "addr:street": "Hofackerstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Hofackerstrasse",
+    "operator": "Stadt Dietikon",
+    "operator:type": "government",
+    "phone": "+41 44 740 53 84",
+    "preschool": "yes",
+    "website": "https://www.schule-dietikon.ch/schulhaeuser/1617",
+    "id": "way/1324658972"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4149594,
+          47.3961148
+        ],
+        [
+          8.4149965,
+          47.3961178
+        ],
+        [
+          8.4150327,
+          47.3961149
+        ],
+        [
+          8.415069,
+          47.3961093
+        ],
+        [
+          8.4151026,
+          47.3961001
+        ],
+        [
+          8.4151348,
+          47.3960895
+        ],
+        [
+          8.4151653,
+          47.396076
+        ],
+        [
+          8.4151918,
+          47.3960603
+        ],
+        [
+          8.415213,
+          47.3960417
+        ],
+        [
+          8.4152455,
+          47.396058
+        ],
+        [
+          8.4152273,
+          47.3961409
+        ],
+        [
+          8.4153117,
+          47.3961493
+        ],
+        [
+          8.4152906,
+          47.3962675
+        ],
+        [
+          8.4152578,
+          47.3964279
+        ],
+        [
+          8.414923,
+          47.3963504
+        ],
+        [
+          8.4149468,
+          47.3963082
+        ],
+        [
+          8.4149159,
+          47.396305
+        ],
+        [
+          8.4149594,
+          47.3961148
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1324663937",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "2",
+    "addr:postcode": "8953",
+    "addr:street": "Gjuchstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Gjuch",
+    "operator": "Stadt Dietikon",
+    "operator:type": "government",
+    "phone": "+41 44 740 09 59",
+    "preschool": "yes",
+    "website": "https://www.schule-dietikon.ch/schulhaeuser/6274",
+    "id": "way/1324663937"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.397463,
+          47.4095549
+        ],
+        [
+          8.3973958,
+          47.4094956
+        ],
+        [
+          8.3974619,
+          47.409335
+        ],
+        [
+          8.3976627,
+          47.4093095
+        ],
+        [
+          8.3978113,
+          47.4093825
+        ],
+        [
+          8.3978404,
+          47.4094724
+        ],
+        [
+          8.397767,
+          47.4094919
+        ],
+        [
+          8.3975726,
+          47.4095494
+        ],
+        [
+          8.397463,
+          47.4095549
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1324686309",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "30",
+    "addr:postcode": "8953",
+    "addr:street": "Florastrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Florastrasse",
+    "operator": "Stadt Dietikon",
+    "operator:type": "government",
+    "phone": "+41 44 740 04 66",
+    "preschool": "yes",
+    "website": "https://www.schule-dietikon.ch/schulhaeuser/1596",
+    "id": "way/1324686309"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4037156,
+          47.4029808
+        ],
+        [
+          8.4037756,
+          47.4030605
+        ],
+        [
+          8.4038305,
+          47.4030406
+        ],
+        [
+          8.4038562,
+          47.4030784
+        ],
+        [
+          8.4037814,
+          47.4031224
+        ],
+        [
+          8.4037183,
+          47.4031736
+        ],
+        [
+          8.4036836,
+          47.4032081
+        ],
+        [
+          8.403655,
+          47.4032288
+        ],
+        [
+          8.4036421,
+          47.40322
+        ],
+        [
+          8.4036602,
+          47.4032074
+        ],
+        [
+          8.4036119,
+          47.4031721
+        ],
+        [
+          8.4035647,
+          47.4031375
+        ],
+        [
+          8.4035886,
+          47.403114
+        ],
+        [
+          8.4035271,
+          47.4030361
+        ],
+        [
+          8.4035868,
+          47.4030138
+        ],
+        [
+          8.4035971,
+          47.4030248
+        ],
+        [
+          8.4037156,
+          47.4029808
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1324693006",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "7",
+    "addr:postcode": "8953",
+    "addr:street": "Schulstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Zentral",
+    "operator": "Stadt Dietikon",
+    "operator:type": "government",
+    "phone": "+41 44 742 91 92",
+    "preschool": "yes",
+    "website": "https://www.schule-dietikon.ch/schulhaeuser/6286",
+    "id": "way/1324693006"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4032867,
+          47.4023551
+        ],
+        [
+          8.4038305,
+          47.4030406
+        ],
+        [
+          8.4037756,
+          47.4030605
+        ],
+        [
+          8.4037145,
+          47.4029834
+        ],
+        [
+          8.4035965,
+          47.4030263
+        ],
+        [
+          8.4035867,
+          47.403014
+        ],
+        [
+          8.4035268,
+          47.4030358
+        ],
+        [
+          8.4035061,
+          47.4030433
+        ],
+        [
+          8.4034765,
+          47.403006
+        ],
+        [
+          8.403494,
+          47.4029997
+        ],
+        [
+          8.4032099,
+          47.4026417
+        ],
+        [
+          8.4031754,
+          47.4026543
+        ],
+        [
+          8.4030161,
+          47.4024534
+        ],
+        [
+          8.4032867,
+          47.4023551
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1324717832",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "71",
+    "addr:postcode": "8953",
+    "addr:street": "Schöneggstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Wolfsmatt",
+    "operator": "Stadt Dietikon",
+    "operator:type": "government",
+    "phone": "+41 https://www.schule-dietikon.ch/schulhaeuser/6256",
+    "preschool": "yes",
+    "website": "https://www.schule-dietikon.ch/schulhaeuser/6256",
+    "id": "way/1324717832"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4095695,
+          47.399025
+        ],
+        [
+          8.4097945,
+          47.3993059
+        ],
+        [
+          8.4094781,
+          47.3993266
+        ],
+        [
+          8.4092928,
+          47.399403
+        ],
+        [
+          8.4091212,
+          47.3992007
+        ],
+        [
+          8.4095695,
+          47.399025
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1324828436",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "18",
+    "addr:postcode": "8953",
+    "addr:street": "Sonnenhofstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Sonnenhof",
+    "operator": "Stadt Dietikon",
+    "operator:type": "government",
+    "phone": "+41 44 743 77 58",
+    "preschool": "yes",
+    "website": "https://www.schule-dietikon.ch/schulhaeuser/6277",
+    "id": "way/1324828436"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.3961891,
+          47.4042581
+        ],
+        [
+          8.395789,
+          47.4044667
+        ],
+        [
+          8.3953074,
+          47.4040444
+        ],
+        [
+          8.3956155,
+          47.4039487
+        ],
+        [
+          8.3956532,
+          47.4039268
+        ],
+        [
+          8.3957477,
+          47.4040199
+        ],
+        [
+          8.3958565,
+          47.4039874
+        ],
+        [
+          8.3958825,
+          47.4039743
+        ],
+        [
+          8.3961891,
+          47.4042581
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1324828977",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "16",
+    "addr:postcode": "8953",
+    "addr:street": "Sonnenhofstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Steinmürli",
+    "operator": "Stadt Dietikon",
+    "operator:type": "government",
+    "phone": "+41 44 743 77 00",
+    "preschool": "yes",
+    "website": "https://www.schule-dietikon.ch/schulhaeuser/6280",
+    "id": "way/1324828977"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.3963921,
+          47.4044436
+        ],
+        [
+          8.395984,
+          47.4046377
+        ],
+        [
+          8.395789,
+          47.4044667
+        ],
+        [
+          8.3961891,
+          47.4042581
+        ],
+        [
+          8.3963921,
+          47.4044436
         ]
       ]
     ]
@@ -33739,22 +33936,6 @@
     "coordinates": [
       8.5120657,
       47.3826647
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2927936944",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kinderkrippe 2",
-    "id": "node/2927936944"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.401135,
-      47.4072722
     ]
   }
 },
@@ -40978,32 +41159,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9726285782",
-  "properties": {
-    "amenity": "kindergarten",
-    "contact:city": "Zürich",
-    "contact:email": "info@aufdemstern.ch",
-    "contact:housenumber": "15",
-    "contact:phone": "+41 43 243 03 34",
-    "contact:postcode": "8002",
-    "contact:street": "Sternenstrasse",
-    "contact:website": "http://www.aufdemstern.ch/home.html",
-    "isced:level": "0",
-    "name": "Tageskindergarten Auf dem Stern",
-    "operator": "Tageskindergarten Auf dem Stern",
-    "operator:type": "private",
-    "id": "node/9726285782"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5334423,
-      47.3600217
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9726524940",
   "properties": {
     "amenity": "kindergarten",
@@ -43369,6 +43524,24 @@
     "coordinates": [
       8.4940943,
       47.3843381
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12261111709",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Wald-KiTa UHU",
+    "phone": "+41446802167",
+    "website": "https://kita-waedenswil.ch/",
+    "id": "node/12261111709"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6760794,
+      47.2268856
     ]
   }
 }

@@ -2062,6 +2062,82 @@
 },
 {
   "type": "Feature",
+  "id": "way/137144020",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "42",
+    "addr:postcode": "8953",
+    "addr:street": "Vorstadtstrasse",
+    "amenity": "childcare",
+    "building": "yes",
+    "name": "Kinderkrippe 2",
+    "operator": "Kinderkrippenverein Dietikon",
+    "operator:type": "private",
+    "website": "https://kkvd.ch/",
+    "id": "way/137144020"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4009833,
+          47.4073187
+        ],
+        [
+          8.4010292,
+          47.4072874
+        ],
+        [
+          8.4009564,
+          47.4072317
+        ],
+        [
+          8.4010833,
+          47.4071551
+        ],
+        [
+          8.4011381,
+          47.4071968
+        ],
+        [
+          8.401215,
+          47.4072553
+        ],
+        [
+          8.4011834,
+          47.4072761
+        ],
+        [
+          8.4011972,
+          47.4072864
+        ],
+        [
+          8.4011937,
+          47.4073063
+        ],
+        [
+          8.4011691,
+          47.4073232
+        ],
+        [
+          8.40112,
+          47.407353
+        ],
+        [
+          8.4010686,
+          47.4073839
+        ],
+        [
+          8.4009833,
+          47.4073187
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/148799182",
   "properties": {
     "addr:city": "Dietikon",
@@ -2070,7 +2146,10 @@
     "addr:street": "Schöneggstrasse",
     "amenity": "childcare",
     "building": "yes",
-    "name": "Kinderhort",
+    "name": "Kinderkrippe 1",
+    "operator": "Kinderkrippenverein Dietikon",
+    "operator:type": "private",
+    "website": "https://kkvd.ch",
     "id": "way/148799182"
   },
   "geometry": {
@@ -2078,24 +2157,28 @@
     "coordinates": [
       [
         [
-          8.4029478,
-          47.4017651
+          8.402951,
+          47.4017725
         ],
         [
-          8.4029052,
-          47.4016733
+          8.4029048,
+          47.4016819
         ],
         [
-          8.4030397,
-          47.4016447
+          8.4029539,
+          47.4016705
         ],
         [
-          8.4030823,
-          47.4017365
+          8.4030352,
+          47.4016515
         ],
         [
-          8.4029478,
-          47.4017651
+          8.4030814,
+          47.401742
+        ],
+        [
+          8.402951,
+          47.4017725
         ]
       ]
     ]
@@ -2323,6 +2406,54 @@
         [
           8.6427536,
           47.6977939
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/182073580",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "34",
+    "addr:postcode": "8953",
+    "addr:street": "Poststrasse",
+    "amenity": "childcare",
+    "building": "detached",
+    "name": "Krippenhort",
+    "operator": "Kinderkrippenverein Dietikon",
+    "operator:type": "private",
+    "website": "https://kkvd.ch",
+    "id": "way/182073580"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4035374,
+          47.4018885
+        ],
+        [
+          8.4034956,
+          47.4018085
+        ],
+        [
+          8.4036203,
+          47.4017787
+        ],
+        [
+          8.4036569,
+          47.4018489
+        ],
+        [
+          8.403662,
+          47.4018587
+        ],
+        [
+          8.4035374,
+          47.4018885
         ]
       ]
     ]
@@ -3903,12 +4034,12 @@
           47.5103443
         ],
         [
-          8.697592,
-          47.5100659
+          8.6975897,
+          47.5100621
         ],
         [
-          8.697857,
-          47.5100059
+          8.6978525,
+          47.5099982
         ],
         [
           8.6979421,
@@ -5022,6 +5153,119 @@
         [
           8.5089965,
           47.4110527
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1324726879",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "34",
+    "addr:postcode": "8953",
+    "addr:street": "Urdorferstrasse",
+    "amenity": "childcare",
+    "building:part": "yes",
+    "name": "Kindergrippe 3",
+    "operator": "Kinderkrippenverein Dietikon",
+    "operator:type": "private",
+    "website": "https://kkvd.ch",
+    "id": "way/1324726879"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4147372,
+          47.397327
+        ],
+        [
+          8.4146452,
+          47.3973113
+        ],
+        [
+          8.4145609,
+          47.3972985
+        ],
+        [
+          8.414606,
+          47.3971624
+        ],
+        [
+          8.4147812,
+          47.3971898
+        ],
+        [
+          8.4147417,
+          47.3973138
+        ],
+        [
+          8.4147372,
+          47.397327
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1324731044",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "12",
+    "addr:postcode": "8953",
+    "addr:street": "Schachenmattstrasse",
+    "amenity": "childcare",
+    "building:part": "yes",
+    "layer": "0",
+    "name": "Kinderkrippe 4",
+    "operator": "Kinderkrippenverein Dietikon",
+    "operator:type": "private",
+    "website": "https://kkvd.ch",
+    "id": "way/1324731044"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4052677,
+          47.4080649
+        ],
+        [
+          8.4051678,
+          47.4081828
+        ],
+        [
+          8.4051206,
+          47.4081571
+        ],
+        [
+          8.4050407,
+          47.4081431
+        ],
+        [
+          8.4050316,
+          47.4081373
+        ],
+        [
+          8.4049717,
+          47.4080996
+        ],
+        [
+          8.4050337,
+          47.4080164
+        ],
+        [
+          8.4050994,
+          47.4079671
+        ],
+        [
+          8.4052677,
+          47.4080649
         ]
       ]
     ]
@@ -8132,6 +8376,7 @@
     "addr:postcode": "8320",
     "addr:street": "Bahnhofstrasse",
     "amenity": "childcare",
+    "check_date": "2024-10-20",
     "name": "Kinderkrippe Einhorn",
     "phone": "+41 78 966 02 22",
     "website": "https://www.kinderkrippe-einhorn.ch/",
@@ -13560,6 +13805,7 @@
   "id": "node/10013035026",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2024-10-17",
     "name": "Kinderhort Bubikon",
     "id": "node/10013035026"
   },
@@ -15164,6 +15410,22 @@
     "coordinates": [
       8.6730985,
       47.2258406
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12261936136",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Schmetterling",
+    "id": "node/12261936136"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4907291,
+      47.3751315
     ]
   }
 }

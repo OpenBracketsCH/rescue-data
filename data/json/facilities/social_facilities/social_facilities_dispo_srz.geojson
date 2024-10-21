@@ -10806,6 +10806,10 @@
           47.6592891
         ],
         [
+          8.8671116,
+          47.6593771
+        ],
+        [
           8.8671457,
           47.6594706
         ],
@@ -11616,11 +11620,11 @@
     "addr:housenumber": "21",
     "addr:postcode": "8330",
     "addr:street": "Waldfriedenstrasse",
-    "alt_name": "Altersheim Waldfrieden",
+    "alt_name": "Wohnheim Waldfrieden",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Gesundheitszentrum für das Alter Waldfrieden",
-    "phone": "+41 44 953 10 60",
+    "name": "Wohnheim Stiftung zur Palme",
+    "phone": "+41 44 953 31 52",
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "id": "way/94064010"
@@ -23885,65 +23889,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/218177091",
-  "properties": {
-    "addr:city": "Schaffhausen",
-    "addr:housenumber": "21",
-    "addr:postcode": "8200",
-    "addr:street": "Stokarbergstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Alterszentrum Breite - Steig",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "id": "way/218177091"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6256764,
-          47.6979704
-        ],
-        [
-          8.6256755,
-          47.6979452
-        ],
-        [
-          8.6256725,
-          47.6978574
-        ],
-        [
-          8.6256721,
-          47.6978459
-        ],
-        [
-          8.6259632,
-          47.6978414
-        ],
-        [
-          8.6259654,
-          47.6979066
-        ],
-        [
-          8.62611,
-          47.6979043
-        ],
-        [
-          8.626112,
-          47.6979636
-        ],
-        [
-          8.6256764,
-          47.6979704
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/218664343",
   "properties": {
     "addr:housenumber": "47",
@@ -31521,6 +31466,7 @@
     "addr:street": "Dorfstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-10-17",
     "name": "Pflegewohnungen Erspel",
     "phone": "+41 55 243 34 70",
     "social_facility": "group_home",
@@ -57969,6 +57915,26 @@
     "coordinates": [
       8.5276167,
       47.3750535
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12258603420",
+  "properties": {
+    "addr:full": "Stokarbergstrasse 21, 8200 Schaffhausen",
+    "amenity": "social_facility",
+    "name": "Alterszentrum Breite - Steig",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "website": "http://www.alterszentrum-breite.ch/DAS-HAUS-STEIG.10295.0.html",
+    "id": "node/12258603420"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6257544,
+      47.6979128
     ]
   }
 }
