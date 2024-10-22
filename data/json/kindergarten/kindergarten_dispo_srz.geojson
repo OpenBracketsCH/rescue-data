@@ -9982,6 +9982,7 @@
     "addr:street": "Dorfstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2024-10-21",
     "name": "Kindergarten Dorfstrasse",
     "id": "way/101766397"
   },
@@ -10035,6 +10036,7 @@
   "properties": {
     "amenity": "kindergarten",
     "barrier": "fence",
+    "check_date": "2024-10-21",
     "name": "Kindergarten Kollbrunn",
     "id": "way/101766414"
   },
@@ -27931,6 +27933,7 @@
     "addr:street": "Kirchstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2024-10-21",
     "name": "Kindergarten Kirchstrasse",
     "id": "way/475697077"
   },

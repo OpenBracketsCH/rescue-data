@@ -12536,7 +12536,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "level": "EG/UG",
+    "level": "0",
     "opening_hours": "24/7",
     "id": "node/11679580969"
   },
@@ -14158,13 +14158,12 @@
   "id": "node/12005933870",
   "properties": {
     "defibrillator:location": "MAN Energy Solutions Schweiz Ag EG empfang gerade aus.",
-    "description": "Nur während den öffnungszeite",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "EG empfang Gerade aus",
-    "opening_hours": "Mo-Fr 7:45-11:30, 13:00-15:45",
-    "operator": "MAN Energy Solutions Schweiz Ag",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:45-11:30,13:00-15:45",
+    "operator": "MAN Energy Solutions Schweiz AG",
     "id": "node/12005933870"
   },
   "geometry": {
@@ -14867,6 +14866,52 @@
     "coordinates": [
       8.5386568,
       47.3692701
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12273247602",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Führerprüfungsunterstände",
+    "description": "immer Verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Strassenverkehrsamt des Kantons Zürich",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12273247602"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5132188,
+      47.354045
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12273285701",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Prüfstrecke",
+    "description": "immer Verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Strassenverkehrsamt des Kantons Zürich",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12273285701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5141146,
+      47.3544811
     ]
   }
 }

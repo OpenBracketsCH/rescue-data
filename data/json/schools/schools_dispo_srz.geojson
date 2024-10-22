@@ -30704,6 +30704,7 @@
   "id": "way/90263755",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-10-21",
     "name": "Primarschule Kollbrunn",
     "id": "way/90263755"
   },
@@ -125852,6 +125853,46 @@
         [
           8.5505603,
           47.4154085
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1326500468",
+  "properties": {
+    "amenity": "school",
+    "name": "Kindergarten Lindenhof",
+    "id": "way/1326500468"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.536182,
+          47.5190439
+        ],
+        [
+          8.5359815,
+          47.5189126
+        ],
+        [
+          8.5357782,
+          47.5188021
+        ],
+        [
+          8.5359801,
+          47.5182159
+        ],
+        [
+          8.5364605,
+          47.5183463
+        ],
+        [
+          8.536182,
+          47.5190439
         ]
       ]
     ]

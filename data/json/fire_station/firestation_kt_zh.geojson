@@ -2368,6 +2368,7 @@
     "amenity": "fire_station",
     "building": "retail",
     "building:levels": "1",
+    "check_date": "2024-10-21",
     "name": "Feuerwehr Urdorf",
     "roof:shape": "flat",
     "id": "way/114205218"

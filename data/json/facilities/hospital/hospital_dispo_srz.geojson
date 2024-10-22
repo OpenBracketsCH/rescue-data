@@ -2324,6 +2324,7 @@
     "roof:levels": "1",
     "roof:shape": "hipped",
     "short_name": "Haus M",
+    "wheelchair": "yes",
     "id": "way/39467940"
   },
   "geometry": {
