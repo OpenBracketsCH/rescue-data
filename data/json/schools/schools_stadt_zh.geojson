@@ -21042,6 +21042,7 @@
   "id": "node/9682468631",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-10-22",
     "contact:city": "Zürich",
     "contact:email": "beckenhof@dayschool.ch",
     "contact:housenumber": "4",

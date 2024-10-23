@@ -43827,10 +43827,6 @@
   "type": "Feature",
   "id": "way/681071295",
   "properties": {
-    "addr:city": "Laufenburg",
-    "addr:housenumber": "10",
-    "addr:postcode": "5080",
-    "addr:street": "Spitalstrasse",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
