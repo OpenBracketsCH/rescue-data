@@ -56251,14 +56251,14 @@
   "type": "Feature",
   "id": "node/9679620692",
   "properties": {
-    "addr:city": "Uster",
-    "addr:housenumber": "4",
-    "addr:postcode": "8610",
-    "addr:street": "Theaterstrasse",
     "amenity": "social_facility",
+    "email": "mail@stadtpark.ch",
     "name": "Residenz Stadtpark",
+    "operator": "Atlas Stiftung",
+    "phone": "+41 58 268 24 00",
     "social_facility": "group_home",
     "social_facility:for": "senior",
+    "website": "https://www.atlas-stiftung.ch/stadtpark/",
     "id": "node/9679620692"
   },
   "geometry": {

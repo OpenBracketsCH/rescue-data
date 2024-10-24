@@ -24261,7 +24261,7 @@
     "lanes": "3",
     "lanes:backward": "1",
     "lanes:forward": "2",
-    "maxspeed": "80",
+    "maxspeed": "60",
     "motorroad": "yes",
     "nat_name": "N15",
     "old_name": "A53",

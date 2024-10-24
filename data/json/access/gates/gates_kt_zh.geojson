@@ -18548,14 +18548,16 @@
   "type": "Feature",
   "id": "node/2065742416",
   "properties": {
+    "access": "customers",
     "barrier": "gate",
+    "locked": "yes",
     "id": "node/2065742416"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
       8.749354,
-      47.4749207
+      47.4749208
     ]
   }
 },
