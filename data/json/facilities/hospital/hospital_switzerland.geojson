@@ -55118,6 +55118,7 @@
     "addr:postcode": "4051",
     "addr:street": "Aeschengraben",
     "amenity": "clinic",
+    "check_date": "2024-10-22",
     "healthcare": "clinic",
     "name": "Swiss Pain Institute Basel",
     "name:de": "Schweizer Schmerzinstitut",
@@ -57186,6 +57187,22 @@
     "coordinates": [
       8.0484378,
       47.4169447
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12285354465",
+  "properties": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "id": "node/12285354465"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1898328,
+      47.2463476
     ]
   }
 }
