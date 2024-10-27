@@ -99513,6 +99513,25 @@
       47.4842019
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12290451171",
+  "properties": {
+    "barrier": "lift_gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "lift_gate:type": "single",
+    "motor_vehicle": "unknown",
+    "id": "node/12290451171"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7251777,
+      47.4898929
+    ]
+  }
 }
 ]
 }

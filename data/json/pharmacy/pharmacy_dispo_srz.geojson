@@ -4494,6 +4494,7 @@
   "properties": {
     "alt_name": "Amavita Flughafen",
     "amenity": "pharmacy",
+    "check_date:opening_hours": "2024-10-27",
     "dispensing": "yes",
     "email": "ama249@amavita.ch",
     "healthcare": "pharmacy",

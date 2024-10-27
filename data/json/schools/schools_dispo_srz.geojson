@@ -117557,6 +117557,7 @@
     "addr:street": "Oberburg",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-10-26",
     "email": "info@schlossregensberg.ch",
     "name": "Schule - Stiftung Schloss Regensberg",
     "operator": "Stiftung Schloss Regensberg",
