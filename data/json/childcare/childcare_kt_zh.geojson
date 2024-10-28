@@ -5720,28 +5720,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3607965997",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "19",
-    "addr:postcode": "8005",
-    "addr:street": "Josefstrasse",
-    "amenity": "childcare",
-    "name": "Zwergenbund",
-    "wheelchair": "no",
-    "id": "node/3607965997"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5338597,
-      47.3808307
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3683738427",
   "properties": {
     "addr:city": "Zürich",

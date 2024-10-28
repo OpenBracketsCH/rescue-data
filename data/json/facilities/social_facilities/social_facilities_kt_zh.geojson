@@ -15798,12 +15798,14 @@
     "addr:street": "Konradstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-10-27",
     "email": "caritas-hospiz@bluewin.ch",
     "name": "Caritas-Hospiz Obdachlosenheim",
     "operator": "Caritas-Hospiz Verein kath. Obdachlosenheim Zürich",
     "phone": "+41 44 271 63 39",
     "social_facility": "assisted_living",
     "website": "http://www.caritas-hospiz.ch/home",
+    "wheelchair": "no",
     "id": "way/123448142"
   },
   "geometry": {
