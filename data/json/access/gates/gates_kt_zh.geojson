@@ -86384,6 +86384,24 @@
       47.2171263
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12293436957",
+  "properties": {
+    "barrier": "gate",
+    "foot": "yes",
+    "locked": "no",
+    "wheelchair": "yes",
+    "id": "node/12293436957"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5116687,
+      47.4178129
+    ]
+  }
 }
 ]
 }
