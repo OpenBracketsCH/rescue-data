@@ -10986,7 +10986,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "UG",
+    "level": "-1",
     "opening_hours": "Mo-Fr 08:00-16:00",
     "operator": "Baugenossenschaft Frohes Wohnen",
     "phone": "+41 43 336 35 35",
@@ -14548,12 +14548,12 @@
   "type": "Feature",
   "id": "node/12137294801",
   "properties": {
-    "defibrillator:location": "Enzenbühlstrasse 49",
+    "defibrillator:location": "Enzenbühlstrasse 49;UG links",
     "description": "Türcode 2700",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "UG links",
+    "level": "-1",
     "opening_hours": "24/7",
     "operator": "Klinik Hirslanden",
     "phone": "+41443873579",
@@ -14975,6 +14975,30 @@
     "coordinates": [
       8.5533665,
       47.4112907
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12296274501",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Haldenbachstrasse 12, 8006 Zürich",
+    "description": "Im Treppenhaus, während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "08:00 - 11:30, 13:00 - 16:00",
+    "operator": "Kantonale Heilmittelkontrolle Zürich",
+    "phone": "+41432586100",
+    "id": "node/12296274501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5481847,
+      47.3801783
     ]
   }
 }

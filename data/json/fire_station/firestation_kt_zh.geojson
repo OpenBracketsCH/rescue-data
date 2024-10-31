@@ -4722,6 +4722,49 @@
 },
 {
   "type": "Feature",
+  "id": "way/869032653",
+  "properties": {
+    "addr:city": "Zollikerberg",
+    "addr:housenumber": "2",
+    "addr:postcode": "8125",
+    "addr:street": "Firststrasse",
+    "amenity": "fire_station",
+    "building": "yes",
+    "building:levels": "1",
+    "layer": "-1",
+    "name": "Feuerwehr Depot First",
+    "id": "way/869032653"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6026892,
+          47.3433959
+        ],
+        [
+          8.6025343,
+          47.3432941
+        ],
+        [
+          8.6028295,
+          47.3430879
+        ],
+        [
+          8.6029844,
+          47.3431898
+        ],
+        [
+          8.6026892,
+          47.3433959
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/916580212",
   "properties": {
     "addr:city": "Hütten",
@@ -5562,21 +5605,6 @@
     "coordinates": [
       8.5459714,
       47.3847595
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/878387643",
-  "properties": {
-    "amenity": "fire_station",
-    "id": "node/878387643"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.602838,
-      47.3432709
     ]
   }
 },
