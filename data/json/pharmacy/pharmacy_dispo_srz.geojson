@@ -6759,11 +6759,9 @@
   "properties": {
     "amenity": "pharmacy",
     "dispensing": "yes",
-    "email": "apotheke-kispi@kispi.uzh.ch",
-    "name": "Apotheke Kinderspital",
+    "name": "Apotheke",
     "opening_hours": "Mo-Fr 08:45-12:30, 13:30-17:00",
     "operator": "Eleonorenstiftung",
-    "website": "https://www.kispi.uzh.ch/de/patienten-und-angehoerige/fachbereiche/apotheke/",
     "id": "node/5297383814"
   },
   "geometry": {
