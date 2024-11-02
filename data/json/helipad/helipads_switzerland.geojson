@@ -5259,7 +5259,6 @@
   "id": "way/508225863",
   "properties": {
     "aeroway": "helipad",
-    "name": "Dachlandeplatz Kispi",
     "id": "way/508225863"
   },
   "geometry": {
@@ -5295,7 +5294,6 @@
   "id": "way/508225865",
   "properties": {
     "aeroway": "helipad",
-    "name": "Dachlandeplatz Kispi",
     "id": "way/508225865"
   },
   "geometry": {

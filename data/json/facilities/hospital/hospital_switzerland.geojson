@@ -5666,7 +5666,6 @@
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
-    "level": "bettenstation_6._og",
     "name": "Luzerner Kantonsspital",
     "operator": "Luzerner Kantonsspital",
     "operator:type": "government",
@@ -43551,6 +43550,10 @@
         [
           8.6052453,
           46.9959619
+        ],
+        [
+          8.605167,
+          46.996052
         ],
         [
           8.6048819,

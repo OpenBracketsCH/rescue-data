@@ -131592,6 +131592,30 @@
       47.3844657
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12304494379",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "41",
+    "addr:postcode": "8404",
+    "addr:street": "Grüzefeldstrasse",
+    "amenity": "school",
+    "grades": "7-9",
+    "name": "Sportschule Winterthur",
+    "operator": "Sportschule Winterthur",
+    "operator:type": "private",
+    "website": "https://diesportschule.ch",
+    "id": "node/12304494379"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.755568,
+      47.4938032
+    ]
+  }
 }
 ]
 }
