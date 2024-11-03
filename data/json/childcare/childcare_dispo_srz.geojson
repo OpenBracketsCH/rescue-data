@@ -15361,7 +15361,7 @@
     "addr:street": "Schaffhauserstrasse",
     "amenity": "childcare",
     "name": "Zwerglihuus Rosenberg",
-    "opening_hours": "Mo–Fr 06:00-18:30",
+    "opening_hours": "Mo-Fr 06:00-18:30",
     "operator": "Kinderkrippe Zwerglihuus GmbH",
     "operator:type": "private",
     "website": "https://www.zwerglihuus.ch/kita-rosenberg/",

@@ -6426,10 +6426,12 @@
     "addr:postcode": "8044",
     "addr:street": "Vorderberg",
     "amenity": "pharmacy",
+    "check_date": "2024-11-02",
     "healthcare": "pharmacy",
     "name": "Apotheke Fluntern",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-16:00",
     "website": "https://www.apothekefluntern-zuerich.ch/",
+    "wheelchair": "yes",
     "id": "node/4847919195"
   },
   "geometry": {
@@ -6750,25 +6752,6 @@
     "coordinates": [
       8.5403023,
       47.5097634
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5297383814",
-  "properties": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Apotheke",
-    "opening_hours": "Mo-Fr 08:45-12:30, 13:30-17:00",
-    "operator": "Eleonorenstiftung",
-    "id": "node/5297383814"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5578212,
-      47.3719758
     ]
   }
 },
