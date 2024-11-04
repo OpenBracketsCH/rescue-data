@@ -29554,7 +29554,9 @@
     "addr:street": "Speerstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-11-03",
     "name": "Schulhaus Tannenbach",
+    "roof:shape": "flat",
     "source": "bing sat, survey",
     "id": "way/96298580"
   },
@@ -29596,7 +29598,9 @@
     "addr:street": "Einsiedlerstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-11-03",
     "name": "Schulhaus Tannenbach",
+    "roof:shape": "gabled",
     "source": "bing sat, survey",
     "id": "way/96298611"
   },
@@ -95008,7 +95012,9 @@
     "addr:street": "Einsiedlerstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-11-03",
     "name": "Schulhaus Tannenbach",
+    "roof:shape": "gabled",
     "source": "bing sat, survey",
     "id": "way/1078399727"
   },
