@@ -15407,6 +15407,30 @@
       47.3751315
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12312042465",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "21",
+    "addr:postcode": "8400",
+    "addr:street": "Tössfeldstrasse",
+    "amenity": "childcare",
+    "name": "Dä Hort",
+    "opening_hours": "Mo-Fr 07:00-19:00",
+    "operator": "Verein Kindertagesstätte Loki",
+    "operator:type": "private",
+    "website": "https://www.kitaloki.ch/d%C3%A4-hort",
+    "id": "node/12312042465"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7155937,
+      47.4928864
+    ]
+  }
 }
 ]
 }

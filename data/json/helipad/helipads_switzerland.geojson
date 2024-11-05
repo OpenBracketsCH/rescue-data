@@ -24446,6 +24446,46 @@
 },
 {
   "type": "Feature",
+  "id": "way/1330130280",
+  "properties": {
+    "aeroway": "helipad",
+    "emergency": "landing_site",
+    "icao": "LSHJ",
+    "name": "Heliport Kispi Zürich",
+    "start_date": "2024-11-02",
+    "surface": "paved",
+    "id": "way/1330130280"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5712412,
+          47.3518317
+        ],
+        [
+          8.5713085,
+          47.3516578
+        ],
+        [
+          8.5715597,
+          47.3517025
+        ],
+        [
+          8.5714924,
+          47.3518764
+        ],
+        [
+          8.5712412,
+          47.3518317
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/822278390",
   "properties": {
     "aeroway": "helipad",
