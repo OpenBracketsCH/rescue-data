@@ -33957,9 +33957,9 @@
   "id": "way/114790564",
   "properties": {
     "addr:city": "Dietikon",
-    "addr:housenumber": "156",
+    "addr:housenumber": "10",
     "addr:postcode": "8953",
-    "addr:street": "Schöneggstrasse",
+    "addr:street": "Wiesenstrasse",
     "amenity": "school",
     "building": "yes",
     "id": "way/114790564"

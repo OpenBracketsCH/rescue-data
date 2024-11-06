@@ -25002,6 +25002,7 @@
     "addr:street": "Blickensdorferstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-11-05",
     "name": "Schulhaus Sunnegrund 1",
     "id": "way/52872021"
   },
@@ -25043,6 +25044,7 @@
     "addr:street": "Blickensdorferstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-11-05",
     "name": "Schulhaus Sunnegrund 3",
     "id": "way/52872064"
   },
@@ -25465,6 +25467,7 @@
     "addr:street": "Blickensdorferstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-11-05",
     "name": "Schulhaus Sunnegrund 2",
     "id": "way/53506134"
   },
@@ -38484,9 +38487,9 @@
   "id": "way/114790564",
   "properties": {
     "addr:city": "Dietikon",
-    "addr:housenumber": "156",
+    "addr:housenumber": "10",
     "addr:postcode": "8953",
-    "addr:street": "Schöneggstrasse",
+    "addr:street": "Wiesenstrasse",
     "amenity": "school",
     "building": "yes",
     "id": "way/114790564"
