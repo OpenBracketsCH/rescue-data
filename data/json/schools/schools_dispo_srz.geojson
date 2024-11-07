@@ -3306,12 +3306,11 @@
     "amenity": "school",
     "building": "school",
     "building:levels": "2",
-    "building:roof": "flat",
     "isced:level": "1;2",
     "name": "Freie Schule Winterthur",
     "operator": "Freie Schule Winterthur",
     "roof:levels": "1",
-    "roof:shape": "saltbox",
+    "roof:shape": "gabled",
     "id": "way/22468103"
   },
   "geometry": {
@@ -87345,7 +87344,7 @@
   "id": "way/308279316",
   "properties": {
     "addr:city": "Menzingen",
-    "addr:housenumber": "12",
+    "addr:housenumber": "12b",
     "addr:postcode": "6313",
     "addr:street": "Holzhäusernstrasse",
     "amenity": "school",

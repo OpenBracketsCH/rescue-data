@@ -28785,28 +28785,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8852663364",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "im 2. Stock des Gebäude B",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-Th 07:30-12:00, 13:00-17:15; Fr 07:30-12:00, 13:00-16:30",
-    "operator": "STRABAG BMTI GmbH",
-    "phone": "+41 52 320 66 00",
-    "id": "node/8852663364"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6813548,
-      47.4385984
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8853928717",
   "properties": {
     "defibrillator:location": "Stadthaus Zürich, Stadthausquai 17",
@@ -33213,6 +33191,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Procamed AG",
     "phone": "+41 52 368 60 00",
@@ -33222,8 +33201,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5447216,
-      47.3717607
+      8.5447309,
+      47.3717597
     ]
   }
 },
@@ -79313,13 +79292,13 @@
   "id": "node/12041858569",
   "properties": {
     "access": "permissive",
-    "defibrillator:location": "Technische Fachschule STFW, Im Eingang",
+    "defibrillator:location": "Technische Fachschule STFW, beim Empfang Gebäude A",
     "description": "während Öffnungszeiten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "operator": "Firma",
+    "operator": "Technische Fachschule STFW",
     "id": "node/12041858569"
   },
   "geometry": {
@@ -83104,6 +83083,115 @@
     "coordinates": [
       8.5746479,
       47.355389
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12318244301",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Laubisrütistr.  70, Haupteingang innen",
+    "description": "nur während Bürozeiten, es muss geklingelt werden",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:30-16:00",
+    "operator": "JUMO Schweiz AG",
+    "phone": "+41449282444",
+    "id": "node/12318244301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7488483,
+      47.2378841
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12318415833",
+  "properties": {
+    "access": "customers",
+    "defibrillator:location": "Neben Infotheke, Zentralbibliothek Zürich",
+    "emergency": "defibrillator",
+    "level": "1",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 09:00-17:00",
+    "operator": "Zentralbibliothek Zürich",
+    "phone": "+41 44 268 31 00",
+    "wheelchair": "limited",
+    "id": "node/12318415833"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5451955,
+      47.374113
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12318739101",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "First Responder Ausrüstung",
+    "description": "Nicht öffentlich verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Privat-Person (First Responder)",
+    "phone": "+41 76 513 14 15",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12318739101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4840483,
+      47.198191
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12319290313",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Technische Fachschule STFW, beim Empfang Gebäude L/M",
+    "description": "während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Technische Fachschule STFW",
+    "id": "node/12319290313"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6956224,
+      47.4985587
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12319473809",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Eingang des Caritas-Gebäudes, grüner Kasten an der Wand.",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "id": "node/12319473809"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5420754,
+      47.3835923
     ]
   }
 }

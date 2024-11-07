@@ -2904,12 +2904,11 @@
     "amenity": "school",
     "building": "school",
     "building:levels": "2",
-    "building:roof": "flat",
     "isced:level": "1;2",
     "name": "Freie Schule Winterthur",
     "operator": "Freie Schule Winterthur",
     "roof:levels": "1",
-    "roof:shape": "saltbox",
+    "roof:shape": "gabled",
     "id": "way/22468103"
   },
   "geometry": {

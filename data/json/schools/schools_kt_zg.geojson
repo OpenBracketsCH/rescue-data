@@ -5378,7 +5378,7 @@
   "id": "way/308279316",
   "properties": {
     "addr:city": "Menzingen",
-    "addr:housenumber": "12",
+    "addr:housenumber": "12b",
     "addr:postcode": "6313",
     "addr:street": "Holzhäusernstrasse",
     "amenity": "school",

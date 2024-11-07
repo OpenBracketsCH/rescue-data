@@ -7011,11 +7011,11 @@
     "activation": "blackout;phone_breakdown;evacuation",
     "contact:city": "Aeugst am Albis",
     "contact:country": "CH",
-    "contact:housenumber": "2",
+    "contact:housenumber": "22",
     "contact:postcode": "8914",
-    "contact:street": "Pfarrhausweg",
+    "contact:street": "Dorfstrasse",
     "emergency": "disaster_help_point",
-    "name": "Feuerwehrdepot",
+    "name": "Gemeindehau Parkplatz",
     "operator": "RFO/GFO Kanton Zürich",
     "source": "https://www.zh.ch/de/sicherheit-justiz/bevoelkerungsschutz/notfalltreffpunkte.html",
     "temporary": "yes",
@@ -7024,8 +7024,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4863845,
-      47.267587
+      8.4856489,
+      47.2673863
     ]
   }
 },
