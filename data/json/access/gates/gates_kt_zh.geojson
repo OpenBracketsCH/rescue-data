@@ -40789,6 +40789,7 @@
   "properties": {
     "barrier": "gate",
     "foot": "yes",
+    "locked": "no",
     "vehicle": "private",
     "id": "node/5082669812"
   },

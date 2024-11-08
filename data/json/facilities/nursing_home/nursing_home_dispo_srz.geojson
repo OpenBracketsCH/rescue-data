@@ -15998,8 +15998,8 @@
   "properties": {
     "addr:city": "Hünenberg",
     "addr:housenumber": "1",
+    "addr:place": "Lindenpark",
     "addr:postcode": "6331",
-    "addr:street": "Lindenpark",
     "alt_name": "Alters- und Pflegeheim Lindenpark",
     "amenity": "nursing_home",
     "building": "yes",

@@ -2878,6 +2878,9 @@
   "type": "Feature",
   "id": "way/41062610",
   "properties": {
+    "addr:city": "Baar",
+    "addr:place": "Rainhalde",
+    "addr:postcode": "6340",
     "amenity": "kindergarten",
     "building": "yes",
     "check_date": "2024-02-24",
@@ -5447,6 +5450,10 @@
   "type": "Feature",
   "id": "way/52293396",
   "properties": {
+    "addr:city": "Steinhausen",
+    "addr:housenumber": "26a",
+    "addr:postcode": "6312",
+    "addr:street": "Goldermattenstrasse",
     "amenity": "kindergarten",
     "building": "yes",
     "isced:level": "0",
@@ -5792,6 +5799,10 @@
   "type": "Feature",
   "id": "way/54362361",
   "properties": {
+    "addr:city": "Baar",
+    "addr:housenumber": "30",
+    "addr:postcode": "6340",
+    "addr:street": "Altgasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "building:colour": "brown",
@@ -5799,7 +5810,6 @@
     "building:use": "education",
     "check_date": "2024-05-07",
     "name": "Kindergarten Altgasse",
-    "nohousenumber": "yes",
     "operator": "Schulen Baar",
     "roof:shape": "flat",
     "id": "way/54362361"
@@ -13651,6 +13661,10 @@
   "type": "Feature",
   "id": "way/148748981",
   "properties": {
+    "addr:city": "Unterägeri",
+    "addr:housenumber": "30",
+    "addr:postcode": "6314",
+    "addr:street": "Lidostrasse",
     "amenity": "kindergarten",
     "building": "residential",
     "name": "Grossmatt",
@@ -17103,8 +17117,8 @@
     "addr:city": "Unterägeri",
     "addr:country": "CH",
     "addr:housenumber": "2",
+    "addr:place": "Chlösterli",
     "addr:postcode": "6314",
-    "addr:street": "Chlösterli",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Chlösterli",
@@ -25834,6 +25848,10 @@
   "type": "Feature",
   "id": "way/385578791",
   "properties": {
+    "addr:city": "Hünenberg See",
+    "addr:housenumber": "37",
+    "addr:place": "Eichrüti",
+    "addr:postcode": "6333",
     "amenity": "kindergarten",
     "building": "yes",
     "id": "way/385578791"
@@ -47877,6 +47895,7 @@
     "addr:postcode": "8478",
     "addr:street": "Thurtalstrasse",
     "amenity": "kindergarten",
+    "check_date": "2024-11-07",
     "name": "Kindergarten Thalheim",
     "id": "node/9954777919"
   },

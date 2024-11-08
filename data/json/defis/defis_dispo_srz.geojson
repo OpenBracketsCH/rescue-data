@@ -23606,10 +23606,10 @@
   "id": "node/8574210690",
   "properties": {
     "defibrillator:location": "öffentliches WC",
+    "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "24/7",
     "operator": "Stadt Uster",
     "id": "node/8574210690"
   },
@@ -67189,9 +67189,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "667452",
     "opening_hours": "24/7",
-    "operator": "667452",
     "id": "node/11368334970"
   },
   "geometry": {
@@ -71287,13 +71285,10 @@
   "type": "Feature",
   "id": "node/11730063969",
   "properties": {
-    "access": "yes",
-    "defibrillator:location": "Tennisclub Herrliberg",
     "description": "Beim Materialschopf",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "level": "---",
     "opening_hours": "24/7",
     "operator": "TC Herrliberg",
     "phone": "+41794202372",
@@ -82987,7 +82982,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "Erdgeschoss",
+    "level": "0",
     "operator": "Kunsteisbahn Zug AG",
     "phone": "+41417253150",
     "id": "node/12306615001"
@@ -83192,6 +83187,50 @@
     "coordinates": [
       8.5420754,
       47.3835923
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12320520303",
+  "properties": {
+    "defibrillator:location": "physiotherapie schenk",
+    "description": "während öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "phone": "+41447261180",
+    "id": "node/12320520303"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5976609,
+      47.2588543
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12321578001",
+  "properties": {
+    "defibrillator:location": "Alterszentrum Wehntal Chileweg 15 linke Türe neben Haupteingang",
+    "description": "24 Std. zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Alterszentrum Wehntal",
+    "phone": "+41448571414",
+    "id": "node/12321578001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.413705,
+      47.500675
     ]
   }
 }

@@ -1200,6 +1200,10 @@
   "type": "Feature",
   "id": "way/38422848",
   "properties": {
+    "addr:city": "Rotkreuz",
+    "addr:housenumber": "15d",
+    "addr:postcode": "6343",
+    "addr:street": "Meierskappelerstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus 2",
@@ -1383,6 +1387,10 @@
   "type": "Feature",
   "id": "way/38422852",
   "properties": {
+    "addr:city": "Rotkreuz",
+    "addr:housenumber": "15b",
+    "addr:postcode": "6343",
+    "addr:street": "Meierskappelerstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus 1",
@@ -1857,6 +1865,10 @@
   "type": "Feature",
   "id": "way/47010077",
   "properties": {
+    "addr:city": "Steinhausen",
+    "addr:housenumber": "12",
+    "addr:postcode": "6312",
+    "addr:street": "Schulhausstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Feldheim",
@@ -1934,6 +1946,10 @@
   "type": "Feature",
   "id": "way/47010101",
   "properties": {
+    "addr:city": "Steinhausen",
+    "addr:housenumber": "37",
+    "addr:postcode": "6312",
+    "addr:street": "Albisstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Feldheim",
@@ -1991,6 +2007,10 @@
   "type": "Feature",
   "id": "way/47010106",
   "properties": {
+    "addr:city": "Steinhausen",
+    "addr:housenumber": "10",
+    "addr:postcode": "6312",
+    "addr:street": "Schulhausstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Feldheim",
@@ -2515,6 +2535,10 @@
   "type": "Feature",
   "id": "way/53747879",
   "properties": {
+    "addr:city": "Rotkreuz",
+    "addr:housenumber": "15c",
+    "addr:postcode": "6343",
+    "addr:street": "Meierskappelerstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus 3",
@@ -2670,6 +2694,10 @@
   "type": "Feature",
   "id": "way/54362437",
   "properties": {
+    "addr:city": "Baar",
+    "addr:housenumber": "10",
+    "addr:postcode": "6340",
+    "addr:street": "Sternmattstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Sternmatt I",
@@ -3005,9 +3033,10 @@
   "type": "Feature",
   "id": "way/108958685",
   "properties": {
+    "addr:city": "Baar",
     "addr:housenumber": "2",
+    "addr:place": "Walterswil",
     "addr:postcode": "6340",
-    "addr:street": "Walterswil",
     "amenity": "school",
     "building": "yes",
     "id": "way/108958685"
@@ -3060,6 +3089,10 @@
   "type": "Feature",
   "id": "way/124879761",
   "properties": {
+    "addr:city": "Unterägeri",
+    "addr:housenumber": "112b",
+    "addr:postcode": "6314",
+    "addr:street": "Alte Landstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Acher Nord",
@@ -3154,6 +3187,10 @@
   "type": "Feature",
   "id": "way/124879762",
   "properties": {
+    "addr:city": "Unterägeri",
+    "addr:housenumber": "112a",
+    "addr:postcode": "6314",
+    "addr:street": "Alte Landstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Acher Ost, Sekretariat",
@@ -3218,7 +3255,7 @@
   "properties": {
     "addr:city": "Unterägeri",
     "addr:country": "CH",
-    "addr:housenumber": "112",
+    "addr:housenumber": "110",
     "addr:postcode": "6314",
     "addr:street": "Alte Landstrasse",
     "amenity": "school",
@@ -3309,6 +3346,10 @@
   "type": "Feature",
   "id": "way/124879775",
   "properties": {
+    "addr:city": "Unterägeri",
+    "addr:housenumber": "8b",
+    "addr:postcode": "6314",
+    "addr:street": "Waldheimstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Acher West",
@@ -3511,6 +3552,10 @@
   "type": "Feature",
   "id": "way/144073672",
   "properties": {
+    "addr:city": "Holzhäusern ZG",
+    "addr:housenumber": "9",
+    "addr:postcode": "6343",
+    "addr:street": "Holzhäusernstrasse",
     "amenity": "school",
     "building": "yes",
     "check_date": "2024-04-23",
@@ -3591,8 +3636,8 @@
   "properties": {
     "addr:city": "Cham",
     "addr:housenumber": "5",
+    "addr:place": "Röhrliberg",
     "addr:postcode": "6330",
-    "addr:street": "Röhrliberg",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Röhrliberg 2",
@@ -4876,6 +4921,10 @@
   "type": "Feature",
   "id": "way/246981272",
   "properties": {
+    "addr:city": "Hünenberg See",
+    "addr:housenumber": "30",
+    "addr:postcode": "6333",
+    "addr:street": "Huobstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus Kemmatten",
@@ -5053,9 +5102,10 @@
   "type": "Feature",
   "id": "way/275863164",
   "properties": {
+    "addr:city": "Baar",
     "addr:housenumber": "3",
+    "addr:place": "Walterswil",
     "addr:postcode": "6340",
-    "addr:street": "Walterswil",
     "amenity": "school",
     "building": "yes",
     "id": "way/275863164"
@@ -5522,13 +5572,12 @@
   "id": "way/346809074",
   "properties": {
     "addr:city": "Cham",
-    "addr:housenumber": "23",
+    "addr:housenumber": "21",
     "addr:postcode": "6330",
     "addr:street": "Johannisstrasse",
     "amenity": "school",
     "building": "school",
     "building:levels": "3",
-    "entrance": "yes",
     "name": "Schulhaus Städtli 2",
     "id": "way/346809074"
   },
@@ -5730,7 +5779,7 @@
   "properties": {
     "addr:city": "Hagendorn",
     "addr:housenumber": "80",
-    "addr:postcode": "6330",
+    "addr:postcode": "6332",
     "addr:street": "Lorzenweidstrasse",
     "amenity": "school",
     "building": "school",
@@ -5779,8 +5828,8 @@
   "properties": {
     "addr:city": "Hünenberg",
     "addr:housenumber": "16",
+    "addr:place": "Matten",
     "addr:postcode": "6331",
-    "addr:street": "Matten",
     "amenity": "school",
     "building": "school",
     "name": "Tagesschule Matten",
@@ -5819,7 +5868,7 @@
   "id": "way/397894751",
   "properties": {
     "addr:city": "Hünenberg",
-    "addr:housenumber": "6",
+    "addr:housenumber": "4",
     "addr:postcode": "6331",
     "addr:street": "Zentrumstrasse",
     "amenity": "school",
@@ -6617,8 +6666,8 @@
   "properties": {
     "addr:city": "Cham",
     "addr:housenumber": "3",
+    "addr:place": "Röhrliberg",
     "addr:postcode": "6330",
-    "addr:street": "Röhrliberg",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Röhrliberg 1",
@@ -7907,8 +7956,8 @@
   "properties": {
     "addr:city": "Baar",
     "addr:housenumber": "1",
+    "addr:place": "Walterswil",
     "addr:postcode": "6340",
-    "addr:street": "Walterswil",
     "amenity": "school",
     "building": "yes",
     "name": "International School of Zug and Luzern",

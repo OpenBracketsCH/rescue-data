@@ -47638,6 +47638,7 @@
   "properties": {
     "barrier": "gate",
     "foot": "yes",
+    "locked": "no",
     "vehicle": "private",
     "id": "node/5082669812"
   },
@@ -50405,8 +50406,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7897626,
-      46.9883931
+      8.7897552,
+      46.9883617
     ]
   }
 },
