@@ -39798,6 +39798,7 @@
   "id": "node/9360324749",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-11-08",
     "contact:city": "Zürich",
     "contact:housenumber": "30",
     "contact:phone": "+41 44 413 75 30",
@@ -41276,6 +41277,7 @@
     "addr:postcode": "8180",
     "addr:street": "Unterweg",
     "amenity": "kindergarten",
+    "check_date": "2024-11-08",
     "name": "Kindergarten Hohfuri",
     "id": "node/9782228668"
   },
