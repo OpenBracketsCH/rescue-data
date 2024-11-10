@@ -16693,6 +16693,7 @@
   "id": "way/218586146",
   "properties": {
     "amenity": "hospital",
+    "check_date": "2024-11-09",
     "emergency": "no",
     "healthcare": "hospital",
     "name": "EMS le foyer Bethel",
@@ -45702,9 +45703,6 @@
   "type": "Feature",
   "id": "way/739774293",
   "properties": {
-    "addr:housenumber": "17",
-    "addr:postcode": "6300",
-    "addr:street": "Meisenbergstrasse",
     "amenity": "clinic",
     "healthcare": "psychotherapist",
     "healthcare:speciality": "psychiatry",

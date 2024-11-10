@@ -290,8 +290,6 @@
   "type": "Feature",
   "id": "way/379738585",
   "properties": {
-    "addr:postcode": "6300",
-    "addr:street": "Bahnhofplatz",
     "amenity": "pharmacy",
     "branch": "Zug Bahnhof",
     "brand": "Achillea Apotheke",
@@ -1465,8 +1463,8 @@
   "properties": {
     "addr:city": "Zug",
     "addr:housenumber": "10",
+    "addr:place": "Bundesplatz",
     "addr:postcode": "6300",
-    "addr:street": "Bundesplatz",
     "amenity": "pharmacy",
     "branch": "Zug",
     "brand": "Amavita",
@@ -1482,8 +1480,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5153424,
-      47.1716195
+      8.5152952,
+      47.1716494
     ]
   }
 },
@@ -1564,8 +1562,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5151006,
-      47.1656818
+      8.5151189,
+      47.1656693
     ]
   }
 },
@@ -2341,8 +2339,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5173863,
-      47.1724716
+      8.5174322,
+      47.1724345
     ]
   }
 },
@@ -7591,8 +7589,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5149676,
-      47.1725785
+      8.5149094,
+      47.17255
     ]
   }
 },

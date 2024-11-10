@@ -18,8 +18,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4891593,
-      47.1824428
+      8.4889825,
+      47.1824666
     ]
   }
 },
@@ -30,7 +30,7 @@
     "addr:city": "Zug",
     "addr:housenumber": "36",
     "addr:postcode": "6300",
-    "addr:street": "St.Johannesstrasse",
+    "addr:street": "St.-Johannes-Strasse",
     "description": "Notfalltreffpunkt Stadt Zug",
     "emergency": "disaster_help_point",
     "location": "Schulhaus Herti",
@@ -40,8 +40,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5034418,
-      47.1814831
+      8.5036119,
+      47.1813918
     ]
   }
 },
@@ -62,8 +62,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5131497,
-      47.1719226
+      8.5130916,
+      47.1718093
     ]
   }
 },
@@ -117,7 +117,7 @@
     "addr:city": "Zug",
     "addr:housenumber": "3",
     "addr:postcode": "6300",
-    "addr:street": "Sankt Oswaldsgasse",
+    "addr:street": "St.-Oswalds-Gasse",
     "description": "Notfalltreffpunkt Stadt Zug",
     "emergency": "disaster_help_point",
     "location": "Schulhaus Burgbach",
@@ -127,8 +127,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5165474,
-      47.1657588
+      8.516499,
+      47.1656989
     ]
   }
 },
@@ -157,7 +157,7 @@
   "type": "Feature",
   "id": "node/9418104507",
   "properties": {
-    "addr:city": "Oberwil",
+    "addr:city": "Oberwil b. Zug",
     "addr:housenumber": "101",
     "addr:postcode": "6317",
     "addr:street": "Artherstrasse",
@@ -170,8 +170,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5081484,
-      47.1493091
+      8.5080534,
+      47.1493338
     ]
   }
 }

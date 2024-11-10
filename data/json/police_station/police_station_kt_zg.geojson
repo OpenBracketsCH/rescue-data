@@ -5,10 +5,6 @@
   "type": "Feature",
   "id": "way/44917958",
   "properties": {
-    "addr:city": "Zug",
-    "addr:housenumber": "4",
-    "addr:postcode": "6300",
-    "addr:street": "An der Aa",
     "amenity": "police",
     "building": "yes",
     "check_date:opening_hours": "2022-09-04",

@@ -503,9 +503,6 @@
   "type": "Feature",
   "id": "way/739774293",
   "properties": {
-    "addr:housenumber": "17",
-    "addr:postcode": "6300",
-    "addr:street": "Meisenbergstrasse",
     "amenity": "clinic",
     "healthcare": "psychotherapist",
     "healthcare:speciality": "psychiatry",

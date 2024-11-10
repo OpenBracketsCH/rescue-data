@@ -48433,8 +48433,6 @@
   "type": "Feature",
   "id": "way/151825845",
   "properties": {
-    "addr:housenumber": "7",
-    "addr:street": "Aabachstrasse",
     "amenity": "school",
     "building": "yes",
     "check_date": "2024-04-19",
@@ -54304,11 +54302,7 @@
   "type": "Feature",
   "id": "way/170812385",
   "properties": {
-    "addr:city": "Zug",
     "addr:housename": "Tagesschule",
-    "addr:housenumber": "4",
-    "addr:postcode": "6300",
-    "addr:street": "Klosterstrasse",
     "amenity": "school",
     "building": "yes",
     "id": "way/170812385"
@@ -55451,10 +55445,6 @@
   "type": "Feature",
   "id": "way/174994034",
   "properties": {
-    "addr:city": "Zug",
-    "addr:housenumber": "41",
-    "addr:postcode": "6300",
-    "addr:street": "Riedmatt",
     "amenity": "school",
     "building": "school",
     "check_date": "2024-09-22",
@@ -77395,12 +77385,7 @@
   "type": "Feature",
   "id": "way/255898537",
   "properties": {
-    "addr:city": "Zug",
-    "addr:country": "CH",
     "addr:housename": "Athene",
-    "addr:housenumber": "20",
-    "addr:postcode": "6300",
-    "addr:street": "Hofstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Fachmittelschule FMS Zug",
@@ -101085,10 +101070,6 @@
   "type": "Feature",
   "id": "way/477257060",
   "properties": {
-    "addr:city": "Zug",
-    "addr:housenumber": "100",
-    "addr:postcode": "6300",
-    "addr:street": "Baarerstrasse",
     "amenity": "school",
     "email": "sekretariat.gibz@zg.ch",
     "name": "Gewerblich-industrielles Bildungszentrum Zug GIBZ",
@@ -110010,8 +109991,6 @@
   "type": "Feature",
   "id": "way/697942737",
   "properties": {
-    "addr:city": "Zug",
-    "addr:postcode": "6300",
     "amenity": "school",
     "name": "Schulanlage Loreto",
     "id": "way/697942737"
@@ -122408,10 +122387,6 @@
   "type": "Feature",
   "id": "way/1118326380",
   "properties": {
-    "addr:city": "Zug",
-    "addr:housenumber": "36",
-    "addr:postcode": "6300",
-    "addr:street": "St.Johannesstrasse",
     "amenity": "school",
     "building": "yes",
     "leisure": "swimming_pool",
@@ -122476,10 +122451,6 @@
   "type": "Feature",
   "id": "way/1118326381",
   "properties": {
-    "addr:city": "Zug",
-    "addr:housenumber": "34",
-    "addr:postcode": "6300",
-    "addr:street": "St.Johannesstrasse",
     "amenity": "school",
     "building": "school",
     "name": "Herti Schulhaus",
@@ -125103,8 +125074,6 @@
   "type": "Feature",
   "id": "way/1266746841",
   "properties": {
-    "addr:housenumber": "19a",
-    "addr:street": "Lüssiweg",
     "amenity": "school",
     "building": "school",
     "building:levels": "2",

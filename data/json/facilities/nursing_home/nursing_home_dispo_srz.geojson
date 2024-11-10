@@ -13921,10 +13921,7 @@
   "type": "Feature",
   "id": "way/198668824",
   "properties": {
-    "addr:city": "Zugerberg",
-    "addr:housenumber": "3",
     "addr:place": "Horbach",
-    "addr:postcode": "6300",
     "amenity": "social_facility",
     "building": "yes",
     "loc_name": "Sennhütte",
@@ -22060,10 +22057,6 @@
   "type": "Feature",
   "id": "way/398238825",
   "properties": {
-    "addr:city": "Oberwil b. Zug",
-    "addr:housenumber": "3",
-    "addr:postcode": "6317",
-    "addr:street": "Mülimatt",
     "alt_name": "Pflegeheim Mülimatt;Altersheim Mülimatt",
     "amenity": "social_facility",
     "building": "yes",
