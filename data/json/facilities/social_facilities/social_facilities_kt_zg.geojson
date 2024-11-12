@@ -1100,10 +1100,6 @@
   "type": "Feature",
   "id": "way/327158571",
   "properties": {
-    "addr:city": "Cham",
-    "addr:housenumber": "3",
-    "addr:postcode": "6330",
-    "addr:street": "Rigistrasse",
     "amenity": "social_facility",
     "building": "yes",
     "building:levels": "7",
