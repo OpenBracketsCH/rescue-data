@@ -4923,6 +4923,7 @@
     "addr:street": "Landstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-11-12",
     "name": "Mosaik Sozialtherapie AG",
     "operator": "Mosaik Sozialtherapie AG",
     "phone": "+41 52 304 30 30",

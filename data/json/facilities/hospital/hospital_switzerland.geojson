@@ -16690,6 +16690,49 @@
 },
 {
   "type": "Feature",
+  "id": "way/216680033",
+  "properties": {
+    "addr:city": "Lussy-sur-Morges",
+    "addr:housenumber": "1",
+    "addr:postcode": "1167",
+    "addr:street": "Route de Coinsin",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "psychiatry",
+    "name": "EMS Les Lusiades",
+    "operator": "JBCgroup",
+    "id": "way/216680033"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.4503505,
+          46.5028529
+        ],
+        [
+          6.4504175,
+          46.5027846
+        ],
+        [
+          6.4505093,
+          46.5028397
+        ],
+        [
+          6.4504181,
+          46.5029154
+        ],
+        [
+          6.4503505,
+          46.5028529
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/218586146",
   "properties": {
     "amenity": "hospital",
@@ -24310,6 +24353,66 @@
         [
           8.0517449,
           47.391898
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/384559788",
+  "properties": {
+    "addr:city": "Renens",
+    "addr:housenumber": "3",
+    "addr:postcode": "1020",
+    "addr:street": "Chemin des Novalles",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "psychiatry",
+    "name": "EMS Château des Novalles",
+    "operator": "JBCgroup",
+    "operator:type": "private",
+    "id": "way/384559788"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.5889165,
+          46.5403834
+        ],
+        [
+          6.5890888,
+          46.5404683
+        ],
+        [
+          6.5890046,
+          46.5405491
+        ],
+        [
+          6.5890354,
+          46.5405643
+        ],
+        [
+          6.5890008,
+          46.5405975
+        ],
+        [
+          6.5888291,
+          46.5405128
+        ],
+        [
+          6.5888586,
+          46.5404845
+        ],
+        [
+          6.5888273,
+          46.540469
+        ],
+        [
+          6.5889165,
+          46.5403834
         ]
       ]
     ]

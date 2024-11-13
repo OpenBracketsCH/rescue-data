@@ -37208,6 +37208,8 @@
   "id": "node/4459318555",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "2.8",
+    "source:maxwidth:physical": "ARCore",
     "id": "node/4459318555"
   },
   "geometry": {
