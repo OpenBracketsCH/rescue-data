@@ -47179,15 +47179,17 @@
   "type": "Feature",
   "id": "node/10175173858",
   "properties": {
-    "access": "yes",
+    "access": "permissive",
     "defibrillator:location": "Im Untergeschoss, links vom Herren WC an der Wand befestigt",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "-1",
+    "level": "0",
+    "opening_hours": "24/7",
     "operator": "Manuel Widmer",
     "phone": "+41 44 782 01 01",
+    "wheelchair": "limited",
     "id": "node/10175173858"
   },
   "geometry": {
@@ -82876,11 +82878,11 @@
   "properties": {
     "access": "private",
     "defibrillator:location": "First Responder Ausrüstung",
-    "description": "Nicht öffentlich verfügbar",
+    "description": "AED Schiller Fred Easy & First Responder Ausrüstung",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "operator": "Privat-Person (First Responder)",
+    "operator": "Claudio Granja (First Responder)",
     "phone": "+41 76 513 14 15",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/12318739101"
@@ -83234,6 +83236,79 @@
     "coordinates": [
       8.4251028,
       47.1425988
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12336733501",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Gemeindehaus Volken, Seiteneingang",
+    "description": "dauernd verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "00",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Volken",
+    "phone": "+41 52 318 19 04",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12336733501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6245948,
+      47.5738658
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12336845802",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Im Erdgeschoss beim Lift",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "MO-FR 06:00-20:30, SA-SU 06:00-16:30",
+    "operator": "CSL Immobilien AG",
+    "phone": "+41 58 400 85 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12336845802"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5203803,
+      47.3421089
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12337698601",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Tennisanlage Lengg",
+    "description": "während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "Mo-Su \n07:00-23:00",
+    "operator": "TC Lengg",
+    "phone": "+41443811313",
+    "id": "node/12337698601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5709552,
+      47.3499424
     ]
   }
 }

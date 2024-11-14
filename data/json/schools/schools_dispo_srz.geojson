@@ -97033,6 +97033,7 @@
   "id": "way/414690878",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-11-13",
     "grades": "0",
     "name": "Kindergarten Wanne",
     "operator": "Schule Wiesendangen",
