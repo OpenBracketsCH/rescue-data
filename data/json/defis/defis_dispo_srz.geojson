@@ -3678,6 +3678,7 @@
     "defibrillator:location": "Schalterraum Bahnstation Rigi Bahnen AG",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "note": "Tel. 041 811 15 55",
     "opening_hours": "24/7",
     "operator": "Rigi Bahnen AG",
@@ -23826,28 +23827,6 @@
     "coordinates": [
       8.8495273,
       47.1898173
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8577499497",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Eingang neues Schulhaus Hütten Hinweisschild Kandelaber Dorftrasse 28",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "Hanspeter Schawalder Hauswart Schule",
-    "phone": "+41 79 226 50 48",
-    "id": "node/8577499497"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.665933,
-      47.1751567
     ]
   }
 },
@@ -83309,6 +83288,76 @@
     "coordinates": [
       8.5709552,
       47.3499424
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12338965301",
+  "properties": {
+    "defibrillator:location": "ENVICAN GmbH Bühler -Areal 27",
+    "description": "Mo-Fr 08.00-17.00 Uhr / Türe geschlossen nicht öffentlich zugänglich -bitte klingeln ! ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "ENVICAN GmbH ",
+    "phone": "+41525512800",
+    "id": "node/12338965301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7546695,
+      47.4669228
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12339677301",
+  "properties": {
+    "defibrillator:location": "Merck (Schweiz) AG, Chamerstrasse 174, 6300 Zug",
+    "description": "während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Th 08:00-16:00, Fr 08:00-12:00",
+    "phone": "+41 41 729 22 22",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12339677301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.485136,
+      47.1813855
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12339704701",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Lift Ost im Empfangsbereich",
+    "description": "während den Öffnungszeiten Mo-Fr",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "4",
+    "opening_hours": "8:00-12:00, 14:00-17:00",
+    "operator": "Notariat, Grundbuch- und Konkursamt Schlieren",
+    "phone": "+41447523700",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12339704701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4491408,
+      47.3969875
     ]
   }
 }

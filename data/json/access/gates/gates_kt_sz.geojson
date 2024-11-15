@@ -5607,6 +5607,7 @@
   "properties": {
     "barrier": "gate",
     "gate:type": "kissing",
+    "maxwidth:physical": "0.6",
     "id": "node/9967058016"
   },
   "geometry": {
