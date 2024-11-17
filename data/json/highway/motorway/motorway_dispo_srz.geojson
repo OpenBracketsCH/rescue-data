@@ -17072,6 +17072,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A1",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/26274689"
   },
@@ -25021,6 +25022,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A1",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/37189577"
   },
