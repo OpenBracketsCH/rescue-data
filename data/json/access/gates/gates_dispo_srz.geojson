@@ -79519,6 +79519,7 @@
     "foot": "yes",
     "horse": "no",
     "locked": "no",
+    "maxwidth:physical": "1",
     "motor_vehicle": "no",
     "wheelchair": "yes",
     "id": "node/10209263765"

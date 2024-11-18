@@ -17984,6 +17984,7 @@
     "addr:street": "Bahnhofstrasse",
     "amenity": "kindergarten",
     "building": "school",
+    "check_date": "2024-11-17",
     "name": "Kindergarten Altes Schulhaus",
     "id": "way/196957357"
   },

@@ -1029,10 +1029,6 @@
   "type": "Feature",
   "id": "way/308276271",
   "properties": {
-    "addr:city": "Menzingen",
-    "addr:housenumber": "14",
-    "addr:postcode": "6313",
-    "addr:street": "Seminarstrasse",
     "alt_name": "Altersheim der Schwestern vom Heiligen Kreuz",
     "amenity": "social_facility",
     "building": "yes",
@@ -1184,11 +1180,6 @@
   "type": "Feature",
   "id": "way/308276272",
   "properties": {
-    "addr:city": "Menzingen",
-    "addr:country": "CH",
-    "addr:housenumber": "11a",
-    "addr:postcode": "6313",
-    "addr:street": "Seminarstrasse",
     "amenity": "nursing_home",
     "building": "yes",
     "email": "franziskus@institut-menzingen.ch",
