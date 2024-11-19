@@ -7710,6 +7710,7 @@
     "amenity": "pharmacy",
     "healthcare": "pharmacy",
     "name": "Albis Drogerie",
+    "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-17:00; PH off",
     "id": "node/8078091318"
   },
   "geometry": {
