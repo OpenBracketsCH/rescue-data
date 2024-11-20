@@ -54271,9 +54271,9 @@
   "type": "Feature",
   "id": "way/170812385",
   "properties": {
-    "addr:housename": "Tagesschule",
     "amenity": "school",
     "building": "yes",
+    "name": "Tagesschule",
     "id": "way/170812385"
   },
   "geometry": {
@@ -77355,6 +77355,7 @@
   "id": "way/255898537",
   "properties": {
     "addr:housename": "Athene",
+    "addr:street": "Hofstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Fachmittelschule FMS Zug",
@@ -127727,6 +127728,7 @@
   "type": "Feature",
   "id": "node/5152330922",
   "properties": {
+    "addr:city": "Zug",
     "addr:housenumber": "19",
     "addr:postcode": "6300",
     "addr:street": "Baarerstrasse",

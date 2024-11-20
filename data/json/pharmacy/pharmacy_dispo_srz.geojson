@@ -5192,6 +5192,7 @@
   "type": "Feature",
   "id": "node/3358077152",
   "properties": {
+    "addr:city": "Zug",
     "addr:housenumber": "11",
     "addr:postcode": "6300",
     "addr:street": "Bahnhofstrasse",
@@ -6938,8 +6939,8 @@
   "properties": {
     "addr:city": "Zug",
     "addr:housenumber": "10",
+    "addr:place": "Hertizentrum",
     "addr:postcode": "6300",
-    "addr:street": "Hertizentrum",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
     "dispensing": "yes",

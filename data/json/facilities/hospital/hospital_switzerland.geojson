@@ -56788,7 +56788,7 @@
     "addr:postcode": "8307",
     "amenity": "clinic",
     "name": "Optimum Esthetic",
-    "website": "http://optimum-esthetic.ch",
+    "website": "https://optimum-esthetic.ch/",
     "id": "node/12338803801"
   },
   "geometry": {
@@ -56796,6 +56796,23 @@
     "coordinates": [
       8.6745559,
       47.4331895
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12357387036",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Praxisgemeinschaft Am Untertor",
+    "id": "node/12357387036"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7243764,
+      47.4994143
     ]
   }
 }
