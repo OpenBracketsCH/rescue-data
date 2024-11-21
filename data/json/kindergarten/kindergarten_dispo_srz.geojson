@@ -1453,10 +1453,6 @@
   "type": "Feature",
   "id": "way/32450538",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "30",
-    "addr:postcode": "8810",
-    "addr:street": "Erlenstrasse",
     "amenity": "kindergarten",
     "building": "school",
     "name": "Kindergarten Fischenrüti",
@@ -1562,10 +1558,6 @@
   "type": "Feature",
   "id": "way/32450750",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "1",
-    "addr:postcode": "8810",
-    "addr:street": "Mühlebachstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Allmend 1+2+3",
@@ -1619,10 +1611,6 @@
   "type": "Feature",
   "id": "way/32451201",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "23",
-    "addr:postcode": "8810",
-    "addr:street": "Drusbergstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Heubach",
@@ -5799,7 +5787,6 @@
   "type": "Feature",
   "id": "way/54362361",
   "properties": {
-    "addr:city": "Baar",
     "addr:housenumber": "30",
     "addr:postcode": "6340",
     "addr:street": "Altgasse",
@@ -9360,10 +9347,6 @@
   "type": "Feature",
   "id": "way/97010281",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "16",
-    "addr:postcode": "8810",
-    "addr:street": "Aubrigstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Kottenrain 1+2",
@@ -9493,10 +9476,6 @@
   "type": "Feature",
   "id": "way/97161679",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "39",
-    "addr:postcode": "8810",
-    "addr:street": "Gehrenstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Gehren",
@@ -9534,10 +9513,6 @@
   "type": "Feature",
   "id": "way/97467854",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "60a",
-    "addr:postcode": "8810",
-    "addr:street": "Bockenweg",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Arn",
@@ -9615,10 +9590,6 @@
   "type": "Feature",
   "id": "way/98645682",
   "properties": {
-    "addr:city": "Horgenberg",
-    "addr:housenumber": "1a",
-    "addr:postcode": "8815",
-    "addr:street": "Maurenmoosstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Horgenberg",
@@ -13874,7 +13845,6 @@
   "type": "Feature",
   "id": "way/154831362",
   "properties": {
-    "addr:city": "Unterägeri",
     "addr:country": "CH",
     "addr:housenumber": "2",
     "addr:postcode": "6314",
@@ -17115,7 +17085,6 @@
   "type": "Feature",
   "id": "way/192553802",
   "properties": {
-    "addr:city": "Unterägeri",
     "addr:country": "CH",
     "addr:housenumber": "2",
     "addr:place": "Chlösterli",
@@ -23698,10 +23667,6 @@
   "type": "Feature",
   "id": "way/295035033",
   "properties": {
-    "addr:city": "Hirzel",
-    "addr:housenumber": "27",
-    "addr:postcode": "8816",
-    "addr:street": "Dorfstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Dorf",
@@ -40672,8 +40637,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6122238,
-      47.2543756
+      8.6121958,
+      47.254424
     ]
   }
 },

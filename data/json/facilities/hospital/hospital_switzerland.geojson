@@ -6719,7 +6719,6 @@
   "type": "Feature",
   "id": "way/46511032",
   "properties": {
-    "addr:city": "Baar",
     "addr:country": "CH",
     "addr:housenumber": "11",
     "addr:postcode": "6340",
@@ -22497,10 +22496,6 @@
   "type": "Feature",
   "id": "way/317763534",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "19",
-    "addr:postcode": "8810",
-    "addr:street": "Asylstrasse",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
@@ -35642,6 +35637,7 @@
     "healthcare": "hospital",
     "name": "HFR Fribourg – Hôpital cantonal",
     "name:de": "HFR Freiburg – Kantonsspital",
+    "name:hr": "Kantonalna bolnica Fribourg",
     "phone": "+41 264267111",
     "website": "https://www.h-fr.ch/",
     "wikidata": "Q23013010",
@@ -56382,6 +56378,7 @@
     "amenity": "hospital",
     "healthcare": "hospital",
     "name": "Urgences / Notfall",
+    "name:hr": "Kantonalna bolnica Fribourg - hitni prijem",
     "id": "node/11816169507"
   },
   "geometry": {
@@ -56796,23 +56793,6 @@
     "coordinates": [
       8.6745559,
       47.4331895
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/12357387036",
-  "properties": {
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "name": "Praxisgemeinschaft Am Untertor",
-    "id": "node/12357387036"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7243764,
-      47.4994143
     ]
   }
 }

@@ -95,7 +95,6 @@
   "type": "Feature",
   "id": "way/54362361",
   "properties": {
-    "addr:city": "Baar",
     "addr:housenumber": "30",
     "addr:postcode": "6340",
     "addr:street": "Altgasse",
@@ -295,7 +294,6 @@
   "type": "Feature",
   "id": "way/154831362",
   "properties": {
-    "addr:city": "Unterägeri",
     "addr:country": "CH",
     "addr:housenumber": "2",
     "addr:postcode": "6314",
@@ -337,7 +335,6 @@
   "type": "Feature",
   "id": "way/192553802",
   "properties": {
-    "addr:city": "Unterägeri",
     "addr:country": "CH",
     "addr:housenumber": "2",
     "addr:place": "Chlösterli",

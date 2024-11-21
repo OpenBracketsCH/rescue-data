@@ -3935,9 +3935,6 @@
   "type": "Feature",
   "id": "way/23646458",
   "properties": {
-    "addr:housenumber": "1.1",
-    "addr:postcode": "6340",
-    "addr:street": "Walterswil",
     "amenity": "school",
     "building": "yes",
     "id": "way/23646458"
@@ -4150,9 +4147,6 @@
   "type": "Feature",
   "id": "way/23646461",
   "properties": {
-    "addr:housenumber": "1.5",
-    "addr:postcode": "6340",
-    "addr:street": "Walterswil",
     "amenity": "school",
     "building": "yes",
     "id": "way/23646461"
@@ -4253,10 +4247,6 @@
   "type": "Feature",
   "id": "way/23646462",
   "properties": {
-    "addr:city": "Baar",
-    "addr:housenumber": "1.7",
-    "addr:postcode": "6340",
-    "addr:street": "Walterswil",
     "amenity": "school",
     "building": "yes",
     "name": "International School of Zug and Luzern",
@@ -11396,10 +11386,6 @@
   "type": "Feature",
   "id": "way/31318152",
   "properties": {
-    "addr:city": "Horgenberg",
-    "addr:housenumber": "1",
-    "addr:postcode": "8815",
-    "addr:street": "Maurenmoosstrasse",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Horgenberg",
@@ -11752,10 +11738,6 @@
   "type": "Feature",
   "id": "way/31827047",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "35",
-    "addr:postcode": "8810",
-    "addr:street": "Alte Landstrasse",
     "amenity": "school",
     "building": "school",
     "check_date": "2024-10-18",
@@ -11810,10 +11792,6 @@
   "type": "Feature",
   "id": "way/31827052",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "33",
-    "addr:postcode": "8810",
-    "addr:street": "Alte Landstrasse",
     "amenity": "school",
     "building": "school",
     "check_date": "2024-10-18",
@@ -12285,7 +12263,6 @@
   "type": "Feature",
   "id": "way/32216321",
   "properties": {
-    "addr:city": "Baar",
     "addr:housenumber": "9",
     "addr:postcode": "6340",
     "addr:street": "Deinikonerstrasse",
@@ -12346,7 +12323,6 @@
   "type": "Feature",
   "id": "way/32216356",
   "properties": {
-    "addr:city": "Baar",
     "addr:housenumber": "7",
     "addr:postcode": "6340",
     "addr:street": "Deinikonerstrasse",
@@ -20662,7 +20638,6 @@
   "type": "Feature",
   "id": "way/41062607",
   "properties": {
-    "addr:city": "Baar",
     "addr:housenumber": "177",
     "addr:postcode": "6340",
     "addr:street": "Rigistrasse",
@@ -21850,10 +21825,6 @@
   "type": "Feature",
   "id": "way/44629796",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "57",
-    "addr:postcode": "8810",
-    "addr:street": "Glärnischstrasse",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Rotweg",
@@ -25958,7 +25929,6 @@
   "type": "Feature",
   "id": "way/54362437",
   "properties": {
-    "addr:city": "Baar",
     "addr:housenumber": "10",
     "addr:postcode": "6340",
     "addr:street": "Sternmattstrasse",
@@ -26015,7 +25985,6 @@
   "type": "Feature",
   "id": "way/54362493",
   "properties": {
-    "addr:city": "Baar",
     "addr:housenumber": "22b",
     "addr:postcode": "6340",
     "addr:street": "Inwilerstrasse",
@@ -26059,7 +26028,6 @@
   "type": "Feature",
   "id": "way/54362582",
   "properties": {
-    "addr:city": "Baar",
     "addr:housenumber": "6",
     "addr:postcode": "6340",
     "addr:street": "Inwilerstrasse",
@@ -26152,7 +26120,6 @@
   "type": "Feature",
   "id": "way/54362583",
   "properties": {
-    "addr:city": "Baar",
     "addr:housenumber": "4",
     "addr:postcode": "6340",
     "addr:street": "Inwilerstrasse",
@@ -27945,10 +27912,6 @@
   "type": "Feature",
   "id": "way/68804806",
   "properties": {
-    "addr:city": "Hirzel",
-    "addr:housenumber": "47",
-    "addr:postcode": "8816",
-    "addr:street": "Dorfstrasse",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Schützenmatt",
@@ -33901,10 +33864,6 @@
   "type": "Feature",
   "id": "way/96298580",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "13",
-    "addr:postcode": "8810",
-    "addr:street": "Speerstrasse",
     "amenity": "school",
     "building": "school",
     "check_date": "2024-11-03",
@@ -33945,10 +33904,6 @@
   "type": "Feature",
   "id": "way/96298611",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "26",
-    "addr:postcode": "8810",
-    "addr:street": "Einsiedlerstrasse",
     "amenity": "school",
     "building": "school",
     "check_date": "2024-11-03",
@@ -34164,10 +34119,6 @@
   "type": "Feature",
   "id": "way/97467858",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "60",
-    "addr:postcode": "8810",
-    "addr:street": "Bockenweg",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Arn",
@@ -36545,10 +36496,7 @@
   "type": "Feature",
   "id": "way/108958685",
   "properties": {
-    "addr:city": "Baar",
-    "addr:housenumber": "2",
     "addr:place": "Walterswil",
-    "addr:postcode": "6340",
     "amenity": "school",
     "building": "yes",
     "id": "way/108958685"
@@ -54332,10 +54280,6 @@
   "type": "Feature",
   "id": "way/170975540",
   "properties": {
-    "addr:city": "Allenwinden",
-    "addr:housenumber": "18",
-    "addr:postcode": "6319",
-    "addr:street": "Dorfstrasse",
     "amenity": "school",
     "building": "yes",
     "id": "way/170975540"
@@ -61006,7 +60950,6 @@
   "type": "Feature",
   "id": "way/196783639",
   "properties": {
-    "addr:city": "Allenwinden",
     "addr:housenumber": "10",
     "addr:postcode": "6319",
     "addr:street": "Dorfstrasse",
@@ -70596,7 +70539,9 @@
     "addr:street": "Schulstrasse",
     "amenity": "school",
     "building": "school",
+    "building:levels": "2",
     "name": "Schulhaus Morschach",
+    "roof:levels": "0",
     "id": "way/231029153"
   },
   "geometry": {
@@ -78824,10 +78769,6 @@
   "type": "Feature",
   "id": "way/264194308",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "11",
-    "addr:postcode": "8810",
-    "addr:street": "Speerstrasse",
     "amenity": "school",
     "building": "school",
     "id": "way/264194308"
@@ -81188,10 +81129,7 @@
   "type": "Feature",
   "id": "way/275863164",
   "properties": {
-    "addr:city": "Baar",
-    "addr:housenumber": "3",
     "addr:place": "Walterswil",
-    "addr:postcode": "6340",
     "amenity": "school",
     "building": "yes",
     "id": "way/275863164"
@@ -84515,10 +84453,6 @@
   "type": "Feature",
   "id": "way/295032920",
   "properties": {
-    "addr:city": "Hirzel",
-    "addr:housenumber": "56b",
-    "addr:postcode": "8816",
-    "addr:street": "Dorfstrasse",
     "amenity": "school",
     "building": "school",
     "name": "Schule Heerenrainli",
@@ -118487,9 +118421,6 @@
   "type": "Feature",
   "id": "way/1042637871",
   "properties": {
-    "addr:housenumber": "2.1",
-    "addr:postcode": "6340",
-    "addr:street": "Walterswil",
     "amenity": "school",
     "id": "way/1042637871"
   },
@@ -118525,10 +118456,7 @@
   "type": "Feature",
   "id": "way/1042637872",
   "properties": {
-    "addr:city": "Baar",
-    "addr:housenumber": "1",
     "addr:place": "Walterswil",
-    "addr:postcode": "6340",
     "amenity": "school",
     "building": "yes",
     "name": "International School of Zug and Luzern",
@@ -118571,9 +118499,6 @@
   "type": "Feature",
   "id": "way/1042637873",
   "properties": {
-    "addr:housenumber": "1.8",
-    "addr:postcode": "6340",
-    "addr:street": "Walterswil",
     "amenity": "school",
     "building": "yes",
     "id": "way/1042637873"
@@ -118610,7 +118535,6 @@
   "type": "Feature",
   "id": "way/1046864458",
   "properties": {
-    "addr:city": "Baar",
     "addr:housenumber": "7b",
     "addr:postcode": "6340",
     "addr:street": "Deinikonerstrasse",
@@ -119945,10 +119869,6 @@
   "type": "Feature",
   "id": "way/1078399727",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "24",
-    "addr:postcode": "8810",
-    "addr:street": "Einsiedlerstrasse",
     "amenity": "school",
     "building": "school",
     "check_date": "2024-11-03",
@@ -120100,10 +120020,6 @@
   "type": "Feature",
   "id": "way/1078511517",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "5",
-    "addr:postcode": "8810",
-    "addr:street": "Waldeggstrasse",
     "amenity": "school",
     "building": "school",
     "layer": "1",
@@ -121439,7 +121355,6 @@
   "type": "Feature",
   "id": "way/1094394798",
   "properties": {
-    "addr:city": "Baar",
     "addr:housenumber": "13",
     "addr:postcode": "6340",
     "addr:street": "Deinikonerstrasse",
@@ -126031,8 +125946,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5940647,
-      47.2614737
+      8.5941725,
+      47.2614492
     ]
   }
 },
@@ -126903,6 +126818,7 @@
   "id": "node/2098533022",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-11-20",
     "contact:email": "ka_kuendig@bluewin.ch",
     "contact:phone": "+41 79 719 95 45",
     "contact:website": "www.atelier2k.ch",

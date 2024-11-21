@@ -4920,7 +4920,9 @@
     "addr:street": "Schulstrasse",
     "amenity": "school",
     "building": "school",
+    "building:levels": "2",
     "name": "Schulhaus Morschach",
+    "roof:levels": "0",
     "id": "way/231029153"
   },
   "geometry": {
@@ -11910,6 +11912,7 @@
   "id": "node/2098533022",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-11-20",
     "contact:email": "ka_kuendig@bluewin.ch",
     "contact:phone": "+41 79 719 95 45",
     "contact:website": "www.atelier2k.ch",

@@ -22673,28 +22673,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8570537139",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Wache der Stadtpolizei - Anforderung via Schalter (24h offen)",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "24/7",
-    "operator": "Stadtpolizei Winterthur",
-    "phone": "+41 52 267 50 80",
-    "id": "node/8570537139"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7321427,
-      47.499922
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8570538942",
   "properties": {
     "access": "yes",
@@ -73916,8 +73894,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.516622,
-      47.1874501
+      8.5165897,
+      47.187465
     ]
   }
 },
@@ -83700,6 +83678,29 @@
     "coordinates": [
       8.4712957,
       47.4397966
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12358062203",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Büro der iSpringer GmbH",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 8:00 - 18:00",
+    "operator": "Firma iSpringer GmbH",
+    "phone": "+41433440404",
+    "id": "node/12358062203"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7171208,
+      47.3839942
     ]
   }
 }

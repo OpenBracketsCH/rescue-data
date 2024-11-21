@@ -368,7 +368,6 @@
   "type": "Feature",
   "id": "way/192553690",
   "properties": {
-    "addr:city": "Unterägeri",
     "addr:country": "CH",
     "addr:housenumber": "1",
     "addr:place": "Chlösterli",
@@ -1529,7 +1528,6 @@
   "type": "Feature",
   "id": "way/953932809",
   "properties": {
-    "addr:city": "Baar",
     "addr:housenumber": "17",
     "addr:postcode": "6340",
     "addr:street": "Landhausstrasse",

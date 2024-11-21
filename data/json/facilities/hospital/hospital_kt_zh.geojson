@@ -4449,10 +4449,6 @@
   "type": "Feature",
   "id": "way/317763534",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "19",
-    "addr:postcode": "8810",
-    "addr:street": "Asylstrasse",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
@@ -11008,23 +11004,6 @@
     "coordinates": [
       8.6745559,
       47.4331895
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/12357387036",
-  "properties": {
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "name": "Praxisgemeinschaft Am Untertor",
-    "id": "node/12357387036"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7243764,
-      47.4994143
     ]
   }
 }

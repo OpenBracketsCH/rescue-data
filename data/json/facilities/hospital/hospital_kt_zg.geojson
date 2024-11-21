@@ -307,7 +307,6 @@
   "type": "Feature",
   "id": "way/46511032",
   "properties": {
-    "addr:city": "Baar",
     "addr:country": "CH",
     "addr:housenumber": "11",
     "addr:postcode": "6340",

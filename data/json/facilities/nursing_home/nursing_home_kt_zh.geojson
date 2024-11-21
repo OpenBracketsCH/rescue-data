@@ -15653,10 +15653,6 @@
   "type": "Feature",
   "id": "way/295032884",
   "properties": {
-    "addr:city": "Hirzel",
-    "addr:housenumber": "1a",
-    "addr:postcode": "8816",
-    "addr:street": "Bergstrasse",
     "amenity": "social_facility",
     "building": "yes",
     "email": "info@spyrigarten.ch",
@@ -18508,10 +18504,6 @@
   "type": "Feature",
   "id": "way/662349659",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "2",
-    "addr:postcode": "8810",
-    "addr:street": "Schärbächlistrasse",
     "amenity": "social_facility",
     "email": "info@tabea.ch",
     "name": "Alterszentrum Haus Tabea",
@@ -19430,10 +19422,7 @@
   "type": "Feature",
   "id": "way/692399193",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "149",
     "addr:place": "8810",
-    "addr:street": "Einsiedlerstrasse",
     "amenity": "social_facility",
     "building": "apartments",
     "name": "PWG Strickler",

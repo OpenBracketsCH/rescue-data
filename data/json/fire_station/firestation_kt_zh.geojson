@@ -441,10 +441,6 @@
   "type": "Feature",
   "id": "way/31827427",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "21",
-    "addr:postcode": "8810",
-    "addr:street": "Waldeggstrasse",
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Horgen - Depot Horgen",
@@ -4246,9 +4242,6 @@
   "type": "Feature",
   "id": "way/295033726",
   "properties": {
-    "addr:city": "Hirzel",
-    "addr:postcode": "8816",
-    "addr:street": "Vorderi Siten",
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Horgen - Depot Hirzel",

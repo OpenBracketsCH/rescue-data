@@ -4713,9 +4713,6 @@
   "type": "Feature",
   "id": "way/32963881",
   "properties": {
-    "addr:housenumber": "55",
-    "addr:postcode": "8810",
-    "addr:street": "Zugerstrasse",
     "amenity": "social_facility",
     "building": "yes",
     "email": "arbeiten@humanitashorgen.ch",
@@ -8898,7 +8895,6 @@
   "type": "Feature",
   "id": "way/54679350",
   "properties": {
-    "addr:city": "Baar",
     "addr:housenumber": "12",
     "addr:postcode": "6340",
     "addr:street": "Bahnhofstrasse",
@@ -8944,7 +8940,6 @@
   "type": "Feature",
   "id": "way/54679405",
   "properties": {
-    "addr:city": "Baar",
     "addr:housenumber": "2",
     "addr:postcode": "6340",
     "addr:street": "Bahnmatt",
@@ -12057,10 +12052,6 @@
   "type": "Feature",
   "id": "way/96293676",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "11",
-    "addr:postcode": "8810",
-    "addr:street": "Amalie-Widmer-Strasse",
     "alt_name": "Stiftung Amalie Widmer",
     "amenity": "social_facility",
     "building": "apartments",
@@ -12573,10 +12564,6 @@
   "type": "Feature",
   "id": "way/98524706",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "53",
-    "addr:postcode": "8810",
-    "addr:street": "Zugerstrasse",
     "amenity": "social_facility",
     "building": "yes",
     "email": "werkstatt.textil@humanitashorgen.ch",
@@ -21160,7 +21147,6 @@
   "type": "Feature",
   "id": "way/192553690",
   "properties": {
-    "addr:city": "Unterägeri",
     "addr:country": "CH",
     "addr:housenumber": "1",
     "addr:place": "Chlösterli",
@@ -30804,10 +30790,6 @@
   "type": "Feature",
   "id": "way/277630156",
   "properties": {
-    "addr:city": "Hirzel",
-    "addr:housenumber": "3",
-    "addr:postcode": "8816",
-    "addr:street": "Schiffli",
     "amenity": "social_facility",
     "building": "yes",
     "name": "SWS Rehabilitationszentrum Sunedörfli",
@@ -31490,10 +31472,6 @@
   "type": "Feature",
   "id": "way/295032884",
   "properties": {
-    "addr:city": "Hirzel",
-    "addr:housenumber": "1a",
-    "addr:postcode": "8816",
-    "addr:street": "Bergstrasse",
     "amenity": "social_facility",
     "building": "yes",
     "email": "info@spyrigarten.ch",
@@ -39220,10 +39198,6 @@
   "type": "Feature",
   "id": "way/662349659",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "2",
-    "addr:postcode": "8810",
-    "addr:street": "Schärbächlistrasse",
     "amenity": "social_facility",
     "email": "info@tabea.ch",
     "name": "Alterszentrum Haus Tabea",
@@ -40234,10 +40208,7 @@
   "type": "Feature",
   "id": "way/692399193",
   "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "149",
     "addr:place": "8810",
-    "addr:street": "Einsiedlerstrasse",
     "amenity": "social_facility",
     "building": "apartments",
     "name": "PWG Strickler",
@@ -43765,7 +43736,6 @@
   "type": "Feature",
   "id": "way/953932809",
   "properties": {
-    "addr:city": "Baar",
     "addr:housenumber": "17",
     "addr:postcode": "6340",
     "addr:street": "Landhausstrasse",
@@ -44824,7 +44794,6 @@
   "type": "Feature",
   "id": "way/1020898718",
   "properties": {
-    "addr:city": "Baar",
     "addr:housenumber": "20",
     "addr:postcode": "6340",
     "addr:street": "Landhausstrasse",
