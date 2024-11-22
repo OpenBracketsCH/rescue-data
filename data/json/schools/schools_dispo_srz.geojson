@@ -59451,10 +59451,6 @@
   "type": "Feature",
   "id": "way/195696622",
   "properties": {
-    "addr:city": "Steinhausen",
-    "addr:housenumber": "17",
-    "addr:postcode": "6312",
-    "addr:street": "Blickensdorferstrasse",
     "amenity": "school",
     "building": "school",
     "id": "way/195696622"
@@ -70260,11 +70256,6 @@
   "type": "Feature",
   "id": "way/229758761",
   "properties": {
-    "addr:city": "Unterägeri",
-    "addr:country": "CH",
-    "addr:housenumber": "28",
-    "addr:postcode": "6314",
-    "addr:street": "Höfnerstrasse",
     "amenity": "school",
     "building": "yes",
     "id": "way/229758761"
