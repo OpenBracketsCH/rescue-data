@@ -16043,12 +16043,14 @@
   "type": "Feature",
   "id": "node/8182565919",
   "properties": {
-    "defibrillator:location": "Eingang bei der Turnhalle nehmen. Der Defibrillator befindet sich auf der rechten Seite oben im Gang an der Wand.",
-    "description": "nur während Schulzeiten verfügbar",
+    "access": "yes",
+    "defibrillator:location": "Rechte Wand vor dem Eingang ins Schulhaus Loomatt (Turnhalle).",
+    "description": "Primarschule Stallikon",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-Fr 08:00-16:00",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
     "operator": "Primarschule Stallikon",
     "phone": "+41 44 552 62 00",
     "id": "node/8182565919"
@@ -83696,6 +83698,53 @@
     "coordinates": [
       8.7171208,
       47.3839942
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12364857304",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "MB Auto Center Zug AG, Werkstatt, zwischen Fahrzeugaufbereitung und Service-Direktannahme",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:30 - 18:30, Sa 09:00 - 17:00",
+    "operator": "MB Auto Center Zug AG",
+    "phone": "+4141766 65 65",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12364857304"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4806943,
+      47.1909665
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12365223612",
+  "properties": {
+    "defibrillator:location": "Brütsch-Rüegger, Haupteingang links",
+    "description": "wärend Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "operator": "Swisspro AG",
+    "phone": "+41444441122",
+    "id": "node/12365223612"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.418225,
+      47.3934076
     ]
   }
 }

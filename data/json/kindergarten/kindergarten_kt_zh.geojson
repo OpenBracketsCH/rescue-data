@@ -32387,6 +32387,42 @@
 },
 {
   "type": "Feature",
+  "id": "way/1336796912",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Lee",
+    "id": "way/1336796912"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5059147,
+          47.4794158
+        ],
+        [
+          8.5058854,
+          47.479105
+        ],
+        [
+          8.5061825,
+          47.479092
+        ],
+        [
+          8.5062149,
+          47.4794015
+        ],
+        [
+          8.5059147,
+          47.4794158
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",

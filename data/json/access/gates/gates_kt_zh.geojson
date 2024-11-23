@@ -10197,6 +10197,7 @@
     "barrier": "gate",
     "locked": "no",
     "material": "metal",
+    "maxwidth:physical": "0.5",
     "id": "node/862861989"
   },
   "geometry": {
