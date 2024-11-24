@@ -28905,11 +28905,6 @@
   "type": "Feature",
   "id": "way/78610388",
   "properties": {
-    "addr:city": "Bachs",
-    "addr:country": "CH",
-    "addr:housenumber": "6",
-    "addr:postcode": "8164",
-    "addr:street": "Tal",
     "amenity": "school",
     "building": "yes",
     "id": "way/78610388"
@@ -77992,6 +77987,81 @@
         [
           8.6160448,
           46.9969558
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/258138595",
+  "properties": {
+    "addr:city": "Tann",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8632",
+    "addr:street": "Schulstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Schulhaus Tannenbühl",
+    "website": "https://www.schuleduernten.ch/",
+    "id": "way/258138595"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8505522,
+          47.265252
+        ],
+        [
+          8.8505308,
+          47.265142
+        ],
+        [
+          8.8506342,
+          47.2651328
+        ],
+        [
+          8.8506326,
+          47.2651247
+        ],
+        [
+          8.850792,
+          47.2651104
+        ],
+        [
+          8.850793,
+          47.2651154
+        ],
+        [
+          8.8508987,
+          47.2651059
+        ],
+        [
+          8.85092,
+          47.2652161
+        ],
+        [
+          8.8508164,
+          47.2652253
+        ],
+        [
+          8.8508234,
+          47.2652615
+        ],
+        [
+          8.8506642,
+          47.2652758
+        ],
+        [
+          8.8506577,
+          47.2652426
+        ],
+        [
+          8.8505522,
+          47.265252
         ]
       ]
     ]
@@ -130923,8 +130993,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5582416,
-      47.3069075
+      8.5582062,
+      47.3069051
     ]
   }
 },

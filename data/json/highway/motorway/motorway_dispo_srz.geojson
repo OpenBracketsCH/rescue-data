@@ -4972,11 +4972,13 @@
   "properties": {
     "highway": "motorway",
     "lanes": "3",
+    "layer": "0",
     "lit": "yes",
     "maxspeed": "80",
     "oneway": "yes",
     "ref": "A1L",
     "toll": "yes",
+    "tunnel": "yes",
     "id": "way/10621364"
   },
   "geometry": {

@@ -27430,11 +27430,6 @@
   "type": "Feature",
   "id": "way/970814728",
   "properties": {
-    "addr:city": "Einsiedeln",
-    "addr:country": "CH",
-    "addr:housenumber": "3",
-    "addr:postcode": "8840",
-    "addr:street": "Gerbestrasse",
     "amenity": "social_facility",
     "building": "yes",
     "social_facility": "nursing_home",

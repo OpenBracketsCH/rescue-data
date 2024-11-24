@@ -6344,7 +6344,7 @@
   "type": "Feature",
   "id": "node/7462551854",
   "properties": {
-    "addr:city": "Wil",
+    "addr:city": "Wil ZH",
     "addr:housenumber": "10",
     "addr:postcode": "8196",
     "addr:street": "Schützenhausstrasse",
@@ -6355,8 +6355,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5067545,
-      47.5995759
+      8.5067048,
+      47.5996083
     ]
   }
 },

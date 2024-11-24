@@ -21893,6 +21893,48 @@
 },
 {
   "type": "Feature",
+  "id": "way/258138568",
+  "properties": {
+    "addr:city": "Tann",
+    "addr:country": "CH",
+    "addr:housenumber": "5a",
+    "addr:postcode": "8632",
+    "addr:street": "Schulstrasse",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "name": "Kindergarten Tannenbühl",
+    "id": "way/258138568"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8502097,
+          47.2652041
+        ],
+        [
+          8.8501877,
+          47.2650695
+        ],
+        [
+          8.8503454,
+          47.2650576
+        ],
+        [
+          8.8503675,
+          47.2651922
+        ],
+        [
+          8.8502097,
+          47.2652041
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/258781438",
   "properties": {
     "addr:city": "Elgg",
@@ -48184,8 +48226,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5091242,
-      47.6047778
+      8.5089777,
+      47.604716
     ]
   }
 },
@@ -48450,8 +48492,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7450606,
-      47.1269685
+      8.7451754,
+      47.1270174
     ]
   }
 },

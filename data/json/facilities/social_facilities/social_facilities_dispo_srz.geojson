@@ -44251,11 +44251,6 @@
   "type": "Feature",
   "id": "way/970814728",
   "properties": {
-    "addr:city": "Einsiedeln",
-    "addr:country": "CH",
-    "addr:housenumber": "3",
-    "addr:postcode": "8840",
-    "addr:street": "Gerbestrasse",
     "amenity": "social_facility",
     "building": "yes",
     "social_facility": "nursing_home",
@@ -54669,8 +54664,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4369161,
-      47.5034337
+      8.4369111,
+      47.5034844
     ]
   }
 },
@@ -57579,11 +57574,17 @@
     "addr:postcode": "8048",
     "addr:street": "Albulastrasse",
     "amenity": "social_facility",
+    "clothes:repair": "yes",
     "description": "Arbeitsintegration für Jugendliche und junge Erwachsene.\nIn unserer kleinen Werkstatt freut sich unser Team, kreative Projekte mit den unterschiedlichsten Materialien umzusetzen.",
     "description:2": "Aktion am Repair Thursday: Flicken Textil, Holz, Metall, Haushaltsgeräte, Textilien, Elektronik...Teilnahme mit Voranmeldung",
+    "electronics:repair": "yes",
     "email": "hallo@durchstart.ch",
+    "furniture:repair": "yes",
+    "household appliances:repair": "yes",
+    "metal:repair": "yes",
     "name": "durchstart",
-    "opening_hours": "Nach Vereinbarung",
+    "opening_hours": "\"nach Vereinbarung\"",
+    "opening_hours:description": "nach Vereinbarung",
     "operator": "durchstart",
     "phone": "+41 43 344 05 51",
     "repair": "yes",
