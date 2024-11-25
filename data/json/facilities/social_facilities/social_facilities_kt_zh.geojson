@@ -47765,13 +47765,13 @@
     "addr:postcode": "8048",
     "addr:street": "Albulastrasse",
     "amenity": "social_facility",
+    "appliance:repair": "yes",
     "clothes:repair": "yes",
-    "description": "Arbeitsintegration für Jugendliche und junge Erwachsene.\nIn unserer kleinen Werkstatt freut sich unser Team, kreative Projekte mit den unterschiedlichsten Materialien umzusetzen.",
+    "description": "Arbeitsintegration für Jugendliche und junge Erwachsene. In unserer kleinen Werkstatt freut sich unser Team, kreative Projekte mit den unterschiedlichsten Materialien umzusetzen.",
     "description:2": "Aktion am Repair Thursday: Flicken Textil, Holz, Metall, Haushaltsgeräte, Textilien, Elektronik...Teilnahme mit Voranmeldung",
     "electronics:repair": "yes",
     "email": "hallo@durchstart.ch",
     "furniture:repair": "yes",
-    "household appliances:repair": "yes",
     "metal:repair": "yes",
     "name": "durchstart",
     "opening_hours": "\"nach Vereinbarung\"",
@@ -48054,6 +48054,25 @@
     "coordinates": [
       8.5276167,
       47.3750535
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12369435849",
+  "properties": {
+    "addr:housenumber": "291",
+    "addr:street": "Fellenbergstrasse",
+    "amenity": "social_facility",
+    "check_date": "2024-11-24",
+    "name": "Missão Caólica de Língua Portugesa",
+    "id": "node/12369435849"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4898474,
+      47.3752636
     ]
   }
 }

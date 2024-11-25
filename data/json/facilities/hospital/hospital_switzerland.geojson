@@ -54642,6 +54642,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "radiology",
     "name": "Radiologie und Neuroradiologie Institut Rotkreuz",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
     "phone": "+41 41 799 44 99",
     "short_name": "RNI Rotkreuz",
     "website": "https://rni-rotkreuz.ch/",
@@ -56784,6 +56785,7 @@
   "properties": {
     "addr:postcode": "8307",
     "amenity": "clinic",
+    "healthcare": "clinic",
     "name": "Optimum Esthetic",
     "website": "https://optimum-esthetic.ch/",
     "id": "node/12338803801"

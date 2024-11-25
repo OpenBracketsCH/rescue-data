@@ -154,6 +154,7 @@
   "id": "node/9532277092",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2024-10-27",
     "contact:city": "Rotkreuz",
     "contact:housenumber": "16",
     "contact:postcode": "6343",

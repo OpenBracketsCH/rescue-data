@@ -10995,6 +10995,7 @@
   "properties": {
     "addr:postcode": "8307",
     "amenity": "clinic",
+    "healthcare": "clinic",
     "name": "Optimum Esthetic",
     "website": "https://optimum-esthetic.ch/",
     "id": "node/12338803801"

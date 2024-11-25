@@ -14681,6 +14681,45 @@
       47.4928864
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12369409571",
+  "properties": {
+    "amenity": "childcare",
+    "check_date": "2024-11-24",
+    "name": "Kicher-Erbsen",
+    "opening_hours": "Mo-Fr 06:30-18:30",
+    "phone": "+41 43 311 03 89",
+    "website": "https://www.kicher-erbsen.ch",
+    "id": "node/12369409571"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4869384,
+      47.3758441
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12369425679",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "281",
+    "addr:street": "Fellenbergstrasse",
+    "amenity": "childcare",
+    "name": "Schmetterling",
+    "id": "node/12369425679"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4910056,
+      47.3748204
+    ]
+  }
 }
 ]
 }

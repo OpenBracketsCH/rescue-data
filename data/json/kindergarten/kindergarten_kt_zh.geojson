@@ -12577,6 +12577,7 @@
   "id": "way/141957337",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-11-24",
     "contact:city": "Zürich",
     "contact:housenumber": "110",
     "contact:phone": "+41 44 413 76 76",

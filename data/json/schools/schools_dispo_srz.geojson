@@ -7704,6 +7704,7 @@
   "id": "way/28003814",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-11-24",
     "name": "Schule/Kindergarten Oberhasli",
     "wheelchair": "no",
     "id": "way/28003814"
@@ -61505,12 +61506,12 @@
           47.4334487
         ],
         [
-          8.6702673,
-          47.4336051
+          8.6702424,
+          47.433676
         ],
         [
-          8.6702139,
-          47.4335994
+          8.6701986,
+          47.4336727
         ],
         [
           8.670146,
@@ -61569,6 +61570,10 @@
           47.4325674
         ],
         [
+          8.6697217,
+          47.4325686
+        ],
+        [
           8.6698163,
           47.4325721
         ],
@@ -61597,12 +61602,12 @@
           47.4327761
         ],
         [
-          8.670527,
-          47.4328837
+          8.6705268,
+          47.4328838
         ],
         [
-          8.6704975,
-          47.4330474
+          8.6705098,
+          47.4329729
         ],
         [
           8.6704839,
@@ -126721,6 +126726,7 @@
   "id": "node/1664625598",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-10-27",
     "name": "Swiss Internation School",
     "id": "node/1664625598"
   },
@@ -126861,6 +126867,7 @@
     "addr:postcode": "6343",
     "addr:street": "Suurstoffi",
     "amenity": "school",
+    "check_date": "2024-10-27",
     "name": "Swiss International School Rotkreuz-Zug",
     "operator": "Swiss International School",
     "website": "https://www.swissinternationalschool.ch",

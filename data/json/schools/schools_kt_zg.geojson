@@ -8500,6 +8500,7 @@
   "id": "node/1664625598",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-10-27",
     "name": "Swiss Internation School",
     "id": "node/1664625598"
   },
@@ -8551,6 +8552,7 @@
     "addr:postcode": "6343",
     "addr:street": "Suurstoffi",
     "amenity": "school",
+    "check_date": "2024-10-27",
     "name": "Swiss International School Rotkreuz-Zug",
     "operator": "Swiss International School",
     "website": "https://www.swissinternationalschool.ch",
