@@ -8348,7 +8348,6 @@
     "level": "0",
     "opening_hours": "24/7",
     "operator": "Primarschule Stallikon",
-    "phone": "+41 44 552 62 00",
     "id": "node/8182565919"
   },
   "geometry": {
@@ -28520,12 +28519,11 @@
   "type": "Feature",
   "id": "node/9737606257",
   "properties": {
-    "access": "yes",
+    "access": "private",
     "defibrillator:location": "Neben Haupteingang Turnhalle",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
+    "indoor": "yes",
     "operator": "Primarschule Höri/Martin Blaser",
     "phone": "+41448643460",
     "id": "node/9737606257"
