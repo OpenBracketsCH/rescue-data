@@ -12792,6 +12792,7 @@
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "id": "node/7930278099"
   },
   "geometry": {
@@ -13402,7 +13403,8 @@
   "properties": {
     "access": "yes",
     "addr:city": "6300 Zug",
-    "addr:street": "General-Guisin-Strasse 2",
+    "addr:housenumber": "2",
+    "addr:street": "General-Guisan-Strasse",
     "defibrillator:location": "Sporthalle Zug, Seiteneingang links",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
@@ -83836,6 +83838,49 @@
     "coordinates": [
       8.5892936,
       47.4562865
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12375892801",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Schulhaus Bürgli, Turnhalle",
+    "description": "Während Schulzeit (Während Schulferien geschlossen)",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "07:30 - 22:00 ",
+    "operator": "Schulhaus Bürgli, Stadt Wallisellen ",
+    "phone": "+4179 877 64 46 ",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12375892801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6005783,
+      47.4150644
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12376713931",
+  "properties": {
+    "access": "permit",
+    "defibrillator:location": "Im Foyer der Firma",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "id": "node/12376713931"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5976115,
+      47.4488605
     ]
   }
 }

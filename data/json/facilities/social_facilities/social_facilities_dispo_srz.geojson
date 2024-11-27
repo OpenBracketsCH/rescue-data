@@ -57576,6 +57576,7 @@
     "amenity": "social_facility",
     "appliance:repair": "yes",
     "clothes:repair": "yes",
+    "clothes:upcycling": "yes",
     "description": "Arbeitsintegration für Jugendliche und junge Erwachsene. In unserer kleinen Werkstatt freut sich unser Team, kreative Projekte mit den unterschiedlichsten Materialien umzusetzen.",
     "description:2": "Aktion am Repair Thursday: Flicken Textil, Holz, Metall, Haushaltsgeräte, Textilien, Elektronik...Teilnahme mit Voranmeldung",
     "electronics:repair": "yes",
