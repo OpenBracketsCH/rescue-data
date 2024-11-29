@@ -14687,6 +14687,28 @@
 },
 {
   "type": "Feature",
+  "id": "node/11133632253",
+  "properties": {
+    "addr:city": "Esslingen",
+    "addr:housenumber": "16",
+    "addr:postcode": "8133",
+    "addr:street": "Säntisstrasse",
+    "amenity": "childcare",
+    "name": "Spielgruppe Igeli Finn",
+    "opening_hours": "Mo-We 08:30-11:30; Fr 08:30-11:30",
+    "website": "https://www.igeli-finn.ch/",
+    "id": "node/11133632253"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7110514,
+      47.2827883
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/11148779075",
   "properties": {
     "amenity": "childcare",

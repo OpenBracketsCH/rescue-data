@@ -100198,6 +100198,24 @@
       47.4394288
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12382935224",
+  "properties": {
+    "barrier": "lift_gate",
+    "lift_gate:type": "single",
+    "locked": "yes",
+    "motor_vehicle": "private",
+    "id": "node/12382935224"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6735645,
+      47.380427
+    ]
+  }
 }
 ]
 }
