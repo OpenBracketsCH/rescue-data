@@ -56765,6 +56765,49 @@
       47.4331895
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12384564179",
+  "properties": {
+    "addr:city": "Pfäffikon SZ",
+    "addr:housenumber": "16",
+    "addr:postcode": "8808",
+    "addr:street": "Huobstrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "ophthalmology",
+    "name": "Augenzentrum Dr. Frei",
+    "id": "node/12384564179"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7808212,
+      47.2000297
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12384579249",
+  "properties": {
+    "addr:city": "Bäch",
+    "addr:housenumber": "164",
+    "addr:postcode": "8806",
+    "addr:street": "Seestrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Ärzte Centrum Bäch",
+    "id": "node/12384579249"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7364857,
+      47.2039252
+    ]
+  }
 }
 ]
 }

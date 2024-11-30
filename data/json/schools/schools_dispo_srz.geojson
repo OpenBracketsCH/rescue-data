@@ -84566,71 +84566,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/296556482",
-  "properties": {
-    "addr:city": "Freienbach",
-    "addr:housenumber": "15",
-    "addr:postcode": "8807",
-    "addr:street": "Rebhaldenstrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Leutschen",
-    "id": "way/296556482"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7547869,
-          47.2040904
-        ],
-        [
-          8.7548163,
-          47.2039073
-        ],
-        [
-          8.7549384,
-          47.2039164
-        ],
-        [
-          8.7549441,
-          47.2038809
-        ],
-        [
-          8.7552014,
-          47.2039
-        ],
-        [
-          8.7551889,
-          47.2039774
-        ],
-        [
-          8.7552499,
-          47.2039819
-        ],
-        [
-          8.7552197,
-          47.2041697
-        ],
-        [
-          8.7550953,
-          47.2041604
-        ],
-        [
-          8.7551028,
-          47.2041138
-        ],
-        [
-          8.7547869,
-          47.2040904
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/296867567",
   "properties": {
     "addr:city": "Freienbach",
@@ -127406,8 +127341,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7548948,
-      47.2037896
+      8.7549096,
+      47.2035552
     ]
   }
 },
