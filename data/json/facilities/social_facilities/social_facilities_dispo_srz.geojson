@@ -50772,6 +50772,7 @@
     "addr:postcode": "8400",
     "addr:street": "Schaffhauserstrasse",
     "amenity": "social_facility",
+    "check_date": "2024-12-01",
     "name": "Spitex-Zentrum Veltheim",
     "operator": "Stadt Winterthur",
     "operator:type": "government",
