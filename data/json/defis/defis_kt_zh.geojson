@@ -17543,6 +17543,7 @@
   "properties": {
     "access": "no",
     "defibrillator:location": "Bademeister Bretterbadi",
+    "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -26552,8 +26553,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6579707,
-      47.2392761
+      8.6580648,
+      47.2391557
     ]
   }
 },
@@ -46034,6 +46035,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Stadt Wädenswil",
     "id": "node/10973218010"
   },
@@ -51648,12 +51650,10 @@
   "id": "node/11502735769",
   "properties": {
     "defibrillator:location": "Schulhaus Sunnerai",
-    "description": "während öffnungszeiten erreichbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
     "level": "0",
-    "opening_hours": "Mo-Fr 08:00-16:00",
     "operator": "Gemeinde Nürensdorf",
     "phone": "+41797268309",
     "id": "node/11502735769"
@@ -64983,6 +64983,30 @@
     "coordinates": [
       8.6289903,
       47.3998845
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12389593803",
+  "properties": {
+    "access": "customers",
+    "defibrillator:location": "GZ Buchegg, Hinter der Cafeteria",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Tu-Fr 14:00-18:00; Th off",
+    "operator": "Stiftung Zürcher Gemeinschaftszentren",
+    "phone": "+41 44 360 80 10",
+    "wheelchair": "limited",
+    "id": "node/12389593803"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5348467,
+      47.3989833
     ]
   }
 }
