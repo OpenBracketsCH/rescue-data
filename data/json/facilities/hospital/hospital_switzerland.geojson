@@ -18523,6 +18523,7 @@
     "addr:country": "CH",
     "addr:housenumber": "2",
     "addr:postcode": "3661",
+    "addr:street": "Buchshaldenstrasse",
     "amenity": "clinic",
     "building": "yes",
     "ele": "559",

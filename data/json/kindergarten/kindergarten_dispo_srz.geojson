@@ -2179,6 +2179,7 @@
     "addr:street": "Zelgstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2024-12-03",
     "name": "Kindergarten Hündli",
     "id": "way/36739585"
   },
