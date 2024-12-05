@@ -19483,28 +19483,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8455469019",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Feuerwehr-Depot, Einstellhalle auf Fzg.-Sanität",
-    "description": "während Aktivbesetzung Zugang möglich",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "operator": "Gemeindeverw. Dietlikon, Feuerwehr",
-    "phone": "+41 44 835 83 21",
-    "id": "node/8455469019"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6206545,
-      47.4240535
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8457452918",
   "properties": {
     "defibrillator:location": "Bachofen AG",
@@ -47193,12 +47171,12 @@
   "id": "node/10175278117",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Säule der Turnhalle, neben dem Swimmingpool!",
+    "defibrillator:location": "Kinder- & Jugendhaus Paradies, Paradies 1, 8932 Mettmenstetten\nim Hintereingang/ Windfang oberhalb des Klingeltableaus",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
+    "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
+    "opening_hours": "24/7",
     "operator": "Gruppe Energy",
     "phone": "+41 44 768 58 13",
     "id": "node/10175278117"
@@ -47206,8 +47184,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4675393,
-      47.2533604
+      8.4675953,
+      47.2531347
     ]
   }
 },
@@ -59328,29 +59306,6 @@
     "coordinates": [
       8.621816,
       47.2334989
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10823791205",
-  "properties": {
-    "defibrillator:location": "im Gebäude, beim Haupteingang Von Badenerstrasse, rechts neben Empfang",
-    "description": "während den öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "0",
-    "opening_hours": "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00, 13:00-16:30",
-    "operator": "Electrolux AG",
-    "phone": "0444058412",
-    "id": "node/10823791205"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4944314,
-      47.3851345
     ]
   }
 },
@@ -84066,6 +84021,29 @@
     "coordinates": [
       8.4549773,
       47.1967989
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12395987001",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Gemeindesaal, Haupteingang rechts",
+    "description": "immer verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Gemeinde Hombrechtikon",
+    "phone": "+41 55 254 92 34",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12395987001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7717448,
+      47.25232
     ]
   }
 }
