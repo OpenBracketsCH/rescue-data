@@ -4007,6 +4007,111 @@
 },
 {
   "type": "Feature",
+  "id": "relation/18380217",
+  "properties": {
+    "addr:city": "Olten",
+    "addr:country": "CH",
+    "addr:housenumber": "150",
+    "addr:postcode": "4600",
+    "addr:street": "Baslerstrasse",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "intensive;anaesthetics;cardiology;emergency;endocrinology;gastroentereology;geriatrics;gynaecology;haematology;infectious_diseases;internal;nephrology;oncology;orthopaedics;otolaryngology;palliative;proctology;pulmonology;radiology;surgery;urology;",
+    "name": "Kantonsspital Olten",
+    "operator": "Solothurner Spitäler AG",
+    "phone": "+41 62 311 41 11",
+    "type": "multipolygon",
+    "website": "https://www.solothurnerspitaeler.ch/unsere-spitaeler/kantonsspital-olten/",
+    "wheelchair": "yes",
+    "id": "relation/18380217"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.9012215,
+          47.3565187
+        ],
+        [
+          7.9013026,
+          47.3563503
+        ],
+        [
+          7.9013837,
+          47.3562581
+        ],
+        [
+          7.9014811,
+          47.3561729
+        ],
+        [
+          7.901675,
+          47.3558223
+        ],
+        [
+          7.9018485,
+          47.3554374
+        ],
+        [
+          7.9020002,
+          47.3553979
+        ],
+        [
+          7.9031128,
+          47.3552842
+        ],
+        [
+          7.9056392,
+          47.354996
+        ],
+        [
+          7.9058406,
+          47.356518
+        ],
+        [
+          7.9061685,
+          47.3575255
+        ],
+        [
+          7.9062043,
+          47.3575417
+        ],
+        [
+          7.9040693,
+          47.3578866
+        ],
+        [
+          7.9039358,
+          47.3578999
+        ],
+        [
+          7.9038465,
+          47.357662
+        ],
+        [
+          7.902848,
+          47.3576722
+        ],
+        [
+          7.9028255,
+          47.3565859
+        ],
+        [
+          7.9015156,
+          47.3565616
+        ],
+        [
+          7.9012215,
+          47.3565187
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/22918627",
   "properties": {
     "addr:housenumber": "67",
@@ -44994,206 +45099,6 @@
         [
           7.5391422,
           47.2014862
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/681561958",
-  "properties": {
-    "addr:city": "Olten",
-    "addr:country": "CH",
-    "addr:housenumber": "150",
-    "addr:postcode": "4600",
-    "addr:street": "Baslerstrasse",
-    "amenity": "hospital",
-    "emergency": "yes",
-    "healthcare": "hospital",
-    "healthcare:speciality": "intensive;anaesthetics;cardiology;emergency;endocrinology;gastroentereology;geriatrics;gynaecology;haematology;infectious_diseases;internal;nephrology;oncology;orthopaedics;otolaryngology;palliative;proctology;pulmonology;radiology;surgery;urology;",
-    "name": "Kantonsspital Olten",
-    "operator": "Solothurner Spitäler AG",
-    "phone": "+41 62 311 41 11",
-    "website": "https://www.solothurnerspitaeler.ch/unsere-spitaeler/kantonsspital-olten/",
-    "wheelchair": "yes",
-    "id": "way/681561958"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.9062043,
-          47.3575417
-        ],
-        [
-          7.9040693,
-          47.3578866
-        ],
-        [
-          7.9039358,
-          47.3578999
-        ],
-        [
-          7.9038581,
-          47.3575527
-        ],
-        [
-          7.9037594,
-          47.3575517
-        ],
-        [
-          7.90376,
-          47.3575828
-        ],
-        [
-          7.9035675,
-          47.3575853
-        ],
-        [
-          7.9035671,
-          47.3576445
-        ],
-        [
-          7.9028942,
-          47.3576468
-        ],
-        [
-          7.9028948,
-          47.3576091
-        ],
-        [
-          7.9028691,
-          47.3576087
-        ],
-        [
-          7.9028699,
-          47.3575247
-        ],
-        [
-          7.9028191,
-          47.3565939
-        ],
-        [
-          7.9028009,
-          47.3565942
-        ],
-        [
-          7.9015156,
-          47.3565616
-        ],
-        [
-          7.9012215,
-          47.3565187
-        ],
-        [
-          7.9011279,
-          47.3564762
-        ],
-        [
-          7.901324,
-          47.3561264
-        ],
-        [
-          7.9014811,
-          47.3561729
-        ],
-        [
-          7.9015889,
-          47.3561916
-        ],
-        [
-          7.9016974,
-          47.3561895
-        ],
-        [
-          7.9017831,
-          47.3561667
-        ],
-        [
-          7.9018735,
-          47.3561293
-        ],
-        [
-          7.9019505,
-          47.3560933
-        ],
-        [
-          7.901971,
-          47.3560837
-        ],
-        [
-          7.9020507,
-          47.3560571
-        ],
-        [
-          7.9021566,
-          47.3560441
-        ],
-        [
-          7.9022458,
-          47.3560384
-        ],
-        [
-          7.902296,
-          47.3560281
-        ],
-        [
-          7.9023448,
-          47.3560022
-        ],
-        [
-          7.9023695,
-          47.3559542
-        ],
-        [
-          7.9023278,
-          47.355758
-        ],
-        [
-          7.902328,
-          47.3557037
-        ],
-        [
-          7.9023489,
-          47.3556673
-        ],
-        [
-          7.9023758,
-          47.3556474
-        ],
-        [
-          7.9024527,
-          47.3556282
-        ],
-        [
-          7.9024156,
-          47.3554509
-        ],
-        [
-          7.9031369,
-          47.3553813
-        ],
-        [
-          7.9031128,
-          47.3552842
-        ],
-        [
-          7.9056392,
-          47.354996
-        ],
-        [
-          7.9058406,
-          47.356518
-        ],
-        [
-          7.9061685,
-          47.3575255
-        ],
-        [
-          7.9062043,
-          47.3575417
         ]
       ]
     ]
