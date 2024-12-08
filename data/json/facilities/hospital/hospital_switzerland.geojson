@@ -39939,8 +39939,9 @@
     "addr:postcode": "2046",
     "addr:street": "Route de Landeyeux",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Hôpital neuchâtelois Val-de-Ruz",
-    "operator": "Hôpital neuchâtelois",
+    "operator": "RHNe",
     "phone": "+41 32 854 45 45",
     "source": "Orthophotos 2006 SITN 50cm",
     "website": "https://www.h-ne.ch/contact/val-de-ruz",
@@ -39972,40 +39973,40 @@
           47.0324131
         ],
         [
-          6.9057387,
-          47.0322047
+          6.9052264,
+          47.0323063
         ],
         [
-          6.9056448,
-          47.0321279
+          6.9056039,
+          47.0321023
         ],
         [
-          6.9060525,
-          47.0318792
+          6.9061182,
+          47.0318381
         ],
         [
-          6.9066372,
-          47.0323235
+          6.9063094,
+          47.0319007
         ],
         [
-          6.9071938,
-          47.0318966
+          6.9066327,
+          47.0317807
         ],
         [
-          6.9074325,
-          47.0320118
+          6.9068212,
+          47.0319574
         ],
         [
-          6.9080266,
-          47.0316909
+          6.9079193,
+          47.0315409
         ],
         [
-          6.9082493,
-          47.0319871
+          6.90828,
+          47.0319631
         ],
         [
-          6.9083364,
-          47.0320767
+          6.9083797,
+          47.0320669
         ],
         [
           6.9079408,
@@ -56474,26 +56475,28 @@
     "addr:city": "Biel/Bienne",
     "addr:city:de": "Biel",
     "addr:city:fr": "Bienne",
-    "addr:housenumber": "9",
+    "addr:housenumber": "24",
     "addr:postcode": "2502",
-    "addr:street": "Rue du Rüschli / Rüschlistrasse",
-    "addr:street:de": "Rüschlistrasse",
-    "addr:street:fr": "Rue du Rüschli",
+    "addr:street": "Rue de la Gare / Bahnhofstrasse",
+    "addr:street:de": "Bahnhofstrasse",
+    "addr:street:fr": "Rue de la Gare",
     "amenity": "clinic",
-    "contact:email": "praxis.care@hin.ch",
+    "contact:email": "kinderwunschpraxis-biel@hin.ch",
     "contact:phone": "+41 32 499 09 09",
-    "contact:website": "https://www.care-biel.ch",
+    "contact:website": "https://kinderwunschpraxis-biel.ch",
     "healthcare": "clinic",
     "healthcare:speciality": "fertility",
-    "level": "0",
-    "name": "CARE",
+    "level": "2",
+    "name": "Kinderwunschpraxis Biel/Bienne / Médecine de la fertilité Biel/Bienne",
+    "name:de": "Kinderwunschpraxis Biel",
+    "name:fr": "Médecine de la fertilité Bienne",
     "id": "node/12132099510"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      7.2439248,
-      47.1385068
+      7.2450121,
+      47.1351844
     ]
   }
 },
