@@ -16911,6 +16911,7 @@
     "addr:street": "Bergstrasse",
     "amenity": "kindergarten",
     "building": "school",
+    "check_date": "2024-12-08",
     "name": "Kindergarten Beewies",
     "id": "way/226346143"
   },
@@ -41616,6 +41617,7 @@
     "addr:postcode": "8424",
     "addr:street": "Dorfstrasse",
     "amenity": "kindergarten",
+    "check_date": "2024-12-08",
     "name": "Kindergarten Dorf 3",
     "id": "node/9825256438"
   },

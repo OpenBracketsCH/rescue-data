@@ -4294,6 +4294,7 @@
     "addr:street": "Etzelstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-12-08",
     "name": "Schulhaus Beewies",
     "id": "way/23702238"
   },
@@ -6349,6 +6350,7 @@
   "id": "way/25925258",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-12-08",
     "name": "Schule Beewies",
     "id": "way/25925258"
   },
@@ -48503,6 +48505,7 @@
     "addr:street": "Dorfstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-12-08",
     "name": "Schulhaus Dorf",
     "id": "way/156066476"
   },
@@ -62175,16 +62178,20 @@
     "coordinates": [
       [
         [
-          8.6976907,
-          47.4430207
+          8.6976938,
+          47.4429842
         ],
         [
-          8.6977151,
-          47.4429072
+          8.6977028,
+          47.4429236
         ],
         [
-          8.6977433,
-          47.4426519
+          8.6977346,
+          47.4426632
+        ],
+        [
+          8.6977354,
+          47.4424649
         ],
         [
           8.6977358,
@@ -62243,8 +62250,8 @@
           47.4433304
         ],
         [
-          8.6976907,
-          47.4430207
+          8.6976938,
+          47.4429842
         ]
       ]
     ]
@@ -123285,8 +123292,8 @@
           47.4078058
         ],
         [
-          8.639722,
-          47.4078821
+          8.6397232,
+          47.4078812
         ],
         [
           8.6396408,
@@ -127378,22 +127385,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4456693177",
-  "properties": {
-    "amenity": "school",
-    "name": "Bühnerei",
-    "id": "node/4456693177"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7164789,
-      47.4936344
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4468291101",
   "properties": {
     "addr:housenumber": "13",
@@ -127924,8 +127915,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7164396,
-      47.4935538
+      8.7164509,
+      47.4935807
     ]
   }
 },
