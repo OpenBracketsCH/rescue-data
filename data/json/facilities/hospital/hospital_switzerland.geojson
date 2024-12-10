@@ -7856,12 +7856,16 @@
   "type": "Feature",
   "id": "way/49711247",
   "properties": {
+    "addr:city": "Genève",
+    "addr:housenumber": "4",
+    "addr:postcode": "1211",
+    "addr:street": "Rue Gabrielle-Perret-Gentil",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
-    "healthcare:speciality": "intensive",
     "name": "Hôpitaux universitaires de Genève",
     "operator": "Hôpitaux universitaires de Genève (HUG)",
+    "operator:type": "public",
     "phone": "+41 22 37 233 11",
     "short_name": "HUG",
     "website": "https://www.hug-ge.ch/",
@@ -9352,6 +9356,7 @@
   "id": "way/79815232",
   "properties": {
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Clinique de la Colline",
     "wikidata": "Q24449707",
     "wikipedia": "en:Clinique La Colline",
@@ -26457,7 +26462,6 @@
     "amenity": "hospital",
     "check_date": "2024-04-22",
     "healthcare": "hospital",
-    "healthcare:speciality": "intensive",
     "name": "Hôpital de la Tour",
     "phone": "+41 22 719 61 11",
     "source": "Orthophotos 2011 du SITG (Système d'Information du Territoire Genevois)",
@@ -53665,6 +53669,42 @@
 },
 {
   "type": "Feature",
+  "id": "node/8238083087",
+  "properties": {
+    "addr:city": "Schlieren",
+    "addr:housenumber": "12",
+    "addr:postcode": "8952",
+    "addr:street": "Wagistrasse",
+    "amenity": "clinic",
+    "email": "seka@medgen.uzh.ch",
+    "healthcare": "clinic",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "level": "1,2,3,7",
+    "name": "Institute of Medical Genetics - UZH",
+    "name:en": "Institute of Medical Genetics - UZH",
+    "name:fr": "Institut de génétique médicale - UZH",
+    "name:gsw": "Institut für Medizinische Genetik - UZH",
+    "name:it": "Istituto di Genetica Medica - UZH",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "operator": "University of Zurich",
+    "operator:type": "university",
+    "phone": "+41 44 556 33 00",
+    "short_name": "medgen",
+    "website": "https://www.medgen.uzh.ch",
+    "wheelchair": "yes",
+    "id": "node/8238083087"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4579362,
+      47.3988819
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/8250032903",
   "properties": {
     "addr:city": "Verbier",
@@ -54016,24 +54056,6 @@
     "coordinates": [
       7.5314593,
       46.2543892
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9132644346",
-  "properties": {
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "level": "0",
-    "name": "Covid-19-Testzentrum Universitätsspital Basel",
-    "id": "node/9132644346"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.5812519,
-      47.5618415
     ]
   }
 },

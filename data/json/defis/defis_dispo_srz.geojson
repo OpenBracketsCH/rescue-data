@@ -24686,14 +24686,14 @@
   "id": "node/8601893894",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Im EG bei den Toilettenanlagen",
+    "defibrillator:location": "Im EG bei der Garderobe",
     "description": "Beim Hintereingang bei den Garderoben",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Tu 10:00-20:00; We-Su 10:00-17:00",
-    "operator": "Stadt Winterthur DKD Thierry Schalcher",
-    "phone": "+41 52 267 51 75",
+    "operator": "Stadt Winterthur, DPR, Kuhlmei",
+    "phone": "+41 52 267 54 23",
     "wheelchair": "no",
     "id": "node/8601893894"
   },
@@ -24710,13 +24710,13 @@
   "id": "node/8601893895",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Im EG bei den Toilettenanlagen",
+    "defibrillator:location": "Im EG bei der Garderobe",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Tu-Su 10:00-17:00",
-    "operator": "Stadt Winterthur DKD Thierry Schalcher",
-    "phone": "+41 52 267 51 75",
+    "operator": "Stadt Winterthur, DPR, Kuhlmei",
+    "phone": "+41 52 267 54 23",
     "id": "node/8601893895"
   },
   "geometry": {
@@ -31895,7 +31895,7 @@
   "type": "Feature",
   "id": "node/9112746806",
   "properties": {
-    "access": "yes",
+    "access": "disabled",
     "defibrillator:location": "Östlich auf der Seite der Bannstrasse beim Velounterstand",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -82472,14 +82472,13 @@
   "id": "node/12302016701",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Primarschule Im See, Elgg neben dem Eingang",
     "description": "Aussenkasten Links vom Haupteingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Primarschulgemeinde Elgg",
     "phone": "+41 52 368 55 55",
-    "source": "local_knowledge, defikarte.ch",
     "id": "node/12302016701"
   },
   "geometry": {
@@ -84235,6 +84234,53 @@
     "coordinates": [
       8.6655424,
       47.1752747
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12406664801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Friedhof, Bestattungsgebäude",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde",
+    "id": "node/12406664801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5202706,
+      47.1922688
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12408773601",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bahnhofschuppen, Bahnhof Zollikon",
+    "description": "Am Bahnhofschuppen auf der Seite zur Bahnhofstrasse",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Zollikon, Lifetec",
+    "phone": "+41 44 395 31 11",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12408773601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5695827,
+      47.3377139
     ]
   }
 }

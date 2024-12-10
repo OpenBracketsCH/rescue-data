@@ -43,62 +43,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/124238373",
-  "properties": {
-    "addr:city": "Dübendorf",
-    "addr:housenumber": "299",
-    "addr:postcode": "8600",
-    "addr:street": "Ueberlandstrasse",
-    "alt_name": "Rega Basis Zürich",
-    "building": "hangar",
-    "emergency": "ambulance_station",
-    "name": "Luftrettungszentrum Rega 1",
-    "operator": "Rega",
-    "ref": "Rega 1",
-    "id": "way/124238373"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6378034,
-          47.3961791
-        ],
-        [
-          8.637766,
-          47.395945
-        ],
-        [
-          8.6374256,
-          47.39597
-        ],
-        [
-          8.6374178,
-          47.395921
-        ],
-        [
-          8.6377496,
-          47.3958967
-        ],
-        [
-          8.6380394,
-          47.3958754
-        ],
-        [
-          8.6380847,
-          47.3961585
-        ],
-        [
-          8.6378034,
-          47.3961791
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/130399122",
   "properties": {
     "addr:city": "Zollikerberg",

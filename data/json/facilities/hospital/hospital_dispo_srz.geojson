@@ -12978,6 +12978,42 @@
 },
 {
   "type": "Feature",
+  "id": "node/8238083087",
+  "properties": {
+    "addr:city": "Schlieren",
+    "addr:housenumber": "12",
+    "addr:postcode": "8952",
+    "addr:street": "Wagistrasse",
+    "amenity": "clinic",
+    "email": "seka@medgen.uzh.ch",
+    "healthcare": "clinic",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "level": "1,2,3,7",
+    "name": "Institute of Medical Genetics - UZH",
+    "name:en": "Institute of Medical Genetics - UZH",
+    "name:fr": "Institut de génétique médicale - UZH",
+    "name:gsw": "Institut für Medizinische Genetik - UZH",
+    "name:it": "Istituto di Genetica Medica - UZH",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "operator": "University of Zurich",
+    "operator:type": "university",
+    "phone": "+41 44 556 33 00",
+    "short_name": "medgen",
+    "website": "https://www.medgen.uzh.ch",
+    "wheelchair": "yes",
+    "id": "node/8238083087"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4579362,
+      47.3988819
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/8343640021",
   "properties": {
     "addr:city": "Zürich",
