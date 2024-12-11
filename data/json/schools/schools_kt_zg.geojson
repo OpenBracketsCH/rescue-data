@@ -1297,6 +1297,7 @@
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus 4",
+    "wheelchair": "no",
     "id": "way/38422851"
   },
   "geometry": {
@@ -1362,6 +1363,7 @@
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus 1",
+    "wheelchair": "limited",
     "id": "way/38422852"
   },
   "geometry": {

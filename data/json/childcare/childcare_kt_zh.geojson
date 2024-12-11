@@ -14743,6 +14743,23 @@
       47.3748204
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12409088250",
+  "properties": {
+    "amenity": "childcare",
+    "check_date": "2024-12-10",
+    "name": "Kinderkrippe Lichtpunkt",
+    "id": "node/12409088250"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5363153,
+      47.5262538
+    ]
+  }
 }
 ]
 }

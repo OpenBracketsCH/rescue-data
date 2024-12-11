@@ -50214,6 +50214,52 @@
 },
 {
   "type": "Feature",
+  "id": "way/1341474810",
+  "properties": {
+    "addr:city": "Zug",
+    "addr:housenumber": "16",
+    "addr:postcode": "6300",
+    "addr:street": "Chollerstrasse",
+    "amenity": "social_facility",
+    "name": "Lorzenmatt",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
+    "id": "way/1341474810"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4877256,
+          47.184162
+        ],
+        [
+          8.4878253,
+          47.1839973
+        ],
+        [
+          8.4891036,
+          47.1843547
+        ],
+        [
+          8.4890038,
+          47.1845195
+        ],
+        [
+          8.4886341,
+          47.1844161
+        ],
+        [
+          8.4877256,
+          47.184162
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/473379001",
   "properties": {
     "amenity": "social_facility",
