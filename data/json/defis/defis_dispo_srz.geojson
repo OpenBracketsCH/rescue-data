@@ -26430,27 +26430,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8775937904",
-  "properties": {
-    "defibrillator:location": "Der Standort des Defibrillators ist im Waaghaus der Logistik von Entsorgung/Recycling der Stadt Wädenswil",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-Fr 09:30-12:00, 13:15-18:00; Sa 08:30-15:00",
-    "operator": "Stadt Wädenswil Werke",
-    "phone": "+41 44 789 75 23",
-    "id": "node/8775937904"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6447811,
-      47.2375483
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8779001417",
   "properties": {
     "access": "no",
@@ -84425,6 +84404,53 @@
     "coordinates": [
       8.6408651,
       47.2829738
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12412608901",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bahnhof Zollikon",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Zollikon",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12412608901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5698197,
+      47.3374177
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12413906501",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Alle unsere Fahrzeuge haben einen Corpuls Defi dabei - anrufen und er kann abgeholt werden - oder er wird gebracht.",
+    "description": "MyMedicus 24h Betrieb",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "MyMedicus by ARLETONE GmbH",
+    "phone": "+41762801166",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12413906501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7920773,
+      47.4998112
     ]
   }
 }

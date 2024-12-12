@@ -757,6 +757,23 @@
       47.344167
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12412710665",
+  "properties": {
+    "highway": "emergency_access_point",
+    "operator": "SZU",
+    "ref": "TP925 Triemli",
+    "id": "node/12412710665"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4942261,
+      47.3651792
+    ]
+  }
 }
 ]
 }
