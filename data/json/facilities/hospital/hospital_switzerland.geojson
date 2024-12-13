@@ -53307,7 +53307,7 @@
     "addr:city": "Castaneda",
     "addr:housenumber": "53",
     "addr:postcode": "6540",
-    "addr:street": "Al Ronc",
+    "addr:street": "Strada Cantonale",
     "amenity": "clinic",
     "healthcare": "clinic",
     "name": "Swiss Mountain Clinic AG (formerly Paracelsus Clinica al Ronc)",
@@ -53317,8 +53317,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      9.1376014,
-      46.2591924
+      9.1376861,
+      46.259186
     ]
   }
 },
