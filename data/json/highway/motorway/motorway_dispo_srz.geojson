@@ -18412,6 +18412,7 @@
     "highway": "motorway",
     "int_ref": "E 60",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A1",
@@ -19663,6 +19664,7 @@
     "highway": "motorway",
     "int_ref": "E 60",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A1",
@@ -24842,6 +24844,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A7",
@@ -28348,6 +28351,8 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A7",

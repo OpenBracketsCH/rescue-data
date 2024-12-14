@@ -1182,7 +1182,8 @@
     "amenity": "school",
     "name": "Schulanlage Talhof",
     "operator": "Stadt Winterthur",
-    "operator:type": "public",
+    "operator:type": "government",
+    "operator:wikidata": "Q9125",
     "type": "multipolygon",
     "website": "https://www.talhof-erlen.ch/",
     "id": "relation/9211153"
@@ -1196,16 +1197,12 @@
           47.5115806
         ],
         [
-          8.7022426,
-          47.511541
+          8.7021945,
+          47.5116103
         ],
         [
-          8.7019672,
-          47.5111419
-        ],
-        [
-          8.7018773,
-          47.5111641
+          8.7019167,
+          47.511149
         ],
         [
           8.7017929,
@@ -26078,7 +26075,8 @@
     "grades": "1-6",
     "name": "Primarschule Ausserdorf",
     "operator": "Stadt Winterthur",
-    "operator:type": "public",
+    "operator:type": "government",
+    "operator:wikidata": "Q9125",
     "website": "https://www.ausserdorf.ch/",
     "id": "way/57708505"
   },
@@ -97969,6 +97967,10 @@
           47.4251785
         ],
         [
+          8.6176054,
+          47.4250157
+        ],
+        [
           8.617802,
           47.424973
         ],
@@ -98003,6 +98005,10 @@
         [
           8.6180504,
           47.4250324
+        ],
+        [
+          8.6180773,
+          47.4250984
         ],
         [
           8.6180781,
@@ -99584,12 +99590,12 @@
           47.4959755
         ],
         [
-          8.7301227,
-          47.4954264
+          8.730181,
+          47.4954304
         ],
         [
-          8.7306294,
-          47.4950109
+          8.73067,
+          47.4950352
         ],
         [
           8.7306951,

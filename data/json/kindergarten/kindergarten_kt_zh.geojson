@@ -3375,6 +3375,7 @@
     "addr:street": "Kratzstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2024-12-13",
     "name": "Kindergarten Chratz 1+2",
     "source": "Yahoo aerial images",
     "id": "way/42508651"
@@ -5167,7 +5168,9 @@
   "type": "Feature",
   "id": "way/52373552",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "26",
+    "addr:postcode": "8408",
     "addr:street": "Talhofweg",
     "amenity": "kindergarten",
     "building": "yes",
