@@ -545,23 +545,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/410684347",
-  "properties": {
-    "barrier": "lift_gate",
-    "bicycle": "yes",
-    "foot": "yes",
-    "id": "node/410684347"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7248305,
-      47.1624464
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/413410507",
   "properties": {
     "barrier": "lift_gate",

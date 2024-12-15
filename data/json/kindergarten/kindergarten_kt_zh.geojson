@@ -33636,7 +33636,7 @@
   "id": "node/2075321925",
   "properties": {
     "addr:city": "Winterthur",
-    "addr:housenumber": "140.1",
+    "addr:housenumber": "140",
     "addr:postcode": "8404",
     "addr:street": "Guggenbühlstrasse",
     "amenity": "kindergarten",
