@@ -28085,6 +28085,49 @@
 },
 {
   "type": "Feature",
+  "id": "way/1100556525",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "18",
+    "addr:place": "Im Stockenhof",
+    "addr:postcode": "8105",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Almacasa",
+    "operator": "Almacasa",
+    "social_facility": "nursing_home",
+    "id": "way/1100556525"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4690387,
+          47.4323918
+        ],
+        [
+          8.4694883,
+          47.4322756
+        ],
+        [
+          8.4695493,
+          47.4323837
+        ],
+        [
+          8.4690997,
+          47.4324999
+        ],
+        [
+          8.4690387,
+          47.4323918
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1100556528",
   "properties": {
     "addr:city": "Regensdorf",

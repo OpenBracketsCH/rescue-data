@@ -16025,6 +16025,8 @@
     "amenity": "kindergarten",
     "building": "yes",
     "check_date": "2023-06-11",
+    "contact:phone": "+41 79 607 47 84",
+    "contact:website": "www.quadliwats.ch",
     "name": "Familientreff Kipferhaus",
     "id": "way/197475523"
   },
