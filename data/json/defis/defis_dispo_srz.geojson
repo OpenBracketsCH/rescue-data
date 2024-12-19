@@ -3829,18 +3829,21 @@
   "type": "Feature",
   "id": "node/6979662526",
   "properties": {
+    "access": "yes",
     "defibrillator:location": "Beim Haupteingang links. Vor dem Büro des Hausmeisters",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 06:30-20:45",
     "wheelchair": "yes",
     "id": "node/6979662526"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5310801,
-      47.3785389
+      8.5311135,
+      47.3785064
     ]
   }
 },
@@ -29090,6 +29093,7 @@
   "type": "Feature",
   "id": "node/8874117371",
   "properties": {
+    "access": "customers",
     "defibrillator:location": "Im EG an der Säule vor dem Kiosk",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -29104,8 +29108,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4633167,
-      47.408603
+      8.4633311,
+      47.4085723
     ]
   }
 },
@@ -35277,20 +35281,22 @@
   "id": "node/9398461810",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Beim Hintereingang des Gemeinschafts-Lokal der Genossenschaft Baufreunde. Wenn man vom Wendeplatz auf das Gemeinschafts-Lokal sieht, befindet sich der AED links neben der Eingangstüre.",
+    "defibrillator:location": "Beim Hintereingang des Gemeinschafts-Lokal",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Genossenschaft Baufreunde, Herr Beno Schönenberger",
     "phone": "+41 79 902 71 02",
+    "wheelchair": "limited",
     "id": "node/9398461810"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5624871,
-      47.4093864
+      8.5625634,
+      47.409412
     ]
   }
 },
@@ -84810,6 +84816,319 @@
     "coordinates": [
       8.5469485,
       47.5025142
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12430017309",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Nebengebäude Dreifaltigkeitskirche",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Katholisches Pfarramt",
+    "phone": "+41 43 411 30 30",
+    "wheelchair": "limited",
+    "id": "node/12430017309"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5354646,
+      47.5215605
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12430114751",
+  "properties": {
+    "access": "customers",
+    "defibrillator:location": "Migros Schlieren - Rietbach",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "operator": "Genossenschaft Migros Zürich",
+    "phone": "+4158 563 55 00",
+    "wheelchair": "limited",
+    "id": "node/12430114751"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4352797,
+      47.4008183
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12430184613",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "See-Spital Neubau NEO",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "See-Spital",
+    "phone": "+41 44 728 11 11",
+    "wheelchair": "limited",
+    "id": "node/12430184613"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5895445,
+      47.263301
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12430258676",
+  "properties": {
+    "access": "customers",
+    "defibrillator:location": "Neben dem Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "114",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Su 05:00-23:00",
+    "operator": "TuricumFit GmbH",
+    "wheelchair": "limited",
+    "id": "node/12430258676"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5560537,
+      47.4148237
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12430369903",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Spritzenhaus Wappenswilerstrasse ",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "operator": "Gemeinde Bäretswil ",
+    "phone": "044 939 17 37",
+    "id": "node/12430369903"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8681949,
+      47.32433
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12430377901",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Pumpwerk Rüeggenthalstrasse 18",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "operator": "Gemeinde Bäretswil ",
+    "phone": "044 939 17 37",
+    "id": "node/12430377901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8689672,
+      47.3491088
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12430395503",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Reservoir Tödiweg 5",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "operator": "Gemeinde Bäretswil ",
+    "phone": "044 939 17 37",
+    "id": "node/12430395503"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8467575,
+      47.3407113
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12430619818",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Logistikcenter Landolt Werkhofstrasse 8 8451 Kleinandelfingen",
+    "description": "Bei Tankstelle",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Landolt Bau AG",
+    "phone": "+41793243677",
+    "id": "node/12430619818"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6857798,
+      47.605141
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12430823601",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haupteingang Balmer Bücherdienst AG",
+    "description": "Immer Zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "operator": "Balmer Bücherdienst AG",
+    "phone": "+41 55 418 89 89",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12430823601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7455839,
+      47.1394024
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12430892201",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Hittnauerstrasse 21",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "operator": "Gemeinde Bäretswil ",
+    "phone": "044 939 17 37",
+    "id": "node/12430892201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8269675,
+      47.3440862
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12430894401",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schürlistrasse 3",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "operator": "Gemeinde Bäretswil ",
+    "phone": "044 939 17 37",
+    "id": "node/12430894401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8473357,
+      47.3322844
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12431068001",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "M20 Areal, Wasterkingerweg 2, 8193 Eglisau",
+    "description": "Im Treppenhaus, Zugang unter grossem Vordach",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo - Fr 07:00-17:00",
+    "operator": "Marbet Immobilien (Verwaltung M20 Areal)",
+    "phone": "+41 41 249 21 21",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12431068001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5092115,
+      47.5807886
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12431074202",
+  "properties": {
+    "defibrillator:location": "Einfahrt Sonnenhof vis a vis Briefkästen",
+    "description": "24/7",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12431074202"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6363643,
+      47.3585003
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12431078501",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Einfahrt zu Sonnenhof vis a vis Briefkästen",
+    "description": "24/7",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Privat",
+    "phone": "+41 78 696 90 54",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12431078501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.636359,
+      47.358504
     ]
   }
 }

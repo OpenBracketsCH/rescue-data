@@ -81502,12 +81502,12 @@
 },
 {
   "type": "Feature",
-  "id": "node/10587947114",
+  "id": "node/10587947113",
   "properties": {
     "access": "private",
     "barrier": "gate",
     "material": "metal",
-    "id": "node/10587947114"
+    "id": "node/10587947113"
   },
   "geometry": {
     "type": "Point",
