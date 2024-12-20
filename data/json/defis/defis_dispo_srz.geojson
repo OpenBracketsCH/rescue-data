@@ -73042,27 +73042,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11809641370",
-  "properties": {
-    "defibrillator:location": "Schulhaus Ruggenacher 3, Trakt C, Eingang Turnhalle",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "0",
-    "operator": "Gemeinde",
-    "id": "node/11809641370"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4642724,
-      47.4357547
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11809670469",
   "properties": {
     "defibrillator:location": "BZ Sonnhalde, EG, Gemeinschaftsraum",
@@ -82207,7 +82186,7 @@
   "id": "node/12278031901",
   "properties": {
     "access": "permissive",
-    "defibrillator:location": "Schulhaus Ruggenacher 3, Eingang Turnhalle",
+    "defibrillator:location": "Schulhaus Ruggenacher 3, Eingang Turnhalle Trakt C",
     "description": "während Schulbetrieb verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -82215,7 +82194,6 @@
     "opening_hours": "Mo-Fr 08:30 - 22:00",
     "operator": "Primarschule Regensdorf",
     "phone": "+41 43 343 85 00",
-    "source": "local_knowledge, defikarte.ch",
     "id": "node/12278031901"
   },
   "geometry": {
@@ -85129,6 +85107,191 @@
     "coordinates": [
       8.636359,
       47.358504
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12432963120",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Kläranlagen-Gebäude beim Fussweg / Seeuferweg",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Richterswil",
+    "id": "node/12432963120"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7017221,
+      47.2140051
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12432974602",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Intertek (Schweiz) AG",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "Mo-Fr 9:00-16:00",
+    "operator": "Intertek (Schweiz) AG",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12432974602"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4556532,
+      47.3988721
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12432982729",
+  "properties": {
+    "access": "unknown",
+    "defibrillator:location": "Im Treppenhaus neben Eingangstüre",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-17:00",
+    "operator": "Kern Studer AG",
+    "id": "node/12432982729"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6818901,
+      47.1907498
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12433019501",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Vor dem Gästelift im EG",
+    "description": "Immer zugänglich zur Tageszeit. In der Nacht für extern, Klingeln beim Haupteingang.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Hotel Holiday Inn",
+    "phone": "+41 44 316 11 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12433019501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5534251,
+      47.410534
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12433155901",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Riedhaldenstrasse 11, Sozialwerke Pfarrer Sieber, nach dem Eingang gleich rechts an der Wand.",
+    "description": "Empfangszeiten 7-23Uhr danach Klingeln damit Ärzte/Pfleger aufmachen können",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Sozialwerke Pfarrer Sieber",
+    "phone": "+4178 689 20 26",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12433155901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5173547,
+      47.4150281
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12433563301",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "AGROLA Tankstelle Ladenfront links an der Hausaussenfassade",
+    "description": "immer Verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "LANDI Zola AG",
+    "phone": "+41584343830",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12433563301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7762737,
+      47.3712792
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12433567401",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haupteingang rechte Seite",
+    "description": "Der Defibrilator befindet sich bei der Briefkastenanlage",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Zentrum Elisabeth, Hinterbergstrasse 41, 6318 Walchwil",
+    "phone": "+41417598280",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12433567401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5241783,
+      47.0950563
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12433789901",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Klinik Adelheid (Rehaklinik), Trainingscenter Vabene",
+    "description": "Während Öffnungszeiten über Nebeneingang (1. Stock), ansonsten über Haupteingang zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "24/7",
+    "operator": "Klinik Adelheid (Telefonzentrale +041 754 30 00, Dienstarzt Medizin +41 754 32 90)",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12433789901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5907668,
+      47.1411247
     ]
   }
 }

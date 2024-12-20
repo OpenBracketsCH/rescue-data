@@ -43269,8 +43269,8 @@
           47.5173329
         ],
         [
-          9.2549542,
-          47.5169942
+          9.2549322,
+          47.5169415
         ],
         [
           9.2551714,
@@ -43319,6 +43319,10 @@
         [
           9.2568179,
           47.5154238
+        ],
+        [
+          9.2569874,
+          47.5154708
         ],
         [
           9.2570815,
@@ -56743,6 +56747,24 @@
     "coordinates": [
       8.7364857,
       47.2039252
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12434256823",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Medicentre Tavannes",
+    "website": "https://www.swissmedical.net/fr/centres-medicaux/medicentre-tavannes",
+    "id": "node/12434256823"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2020129,
+      47.2213963
     ]
   }
 }

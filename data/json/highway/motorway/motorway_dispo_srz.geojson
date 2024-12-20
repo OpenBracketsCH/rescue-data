@@ -38463,8 +38463,8 @@
         47.3441659
       ],
       [
-        8.4601099,
-        47.3439226
+        8.460259,
+        47.3440694
       ]
     ]
   }
@@ -91537,6 +91537,38 @@
       [
         8.6290876,
         47.026836
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1343857151",
+  "properties": {
+    "destination:lanes": "Gotthard;Luzern|Bern;Basel;Westring-Zürich;Gotthard;Luzern|Bern;Basel;St. Gallen;Westring-Zürich|Wettswil;Hedingen;Bonstetten",
+    "highway": "motorway",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "100",
+    "maxspeed:variable": "obstruction",
+    "oneway": "yes",
+    "placement": "middle_of:2",
+    "ref": "A3",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "|||slight_right",
+    "id": "way/1343857151"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.460259,
+        47.3440694
+      ],
+      [
+        8.4601099,
+        47.3439226
       ]
     ]
   }
