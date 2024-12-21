@@ -3,46 +3,6 @@
 "features": [
 {
   "type": "Feature",
-  "id": "way/33789454",
-  "properties": {
-    "building": "yes",
-    "healthcare": "centre",
-    "healthcare:speciality": "vaccination",
-    "name": "Impfzentrum KSB",
-    "source": "bing",
-    "vaccination": "covid19",
-    "id": "way/33789454"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.2790972,
-          47.4565426
-        ],
-        [
-          8.2790956,
-          47.4563949
-        ],
-        [
-          8.2792805,
-          47.456394
-        ],
-        [
-          8.2792821,
-          47.4565418
-        ],
-        [
-          8.2790972,
-          47.4565426
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/184594087",
   "properties": {
     "addr:housenumber": "68",

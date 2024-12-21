@@ -17618,11 +17618,13 @@
     "contact:email": "wiedikon@fksz.ch",
     "contact:phone": "+41 44 454 24 10",
     "contact:website": "https://fksz.ch/schulhaeuser/wiedikon/",
+    "denomination": "catholic",
     "description": "Primarschule und Sekundarschule",
     "isced:level": "1;2",
     "name": "Freie Katholische Schule Wiedikon",
     "operator": "Freie Katholische Schulen Zürich",
-    "private": "yes",
+    "operator:type": "private",
+    "religion": "christian",
     "website": "https://www.fksz.ch/schulhaeuser/wiedikon/",
     "id": "way/39548753"
   },
@@ -18486,7 +18488,7 @@
     "amenity": "school",
     "building": "school",
     "name": "Jüdische Schule Knaben",
-    "private": "yes",
+    "operator:type": "private",
     "religion": "jewish",
     "id": "way/42833982"
   },
@@ -24193,7 +24195,6 @@
     "name": "FGZ Freies Gymnasium Zürich",
     "operator": "Freies Gymnasium Zürich",
     "operator:type": "private",
-    "private": "yes",
     "roof:shape": "flat",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
     "website": "https://www.fgz.ch/",
@@ -24365,6 +24366,10 @@
         [
           8.7196826,
           47.504295
+        ],
+        [
+          8.7196527,
+          47.5043053
         ],
         [
           8.7196156,
@@ -27627,7 +27632,7 @@
     "building": "yes",
     "building:use": "school",
     "name": "Rietberg Montessori School",
-    "private": "yes",
+    "operator:type": "private",
     "website": "https://rietberg-montessori.ch/",
     "id": "way/92016211"
   },
@@ -70899,6 +70904,7 @@
   "properties": {
     "amenity": "school",
     "name": "Atelierschule Rudolf Steiner Schule Zürich",
+    "operator:type": "private",
     "wheelchair": "no",
     "id": "way/320372647"
   },
@@ -85087,11 +85093,12 @@
     "contact:postcode": "8008",
     "contact:street": "Kreuzbühlstrasse",
     "contact:website": "https://fksz.ch/schulhaeuser/kreuzbuehl/",
+    "denomination": "catholic",
     "description": "Primarschule und Sekundarschule",
     "name": "Freie Katholische Schule Kreuzbühl",
     "operator": "Freie Katholische Schulen Zürich",
     "operator:type": "private",
-    "private": "yes",
+    "religion": "christian",
     "id": "way/552156397"
   },
   "geometry": {
@@ -85163,7 +85170,6 @@
     "name": "Freie Katholische Schule Sumatra",
     "operator": "Freie Katholische Schulen Zürich",
     "operator:type": "private",
-    "private": "yes",
     "website": "https://www.fksz.ch/schulhaeuser/sumatra/",
     "id": "way/552156398"
   },
@@ -89782,7 +89788,6 @@
     "name": "Schule Etz Chaim",
     "operator": "Verein zur Förderung der Sonderschulung",
     "operator:type": "private",
-    "private": "yes",
     "religion": "jewish",
     "id": "way/835476850"
   },
@@ -99584,7 +99589,7 @@
     "addr:street": "Plattenstrasse",
     "amenity": "school",
     "name": "Rudolf Steiner Schule Zürich",
-    "private": "yes",
+    "operator:type": "private",
     "wheelchair": "no",
     "id": "node/500317275"
   },
@@ -100070,7 +100075,7 @@
     "contact:phone": "+41 43 268 20 50",
     "contact:website": "https://www.atelierschule.ch/kontakt/sekretariat",
     "name": "Atelierschule Zürich",
-    "private": "yes",
+    "operator:type": "private",
     "website": "https://www.atelierschule.ch/",
     "wikidata": "Q17521389",
     "id": "node/4066446464"
@@ -100490,7 +100495,7 @@
     "check_date": "2024-04-03",
     "name": "Sprungbrett Montessori-Schule",
     "operator": "Montessori-Schule GmbH",
-    "private": "yes",
+    "operator:type": "private",
     "website": "https://www.sprungbrett.eu/",
     "id": "node/5331387424"
   },
@@ -100567,7 +100572,7 @@
     "description": "Primarschule",
     "name": "Talmud Toire Chajei Oilom",
     "operator": "Jüdischer Schulverein Zürich",
-    "private": "yes",
+    "operator:type": "private",
     "religion": "jewish",
     "id": "node/5331387441"
   },
@@ -103886,8 +103891,8 @@
     "name": "Lernstudio",
     "office": "educational_institution",
     "operator": "Lernstudio Zürich",
+    "operator:type": "private",
     "phone": "+41 44 382 90 90",
-    "private": "yes",
     "website": "https://www.lernstudio.ch/de-CH/Standorte/Zuerich-Scheuchzerstrasse",
     "id": "node/12117995033"
   },

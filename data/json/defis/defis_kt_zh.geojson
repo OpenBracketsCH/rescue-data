@@ -23224,28 +23224,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9233450428",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Grosses Foyer, linker Zugang zur Mehrzweckhalle",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "operator": "Gemeindeverwaltung Bachenbülach",
-    "phone": "+41 44 864 34 80",
-    "id": "node/9233450428"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5464131,
-      47.5024631
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9235196717",
   "properties": {
     "access": "no",
@@ -65116,8 +65094,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6655424,
-      47.1752747
+      8.6659488,
+      47.1751079
     ]
   }
 },
@@ -66139,6 +66117,74 @@
     "coordinates": [
       8.7762737,
       47.3712792
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12434971301",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Friesenberg 75",
+    "description": "nur während Bürozeiten, vor Türe zum Lift",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "08:00- 18:00",
+    "operator": "Privat",
+    "id": "node/12434971301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5113685,
+      47.3675951
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12434978801",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Friesenberg 75",
+    "description": "Büros Hitachi Rail",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "3",
+    "opening_hours": "08:00-18:00",
+    "operator": "Mobimo",
+    "id": "node/12434978801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5112787,
+      47.367623
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12436486801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Pfadiheim Wulp",
+    "description": "24/7 zugänglich, alarmgesichert",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Verein Altpfadi Küsnacht-Erlenbach",
+    "id": "node/12436486801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6088478,
+      47.3157014
     ]
   }
 }

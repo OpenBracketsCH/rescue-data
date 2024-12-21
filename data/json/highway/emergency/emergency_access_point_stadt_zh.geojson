@@ -774,6 +774,91 @@
       47.3651043
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12435099544",
+  "properties": {
+    "highway": "emergency_access_point",
+    "operator": "SZU",
+    "ref": "TP2 Hohensteinstrasse",
+    "id": "node/12435099544"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4697982,
+      47.3698787
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12435099579",
+  "properties": {
+    "highway": "emergency_access_point",
+    "operator": "SZU",
+    "ref": "TP IP Uitikon-Waldegg",
+    "id": "node/12435099579"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4673164,
+      47.3655569
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12435099580",
+  "properties": {
+    "highway": "emergency_access_point",
+    "operator": "SZU",
+    "ref": "TP3 Huebweg",
+    "id": "node/12435099580"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4695936,
+      47.3642422
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12435121438",
+  "properties": {
+    "highway": "emergency_access_point",
+    "operator": "SZU",
+    "ref": "TP1 Läufeweg",
+    "id": "node/12435121438"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4791065,
+      47.3692878
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12435122536",
+  "properties": {
+    "highway": "emergency_access_point",
+    "operator": "SZU",
+    "ref": "TP9 Bahnhof Uetliberg",
+    "id": "node/12435122536"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4879945,
+      47.3527068
+    ]
+  }
 }
 ]
 }
