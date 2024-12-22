@@ -13002,16 +13002,16 @@
           46.5402041
         ],
         [
-          9.8780132,
-          46.5400883
+          9.8779942,
+          46.5400871
         ],
         [
-          9.8780257,
-          46.5400749
+          9.8780172,
+          46.540062
         ],
         [
-          9.8781458,
-          46.5399469
+          9.878125,
+          46.5399444
         ],
         [
           9.8785785,
@@ -56765,6 +56765,33 @@
     "coordinates": [
       7.2020129,
       47.2213963
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12438714064",
+  "properties": {
+    "addr:city": "Coldrerio",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "6877",
+    "addr:street": "Via Monte Generoso",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general",
+    "name": "Polimedica",
+    "operator": "Polimedica",
+    "operator:type": "private",
+    "phone": "+41 91 223 55 66",
+    "website": "https://www.polimedica.ch/",
+    "id": "node/12438714064"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9917591,
+      45.8563081
     ]
   }
 }
