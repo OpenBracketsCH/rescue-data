@@ -101302,6 +101302,7 @@
   "id": "node/9442867642",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-12-22",
     "contact:city": "Zürich",
     "contact:email": "zuerich@wiss.ch",
     "contact:housenumber": "535",

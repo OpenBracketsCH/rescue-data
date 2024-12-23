@@ -40863,6 +40863,7 @@
     "short_name": "KSH",
     "source": "Bing",
     "website": "https://www.spitalverbund.ch/angebote-heiden-herisau/home-spital-heiden/",
+    "wheelchair": "yes",
     "id": "way/680289440"
   },
   "geometry": {

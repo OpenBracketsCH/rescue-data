@@ -44328,6 +44328,7 @@
     "addr:street": "Gerbestrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2024-12-21",
     "name": "Alters- und Pflegeheim Gerbe",
     "phone": "+41 55 418 73 73",
     "social_facility": "nursing_home",
