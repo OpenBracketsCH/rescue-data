@@ -3289,30 +3289,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7636269857",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Im Gebäude hinter der grün/glasigen Türe der ehemaligen Telefonkabine.",
-    "description": "Defi ist in der ehem. Telefonkabine und 24h zugänglich",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "0",
-    "opening_hours": "24/7",
-    "website": "https://aed.ch/",
-    "wheelchair": "limited",
-    "id": "node/7636269857"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6249304,
-      47.5745052
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7636269858",
   "properties": {
     "access": "yes",
@@ -51547,6 +51523,7 @@
   "type": "Feature",
   "id": "node/11502735769",
   "properties": {
+    "access": "yes",
     "defibrillator:location": "Schulhaus Sunnerai",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -65082,13 +65059,13 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Primarschulhaus Hütten",
-    "description": "Beim Haupteingang",
+    "description": "Frei zugänglich im Eingangsbereich des Schulhauses",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Samariterverein Wädenswil",
-    "phone": "+41796499210",
+    "operator": "Stadt Wädenswil Immobilien",
+    "phone": "+41792265048",
     "id": "node/12404570801"
   },
   "geometry": {

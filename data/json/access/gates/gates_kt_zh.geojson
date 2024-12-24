@@ -4401,6 +4401,7 @@
   "type": "Feature",
   "id": "node/96547605",
   "properties": {
+    "access": "no",
     "barrier": "gate",
     "foot": "yes",
     "material": "metal",
