@@ -759,8 +759,8 @@
   "type": "Feature",
   "id": "way/4674460",
   "properties": {
-    "FIXME": "Neue Regelung/Thayngen - Hauptstrasse 4/Bargen",
     "destination": "Donaueschingen;Bargen;Schaffhausen-Schweizersbild",
+    "fixme": "Neue Regelung/Thayngen - Hauptstrasse 4/Bargen",
     "highway": "trunk",
     "lanes": "1",
     "maxheight": "default",
