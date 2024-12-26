@@ -11524,6 +11524,7 @@
   "properties": {
     "barrier": "gate",
     "bicycle": "no",
+    "fixme": "access restriction can easily be circumvented via the street on the other end",
     "foot": "no",
     "id": "node/683543402"
   },
