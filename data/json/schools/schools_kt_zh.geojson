@@ -52107,6 +52107,7 @@
     "addr:street": "Neuhusstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-12-26",
     "name": "Schulhaus Lindenberg",
     "note": "NEW",
     "school": "primary",
@@ -99384,6 +99385,10 @@
         [
           8.5316591,
           47.377907
+        ],
+        [
+          8.5317026,
+          47.3779374
         ],
         [
           8.5319769,

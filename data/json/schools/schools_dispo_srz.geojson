@@ -34036,6 +34036,10 @@
   "type": "Feature",
   "id": "way/97875482",
   "properties": {
+    "addr:city": "Cham",
+    "addr:housenumber": "8",
+    "addr:postcode": "6330",
+    "addr:street": "Enikerweg",
     "amenity": "school",
     "building": "school",
     "name": "Enikon",
@@ -49507,7 +49511,10 @@
   "type": "Feature",
   "id": "way/158439803",
   "properties": {
-    "addr:place": "Röhrliberg",
+    "addr:city": "Cham",
+    "addr:housenumber": "5",
+    "addr:postcode": "6330",
+    "addr:street": "Röhrliberg",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Röhrliberg 2",
@@ -50797,6 +50804,10 @@
   "type": "Feature",
   "id": "way/161703925",
   "properties": {
+    "addr:city": "Cham",
+    "addr:housenumber": "3",
+    "addr:postcode": "6330",
+    "addr:street": "Schulhausrain",
     "amenity": "school",
     "building": "school",
     "building:levels": "4",
@@ -63324,6 +63335,7 @@
     "addr:street": "Neuhusstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2024-12-26",
     "name": "Schulhaus Lindenberg",
     "note": "NEW",
     "school": "primary",
@@ -90492,6 +90504,10 @@
   "type": "Feature",
   "id": "way/346809042",
   "properties": {
+    "addr:city": "Cham",
+    "addr:housenumber": "14",
+    "addr:postcode": "6330",
+    "addr:street": "Johannisstrasse",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Städtli 2",
@@ -90537,9 +90553,14 @@
   "type": "Feature",
   "id": "way/346809074",
   "properties": {
+    "addr:city": "Cham",
+    "addr:housenumber": "23",
+    "addr:postcode": "6330",
+    "addr:street": "Johannisstrasse",
     "amenity": "school",
     "building": "school",
     "building:levels": "3",
+    "entrance": "yes",
     "name": "Schulhaus Städtli 2",
     "id": "way/346809074"
   },
@@ -95428,6 +95449,10 @@
   "type": "Feature",
   "id": "way/397863508",
   "properties": {
+    "addr:city": "Hagendorn",
+    "addr:housenumber": "80",
+    "addr:postcode": "6330",
+    "addr:street": "Lorzenweidstrasse",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Hagendorn/Niederwil",
@@ -107979,7 +108004,10 @@
   "type": "Feature",
   "id": "way/626473268",
   "properties": {
-    "addr:place": "Röhrliberg",
+    "addr:city": "Cham",
+    "addr:housenumber": "3",
+    "addr:postcode": "6330",
+    "addr:street": "Röhrliberg",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Röhrliberg 1",
@@ -112605,6 +112633,10 @@
   "type": "Feature",
   "id": "way/816588177",
   "properties": {
+    "addr:city": "Cham",
+    "addr:housenumber": "22",
+    "addr:postcode": "6330",
+    "addr:street": "Lorzenparkstrasse",
     "amenity": "school",
     "building": "yes",
     "leisure": "sports_centre",
@@ -125983,6 +126015,10 @@
         [
           8.5316591,
           47.377907
+        ],
+        [
+          8.5317026,
+          47.3779374
         ],
         [
           8.5319769,
