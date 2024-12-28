@@ -245,6 +245,8 @@
     "barrier": "gate",
     "bicycle": "yes",
     "foot": "yes",
+    "material": "aluminium",
+    "wheelchair": "yes",
     "id": "node/326849913"
   },
   "geometry": {

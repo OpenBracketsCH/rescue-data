@@ -852,6 +852,151 @@
 },
 {
   "type": "Feature",
+  "id": "relation/18471445",
+  "properties": {
+    "addr:city": "Oetwil am See",
+    "addr:housenumber": "3",
+    "addr:postcode": "8618",
+    "addr:street": "Willikonerstrasse",
+    "amenity": "social_facility",
+    "name": "Oase Oetwil am See",
+    "operator": "Oase Service AG",
+    "operator:type": "private",
+    "phone": "+41 43 844 82 82",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "type": "multipolygon",
+    "website": "https://oaseoetwilamsee.ch/",
+    "id": "relation/18471445"
+  },
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            8.7207761,
+            47.2707563
+          ],
+          [
+            8.7209946,
+            47.2708129
+          ],
+          [
+            8.7209249,
+            47.2709418
+          ],
+          [
+            8.7206677,
+            47.2708778
+          ],
+          [
+            8.7205448,
+            47.2708473
+          ],
+          [
+            8.7206013,
+            47.2707448
+          ],
+          [
+            8.7206324,
+            47.270752
+          ],
+          [
+            8.7206505,
+            47.2707235
+          ],
+          [
+            8.7207141,
+            47.2707401
+          ],
+          [
+            8.7207761,
+            47.2707563
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            8.7207761,
+            47.2707563
+          ],
+          [
+            8.720807,
+            47.2707011
+          ],
+          [
+            8.7207882,
+            47.2706962
+          ],
+          [
+            8.7207941,
+            47.2706856
+          ],
+          [
+            8.7207993,
+            47.2706763
+          ],
+          [
+            8.7208181,
+            47.2706812
+          ],
+          [
+            8.7208488,
+            47.2706262
+          ],
+          [
+            8.7209229,
+            47.2707053
+          ],
+          [
+            8.7210955,
+            47.2706304
+          ],
+          [
+            8.7209946,
+            47.2708129
+          ],
+          [
+            8.7207761,
+            47.2707563
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            8.7210955,
+            47.2706304
+          ],
+          [
+            8.7209229,
+            47.2707053
+          ],
+          [
+            8.7208488,
+            47.2706262
+          ],
+          [
+            8.720705,
+            47.2704726
+          ],
+          [
+            8.7208777,
+            47.2703977
+          ],
+          [
+            8.7210955,
+            47.2706304
+          ]
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/22702052",
   "properties": {
     "addr:housenumber": "7",
@@ -17168,99 +17313,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/436778926",
-  "properties": {
-    "addr:city": "Oetwil am See",
-    "addr:housenumber": "3a",
-    "addr:postcode": "8618",
-    "addr:street": "Willikonerstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Oase Oetwil am See",
-    "operator": "Oase Service AG",
-    "phone": "+41 43 844 82 82",
-    "social_facility": "nursing_home",
-    "website": "https://oaseoetwilamsee.ch/",
-    "id": "way/436778926"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7208488,
-          47.2706262
-        ],
-        [
-          8.7209229,
-          47.2707053
-        ],
-        [
-          8.7210955,
-          47.2706304
-        ],
-        [
-          8.7209249,
-          47.2709418
-        ],
-        [
-          8.7206677,
-          47.2708778
-        ],
-        [
-          8.7205448,
-          47.2708473
-        ],
-        [
-          8.7206013,
-          47.2707448
-        ],
-        [
-          8.7206324,
-          47.270752
-        ],
-        [
-          8.7206505,
-          47.2707235
-        ],
-        [
-          8.7207141,
-          47.2707401
-        ],
-        [
-          8.7207761,
-          47.2707563
-        ],
-        [
-          8.720807,
-          47.2707011
-        ],
-        [
-          8.7207882,
-          47.2706962
-        ],
-        [
-          8.7207935,
-          47.2706867
-        ],
-        [
-          8.7207993,
-          47.2706763
-        ],
-        [
-          8.7208181,
-          47.2706812
-        ],
-        [
-          8.7208488,
-          47.2706262
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/436942468",
   "properties": {
     "addr:city": "Elsau",
@@ -19962,56 +20014,6 @@
         [
           8.7933867,
           47.2942327
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/795158662",
-  "properties": {
-    "addr:city": "Oetwil am See",
-    "addr:housenumber": "3",
-    "addr:postcode": "8618",
-    "addr:street": "Willikonerstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "check_date": "2024-07-01",
-    "name": "Oase Oetwil am See",
-    "operator": "Oase Service AG",
-    "phone": "+41 43 844 82 82",
-    "social_facility": "nursing_home",
-    "website": "https://oaseoetwilamsee.ch/",
-    "id": "way/795158662"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7210955,
-          47.2706304
-        ],
-        [
-          8.7209229,
-          47.2707053
-        ],
-        [
-          8.7208488,
-          47.2706262
-        ],
-        [
-          8.720705,
-          47.2704726
-        ],
-        [
-          8.7208777,
-          47.2703977
-        ],
-        [
-          8.7210955,
-          47.2706304
         ]
       ]
     ]
