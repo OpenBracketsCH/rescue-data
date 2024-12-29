@@ -77,8 +77,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4875122,
-      47.3613946
+      8.4875196,
+      47.3613948
     ]
   }
 },
@@ -154,8 +154,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5795362,
-      47.3733507
+      8.5795791,
+      47.3733344
     ]
   }
 },
@@ -170,8 +170,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5795755,
-      47.3659343
+      8.5795996,
+      47.3659579
     ]
   }
 },
@@ -186,8 +186,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5767075,
-      47.3648547
+      8.5766646,
+      47.3648711
     ]
   }
 },
@@ -262,8 +262,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5785584,
-      47.3707537
+      8.5785906,
+      47.3707682
     ]
   }
 },
@@ -278,8 +278,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5855897,
-      47.3711095
+      8.5856004,
+      47.3711476
     ]
   }
 },
@@ -310,7 +310,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5795268,
+      8.5794839,
       47.3669592
     ]
   }
@@ -351,8 +351,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5064491,
-      47.3385901
+      8.50645,
+      47.338599
     ]
   }
 },
@@ -373,6 +373,27 @@
     "coordinates": [
       8.487356,
       47.358119
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8593044819",
+  "properties": {
+    "alt_name": "Biketrail Höckler",
+    "description:emergency": "Gratstrasse",
+    "emergency_telephone_code": "144",
+    "highway": "emergency_access_point",
+    "name": "Gratstrasse / Höcklerstrasse",
+    "operator": "Grün Stadt Zürich",
+    "ref": "A1",
+    "id": "node/8593044819"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5006407,
+      47.3380529
     ]
   }
 },
@@ -413,8 +434,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5106185,
-      47.3439036
+      8.5105997,
+      47.3438972
     ]
   }
 },

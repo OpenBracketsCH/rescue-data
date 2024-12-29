@@ -7497,6 +7497,7 @@
   "type": "Feature",
   "id": "way/15708870",
   "properties": {
+    "destination": "St. Gallen;Schaffhausen;Winterthur",
     "embankment": "yes",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
@@ -31803,7 +31804,9 @@
   "properties": {
     "alt_name": "Oberlandautobahn",
     "change:lanes": "no|yes|yes",
-    "destination:lanes": "Brütisellen;Dietlikon|Flughafen;Zürich|St. Gallen;Schaffhausen;Winterthur",
+    "destination:int_ref:lanes": "|E 60|E 41;E 60",
+    "destination:lanes": "Brüttisellen;Dietlikon|Zürich;Flughafen|St. Gallen;Schaffhausen;Winterthur",
+    "destination:ref:lanes": "|A1;A4|A1;A4",
     "highway": "motorway",
     "lanes": "3",
     "lit": "yes",
@@ -32103,32 +32106,8 @@
         47.4210152
       ],
       [
-        8.6347124,
-        47.4208829
-      ],
-      [
-        8.6345224,
-        47.4207915
-      ],
-      [
-        8.6343325,
-        47.4206974
-      ],
-      [
-        8.6341418,
-        47.420602
-      ],
-      [
-        8.6339511,
-        47.420503
-      ],
-      [
-        8.6337496,
-        47.4203969
-      ],
-      [
-        8.6335469,
-        47.4202865
+        8.6347616,
+        47.4209041
       ]
     ]
   }
@@ -40906,15 +40885,17 @@
   "type": "Feature",
   "id": "way/174376790",
   "properties": {
-    "alt_name": "Anschluss Brüttisellen",
+    "alt_name": "Brüttiseller Kreuz",
     "destination": "Rapperswil;Uster;Wangen;St. Gallen;Schaffhausen;Winterthur",
+    "destination:colour:lanes": ";;blue|",
     "destination:int_ref:lanes": "|E 41;E 60",
-    "destination:lanes": "Rapperswil;Uster;Wangen|St. Gallen;Schaffhausen;Winterthur",
+    "destination:lanes": "Rapperswil-Jona;Uster;Wangen|St. Gallen;Schaffhausen;Winterthur",
     "destination:ref:lanes": "A15|A1;A4",
     "highway": "motorway",
     "lanes": "2",
     "lit": "yes",
     "maxspeed": "80",
+    "name": "Verzweigung Brüttisellen",
     "nat_name": "N15",
     "old_name": "A53",
     "oneway": "yes",
@@ -51298,8 +51279,9 @@
   "type": "Feature",
   "id": "way/255102674",
   "properties": {
+    "destination:colour:lanes": "||;;blue|",
     "destination:int_ref:lanes": "E 41;E 60|E 41;E 60||",
-    "destination:lanes": "Sankt Gallen;Schaffhausen;Winterthur|Sankt Gallen;Schaffhausen;Winterthur|Rapperswil;Uster;Wangen|Brüttisellen;Dietlikon",
+    "destination:lanes": "St. Gallen;Schaffhausen;Winterthur|St. Gallen;Schaffhausen;Winterthur|Rapperswil-Jona;Uster;Wangen|Brüttisellen;Dietlikon",
     "destination:ref:lanes": "A1;A4|A1;A4|A15|",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
@@ -51313,15 +51295,14 @@
     "source:maxspeed": "sign",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||slight_right|slight_right",
     "id": "way/255102674"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.6253565,
-        47.414481
+        8.6250517,
+        47.4142904
       ],
       [
         8.6257091,
@@ -53759,11 +53740,12 @@
   "type": "Feature",
   "id": "way/288968934",
   "properties": {
-    "alt_name": "Anschluss Brüttisellen",
+    "alt_name": "Brüttiseller Kreuz",
     "highway": "motorway",
     "lanes": "1",
     "lit": "yes",
     "maxspeed": "80",
+    "name": "Verzweigung Brüttisellen",
     "nat_name": "N15",
     "old_name": "A53",
     "oneway": "yes",
@@ -60878,8 +60860,9 @@
   "id": "way/308823447",
   "properties": {
     "bridge": "yes",
+    "destination:colour:lanes": "||;;blue|",
     "destination:int_ref:lanes": "E 41;E 60|E 41;E 60||",
-    "destination:lanes": "Sankt Gallen;Schaffhausen;Winterthur|Sankt Gallen;Schaffhausen;Winterthur|Rapperswil;Uster;Wangen|Brüttisellen;Dietlikon",
+    "destination:lanes": "St. Gallen;Schaffhausen;Winterthur|St. Gallen;Schaffhausen;Winterthur|Rapperswil-Jona;Uster;Wangen|Brüttisellen;Dietlikon",
     "destination:ref:lanes": "A1;A4|A1;A4|A15|",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
@@ -60894,7 +60877,6 @@
     "source:maxspeed": "sign",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||slight_right|slight_right",
     "id": "way/308823447"
   },
   "geometry": {
@@ -62021,12 +62003,14 @@
   "type": "Feature",
   "id": "way/372805401",
   "properties": {
-    "alt_name": "Anschluss Brüttisellen",
-    "destination": "Rapperswil;Uster;Wangen",
+    "alt_name": "Brüttiseller Kreuz",
+    "destination": "Rapperswil-Jona;Uster;Wangen",
+    "destination:colour": ";;blue",
     "highway": "motorway",
     "lanes": "2",
     "lit": "yes",
     "maxspeed": "80",
+    "name": "Verzweigung Brüttisellen",
     "nat_name": "N15",
     "old_name": "A53",
     "oneway": "yes",
@@ -67367,11 +67351,12 @@
   "type": "Feature",
   "id": "way/545749123",
   "properties": {
-    "alt_name": "Anschluss Brüttisellen",
+    "alt_name": "Brüttiseller Kreuz",
     "highway": "motorway",
     "lanes": "1",
     "lit": "yes",
     "maxspeed": "80",
+    "name": "Verzweigung Brüttisellen",
     "nat_name": "N15",
     "old_name": "A53",
     "oneway": "yes",
@@ -67390,6 +67375,10 @@
         47.4153992
       ],
       [
+        8.6305209,
+        47.4152109
+      ],
+      [
         8.6306669,
         47.4150411
       ]
@@ -67401,8 +67390,10 @@
   "id": "way/545803645",
   "properties": {
     "alt_name": "Oberlandautobahn",
-    "change:lanes": "no|not_left|not_right",
-    "destination:lanes": "Brütisellen;Dietlikon|Flughafen;Zürich|St. Gallen;Schaffhausen;Winterthur",
+    "change:lanes": "no|not_left|yes",
+    "destination:int_ref:lanes": "|E 60|E 41;E 60",
+    "destination:lanes": "Brüttisellen;Dietlikon|Zürich;Flughafen|St. Gallen;Schaffhausen;Winterthur",
+    "destination:ref:lanes": "|A1;A4|A1;A4",
     "highway": "motorway",
     "lanes": "3",
     "lit": "yes",
@@ -67436,7 +67427,9 @@
   "id": "way/545813332",
   "properties": {
     "alt_name": "Oberlandautobahn",
-    "destination:lanes": "Brütisellen;Dietlikon|Flughafen;Zürich|St. Gallen;Schaffhausen;Winterthur",
+    "destination:int_ref:lanes": "|E 60|E 41;E 60",
+    "destination:lanes": "Brüttisellen;Dietlikon|Zürich;Flughafen|St. Gallen;Schaffhausen;Winterthur",
+    "destination:ref:lanes": "|A1;A4|A1;A4",
     "highway": "motorway",
     "lanes": "3",
     "lit": "yes",
@@ -80111,8 +80104,9 @@
     "avz": "286",
     "cs_dir": "1",
     "cutting": "yes",
+    "destination:colour:lanes": "||;;blue",
     "destination:int_ref:lanes": "E 41;E 60|E 41;E 60|",
-    "destination:lanes": "Sankt Gallen;Schaffhausen;Winterthur|Sankt Gallen;Schaffhausen;Winterthur|Rapperswil;Uster;Brüttisellen",
+    "destination:lanes": "St. Gallen;Schaffhausen;Winterthur|St. Gallen;Schaffhausen;Winterthur|Rapperswil-Jona;Uster;Brüttisellen",
     "destination:ref:lanes": "A1;A4|A1;A4|A15",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
@@ -80126,7 +80120,6 @@
     "source:maxspeed": "sign",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||slight_right",
     "id": "way/914309457"
   },
   "geometry": {
@@ -80185,8 +80178,9 @@
   "properties": {
     "avz": "286",
     "cs_dir": "1",
+    "destination:colour:lanes": "||;;blue",
     "destination:int_ref:lanes": "E 41;E 60|E 41;E 60|",
-    "destination:lanes": "Sankt Gallen;Schaffhausen;Winterthur|Sankt Gallen;Schaffhausen;Winterthur|Rapperswil;Uster;Brüttisellen",
+    "destination:lanes": "St. Gallen;Schaffhausen;Winterthur|St. Gallen;Schaffhausen;Winterthur|Rapperswil-Jona;Uster;Brüttisellen",
     "destination:ref:lanes": "A1;A4|A1;A4|A15",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
@@ -80200,7 +80194,6 @@
     "source:maxspeed": "sign",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "||slight_right",
     "id": "way/914309459"
   },
   "geometry": {
@@ -80333,10 +80326,6 @@
       [
         8.6250517,
         47.4142904
-      ],
-      [
-        8.6253565,
-        47.414481
       ]
     ]
   }
@@ -89157,7 +89146,7 @@
     "source:maxspeed": "sign",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "none|none|none|merge_to_left",
+    "turn:lanes": "|||merge_to_left",
     "id": "way/1316905836"
   },
   "geometry": {
@@ -91569,6 +91558,62 @@
       [
         8.4601099,
         47.3439226
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1346900381",
+  "properties": {
+    "change:lanes": "yes|not_right|no",
+    "destination:int_ref:lanes": "E 41;E 60|E 41;E 60|",
+    "destination:lanes": "Flughafen;Zürich|Flughafen;Zürich|Rapperswil;Uster;Brüttisellen;Dietlikon",
+    "destination:ref:lanes": "A1;A4|A1;A4|A15",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
+    "oneway": "yes",
+    "ref": "A1;A4",
+    "shoulder:right": "yes",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1346900381"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6347616,
+        47.4209041
+      ],
+      [
+        8.6345224,
+        47.4207915
+      ],
+      [
+        8.6343325,
+        47.4206974
+      ],
+      [
+        8.6341418,
+        47.420602
+      ],
+      [
+        8.6339511,
+        47.420503
+      ],
+      [
+        8.6337496,
+        47.4203969
+      ],
+      [
+        8.6335469,
+        47.4202865
       ]
     ]
   }
