@@ -15492,6 +15492,28 @@
       47.5262538
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12463464627",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "2",
+    "addr:postcode": "8048",
+    "addr:street": "Zwischenbächen",
+    "amenity": "childcare",
+    "name": "GFZ",
+    "phone": "+41444310100",
+    "website": "https://gfz-zh.ch/",
+    "id": "node/12463464627"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4815372,
+      47.3858402
+    ]
+  }
 }
 ]
 }

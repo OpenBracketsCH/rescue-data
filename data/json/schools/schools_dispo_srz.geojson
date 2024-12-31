@@ -127029,30 +127029,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4225126092",
-  "properties": {
-    "addr:housenumber": "42",
-    "addr:street": "Industriestrasse",
-    "amenity": "school",
-    "email": "info@iszn.ch",
-    "name": "International School Zurich North",
-    "opening_hours": "Mo-Sa 07:45-18:30",
-    "operator": "Daniel Sarbach",
-    "phone": "+41 44 830 70 00",
-    "website": "https://www.iszn.ch/",
-    "wikidata": "Q22031713",
-    "id": "node/4225126092"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5897972,
-      47.4109389
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4252190978",
   "properties": {
     "amenity": "school",

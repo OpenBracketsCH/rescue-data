@@ -143,6 +143,7 @@
     "emergency": "disaster_help_point",
     "location": "Feuerwehrdepot",
     "name": "Feuerwehrdepot",
+    "name:de": "Feuerwehrdepot",
     "id": "node/9418104506"
   },
   "geometry": {
