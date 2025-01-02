@@ -5657,9 +5657,10 @@
     "building:colour": "brown",
     "building:levels": "1",
     "building:use": "education",
-    "check_date": "2024-05-07",
+    "check_date": "2025-01-01",
     "name": "Kindergarten Altgasse",
     "operator": "Schulen Baar",
+    "preschool": "yes",
     "roof:shape": "flat",
     "id": "way/54362361"
   },
@@ -45809,8 +45810,10 @@
   "id": "node/9628314956",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-01-01",
     "name": "Kindergarten Landhauspark",
     "operator": "Schulen Baar",
+    "preschool": "yes",
     "id": "node/9628314956"
   },
   "geometry": {

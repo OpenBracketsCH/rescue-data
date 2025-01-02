@@ -329,23 +329,6 @@
       47.0171201
     ]
   }
-},
-{
-  "type": "Feature",
-  "id": "node/10584145609",
-  "properties": {
-    "healthcare": "centre",
-    "healthcare:speciality": "vaccination",
-    "vaccination": "covid19",
-    "id": "node/10584145609"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.5389139,
-      47.4085389
-    ]
-  }
 }
 ]
 }

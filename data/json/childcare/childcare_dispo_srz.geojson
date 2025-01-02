@@ -15514,6 +15514,26 @@
       47.3858402
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12466938742",
+  "properties": {
+    "addr:housenumber": "187",
+    "addr:street": "Altstetterstrasse",
+    "amenity": "childcare",
+    "check_date": "2025-01-01",
+    "name": "Orchide",
+    "website": "https://www.kitaorchidee.ch/standort-altstetten",
+    "id": "node/12466938742"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4850602,
+      47.3848808
+    ]
+  }
 }
 ]
 }

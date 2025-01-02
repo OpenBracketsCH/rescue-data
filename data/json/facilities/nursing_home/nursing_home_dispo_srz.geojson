@@ -12261,7 +12261,8 @@
     "addr:postcode": "8840",
     "addr:street": "Allmeindstrasse",
     "amenity": "nursing_home",
-    "building": "yes",
+    "building": "apartments",
+    "building:material": "plaster",
     "name": "Langrüti",
     "id": "way/170203136"
   },
