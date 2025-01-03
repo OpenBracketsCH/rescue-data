@@ -53236,6 +53236,7 @@
     "addr:postcode": "8050",
     "addr:street": "Neunbrunnenstrasse",
     "amenity": "social_facility",
+    "check_date": "2025-01-02",
     "name": "Pflegewohngruppe Felsenrain",
     "operator": "Stadt Zürich, GUD",
     "social_facility": "nursing_home",

@@ -3967,6 +3967,7 @@
     "name": "Polizeiposten Goldau",
     "opening_hours": "Mo,Fr 08:00-11:30; Tu,Sa-Su off; We-Th 14:00-17:00",
     "operator": "Kantonspolizei Schwyz",
+    "operator:wikidata": "Q56705179",
     "phone": "+41 41 819 53 15",
     "id": "node/8520369956"
   },

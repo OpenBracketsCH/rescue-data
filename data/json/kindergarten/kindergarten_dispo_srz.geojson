@@ -15107,64 +15107,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/169722189",
-  "properties": {
-    "addr:city": "Wetzikon",
-    "addr:country": "CH",
-    "addr:housenumber": "18",
-    "addr:postcode": "8620",
-    "addr:street": "Kreuzbühlstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Schöneich",
-    "id": "way/169722189"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7947632,
-          47.3130044
-        ],
-        [
-          8.7946518,
-          47.3130249
-        ],
-        [
-          8.7946434,
-          47.3130039
-        ],
-        [
-          8.7944983,
-          47.3130307
-        ],
-        [
-          8.7944363,
-          47.3128759
-        ],
-        [
-          8.7945914,
-          47.3128474
-        ],
-        [
-          8.7946203,
-          47.3129195
-        ],
-        [
-          8.7947217,
-          47.3129008
-        ],
-        [
-          8.7947632,
-          47.3130044
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/169783067",
   "properties": {
     "addr:city": "Dinhard",
@@ -32339,7 +32281,6 @@
     "addr:street": "Bühlstrasse",
     "amenity": "kindergarten",
     "building": "yes",
-    "name": "Kindergarten Bühl 1+2",
     "id": "way/963055706"
   },
   "geometry": {
@@ -36869,6 +36810,94 @@
         [
           8.7630066,
           47.5180673
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1348058199",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Schöneich 1 + 2",
+    "id": "way/1348058199"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7942642,
+          47.3130274
+        ],
+        [
+          8.7943735,
+          47.312698
+        ],
+        [
+          8.7949298,
+          47.3129068
+        ],
+        [
+          8.7948026,
+          47.3130397
+        ],
+        [
+          8.7947079,
+          47.3130278
+        ],
+        [
+          8.7946051,
+          47.3130432
+        ],
+        [
+          8.7945301,
+          47.3131309
+        ],
+        [
+          8.7942642,
+          47.3130274
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1348058201",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Bühl 1+2",
+    "id": "way/1348058201"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7962638,
+          47.3192989
+        ],
+        [
+          8.7958057,
+          47.3197007
+        ],
+        [
+          8.7954045,
+          47.3194995
+        ],
+        [
+          8.7957842,
+          47.319075
+        ],
+        [
+          8.7960314,
+          47.3191932
+        ],
+        [
+          8.7962638,
+          47.3192989
         ]
       ]
     ]

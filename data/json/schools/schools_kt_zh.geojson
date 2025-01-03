@@ -100280,23 +100280,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5741495349",
-  "properties": {
-    "amenity": "school",
-    "name": "Schule für Gesundheitsberufe",
-    "website": "https://www.sfg-zh.ch/",
-    "id": "node/5741495349"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.543807,
-      47.41535
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5741495350",
   "properties": {
     "amenity": "school",
@@ -100324,6 +100307,7 @@
   "id": "node/5741495352",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-01-02",
     "name": "Fachschule Viventa, Schulhaus Jungholz",
     "operator": "Stadt Zürich, SSD, Fachschule Viventa",
     "id": "node/5741495352"

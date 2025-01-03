@@ -167,6 +167,21 @@
 },
 {
   "type": "Feature",
+  "id": "node/216558147",
+  "properties": {
+    "barrier": "lift_gate",
+    "id": "node/216558147"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5277381,
+      47.205462
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/270301492",
   "properties": {
     "barrier": "lift_gate",
@@ -246,6 +261,7 @@
     "bicycle": "yes",
     "foot": "yes",
     "material": "aluminium",
+    "opening_hours": "24/7",
     "wheelchair": "yes",
     "id": "node/326849913"
   },
