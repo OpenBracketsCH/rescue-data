@@ -9273,6 +9273,59 @@
 },
 {
   "type": "Feature",
+  "id": "way/99836571",
+  "properties": {
+    "addr:city": "Ottikon",
+    "addr:housenumber": "2",
+    "addr:postcode": "8626",
+    "addr:street": "Bönlerstrasse",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "isced:level": "0",
+    "name": "Kindergarten Silberberg",
+    "operator": "Gemeinde Gossau",
+    "phone": "+41 44 936 56 79",
+    "preschool": "yes",
+    "id": "way/99836571"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7857412,
+          47.2941211
+        ],
+        [
+          8.7858143,
+          47.2940386
+        ],
+        [
+          8.7860517,
+          47.2941352
+        ],
+        [
+          8.785941,
+          47.2942602
+        ],
+        [
+          8.7858457,
+          47.2942214
+        ],
+        [
+          8.7858833,
+          47.2941789
+        ],
+        [
+          8.7857412,
+          47.2941211
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/100309607",
   "properties": {
     "addr:housenumber": "6",
@@ -26610,6 +26663,7 @@
   "id": "way/705966210",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-01-03",
     "contact:city": "Zürich",
     "contact:housenumber": "76",
     "contact:phone": "+41 44 413 74 83",
@@ -26620,6 +26674,7 @@
     "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Gabler",
     "operator:type": "public",
     "website": "https://www.stadt-zuerich.ch/schulen/de/gabler/ueberuns/standorte/kindergaerten.html#kindergarten_gruetli12und3",
+    "wheelchair": "no",
     "id": "way/705966210"
   },
   "geometry": {
@@ -27248,45 +27303,6 @@
         [
           8.6925834,
           47.4238926
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/788615233",
-  "properties": {
-    "amenity": "kindergarten",
-    "isced:level": "0",
-    "name": "Kindergarten Silberberg",
-    "operator": "Gemeinde Gossau",
-    "preschool": "yes",
-    "id": "way/788615233"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7856401,
-          47.2941717
-        ],
-        [
-          8.7858554,
-          47.2938996
-        ],
-        [
-          8.7862072,
-          47.2940363
-        ],
-        [
-          8.7859882,
-          47.2942984
-        ],
-        [
-          8.7856401,
-          47.2941717
         ]
       ]
     ]
@@ -31402,20 +31418,16 @@
     "coordinates": [
       [
         [
-          8.5248576,
-          47.3835574
+          8.5248658,
+          47.3835537
         ],
         [
-          8.525181,
-          47.3833296
+          8.5251966,
+          47.3833421
         ],
         [
-          8.5252043,
-          47.383319
-        ],
-        [
-          8.5253088,
-          47.3835524
+          8.5253032,
+          47.3835543
         ],
         [
           8.5253322,
@@ -31430,24 +31442,24 @@
           47.3836323
         ],
         [
-          8.5251846,
-          47.3836443
+          8.5251902,
+          47.3836457
         ],
         [
-          8.5251396,
-          47.3836575
+          8.5251724,
+          47.3836748
         ],
         [
-          8.5251605,
-          47.3837071
+          8.5251517,
+          47.3836974
         ],
         [
-          8.524975,
-          47.3837503
+          8.5250127,
+          47.3837895
         ],
         [
-          8.5248576,
-          47.3835574
+          8.5248658,
+          47.3835537
         ]
       ]
     ]
@@ -37574,6 +37586,7 @@
   "id": "node/6633369938",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-01-03",
     "contact:city": "Zürich",
     "contact:housenumber": "70",
     "contact:phone": "+41 44 413 75 50",
@@ -37584,6 +37597,7 @@
     "name": "Kindergarten Brandschenke",
     "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Gabler",
     "operator:type": "public",
+    "wheelchair": "yes",
     "id": "node/6633369938"
   },
   "geometry": {

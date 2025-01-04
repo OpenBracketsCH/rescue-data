@@ -9369,6 +9369,7 @@
   "id": "node/9226775191",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-01-03",
     "contact:city": "Zürich",
     "contact:housenumber": "70",
     "contact:phone": "+41 44 413 75 45",
@@ -9379,6 +9380,7 @@
     "name": "Brandschenke 1+2 Morgen-/Mittag-/Abendhort",
     "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Gabler",
     "operator:type": "public",
+    "wheelchair": "yes",
     "id": "node/9226775191"
   },
   "geometry": {
@@ -9419,6 +9421,7 @@
   "id": "node/9226902056",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-01-03",
     "contact:city": "Zürich",
     "contact:housenumber": "76",
     "contact:phone": "+41 44 413 74 84",
@@ -9429,6 +9432,7 @@
     "name": "Grütli 1-2-3 Morgen-/Mittag-/Abendbetreuung",
     "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Gabler",
     "operator:type": "public",
+    "wheelchair": "no",
     "id": "node/9226902056"
   },
   "geometry": {
@@ -9444,6 +9448,7 @@
   "id": "node/9226920509",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-01-03",
     "contact:city": "Zürich",
     "contact:housenumber": "5",
     "contact:phone": "+41 44 413 75 75",

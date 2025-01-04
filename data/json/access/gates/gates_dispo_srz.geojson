@@ -94270,6 +94270,8 @@
     "barrier": "lift_gate",
     "bus": "designated",
     "lift_gate:type": "single",
+    "locked": "yes",
+    "source": "survey",
     "id": "node/11708701946"
   },
   "geometry": {
@@ -100753,6 +100755,24 @@
     "coordinates": [
       8.6145179,
       47.0001081
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12471747316",
+  "properties": {
+    "barrier": "lift_gate",
+    "lift_gate:type": "single",
+    "locked": "yes",
+    "source": "survey",
+    "id": "node/12471747316"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5268352,
+      47.1747607
     ]
   }
 }

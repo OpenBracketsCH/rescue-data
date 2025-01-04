@@ -9335,6 +9335,7 @@
   "id": "way/210731933",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-01-03",
     "contact:city": "Zürich",
     "contact:postcode": "8003",
     "description": "Primarschule",
