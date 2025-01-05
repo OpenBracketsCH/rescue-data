@@ -11799,6 +11799,7 @@
     "addr:street": "Rietwiesenstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2025-01-04",
     "name": "Privatschule One School Global",
     "website": "https://www.oneschoolglobal.com/",
     "id": "way/33058286"
@@ -78314,6 +78315,7 @@
     "addr:street": "Rietwiesenstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2025-01-04",
     "name": "Privatschule One School Global",
     "website": "https://www.oneschoolglobal.com/",
     "id": "way/446323915"

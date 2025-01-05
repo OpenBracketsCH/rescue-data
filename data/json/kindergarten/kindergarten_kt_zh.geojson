@@ -14484,6 +14484,7 @@
     "addr:street": "Seestrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2025-01-04",
     "name": "Kindergarten Niederuster",
     "id": "way/178413094"
   },
@@ -14525,6 +14526,7 @@
     "addr:street": "Seestrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2025-01-04",
     "name": "Kindergarten Niederuster",
     "id": "way/178413096"
   },
@@ -42591,6 +42593,7 @@
     "addr:postcode": "8610",
     "addr:street": "Im Lot",
     "amenity": "kindergarten",
+    "name": "1",
     "id": "node/9958686644"
   },
   "geometry": {

@@ -57961,6 +57961,27 @@
       47.3752636
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12473467905",
+  "properties": {
+    "amenity": "social_facility",
+    "check_date": "2025-01-04",
+    "name": "Zentrum zuwebe",
+    "operator:type": "private",
+    "social_facility": "assisted_living",
+    "social_facility:for": "disabled",
+    "wheelchair": "yes",
+    "id": "node/12473467905"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5357178,
+      47.184071
+    ]
+  }
 }
 ]
 }
