@@ -100600,10 +100600,12 @@
     "addr:postcode": "8032",
     "addr:street": "Jupiterstrasse",
     "amenity": "school",
-    "email": "info@raum-allegra.ch",
-    "name": "LernRaum Allegra",
-    "phone": "+41 76 481 21 23",
-    "website": "https://www.raum-allegra.ch",
+    "email": "info@selbsthilfezuerich.ch",
+    "name": "Selbsthilfe Zürich",
+    "operator": "Stiftung Pro offene Türen der Schweiz",
+    "operator:type": "ngo",
+    "phone": "+41 43 818 52 52",
+    "website": "https://www.selbsthilfezuerich.ch/shzh/de.html",
     "id": "node/7156079485"
   },
   "geometry": {

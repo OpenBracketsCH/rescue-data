@@ -1168,10 +1168,6 @@
   "type": "Feature",
   "id": "way/38422848",
   "properties": {
-    "addr:city": "Rotkreuz",
-    "addr:housenumber": "15d",
-    "addr:postcode": "6343",
-    "addr:street": "Meierskappelerstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus 2",
@@ -1837,10 +1833,6 @@
   "type": "Feature",
   "id": "way/47010077",
   "properties": {
-    "addr:city": "Steinhausen",
-    "addr:housenumber": "12",
-    "addr:postcode": "6312",
-    "addr:street": "Schulhausstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Feldheim",
@@ -1918,10 +1910,6 @@
   "type": "Feature",
   "id": "way/47010101",
   "properties": {
-    "addr:city": "Steinhausen",
-    "addr:housenumber": "37",
-    "addr:postcode": "6312",
-    "addr:street": "Albisstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Feldheim",
@@ -1979,10 +1967,6 @@
   "type": "Feature",
   "id": "way/47010106",
   "properties": {
-    "addr:city": "Steinhausen",
-    "addr:housenumber": "10",
-    "addr:postcode": "6312",
-    "addr:street": "Schulhausstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Feldheim",
@@ -2507,10 +2491,6 @@
   "type": "Feature",
   "id": "way/53747879",
   "properties": {
-    "addr:city": "Rotkreuz",
-    "addr:housenumber": "15c",
-    "addr:postcode": "6343",
-    "addr:street": "Meierskappelerstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus 3",
@@ -3517,10 +3497,6 @@
   "type": "Feature",
   "id": "way/144073672",
   "properties": {
-    "addr:city": "Holzhäusern ZG",
-    "addr:housenumber": "9",
-    "addr:postcode": "6343",
-    "addr:street": "Holzhäusernstrasse",
     "amenity": "school",
     "building": "yes",
     "check_date": "2024-04-23",
@@ -4247,6 +4223,10 @@
   "type": "Feature",
   "id": "way/195696622",
   "properties": {
+    "addr:city": "Steinhausen",
+    "addr:housenumber": "17",
+    "addr:postcode": "6312",
+    "addr:street": "Blickensdorferstrasse",
     "amenity": "school",
     "building": "school",
     "id": "way/195696622"
@@ -4862,10 +4842,6 @@
   "type": "Feature",
   "id": "way/246981272",
   "properties": {
-    "addr:city": "Hünenberg See",
-    "addr:housenumber": "30",
-    "addr:postcode": "6333",
-    "addr:street": "Huobstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus Kemmatten",
@@ -5743,8 +5719,8 @@
   "properties": {
     "addr:city": "Hünenberg",
     "addr:housenumber": "16",
-    "addr:place": "Matten",
     "addr:postcode": "6331",
+    "addr:street": "Matten",
     "amenity": "school",
     "building": "school",
     "name": "Tagesschule Matten",
@@ -5783,7 +5759,7 @@
   "id": "way/397894751",
   "properties": {
     "addr:city": "Hünenberg",
-    "addr:housenumber": "4",
+    "addr:housenumber": "6",
     "addr:postcode": "6331",
     "addr:street": "Zentrumstrasse",
     "amenity": "school",

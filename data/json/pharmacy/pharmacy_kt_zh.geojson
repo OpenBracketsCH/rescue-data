@@ -6374,33 +6374,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7480458352",
-  "properties": {
-    "addr:city": "Uster",
-    "addr:housenumber": "4",
-    "addr:postcode": "8610",
-    "addr:street": "Gerichtsstrasse",
-    "alt_name": "Coop Vitality Uster",
-    "amenity": "pharmacy",
-    "branch": "Uster",
-    "brand": "Coop Vitality",
-    "brand:wikidata": "Q111725297",
-    "healthcare": "pharmacy",
-    "name": "Coop Vitality",
-    "operator": "Coop Vitality & GaleniCare",
-    "website": "https://www.coopvitality.ch/de/coop-vitality-uster",
-    "id": "node/7480458352"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7167475,
-      47.3501508
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7480501323",
   "properties": {
     "addr:city": "Thalwil",

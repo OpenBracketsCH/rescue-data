@@ -46,10 +46,6 @@
   "type": "Feature",
   "id": "way/52293396",
   "properties": {
-    "addr:city": "Steinhausen",
-    "addr:housenumber": "26a",
-    "addr:postcode": "6312",
-    "addr:street": "Goldermattenstrasse",
     "amenity": "kindergarten",
     "building": "yes",
     "isced:level": "0",
@@ -444,7 +440,6 @@
   "type": "Feature",
   "id": "way/385578791",
   "properties": {
-    "addr:place": "Eichrüti",
     "amenity": "kindergarten",
     "building": "yes",
     "id": "way/385578791"
