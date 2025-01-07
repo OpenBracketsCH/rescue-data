@@ -67364,6 +67364,8 @@
   "id": "node/8494932836",
   "properties": {
     "barrier": "gate",
+    "locked": "yes",
+    "wheelchair": "no",
     "id": "node/8494932836"
   },
   "geometry": {
@@ -67379,6 +67381,8 @@
   "id": "node/8494932837",
   "properties": {
     "barrier": "gate",
+    "locked": "yes",
+    "wheelchair": "no",
     "id": "node/8494932837"
   },
   "geometry": {
@@ -100773,6 +100777,21 @@
     "coordinates": [
       8.5268352,
       47.1747607
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12478457804",
+  "properties": {
+    "barrier": "lift_gate",
+    "id": "node/12478457804"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5581741,
+      47.4048215
     ]
   }
 }

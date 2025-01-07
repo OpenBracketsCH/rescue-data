@@ -20613,9 +20613,7 @@
   "type": "Feature",
   "id": "way/41062607",
   "properties": {
-    "addr:housenumber": "177",
     "addr:postcode": "6340",
-    "addr:street": "Rigistrasse",
     "amenity": "school",
     "building": "school",
     "building:levels": "3",

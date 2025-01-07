@@ -24038,31 +24038,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1240990718",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "119",
-    "addr:postcode": "8004",
-    "addr:street": "Lagerstrasse",
-    "amenity": "nursing_home",
-    "capacity": "89",
-    "name": "Pflegezentrum Erlenhof",
-    "operator": "Diakonie Nidelbad",
-    "phone": "+41 44 298 39 00",
-    "website": "https://www.erlenhof.ch/",
-    "id": "node/1240990718"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5285352,
-      47.3798233
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1501669606",
   "properties": {
     "addr:city": "Zürich",

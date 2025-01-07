@@ -1896,6 +1896,8 @@
   "id": "node/8494932836",
   "properties": {
     "barrier": "gate",
+    "locked": "yes",
+    "wheelchair": "no",
     "id": "node/8494932836"
   },
   "geometry": {
@@ -1911,6 +1913,8 @@
   "id": "node/8494932837",
   "properties": {
     "barrier": "gate",
+    "locked": "yes",
+    "wheelchair": "no",
     "id": "node/8494932837"
   },
   "geometry": {

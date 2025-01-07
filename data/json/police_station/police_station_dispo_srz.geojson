@@ -2080,6 +2080,7 @@
     "addr:street": "Weiherallee",
     "alt_name": "Kapo",
     "amenity": "police",
+    "check_date": "2025-01-06",
     "name": "Polizeiposten Uster",
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",

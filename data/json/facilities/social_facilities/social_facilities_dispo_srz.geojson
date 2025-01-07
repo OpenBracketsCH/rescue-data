@@ -50373,6 +50373,7 @@
     "addr:street": "Josefstrasse",
     "alt_name": "ZFA Zürcher Fachstelle für Alkoholprobleme",
     "amenity": "social_facility",
+    "check_date": "2025-01-06",
     "email": "info@suchtfachstelle.zuerich",
     "fax": "+41 43 444 77 01",
     "healthcare": "counselling",
@@ -50385,8 +50386,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5306753,
-      47.3830038
+      8.5306063,
+      47.3830391
     ]
   }
 },
