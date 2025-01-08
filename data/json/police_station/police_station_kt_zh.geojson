@@ -1979,6 +1979,7 @@
     "addr:postcode": "8048",
     "addr:street": "Altstetterstrasse",
     "amenity": "police",
+    "check_date": "2025-01-07",
     "name": "Quartierwache Altstetten",
     "opening_hours": "Mo-Fr 08:30-11:30,13:30-16:30",
     "operator": "Stadtpolizei Zürich",

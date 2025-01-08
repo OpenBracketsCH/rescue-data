@@ -11477,7 +11477,7 @@
     "addr:street": "Fällandenstrasse",
     "amenity": "social_facility",
     "building": "residential",
-    "loc_name": "Im Wil",
+    "loc_name": "Pflegeeinrichtung Im Wil",
     "social_facility": "nursing_home",
     "id": "way/172400691"
   },
@@ -22920,7 +22920,7 @@
     "amenity": "social_facility",
     "contact:city": "Niederglatt",
     "contact:email": "info@altersheim-eichi.ch",
-    "contact:housenumber": "55",
+    "contact:housenumber": "53",
     "contact:phone": "+41 44 851 82 00",
     "contact:postcode": "8172",
     "contact:street": "Grafschaftstrasse",
@@ -22976,6 +22976,10 @@
         [
           8.5014887,
           47.4934108
+        ],
+        [
+          8.5015701,
+          47.493722
         ],
         [
           8.5016105,

@@ -18881,7 +18881,7 @@
     "addr:street": "Fällandenstrasse",
     "amenity": "social_facility",
     "building": "residential",
-    "loc_name": "Im Wil",
+    "loc_name": "Pflegeeinrichtung Im Wil",
     "social_facility": "nursing_home",
     "id": "way/172400691"
   },
@@ -39811,7 +39811,7 @@
     "amenity": "social_facility",
     "contact:city": "Niederglatt",
     "contact:email": "info@altersheim-eichi.ch",
-    "contact:housenumber": "55",
+    "contact:housenumber": "53",
     "contact:phone": "+41 44 851 82 00",
     "contact:postcode": "8172",
     "contact:street": "Grafschaftstrasse",
@@ -39867,6 +39867,10 @@
         [
           8.5014887,
           47.4934108
+        ],
+        [
+          8.5015701,
+          47.493722
         ],
         [
           8.5016105,
@@ -41605,6 +41609,26 @@
     "coordinates": [
       8.4831325,
       47.4136178
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3883289626",
+  "properties": {
+    "amenity": "social_facility",
+    "email": "info@sucht-praevention.ch",
+    "name": "Suchtpräventionsstelle Zürcher Oberland",
+    "phone": "+41 43 399 10 80",
+    "social_facility:for": "drug_addicted",
+    "website": "https://www.sucht-praevention.ch/",
+    "id": "node/3883289626"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7166448,
+      47.3502015
     ]
   }
 },

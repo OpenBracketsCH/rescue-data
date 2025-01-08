@@ -990,69 +990,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/31301609",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "30a",
-    "addr:postcode": "8049",
-    "addr:street": "Geeringstrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "check_date": "2024-08-17",
-    "isced:level": "0",
-    "name": "Kindergarten Geeringstrasse 1+2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Rütihof",
-    "operator:type": "public",
-    "phone": "+41 44 413 76 54",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/ruetihof/ueberuns/standorte/kindergaerten.html#geeringstrasse_30iii",
-    "id": "way/31301609"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4808905,
-          47.4145882
-        ],
-        [
-          8.4809546,
-          47.4144769
-        ],
-        [
-          8.480985,
-          47.4144849
-        ],
-        [
-          8.4809954,
-          47.4144668
-        ],
-        [
-          8.4809652,
-          47.4144588
-        ],
-        [
-          8.4810305,
-          47.4143454
-        ],
-        [
-          8.4811375,
-          47.4143737
-        ],
-        [
-          8.4809977,
-          47.4146165
-        ],
-        [
-          8.4808905,
-          47.4145882
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/31301614",
   "properties": {
     "addr:city": "Zürich",
@@ -36907,6 +36844,56 @@
         [
           8.7962638,
           47.3192989
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1349209502",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "30a",
+    "addr:postcode": "8049",
+    "addr:street": "Geeringstrasse",
+    "amenity": "kindergarten",
+    "check_date": "2024-08-17",
+    "isced:level": "0",
+    "name": "Kindergarten Geeringstrasse",
+    "operator": "Stadt Zürich, SSD, Schulkreis Rütihof",
+    "operator:type": "public",
+    "phone": "+41 44 413 76 54",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/ruetihof/ueberuns/standorte/kindergaerten.html#geeringstrasse_30iii",
+    "id": "way/1349209502"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4809196,
+          47.4142254
+        ],
+        [
+          8.4812946,
+          47.4143202
+        ],
+        [
+          8.4810547,
+          47.4147323
+        ],
+        [
+          8.4807806,
+          47.4146384
+        ],
+        [
+          8.4807124,
+          47.4145313
+        ],
+        [
+          8.4809196,
+          47.4142254
         ]
       ]
     ]
