@@ -42490,6 +42490,7 @@
   "id": "node/6632980728",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-01-10",
     "contact:city": "Zürich",
     "contact:housenumber": "7",
     "contact:phone": "+41 44 413 75 08",
@@ -43405,24 +43406,6 @@
     "coordinates": [
       8.449844,
       47.3011291
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7605986077",
-  "properties": {
-    "amenity": "kindergarten",
-    "isced:level": "0",
-    "name": "Aegerten 3",
-    "operator": "Stadt Zürich, SSD, Schulkreis Uto",
-    "id": "node/7605986077"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5204303,
-      47.3682789
     ]
   }
 },

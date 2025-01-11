@@ -22628,11 +22628,12 @@
   "type": "Feature",
   "id": "node/8570538945",
   "properties": {
-    "defibrillator:location": "Links vom Turnhalleneingang, im Gebäude drin",
-    "description": "während Öffnungszeiten verfügbar",
+    "access": "yes",
+    "defibrillator:location": "Turnhalle rechts neben Haupteingang im Aussenbereich",
+    "description": "24/7",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
     "operator": "Schule Wiesendangen, Schulverwaltung",
     "phone": "052 320 60 70",
     "id": "node/8570538945"
@@ -85468,6 +85469,75 @@
     "coordinates": [
       8.4164339,
       47.5000577
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12488318001",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Dorfstrasse 2, 8422 Pfungen Sammelstelle beim Werkgebäude",
+    "description": "Sammelstelle, beim Werkgebäude",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Pfungen",
+    "phone": "+41 52 305 07 70",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12488318001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6442769,
+      47.5174543
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12488478202",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Neben Eingang Keller, unter dem Vordach, vis-à-vis vom Lift",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stockwerkeigentümergemeinschaft Kirchgasse 21-41, Wettswil vertreten durch Promabau AG",
+    "phone": "+41 44 701 80 60",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12488478202"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4769017,
+      47.3362089
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12488944701",
+  "properties": {
+    "defibrillator:location": "Treppenhaus",
+    "description": "während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo - Fr 08:00 - 17:00",
+    "operator": "AGENSA AG",
+    "phone": "+41523552000",
+    "id": "node/12488944701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6493537,
+      47.4043588
     ]
   }
 }
