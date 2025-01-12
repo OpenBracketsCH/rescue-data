@@ -37078,6 +37078,7 @@
   "id": "node/6631707696",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-01-10",
     "isced:level": "0",
     "name": "Mittag-/Abendhort Triemli 1",
     "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
@@ -38767,6 +38768,7 @@
   "id": "node/9171034326",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-01-10",
     "isced:level": "0",
     "name": "Triemli 1",
     "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
@@ -38786,6 +38788,7 @@
   "id": "node/9171034327",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-01-10",
     "isced:level": "0",
     "name": "Triemli 4",
     "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
@@ -38805,6 +38808,7 @@
   "id": "node/9171034328",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-01-10",
     "isced:level": "0",
     "name": "Triemli 5",
     "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
@@ -38824,6 +38828,7 @@
   "id": "node/9171034329",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-01-10",
     "isced:level": "0",
     "name": "Triemli 3",
     "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
@@ -38843,6 +38848,7 @@
   "id": "node/9171034330",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-01-10",
     "isced:level": "0",
     "name": "Triemli 2",
     "operator": "Stadt Zürich, SSD, Schulkreis Letzi",

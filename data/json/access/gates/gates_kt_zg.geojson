@@ -1849,7 +1849,10 @@
   "id": "node/8294356996",
   "properties": {
     "barrier": "gate",
+    "locked": "yes",
+    "material": "metal",
     "motor_vehicle": "permit",
+    "source": "survey",
     "wheelchair": "yes",
     "id": "node/8294356996"
   },
