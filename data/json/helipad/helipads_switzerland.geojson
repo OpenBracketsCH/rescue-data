@@ -12493,42 +12493,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1068124750",
-  "properties": {
-    "aeroway": "helipad",
-    "name": "Spital Thun",
-    "id": "way/1068124750"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.6325952,
-          46.7605978
-        ],
-        [
-          7.6325403,
-          46.7607377
-        ],
-        [
-          7.6323338,
-          46.7606944
-        ],
-        [
-          7.6323907,
-          46.7605548
-        ],
-        [
-          7.6325952,
-          46.7605978
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1071278848",
   "properties": {
     "aeroway": "helipad",

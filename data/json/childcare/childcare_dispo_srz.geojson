@@ -7715,6 +7715,7 @@
   "id": "node/6628539931",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-01-11",
     "contact:city": "Zürich",
     "contact:housenumber": "6",
     "contact:phone": "+41 44 413 74 05",
@@ -15537,6 +15538,22 @@
     "coordinates": [
       8.4850602,
       47.3848808
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12495533598",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Globe Garden",
+    "id": "node/12495533598"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7148846,
+      47.3494207
     ]
   }
 }

@@ -56800,6 +56800,35 @@
       45.8563081
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12495533869",
+  "properties": {
+    "addr:city": "Thun",
+    "addr:housenumber": "12",
+    "addr:postcode": "3600",
+    "addr:street": "Krankenhausstrasse",
+    "amenity": "hospital",
+    "email": "notfall@spitalstsag.ch",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "emergency",
+    "name": "Notfallzentrum Spital Thun",
+    "opening_hours": "24/7",
+    "operator": "Spital Thun",
+    "operator:type": "public",
+    "phone": "+41 58 636 99 99",
+    "website": "https://www.spitalthun.ch/notfallzentrum",
+    "id": "node/12495533869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6322587,
+      46.7617707
+    ]
+  }
 }
 ]
 }

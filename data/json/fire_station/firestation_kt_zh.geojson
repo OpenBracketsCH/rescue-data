@@ -928,6 +928,7 @@
     "addr:street": "Breitestrasse",
     "amenity": "fire_station",
     "building": "yes",
+    "check_date": "2025-01-12",
     "name": "Feuerwehr Birmensdorf",
     "id": "way/44045429"
   },
@@ -5547,6 +5548,7 @@
     "addr:postcode": "8320",
     "addr:street": "Schulhausstrasse",
     "amenity": "fire_station",
+    "check_date": "2025-01-12",
     "name": "Feuerwehr Fehraltorf",
     "id": "node/579651429"
   },
