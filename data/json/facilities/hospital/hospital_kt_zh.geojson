@@ -11043,6 +11043,34 @@
       47.4331895
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12497652187",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "6",
+    "addr:postcode": "8400",
+    "addr:street": "Brunngasse",
+    "amenity": "clinic",
+    "email": "info@admira.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "fertility",
+    "name": "Admira Kinderwunschzentrum Winterthur",
+    "opening_hours": "Mo 7:15-11:30,14:00-16:30; Tu 7:15-12:00,14:00-18:00; We 7:15-12:00; Th,Fr 7:15-12:00,14:00-16:00",
+    "operator": "Admira AG",
+    "operator:type": "private",
+    "phone": "+41 52 224 60 70",
+    "website": "https://admira.ch/",
+    "id": "node/12497652187"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7254252,
+      47.5053045
+    ]
+  }
 }
 ]
 }

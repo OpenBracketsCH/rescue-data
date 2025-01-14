@@ -6051,7 +6051,7 @@
     "opening_hours": "Mo-Tu, Th-Fr 09:00-11:30, 13:30-17:00; We 13:30-18:00; Sa 09:00-14:00",
     "operator": "Stadt Dübendorf",
     "recycling_type": "centre",
-    "website": "http://www.korken.ch",
+    "website": "https://www.korken.ch/",
     "id": "node/7880583140"
   },
   "geometry": {
@@ -66386,6 +66386,52 @@
     "coordinates": [
       8.5616611,
       47.3515904
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12497726201",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haupteingang Schulhaus",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Seuzach, Abteilung Sicherheit",
+    "phone": "+41 52 320 40 41",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12497726201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7123406,
+      47.5284198
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12498110301",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schopf",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Weisslingen",
+    "phone": "+41 52 397 31 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12498110301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7822543,
+      47.4259021
     ]
   }
 }
