@@ -4851,6 +4851,7 @@
     "amenity": "pharmacy",
     "branch": "Opfikon",
     "brand": "Coop Vitality",
+    "brand:wikidata": "Q111725297",
     "healthcare": "pharmacy",
     "name": "Coop Vitality",
     "opening_hours": "Mo-Sa 09:00-20:00",
