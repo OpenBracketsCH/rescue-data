@@ -4496,12 +4496,13 @@
     "addr:housenumber": "102",
     "addr:postcode": "8408",
     "addr:street": "Wieshofstrasse",
-    "amenity": "clinic",
-    "healthcare": "clinic",
+    "amenity": "hospital",
+    "healthcare": "hospital",
     "healthcare:speciality": "psychiatry",
     "name": "Integrierte Psychiatrie Winterthur, Klinik Schlosstal",
     "old_name": "Klinik Schlosstal",
     "operator": "Integrierte Psychiatrie Winterthur – Zürcher Unterland (ipw)",
+    "operator:type": "government",
     "short_name": "IPW Schlosstal",
     "id": "way/248637584"
   },
@@ -4534,32 +4535,32 @@
           47.5062089
         ],
         [
-          8.6858814,
-          47.5064107
+          8.6863432,
+          47.5063514
         ],
         [
-          8.6855431,
-          47.5065843
+          8.6862774,
+          47.5065125
         ],
         [
-          8.6864077,
-          47.5075487
+          8.6862507,
+          47.5071462
         ],
         [
-          8.6863183,
-          47.5077815
+          8.6862629,
+          47.5077129
         ],
         [
-          8.6855624,
-          47.5082614
+          8.6863845,
+          47.5084891
         ],
         [
-          8.684832,
-          47.5086189
+          8.68534,
+          47.5088716
         ],
         [
-          8.6839842,
-          47.5084337
+          8.6844874,
+          47.5078429
         ],
         [
           8.6838682,
