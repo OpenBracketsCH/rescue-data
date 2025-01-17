@@ -41131,6 +41131,54 @@
 },
 {
   "type": "Feature",
+  "id": "way/1351837790",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Siedlung Frieden, Haus D",
+    "operator": "Stiftung Alterswohnungen der Stadt Zürich",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
+    "start_date": "2013",
+    "id": "way/1351837790"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5143771,
+          47.4170628
+        ],
+        [
+          8.514407,
+          47.4170803
+        ],
+        [
+          8.5148872,
+          47.4175882
+        ],
+        [
+          8.5144901,
+          47.417812
+        ],
+        [
+          8.5143949,
+          47.4177459
+        ],
+        [
+          8.5138944,
+          47.4174219
+        ],
+        [
+          8.5143771,
+          47.4170628
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/473379001",
   "properties": {
     "amenity": "social_facility",
