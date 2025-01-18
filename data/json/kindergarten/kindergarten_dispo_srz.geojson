@@ -41771,6 +41771,7 @@
   "id": "node/6628768923",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-01-17",
     "name": "Mittag-/Abendhort Rütihof 2",
     "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
     "id": "node/6628768923"

@@ -42250,6 +42250,7 @@
     "addr:postcode": "4242",
     "addr:street": "Lochbruggstrasse",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Kantonsspital Laufen",
     "phone": "+41 61 400 80 80",
     "website": "https://www.ksbl.ch/das-ksbl/standorte/der-standort-laufen",

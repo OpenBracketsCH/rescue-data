@@ -3890,17 +3890,19 @@
   "type": "Feature",
   "id": "node/7667107727",
   "properties": {
+    "access": "yes",
     "defibrillator:location": "im Hiwi Märt",
-    "description": "während Arbeitszeiten",
+    "description": "während Öffnungszeiten im 1. OG zugänglich.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "operator": "Hiwi-Märt AG",
     "id": "node/7667107727"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8377084,
-      47.2992426
+      8.8375759,
+      47.2992792
     ]
   }
 },
@@ -59168,8 +59170,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7978172,
-      47.324716
+      8.7979266,
+      47.3247995
     ]
   }
 },
@@ -66553,6 +66555,79 @@
     "coordinates": [
       8.6880666,
       47.5364568
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12508850201",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Im Rohr, Fachschule Viventa",
+    "description": "während Öffnungszeiten verfügbar, in den Schulferien geschlossen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Th 07:00-18:00, Fr 07:00-16:00",
+    "operator": "Stadt Zürich, Fachschule Viventa",
+    "phone": "+41 44 413 50 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12508850201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5250312,
+      47.3907268
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12508865701",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schutz und Intervention Winterthur, Haupteingang",
+    "description": "24/7",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Schutz und Intervention Winterthur, Departement Sicherheit & Umwelt, Stadt Winterthur",
+    "phone": "+ 41 52 267 68 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12508865701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7656361,
+      47.4961036
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12509094801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Speerstrasse 105,  8820 Wädenswil",
+    "description": "Neben dem Eingang oben, auf der rechten Seite",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Wädenswil",
+    "phone": "+4144 789 72 70",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12509094801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6590183,
+      47.2303772
     ]
   }
 }

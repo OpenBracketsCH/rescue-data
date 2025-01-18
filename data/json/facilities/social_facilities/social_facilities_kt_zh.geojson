@@ -41625,25 +41625,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3817265607",
-  "properties": {
-    "amenity": "social_facility",
-    "name": "Pro Senectute",
-    "phone": "+41 55 240 73 46",
-    "social_facility:for": "senior",
-    "website": "http://www.pszh-sport.ch",
-    "id": "node/3817265607"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8417567,
-      47.2768811
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3881850631",
   "properties": {
     "addr:city": "Zürich",
