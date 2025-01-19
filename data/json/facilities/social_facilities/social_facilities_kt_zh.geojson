@@ -660,10 +660,13 @@
     "alt_name": "Alters- und Pflegeheim Gartenhof",
     "amenity": "social_facility",
     "building": "yes",
+    "building:levels": "3",
     "contact:email": "gartenhof@tertianum.ch",
     "contact:phone": "+41 52 544 74 74",
     "contact:website": "https://www.tertianum.ch/de/tertianum-gartenhof-winterthur_url-correct",
     "name": "Tertianum Gartenhof",
+    "roof:levels": "0",
+    "roof:shape": "flat",
     "social_facility": "nursing_home",
     "type": "multipolygon",
     "id": "relation/13468273"
@@ -30498,6 +30501,7 @@
   "id": "way/545775514",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2025-01-19",
     "name": "SAW-Siedlung Frieden",
     "operator": "Stiftung Alterswohnungen der Stadt Zürich",
     "operator:short": "SAW",
