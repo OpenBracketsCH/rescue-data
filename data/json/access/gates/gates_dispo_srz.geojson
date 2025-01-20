@@ -90883,6 +90883,7 @@
     "barrier": "gate",
     "foot": "yes",
     "locked": "no",
+    "maxwidth:physical": "3",
     "id": "node/11375171528"
   },
   "geometry": {
@@ -100884,6 +100885,22 @@
     "coordinates": [
       8.4126444,
       47.4074903
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12513951325",
+  "properties": {
+    "barrier": "lift_gate",
+    "locked": "yes",
+    "id": "node/12513951325"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5562911,
+      47.4194755
     ]
   }
 }
