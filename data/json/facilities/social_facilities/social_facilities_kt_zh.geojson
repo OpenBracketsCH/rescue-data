@@ -37612,6 +37612,7 @@
     "addr:postcode": "8105",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2025-01-20",
     "name": "Almacasa",
     "operator": "Almacasa",
     "social_facility": "nursing_home",
@@ -44245,6 +44246,7 @@
   "id": "node/7141360231",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2025-01-20",
     "name": "Türkischer Kulturverein",
     "id": "node/7141360231"
   },
@@ -48140,6 +48142,49 @@
     "coordinates": [
       8.4898474,
       47.3752636
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12518196929",
+  "properties": {
+    "addr:housenumber": "89",
+    "addr:street": "Letzigraben",
+    "amenity": "social_facility",
+    "check_date": "2025-01-20",
+    "name": "Frauenberatung sexuelle gewalt",
+    "phone": "+41 44 291 46 46",
+    "social_facility:for": "woman",
+    "website": "https://www.frauenberatung.ch",
+    "id": "node/12518196929"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4994017,
+      47.377977
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12518254075",
+  "properties": {
+    "addr:housenumber": "164",
+    "addr:street": "Albisriederstrasse",
+    "amenity": "social_facility",
+    "check_date": "2025-01-20",
+    "name": "AOZ",
+    "operator:type": "government",
+    "website": "http://www.aoz.ch",
+    "id": "node/12518254075"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5006749,
+      47.377558
     ]
   }
 }

@@ -60434,31 +60434,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/12054565169",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Vor dem Haupteingang, Obere Dorfstrasse 32, 8700 Küsnacht",
-    "description": "24 h verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "level": "0",
-    "opening_hours": "24/7",
-    "operator": "Gemeinde Küsnacht",
-    "phone": "+41 44 913 11 11",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/12054565169"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5841684,
-      47.3174582
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/12054569269",
   "properties": {
     "access": "yes",
@@ -65781,27 +65756,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/12431074202",
-  "properties": {
-    "defibrillator:location": "Einfahrt Sonnenhof vis a vis Briefkästen",
-    "description": "24/7",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/12431074202"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6363643,
-      47.3585003
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/12431078501",
   "properties": {
     "access": "yes",
@@ -66691,6 +66645,54 @@
     "coordinates": [
       8.5345665,
       47.3709895
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12518139001",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Regina-Kägi-Hof 7",
+    "description": "Beim Lift",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "ABZ",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12518139001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5327184,
+      47.4117174
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12518522901",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Wehntal, im Eingang neben Treppe",
+    "description": "während Öffnungszeiten zugänglich, Schulferien geschlossen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Th 07:30-17:00, Fr 07:30-16:00",
+    "operator": "Stadt Zürich, Fachschule Viventa",
+    "phone": "+41 44 413 50 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12518522901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5332388,
+      47.404097
     ]
   }
 }

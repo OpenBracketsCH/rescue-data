@@ -27958,6 +27958,7 @@
     "addr:postcode": "8105",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2025-01-20",
     "name": "Almacasa",
     "operator": "Almacasa",
     "social_facility": "nursing_home",
