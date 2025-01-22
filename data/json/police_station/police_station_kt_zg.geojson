@@ -9,6 +9,7 @@
     "building": "yes",
     "check_date:opening_hours": "2022-09-04",
     "email": "info.polizei@zg.ch",
+    "government": "police",
     "name": "Polizeidienststelle Zug",
     "office": "government",
     "opening_hours": "Mo 08:00-11:45,13:30-18:00; Tu-Fr 08:00-11:45,13:30-17:00",

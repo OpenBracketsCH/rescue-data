@@ -44451,27 +44451,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10792671606",
-  "properties": {
-    "defibrillator:location": "Depot",
-    "description": "Telefon 118 Firstresponder Gruppe",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "24/7",
-    "operator": "Feuerwehr Pfungen",
-    "id": "node/10792671606"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6440328,
-      47.5172759
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10797097449",
   "properties": {
     "emergency": "defibrillator",
@@ -59070,7 +59049,6 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Feuerwehr Pfungen",
-    "phone": "+41 52 315 23 23",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/11986009969"
   },
@@ -66693,6 +66671,54 @@
     "coordinates": [
       8.5332388,
       47.404097
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12520812201",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Eingang Shop linke Seite",
+    "description": "Permanent Verfügbar 7*24h Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Privat",
+    "phone": "+41522448022",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12520812201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7605882,
+      47.5111101
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12520869201",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingang Pfarreizentrum, Birchstrasse 20",
+    "description": "jederzeit verfügbar, im Aussenbereich angebracht",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Pfarrei St. Martin, Katholische Kirche Illlnau-Effretikon",
+    "phone": "+41 052 355 11 11",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12520869201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6835176,
+      47.4289619
     ]
   }
 }
