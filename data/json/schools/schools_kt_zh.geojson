@@ -43675,8 +43675,12 @@
           47.5258843
         ],
         [
-          8.5439291,
-          47.5259054
+          8.5436187,
+          47.5261293
+        ],
+        [
+          8.5440024,
+          47.5261321
         ],
         [
           8.5440489,
@@ -100503,8 +100507,8 @@
     "contact:email": "info.zh@benedict.ch",
     "contact:housenumber": "106",
     "contact:phone": "+41 44 242 12 60",
-    "contact:postcode": "8004",
-    "contact:street": "Militärstrasse",
+    "contact:postcode": "8048",
+    "contact:street": "Vulkanstrasse",
     "contact:website": "https://www.benedict.ch/standorte/zuerich/",
     "grades": "Sprachschule;Handelsschule;Kaderschule;HF/BA;Medizin & Gesundheit;KV Ausbildung EFZ;Informatiker EFZ;Informatik",
     "isced:level": "3",

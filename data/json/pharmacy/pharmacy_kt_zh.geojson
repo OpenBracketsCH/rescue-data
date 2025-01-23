@@ -141,6 +141,7 @@
     "roof:levels": "2",
     "roof:shape": "gabled",
     "shop": "chemist",
+    "wheelchair": "yes",
     "id": "way/251638359"
   },
   "geometry": {
