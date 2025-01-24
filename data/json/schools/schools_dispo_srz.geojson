@@ -2397,20 +2397,20 @@
           47.2646486
         ],
         [
-          8.6778219,
-          47.2646477
+          8.6778084,
+          47.2646473
         ],
         [
-          8.6778227,
-          47.2645811
+          8.6778121,
+          47.2645787
         ],
         [
-          8.6778243,
-          47.2644579
+          8.6778168,
+          47.2644593
         ],
         [
-          8.6778241,
-          47.2644117
+          8.6778186,
+          47.2644082
         ],
         [
           8.6778154,
@@ -26859,10 +26859,6 @@
         [
           8.7192224,
           47.5024465
-        ],
-        [
-          8.7190469,
-          47.5021761
         ],
         [
           8.7189844,
@@ -130912,6 +130908,29 @@
     "coordinates": [
       8.6594357,
       47.213812
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12527548109",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "75",
+    "addr:postcode": "8050",
+    "addr:street": "Leutschenbachstrasse",
+    "amenity": "school",
+    "name": "Jakobs School",
+    "operator": "Stiftung OPA",
+    "operator:type": "private_non_profit",
+    "website": "https://jakobs.school/",
+    "id": "node/12527548109"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5574082,
+      47.417622
     ]
   }
 }

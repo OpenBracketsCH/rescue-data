@@ -22304,6 +22304,29 @@
       47.3844657
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12527548109",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "75",
+    "addr:postcode": "8050",
+    "addr:street": "Leutschenbachstrasse",
+    "amenity": "school",
+    "name": "Jakobs School",
+    "operator": "Stiftung OPA",
+    "operator:type": "private_non_profit",
+    "website": "https://jakobs.school/",
+    "id": "node/12527548109"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5574082,
+      47.417622
+    ]
+  }
 }
 ]
 }

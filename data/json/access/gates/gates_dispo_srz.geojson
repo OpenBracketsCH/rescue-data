@@ -75070,6 +75070,7 @@
   "id": "node/9419182860",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "1.3",
     "id": "node/9419182860"
   },
   "geometry": {

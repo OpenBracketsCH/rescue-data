@@ -2902,6 +2902,7 @@
     "addr:postcode": "6300",
     "addr:street": "Chollerstrasse",
     "amenity": "social_facility",
+    "building": "yes",
     "name": "Lorzenmatt",
     "social_facility": "shelter",
     "social_facility:for": "refugee",

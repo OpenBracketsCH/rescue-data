@@ -35978,6 +35978,7 @@
     "addr:postcode": "8330",
     "addr:street": "Dorfstrasse",
     "amenity": "kindergarten",
+    "check_date": "2025-01-23",
     "name": "Kindergarten Irgenhausen",
     "id": "node/5620206390"
   },

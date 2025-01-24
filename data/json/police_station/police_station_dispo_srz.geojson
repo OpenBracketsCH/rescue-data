@@ -4358,6 +4358,7 @@
     "addr:street": "Bahnhofstrasse",
     "advertising": "board",
     "amenity": "police",
+    "check_date": "2025-01-23",
     "name": "Polizeiposten Rafz",
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",
