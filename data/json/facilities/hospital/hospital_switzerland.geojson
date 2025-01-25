@@ -40616,10 +40616,7 @@
     "addr:postcode": "1712",
     "addr:street": "Maggenberg",
     "amenity": "hospital",
-    "contact:email": "info@h-fr.ch",
-    "contact:fax": "+4126 494 44 21",
-    "contact:phone": "+4126 494 44 11",
-    "contact:website": "https://www.fr.ch/hfr/",
+    "contact:email": "empfang.tafers@h-fr.ch",
     "emergency": "yes",
     "healthcare": "hospital",
     "name": "HFR Spital Tafers",
@@ -40627,6 +40624,7 @@
     "name:fr": "HFR Tafers",
     "operator": "HFR",
     "phone": "+41 26 306 60 00",
+    "website": "https://www.h-fr.ch/nos-sites-hospitaliers/hfr-tafers",
     "id": "way/680278021"
   },
   "geometry": {

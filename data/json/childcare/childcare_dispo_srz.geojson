@@ -15557,6 +15557,22 @@
       47.3494207
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12528690347",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Sabrinas Kinder- und Waldspielgruppe",
+    "id": "node/12528690347"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.858764,
+      47.3858718
+    ]
+  }
 }
 ]
 }
