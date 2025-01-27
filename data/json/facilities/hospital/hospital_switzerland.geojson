@@ -4706,6 +4706,7 @@
     "addr:postcode": "4012",
     "addr:street": "Wilhelm Klein-Strasse",
     "amenity": "hospital",
+    "check_date": "2025-01-25",
     "healthcare": "clinic",
     "name": "Universitäre Psychiatrische Kliniken Basel",
     "operator": "Universitäre Psychiatrische Kliniken (UPK) Basel",

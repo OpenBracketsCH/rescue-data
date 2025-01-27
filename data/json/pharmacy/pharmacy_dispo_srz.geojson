@@ -7178,6 +7178,7 @@
     "amenity": "pharmacy",
     "branch": "Bachenbülach",
     "brand": "Coop Vitality",
+    "brand:wikidata": "Q111725297",
     "healthcare": "pharmacy",
     "name": "Coop Vitality",
     "opening_hours": "Mo-Sa 08:00-20:00; PH off",
@@ -7188,8 +7189,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5424955,
-      47.5069492
+      8.5412256,
+      47.5059741
     ]
   }
 },
