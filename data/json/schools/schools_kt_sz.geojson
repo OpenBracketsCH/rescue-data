@@ -699,6 +699,7 @@
     "amenity": "school",
     "building": "school",
     "building:levels": "5",
+    "isced:level": "3",
     "name": "Berufsbildungszentrum Pfäffikon",
     "wikidata": "Q828843",
     "id": "way/150269903"
@@ -708,8 +709,8 @@
     "coordinates": [
       [
         [
-          8.7877447,
-          47.2004398
+          8.7877268,
+          47.200436
         ],
         [
           8.7871739,
@@ -776,12 +777,12 @@
           47.2002972
         ],
         [
-          8.7877786,
-          47.2003218
+          8.7877607,
+          47.200318
         ],
         [
-          8.7877447,
-          47.2004398
+          8.7877268,
+          47.200436
         ]
       ]
     ]
@@ -5657,8 +5658,15 @@
   "type": "Feature",
   "id": "way/273892386",
   "properties": {
+    "addr:city": "Nuolen",
+    "addr:country": "Wangen",
+    "addr:housenumber": "77",
+    "addr:postcode": "8855",
+    "addr:street": "Seestrasse",
+    "alt_name": "Schulhaus Nuolen",
     "amenity": "school",
-    "name": "Kantonsschule Ausserschwyz (KSA)",
+    "name": "Kantonsschule Ausserschwyz",
+    "short_name": "KSA",
     "id": "way/273892386"
   },
   "geometry": {
@@ -7427,6 +7435,110 @@
         [
           8.4540994,
           47.092788
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/328364170",
+  "properties": {
+    "addr:city": "Pfäffikon (SZ)",
+    "addr:housenumber": "9",
+    "addr:postcode": "8808",
+    "addr:street": "Römerrain",
+    "alt_name": "Gewerbeschule",
+    "amenity": "school",
+    "building": "yes",
+    "isced:level": "3",
+    "name": "Landwirtschaftsschule",
+    "operator": "Amt für Landwirtschaft",
+    "id": "way/328364170"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7782336,
+          47.1986242
+        ],
+        [
+          8.7782441,
+          47.1984737
+        ],
+        [
+          8.7787727,
+          47.1984907
+        ],
+        [
+          8.7788937,
+          47.1984946
+        ],
+        [
+          8.7788957,
+          47.1984653
+        ],
+        [
+          8.7788592,
+          47.1984641
+        ],
+        [
+          8.7788612,
+          47.1984352
+        ],
+        [
+          8.7785276,
+          47.1984245
+        ],
+        [
+          8.7785369,
+          47.1982908
+        ],
+        [
+          8.7793561,
+          47.1983172
+        ],
+        [
+          8.7793467,
+          47.1984514
+        ],
+        [
+          8.7790127,
+          47.1984407
+        ],
+        [
+          8.7790106,
+          47.1984709
+        ],
+        [
+          8.7789612,
+          47.1984693
+        ],
+        [
+          8.7789595,
+          47.1984949
+        ],
+        [
+          8.7790567,
+          47.1984981
+        ],
+        [
+          8.7790402,
+          47.1987357
+        ],
+        [
+          8.7787508,
+          47.1987264
+        ],
+        [
+          8.7787568,
+          47.198641
+        ],
+        [
+          8.7782336,
+          47.1986242
         ]
       ]
     ]
@@ -9466,6 +9578,88 @@
         [
           8.7637222,
           47.1974616
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/551492552",
+  "properties": {
+    "amenity": "school",
+    "building": "school",
+    "contact:city": "Pfäffikon SZ",
+    "contact:email": "info@ksa.sz.ch",
+    "contact:housenumber": "4c",
+    "contact:phone": "+41 55 415 42 00",
+    "contact:postcode": "8808",
+    "contact:street": "Eichenstrasse",
+    "contact:website": "https://www.ksasz.ch",
+    "isced:level": "3",
+    "name": "Kantonsschule Ausserschwyz (Provisorium)",
+    "short_name": "KSA",
+    "id": "way/551492552"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7644688,
+          47.1970615
+        ],
+        [
+          8.7637744,
+          47.1969398
+        ],
+        [
+          8.7633373,
+          47.1968361
+        ],
+        [
+          8.7633891,
+          47.1967332
+        ],
+        [
+          8.7634315,
+          47.1967443
+        ],
+        [
+          8.7634895,
+          47.1966237
+        ],
+        [
+          8.7639021,
+          47.1967219
+        ],
+        [
+          8.7638661,
+          47.1967944
+        ],
+        [
+          8.764104,
+          47.1968394
+        ],
+        [
+          8.7641088,
+          47.1968184
+        ],
+        [
+          8.7641828,
+          47.1968316
+        ],
+        [
+          8.7641761,
+          47.1968521
+        ],
+        [
+          8.7645252,
+          47.1969126
+        ],
+        [
+          8.7644688,
+          47.1970615
         ]
       ]
     ]
@@ -11750,6 +11944,66 @@
         [
           8.4629152,
           47.0981805
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1354638783",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Pfäffikon SZ",
+    "contact:email": "info@bbzp.ch",
+    "contact:housenumber": "15",
+    "contact:phone": "+41 55 415 13 00",
+    "contact:postcode": "8808",
+    "contact:street": "Schützenstrasse",
+    "contact:website": "https://www.bbzp.ch/",
+    "isced:level": "3",
+    "name": "Berufsbildungszentrum BBZ Pfäffikon",
+    "id": "way/1354638783"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7876681,
+          47.2006686
+        ],
+        [
+          8.7859094,
+          47.2001758
+        ],
+        [
+          8.7860274,
+          47.2000456
+        ],
+        [
+          8.7862526,
+          47.1994969
+        ],
+        [
+          8.7869394,
+          47.199789
+        ],
+        [
+          8.7872282,
+          47.199885
+        ],
+        [
+          8.7872818,
+          47.2000198
+        ],
+        [
+          8.787829,
+          47.2001692
+        ],
+        [
+          8.7876681,
+          47.2006686
         ]
       ]
     ]

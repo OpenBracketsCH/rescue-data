@@ -7287,6 +7287,8 @@
     "amenity": "pharmacy",
     "branch": "Volketswil Volkiland",
     "brand": "Coop Vitality",
+    "brand:wikidata": "Q111725297",
+    "healthcare": "pharmacy",
     "level": "0",
     "name": "Coop Vitality",
     "opening_hours": "Mo-Sa 09:00-20:00; PH off",
