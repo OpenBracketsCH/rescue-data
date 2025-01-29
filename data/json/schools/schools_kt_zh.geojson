@@ -18724,106 +18724,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/44830564",
-  "properties": {
-    "addr:city": "Rorbas",
-    "addr:housenumber": "19/19a",
-    "addr:postcode": "8427",
-    "addr:street": "Zilacherstrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Zilacher",
-    "source": "Yahoo aerial images",
-    "id": "way/44830564"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5772037,
-          47.5325329
-        ],
-        [
-          8.5775274,
-          47.5321198
-        ],
-        [
-          8.5777404,
-          47.5321959
-        ],
-        [
-          8.5774166,
-          47.532609
-        ],
-        [
-          8.577265,
-          47.5325552
-        ],
-        [
-          8.5772426,
-          47.532547
-        ],
-        [
-          8.5772037,
-          47.5325329
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/44830573",
-  "properties": {
-    "addr:city": "Rorbas",
-    "addr:housenumber": "10",
-    "addr:postcode": "8427",
-    "addr:street": "Schulhausstrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Im Ifang",
-    "source": "Yahoo aerial images",
-    "id": "way/44830573"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.576668,
-          47.5313723
-        ],
-        [
-          8.5767384,
-          47.531271
-        ],
-        [
-          8.5770211,
-          47.5313606
-        ],
-        [
-          8.5769507,
-          47.5314619
-        ],
-        [
-          8.5769194,
-          47.531452
-        ],
-        [
-          8.5767849,
-          47.5314093
-        ],
-        [
-          8.576668,
-          47.5313723
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/45573590",
   "properties": {
     "addr:city": "Kloten",
@@ -98649,6 +98549,118 @@
         [
           8.5320304,
           47.3781581
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1354962613",
+  "properties": {
+    "amenity": "school",
+    "grades": "0-6",
+    "name": "Schulanlage Rorbas",
+    "operator": "Schulgemeinde Rorbas-Freienstein-Teufen",
+    "operator:type": "government",
+    "website": "https://www.schule-rft.ch/primarschule/orientierungsplan/p-183507/",
+    "id": "way/1354962613"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5773172,
+          47.5329822
+        ],
+        [
+          8.5771065,
+          47.5327709
+        ],
+        [
+          8.5760441,
+          47.5322692
+        ],
+        [
+          8.5759836,
+          47.5322487
+        ],
+        [
+          8.5760265,
+          47.5321916
+        ],
+        [
+          8.5755533,
+          47.5320153
+        ],
+        [
+          8.5759066,
+          47.5316456
+        ],
+        [
+          8.5763671,
+          47.5310467
+        ],
+        [
+          8.5765968,
+          47.5310961
+        ],
+        [
+          8.5766662,
+          47.5309496
+        ],
+        [
+          8.5771911,
+          47.5310731
+        ],
+        [
+          8.577186,
+          47.5312537
+        ],
+        [
+          8.5777159,
+          47.5312597
+        ],
+        [
+          8.5774838,
+          47.5316848
+        ],
+        [
+          8.5774749,
+          47.5317555
+        ],
+        [
+          8.5773425,
+          47.531919
+        ],
+        [
+          8.5777601,
+          47.5320843
+        ],
+        [
+          8.5778232,
+          47.5321942
+        ],
+        [
+          8.5778333,
+          47.5323262
+        ],
+        [
+          8.5776604,
+          47.5327556
+        ],
+        [
+          8.5775721,
+          47.5328553
+        ],
+        [
+          8.5774813,
+          47.5329209
+        ],
+        [
+          8.5773172,
+          47.5329822
         ]
       ]
     ]

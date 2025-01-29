@@ -3108,6 +3108,44 @@
 },
 {
   "type": "Feature",
+  "id": "way/1354873313",
+  "properties": {
+    "aeroway": "helipad",
+    "maxweight": "5.5",
+    "name": "HUBI FINK",
+    "operator": "FInk chenoa",
+    "id": "way/1354873313"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7944996,
+          47.1317833
+        ],
+        [
+          8.7944933,
+          47.1316477
+        ],
+        [
+          8.7946544,
+          47.1316494
+        ],
+        [
+          8.7946582,
+          47.1317837
+        ],
+        [
+          8.7944996,
+          47.1317833
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1323054911",
   "properties": {
     "aeroway": "helipad",
