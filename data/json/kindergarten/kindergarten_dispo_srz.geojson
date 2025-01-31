@@ -5336,6 +5336,7 @@
     "addr:street": "Schulstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2025-01-30",
     "name": "Kindergarten Ohringen",
     "id": "way/52373683"
   },

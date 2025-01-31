@@ -31477,6 +31477,10 @@
           47.4927713
         ],
         [
+          8.712461,
+          47.4927294
+        ],
+        [
           8.7124262,
           47.4927024
         ],
@@ -114269,6 +114273,7 @@
   "id": "way/917552680",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-01-30",
     "grades": "0-6",
     "name": "Schulhaus Ohringen",
     "operator": "Primarschule Seuzach",

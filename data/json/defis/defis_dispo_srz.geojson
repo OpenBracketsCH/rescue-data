@@ -4894,16 +4894,18 @@
   "id": "node/7561412481",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Hallenbad (nur bei geöffneter Schule)",
+    "defibrillator:location": "Beim Eingang links (nur bei geöffneter Schule)",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "OS Stadel",
     "id": "node/7561412481"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4675249,
-      47.5361159
+      8.4678335,
+      47.5355314
     ]
   }
 },
@@ -4916,6 +4918,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "opening_hours": "24/7",
+    "operator": "Gemeinde Stadel",
     "id": "node/7561412482"
   },
   "geometry": {
@@ -4931,17 +4934,20 @@
   "id": "node/7561412483",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "aussen am Gemeindehaus",
+    "defibrillator:location": "Aussen am Gemeindehaus, links neben Eingang.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
+    "note": "Nach Gebrauch bitte Werkhof Stadel 044 858 23 06 informieren danke",
     "opening_hours": "24/7",
+    "operator": "Gemeinde Stadel",
     "id": "node/7561412483"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4676716,
-      47.5280953
+      8.4676011,
+      47.5279949
     ]
   }
 },
@@ -11020,8 +11026,9 @@
   "id": "node/7853369112",
   "properties": {
     "access": "yes",
+    "addr:housenumber": "13",
+    "addr:street": "Industriestrasse",
     "defibrillator:location": "Haupteingang Werk und Feuerwehrgebäude",
-    "description": "24/7 verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "opening_hours": "24/7",
@@ -37350,13 +37357,12 @@
   "type": "Feature",
   "id": "node/9602912117",
   "properties": {
-    "access": "no",
+    "access": "yes",
     "defibrillator:location": "Schulhaus Mösli, Turnhalle Eingang, Trakt D",
-    "description": "während Öffnungszeiten Turnhalle",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
-    "operator": "Schulhaus Möslu",
+    "opening_hours": "24/7",
+    "operator": "Schulhaus Mösli",
     "phone": "+41448776524",
     "id": "node/9602912117"
   },
@@ -86585,6 +86591,44 @@
     "coordinates": [
       8.4838666,
       47.1925748
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12543198675",
+  "properties": {
+    "defibrillator:location": "Neben dem Eingang, unter der Überdachung.",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "id": "node/12543198675"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7125672,
+      47.5281856
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12543365559",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Winter World Wallisellen, beim Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "opening_hours": "24/7",
+    "operator": "Sportanlagen AG Wallisellen",
+    "phone": "+41448304340",
+    "id": "node/12543365559"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6082054,
+      47.4141752
     ]
   }
 }
