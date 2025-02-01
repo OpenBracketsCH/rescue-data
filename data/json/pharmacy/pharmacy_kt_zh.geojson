@@ -6893,6 +6893,31 @@
       47.4509987
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12546601315",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "34",
+    "addr:postcode": "8405",
+    "addr:street": "Kanzleistrasse",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Post Apotheke",
+    "opening_hours": "Mo-Fr 08:00-12:15, 13:45-18:30; Sa 08:00-16:00",
+    "operator": "Post Apotheke Winterthur AG",
+    "id": "node/12546601315"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.764709,
+      47.4854996
+    ]
+  }
 }
 ]
 }

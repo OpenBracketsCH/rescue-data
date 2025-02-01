@@ -131204,6 +131204,29 @@
       47.417622
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12546601307",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "81",
+    "addr:postcode": "8405",
+    "addr:street": "Waldeggstrasse",
+    "amenity": "school",
+    "name": "Trageschule Schweiz",
+    "operator": "Babycarring Switzerland",
+    "operator:type": "private",
+    "website": "http://trageschule-schweiz.ch/",
+    "id": "node/12546601307"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7497538,
+      47.4844734
+    ]
+  }
 }
 ]
 }

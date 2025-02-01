@@ -37679,6 +37679,7 @@
   "id": "node/6633514968",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-01-31",
     "name": "Morgentisch Sihlweid 4, Mittag-/Abendhort Sihlweid 2A + 2B",
     "id": "node/6633514968"
   },
