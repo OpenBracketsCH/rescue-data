@@ -47587,6 +47587,7 @@
     "addr:postcode": "8952",
     "addr:street": "Engstringerstrasse",
     "amenity": "kindergarten",
+    "check_date": "2025-02-01",
     "name": "Kindergarten Rietpark 1+2",
     "id": "node/9944984681"
   },

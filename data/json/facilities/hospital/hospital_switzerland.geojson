@@ -13724,7 +13724,10 @@
   "type": "Feature",
   "id": "way/156177704",
   "properties": {
+    "addr:city": "Reinach BL",
+    "addr:country": "CH",
     "addr:housenumber": "42",
+    "addr:postcode": "4153",
     "addr:street": "Gstadstrasse",
     "amenity": "clinic",
     "building": "yes",

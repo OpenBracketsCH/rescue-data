@@ -22107,30 +22107,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9726732419",
-  "properties": {
-    "amenity": "school",
-    "contact:city": "Zürich",
-    "contact:email": "zuerich@ventil-jugend.ch",
-    "contact:housenumber": "243a",
-    "contact:phone": "+4144 491 03 55",
-    "contact:postcode": "8047",
-    "contact:street": "Albisriederstrasse",
-    "contact:website": "https://www.ventil-jugend.ch/",
-    "name": "Ventil Zürich",
-    "operator:type": "private",
-    "id": "node/9726732419"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4947397,
-      47.378656
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9726764984",
   "properties": {
     "amenity": "school",

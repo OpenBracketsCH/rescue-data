@@ -75905,6 +75905,7 @@
   "id": "way/252783938",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-02-01",
     "name": "BWS",
     "id": "way/252783938"
   },
@@ -77239,6 +77240,7 @@
     "amenity": "school",
     "building": "school",
     "building:levels": "2",
+    "check_date": "2025-02-01",
     "name": "Primarschule Rheinau",
     "operator": "Gemeinde Rheinau",
     "ref:gwrid": "2258012",
@@ -129893,30 +129895,6 @@
     "coordinates": [
       8.4823896,
       47.3742963
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9726732419",
-  "properties": {
-    "amenity": "school",
-    "contact:city": "Zürich",
-    "contact:email": "zuerich@ventil-jugend.ch",
-    "contact:housenumber": "243a",
-    "contact:phone": "+4144 491 03 55",
-    "contact:postcode": "8047",
-    "contact:street": "Albisriederstrasse",
-    "contact:website": "https://www.ventil-jugend.ch/",
-    "name": "Ventil Zürich",
-    "operator:type": "private",
-    "id": "node/9726732419"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4947397,
-      47.378656
     ]
   }
 },
