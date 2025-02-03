@@ -36437,7 +36437,7 @@
     "addr:postcode": "8610",
     "addr:street": "Hasenbühlstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "email": "christoph.thut@primarschule-uster.ch",
     "name": "Primarschule",
     "phone": "+41 44 994 14 92",
@@ -36643,6 +36643,7 @@
   "id": "way/112176100",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-02-02",
     "name": "Primarschulhaus Talacker",
     "id": "way/112176100"
   },
@@ -125668,6 +125669,7 @@
   "id": "node/355528318",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-02-02",
     "name": "Schloss-Schule Uster",
     "id": "node/355528318"
   },
@@ -129933,6 +129935,7 @@
     "addr:postcode": "8400",
     "addr:street": "Lagerhausstrasse",
     "amenity": "school",
+    "check_date": "2025-02-02",
     "contact:email": "winterthur@get.ch",
     "contact:phone": "+41 52 242 22 40",
     "contact:website": "https://www.get.ch/kontakt/standorte/winterthur",

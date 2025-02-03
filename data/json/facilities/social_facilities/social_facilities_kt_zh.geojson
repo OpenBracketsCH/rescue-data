@@ -33771,6 +33771,7 @@
     "addr:street": "Industriestrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2025-02-02",
     "name": "Tertianum Brunnehof",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
@@ -36114,52 +36115,6 @@
         [
           8.555627,
           47.3768717
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/964390114",
-  "properties": {
-    "addr:city": "Uster",
-    "addr:housenumber": "22.3",
-    "addr:postcode": "8610",
-    "addr:street": "Asylstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Asylunterkunft Uster",
-    "social_facility": "shelter",
-    "id": "way/964390114"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7262268,
-          47.3504655
-        ],
-        [
-          8.7260659,
-          47.3506069
-        ],
-        [
-          8.7259356,
-          47.3507215
-        ],
-        [
-          8.7257718,
-          47.3506359
-        ],
-        [
-          8.7260631,
-          47.3503799
-        ],
-        [
-          8.7262268,
-          47.3504655
         ]
       ]
     ]
