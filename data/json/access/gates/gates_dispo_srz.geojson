@@ -18693,6 +18693,7 @@
   "id": "node/1422693053",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "1.2",
     "id": "node/1422693053"
   },
   "geometry": {

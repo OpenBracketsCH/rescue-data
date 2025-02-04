@@ -39934,6 +39934,7 @@
   "id": "way/677050165",
   "properties": {
     "addr:city": "Arlesheim",
+    "addr:country": "CH",
     "addr:housenumber": "19",
     "addr:postcode": "4144",
     "addr:street": "Brachmattstrasse",
@@ -48568,6 +48569,7 @@
   "id": "way/1212134882",
   "properties": {
     "addr:city": "Arlesheim",
+    "addr:country": "CH",
     "addr:housenumber": "12",
     "addr:postcode": "4144",
     "addr:street": "Stollenrain",
