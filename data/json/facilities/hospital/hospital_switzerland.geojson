@@ -49230,6 +49230,7 @@
   "id": "way/1307307466",
   "properties": {
     "addr:city": "Dornach",
+    "addr:country": "CH",
     "addr:housenumber": "11",
     "addr:postcode": "4143",
     "addr:street": "Spitalweg",
