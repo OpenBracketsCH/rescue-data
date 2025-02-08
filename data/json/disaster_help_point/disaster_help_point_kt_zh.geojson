@@ -7781,6 +7781,32 @@
       47.3213577
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12565173572",
+  "properties": {
+    "activation": "blackout;phone_breakdown",
+    "contact:city": "Wallisellen",
+    "contact:housenumber": "3",
+    "contact:postcode": "8304",
+    "contact:street": "Hammerweg",
+    "description": "Notfalltreffpunkt, Schulhaus Integra Square",
+    "disaster_help_point:alert": "yes",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt Integra",
+    "operator": "Stadt Wallisellen",
+    "temporary": "yes",
+    "website": "https://www.wallisellen.ch/",
+    "id": "node/12565173572"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5898148,
+      47.4122165
+    ]
+  }
 }
 ]
 }
