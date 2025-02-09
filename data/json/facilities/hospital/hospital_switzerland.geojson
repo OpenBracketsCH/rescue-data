@@ -53455,6 +53455,7 @@
   "id": "node/7317277717",
   "properties": {
     "addr:city": "Binningen",
+    "addr:country": "CH",
     "addr:housenumber": "55",
     "addr:postcode": "4102",
     "addr:street": "Hauptstrasse",
@@ -55091,19 +55092,24 @@
   "type": "Feature",
   "id": "node/10083537140",
   "properties": {
-    "addr:housenumber": "23",
-    "addr:street": "Ziegelrain",
+    "addr:city": "Aarau",
+    "addr:housenumber": "102",
+    "addr:postcode": "5000",
+    "addr:street": "Bahnhofstrasse",
     "amenity": "clinic",
+    "email": "hausaerzte-aarau@hin.ch",
     "healthcare": "clinic",
+    "level": "3",
     "name": "Hausärzte Zentrum Aarau",
+    "phone": "+41 62 552 00 33",
     "website": "https://hausaerzte-aarau.ch/",
     "id": "node/10083537140"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.0434271,
-      47.3910276
+      8.0544966,
+      47.3923967
     ]
   }
 },
