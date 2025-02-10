@@ -2303,6 +2303,7 @@
     "addr:street": "Haldenstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2025-02-09",
     "name": "Alterswohnungen",
     "operator": "Gemeinde Männedorf",
     "social_facility": "assisted_living",

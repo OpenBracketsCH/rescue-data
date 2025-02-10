@@ -39738,8 +39738,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4929344,
-      47.3870228
+      8.4921712,
+      47.3869997
     ]
   }
 },
@@ -43439,6 +43439,25 @@
     "coordinates": [
       8.5555976,
       47.3086053
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12570816268",
+  "properties": {
+    "amenity": "kindergarten",
+    "isced:level": "0",
+    "name": "Kindergarten Kappeli 10",
+    "phone": "+41 44 413 75 24",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/kappeli_primar/ueberuns/standorte/kindergaerten.html",
+    "id": "node/12570816268"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4919226,
+      47.3874586
     ]
   }
 }

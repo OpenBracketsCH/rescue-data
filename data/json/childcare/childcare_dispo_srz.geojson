@@ -15573,6 +15573,61 @@
       47.3858718
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12570789475",
+  "properties": {
+    "addr:housenumber": "125",
+    "addr:street": "Baslerstrasse",
+    "amenity": "childcare",
+    "check_date": "2025-02-09",
+    "name": "Fuchsia",
+    "website": "http://www.kita-fuchsia.ch/",
+    "id": "node/12570789475"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4900493,
+      47.3884521
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12570940001",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Goldräge",
+    "id": "node/12570940001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5333718,
+      47.4098483
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12570970067",
+  "properties": {
+    "addr:housenumber": "40",
+    "addr:street": "Albulastrasse",
+    "amenity": "childcare",
+    "check_date": "2025-02-09",
+    "name": "Schildchrötli",
+    "id": "node/12570970067"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.494076,
+      47.388226
+    ]
+  }
 }
 ]
 }
