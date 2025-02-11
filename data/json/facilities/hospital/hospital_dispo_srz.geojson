@@ -4305,8 +4305,8 @@
           47.2517012
         ],
         [
-          8.6936457,
-          47.2516634
+          8.6936477,
+          47.2516627
         ],
         [
           8.6936972,
@@ -4477,8 +4477,8 @@
           47.2518832
         ],
         [
-          8.693508,
-          47.2518275
+          8.69351,
+          47.2518305
         ],
         [
           8.6934735,
@@ -11158,6 +11158,53 @@
         [
           8.519752,
           47.3746896
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1358659109",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "87",
+    "addr:postcode": "8810",
+    "addr:street": "Seestrasse",
+    "alt_name": "Dialysezentrum",
+    "amenity": "clinic",
+    "building": "yes",
+    "email": "dialyse@nephroamsee.ch",
+    "healthcare": "dialysis",
+    "healthcare:speciality": "nephrology",
+    "name": "Nephro am See",
+    "phone": "+41 44 208 88 11",
+    "website": "https://www.nephroamsee.ch/",
+    "id": "way/1358659109"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5916453,
+          47.2627101
+        ],
+        [
+          8.5920173,
+          47.262489
+        ],
+        [
+          8.5922244,
+          47.2626555
+        ],
+        [
+          8.591851,
+          47.26288
+        ],
+        [
+          8.5916453,
+          47.2627101
         ]
       ]
     ]

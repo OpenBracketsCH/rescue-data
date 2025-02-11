@@ -249,6 +249,7 @@
     "addr:street": "Bahnhofplatz",
     "amenity": "pharmacy",
     "brand": "Achillea Apotheke",
+    "check_date": "2025-02-10",
     "check_date:opening_hours": "2023-07-26",
     "contact:email": "a27@achillea.ch",
     "contact:fax": "+41 52 269 12 05",

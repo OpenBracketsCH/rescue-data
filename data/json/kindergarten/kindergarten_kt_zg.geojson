@@ -44,51 +44,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/52293396",
-  "properties": {
-    "amenity": "kindergarten",
-    "building": "yes",
-    "isced:level": "0",
-    "level": "0",
-    "name": "Kindergarten Goldermatten",
-    "operator": "Gemeinde Steinhausen",
-    "operator:type": "public",
-    "id": "way/52293396"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4838683,
-          47.19388
-        ],
-        [
-          8.4839611,
-          47.1937127
-        ],
-        [
-          8.4841592,
-          47.1937634
-        ],
-        [
-          8.4842583,
-          47.1937888
-        ],
-        [
-          8.4841655,
-          47.1939561
-        ],
-        [
-          8.4838683,
-          47.19388
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/54362361",
   "properties": {
     "addr:housenumber": "30",
@@ -619,6 +574,46 @@
         [
           8.4517591,
           47.1867129
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1358563541",
+  "properties": {
+    "amenity": "kindergarten",
+    "isced:level": "0",
+    "level": "0",
+    "name": "Kindergarten Goldermatten",
+    "operator": "Gemeinde Steinhausen",
+    "operator:type": "public",
+    "id": "way/1358563541"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4837688,
+          47.1938814
+        ],
+        [
+          8.4839724,
+          47.1935199
+        ],
+        [
+          8.4844027,
+          47.1936318
+        ],
+        [
+          8.484199,
+          47.1939933
+        ],
+        [
+          8.4837688,
+          47.1938814
         ]
       ]
     ]

@@ -2712,6 +2712,107 @@
 },
 {
   "type": "Feature",
+  "id": "way/32650098",
+  "properties": {
+    "alt_name": "MNA Zentrum Peter & Paul",
+    "amenity": "social_facility",
+    "capacity": "200",
+    "name": "Durchgangszentrum St. Peter & Paul",
+    "old_name": "Kurzzeitunterkunft St. Peter & Paul",
+    "operator": "AOZ, Asylorganisation Zürich",
+    "phone": "+41 79 967 51 94",
+    "short_name": "DZ Peter und Paul",
+    "social_facility": "group_home",
+    "social_facility:for": "migrant",
+    "website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/dz/Kurzzeitunterkunft_Peter_und_Paul.html",
+    "id": "way/32650098"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5282237,
+          47.3718372
+        ],
+        [
+          8.528228,
+          47.3718349
+        ],
+        [
+          8.5283517,
+          47.3717674
+        ],
+        [
+          8.5283651,
+          47.3717601
+        ],
+        [
+          8.528457,
+          47.3718374
+        ],
+        [
+          8.528495,
+          47.3718167
+        ],
+        [
+          8.5286483,
+          47.3719457
+        ],
+        [
+          8.5286095,
+          47.3719669
+        ],
+        [
+          8.5287014,
+          47.3720443
+        ],
+        [
+          8.5285606,
+          47.3721211
+        ],
+        [
+          8.5284694,
+          47.3720444
+        ],
+        [
+          8.528449,
+          47.3720555
+        ],
+        [
+          8.5284135,
+          47.3720256
+        ],
+        [
+          8.5284341,
+          47.3720144
+        ],
+        [
+          8.5284114,
+          47.3719953
+        ],
+        [
+          8.5283908,
+          47.3720065
+        ],
+        [
+          8.5282645,
+          47.3719003
+        ],
+        [
+          8.5282852,
+          47.371889
+        ],
+        [
+          8.5282237,
+          47.3718372
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/33818776",
   "properties": {
     "addr:city": "Zürich",
@@ -31720,8 +31821,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6490438,
-      47.4473836
+      8.6492877,
+      47.4476063
     ]
   }
 },
@@ -32810,31 +32911,6 @@
     "coordinates": [
       8.4572924,
       47.4816604
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10881103027",
-  "properties": {
-    "alt_name": "MNA Zentrum Peter & Paul",
-    "amenity": "social_facility",
-    "capacity": "200",
-    "name": "Durchgangszentrum St. Peter & Paul",
-    "old_name": "Kurzzeitunterkunft St. Peter & Paul",
-    "operator": "AOZ, Asylorganisation Zürich",
-    "phone": "+41 79 967 51 94",
-    "short_name": "DZ Peter und Paul",
-    "social_facility": "group_home",
-    "social_facility:for": "migrant",
-    "website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/dz/Kurzzeitunterkunft_Peter_und_Paul.html",
-    "id": "node/10881103027"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5283638,
-      47.3718636
     ]
   }
 },
