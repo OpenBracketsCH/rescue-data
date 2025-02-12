@@ -1245,6 +1245,7 @@
     "addr:street": "Bergstrasse",
     "amenity": "clinic",
     "building": "yes",
+    "healthcare": "clinic",
     "name": "Kinderstation Brüschhalde",
     "operator": "Klinik für Kinder- und Jugendpsychiatrie und Psychotherapie",
     "id": "way/23793421"
@@ -2331,6 +2332,7 @@
     "amenity": "hospital",
     "building": "yes",
     "email": "herzzentrum@herzzentrum.ch",
+    "healthcare": "hospital",
     "name": "Hirslanden Herzzentrum",
     "phone": "+41 44 387 37 11",
     "website": "https://www.herzzentrum.ch/",
@@ -9200,6 +9202,7 @@
     "alt_name": "Tannenhofpraxis",
     "amenity": "clinic",
     "building": "yes",
+    "healthcare": "clinic",
     "name": "Ärztehaus Tannenhof",
     "website": "https://aerztehaus-tannenhof.ch/",
     "id": "way/1067474616"
@@ -10652,6 +10655,7 @@
     "healthcare": "clinic",
     "name": "Praxis am Bahnhof",
     "opening_hours": "PH,Mo-Su 08:00-20:00",
+    "website": "https://www.praxisambahnhof.ch",
     "id": "node/9767828227"
   },
   "geometry": {

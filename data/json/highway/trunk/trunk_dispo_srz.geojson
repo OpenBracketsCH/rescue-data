@@ -14642,6 +14642,7 @@
   "type": "Feature",
   "id": "way/254701830",
   "properties": {
+    "access:both_ways": "no",
     "change:backward": "no",
     "change:both_ways": "no",
     "change:forward": "no",

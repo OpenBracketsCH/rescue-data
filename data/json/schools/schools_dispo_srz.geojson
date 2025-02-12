@@ -5132,6 +5132,10 @@
           47.2562001
         ],
         [
+          8.6977362,
+          47.2561534
+        ],
+        [
           8.6977824,
           47.2561321
         ],
@@ -5226,16 +5230,16 @@
           47.2559753
         ],
         [
-          8.6980771,
-          47.255998
+          8.6981057,
+          47.2559866
         ],
         [
-          8.6980341,
-          47.2559518
+          8.6980798,
+          47.2560004
         ],
         [
-          8.6979675,
-          47.2558807
+          8.6979639,
+          47.2558819
         ],
         [
           8.6980654,
@@ -7160,6 +7164,8 @@
     "name": "Mathematisch-Naturwissenschaftliches Gymnasium Rämibühl",
     "old_name": "Oberrealschule Zürich",
     "operator": "Kanton Zürich, Bildungsdirektion",
+    "operator:type": "government",
+    "operator:wikidata": "Q113033130",
     "short_name": "MNG",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
     "website": "http://www.mng.ch/",
@@ -17280,6 +17286,8 @@
     "name": "Kantonsschule Stadelhofen",
     "name_old": "Frauenfachschule",
     "operator": "Kanton Zürich, Bildungsdirektion",
+    "operator:type": "government",
+    "operator:wikidata": "Q113033130",
     "short_name": "KST",
     "website": "https://www.ksstadelhofen.ch/",
     "wikidata": "Q1728131",
@@ -24098,6 +24106,7 @@
     "amenity": "school",
     "building": "school",
     "name": "Berufsschule Rüti",
+    "website": "https://bsrueti.ch/",
     "id": "way/52353559"
   },
   "geometry": {
@@ -36589,6 +36598,7 @@
   "properties": {
     "amenity": "school",
     "building": "school",
+    "check_date": "2025-02-11",
     "name": "Musikschule Uster Greifensee",
     "phone": "+41 44 940 78 00",
     "website": "https://msug.ch/",
@@ -43674,8 +43684,8 @@
           47.2558369
         ],
         [
-          8.6979675,
-          47.2558807
+          8.6979639,
+          47.2558819
         ],
         [
           8.6979133,
@@ -47831,8 +47841,8 @@
           47.2565049
         ],
         [
-          8.6986496,
-          47.2564403
+          8.6986423,
+          47.2564425
         ],
         [
           8.6986782,
@@ -89050,6 +89060,8 @@
     "name": "Kantonsschule Hohe Promenade",
     "old_name": "Höhere Töchterschule der Stadt Zürich",
     "operator": "Kanton Zürich, Bildungsdirektion",
+    "operator:type": "government",
+    "operator:wikidata": "Q113033130",
     "short_name": "KSHP",
     "website": "https://www.kshp.ch/",
     "wikidata": "Q1379556",
@@ -106844,6 +106856,104 @@
         [
           8.4293815,
           47.4190047
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/556741355",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "70",
+    "contact:phone": "+41 44 446 96 00",
+    "contact:postcode": "8005",
+    "contact:street": "Ausstellungsstrasse",
+    "contact:website": "https://tbz.ch/quicklinks/kontakt-formular/",
+    "name": "Technische Berufsschule Zürich",
+    "operator": "Kanton Zürich, Bildungsdirektion",
+    "operator:type": "government",
+    "operator:wikidata": "Q113033130",
+    "short_name": "TBZ",
+    "id": "way/556741355"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5354133,
+          47.3829563
+        ],
+        [
+          8.5363183,
+          47.3835207
+        ],
+        [
+          8.5356068,
+          47.3839325
+        ],
+        [
+          8.5355787,
+          47.3839488
+        ],
+        [
+          8.5355927,
+          47.3839578
+        ],
+        [
+          8.5356186,
+          47.3839743
+        ],
+        [
+          8.5349318,
+          47.384371
+        ],
+        [
+          8.5348923,
+          47.3843457
+        ],
+        [
+          8.5346679,
+          47.384206
+        ],
+        [
+          8.5345919,
+          47.3841591
+        ],
+        [
+          8.5345465,
+          47.384131
+        ],
+        [
+          8.5346428,
+          47.3840596
+        ],
+        [
+          8.5351516,
+          47.3836829
+        ],
+        [
+          8.5350602,
+          47.3836261
+        ],
+        [
+          8.534761,
+          47.3834399
+        ],
+        [
+          8.534799,
+          47.3834117
+        ],
+        [
+          8.5348638,
+          47.3833637
+        ],
+        [
+          8.5354133,
+          47.3829563
         ]
       ]
     ]
@@ -125589,6 +125699,33 @@
 },
 {
   "type": "Feature",
+  "id": "node/111264133",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@bms-zuerich.ch",
+    "contact:housenumber": "55",
+    "contact:phone": "+41 44 297 24 70",
+    "contact:postcode": "8090",
+    "contact:street": "Lagerstrasse",
+    "contact:website": "https://www.bms-zuerich.ch/kontakt",
+    "name": "Berufsmaturitätsschule Zürich",
+    "operator": "Kanton Zürich, Bildungsdirektion",
+    "operator:type": "government",
+    "operator:wikidata": "Q113033130",
+    "short_name": "BMZ",
+    "id": "node/111264133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5314358,
+      47.3782925
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/256335788",
   "properties": {
     "amenity": "school",
@@ -125748,6 +125885,36 @@
     "coordinates": [
       8.7224208,
       47.3546819
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/364545032",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@a-b-z.ch",
+    "contact:housenumber": "44",
+    "contact:phone": "+41 44 446 9 446",
+    "contact:postcode": "8090",
+    "contact:street": "Ausstellungsstrasse",
+    "contact:website": "https://www.a-b-z.ch/",
+    "name": "ABZ - Allgemeine Berufsschule Zürich",
+    "operator": "Kanton Zürich, Bildungsdirektion",
+    "operator:type": "government",
+    "operator:wikidata": "Q113033130",
+    "short_name": "ABZ",
+    "wheelchair": "yes",
+    "wikidata": "Q21296958",
+    "wikipedia": "de:Allgemeine Berufsschule Zürich",
+    "id": "node/364545032"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5367336,
+      47.3829876
     ]
   }
 },
@@ -127479,6 +127646,64 @@
     "coordinates": [
       8.5275785,
       47.3662506
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5370210515",
+  "properties": {
+    "alt_name": "Baugewerbliche Berufsschule Zürich",
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "infopr@bbzh.ch",
+    "contact:housenumber": "55",
+    "contact:phone": "+41 44 297 24 24",
+    "contact:postcode": "8090",
+    "contact:street": "Lagerstrasse",
+    "contact:website": "https://www.bbzh.ch/bbz/",
+    "description": "Abteilung Planung und Rohbau",
+    "name": "BBZ - Schulhaus Lagerstrasse 55",
+    "operator": "Kanton Zürich, Bildungsdirektion",
+    "operator:type": "government",
+    "operator:wikidata": "Q113033130",
+    "short_name": "BBZ",
+    "id": "node/5370210515"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5311647,
+      47.3784516
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5370210516",
+  "properties": {
+    "alt_name": "Baugewerbliche Berufsschule Zürich",
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "infoma@bbzh.ch",
+    "contact:housenumber": "2",
+    "contact:phone": "+41 44 446 98 88",
+    "contact:postcode": "8090",
+    "contact:street": "Reishauerstrasse",
+    "contact:website": "https://www.bbzh.ch/bbz/",
+    "description": "Rektorat, Abteilung Montage und Ausbau",
+    "name": "BBZ - Schulhaus Reishauerstrasse 2",
+    "operator": "Kanton Zürich, Bildungsdirektion",
+    "operator:type": "government",
+    "operator:wikidata": "Q113033130",
+    "short_name": "BBZ",
+    "id": "node/5370210516"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.533551,
+      47.3825431
     ]
   }
 },
@@ -130481,6 +130706,7 @@
     "addr:street": "Asylstrasse",
     "amenity": "school",
     "name": "Schule 3x3",
+    "website": "https://www.schule3x3.ch",
     "id": "node/9913762620"
   },
   "geometry": {
