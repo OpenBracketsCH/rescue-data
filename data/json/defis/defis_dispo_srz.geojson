@@ -11167,10 +11167,13 @@
   "id": "node/7853369119",
   "properties": {
     "access": "yes",
+    "addr:housenumber": "62",
+    "addr:street": "Alte Winterthurerstrasse",
     "defibrillator:location": "Im Hallenbad",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "operator": "Sportanlagen AG Wallisellen",
     "id": "node/7853369119"
   },
   "geometry": {
@@ -12371,8 +12374,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930220203"
   },
   "geometry": {
@@ -13096,8 +13099,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "name": "Hallenbad Herti, bei der Badeaufsicht",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930654665"
   },
   "geometry": {
@@ -13118,8 +13121,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930654667"
   },
   "geometry": {
@@ -13140,8 +13143,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930654668"
   },
   "geometry": {
@@ -13162,8 +13165,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930654669"
   },
   "geometry": {
@@ -13184,8 +13187,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930654670"
   },
   "geometry": {
@@ -13206,8 +13209,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930654671"
   },
   "geometry": {
@@ -13228,8 +13231,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930654673"
   },
   "geometry": {
@@ -13250,8 +13253,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930654674"
   },
   "geometry": {
@@ -13330,8 +13333,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930654678"
   },
   "geometry": {
@@ -13355,8 +13358,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930654679"
   },
   "geometry": {
@@ -13377,8 +13380,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930654680"
   },
   "geometry": {
@@ -13399,8 +13402,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930654681"
   },
   "geometry": {
@@ -13421,8 +13424,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930654682"
   },
   "geometry": {
@@ -13443,8 +13446,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930654683"
   },
   "geometry": {
@@ -13465,8 +13468,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug,  Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930654684"
   },
   "geometry": {
@@ -13506,8 +13509,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930677687"
   },
   "geometry": {
@@ -13528,8 +13531,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930677688"
   },
   "geometry": {
@@ -13550,8 +13553,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug,  Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930677689"
   },
   "geometry": {
@@ -13572,8 +13575,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/7930677690"
   },
   "geometry": {
@@ -25827,6 +25830,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/8681975394"
   },
   "geometry": {
@@ -37254,7 +37259,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "opening_hours": "24/7",
-    "operator": "Schulhaus Mösli",
+    "operator": "Stadt Wallisellen, Schule",
     "phone": "+41448776524",
     "id": "node/9602912117"
   },
@@ -37433,8 +37438,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/9605130355"
   },
   "geometry": {
@@ -37455,8 +37460,8 @@
     "emergency:phone": "144",
     "level": "0",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/9605130356"
   },
   "geometry": {
@@ -37477,8 +37482,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/9605130357"
   },
   "geometry": {
@@ -37518,8 +37523,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/9605130359"
   },
   "geometry": {
@@ -37540,8 +37545,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/9605130360"
   },
   "geometry": {
@@ -37562,8 +37567,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/9605130361"
   },
   "geometry": {
@@ -37584,8 +37589,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/9605130362"
   },
   "geometry": {
@@ -37606,8 +37611,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/9605130363"
   },
   "geometry": {
@@ -37628,8 +37633,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/9605130364"
   },
   "geometry": {
@@ -37650,8 +37655,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 728 90 63",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 09",
     "id": "node/9605130365"
   },
   "geometry": {
@@ -59171,11 +59176,13 @@
   "type": "Feature",
   "id": "node/10834463905",
   "properties": {
+    "access": "no",
     "defibrillator:location": "ARZTPRAXIS",
     "description": "Während öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "note": "Aktuell 2025 nicht verfügbar da Arztpraxis nach Brand temporär in Humlikon (Gemeindevarwaltung?) ist. Nach Wiedereröffnung Access anpassen.",
     "opening_hours": "Mo-Fr 08:00-12:00,14:00-18:00",
     "operator": "Privatperson",
     "phone": "+41 52 317 31 71",
@@ -62903,16 +62910,15 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
-    "phone": "+41 58 723 90 63",
-    "source": "local_knowledge, defikarte.ch",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 723 99 09",
     "id": "node/11039283405"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5075452,
-      47.1495725
+      8.5075465,
+      47.1495561
     ]
   }
 },
@@ -83361,17 +83367,17 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "07:30 - 22:00 ",
-    "operator": "Schulhaus Bürgli, Stadt Wallisellen ",
-    "phone": "+4179 877 64 46 ",
+    "opening_hours": "07:30 - 22:00",
+    "operator": "Stadt Wallisellen, Schule",
+    "phone": "+4179 877 64 46",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/12375892801"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6005783,
-      47.4150644
+      8.6006267,
+      47.4152252
     ]
   }
 },
@@ -83457,29 +83463,6 @@
     "coordinates": [
       8.5838789,
       47.4423114
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/12382659001",
-  "properties": {
-    "access": "private",
-    "defibrillator:location": "Trakt A, 3. Stock, Siemens Mobility AG, im Gang",
-    "description": "Läuten bei Eingangstüre Siemens Mobility im Trakt A, 3. Stock",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "3",
-    "opening_hours": "Mo-Fr 09:00 - 16:00",
-    "operator": "Siemens Mobility AG",
-    "id": "node/12382659001"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4291748,
-      47.1472082
     ]
   }
 },
@@ -86489,7 +86472,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "opening_hours": "24/7",
-    "operator": "Sportanlagen AG Wallisellen",
+    "operator": "Stadt Wallisellen, Sportanlagen AG",
     "phone": "+41448304340",
     "id": "node/12543365559"
   },
@@ -86596,7 +86579,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "opening_hours": "24/7",
-    "operator": "Schulhaus Alpen",
+    "operator": "Schule Wallisellen",
     "phone": "+41448776549",
     "id": "node/12554070230"
   },
@@ -86641,7 +86624,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "operator": "Schule Wallisellen",
+    "operator": "Stadt Wallisellen, Schule",
     "id": "node/12555932368"
   },
   "geometry": {
@@ -86906,6 +86889,146 @@
     "coordinates": [
       8.8446164,
       47.2559809
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12581670901",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Brandstrasse 24, Treppenhaus",
+    "description": "gegenüber vom Lift",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "06:00 - 18:00",
+    "operator": "Schlatter",
+    "id": "node/12581670901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.444569,
+      47.4015294
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12581984101",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Riedstrasse 1, Eingangsbereich mit Briefkästen hinter Bushaltestelle, links an der Wand",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12581984101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4292131,
+      47.1469755
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12582228102",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Haldenstrasse 5a, Waschsalon",
+    "description": "während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "operator": "Winkelhalden AG",
+    "phone": "+41 78 264 54 11",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12582228102"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5779619,
+      47.2777441
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12582664743",
+  "properties": {
+    "access": "yes",
+    "addr:housenumber": "58",
+    "addr:street": "Alte Winterthurerstrasse",
+    "defibrillator:location": "Bein Eingang in die Mehrzweckhalle",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "opening_hours": "24/7",
+    "operator": "Stadt Wallisellen, Sportanlagen AG",
+    "phone": "+41448304340",
+    "id": "node/12582664743"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5939529,
+      47.4175104
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12582837501",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Eingangsbreich links",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Burger Treuhand AG",
+    "phone": "+41447298040",
+    "id": "node/12582837501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6105964,
+      47.2160252
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12582897201",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Burger Treuhand, Eingangsbereich links",
+    "description": "im Eingangsbereich nach der 1sten Türe links an der Wand",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Burger Treuhand AG",
+    "phone": "+41447298040",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12582897201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6106001,
+      47.2159938
     ]
   }
 }

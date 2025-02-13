@@ -7756,27 +7756,26 @@
 },
 {
   "type": "Feature",
-  "id": "node/12565173572",
+  "id": "node/12582795161",
   "properties": {
-    "activation": "blackout;phone_breakdown",
+    "activation": "blackout;phone_breakdown;evacuation",
     "contact:city": "Wallisellen",
-    "contact:housenumber": "3",
+    "contact:country": "CH",
+    "contact:housenumber": "8",
     "contact:postcode": "8304",
     "contact:street": "Hammerweg",
-    "description": "Notfalltreffpunkt, Schulhaus Integra Square",
-    "disaster_help_point:alert": "yes",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Integra",
-    "operator": "Stadt Wallisellen",
+    "name": "Notfalltreffpunkt, Schulhaus Integra Square",
+    "operator": "RFO/GFO Kanton Zürich",
+    "source": "https://www.zh.ch/de/sicherheit-justiz/bevoelkerungsschutz/notfalltreffpunkte.html",
     "temporary": "yes",
-    "website": "https://www.wallisellen.ch/",
-    "id": "node/12565173572"
+    "id": "node/12582795161"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5898148,
-      47.4122165
+      8.5898503,
+      47.41216
     ]
   }
 }
