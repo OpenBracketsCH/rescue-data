@@ -6135,6 +6135,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "opening_hours": "24/7",
+    "operator": "Einwohnergemeinde Oberägeri",
     "id": "node/7579685231"
   },
   "geometry": {
@@ -6150,10 +6151,11 @@
   "id": "node/7579685232",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Dreifachturnhalle bei Schulhaus",
+    "defibrillator:location": "Dreifachhalle/Musikschule Hofmatt",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "opening_hours": "24/7",
+    "operator": "Einwohnergemeinde Oberägeri",
     "id": "node/7579685232"
   },
   "geometry": {
@@ -6169,10 +6171,11 @@
   "id": "node/7579685233",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Bei Raiffeisenbank",
+    "defibrillator:location": "im Gesundheitspunkt",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "opening_hours": "24/7",
+    "operator": "Einwohnergemeinde Oberägeri",
     "id": "node/7579685233"
   },
   "geometry": {
@@ -6188,11 +6191,11 @@
   "id": "node/7579685234",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Mehrzweckhalle Maienmatt",
+    "defibrillator:location": "Mehrzweckanlage Maienmatt",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
     "opening_hours": "24/7",
+    "operator": "Einwohnergemeinde Oberägeri",
     "id": "node/7579685234"
   },
   "geometry": {
@@ -6208,11 +6211,11 @@
   "id": "node/7579692882",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "An der Aussenwand bei den Toiletten",
+    "defibrillator:location": "An der Aussenwand bei den Toiletten der Morgartenhütte",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "level": "0",
     "opening_hours": "24/7",
+    "operator": "Einwohnergemeinde Oberägeri",
     "id": "node/7579692882"
   },
   "geometry": {
@@ -6231,8 +6234,8 @@
     "defibrillator:location": "Schulhaus Morgarten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
     "opening_hours": "24/7",
+    "operator": "Einwohnergemeinde Oberägeri",
     "id": "node/7579692883"
   },
   "geometry": {
@@ -6251,8 +6254,8 @@
     "defibrillator:location": "Mehrzweckgebäude Alosen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
     "opening_hours": "24/7",
+    "operator": "Einwohnergemeinde Oberägeri",
     "id": "node/7579693163"
   },
   "geometry": {
@@ -10954,13 +10957,14 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "operator": "Stadt Wallisellen",
     "id": "node/7853369107"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5932827,
-      47.4166335
+      8.5929203,
+      47.416765
     ]
   }
 },
@@ -14860,11 +14864,12 @@
   "id": "node/8119104497",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Aussen am Gebäude",
+    "defibrillator:location": "Aussen an Studenhütte",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
+    "operator": "Einwohnergemeinde Oberägeri",
     "id": "node/8119104497"
   },
   "geometry": {
@@ -19179,9 +19184,8 @@
     "defibrillator:location": "Neben Lieferanteneingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Restaurant Raten",
+    "operator": "Einwohnergemeinde Oberägeri",
     "id": "node/8446285417"
   },
   "geometry": {
@@ -86579,7 +86583,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "opening_hours": "24/7",
-    "operator": "Schule Wallisellen",
+    "operator": "Stadt Wallisellen, Schule",
     "phone": "+41448776549",
     "id": "node/12554070230"
   },
@@ -87029,6 +87033,29 @@
     "coordinates": [
       8.6106001,
       47.2159938
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12584513801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Ritschberg, Altbau, Eingang Pausenplatz",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Sekundarschule Elgg",
+    "phone": "+41 52 208 06 43",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12584513801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8669538,
+      47.4922688
     ]
   }
 }

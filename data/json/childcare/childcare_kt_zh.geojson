@@ -14875,6 +14875,27 @@
       47.388226
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12585822386",
+  "properties": {
+    "addr:floor": "1",
+    "addr:housenumber": "34",
+    "addr:street": "Buckhauserstrasse",
+    "amenity": "childcare",
+    "check_date": "2025-02-13",
+    "name": "Bethanien",
+    "website": "https://kitas-bethanien.ch/altstetten/",
+    "id": "node/12585822386"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4927984,
+      47.3838047
+    ]
+  }
 }
 ]
 }

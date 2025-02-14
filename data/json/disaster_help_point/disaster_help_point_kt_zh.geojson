@@ -7774,8 +7774,33 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5898503,
-      47.41216
+      8.5898207,
+      47.41217
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12584504412",
+  "properties": {
+    "activation": "blackout;phone_breakdown;evacuation",
+    "contact:city": "Wallisellen",
+    "contact:country": "CH",
+    "contact:housenumber": "24",
+    "contact:postcode": "8304",
+    "contact:street": "Zielackerstrasse",
+    "emergency": "disaster_help_point",
+    "name": "Sport und Erholungszentrum",
+    "operator": "RFO/GFO Kanton Zürich",
+    "source": "https://www.zh.ch/de/sicherheit-justiz/bevoelkerungsschutz/notfalltreffpunkte.html",
+    "temporary": "yes",
+    "id": "node/12584504412"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6083711,
+      47.41436
     ]
   }
 }
