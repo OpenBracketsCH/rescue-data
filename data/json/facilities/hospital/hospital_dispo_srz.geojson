@@ -11168,53 +11168,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1358659109",
-  "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "87",
-    "addr:postcode": "8810",
-    "addr:street": "Seestrasse",
-    "alt_name": "Dialysezentrum",
-    "amenity": "clinic",
-    "building": "yes",
-    "email": "dialyse@nephroamsee.ch",
-    "healthcare": "dialysis",
-    "healthcare:speciality": "nephrology",
-    "name": "Nephro am See",
-    "phone": "+41 44 208 88 11",
-    "website": "https://www.nephroamsee.ch/",
-    "id": "way/1358659109"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5916453,
-          47.2627101
-        ],
-        [
-          8.5920173,
-          47.262489
-        ],
-        [
-          8.5922244,
-          47.2626555
-        ],
-        [
-          8.591851,
-          47.26288
-        ],
-        [
-          8.5916453,
-          47.2627101
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/199578656",
   "properties": {
     "id": "way/199578656"
@@ -14122,6 +14075,34 @@
     "coordinates": [
       8.7254252,
       47.5053045
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12587398743",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "87",
+    "addr:postcode": "8810",
+    "addr:street": "Seestrasse",
+    "alt_name": "Dialysezentrum",
+    "amenity": "clinic",
+    "building": "yes",
+    "email": "dialyse@nephroamsee.ch",
+    "healthcare": "dialysis",
+    "healthcare:speciality": "nephrology",
+    "name": "Nephro am See",
+    "opening_hours": "Mo,We,Fr 06:30-18:00",
+    "phone": "+41 44 208 88 11",
+    "website": "https://www.nephroamsee.ch/",
+    "id": "node/12587398743"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5916821,
+      47.2628111
     ]
   }
 }

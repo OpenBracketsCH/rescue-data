@@ -56832,108 +56832,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/191372765",
-  "properties": {
-    "addr:city": "Wollerau",
-    "addr:housenumber": "18",
-    "addr:postcode": "8832",
-    "addr:street": "Erlenstrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Riedmatt",
-    "roof:shape": "flat",
-    "id": "way/191372765"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7134433,
-          47.1958925
-        ],
-        [
-          8.7134594,
-          47.1959328
-        ],
-        [
-          8.7136639,
-          47.195895
-        ],
-        [
-          8.7137498,
-          47.19611
-        ],
-        [
-          8.7135916,
-          47.1961392
-        ],
-        [
-          8.7136667,
-          47.1963269
-        ],
-        [
-          8.7138243,
-          47.1962979
-        ],
-        [
-          8.7138868,
-          47.1964543
-        ],
-        [
-          8.7139481,
-          47.196443
-        ],
-        [
-          8.7140708,
-          47.19675
-        ],
-        [
-          8.7135133,
-          47.1968528
-        ],
-        [
-          8.7134156,
-          47.1966083
-        ],
-        [
-          8.7130668,
-          47.1966727
-        ],
-        [
-          8.7129769,
-          47.1964477
-        ],
-        [
-          8.7131537,
-          47.1964151
-        ],
-        [
-          8.7133052,
-          47.1963872
-        ],
-        [
-          8.7132147,
-          47.1961606
-        ],
-        [
-          8.7132574,
-          47.1961528
-        ],
-        [
-          8.7131733,
-          47.1959424
-        ],
-        [
-          8.7134433,
-          47.1958925
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/191934540",
   "properties": {
     "amenity": "school",
@@ -125699,6 +125597,86 @@
 },
 {
   "type": "Feature",
+  "id": "way/1359852748",
+  "properties": {
+    "amenity": "school",
+    "name": "Riedtmatt",
+    "id": "way/1359852748"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7121961,
+          47.1962966
+        ],
+        [
+          8.7123367,
+          47.1960124
+        ],
+        [
+          8.7129129,
+          47.1960982
+        ],
+        [
+          8.7131357,
+          47.1959138
+        ],
+        [
+          8.7139847,
+          47.1957662
+        ],
+        [
+          8.7141268,
+          47.1957972
+        ],
+        [
+          8.7145095,
+          47.1958392
+        ],
+        [
+          8.7147138,
+          47.1963823
+        ],
+        [
+          8.7140973,
+          47.1965589
+        ],
+        [
+          8.7141738,
+          47.1967467
+        ],
+        [
+          8.7133074,
+          47.1969381
+        ],
+        [
+          8.7128072,
+          47.1969071
+        ],
+        [
+          8.7127562,
+          47.1967358
+        ],
+        [
+          8.7127669,
+          47.1966073
+        ],
+        [
+          8.7127644,
+          47.1963901
+        ],
+        [
+          8.7121961,
+          47.1962966
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/111264133",
   "properties": {
     "amenity": "school",
@@ -128433,11 +128411,11 @@
   "type": "Feature",
   "id": "node/8532581413",
   "properties": {
-    "alt_name": "HPS Leutschenbach",
+    "alt_name": "Heilpädagogische Schule (HPS) Leutschenbach",
     "amenity": "school",
     "isced:level": "2",
     "level": "0",
-    "name": "Heilpädagogischen Schule Leutschenbach",
+    "name": "Heilpädagogische Schule",
     "operator": "Soziale Einrichtungen und Betriebe Stadt Zürich",
     "operator:type": "government",
     "social_facility": "ambulatory_care",

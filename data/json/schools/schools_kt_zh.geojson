@@ -100688,11 +100688,11 @@
   "type": "Feature",
   "id": "node/8532581413",
   "properties": {
-    "alt_name": "HPS Leutschenbach",
+    "alt_name": "Heilpädagogische Schule (HPS) Leutschenbach",
     "amenity": "school",
     "isced:level": "2",
     "level": "0",
-    "name": "Heilpädagogischen Schule Leutschenbach",
+    "name": "Heilpädagogische Schule",
     "operator": "Soziale Einrichtungen und Betriebe Stadt Zürich",
     "operator:type": "government",
     "social_facility": "ambulatory_care",
