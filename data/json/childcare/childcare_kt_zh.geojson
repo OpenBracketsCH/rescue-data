@@ -6383,6 +6383,7 @@
   "id": "node/4809619659",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-02-15",
     "level": "0",
     "name": "Spielgruppe Turboschnägg",
     "website": "https://www.spielgruppeturboschnaegg.ch/",
