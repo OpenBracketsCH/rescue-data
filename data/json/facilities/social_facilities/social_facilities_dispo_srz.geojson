@@ -20082,7 +20082,9 @@
   "type": "Feature",
   "id": "way/172341928",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "2",
+    "addr:postcode": "8405",
     "addr:street": "Steinackerweg",
     "amenity": "social_facility",
     "building": "yes",
@@ -25473,12 +25475,13 @@
   "type": "Feature",
   "id": "way/238010346",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "5",
+    "addr:postcode": "8405",
     "addr:street": "Tägelmoosweg",
     "amenity": "social_facility",
     "building": "yes",
     "building:levels": "4",
-    "building:roof": "flat",
     "name": "Genossenschaft für Alters- und Invalidenwohnungen",
     "roof:shape": "flat",
     "short_name": "GAIWO",
@@ -57487,6 +57490,8 @@
     "network": "Madame Frigo",
     "opening_hours": "24/7",
     "operator": "foodsharing.de",
+    "operator:type": "private",
+    "operator:wikidata": "Q15809935",
     "social_facility": "food_bank",
     "social_facility:for": "everyone",
     "wikipedia": "de:Foodsharing.de",
@@ -58112,6 +58117,30 @@
     "coordinates": [
       8.5006749,
       47.377558
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12592846450",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "14",
+    "addr:postcode": "8400",
+    "addr:street": "Obertor",
+    "amenity": "social_facility",
+    "name": "Akompa",
+    "operator": "akompa GmbH",
+    "operator:type": "private",
+    "social_facility": "ambulatory_care",
+    "social_facility:for": "family",
+    "id": "node/12592846450"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7328049,
+      47.5004103
     ]
   }
 }

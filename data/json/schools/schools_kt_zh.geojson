@@ -3356,6 +3356,7 @@
     "amenity": "school",
     "building": "yes",
     "building:roof": "tile",
+    "check_date": "2025-02-16",
     "name": "Gesamtschule Villa Büel",
     "id": "way/22703667"
   },
