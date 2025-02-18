@@ -30876,6 +30876,114 @@
 },
 {
   "type": "Feature",
+  "id": "way/1360694325",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Sonnental",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "way/1360694325"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7156409,
+          47.3422346
+        ],
+        [
+          8.7157954,
+          47.3420051
+        ],
+        [
+          8.7162495,
+          47.3421463
+        ],
+        [
+          8.7164766,
+          47.3423834
+        ],
+        [
+          8.7165548,
+          47.3425335
+        ],
+        [
+          8.7164413,
+          47.3427252
+        ],
+        [
+          8.7160839,
+          47.3428122
+        ],
+        [
+          8.7159294,
+          47.3428198
+        ],
+        [
+          8.7156409,
+          47.3422346
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1360696338",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Alterssiedlung Kreuz",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "way/1360696338"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7153442,
+          47.3457617
+        ],
+        [
+          8.7155708,
+          47.3457152
+        ],
+        [
+          8.7156581,
+          47.3459364
+        ],
+        [
+          8.7158328,
+          47.346135
+        ],
+        [
+          8.7158848,
+          47.3463295
+        ],
+        [
+          8.7152257,
+          47.3464379
+        ],
+        [
+          8.7151903,
+          47.3462689
+        ],
+        [
+          8.7152444,
+          47.3459266
+        ],
+        [
+          8.7153442,
+          47.3457617
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/845207315",
   "properties": {
     "addr:city": "Zürich",

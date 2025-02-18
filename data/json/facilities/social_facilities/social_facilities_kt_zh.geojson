@@ -41232,6 +41232,114 @@
 },
 {
   "type": "Feature",
+  "id": "way/1360694325",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Sonnental",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "way/1360694325"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7156409,
+          47.3422346
+        ],
+        [
+          8.7157954,
+          47.3420051
+        ],
+        [
+          8.7162495,
+          47.3421463
+        ],
+        [
+          8.7164766,
+          47.3423834
+        ],
+        [
+          8.7165548,
+          47.3425335
+        ],
+        [
+          8.7164413,
+          47.3427252
+        ],
+        [
+          8.7160839,
+          47.3428122
+        ],
+        [
+          8.7159294,
+          47.3428198
+        ],
+        [
+          8.7156409,
+          47.3422346
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1360696338",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Alterssiedlung Kreuz",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "way/1360696338"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7153442,
+          47.3457617
+        ],
+        [
+          8.7155708,
+          47.3457152
+        ],
+        [
+          8.7156581,
+          47.3459364
+        ],
+        [
+          8.7158328,
+          47.346135
+        ],
+        [
+          8.7158848,
+          47.3463295
+        ],
+        [
+          8.7152257,
+          47.3464379
+        ],
+        [
+          8.7151903,
+          47.3462689
+        ],
+        [
+          8.7152444,
+          47.3459266
+        ],
+        [
+          8.7153442,
+          47.3457617
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/473379001",
   "properties": {
     "amenity": "social_facility",
@@ -41614,44 +41722,6 @@
     "coordinates": [
       8.8174636,
       47.4253373
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/3752628634",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "131",
-    "addr:postcode": "8005",
-    "addr:street": "Sihlquai",
-    "amenity": "social_facility",
-    "contact:email": "info@foodsharing.de",
-    "covered": "no",
-    "fee": "no",
-    "fridge": "yes",
-    "indoor": "no",
-    "location": "outdoor",
-    "name": "Fair-Teiler Sihlquai",
-    "network": "Madame Frigo",
-    "note": "Der Fair-Teiler ist Tag und Nacht zugänglich. Es gibt zwei Kühlschränke (mit Gefrierfach)",
-    "opening_hours": "24/7",
-    "operator": "foodsharing.de",
-    "social_facility": "food_bank",
-    "social_facility:for": "everyone",
-    "source": "www.foodsharing.de",
-    "website": "https://foodsharingschweiz.ch/?page=fairteiler&sub=ft&bid=108&id=417",
-    "wheelchair": "yes",
-    "wikidata": "Q15809935",
-    "wikimedia_commons": "Category:Foodsharing.de",
-    "wikipedia": "de:Foodsharing.de",
-    "id": "node/3752628634"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5334983,
-      47.3848545
     ]
   }
 },
@@ -46413,41 +46483,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9650994310",
-  "properties": {
-    "access": "yes",
-    "addr:city": "Zürich",
-    "addr:housenumber": "2",
-    "addr:postcode": "8003",
-    "addr:street": "Kalkbreitestrasse",
-    "amenity": "social_facility",
-    "contact:email": "info@foodsharing.de",
-    "covered": "no",
-    "fee": "no",
-    "fridge": "yes",
-    "indoor": "no",
-    "location": "outdoor",
-    "name": "Madame Frigo - Kalkbreite",
-    "network": "Madame Frigo",
-    "opening_hours": "24/7",
-    "operator": "foodsharing.de",
-    "social_facility": "food_bank",
-    "social_facility:for": "everyone",
-    "website": "https://foodsharing.de/?page=fairteiler&sub=ft&bid=108&id=1798",
-    "wheelchair": "yes",
-    "wikipedia": "de:Foodsharing.de",
-    "id": "node/9650994310"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5211236,
-      47.3743496
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9651015584",
   "properties": {
     "access": "yes",
@@ -47045,44 +47080,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10554838988",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "261",
-    "addr:postcode": "8005",
-    "addr:street": "Hardturmstrasse",
-    "amenity": "social_facility",
-    "check_date": "2024-08-21",
-    "contact:email": "info@foodsharing.de",
-    "covered": "no",
-    "fee": "no",
-    "fridge": "yes",
-    "indoor": "no",
-    "location": "outdoor",
-    "name": "Madame Frigo Kraftwerk",
-    "network": "Madame Frigo",
-    "note": "Der Fair-Teiler ist Tag und Nacht zugänglich. Es gibt zwei Kühlschränke (mit Gefrierfach)",
-    "opening_hours": "24/7",
-    "operator": "foodsharing.de",
-    "social_facility": "food_bank",
-    "social_facility:for": "everyone",
-    "website": "https://foodsharingschweiz.ch/?page=fairteiler&sub=ft&bid=108&id=417",
-    "wheelchair": "yes",
-    "wikidata": "Q15809935",
-    "wikimedia_commons": "Category:Foodsharing.de",
-    "wikipedia": "de:Foodsharing.de",
-    "id": "node/10554838988"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5082076,
-      47.3936414
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10565430658",
   "properties": {
     "amenity": "social_facility",
@@ -47506,39 +47503,6 @@
     "coordinates": [
       8.5197658,
       47.3930347
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11009572337",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "76",
-    "addr:postcode": "8037",
-    "addr:street": "Hönggerstrasse",
-    "amenity": "social_facility",
-    "contact:email": "info@foodsharing.de",
-    "covered": "no",
-    "fee": "no",
-    "fridge": "yes",
-    "indoor": "no",
-    "location": "outdoor",
-    "name": "Madame Frigo - WipWest",
-    "network": "Madame Frigo",
-    "opening_hours": "24/7",
-    "operator": "foodsharing.de",
-    "social_facility": "food_bank",
-    "social_facility:for": "everyone",
-    "website": "https://foodsharing.de/?page=fairteiler&sub=ft&bid=108&id=2274",
-    "wikipedia": "de:Foodsharing.de",
-    "id": "node/11009572337"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.521983,
-      47.3938872
     ]
   }
 },

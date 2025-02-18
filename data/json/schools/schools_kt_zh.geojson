@@ -32094,62 +32094,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/112146368",
-  "properties": {
-    "amenity": "school",
-    "building": "school",
-    "check_date": "2025-02-11",
-    "name": "Musikschule Uster Greifensee",
-    "phone": "+41 44 940 78 00",
-    "website": "https://msug.ch/",
-    "id": "way/112146368"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7152268,
-          47.3463015
-        ],
-        [
-          8.7156295,
-          47.3462371
-        ],
-        [
-          8.715606,
-          47.3461696
-        ],
-        [
-          8.7158086,
-          47.3461373
-        ],
-        [
-          8.7158402,
-          47.3462281
-        ],
-        [
-          8.7157029,
-          47.34625
-        ],
-        [
-          8.7157361,
-          47.3463456
-        ],
-        [
-          8.7152682,
-          47.3464203
-        ],
-        [
-          8.7152268,
-          47.3463015
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/112176100",
   "properties": {
     "amenity": "school",
@@ -39001,7 +38945,8 @@
     "amenity": "school",
     "name": "Schule Tägelmoos",
     "operator": "Stadt Winterthur",
-    "operator:type": "public",
+    "operator:type": "government",
+    "operator:wikidata": "Q9125",
     "website": "https://www.taegelmoos.ch/",
     "id": "way/139975268"
   },
@@ -39066,6 +39011,10 @@
           47.4901506
         ],
         [
+          8.7628891,
+          47.4900039
+        ],
+        [
           8.7627288,
           47.4897133
         ],
@@ -39084,6 +39033,10 @@
         [
           8.7623449,
           47.4890714
+        ],
+        [
+          8.7623095,
+          47.4890088
         ],
         [
           8.7621874,
