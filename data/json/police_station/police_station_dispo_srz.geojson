@@ -2432,6 +2432,7 @@
     "amenity": "police",
     "name": "Polizeiposten Höfe",
     "operator": "Kantonspolizei Schwyz",
+    "operator:wikidata": "Q56705179",
     "phone": "+41 41 819 58 58",
     "id": "node/1166423434"
   },
