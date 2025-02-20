@@ -47754,6 +47754,8 @@
     "network": "Madame Frigo",
     "opening_hours": "24/7",
     "operator": "foodsharing.de",
+    "operator:type": "private",
+    "operator:wikidata": "Q15809935",
     "social_facility": "food_bank",
     "social_facility:for": "everyone",
     "wikipedia": "de:Foodsharing.de",

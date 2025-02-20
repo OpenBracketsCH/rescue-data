@@ -182,6 +182,7 @@
     "name": "Polizeiposten Lachen (Hauptposten)",
     "opening_hours": "Mo-Fr 08:00-11:30,14:00-17:30; Sa 09:30-11:30",
     "operator": "Kantonspolizei Schwyz",
+    "operator:wikidata": "Q56705179",
     "phone": "+41 41 819 59 59",
     "website": "https://www.sz.ch/behoerden/sicherheit-polizei/kantonspolizei/standorte/standort-hauptposten-lachen.html",
     "id": "node/1002391792"

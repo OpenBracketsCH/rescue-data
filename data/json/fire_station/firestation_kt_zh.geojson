@@ -6411,6 +6411,7 @@
     "addr:postcode": "8632",
     "addr:street": "Nauenstrasse",
     "amenity": "fire_station",
+    "check_date": "2025-02-19",
     "name": "Feuerwehr Dürnten",
     "website": "http://www.feuerwehr-duernten.ch/",
     "id": "node/7462946206"

@@ -3380,6 +3380,8 @@
     "amenity": "social_facility",
     "name": "Aussenwohngruppe",
     "operator": "BSZ Stiftung",
+    "operator:type": "charitable",
+    "operator:wikidata": "Q105761109",
     "social_facility": "assisted_living",
     "social_facility:for": "disabled",
     "website": "https://www.bsz-stiftung.ch/",
