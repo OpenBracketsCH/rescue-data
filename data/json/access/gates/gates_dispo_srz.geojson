@@ -101188,6 +101188,27 @@
       47.2886475
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12604246631",
+  "properties": {
+    "access": "customers",
+    "barrier": "lift_gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "horse": "yes",
+    "lift_gate:type": "single",
+    "motor_vehicle": "customers",
+    "id": "node/12604246631"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7387377,
+      47.5887079
+    ]
+  }
 }
 ]
 }
