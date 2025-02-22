@@ -15653,6 +15653,22 @@
       47.3838047
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12606899732",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Fugu Kinderkrippe",
+    "id": "node/12606899732"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.718153,
+      47.3491426
+    ]
+  }
 }
 ]
 }
