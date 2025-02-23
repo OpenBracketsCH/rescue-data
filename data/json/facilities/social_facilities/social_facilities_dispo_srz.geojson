@@ -21534,7 +21534,7 @@
     "addr:postcode": "8610",
     "addr:street": "Neuwiesenstrasse",
     "amenity": "social_facility",
-    "building": "yes",
+    "building": "residential",
     "check_date": "2025-02-12",
     "email": "kontakt@prixsante.ch",
     "name": "Prix Santé - Pflege im Zentrum",
@@ -56700,26 +56700,6 @@
     "coordinates": [
       8.5279999,
       47.3336122
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10033304132",
-  "properties": {
-    "amenity": "social_facility",
-    "name": "Verein für Drogenfragen Zürcher Oberland",
-    "phone": "+41 44 994 48 58",
-    "social_facility": "outreach",
-    "social_facility:for": "drug_addicted",
-    "website": "https://www.vdzo.ch/",
-    "id": "node/10033304132"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7171723,
-      47.3496589
     ]
   }
 },

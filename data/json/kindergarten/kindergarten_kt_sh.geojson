@@ -2066,7 +2066,11 @@
     "addr:street": "Schützengasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "building:levels": "1",
+    "check_date": "2025-02-22",
     "name": "Kindergarten",
+    "roof:levels": "0",
+    "roof:shape": "pyramidal",
     "id": "way/255434379"
   },
   "geometry": {
