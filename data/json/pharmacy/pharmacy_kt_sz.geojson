@@ -155,6 +155,7 @@
     "branch": "Einsiedeln Engel",
     "brand": "Medbase",
     "brand:wikidata": "Q50038690",
+    "check_date": "2025-02-23",
     "healthcare": "pharmacy",
     "name": "Engel",
     "old_name": "Engel Apotheke",
@@ -162,6 +163,7 @@
     "operator": "Medbase Apotheken",
     "phone": "+41 55 418 81 41",
     "website": "https://www.topwell.ch/medbaseapothekeeinsiedelnengel",
+    "wheelchair": "yes",
     "id": "node/800658251"
   },
   "geometry": {
@@ -182,7 +184,10 @@
     "addr:postcode": "8840",
     "addr:street": "Hauptstrasse",
     "amenity": "pharmacy",
+    "check_date": "2025-02-23",
     "name": "Paracelsus Apotheke",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-12:00,13:30-16:00; Su off",
+    "operator": "Albert Kälin",
     "phone": "+41 55 418 40 70",
     "wheelchair": "no",
     "id": "node/800659145"
@@ -190,8 +195,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7458433,
-      47.1274476
+      8.7459477,
+      47.1274116
     ]
   }
 },

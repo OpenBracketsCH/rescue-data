@@ -71223,6 +71223,7 @@
   "id": "way/235549926",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-02-23",
     "name": "Freie Schule Winterthur",
     "id": "way/235549926"
   },
