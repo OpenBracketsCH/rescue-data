@@ -4601,8 +4601,8 @@
     "capacity": "200",
     "name": "Durchgangszentrum St. Peter & Paul",
     "operator": "AOZ, Asylorganisation Zürich",
-    "social_facility": "group_home",
-    "social_facility:for": "migrant",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
     "website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/dz/Kurzzeitunterkunft_Peter_und_Paul.html",
     "id": "way/32650098"
   },

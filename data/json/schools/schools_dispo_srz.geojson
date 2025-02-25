@@ -36555,10 +36555,7 @@
     "addr:street": "Schulweg",
     "amenity": "school",
     "building": "school",
-    "email": "christine.walter@primarschule-uster.ch",
-    "name": "Schulhaus Dorf",
-    "phone": "+41 43 466 94 51",
-    "school": "primary",
+    "name": "Musikschulzentrum Dorf Uster",
     "school:CH": "primarschule",
     "id": "way/112146363"
   },
@@ -55951,68 +55948,6 @@
         [
           8.4480425,
           47.4938957
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/187998672",
-  "properties": {
-    "addr:city": "Uster",
-    "addr:housenumber": "18a",
-    "addr:postcode": "8610",
-    "addr:street": "Florastrasse",
-    "amenity": "school",
-    "building": "yes",
-    "name": "Schulhorte und Mittagstische der Primarschule Uster",
-    "note": "Die Primarschule Uster (inklusive Heilpädagogische Schule Uster) bietet an 7 verschiedenen Standorten schulergänzende Kinderbetreuung an. Die Schulhorte sind während der Schulzeit von 11.50 Uhr bis 18.00 Uhr geöffnet, während der Ferienzeit von 7.30 Uhr b",
-    "phone": "+41 44 944 74 15",
-    "school": "primary",
-    "school:CH": "primarschule",
-    "website": "https://www.uster.ch/de/bildung/primarschule/schulhorte/",
-    "id": "way/187998672"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7204323,
-          47.3469228
-        ],
-        [
-          8.7205413,
-          47.3471664
-        ],
-        [
-          8.7204886,
-          47.3471772
-        ],
-        [
-          8.7205023,
-          47.3472077
-        ],
-        [
-          8.7203389,
-          47.3472413
-        ],
-        [
-          8.7203256,
-          47.3472115
-        ],
-        [
-          8.7203181,
-          47.347213
-        ],
-        [
-          8.7202088,
-          47.3469687
-        ],
-        [
-          8.7204323,
-          47.3469228
         ]
       ]
     ]
@@ -130696,6 +130631,7 @@
     "addr:postcode": "8610",
     "addr:street": "Florastrasse",
     "amenity": "school",
+    "check_date": "2025-02-24",
     "name": "Japanische Schule",
     "id": "node/9958743901"
   },
