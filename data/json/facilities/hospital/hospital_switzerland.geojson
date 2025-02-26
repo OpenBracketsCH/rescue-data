@@ -37631,11 +37631,6 @@
   "type": "Feature",
   "id": "way/675987865",
   "properties": {
-    "addr:city": "Arlesheim",
-    "addr:country": "CH",
-    "addr:housenumber": "1",
-    "addr:postcode": "4144",
-    "addr:street": "Pfeffingerweg",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
@@ -48590,11 +48585,6 @@
   "type": "Feature",
   "id": "way/1212134882",
   "properties": {
-    "addr:city": "Arlesheim",
-    "addr:country": "CH",
-    "addr:housenumber": "12",
-    "addr:postcode": "4144",
-    "addr:street": "Stollenrain",
     "amenity": "clinic",
     "healthcare": "clinic",
     "healthcare:speciality": "palliative",
@@ -48669,11 +48659,11 @@
           47.4921352
         ],
         [
-          7.6130308,
-          47.4921706
+          7.6130232,
+          47.4921739
         ],
         [
-          7.612967,
+          7.6129638,
           47.4920955
         ],
         [

@@ -46152,6 +46152,7 @@
   "id": "node/9718180597",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2024-10-16",
     "contact:city": "Zürich",
     "contact:email": "KinderhausQuelle@montessori-schulung.ch",
     "contact:housenumber": "9",
