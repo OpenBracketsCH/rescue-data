@@ -41738,6 +41738,8 @@
     "highway": "motorway",
     "lanes": "2",
     "lit": "no",
+    "maxheight": "default",
+    "maxheight:signed": "no",
     "maxspeed": "80",
     "nat_name": "N15",
     "old_name": "A53",
