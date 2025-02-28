@@ -25438,97 +25438,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/703439905",
-  "properties": {
-    "amenity": "social_facility",
-    "name": "Gesundheitszentrum für das Alter Rosengarten",
-    "operator": "Stadt Zürich",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "id": "way/703439905"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7292251,
-          47.3464622
-        ],
-        [
-          8.7290896,
-          47.3462856
-        ],
-        [
-          8.7290174,
-          47.3462188
-        ],
-        [
-          8.7290093,
-          47.3461803
-        ],
-        [
-          8.7289676,
-          47.3461844
-        ],
-        [
-          8.728932,
-          47.3461617
-        ],
-        [
-          8.7286962,
-          47.3459916
-        ],
-        [
-          8.7288365,
-          47.3459241
-        ],
-        [
-          8.7291323,
-          47.3458132
-        ],
-        [
-          8.7294006,
-          47.3457258
-        ],
-        [
-          8.7296841,
-          47.3456548
-        ],
-        [
-          8.7298132,
-          47.3456355
-        ],
-        [
-          8.7298793,
-          47.3457836
-        ],
-        [
-          8.7300011,
-          47.3459399
-        ],
-        [
-          8.7302607,
-          47.3462464
-        ],
-        [
-          8.7299713,
-          47.3463073
-        ],
-        [
-          8.7295149,
-          47.3464019
-        ],
-        [
-          8.7292251,
-          47.3464622
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/703921399",
   "properties": {
     "alt_name": "Taubblindenheim Tanne",
@@ -32944,24 +32853,6 @@
     "coordinates": [
       8.5630153,
       47.3687656
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11901154911",
-  "properties": {
-    "amenity": "social_facility",
-    "name": "MNA Zentrum Uster",
-    "operator": "AOZ, Asylorganisation Zürich",
-    "social_facility": "group_home",
-    "id": "node/11901154911"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7292989,
-      47.3460973
     ]
   }
 },

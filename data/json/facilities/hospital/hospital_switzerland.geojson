@@ -51424,6 +51424,7 @@
   "id": "node/4190469089",
   "properties": {
     "addr:city": "Muttenz",
+    "addr:country": "CH",
     "addr:housenumber": "100",
     "addr:postcode": "4132",
     "addr:street": "Kriegackerstrasse",
@@ -55936,7 +55937,7 @@
     "amenity": "clinic",
     "healthcare": "clinic",
     "name": "Centre médical de Bussigny",
-    "opening_hours": "Lundi à vendredi 8h-12h / 13h00 - 17h30",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:30",
     "operator": "EHC",
     "id": "node/11486151188"
   },
@@ -56886,6 +56887,23 @@
     "coordinates": [
       8.5916821,
       47.2628111
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12622822301",
+  "properties": {
+    "amenity": "clinic",
+    "name": "Tagesklinik und Tageszentrum Baden der Psychiatrischen Dienste Aargau AG (PDAG)",
+    "website": "https://www.pdag.ch/ueber-die-pdag/standorte/tagesklinik-und-tageszentrum-baden",
+    "id": "node/12622822301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3020871,
+      47.4745362
     ]
   }
 }
