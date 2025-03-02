@@ -35731,68 +35731,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/108070697",
-  "properties": {
-    "addr:city": "Uster",
-    "addr:housenumber": "2",
-    "addr:postcode": "8610",
-    "addr:street": "Rehbühlstrasse",
-    "amenity": "school",
-    "building": "school",
-    "email": "bws@bws-uster.ch",
-    "name": "Berufswahlschule Uster",
-    "phone": "+41 43 444 23 44",
-    "school": "secondary",
-    "school:CH": "oberstufe",
-    "website": "https://www.bws-uster.ch/",
-    "id": "way/108070697"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7266253,
-          47.3559905
-        ],
-        [
-          8.7264175,
-          47.3557235
-        ],
-        [
-          8.7265862,
-          47.3556633
-        ],
-        [
-          8.7265301,
-          47.3555911
-        ],
-        [
-          8.7267928,
-          47.3554972
-        ],
-        [
-          8.7268673,
-          47.3555929
-        ],
-        [
-          8.7268112,
-          47.355613
-        ],
-        [
-          8.7270007,
-          47.3558564
-        ],
-        [
-          8.7266253,
-          47.3559905
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/108517671",
   "properties": {
     "amenity": "school",
@@ -125498,6 +125436,47 @@
         [
           8.7121961,
           47.1962966
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1363925968",
+  "properties": {
+    "amenity": "school",
+    "email": "bws@bws-uster.ch",
+    "name": "Berufswahlschule Uster",
+    "phone": "+41 43 444 23 44",
+    "school": "secondary",
+    "school:CH": "oberstufe",
+    "website": "https://www.bws-uster.ch/",
+    "id": "way/1363925968"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7266254,
+          47.3560615
+        ],
+        [
+          8.7262941,
+          47.3556458
+        ],
+        [
+          8.726833,
+          47.3554487
+        ],
+        [
+          8.7271643,
+          47.3558644
+        ],
+        [
+          8.7266254,
+          47.3560615
         ]
       ]
     ]

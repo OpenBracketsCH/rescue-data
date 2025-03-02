@@ -40001,16 +40001,11 @@
   "properties": {
     "addr:city": "Moutier",
     "addr:country": "CH",
-    "addr:housenumber": "47",
     "addr:postcode": "2740",
     "addr:street": "Rue Beausite",
     "amenity": "hospital",
     "healthcare": "hospital",
-    "name": "Unité hospitalière pour adolescent",
-    "name:de": "Psychische Gesundheit Abteilung Kinder- und Jugendpsychiatrische Spitalbateilung",
-    "phone": "+41 32 484 72 72",
-    "shop": "UHPA",
-    "website": "https://sante-mentale.ch/public/enfants-et-adolescents/?lang=de",
+    "name": "Hôpital de Moutier",
     "id": "way/677052698"
   },
   "geometry": {
@@ -56904,6 +56899,28 @@
     "coordinates": [
       8.3020871,
       47.4745362
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12628688779",
+  "properties": {
+    "addr:housenumber": "4",
+    "addr:street": "Rue de Chaux",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "ophthalmology;rheumatology;otorhinolaryngology;gynaecology;gastroenterology;dermatovenereology;angiology",
+    "name": "Clinique La Vallée",
+    "website": "www.clival.ch",
+    "wheelchair": "yes",
+    "id": "node/12628688779"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3447094,
+      47.3596151
     ]
   }
 }
