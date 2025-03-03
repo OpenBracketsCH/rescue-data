@@ -4848,6 +4848,7 @@
     "addr:postcode": "8610",
     "addr:street": "Brunnenstrasse",
     "amenity": "hospital",
+    "check_date": "2025-03-02",
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",

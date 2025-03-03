@@ -27279,6 +27279,7 @@
     "addr:postcode": "8610",
     "addr:street": "Brunnenstrasse",
     "amenity": "hospital",
+    "check_date": "2025-03-02",
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
@@ -31453,148 +31454,6 @@
         [
           8.9089235,
           47.5479501
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/672945363",
-  "properties": {
-    "addr:city": "Baden",
-    "addr:housenumber": "1",
-    "addr:postcode": "5404",
-    "addr:street": "Im Ergel",
-    "amenity": "hospital",
-    "emergency": "yes",
-    "fixme": "Umriss nur geschätzt",
-    "healthcare": "hospital",
-    "healthcare:speciality": "intensive",
-    "name": "Kantonsspital Baden",
-    "opening_hours": "24/7",
-    "phone": "+41 56 486 21 11",
-    "short_name": "KSB",
-    "website": "https://www.kantonsspitalbaden.ch/",
-    "wikidata": "Q1728147",
-    "wikipedia": "de:Kantonsspital Baden",
-    "id": "way/672945363"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.2751741,
-          47.4546348
-        ],
-        [
-          8.2759573,
-          47.4541142
-        ],
-        [
-          8.2762751,
-          47.4538748
-        ],
-        [
-          8.276601,
-          47.4536436
-        ],
-        [
-          8.2768652,
-          47.4533579
-        ],
-        [
-          8.2770435,
-          47.4531376
-        ],
-        [
-          8.2775263,
-          47.4524184
-        ],
-        [
-          8.2797224,
-          47.4535624
-        ],
-        [
-          8.2804184,
-          47.454044
-        ],
-        [
-          8.2809851,
-          47.4544026
-        ],
-        [
-          8.2806149,
-          47.4547735
-        ],
-        [
-          8.281435,
-          47.4550555
-        ],
-        [
-          8.2812425,
-          47.4553602
-        ],
-        [
-          8.2806417,
-          47.4556141
-        ],
-        [
-          8.279483,
-          47.4557991
-        ],
-        [
-          8.2794522,
-          47.4560974
-        ],
-        [
-          8.2799001,
-          47.4565517
-        ],
-        [
-          8.2787682,
-          47.4569598
-        ],
-        [
-          8.2783444,
-          47.4569571
-        ],
-        [
-          8.2779743,
-          47.4568999
-        ],
-        [
-          8.277986,
-          47.4566345
-        ],
-        [
-          8.2776242,
-          47.4566351
-        ],
-        [
-          8.2775312,
-          47.4566265
-        ],
-        [
-          8.2774119,
-          47.4565684
-        ],
-        [
-          8.2771066,
-          47.4562715
-        ],
-        [
-          8.2764575,
-          47.4556948
-        ],
-        [
-          8.2757856,
-          47.4551444
-        ],
-        [
-          8.2751741,
-          47.4546348
         ]
       ]
     ]
@@ -49425,6 +49284,145 @@
 },
 {
   "type": "Feature",
+  "id": "way/672945363",
+  "properties": {
+    "addr:city": "Baden",
+    "addr:housenumber": "1",
+    "addr:postcode": "5404",
+    "addr:street": "Im Ergel",
+    "emergency": "yes",
+    "fixme": "Umriss nur geschätzt",
+    "healthcare": "hospital",
+    "healthcare:speciality": "intensive",
+    "name": "Kantonsspital Baden",
+    "opening_hours": "24/7",
+    "phone": "+41 56 486 21 11",
+    "short_name": "KSB",
+    "website": "https://www.kantonsspitalbaden.ch/",
+    "wikidata": "Q1728147",
+    "wikipedia": "de:Kantonsspital Baden",
+    "id": "way/672945363"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.2751741,
+        47.4546348
+      ],
+      [
+        8.2757856,
+        47.4551444
+      ],
+      [
+        8.2764575,
+        47.4556948
+      ],
+      [
+        8.2771066,
+        47.4562715
+      ],
+      [
+        8.2774119,
+        47.4565684
+      ],
+      [
+        8.2775312,
+        47.4566265
+      ],
+      [
+        8.2776242,
+        47.4566351
+      ],
+      [
+        8.277986,
+        47.4566345
+      ],
+      [
+        8.2779743,
+        47.4568999
+      ],
+      [
+        8.2783444,
+        47.4569571
+      ],
+      [
+        8.2787682,
+        47.4569598
+      ],
+      [
+        8.2799001,
+        47.4565517
+      ],
+      [
+        8.2794522,
+        47.4560974
+      ],
+      [
+        8.279483,
+        47.4557991
+      ],
+      [
+        8.2806417,
+        47.4556141
+      ],
+      [
+        8.2812425,
+        47.4553602
+      ],
+      [
+        8.281435,
+        47.4550555
+      ],
+      [
+        8.2806149,
+        47.4547735
+      ],
+      [
+        8.2809851,
+        47.4544026
+      ],
+      [
+        8.2804184,
+        47.454044
+      ],
+      [
+        8.2797224,
+        47.4535624
+      ],
+      [
+        8.2775263,
+        47.4524184
+      ],
+      [
+        8.2770435,
+        47.4531376
+      ],
+      [
+        8.2768652,
+        47.4533579
+      ],
+      [
+        8.276601,
+        47.4536436
+      ],
+      [
+        8.2762751,
+        47.4538748
+      ],
+      [
+        8.2759573,
+        47.4541142
+      ],
+      [
+        8.2751741,
+        47.4546348
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/199578656",
   "properties": {
     "id": "way/199578656"
@@ -51264,6 +51262,33 @@
     "coordinates": [
       9.0852934,
       47.3817146
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4086804269",
+  "properties": {
+    "addr:housenumber": "29",
+    "addr:street": "Chemin du Petit-Flon",
+    "amenity": "hospital",
+    "baby_feeding": "no",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "Motion Lab SA",
+    "opening_hours": "Mo-Th 07:30-19:30, Fr 07:30-18:30",
+    "operator": "Mediclinic",
+    "operator:type": "private",
+    "operator:wikidata": "Q1916123",
+    "phone": "+41 21 512 40 00",
+    "website": "https://www.motion-lab.ch/",
+    "id": "node/4086804269"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6267905,
+      46.5437752
     ]
   }
 },
@@ -56921,6 +56946,22 @@
     "coordinates": [
       7.3447094,
       47.3596151
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12629869241",
+  "properties": {
+    "amenity": "hospital",
+    "name": "KS_B - Kantonsspital Baden",
+    "id": "node/12629869241"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2767016,
+      47.4549503
     ]
   }
 }

@@ -492,6 +492,7 @@
     "addr:street": "Feldhofstrasse",
     "alt_name": "Wache RD Uster",
     "building": "yes",
+    "check_date": "2025-03-02",
     "email": "sekretariat.rettungsdienst@spital-uster.ch",
     "emergency": "ambulance_station",
     "emergency:phone": "144",
