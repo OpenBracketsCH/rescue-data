@@ -1567,6 +1567,7 @@
   "id": "way/43303760",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-03-03",
     "email": "info@ksz.ch",
     "name": "Kantonsschule Zug",
     "opening_hours": "Mo-Fr 07:45-11:40,13:15-15:30",

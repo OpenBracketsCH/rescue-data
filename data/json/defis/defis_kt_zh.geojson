@@ -19979,7 +19979,7 @@
     "level": "0",
     "opening_hours": "Mo-Fr 08:00-12:00,13:15-17:00",
     "operator": "Hauswart Suva Winterthur",
-    "phone": "+41 52 265 70 71",
+    "phone": "+41 52 265 70 77",
     "id": "node/8879542281"
   },
   "geometry": {
@@ -68124,6 +68124,29 @@
     "coordinates": [
       8.5501206,
       47.3061025
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12633769201",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Turnhalle Sonnenberg, Nach Haupteingang 10m an Wand rechts",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "08:00 - 20:00",
+    "operator": "Schule Sonnenberg",
+    "id": "node/12633769201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5573086,
+      47.2936518
     ]
   }
 }

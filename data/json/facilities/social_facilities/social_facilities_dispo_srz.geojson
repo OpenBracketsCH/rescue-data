@@ -42567,14 +42567,9 @@
     "addr:street": "Haslenweg",
     "amenity": "social_facility",
     "building": "yes",
-    "capacity": "30",
-    "email": "etzelblick@tertianum.ch",
-    "name": "Tertianum Etzelblick «Pavillon»",
-    "operator": "Tertianum",
-    "phone": "+41 44 787 47 11",
-    "social_facility": "assisted_living",
-    "social_facility:for": "senior",
-    "website": "https://www.tertianum.ch/de/tertianum-etzelblick-richterswil",
+    "name": "Asylunterkunft",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
     "id": "way/841638533"
   },
   "geometry": {
