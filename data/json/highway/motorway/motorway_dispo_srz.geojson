@@ -61623,7 +61623,7 @@
     "destination:lanes": "Bern;Basel;St. Gallen;Westring Zürich|Chur;Zürich-City|Chur;Zürich-City",
     "highway": "motorway",
     "int_ref": "E 41",
-    "lanes": "3",
+    "lanes": "2",
     "layer": "-4",
     "lit": "yes",
     "maxspeed": "100",

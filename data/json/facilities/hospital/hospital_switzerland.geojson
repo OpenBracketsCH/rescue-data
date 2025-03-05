@@ -56966,6 +56966,26 @@
       47.4549503
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12635826401",
+  "properties": {
+    "amenity": "hospital",
+    "email": "info-cise@magellan.ch",
+    "name": "Centre Imagerie Servette",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "phone": "022 795 25 00",
+    "website": "https://www.magellan.ch/centre/centre-imagerie-servette/",
+    "id": "node/12635826401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1253143,
+      46.2129543
+    ]
+  }
 }
 ]
 }

@@ -58148,6 +58148,23 @@
       47.5004103
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12637914793",
+  "properties": {
+    "amenity": "social_facility",
+    "check_date": "2025-03-05",
+    "name": "Caritas",
+    "id": "node/12637914793"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5222283,
+      47.1948855
+    ]
+  }
 }
 ]
 }
