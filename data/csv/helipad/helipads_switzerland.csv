@@ -502,3 +502,4 @@ FeatureCollection,"{'type': 'Feature', 'id': 'node/11992829989', 'properties': {
 FeatureCollection,"{'type': 'Feature', 'id': 'node/12188042270', 'properties': {'aeroway': 'helipad', 'id': 'node/12188042270'}, 'geometry': {'type': 'Point', 'coordinates': [9.8206389, 46.4175757]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/12285473248', 'properties': {'aeroway': 'helipad', 'id': 'node/12285473248'}, 'geometry': {'type': 'Point', 'coordinates': [8.1897913, 47.2462703]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/12325494271', 'properties': {'aeroway': 'helipad', 'id': 'node/12325494271'}, 'geometry': {'type': 'Point', 'coordinates': [8.6930629, 46.9351339]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/12635349670', 'properties': {'aeroway': 'helipad', 'id': 'node/12635349670'}, 'geometry': {'type': 'Point', 'coordinates': [9.020113, 46.4076201]}}"
