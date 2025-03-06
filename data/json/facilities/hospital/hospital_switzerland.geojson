@@ -56986,6 +56986,27 @@
       46.2129543
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12638719001",
+  "properties": {
+    "addr:housenumber": "7",
+    "addr:postcode": "5400",
+    "addr:street": "Brown Boveri Strasse",
+    "amenity": "clinic",
+    "name": "Ambulatorium Baden, Psychiatrische Dienste Aargau (PDAG)",
+    "phone": "+41564619200",
+    "website": "https://www.pdag.ch/ueber-die-pdag/standorte/ambulatorium-baden",
+    "id": "node/12638719001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3048337,
+      47.4794001
+    ]
+  }
 }
 ]
 }

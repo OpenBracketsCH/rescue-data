@@ -16703,21 +16703,21 @@
   "id": "node/8226599064",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "vor der Feuerwehrgarage",
+    "defibrillator:location": "Eingang Werkplatz Hauswartung",
     "description": "24h öffentlich verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Samariterverein Wädenswil",
-    "phone": "+41 77 848 03 47",
+    "operator": "Stadt Wädenswil",
+    "phone": "+41 44 789 72 11",
     "id": "node/8226599064"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6440612,
-      47.1926178
+      8.6440069,
+      47.1926698
     ]
   }
 },
@@ -87837,6 +87837,54 @@
     "coordinates": [
       8.6828227,
       47.5977264
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12638129001",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Sporthalle BBZ Mühlental",
+    "description": "Immer Verfügbar, ist im Aussenbereich.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "BBZ Schaffhausen",
+    "phone": "+410526322116",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12638129001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6300075,
+      47.7000182
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12638828601",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Walo Bertschinger AG, Giessenstrasse 5, 8953 Dietikon",
+    "description": "Beim Empfang Bürohaus",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:30-17:00",
+    "operator": "Walo Bertschinger AG",
+    "phone": "+41447452311",
+    "id": "node/12638828601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4305002,
+      47.4016648
     ]
   }
 }
