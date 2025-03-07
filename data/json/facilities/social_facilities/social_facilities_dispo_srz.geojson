@@ -53656,6 +53656,7 @@
     "description": "Die BSZ Stiftung ist die drittgrösste Arbeitgeberin im Kanton Schwyz. An mehreren Standorten erhalten Menschen mit Unterstützungsbedarf die Möglichkeit einer Ausbildung, in einer Wohngemeinschaft zu leben oder regelmässig einer Arbeit nachzugehen.",
     "name": "BSZ Stiftung",
     "operator": "BSZ Stiftung",
+    "operator:wikidata": "Q105761109",
     "social_facility:for": "disabled",
     "website": "https://bsz-stiftung.ch/",
     "id": "node/7096245524"

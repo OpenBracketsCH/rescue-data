@@ -2033,8 +2033,10 @@
     "addr:postcode": "8840",
     "addr:street": "Eisenbahnstrasse",
     "amenity": "police",
+    "check_date": "2025-02-24",
     "name": "Polizeiposten Einsiedeln",
     "operator": "Kantonspolizei Schwyz",
+    "operator:wikidata": "Q56705179",
     "phone": "+41 41 819 58 88",
     "website": "https://www.einsiedeln.ch/bezirk/wo-ist-was/polizeiposten",
     "id": "node/457701595"

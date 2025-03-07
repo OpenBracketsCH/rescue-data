@@ -2600,7 +2600,7 @@
     "amenity": "pharmacy",
     "branch": "Winterthur Oberwinterthur",
     "brand": "TopPharm",
-    "check_date:opening_hours": "2023-01-14",
+    "check_date:opening_hours": "2025-03-06",
     "name": "TopPharm Römer Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
     "operator": "TopPharm Genossenschaft",
@@ -2611,8 +2611,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7585129,
-      47.5093841
+      8.7585021,
+      47.5094046
     ]
   }
 },

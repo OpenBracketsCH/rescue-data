@@ -305,118 +305,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/46511032",
-  "properties": {
-    "addr:country": "CH",
-    "addr:housenumber": "11",
-    "addr:postcode": "6340",
-    "addr:street": "Landhausstrasse",
-    "amenity": "hospital",
-    "building": "hospital",
-    "building:levels": "4",
-    "healthcare": "hospital",
-    "healthcare:speciality": "intensive",
-    "name": "Zuger Kantonsspital",
-    "roof:levels": "0",
-    "roof:shape": "flat",
-    "website": "https://www.zgks.ch/",
-    "wheelchair": "yes",
-    "id": "way/46511032"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.518288,
-          47.1944324
-        ],
-        [
-          8.517983,
-          47.1943584
-        ],
-        [
-          8.5179653,
-          47.1943921
-        ],
-        [
-          8.517798,
-          47.1943515
-        ],
-        [
-          8.5177662,
-          47.1943438
-        ],
-        [
-          8.5177877,
-          47.1943049
-        ],
-        [
-          8.5175177,
-          47.1942367
-        ],
-        [
-          8.5170867,
-          47.1941278
-        ],
-        [
-          8.5174403,
-          47.1934494
-        ],
-        [
-          8.5186491,
-          47.1937427
-        ],
-        [
-          8.5186242,
-          47.1937902
-        ],
-        [
-          8.5186445,
-          47.1937951
-        ],
-        [
-          8.5186379,
-          47.1938078
-        ],
-        [
-          8.5186315,
-          47.1938199
-        ],
-        [
-          8.5186113,
-          47.193815
-        ],
-        [
-          8.5185953,
-          47.1938456
-        ],
-        [
-          8.5187078,
-          47.1938729
-        ],
-        [
-          8.5186178,
-          47.1940442
-        ],
-        [
-          8.5185062,
-          47.1940171
-        ],
-        [
-          8.5183593,
-          47.1942966
-        ],
-        [
-          8.518288,
-          47.1944324
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/675987105",
   "properties": {
     "addr:city": "Unterägeri",
@@ -567,6 +455,93 @@
         [
           8.5145005,
           47.1534042
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1365019621",
+  "properties": {
+    "addr:city": "Baar",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "6340",
+    "addr:street": "Landhausstrasse",
+    "amenity": "hospital",
+    "contact:phone": "+41 41 399 11 11",
+    "healthcare": "hospital",
+    "healthcare:speciality": "intensive",
+    "name": "Zuger Kantonsspital",
+    "operator": "Zuger Kantonsspital AG",
+    "website": "https://www.zgks.ch/",
+    "wheelchair": "yes",
+    "id": "way/1365019621"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5175566,
+          47.1929833
+        ],
+        [
+          8.517806,
+          47.193079
+        ],
+        [
+          8.5180816,
+          47.1932344
+        ],
+        [
+          8.5184739,
+          47.1931414
+        ],
+        [
+          8.518722,
+          47.1934499
+        ],
+        [
+          8.5193107,
+          47.1939174
+        ],
+        [
+          8.5194334,
+          47.1940058
+        ],
+        [
+          8.5195253,
+          47.1940536
+        ],
+        [
+          8.5191417,
+          47.1947831
+        ],
+        [
+          8.5183257,
+          47.1946136
+        ],
+        [
+          8.5170811,
+          47.1943134
+        ],
+        [
+          8.5169686,
+          47.194289
+        ],
+        [
+          8.5168612,
+          47.1942464
+        ],
+        [
+          8.5168753,
+          47.1938126
+        ],
+        [
+          8.5175566,
+          47.1929833
         ]
       ]
     ]

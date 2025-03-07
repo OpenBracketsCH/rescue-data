@@ -51349,8 +51349,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7075484,
-      47.4953091
+      8.7075549,
+      47.4953078
     ]
   }
 },
@@ -51365,8 +51365,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7072151,
-      47.4953548
+      8.7072235,
+      47.4953538
     ]
   }
 },
@@ -89294,6 +89294,24 @@
     "coordinates": [
       8.7481222,
       47.3040679
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11245410742",
+  "properties": {
+    "barrier": "lift_gate",
+    "emergency": "yes",
+    "locked": "yes",
+    "motor_vehicle": "no",
+    "id": "node/11245410742"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5872544,
+      47.2631892
     ]
   }
 },

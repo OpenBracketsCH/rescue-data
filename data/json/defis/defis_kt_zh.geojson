@@ -25277,28 +25277,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9463108217",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Schwimmbad Stammheim",
-    "description": "links neben dem Eingang",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "Gemeinde Stammheim",
-    "id": "node/9463108217"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.782163,
-      47.6373513
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9464349744",
   "properties": {
     "defibrillator:location": "Medbase Wetzikon",
@@ -58118,7 +58096,6 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "24/7",
     "operator": "Privatperson",
     "phone": "+41793323360",
     "id": "node/11954725169"
@@ -68191,6 +68168,53 @@
     "coordinates": [
       8.4305002,
       47.4016648
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12640379701",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Messerli AG",
+    "description": "währen der Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2",
+    "operator": "Messerli AG Firma",
+    "phone": "+41 439 31 43 43",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12640379701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.792603,
+      47.3320461
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12641675701",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Neben Rezeption Rieter AG",
+    "description": "Wärend Öffnungszeiten Verfügbar im Notfall",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo- Fr 08:00-17:00",
+    "operator": "Rieter AG",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12641675701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7033981,
+      47.4883794
     ]
   }
 }
