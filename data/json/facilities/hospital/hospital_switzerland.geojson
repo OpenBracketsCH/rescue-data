@@ -23011,12 +23011,8 @@
           47.2637217
         ],
         [
-          8.5895984,
-          47.2637171
-        ],
-        [
-          8.5895149,
-          47.2636587
+          8.5896204,
+          47.2637202
         ],
         [
           8.5891059,
@@ -50743,6 +50739,28 @@
     "coordinates": [
       7.4337567,
       46.9526069
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1388303714",
+  "properties": {
+    "addr:city": "Pully",
+    "addr:housenumber": "10",
+    "addr:postcode": "1009",
+    "addr:street": "Chemin du Pré de la Tour",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Maison de santé",
+    "opening_hours": "Mo-Fr 08:30-18:30,09:00-14:00",
+    "id": "node/1388303714"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.660958,
+      46.5111587
     ]
   }
 },
