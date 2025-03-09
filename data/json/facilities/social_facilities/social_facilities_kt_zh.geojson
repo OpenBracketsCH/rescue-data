@@ -27608,6 +27608,7 @@
     "addr:street": "Tägermoosstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2025-03-08",
     "name": "Alters- und Gesundheitszentrum Tägerhalde",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
@@ -44355,6 +44356,7 @@
     "amenity": "social_facility",
     "mapillary": "202463565049734",
     "name": "RestEssBar Winti Altstadt",
+    "opening_hours": "24/7",
     "social_facility": "food_bank",
     "website": "https://restessbar.ch/de/standorte/winti_altstadt",
     "id": "node/7052781841"

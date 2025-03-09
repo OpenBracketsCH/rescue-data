@@ -980,9 +980,11 @@
     "addr:street": "Albisriederstrasse",
     "amenity": "pharmacy",
     "brand": "Fortis",
+    "check_date": "2025-03-08",
     "dispensing": "yes",
     "drive_through": "no",
     "healthcare": "pharmacy",
+    "level": "0",
     "name": "Apotheke Utogrund",
     "opening_hours": "Mo-We,Fr 07:30-12:30,14:00-18:30; Th 07:30-13:00; Sa 08:00-12:00",
     "website": "https://www.apotheke-utogrund.ch/",
@@ -8055,6 +8057,31 @@
     "coordinates": [
       8.764709,
       47.4854996
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12645581326",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "86",
+    "addr:postcode": "8404",
+    "addr:street": "Sulzerallee",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "eulenapotheke",
+    "opening_hours": "Mo-Fr 09:00-13:00, Tu-Fr 14:00-18:30, Sa 10:00-16:00",
+    "website": "https://eulenapotheke.ch",
+    "wikimedia_commons": "File:Eulenapotheke Winterthur Hegi.jpg",
+    "id": "node/12645581326"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7678264,
+      47.5026302
     ]
   }
 }

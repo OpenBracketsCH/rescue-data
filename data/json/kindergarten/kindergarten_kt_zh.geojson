@@ -7096,115 +7096,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/89578720",
-  "properties": {
-    "addr:housenumber": "12",
-    "addr:postcode": "8051",
-    "addr:street": "Glattwiesenstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "isced:level": "0",
-    "name": "Kindergarten Glattwiesen",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Luchswiesen",
-    "operator:type": "public",
-    "phone": "+41 44 413 76 92",
-    "website": "https://www.stadt-zuerich.ch/schulen/de/luchswiesen/ueberuns/standorte/kindergaerten.html#kindergarten_glattwiesen",
-    "id": "way/89578720"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5820199,
-          47.4019534
-        ],
-        [
-          8.5820982,
-          47.4018845
-        ],
-        [
-          8.5821998,
-          47.4019375
-        ],
-        [
-          8.5821406,
-          47.4019894
-        ],
-        [
-          8.5821597,
-          47.4020211
-        ],
-        [
-          8.5821392,
-          47.4020284
-        ],
-        [
-          8.582167,
-          47.4020743
-        ],
-        [
-          8.5821895,
-          47.4020692
-        ],
-        [
-          8.5822099,
-          47.4021009
-        ],
-        [
-          8.5823068,
-          47.4021087
-        ],
-        [
-          8.5822926,
-          47.4021945
-        ],
-        [
-          8.5821653,
-          47.402185
-        ],
-        [
-          8.5821719,
-          47.4021445
-        ],
-        [
-          8.5821052,
-          47.402141
-        ],
-        [
-          8.5821112,
-          47.402111
-        ],
-        [
-          8.5820623,
-          47.4020325
-        ],
-        [
-          8.5820249,
-          47.4020126
-        ],
-        [
-          8.5820274,
-          47.4020101
-        ],
-        [
-          8.5820295,
-          47.4020111
-        ],
-        [
-          8.5820661,
-          47.4019783
-        ],
-        [
-          8.5820199,
-          47.4019534
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/90179264",
   "properties": {
     "addr:city": "Fehraltorf",
@@ -43459,6 +43350,54 @@
     "coordinates": [
       8.4919226,
       47.3874586
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12645707472",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Glückspilze Kinderkrippe",
+    "id": "node/12645707472"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5852257,
+      47.26106
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12645707488",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Tödi 1",
+    "id": "node/12645707488"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5849197,
+      47.2612846
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12645707490",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Tödi 2",
+    "id": "node/12645707490"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5850642,
+      47.2613101
     ]
   }
 }

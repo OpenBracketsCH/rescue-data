@@ -953,98 +953,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/89578744",
-  "properties": {
-    "addr:housenumber": "10",
-    "addr:postcode": "8051",
-    "addr:street": "Glattwiesenstrasse",
-    "amenity": "childcare",
-    "building": "yes",
-    "name": "Kinderhort Glattwiesen - Moregen-Mittag-Abend",
-    "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Luchswiesen",
-    "operator:type": "public",
-    "phone": "+41 44 413 76 80",
-    "website": "https://www.stadt-zuerich.ch/content/schulen/de/luchswiesen/betreuung/standorte.html",
-    "id": "way/89578744"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5817795,
-          47.4022838
-        ],
-        [
-          8.581779,
-          47.4022583
-        ],
-        [
-          8.5817,
-          47.4022591
-        ],
-        [
-          8.5816987,
-          47.4022112
-        ],
-        [
-          8.5816912,
-          47.4022109
-        ],
-        [
-          8.5816537,
-          47.4021511
-        ],
-        [
-          8.5816593,
-          47.4021481
-        ],
-        [
-          8.5816093,
-          47.4021137
-        ],
-        [
-          8.5816656,
-          47.4020753
-        ],
-        [
-          8.5816377,
-          47.4020566
-        ],
-        [
-          8.5817272,
-          47.4019951
-        ],
-        [
-          8.581818,
-          47.4020564
-        ],
-        [
-          8.581752,
-          47.4021011
-        ],
-        [
-          8.5818113,
-          47.4021967
-        ],
-        [
-          8.5819051,
-          47.4021953
-        ],
-        [
-          8.5819082,
-          47.4022828
-        ],
-        [
-          8.5817795,
-          47.4022838
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/90375350",
   "properties": {
     "addr:city": "Fehraltorf",
@@ -13818,7 +13726,11 @@
   "type": "Feature",
   "id": "node/10064045751",
   "properties": {
+    "addr:housenumber": "253",
+    "addr:street": "Albisriederstrasse",
     "amenity": "childcare",
+    "check_date": "2025-03-08",
+    "level": "0",
     "name": "Tadah",
     "website": "https://tadah.ch",
     "id": "node/10064045751"
@@ -15668,6 +15580,28 @@
     "coordinates": [
       8.718153,
       47.3491426
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12645080324",
+  "properties": {
+    "addr:floor": "U",
+    "addr:housenumber": "252",
+    "addr:street": "Albisriederstrasse",
+    "amenity": "childcare",
+    "check_date": "2025-03-08",
+    "level": "-1",
+    "name": "Erfinder Treff",
+    "website": "https://spielgruppe-erfindertreff.ch",
+    "id": "node/12645080324"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4935382,
+      47.3786123
     ]
   }
 }
