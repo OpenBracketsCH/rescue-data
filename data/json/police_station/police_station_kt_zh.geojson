@@ -1472,6 +1472,7 @@
     "addr:postcode": "8049",
     "addr:street": "Limmattalstrasse",
     "amenity": "police",
+    "check_date": "2025-03-09",
     "name": "Quartierwache Höngg",
     "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00; We-Th 08:00-12:00",
     "operator": "Stadtpolizei Zürich",
