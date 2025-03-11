@@ -1405,7 +1405,7 @@
     "addr:postcode": "8197",
     "addr:street": "Tannewäg",
     "amenity": "fire_station",
-    "building": "yes",
+    "building": "fire_station",
     "name": "Feuerwehr Rafz-Wil - Depot Rafz",
     "id": "way/49749961"
   },

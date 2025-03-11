@@ -15604,6 +15604,22 @@
       47.3786123
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12650131597",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kita fugu",
+    "id": "node/12650131597"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7200682,
+      47.3485545
+    ]
+  }
 }
 ]
 }

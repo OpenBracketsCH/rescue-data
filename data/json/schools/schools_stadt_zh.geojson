@@ -12455,6 +12455,8 @@
     "name:tr": "Zürih Kuzey Kanton Okulu",
     "old_name": "Kantonsschule Oerlikon",
     "operator": "Kanton Zürich, Bildungsdirektion",
+    "operator:type": "government",
+    "operator:wikidata": "Q113033130",
     "short_name": "KZN",
     "website": "https://www.kzn.ch/",
     "wheelchair": "yes",
