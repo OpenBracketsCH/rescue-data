@@ -6531,8 +6531,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4673105,
-      47.314669
+      8.467226,
+      47.3147486
     ]
   }
 },
@@ -68311,6 +68311,100 @@
     "coordinates": [
       8.6875033,
       47.1983553
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12651834801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Interkantonale Hochschule für Heilpädagogik, Schaffhauserstrasse 239",
+    "description": "mit Lift im 2. OG, Durchgang Glastür Foyer, Vorplatz zu Hörsaal 251/252",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2",
+    "opening_hours": "Mo-Fr 07:30 - 19:15",
+    "operator": "Hochschule für Heilpädagogik",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12651834801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.54704,
+      47.4033553
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12651842401",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bibliothek / Hochschule für Heilpädagogik",
+    "description": "Bibliothek",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "operator": "Interkantonale Hochschule für Heilpädagogik",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12651842401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5463596,
+      47.4028259
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12652365701",
+  "properties": {
+    "defibrillator:location": "LAPP SWISS AG",
+    "description": "während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2",
+    "opening_hours": "MO-FR 8:00-17:00",
+    "operator": "Firma LAPP SWISS AG",
+    "id": "node/12652365701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5397286,
+      47.4460964
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12654258001",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haupteingang RAEMI / Rämistrasse 100 - 8091 Zürich",
+    "description": "rechts neben Eingang, bei verschlossener Türe > Klingel betätigen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Universitätsspital Zürich",
+    "phone": "+41442551111",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12654258001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5493588,
+      47.3760855
     ]
   }
 }
