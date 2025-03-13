@@ -6570,7 +6570,7 @@
     "amenity": "school",
     "building": "school",
     "leisure": "sports_centre",
-    "name": "Turnhalle Halti",
+    "name": "Trakt 4",
     "id": "way/308130321"
   },
   "geometry": {
@@ -6614,13 +6614,13 @@
   "id": "way/308130323",
   "properties": {
     "addr:city": "Steinen",
-    "addr:housenumber": "3",
-    "addr:place": "Schulanlage",
+    "addr:housenumber": "1",
     "addr:postcode": "6422",
     "addr:street": "Schulanlage",
     "amenity": "school",
     "building": "school",
-    "name": "Primarschulhaus Steinen",
+    "name": "Trakt 3",
+    "website": "www.pssteinen.ch",
     "id": "way/308130323"
   },
   "geometry": {
@@ -6686,7 +6686,7 @@
     "addr:street": "Schulanlage",
     "amenity": "school",
     "building": "school",
-    "name": "Mehrzweckschulhaus Steinen",
+    "name": "Trakt 1",
     "id": "way/308130324"
   },
   "geometry": {
@@ -6722,13 +6722,13 @@
   "id": "way/308130326",
   "properties": {
     "addr:city": "Steinen",
-    "addr:housenumber": "2",
-    "addr:place": "Schulanlage",
+    "addr:housenumber": "1",
     "addr:postcode": "6422",
     "addr:street": "Schulanlage",
     "amenity": "school",
     "building": "school",
-    "name": "Primarschulhaus Steinen",
+    "name": "Trakt 2",
+    "website": "www.pssteinen.ch",
     "id": "way/308130326"
   },
   "geometry": {
@@ -6740,8 +6740,8 @@
           47.0501809
         ],
         [
-          8.6118415,
-          47.0500931
+          8.6116787,
+          47.0500419
         ],
         [
           8.6119506,
@@ -6934,7 +6934,7 @@
     "addr:street": "Schulanlage",
     "amenity": "school",
     "building": "school",
-    "name": "Bezirksschulhaus Steinen",
+    "name": "MPS Steinen",
     "id": "way/308130343"
   },
   "geometry": {

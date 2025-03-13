@@ -9055,6 +9055,91 @@
 },
 {
   "type": "Feature",
+  "id": "way/61588249",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "32",
+    "addr:postcode": "8032",
+    "addr:street": "Heliosstrasse",
+    "amenity": "clinic",
+    "building": "yes",
+    "building:levels": "3",
+    "email": "krisenintervention.jugendliche@pukzh.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "psychiatry",
+    "name": "Krisenintervention für Jugendliche – Life",
+    "operator": "Psychiatrische Universitätsklinik Zürich",
+    "phone": "+41 58 384 89 89",
+    "roof:levels": "2",
+    "roof:material": "roof_tiles",
+    "roof:shape": "hipped",
+    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "website": "https://www.pukzh.ch/standorte/krisenintervention-fuer-jugendliche-life/",
+    "id": "way/61588249"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5607858,
+          47.3624924
+        ],
+        [
+          8.5608065,
+          47.3625052
+        ],
+        [
+          8.5608098,
+          47.3625028
+        ],
+        [
+          8.5608935,
+          47.3625547
+        ],
+        [
+          8.5608989,
+          47.3625507
+        ],
+        [
+          8.5609633,
+          47.3625906
+        ],
+        [
+          8.5608859,
+          47.3626479
+        ],
+        [
+          8.5608671,
+          47.3626362
+        ],
+        [
+          8.5608057,
+          47.3626817
+        ],
+        [
+          8.5606736,
+          47.3625998
+        ],
+        [
+          8.5607528,
+          47.3625411
+        ],
+        [
+          8.560735,
+          47.3625301
+        ],
+        [
+          8.5607858,
+          47.3624924
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/66519401",
   "properties": {
     "amenity": "clinic",
@@ -11362,6 +11447,164 @@
         [
           8.3801364,
           47.0498848
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/106696860",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "22",
+    "addr:postcode": "8032",
+    "addr:street": "Heliosstrasse",
+    "amenity": "clinic",
+    "building": "yes",
+    "email": "empfang.minervastrasse@pukzh.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "psychiatry",
+    "name": "Alterspsychiatrie und Psychotherapie",
+    "operator": "Psychiatrische Universitätsklinik Zürich",
+    "phone": "+41 58 384 44 11",
+    "roof:levels": "2",
+    "roof:material": "roof_tiles",
+    "roof:shape": "hipped",
+    "website": "https://www.pukzh.ch/standorte/alterspsychiatrie-und-psychotherapie/",
+    "id": "way/106696860"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5602233,
+          47.3629533
+        ],
+        [
+          8.5603156,
+          47.3630115
+        ],
+        [
+          8.5603408,
+          47.3630248
+        ],
+        [
+          8.5602776,
+          47.3630812
+        ],
+        [
+          8.5602796,
+          47.3630818
+        ],
+        [
+          8.5602346,
+          47.3631224
+        ],
+        [
+          8.5601942,
+          47.3631592
+        ],
+        [
+          8.5601685,
+          47.3631462
+        ],
+        [
+          8.5601057,
+          47.3632023
+        ],
+        [
+          8.5601358,
+          47.3632173
+        ],
+        [
+          8.5601091,
+          47.3632451
+        ],
+        [
+          8.560116,
+          47.3632485
+        ],
+        [
+          8.5600433,
+          47.3633252
+        ],
+        [
+          8.559996,
+          47.3633045
+        ],
+        [
+          8.559982,
+          47.3633197
+        ],
+        [
+          8.5599112,
+          47.3632882
+        ],
+        [
+          8.5599257,
+          47.3632732
+        ],
+        [
+          8.559878,
+          47.3632529
+        ],
+        [
+          8.5598815,
+          47.3632491
+        ],
+        [
+          8.5598362,
+          47.3632288
+        ],
+        [
+          8.5599043,
+          47.3631588
+        ],
+        [
+          8.5599479,
+          47.3631783
+        ],
+        [
+          8.5599515,
+          47.3631757
+        ],
+        [
+          8.5599677,
+          47.3631832
+        ],
+        [
+          8.5599928,
+          47.363158
+        ],
+        [
+          8.5599782,
+          47.3631504
+        ],
+        [
+          8.5600161,
+          47.3631163
+        ],
+        [
+          8.5599859,
+          47.3631007
+        ],
+        [
+          8.5601382,
+          47.3629644
+        ],
+        [
+          8.5601656,
+          47.3629785
+        ],
+        [
+          8.5602041,
+          47.3629432
+        ],
+        [
+          8.5602233,
+          47.3629533
         ]
       ]
     ]
@@ -19425,10 +19668,6 @@
   "type": "Feature",
   "id": "way/254959544",
   "properties": {
-    "addr:city": "Liestal",
-    "addr:housenumber": "26",
-    "addr:postcode": "4410",
-    "addr:street": "Rheinstrasse",
     "amenity": "hospital",
     "contact:phone": "+41 61 925 25 25",
     "contact:website": "http://www.ksbl.ch/das-ksbl/standorte/der-standort-liestal",
@@ -44989,9 +45228,10 @@
     "alt_name": "Psychiatrie Zentrum Hegibach",
     "amenity": "clinic",
     "healthcare": "clinic",
-    "name": "Psychiatrische Universitätsklinik Zürich, Klinik für Alterspsychiatrie",
+    "name": "Psychiatrische Universitätsklinik Zürich",
     "operator": "Psychiatrische Universitätsklinik Zürich",
     "short_name": "PUK Klinik für Alterspsychiartrie",
+    "website": "https://www.pukzh.ch/",
     "id": "way/692245776"
   },
   "geometry": {
@@ -47702,6 +47942,133 @@
         [
           7.135172,
           47.1936942
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1079925854",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "145",
+    "addr:postcode": "8032",
+    "addr:street": "Minervastrasse",
+    "amenity": "clinic",
+    "building": "yes",
+    "email": "empfang.minervastrasse@pukzh.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "psychiatry",
+    "name": "Alterspsychiatrie und Psychotherapie",
+    "operator": "Psychiatrische Universitätsklinik Zürich",
+    "phone": "+41 58 384 44 11",
+    "roof:levels": "2",
+    "roof:material": "roof_tiles",
+    "roof:shape": "hipped",
+    "website": "https://www.pukzh.ch/standorte/alterspsychiatrie-und-psychotherapie/",
+    "id": "way/1079925854"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5603408,
+          47.3630248
+        ],
+        [
+          8.5603156,
+          47.3630115
+        ],
+        [
+          8.5602233,
+          47.3629533
+        ],
+        [
+          8.56025,
+          47.3629299
+        ],
+        [
+          8.5602435,
+          47.3629259
+        ],
+        [
+          8.5602712,
+          47.3629047
+        ],
+        [
+          8.5602369,
+          47.3628844
+        ],
+        [
+          8.5602656,
+          47.362863
+        ],
+        [
+          8.5602618,
+          47.3628606
+        ],
+        [
+          8.5602832,
+          47.3628451
+        ],
+        [
+          8.5603072,
+          47.3628267
+        ],
+        [
+          8.5603101,
+          47.3628285
+        ],
+        [
+          8.5603387,
+          47.3628081
+        ],
+        [
+          8.5603727,
+          47.3628274
+        ],
+        [
+          8.5603992,
+          47.3628066
+        ],
+        [
+          8.5605336,
+          47.3628884
+        ],
+        [
+          8.5604827,
+          47.3629274
+        ],
+        [
+          8.5604898,
+          47.362931
+        ],
+        [
+          8.5604353,
+          47.362972
+        ],
+        [
+          8.5604286,
+          47.3629682
+        ],
+        [
+          8.5603785,
+          47.3630067
+        ],
+        [
+          8.5603737,
+          47.3630042
+        ],
+        [
+          8.5603449,
+          47.363027
+        ],
+        [
+          8.5603408,
+          47.3630248
         ]
       ]
     ]

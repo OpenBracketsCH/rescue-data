@@ -1274,6 +1274,7 @@
     "branch": "Uster Illuster",
     "brand": "DROPA",
     "brand:wikidata": "Q1260273",
+    "check_date:opening_hours": "2025-03-12",
     "healthcare": "pharmacy",
     "name": "Dropa Illuster",
     "opening_hours": "Mo-Sa 08:30-20:00",
@@ -4416,8 +4417,8 @@
   "id": "node/2317012355",
   "properties": {
     "amenity": "pharmacy",
-    "check_date": "2023-10-08",
-    "check_date:opening_hours": "2024-01-23",
+    "check_date": "2025-03-12",
+    "check_date:opening_hours": "2025-03-12",
     "dispensing": "yes",
     "drive_through": "no",
     "healthcare": "pharmacy",
