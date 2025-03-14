@@ -3089,7 +3089,7 @@
   "properties": {
     "foot": "no",
     "highway": "trunk",
-    "lanes": "2",
+    "lanes": "1",
     "lit": "yes",
     "maxspeed": "80",
     "oneway": "yes",
@@ -15358,7 +15358,7 @@
   "id": "way/257237954",
   "properties": {
     "highway": "trunk",
-    "lanes": "2",
+    "lanes": "1",
     "layer": "-3",
     "lit": "yes",
     "maxspeed": "80",
