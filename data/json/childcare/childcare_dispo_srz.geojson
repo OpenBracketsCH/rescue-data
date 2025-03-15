@@ -15625,6 +15625,29 @@
       47.3485545
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12663615501",
+  "properties": {
+    "addr:housenumber": "50",
+    "addr:postcode": "8708",
+    "addr:street": "Asylstrasse",
+    "amenity": "childcare",
+    "email": "purzelbaum@maennedorf.ch",
+    "name": "Kita Purtzelbaum",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "phone": "+41449216873",
+    "website": "https://www.schule-maennedorf.ch/kita/967",
+    "id": "node/12663615501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7004218,
+      47.2495039
+    ]
+  }
 }
 ]
 }

@@ -10975,7 +10975,7 @@
   "id": "node/7853369107",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Auf der Gemeindeverwaltung",
+    "defibrillator:location": "Stadthaus Neubau, Eingang, Stadtpolizei",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -28683,27 +28683,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8861522717",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Jelmoli",
-    "description": "während Öffnungszeiten auf verschiedenen Stockwerken",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "operator": "Jelmoli",
-    "id": "node/8861522717"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5372171,
-      47.374248
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8865042917",
   "properties": {
     "access": "no",
@@ -35219,6 +35198,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "1",
     "opening_hours": "Mo-Fr 06:00-22:00; Sa-Su 08:00-20:00",
     "operator": "Fitnesspark Glattpark",
     "phone": "+41 58 568 90 00",
@@ -35227,8 +35207,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5577244,
-      47.4210976
+      8.5579959,
+      47.4210266
     ]
   }
 },
@@ -81777,19 +81757,22 @@
   "id": "node/12278297601",
   "properties": {
     "access": "permissive",
-    "defibrillator:location": "Säule Eingan Halle 3 / 4",
+    "defibrillator:location": "Säule Eingang Halle 3 / 4",
     "description": "Während der Messe verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "1",
+    "operator": "MCH Messe Schweiz (Zürich) AG",
+    "phone": "+41 58 206 50 00",
+    "wheelchair": "limited",
     "id": "node/12278297601"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.553286,
-      47.4112907
+      8.5533325,
+      47.4113092
     ]
   }
 },
@@ -81804,13 +81787,16 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "2",
+    "operator": "MCH Messe Schweiz (Zürich) AG",
+    "phone": "+41 58 206 50 00",
+    "wheelchair": "limited",
     "id": "node/12278298501"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5533309,
-      47.4112907
+      8.5533582,
+      47.4112856
     ]
   }
 },
@@ -81825,13 +81811,16 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "3",
+    "operator": "MCH Messe Schweiz (Zürich) AG",
+    "phone": "+41 58 206 50 00",
+    "wheelchair": "limited",
     "id": "node/12278298701"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5533665,
-      47.4112907
+      8.5533788,
+      47.4112597
     ]
   }
 },
@@ -88208,6 +88197,192 @@
     "coordinates": [
       8.6088018,
       47.413801
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12662177390",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Zentralstrasse 9, Stadthaus Altbau, rechts neben Infotafel",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Stadt Wallisellen",
+    "phone": "+41 44 830 22 79",
+    "id": "node/12662177390"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5932273,
+      47.4164991
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12662459601",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Ergeschoss beim Haupteingang",
+    "description": "Während des Schulbetriebs verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Su 08:00-16.30",
+    "operator": "Gemeinde",
+    "phone": "+4144 806 34 34",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12662459601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6252672,
+      47.3636021
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12662465001",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Kindergarten links",
+    "description": "Während des Schulbetriebs verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Gemeinde",
+    "phone": "+4144 806 34 34",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12662465001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.625396,
+      47.3619815
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12662571001",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Ergeschoss beim Haupteingang",
+    "description": "Während des Schulbetriebs verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeinde",
+    "phone": "+4144 806 34 34",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12662571001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6287033,
+      47.3671888
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12662597201",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Ergeschoss beim Haupteingang Haus 1",
+    "description": "Während des Schulbetriebs verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeinde",
+    "phone": "+4144 806 34 34",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12662597201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6359932,
+      47.3603863
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12662601101",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Kindergarten links",
+    "description": "Während des Schulbetriebs verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeinde",
+    "phone": "+4144 806 34 34",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12662601101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6372702,
+      47.3609061
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12662605502",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Kleinschulhaus EG Haupteingang",
+    "description": "Während des Schulbetriebs verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeinde",
+    "phone": "+4144 806 34 34",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12662605502"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6353765,
+      47.3623158
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12662605603",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Ergeschoss beim Haupteingang rechts",
+    "description": "Während des Schulbetriebs verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeinde",
+    "phone": "+4144 806 34 34",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12662605603"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.643691,
+      47.370037
     ]
   }
 }

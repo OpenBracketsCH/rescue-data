@@ -2749,7 +2749,12 @@
     "addr:street": "Inwilerstrasse",
     "amenity": "school",
     "building": "school",
+    "building:levels": "3",
+    "building:material": "plaster",
+    "check_date": "2025-03-14",
     "name": "Schulhaus Dorfmatt A",
+    "roof:levels": "2",
+    "roof:shape": "hipped",
     "id": "way/54362582"
   },
   "geometry": {

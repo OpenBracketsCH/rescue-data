@@ -10770,15 +10770,13 @@
   "type": "Feature",
   "id": "node/9209001816",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "18",
-    "addr:postcode": "8001",
-    "addr:street": "Goethestrasse",
     "alt_name": "Medizinisch Radiologische Institut",
     "amenity": "clinic",
     "email": "stadelhofen@mri-roentgen.ch",
     "healthcare": "clinic",
+    "level": "1;2;3;4",
     "name": "MRI Stadelhofen",
+    "opening_hours": "Mo-Fr 07:00-20:00",
     "phone": "+41 44 226 20 90",
     "website": "https://www.mri-roentgen.ch/de/standorte/mri-stadelhofen/",
     "id": "node/9209001816"
@@ -11463,6 +11461,97 @@
     "coordinates": [
       8.5916821,
       47.2628111
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12662361589",
+  "properties": {
+    "alt_name": "Medizinisch Radiologische Institut",
+    "amenity": "clinic",
+    "email": "a-bho@mri-roentgen.ch",
+    "healthcare": "clinic",
+    "level": "13",
+    "name": "MRI Bahnhof Oerlikon",
+    "opening_hours": "Mo-Fr 07:00-20:00",
+    "phone": "+41 44 257 20 90",
+    "website": "https://www.mri-roentgen.ch/de/standorte/mri-bahnhof-oerlikon/",
+    "id": "node/12662361589"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5425515,
+      47.4108524
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12662402629",
+  "properties": {
+    "alt_name": "Medizinisch Radiologische Institut",
+    "amenity": "clinic",
+    "email": "a-bhp@mri-roentgen.ch",
+    "healthcare": "clinic",
+    "level": "4",
+    "name": "MRI Bahnhofplatz",
+    "opening_hours": "Mo-Fr 07:00-20:00",
+    "phone": "+41 44 225 20 90",
+    "website": "https://www.mri-roentgen.ch/de/standorte/mri-bahnhofplatz/",
+    "id": "node/12662402629"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5407672,
+      47.3765927
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12662581855",
+  "properties": {
+    "alt_name": "Medizinisch Radiologische Institut",
+    "amenity": "clinic",
+    "email": "ir-bho@mri-roentgen.ch",
+    "healthcare": "clinic",
+    "level": "9",
+    "name": "MRI Interventionelle Radiologie",
+    "opening_hours": "Mo-Fr 08:15-17:45",
+    "phone": "+41 44 542 73 90",
+    "website": "https://www.mri-roentgen.ch/de/standorte/mri-ir-bahnhof-oerlikon/",
+    "id": "node/12662581855"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5425351,
+      47.4108374
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12662603543",
+  "properties": {
+    "alt_name": "Medizinisch Radiologische Institut",
+    "amenity": "clinic",
+    "email": "schulthessklinik@mri-roentgen.ch",
+    "healthcare": "clinic",
+    "name": "MRI Schulthess Klinik",
+    "opening_hours": "Mo-Fr 07:00-20:00",
+    "phone": "+41 44 542 20 90",
+    "website": "https://www.mri-roentgen.ch/de/standorte/mri-schulthess-klinik/",
+    "id": "node/12662603543"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5732986,
+      47.3519337
     ]
   }
 }
