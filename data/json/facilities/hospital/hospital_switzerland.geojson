@@ -57466,6 +57466,28 @@
       47.3519337
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12666343307",
+  "properties": {
+    "addr:floor": "1",
+    "addr:housenumber": "32",
+    "addr:street": "Via Cumünela",
+    "amenity": "clinic",
+    "check_date": "2025-03-15",
+    "healthcare": "clinic",
+    "name": "Polyclinic",
+    "website": "https://www.polyclinic.ch/la-punt/",
+    "id": "node/12666343307"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.9283443,
+      46.5773497
+    ]
+  }
 }
 ]
 }
