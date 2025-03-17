@@ -6075,6 +6075,11 @@
   "id": "way/676291120",
   "properties": {
     "aeroway": "helipad",
+    "building": "yes",
+    "building:colour": "#A18F81",
+    "building:levels": "1",
+    "roof:colour": "#dcdcdc",
+    "roof:shape": "flat",
     "source": "swisstopo SWISSIMAGE",
     "id": "way/676291120"
   },
