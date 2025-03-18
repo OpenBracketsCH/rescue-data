@@ -3389,9 +3389,9 @@
   "id": "node/6287627978",
   "properties": {
     "addr:city": "Kloten",
-    "addr:housenumber": "56",
+    "addr:housenumber": "31",
     "addr:postcode": "8302",
-    "addr:street": "Dorfstrasse",
+    "addr:street": "Lindenstrasse",
     "alt_name": "KomPol Kloten",
     "amenity": "police",
     "name": "Polizeiposten Stadtpolizei Kloten",
@@ -3402,8 +3402,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5882917,
-      47.4517793
+      8.5861436,
+      47.4502183
     ]
   }
 },
@@ -3412,22 +3412,22 @@
   "id": "node/6287627979",
   "properties": {
     "addr:city": "Kloten",
-    "addr:housenumber": "56",
+    "addr:housenumber": "31",
     "addr:postcode": "8302",
-    "addr:street": "Dorfstrasse",
+    "addr:street": "Lindenstrasse",
     "amenity": "police",
     "name": "Polizeiposten Kloten",
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",
     "operator:wikipedia": "de:Kantonspolizei Zürich",
-    "phone": "+41 44 815 80 90",
+    "phone": "+41 58 648 62 40",
     "id": "node/6287627979"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5884414,
-      47.4517427
+      8.5861309,
+      47.4501732
     ]
   }
 },

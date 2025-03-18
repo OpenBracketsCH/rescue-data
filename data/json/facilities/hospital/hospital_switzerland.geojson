@@ -7429,12 +7429,12 @@
           47.3861958
         ],
         [
-          8.0601248,
-          47.3860396
+          8.0601247,
+          47.3860494
         ],
         [
-          8.0602057,
-          47.3860226
+          8.0602161,
+          47.386032
         ],
         [
           8.0607638,
@@ -19977,10 +19977,6 @@
   "type": "Feature",
   "id": "way/255679568",
   "properties": {
-    "addr:city": "Zofingen",
-    "addr:housenumber": "27",
-    "addr:postcode": "4800",
-    "addr:street": "Mühlethalstrasse",
     "amenity": "hospital",
     "healthcare": "hospital",
     "name": "Spital Zofingen",
