@@ -51426,25 +51426,11 @@
 },
 {
   "type": "Feature",
-  "id": "node/3724285344",
-  "properties": {
-    "amenity": "clinic",
-    "name": "Dr. med. Sascha Dunst",
-    "id": "node/3724285344"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.0558961,
-      47.3908788
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3724285355",
   "properties": {
     "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "psychiatry",
     "name": "Externer Psychiatrischer Dienst",
     "id": "node/3724285355"
   },
@@ -51461,6 +51447,7 @@
   "id": "node/3724285372",
   "properties": {
     "amenity": "clinic",
+    "healthcare": "clinic",
     "name": "Skinmed",
     "id": "node/3724285372"
   },
@@ -55466,31 +55453,6 @@
     "coordinates": [
       6.6209044,
       46.7922274
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10083537140",
-  "properties": {
-    "addr:city": "Aarau",
-    "addr:housenumber": "102",
-    "addr:postcode": "5000",
-    "addr:street": "Bahnhofstrasse",
-    "amenity": "clinic",
-    "email": "hausaerzte-aarau@hin.ch",
-    "healthcare": "clinic",
-    "level": "3",
-    "name": "Hausärzte Zentrum Aarau",
-    "phone": "+41 62 552 00 33",
-    "website": "https://hausaerzte-aarau.ch/",
-    "id": "node/10083537140"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.0544966,
-      47.3923967
     ]
   }
 },

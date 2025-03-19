@@ -3530,25 +3530,25 @@
   "type": "Feature",
   "id": "node/9515306314",
   "properties": {
-    "addr:city": "Rafz",
-    "addr:housenumber": "18",
-    "addr:postcode": "8197",
-    "addr:street": "Bahnhofstrasse",
+    "addr:city": "Hüntwangen",
+    "addr:housenumber": "5",
+    "addr:postcode": "8194",
+    "addr:street": "Signalstrasse",
     "advertising": "board",
     "amenity": "police",
     "check_date": "2025-01-23",
-    "name": "Polizeiposten Rafz",
+    "name": "Polizeiposten Rafzerfeld",
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",
     "operator:wikipedia": "de:Kantonspolizei Zürich",
-    "phone": "+41 44 879 20 30",
+    "phone": "+41 58 648 62 30",
     "id": "node/9515306314"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5416249,
-      47.6093392
+      8.5136887,
+      47.5811837
     ]
   }
 },

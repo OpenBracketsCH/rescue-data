@@ -6749,6 +6749,22 @@
       47.366147
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12677020387",
+  "properties": {
+    "amenity": "fire_station",
+    "name": "Feuerwehr Unteramt - Depot Heumoos",
+    "id": "node/12677020387"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.468124,
+      47.322837
+    ]
+  }
 }
 ]
 }

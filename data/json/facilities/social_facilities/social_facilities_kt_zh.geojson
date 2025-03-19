@@ -19988,11 +19988,11 @@
     "addr:street": "Hegnaustrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "email": "wohnheim@arbeitsheim.ch",
-    "name": "Arbeitsheim Wangen",
-    "phone": "+44 44 805 99 00",
-    "social_facility": "nursing_home",
-    "website": "https://www.arbeitsheim.ch/",
+    "email": "info@wohnwerkwangen.ch",
+    "name": "WohnWerkWangen",
+    "phone": "+41 44 805 99 00",
+    "social_facility": "workshop",
+    "website": "https://wohnwerkwangen.ch/",
     "id": "way/187943413"
   },
   "geometry": {
