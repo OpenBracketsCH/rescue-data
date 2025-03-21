@@ -104476,6 +104476,7 @@
     "name": "Primarschule Neuhegi",
     "operator": "Stadt Winterthur",
     "phone": "+41 52 267 29 61",
+    "roof:shape": "flat",
     "website": "https://www.schule-hegi.ch/",
     "id": "way/550450058"
   },

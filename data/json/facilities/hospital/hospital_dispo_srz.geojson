@@ -5389,6 +5389,57 @@
 },
 {
   "type": "Feature",
+  "id": "way/319422859",
+  "properties": {
+    "addr:city": "Pfäffikon (SZ)",
+    "addr:housenumber": "27",
+    "addr:postcode": "8808",
+    "addr:street": "Etzelstrasse",
+    "amenity": "clinic",
+    "building": "commercial",
+    "healthcare": "clinic",
+    "healthcare:speciality": "psychiatry",
+    "name": "Triaplus Ambulante Psychiatrie und Psychotherapie Schwyz",
+    "id": "way/319422859"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.78029,
+          47.2002175
+        ],
+        [
+          8.7799675,
+          47.2002066
+        ],
+        [
+          8.7799782,
+          47.2000462
+        ],
+        [
+          8.7801452,
+          47.2000526
+        ],
+        [
+          8.7801478,
+          47.1999897
+        ],
+        [
+          8.7803088,
+          47.199997
+        ],
+        [
+          8.78029,
+          47.2002175
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/339025313",
   "properties": {
     "addr:city": "Zürich",
