@@ -44392,13 +44392,12 @@
     "email": "info@upd.ch",
     "healthcare": "hospital",
     "healthcare:speciality": "psychiatry",
-    "image": "https://commons.wikimedia.org/wiki/Category:Heil-_und_Pflegeanstalt_Waldau_%28Bern%29",
     "name": "Universitäre Psychiatrische Dienste Bern",
     "phone": "+41 31 930 91 11",
-    "place": "locality",
     "short_name": "UPD",
     "website": "https://www.upd.ch/",
     "wikidata": "Q30254073",
+    "wikimedia_commons": "Category:Universitäre Psychiatrische Dienste (UPD) Bern",
     "wikipedia": "de:Universitäre Psychiatrische Dienste Bern",
     "id": "way/681554155"
   },
@@ -51129,6 +51128,34 @@
 },
 {
   "type": "Feature",
+  "id": "node/771204400",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "8400",
+    "addr:street": "Bankstrasse",
+    "check_date": "2023-06-29",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "opening_hours": "Mo-Fr 07:30-18:00",
+    "operator": "Rodiag",
+    "phone": "+41 58 401 16 00",
+    "website": "rodiag.ch",
+    "wheelchair": "no",
+    "id": "node/771204400"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7254637,
+      47.5013175
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/855146715",
   "properties": {
     "amenity": "clinic",
@@ -51334,6 +51361,32 @@
     "coordinates": [
       6.5653497,
       46.5235488
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2934006680",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:country": "CH",
+    "addr:housenumber": "57",
+    "addr:postcode": "8840",
+    "addr:street": "Kobiboden",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:00; Tu off; Th off",
+    "operator": "Rodiag",
+    "phone": "+41 80 044 00 13",
+    "website": "https://www.rodiag.ch/",
+    "id": "node/2934006680"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.74234,
+      47.1367341
     ]
   }
 },
@@ -54585,11 +54638,16 @@
   "type": "Feature",
   "id": "node/9179770358",
   "properties": {
+    "addr:city": "Rapperswil SG",
+    "addr:housenumber": "59",
+    "addr:postcode": "8640",
+    "addr:street": "Neue Jonastrasse",
     "amenity": "clinic",
     "email": "rapperswil@rodiag.ch",
     "healthcare": "clinic",
     "healthcare:speciality": "radiology",
     "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "operator": "Rodiag",
     "phone": "+41 58 401 14 00",
     "website": "https://www.rodiag.ch/default.asp?langid=de&siteid=1&id=1011000",
     "id": "node/9179770358"
@@ -57495,6 +57553,246 @@
     "coordinates": [
       9.9283443,
       46.5773497
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12686795277",
+  "properties": {
+    "addr:city": "Olten",
+    "addr:housenumber": "18",
+    "addr:postcode": "4600",
+    "addr:street": "Belchenstrasse",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "operator": "Rodiag",
+    "phone": "+41 58 401 12 00",
+    "website": "rodiag.ch",
+    "id": "node/12686795277"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9034726,
+      47.3538411
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12686795278",
+  "properties": {
+    "addr:city": "Solothurn",
+    "addr:housenumber": "3",
+    "addr:postcode": "4500",
+    "addr:street": "Leopoldstrasse",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "operator": "Rodiag",
+    "phone": "+41 58 401 13 00",
+    "website": "rodiag.ch",
+    "id": "node/12686795278"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5321574,
+      47.2044886
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12686894390",
+  "properties": {
+    "addr:city": "Kreuzlingen",
+    "addr:housenumber": "17",
+    "addr:postcode": "8280",
+    "addr:street": "Bernrainstrasse",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "operator": "Rodiag",
+    "phone": "+41 58 401 16 70",
+    "website": "rodiag.ch",
+    "id": "node/12686894390"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1620802,
+      47.6458066
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12686898581",
+  "properties": {
+    "addr:city": "Solothurn",
+    "addr:housenumber": "43",
+    "addr:postcode": "4500",
+    "addr:street": "Zuchwilerstrasse",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "operator": "Rodiag",
+    "phone": "+41 58 401 13 60",
+    "website": "rodiag.ch",
+    "id": "node/12686898581"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5441476,
+      47.2029581
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12687051237",
+  "properties": {
+    "addr:city": "Burgdorf",
+    "addr:housenumber": "18 b",
+    "addr:postcode": "3400",
+    "addr:street": "Bahnhofstrasse",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "operator": "Rodiag",
+    "phone": "+41 58 401 13 40",
+    "website": "rodiag.ch",
+    "id": "node/12687051237"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6247955,
+      47.0590538
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12687074031",
+  "properties": {
+    "addr:city": "Kreuzlingen",
+    "addr:housenumber": "16",
+    "addr:postcode": "8280",
+    "addr:street": "Löwenstrasse",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "operator": "Rodiag",
+    "phone": "+41 58 401 16 60",
+    "website": "rodiag.ch",
+    "id": "node/12687074031"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1719016,
+      47.648031
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12687074100",
+  "properties": {
+    "addr:city": "Wil",
+    "addr:housenumber": "1",
+    "addr:postcode": "9500",
+    "addr:street": "Obere Bahnhofstrasse",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "operator": "Rodiag",
+    "phone": "+41 58 401 16 40",
+    "website": "rodiag.ch",
+    "id": "node/12687074100"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0000385,
+      47.4614777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12687105754",
+  "properties": {
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "5",
+    "addr:postcode": "9000",
+    "addr:street": "Waisenhausstrasse",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "operator": "Rodiag",
+    "phone": "+41 58 401 17 00",
+    "website": "rodiag.ch",
+    "id": "node/12687105754"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3732663,
+      47.4242874
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12687108903",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "19",
+    "addr:postcode": "8810",
+    "addr:street": "Asylstrasse",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "operator": "Rodiag",
+    "phone": "+41 58 401 15 20",
+    "website": "rodiag.ch",
+    "id": "node/12687108903"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5891736,
+      47.2632669
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12687108904",
+  "properties": {
+    "addr:city": "Rapperswil SG",
+    "addr:housenumber": "21;23",
+    "addr:postcode": "8640",
+    "addr:street": "Güterstrasse",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "operator": "Rodiag",
+    "phone": "+41 58 401 14 00",
+    "website": "rodiag.ch",
+    "id": "node/12687108904"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8222082,
+      47.2263664
     ]
   }
 }

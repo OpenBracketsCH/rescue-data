@@ -5010,6 +5010,7 @@
     "addr:street": "Erlenstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "building:levels": "1",
     "isced:level": "0",
     "name": "Kiga Erlen",
     "id": "way/50769297"
@@ -42300,30 +42301,6 @@
     "coordinates": [
       8.5099808,
       47.3812542
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6632963126",
-  "properties": {
-    "amenity": "kindergarten",
-    "contact:city": "Zürich",
-    "contact:housenumber": "169",
-    "contact:phone": "+41 44 413 77 14",
-    "contact:postcode": "8005",
-    "contact:street": "Josefstrasse",
-    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kornhaus/ueberuns/standorte/kindergaerten.html",
-    "name": "Kindergarten Josef",
-    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Kornahus",
-    "operator:type": "public",
-    "id": "node/6632963126"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5254523,
-      47.3851966
     ]
   }
 },

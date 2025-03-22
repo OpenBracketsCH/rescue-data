@@ -12803,6 +12803,34 @@
 },
 {
   "type": "Feature",
+  "id": "node/771204400",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "8400",
+    "addr:street": "Bankstrasse",
+    "check_date": "2023-06-29",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "opening_hours": "Mo-Fr 07:30-18:00",
+    "operator": "Rodiag",
+    "phone": "+41 58 401 16 00",
+    "website": "rodiag.ch",
+    "wheelchair": "no",
+    "id": "node/771204400"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7254637,
+      47.5013175
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1609006619",
   "properties": {
     "addr:city": "Baar",
@@ -12822,6 +12850,32 @@
     "coordinates": [
       8.517523,
       47.1946064
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2934006680",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:country": "CH",
+    "addr:housenumber": "57",
+    "addr:postcode": "8840",
+    "addr:street": "Kobiboden",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:00; Tu off; Th off",
+    "operator": "Rodiag",
+    "phone": "+41 80 044 00 13",
+    "website": "https://www.rodiag.ch/",
+    "id": "node/2934006680"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.74234,
+      47.1367341
     ]
   }
 },
@@ -14579,6 +14633,30 @@
     "coordinates": [
       8.5732986,
       47.3519337
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12687108903",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "19",
+    "addr:postcode": "8810",
+    "addr:street": "Asylstrasse",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "operator": "Rodiag",
+    "phone": "+41 58 401 15 20",
+    "website": "rodiag.ch",
+    "id": "node/12687108903"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5891736,
+      47.2632669
     ]
   }
 }

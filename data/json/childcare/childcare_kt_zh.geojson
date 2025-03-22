@@ -3777,7 +3777,8 @@
     "amenity": "childcare",
     "name": "Betreuung Wartstrasse",
     "operator": "Stadt Winterthur",
-    "operator:type": "public",
+    "operator:type": "government",
+    "operator:wikidata": "Q9125",
     "website": "https://www.schule-langwiesen.ch/angebote/internes-angebot/schulergaenzende-betreuung/p-38/",
     "id": "way/409160830"
   },
@@ -3786,36 +3787,36 @@
     "coordinates": [
       [
         [
-          8.697741,
-          47.5103443
+          8.6977689,
+          47.5103379
         ],
         [
-          8.6975897,
-          47.5100621
+          8.6976202,
+          47.510054
         ],
         [
-          8.6978525,
-          47.5099982
+          8.6978697,
+          47.5099952
         ],
         [
-          8.6979421,
-          47.5101587
+          8.697956,
+          47.5101579
         ],
         [
-          8.697993,
-          47.5102499
+          8.6980052,
+          47.5102454
         ],
         [
-          8.6980092,
-          47.510279
+          8.6980209,
+          47.5102782
         ],
         [
           8.6977795,
           47.5103349
         ],
         [
-          8.697741,
-          47.5103443
+          8.6977689,
+          47.5103379
         ]
       ]
     ]

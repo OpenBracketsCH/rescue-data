@@ -20298,6 +20298,7 @@
     "addr:street": "Erlenstrasse",
     "amenity": "school",
     "building": "school",
+    "building:levels": "2",
     "isced:level": "1",
     "name": "Schulhaus Erlen",
     "id": "way/50769286"

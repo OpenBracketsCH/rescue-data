@@ -615,6 +615,32 @@
 },
 {
   "type": "Feature",
+  "id": "node/2934006680",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:country": "CH",
+    "addr:housenumber": "57",
+    "addr:postcode": "8840",
+    "addr:street": "Kobiboden",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:00; Tu off; Th off",
+    "operator": "Rodiag",
+    "phone": "+41 80 044 00 13",
+    "website": "https://www.rodiag.ch/",
+    "id": "node/2934006680"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.74234,
+      47.1367341
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9990748725",
   "properties": {
     "addr:city": "Reichenburg",
