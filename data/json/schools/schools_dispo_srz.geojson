@@ -1003,6 +1003,10 @@
           47.5123348
         ],
         [
+          8.6993505,
+          47.5126414
+        ],
+        [
           8.6994567,
           47.5127616
         ],
@@ -1213,8 +1217,8 @@
           47.5112107
         ],
         [
-          8.7016429,
-          47.5112331
+          8.7016584,
+          47.5112276
         ],
         [
           8.7015136,
@@ -19415,7 +19419,8 @@
     "addr:postcode": "8408",
     "addr:street": "Riedhofstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
+    "building:levels": "3",
     "contact:email": "info@strickhof.ch",
     "contact:phone": "+41 58 105 91 00",
     "contact:website": "https://www.strickhof.ch/ueber-uns/",
@@ -19423,6 +19428,9 @@
     "name": "Landwirtschaftliche Schule Strickhof",
     "operator": "Strickhof",
     "operator:type": "private",
+    "roof:levels": "2",
+    "roof:material": "roof_tiles",
+    "roof:shape": "hipped",
     "id": "way/39436851"
   },
   "geometry": {
@@ -19454,8 +19462,16 @@
           47.5134045
         ],
         [
+          8.6988938,
+          47.5134161
+        ],
+        [
           8.698738,
           47.513505
+        ],
+        [
+          8.6987644,
+          47.5135261
         ],
         [
           8.6988846,
@@ -24379,72 +24395,6 @@
         [
           8.8539606,
           47.2554148
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/52373547",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "24",
-    "addr:postcode": "8408",
-    "addr:street": "Talhofweg",
-    "amenity": "school",
-    "building": "yes",
-    "name": "Schulhaus Talhof",
-    "ref": "7.23",
-    "id": "way/52373547"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7024908,
-          47.5109548
-        ],
-        [
-          8.7025077,
-          47.51095
-        ],
-        [
-          8.7026955,
-          47.5112469
-        ],
-        [
-          8.7025269,
-          47.5112955
-        ],
-        [
-          8.7025105,
-          47.5112695
-        ],
-        [
-          8.7024761,
-          47.5112152
-        ],
-        [
-          8.70238,
-          47.5110631
-        ],
-        [
-          8.7023626,
-          47.5110682
-        ],
-        [
-          8.702232,
-          47.5108616
-        ],
-        [
-          8.702401,
-          47.5108129
-        ],
-        [
-          8.7024908,
-          47.5109548
         ]
       ]
     ]
@@ -40196,6 +40146,7 @@
   "id": "way/123265062",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-03-22",
     "name": "Primarschule Wollerau",
     "id": "way/123265062"
   },
@@ -40384,6 +40335,7 @@
     "addr:street": "Runggelmatt",
     "amenity": "school",
     "building": "yes",
+    "check_date": "2025-03-22",
     "name": "Schulhaus Runggelmatt",
     "id": "way/123265064"
   },

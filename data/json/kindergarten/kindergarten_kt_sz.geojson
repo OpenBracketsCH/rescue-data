@@ -1290,6 +1290,7 @@
   "id": "node/10072682063",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-03-22",
     "isced:level": "0",
     "name": "ABC Learning Tree",
     "operator": "ABC Learning Tree GmbH",

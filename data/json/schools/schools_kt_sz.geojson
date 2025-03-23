@@ -406,6 +406,7 @@
   "id": "way/123265062",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-03-22",
     "name": "Primarschule Wollerau",
     "id": "way/123265062"
   },
@@ -594,6 +595,7 @@
     "addr:street": "Runggelmatt",
     "amenity": "school",
     "building": "yes",
+    "check_date": "2025-03-22",
     "name": "Schulhaus Runggelmatt",
     "id": "way/123265064"
   },
