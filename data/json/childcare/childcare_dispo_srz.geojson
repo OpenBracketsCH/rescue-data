@@ -13356,6 +13356,7 @@
   "id": "node/9551698730",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-03-23",
     "contact:city": "Zürich",
     "contact:housenumber": "25",
     "contact:phone": "+41 44 413 09 42",
@@ -13377,21 +13378,24 @@
   "type": "Feature",
   "id": "node/9551698731",
   "properties": {
+    "addr:housenumber": "23",
+    "addr:street": "Ferdinand-Hodler-Strasse",
     "amenity": "childcare",
+    "check_date": "2025-03-23",
     "contact:city": "Zürich",
     "contact:housenumber": "23",
     "contact:phone": "+41 44 413 09 43",
     "contact:postcode": "8049",
     "contact:street": "Ferdinand-Hodler-Strasse",
     "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/vogtsrain/betreuung/standorte.html",
-    "name": "Kinderhort Vogtsrain 2 Morgen-Mittag-Abend",
+    "name": "Mittag- und Abendhort Vogtsrain 2",
     "id": "node/9551698731"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4995236,
-      47.4038251
+      8.499516,
+      47.4036856
     ]
   }
 },

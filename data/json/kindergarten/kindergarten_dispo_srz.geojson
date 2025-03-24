@@ -40850,14 +40850,17 @@
   "type": "Feature",
   "id": "node/5649675330",
   "properties": {
+    "addr:housenumber": "23",
+    "addr:street": "Ferdinand-Hodler-Strasse",
     "amenity": "kindergarten",
+    "check_date": "2025-03-23",
     "contact:city": "Zürich",
     "contact:housenumber": "23",
     "contact:phone": "+41 44 413 09 44",
     "contact:postcode": "8049",
     "contact:street": "Ferdinand-Hodler-Strasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/vogtsrain/ueberuns/standorte/kindergaerten.html#kindergaerten_vogtsrain123",
-    "name": "Kindergarten Vogtsrain 1,2,3",
+    "name": "Vogtsrain Kindergarten 3",
     "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Vogtsrain",
     "operator:type": "public",
     "id": "node/5649675330"
@@ -40865,8 +40868,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4995892,
-      47.4040016
+      8.5000473,
+      47.4041455
     ]
   }
 },
@@ -49015,6 +49018,60 @@
     "coordinates": [
       8.5850642,
       47.2613101
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12694825014",
+  "properties": {
+    "addr:housenumber": "23",
+    "addr:street": "Ferdinand-Hodler-Strasse",
+    "amenity": "kindergarten",
+    "check_date": "2025-03-23",
+    "contact:city": "Zürich",
+    "contact:housenumber": "23",
+    "contact:phone": "+41 44 413 09 44",
+    "contact:postcode": "8049",
+    "contact:street": "Ferdinand-Hodler-Strasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/vogtsrain/ueberuns/standorte/kindergaerten.html#kindergaerten_vogtsrain123",
+    "name": "Vogtsrain Kindergarten 1",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Vogtsrain",
+    "operator:type": "public",
+    "id": "node/12694825014"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4990371,
+      47.4040149
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12694825015",
+  "properties": {
+    "addr:housenumber": "23",
+    "addr:street": "Ferdinand-Hodler-Strasse",
+    "amenity": "kindergarten",
+    "check_date": "2025-03-23",
+    "contact:city": "Zürich",
+    "contact:housenumber": "23",
+    "contact:phone": "+41 44 413 09 44",
+    "contact:postcode": "8049",
+    "contact:street": "Ferdinand-Hodler-Strasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/vogtsrain/ueberuns/standorte/kindergaerten.html#kindergaerten_vogtsrain123",
+    "name": "Vogtsrain Kindergarten 2",
+    "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Vogtsrain",
+    "operator:type": "public",
+    "id": "node/12694825015"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4991578,
+      47.4039373
     ]
   }
 }

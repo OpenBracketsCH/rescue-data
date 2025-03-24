@@ -3769,11 +3769,13 @@
     "alt_name": "Apotheke Im Brühl",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date": "2025-03-23",
     "check_date:opening_hours": "2023-09-07",
     "name": "Zürigsund Im Brühl",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
     "operator": "Rotpunkt Pharma",
     "website": "https://www.zuerigsund.ch/",
+    "wheelchair": "yes",
     "id": "node/1625431883"
   },
   "geometry": {
@@ -6561,30 +6563,6 @@
     "coordinates": [
       8.5179841,
       47.3582478
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4922030533",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:postcode": "8049",
-    "alt_name": "Apotheke im Brühl",
-    "amenity": "pharmacy",
-    "brand": "Rotpunkt Apotheke",
-    "check_date:opening_hours": "2024-11-04",
-    "drive_through": "no",
-    "name": "Zürigsund im Brühl",
-    "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:00-19:00",
-    "website": "https://www.zuerigsund.ch/",
-    "id": "node/4922030533"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.498232,
-      47.4031939
     ]
   }
 },
