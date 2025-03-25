@@ -35647,6 +35647,7 @@
   "id": "node/5295851968",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-03-24",
     "contact:city": "Zürich",
     "contact:housenumber": "238",
     "contact:phone": "+41 44 413 74 93",
@@ -35662,8 +35663,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5811323,
-      47.359273
+      8.5812026,
+      47.3593418
     ]
   }
 },

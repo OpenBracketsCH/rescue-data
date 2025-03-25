@@ -4260,6 +4260,7 @@
   "id": "way/1002914617",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-03-24",
     "contact:city": "Zürich",
     "contact:housenumber": "359",
     "contact:phone": "+41 44 413 78 45",
@@ -5601,7 +5602,9 @@
   "id": "node/3571729394",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-03-24",
     "name": "Little Learners",
+    "wheelchair": "limited",
     "id": "node/3571729394"
   },
   "geometry": {
@@ -8416,14 +8419,15 @@
   "id": "node/8289485207",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-03-24",
     "name": "Little Learners",
     "id": "node/8289485207"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5882303,
-      47.3580642
+      8.5882253,
+      47.3581067
     ]
   }
 },
@@ -9672,6 +9676,7 @@
   "id": "node/9245925770",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-03-24",
     "contact:city": "Zürich",
     "contact:housenumber": "61",
     "contact:phone": "+41 44 413 34 20",

@@ -2915,10 +2915,13 @@
     "addr:street": "Hegibachstrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date": "2025-03-24",
     "name": "Klus-Apotheke",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
     "operator": "Rotpunkt Pharma",
+    "phone": "+41 44 381 70 30",
     "website": "https://www.klus-apotheke.ch/",
+    "wheelchair": "yes",
     "id": "node/1359733090"
   },
   "geometry": {
@@ -3543,11 +3546,13 @@
     "amenity": "pharmacy",
     "branch": "Zürich Witikon",
     "brand": "TopPharm",
+    "check_date": "2025-03-24",
     "dispensing": "yes",
     "name": "TopPharm Apotheke Witikon",
     "opening_hours": "Mo-Fr 08:00-12:30, 13:30-18:30; Sa 08:00-16:00",
     "operator": "TopPharm Genossenschaft",
     "website": "https://www.apotheke.ch/witikon",
+    "wheelchair": "yes",
     "id": "node/1836515686"
   },
   "geometry": {

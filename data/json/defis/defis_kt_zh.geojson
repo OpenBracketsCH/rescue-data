@@ -20541,7 +20541,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 08:00-20:00",
+    "opening_hours": "Mo-Sa 08:00-20:00",
     "operator": "Migros",
     "id": "node/8933690617"
   },
@@ -46653,27 +46653,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11038060214",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Schulhaus Obermeilen",
-    "description": "Aussenfassaden Turnhalle auf Seite Pausenplatz",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "id": "node/11038060214"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6575393,
-      47.267561
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11038060215",
   "properties": {
     "defibrillator:location": "Fitnesspark Winterthur 1.OG Links neben dem Eingang",
@@ -48718,31 +48697,6 @@
     "coordinates": [
       8.6476639,
       47.27204
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11266369229",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Schulhaus Feldmeilen, Gebäude B, Eingang aussen",
-    "description": "Jederzeit verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "level": "0",
-    "opening_hours": "24/7",
-    "operator": "Schule Meilen",
-    "phone": "+41 44 925 54 00",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/11266369229"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6232975,
-      47.2772031
     ]
   }
 },
@@ -68763,6 +68717,128 @@
     "coordinates": [
       8.5850065,
       47.4165866
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12696330601",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schloss Kirche, Kirchgass 5, 8627 Grüningen",
+    "description": "beim Durchgang zum Kirchgemeindesaal",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeindeverwaltung",
+    "phone": "+41438337079",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12696330601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7619473,
+      47.2846655
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12696470701",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Mehrzweckhalle Aussergass, In der Gass 9, 8627 Grüningen",
+    "description": "Links vor dem Haupteingang zur MZH",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeindeverwaltung",
+    "phone": "+41438337079",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12696470701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7584274,
+      47.2787242
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12696835101",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Läbesruum, Pflanzschulstrasse 17",
+    "description": "Im Gang vom Empfang zum Eingang des Restaurant",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo - Fr 07:00 -18:00",
+    "operator": "Läbesruum",
+    "phone": "+41 52 235 13 35",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12696835101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7400478,
+      47.4960963
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12696837701",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Werkgebäude Läbesruum",
+    "description": "Im Durchgang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo - Fr 07:00 - 17:00",
+    "operator": "Verein Läbesruum",
+    "phone": "+41 52 235 13 35",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12696837701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7086338,
+      47.5277062
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12697022201",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Manor Letzipark",
+    "description": "Beim Kundendienst auf der oberen Verkaufsebene",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "5",
+    "opening_hours": "Mo-Sa09:00-20:00",
+    "operator": "Manor AG",
+    "phone": "+41444973699",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12697022201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4992015,
+      47.3867318
     ]
   }
 }
