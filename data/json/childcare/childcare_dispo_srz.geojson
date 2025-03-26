@@ -1584,15 +1584,15 @@
     "coordinates": [
       [
         [
-          8.8012901,
-          47.5039045
+          8.8013045,
+          47.5039035
         ],
         [
-          8.8011927,
-          47.5038995
+          8.8012209,
+          47.5038975
         ],
         [
-          8.8011901,
+          8.801218,
           47.5039229
         ],
         [
@@ -1608,16 +1608,16 @@
           47.503889
         ],
         [
-          8.8010221,
-          47.5037802
+          8.8010275,
+          47.5037644
         ],
         [
-          8.8013025,
-          47.5037946
+          8.8013199,
+          47.503781
         ],
         [
-          8.8012901,
-          47.5039045
+          8.8013045,
+          47.5039035
         ]
       ]
     ]
@@ -12626,6 +12626,7 @@
   "id": "node/9534004631",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-03-25",
     "contact:city": "Zürich",
     "contact:housenumber": "43",
     "contact:phone": "+41 44 413 19 35",
@@ -12640,8 +12641,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5333304,
-      47.3891284
+      8.5327941,
+      47.3891292
     ]
   }
 },
@@ -13266,6 +13267,7 @@
   "id": "node/9551487447",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-03-25",
     "contact:city": "Zürich",
     "contact:housenumber": "95",
     "contact:phone": "+41 44 413 78 08",
@@ -13276,13 +13278,14 @@
     "name": "Kinderhort Schaffhauserstrasse - Mittag-Abend",
     "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Milchbuck",
     "operator:type": "public",
+    "wheelchair": "yes",
     "id": "node/9551487447"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.539126,
-      47.39453
+      8.5393056,
+      47.3945191
     ]
   }
 },
@@ -15647,7 +15650,7 @@
     "addr:street": "Asylstrasse",
     "amenity": "childcare",
     "email": "purzelbaum@maennedorf.ch",
-    "name": "Kita Purtzelbaum",
+    "name": "Kita Purzelbaum",
     "opening_hours": "Mo-Fr 07:00-18:00",
     "phone": "+41449216873",
     "website": "https://www.schule-maennedorf.ch/kita/967",
