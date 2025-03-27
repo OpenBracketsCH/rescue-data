@@ -6645,6 +6645,7 @@
   "properties": {
     "addr:street": "Tannewäg",
     "amenity": "fire_station",
+    "check_date": "2025-03-26",
     "name": "Depot Feuerwehr RAWI (Rafz-Wil)",
     "website": "https://www.rafz.ch/verwfeuerwehr",
     "id": "node/10682733224"

@@ -53903,6 +53903,10 @@
   "type": "Feature",
   "id": "node/7056876666",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "6",
+    "addr:postcode": "8050",
+    "addr:street": "Dialogweg",
     "amenity": "social_facility",
     "brand": "Madame Frigo",
     "brand:website": "https://www.madamefrigo.ch/",
@@ -53914,7 +53918,7 @@
     "operator": "foodsharing.de",
     "social_facility": "food_bank",
     "social_facility:for": "everyone",
-    "website": "https://foodsharingschweiz.ch/?page=fairteiler&sub=ft&bid=108&id=941",
+    "website": "https://foodsharing.network/fairteiler/941",
     "wheelchair": "yes",
     "id": "node/7056876666"
   },

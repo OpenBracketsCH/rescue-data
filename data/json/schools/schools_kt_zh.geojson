@@ -49974,6 +49974,10 @@
           47.4241014
         ],
         [
+          8.7005518,
+          47.4240572
+        ],
+        [
           8.7004931,
           47.4240163
         ]
@@ -101652,7 +101656,10 @@
   "type": "Feature",
   "id": "node/9717579180",
   "properties": {
+    "addr:housenumber": "11",
+    "addr:street": "Keltenstrasse",
     "amenity": "school",
+    "capacity": "150",
     "contact:city": "Zürich",
     "contact:email": "info@gdrb.ch",
     "contact:housenumber": "11",
@@ -101660,10 +101667,14 @@
     "contact:postcode": "8044",
     "contact:street": "Keltenstrasse",
     "contact:website": "https://www.gdrb.ch/",
+    "dress_code": "casual",
     "isced:level": "2",
+    "language:de": "yes",
     "name": "Gymnasium Dr. Buchmann",
     "operator": "Stiftung Gymnasium Dr. Buchmann",
     "operator:type": "private",
+    "pedagogy": "mainstream",
+    "school:gender": "mixed",
     "id": "node/9717579180"
   },
   "geometry": {

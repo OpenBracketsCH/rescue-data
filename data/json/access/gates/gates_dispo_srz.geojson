@@ -9048,6 +9048,38 @@
 },
 {
   "type": "Feature",
+  "id": "node/460419758",
+  "properties": {
+    "access": "no",
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "74",
+    "addr:postcode": "8001",
+    "addr:street": "Seilergraben",
+    "barrier": "gate",
+    "capacity": "36",
+    "charge": "Mo-Sa 07:00-24:00 2.00 CHF for first 30m, 1.00 CHF/15m up to 3h, 1.00 CHF/20m up to 10.5h;Nights 1.00 CHF/h;max. 34.00 CHF/24h",
+    "disused:amenity": "parking",
+    "fee": "yes",
+    "layer": "-1",
+    "lit": "yes",
+    "maxheight": "2.50",
+    "name": "Parkgarage am Central",
+    "operator": "Parking Zürich AG",
+    "parking": "underground",
+    "supervised": "no",
+    "id": "node/460419758"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5447612,
+      47.3765931
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/460423269",
   "properties": {
     "barrier": "gate",

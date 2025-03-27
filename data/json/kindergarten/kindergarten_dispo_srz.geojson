@@ -46062,6 +46062,7 @@
     "name": "Montessori Kindergarten Sonne",
     "operator": "Montessori",
     "operator:type": "private",
+    "pedagogy": "montessori",
     "id": "node/9718182069"
   },
   "geometry": {
@@ -46087,6 +46088,7 @@
     "name": "Montessori Kinderhaus",
     "operator": "Montessori",
     "operator:type": "private",
+    "pedagogy": "montessori",
     "id": "node/9718236623"
   },
   "geometry": {

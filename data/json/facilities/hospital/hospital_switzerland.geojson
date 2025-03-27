@@ -16225,7 +16225,6 @@
   "type": "Feature",
   "id": "way/194101694",
   "properties": {
-    "amenity": "hospital",
     "building": "hospital",
     "healthcare": "hospital",
     "name": "Luzerner Kantonsspital Sursee",
@@ -16337,20 +16336,20 @@
           47.1680393
         ],
         [
-          8.1178716,
-          47.1681027
+          8.1178622,
+          47.1680982
         ],
         [
-          8.1178826,
-          47.1681429
+          8.1178072,
+          47.1681482
         ],
         [
-          8.1178474,
-          47.1681836
+          8.1178461,
+          47.168168
         ],
         [
-          8.1179111,
-          47.1682179
+          8.1179244,
+          47.1682053
         ],
         [
           8.1178885,
@@ -37585,7 +37584,7 @@
     "amenity": "hospital",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
-    "name": "Luzerner Kantonsspital - Sursee",
+    "name": "Luzerner Kantonsspital Sursee",
     "phone": "+41 41 926 45 45",
     "short_name": "LUKS Sursee",
     "website": "https://www.luks.ch/standorte/standort-sursee",
@@ -37612,6 +37611,14 @@
           47.1679005
         ],
         [
+          8.1168403,
+          47.167808
+        ],
+        [
+          8.1171577,
+          47.1677682
+        ],
+        [
           8.1174159,
           47.1677875
         ],
@@ -37620,12 +37627,8 @@
           47.1680573
         ],
         [
-          8.1187785,
-          47.168495
-        ],
-        [
-          8.1183413,
-          47.168856
+          8.1187679,
+          47.1685031
         ],
         [
           8.1181481,
@@ -54723,29 +54726,6 @@
     "coordinates": [
       6.5813526,
       46.9032859
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9326879902",
-  "properties": {
-    "addr:city": "Sursee",
-    "addr:housenumber": "16",
-    "addr:postcode": "6210",
-    "addr:street": "Spitalstrasse",
-    "amenity": "hospital",
-    "emergency": "yes",
-    "healthcare": "hospital",
-    "healthcare:speciality": "general",
-    "name": "Luzerner Kantonsspital Sursee",
-    "id": "node/9326879902"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.1174197,
-      47.1682642
     ]
   }
 },
