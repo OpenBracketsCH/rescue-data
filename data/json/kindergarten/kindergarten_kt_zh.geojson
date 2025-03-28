@@ -2507,50 +2507,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/40949272",
-  "properties": {
-    "addr:housenumber": "18",
-    "addr:street": "Wiesenstrasse",
-    "amenity": "kindergarten",
-    "building": "school",
-    "building:levels": "2",
-    "check_date": "2023-10-17",
-    "name": "Kindergarten Wiesenstrasse",
-    "operator": "Stadt Winterthur",
-    "operator:type": "public",
-    "website": "https://www.schule-wiesenstrasse.ch/",
-    "id": "way/40949272"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7148399,
-          47.5079665
-        ],
-        [
-          8.7149893,
-          47.5079464
-        ],
-        [
-          8.7150744,
-          47.5082344
-        ],
-        [
-          8.714925,
-          47.5082545
-        ],
-        [
-          8.7148399,
-          47.5079665
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/41729640",
   "properties": {
     "addr:city": "Langnau a.A.",
@@ -5780,43 +5736,6 @@
         [
           8.5744877,
           47.3420024
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/62215823",
-  "properties": {
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Betreuung Wiesenstrasse",
-    "id": "way/62215823"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7135659,
-          47.5081511
-        ],
-        [
-          8.7135443,
-          47.5080791
-        ],
-        [
-          8.7137503,
-          47.5080509
-        ],
-        [
-          8.7137718,
-          47.5081214
-        ],
-        [
-          8.7135659,
-          47.5081511
         ]
       ]
     ]
@@ -33289,6 +33208,7 @@
     "addr:postcode": "8610",
     "addr:street": "Im Lot",
     "amenity": "kindergarten",
+    "check_date": "2025-03-27",
     "contact:phone": "+41 44 941 91 87",
     "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/796",
     "name": "Kindergarten Im Lot 1+2",
@@ -43437,6 +43357,29 @@
     "coordinates": [
       8.4991578,
       47.4039373
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12705546585",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "18",
+    "addr:postcode": "8400",
+    "addr:street": "Wiesenstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Wiesenstrasse",
+    "operator": "Stadt Winterthur",
+    "operator:type": "government",
+    "operator:wikidata": "Q9125",
+    "id": "node/12705546585"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7149462,
+      47.5080817
     ]
   }
 }
