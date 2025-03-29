@@ -5329,31 +5329,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/932358108",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "1",
-    "addr:postcode": "8406",
-    "addr:street": "Auwiesenstrasse",
-    "amenity": "childcare",
-    "name": "Zwerglihuus Töss",
-    "opening_hours": "Mo-Fr 06:00-18:30",
-    "operator": "Kinderkrippe Zwerglihuus GmbH",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "https://www.zwerglihuus.ch/kita-toess/",
-    "id": "node/932358108"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7099849,
-      47.4839812
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/954788978",
   "properties": {
     "amenity": "childcare",
@@ -8710,6 +8685,7 @@
     "addr:postcode": "8610",
     "addr:street": "Industriestrasse",
     "amenity": "childcare",
+    "check_date": "2025-03-28",
     "contact:phone": "+41 44 940 14 01",
     "contact:website": "http://www.muulwurf.ch",
     "email": "info@muulwurf.ch",

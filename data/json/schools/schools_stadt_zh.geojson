@@ -20676,6 +20676,10 @@
   "type": "Feature",
   "id": "node/9008758163",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "106",
+    "addr:postcode": "8048",
+    "addr:street": "Vulkanstrasse",
     "amenity": "school",
     "contact:city": "Zürich",
     "contact:email": "info.zh@benedict.ch",
@@ -20694,8 +20698,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5285723,
-      47.3793768
+      8.4856659,
+      47.3931481
     ]
   }
 },

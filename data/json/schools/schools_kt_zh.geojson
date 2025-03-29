@@ -17741,11 +17741,18 @@
   "type": "Feature",
   "id": "way/41467422",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "76",
+    "addr:postcode": "8400",
     "addr:street": "Bachtelstrasse",
     "amenity": "school",
     "building": "yes",
+    "building:levels": "2",
     "name": "Schulhaus Bachtelstrasse",
+    "roof:levels": "1",
+    "roof:material": "roof_tiles",
+    "roof:orientation": "along",
+    "roof:shape": "gabled",
     "id": "way/41467422"
   },
   "geometry": {
@@ -34827,8 +34834,8 @@
           47.3176219
         ],
         [
-          8.7980326,
-          47.3179275
+          8.7980793,
+          47.3178842
         ],
         [
           8.7979995,
@@ -100501,6 +100508,10 @@
   "type": "Feature",
   "id": "node/9008758163",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "106",
+    "addr:postcode": "8048",
+    "addr:street": "Vulkanstrasse",
     "amenity": "school",
     "contact:city": "Zürich",
     "contact:email": "info.zh@benedict.ch",
@@ -100519,8 +100530,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5285723,
-      47.3793768
+      8.4856659,
+      47.3931481
     ]
   }
 },
