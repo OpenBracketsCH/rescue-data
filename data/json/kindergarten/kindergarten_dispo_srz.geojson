@@ -20818,8 +20818,7 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Fröschlezzen 1+2",
-    "phone": "+41 44 937 41 08",
-    "phone_2": "+41 44 937 37 41",
+    "phone": "+41 44 937 41 08;+41 44 937 37 41",
     "id": "way/251969228"
   },
   "geometry": {

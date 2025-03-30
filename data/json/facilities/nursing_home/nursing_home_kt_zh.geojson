@@ -24297,6 +24297,7 @@
   "id": "node/925637003",
   "properties": {
     "amenity": "nursing_home",
+    "check_date": "2025-03-29",
     "name": "Stiftung Emilienheim",
     "social_facility:for": "senior",
     "id": "node/925637003"
