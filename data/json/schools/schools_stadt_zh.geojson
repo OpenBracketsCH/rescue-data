@@ -20281,6 +20281,7 @@
   "id": "node/5284050559",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-03-30",
     "contact:city": "Zürich",
     "contact:email": "zuerich@sae.edu",
     "contact:housenumber": "24",

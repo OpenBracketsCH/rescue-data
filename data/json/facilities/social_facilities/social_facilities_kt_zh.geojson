@@ -10182,6 +10182,8 @@
     "operator": "Heilsarmee",
     "phone": "+41 52 226 01 61",
     "roof:levels": "1",
+    "roof:material": "roof_tiles",
+    "roof:shape": "half-hipped",
     "social_facility": "shelter",
     "website": "https://www.heilsarmee.ch/standorte/durchgangsheim-winterthur",
     "id": "way/77539378"
@@ -33200,6 +33202,7 @@
     "addr:street": "Bietenholzstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2025-03-30",
     "name": "Oase Effretikon",
     "social_facility": "group_home",
     "social_facility:for": "senior",
@@ -34247,32 +34250,40 @@
     "coordinates": [
       [
         [
-          8.4472572,
-          47.401359
+          8.4472547,
+          47.4013554
         ],
         [
-          8.4469234,
-          47.4013451
+          8.4469277,
+          47.401344
         ],
         [
-          8.4469389,
-          47.4011657
+          8.4469357,
+          47.4012626
         ],
         [
-          8.446988,
-          47.4011679
+          8.4469419,
+          47.4012004
         ],
         [
-          8.4472726,
-          47.4011784
+          8.4469489,
+          47.4011292
         ],
         [
-          8.4472695,
-          47.4012161
+          8.4469898,
+          47.4011309
         ],
         [
-          8.4472572,
-          47.401359
+          8.447275,
+          47.4011437
+        ],
+        [
+          8.4472688,
+          47.4012158
+        ],
+        [
+          8.4472547,
+          47.4013554
         ]
       ]
     ]

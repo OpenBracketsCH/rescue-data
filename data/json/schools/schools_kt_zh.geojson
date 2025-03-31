@@ -23995,8 +23995,8 @@
           47.5030317
         ],
         [
-          8.7203775,
-          47.5030787
+          8.7204037,
+          47.5031282
         ],
         [
           8.7204765,
@@ -99768,6 +99768,7 @@
   "id": "node/5284050559",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-03-30",
     "contact:city": "Zürich",
     "contact:email": "zuerich@sae.edu",
     "contact:housenumber": "24",

@@ -57643,7 +57643,7 @@
     "name": "RODIAG Diagnostic Centers Röntgeninstitut",
     "operator": "Rodiag",
     "phone": "+41 58 401 12 00",
-    "website": "rodiag.ch",
+    "website": "https://rodiag.ch/",
     "id": "node/12686795277"
   },
   "geometry": {
@@ -57667,7 +57667,7 @@
     "name": "RODIAG Diagnostic Centers Röntgeninstitut",
     "operator": "Rodiag",
     "phone": "+41 58 401 13 00",
-    "website": "rodiag.ch",
+    "website": "https://rodiag.ch/",
     "id": "node/12686795278"
   },
   "geometry": {
@@ -57715,7 +57715,7 @@
     "name": "RODIAG Diagnostic Centers Röntgeninstitut",
     "operator": "Rodiag",
     "phone": "+41 58 401 13 60",
-    "website": "rodiag.ch",
+    "website": "https://rodiag.ch/",
     "id": "node/12686898581"
   },
   "geometry": {
@@ -57739,7 +57739,7 @@
     "name": "RODIAG Diagnostic Centers Röntgeninstitut",
     "operator": "Rodiag",
     "phone": "+41 58 401 13 40",
-    "website": "rodiag.ch",
+    "website": "https://rodiag.ch/",
     "id": "node/12687051237"
   },
   "geometry": {

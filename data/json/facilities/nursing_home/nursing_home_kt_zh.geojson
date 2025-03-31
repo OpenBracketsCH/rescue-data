@@ -19101,6 +19101,7 @@
     "addr:street": "Bietenholzstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2025-03-30",
     "name": "Oase Effretikon",
     "social_facility": "group_home",
     "social_facility:for": "senior",
