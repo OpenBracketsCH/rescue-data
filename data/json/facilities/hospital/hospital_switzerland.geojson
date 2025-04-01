@@ -30827,6 +30827,10 @@
           47.2291212
         ],
         [
+          7.8462345,
+          47.2293911
+        ],
+        [
           7.8464087,
           47.229653
         ],
@@ -44060,7 +44064,7 @@
     "amenity": "hospital",
     "email": "info@spitalmenziken.ch",
     "fax": "+41 62 765 35 25",
-    "fixme": "Unklar, ob sich das Pflegeheim im Gebäude neber der Klinik befindet",
+    "healthcare": "hospital",
     "name": "Asana Spital Menziken",
     "opening_hours": "Mo-Su 10:00-20:00",
     "phone": "+41 62 765 31 31",

@@ -8303,6 +8303,7 @@
   "id": "node/8009129977",
   "properties": {
     "amenity": "childcare",
+    "name": "Berührtsein Musik & Massage",
     "id": "node/8009129977"
   },
   "geometry": {
@@ -13407,6 +13408,7 @@
     "addr:postcode": "8610",
     "addr:street": "Seefeldstrasse",
     "amenity": "childcare",
+    "check_date": "2025-03-31",
     "contact:phone": "+41 44 545 30 53",
     "contact:website": "https://www.kitaseegarten.ch/",
     "max_age": "Kindergarteneintritt",

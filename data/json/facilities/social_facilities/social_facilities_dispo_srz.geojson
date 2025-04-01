@@ -34960,11 +34960,13 @@
     "addr:street": "Sattelstrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "email": "leitung@stanna.ch",
-    "name": "Pflegeheim St. Anna",
-    "phone": "+41 41 833 84 84",
+    "email": "info@rosenpark-gersau.ch",
+    "name": "Rosenpark",
+    "old_name": "Pflegeheim St. Anna",
+    "operator": "Stiftung Alters- und Pflegeheim Rosenpark",
+    "phone": "+41 41 829 81 84",
     "social_facility": "nursing_home",
-    "website": "https://www.stanna.ch/",
+    "website": "https://rosenparkgersau.ch/",
     "id": "way/355779426"
   },
   "geometry": {
@@ -39166,185 +39168,6 @@
         [
           8.4629302,
           47.0994581
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/647029206",
-  "properties": {
-    "addr:city": "Gersau",
-    "addr:housenumber": "4",
-    "addr:postcode": "6442",
-    "addr:street": "Kerngasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "email": "info@rosenpark-gersau.ch",
-    "name": "Alters- und Pflegeheim Rosenpark",
-    "phone": "+41 41 829 81 84",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "website": "https://rosenparkgersau.ch/",
-    "wheelchair": "yes",
-    "id": "way/647029206"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5218648,
-          46.993531
-        ],
-        [
-          8.5218652,
-          46.9934812
-        ],
-        [
-          8.5218429,
-          46.9934812
-        ],
-        [
-          8.5218432,
-          46.9934378
-        ],
-        [
-          8.5219115,
-          46.993438
-        ],
-        [
-          8.5219116,
-          46.9934246
-        ],
-        [
-          8.5219784,
-          46.9934248
-        ],
-        [
-          8.5219785,
-          46.9934113
-        ],
-        [
-          8.5220896,
-          46.9934117
-        ],
-        [
-          8.5220895,
-          46.9934252
-        ],
-        [
-          8.5221563,
-          46.9934254
-        ],
-        [
-          8.5221562,
-          46.9934389
-        ],
-        [
-          8.5222215,
-          46.9934391
-        ],
-        [
-          8.5222217,
-          46.9934065
-        ],
-        [
-          8.5222848,
-          46.9934067
-        ],
-        [
-          8.5222849,
-          46.993393
-        ],
-        [
-          8.5223061,
-          46.9933931
-        ],
-        [
-          8.5223284,
-          46.9933932
-        ],
-        [
-          8.5223283,
-          46.9934069
-        ],
-        [
-          8.5223543,
-          46.9934069
-        ],
-        [
-          8.5223542,
-          46.9934199
-        ],
-        [
-          8.5226805,
-          46.993421
-        ],
-        [
-          8.5226796,
-          46.9935338
-        ],
-        [
-          8.5225968,
-          46.9935335
-        ],
-        [
-          8.52259,
-          46.9935616
-        ],
-        [
-          8.5225371,
-          46.9935618
-        ],
-        [
-          8.5225257,
-          46.9935333
-        ],
-        [
-          8.5224779,
-          46.9935331
-        ],
-        [
-          8.5224759,
-          46.9935515
-        ],
-        [
-          8.5223527,
-          46.9935512
-        ],
-        [
-          8.5223524,
-          46.993589
-        ],
-        [
-          8.5222215,
-          46.9935885
-        ],
-        [
-          8.5222219,
-          46.9935322
-        ],
-        [
-          8.5221083,
-          46.9935319
-        ],
-        [
-          8.5221083,
-          46.9935358
-        ],
-        [
-          8.522041,
-          46.9935356
-        ],
-        [
-          8.522041,
-          46.9935316
-        ],
-        [
-          8.5218648,
-          46.993531
         ]
       ]
     ]
@@ -53584,6 +53407,7 @@
     "addr:street": "Oberlandstrasse",
     "alt_name": "Stiftung Lichthof; Wohn- und Pflegezentrum Lichthof",
     "amenity": "social_facility",
+    "check_date": "2025-03-31",
     "email": "info@stiftung-lichthof.ch",
     "name": "Alters- und Pflegezentrum Neuwies Im Lichthof",
     "phone": "+41 44 944 51 00",
