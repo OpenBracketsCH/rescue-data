@@ -15641,6 +15641,27 @@
       47.2495039
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12719169685",
+  "properties": {
+    "addr:city": "Stäfa",
+    "addr:housenumber": "1",
+    "addr:postcode": "8712",
+    "addr:street": "Verenaweg",
+    "amenity": "childcare",
+    "name": "Teddybär",
+    "website": "https://www.teddybaer-staefa.ch/",
+    "id": "node/12719169685"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7211396,
+      47.2399677
+    ]
+  }
 }
 ]
 }

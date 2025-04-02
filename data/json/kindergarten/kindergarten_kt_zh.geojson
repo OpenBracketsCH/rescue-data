@@ -9722,6 +9722,7 @@
     "addr:street": "Brunnenwiesenstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2025-04-01",
     "contact:phone": "+41 44 940 61 00",
     "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/791",
     "name": "Kindergarten Brunnenwiese",
@@ -41215,27 +41216,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9824761883",
-  "properties": {
-    "addr:city": "Eglisau",
-    "addr:housenumber": "43",
-    "addr:postcode": "8193",
-    "addr:street": "Rheinsfelderstrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Quelle",
-    "operator": "Schule Eglisau",
-    "id": "node/9824761883"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5108217,
-      47.5752593
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9825256438",
   "properties": {
     "addr:city": "Embrach",
@@ -42389,6 +42369,7 @@
     "addr:postcode": "8610",
     "addr:street": "Gschwaderstrasse",
     "amenity": "kindergarten",
+    "check_date": "2025-04-01",
     "name": "Kindergarten Gschwader",
     "id": "node/9958733870"
   },
