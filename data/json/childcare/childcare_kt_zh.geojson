@@ -6378,6 +6378,7 @@
   "id": "node/5132850081",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-04-02",
     "name": "Kinderkrippe am Rietpark",
     "operator:type": "private",
     "id": "node/5132850081"

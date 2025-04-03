@@ -10805,6 +10805,7 @@
   "id": "way/88183052",
   "properties": {
     "amenity": "hospital",
+    "check_date": "2025-04-02",
     "name": "EMS Le Nouveau Prieuré",
     "id": "way/88183052"
   },
