@@ -87993,6 +87993,93 @@
       47.3850617
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12725422215",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housename": "ETH FRB",
+    "addr:housenumber": "112",
+    "addr:postcode": "8044",
+    "addr:street": "Freudenbergstrasse",
+    "barrier": "gate",
+    "locked": "yes",
+    "vehicle": "customers",
+    "id": "node/12725422215"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5556312,
+      47.3855851
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12725475664",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/12725475664"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5554394,
+      47.3849671
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12725490895",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housename": "ETH FRN",
+    "addr:housenumber": "110",
+    "addr:postcode": "8044",
+    "addr:street": "Freudenbergstrasse",
+    "barrier": "gate",
+    "id": "node/12725490895"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5552878,
+      47.3850542
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12726519688",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/12726519688"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5481868,
+      47.4243847
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12726529717",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/12726529717"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5471903,
+      47.4227314
+    ]
+  }
 }
 ]
 }

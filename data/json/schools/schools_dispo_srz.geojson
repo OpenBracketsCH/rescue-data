@@ -12050,6 +12050,7 @@
     "addr:street": "Eschikon",
     "amenity": "school",
     "building": "yes",
+    "check_date": "2025-04-02",
     "name": "AgroVet-Strickhof",
     "website": "https://aln.zh.ch/internet/baudirektion/aln/de/agrovet.html",
     "id": "way/32619449"
