@@ -15612,6 +15612,7 @@
     "addr:street": "Wilstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "building:levels": "2",
     "email": "ursula.pedrazzoli@primarschule-uster.ch",
     "name": "Kindergarten Pünt",
     "phone": "+41 44 941 11 50",

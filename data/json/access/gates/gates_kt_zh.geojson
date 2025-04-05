@@ -9308,6 +9308,7 @@
     "barrier": "gate",
     "bicycle": "no",
     "foot": "yes",
+    "material": "wood",
     "id": "node/678119292"
   },
   "geometry": {
@@ -46418,8 +46419,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4563552,
-      47.400259
+      8.4563548,
+      47.4002601
     ]
   }
 },
@@ -88078,6 +88079,21 @@
     "coordinates": [
       8.5471903,
       47.4227314
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12729750539",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/12729750539"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5391947,
+      47.379682
     ]
   }
 }
