@@ -10032,6 +10032,7 @@
   "id": "node/9243697797",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-03-19",
     "contact:city": "Zürich",
     "contact:housenumber": "269",
     "contact:phone": "+41 44 413 76 90",
@@ -10045,8 +10046,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5078497,
-      47.3930031
+      8.5078584,
+      47.39297
     ]
   }
 },
@@ -14231,6 +14232,7 @@
     "addr:postcode": "8610",
     "addr:street": "Braschlergasse",
     "amenity": "childcare",
+    "check_date": "2025-04-05",
     "contact:phone": "+41 43 311 66 16",
     "contact:website": "https://www.kitafugu.ch/fugu-kinderkrippe-uster/",
     "level": "1",

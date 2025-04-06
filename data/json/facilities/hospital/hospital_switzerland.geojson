@@ -57453,7 +57453,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "ophthalmology;rheumatology;otorhinolaryngology;gynaecology;gastroenterology;dermatovenereology;angiology",
     "name": "Clinique La Vallée",
-    "website": "www.clival.ch",
+    "website": "https://clival.ch/",
     "wheelchair": "yes",
     "id": "node/12628688779"
   },

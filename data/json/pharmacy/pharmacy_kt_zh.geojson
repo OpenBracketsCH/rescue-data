@@ -1049,6 +1049,7 @@
     "opening_hours": "Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-15:00",
     "phone": "+41 43 444 25 00",
     "website": "https://www.apotheke-uster.ch/",
+    "wheelchair": "yes",
     "id": "node/354489329"
   },
   "geometry": {

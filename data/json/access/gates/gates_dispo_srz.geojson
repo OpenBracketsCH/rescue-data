@@ -4638,6 +4638,27 @@
 },
 {
   "type": "Feature",
+  "id": "way/1375042874",
+  "properties": {
+    "barrier": "gate",
+    "id": "way/1375042874"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4451651,
+        47.3964382
+      ],
+      [
+        8.4452064,
+        47.3964253
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/25427486",
   "properties": {
     "barrier": "gate",
@@ -7429,6 +7450,22 @@
     "coordinates": [
       8.5200241,
       47.177912
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/331216446",
+  "properties": {
+    "barrier": "gate",
+    "maxwidth:physical": "1",
+    "id": "node/331216446"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7203527,
+      47.3497366
     ]
   }
 },
@@ -15558,23 +15595,6 @@
     "coordinates": [
       8.6339299,
       47.3964911
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1126763022",
-  "properties": {
-    "barrier": "lift_gate",
-    "bicycle": "yes",
-    "foot": "yes",
-    "id": "node/1126763022"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5953965,
-      47.255888
     ]
   }
 },
@@ -90100,6 +90120,8 @@
     "access": "yes",
     "barrier": "gate",
     "material": "metal",
+    "maxwidth:physical": "1",
+    "source:maxwidth:physical": "ARCore",
     "id": "node/11295365335"
   },
   "geometry": {
@@ -90117,6 +90139,8 @@
     "access": "yes",
     "barrier": "gate",
     "material": "metal",
+    "maxwidth:physical": "1.1",
+    "source:maxwidth:physical": "ARCore",
     "id": "node/11295365336"
   },
   "geometry": {
@@ -101732,6 +101756,23 @@
     "coordinates": [
       8.5391947,
       47.379682
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12730636988",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "node/12730636988"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5952425,
+      47.2597999
     ]
   }
 }

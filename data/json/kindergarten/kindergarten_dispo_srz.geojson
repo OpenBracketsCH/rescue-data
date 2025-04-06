@@ -10185,6 +10185,7 @@
     "addr:street": "Gotthardweg",
     "amenity": "kindergarten",
     "building": "yes",
+    "check_date": "2025-04-05",
     "contact:phone": "+41 44 940 57 57",
     "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/963",
     "name": "Sprachheilkindergarten Gotthardweg",
@@ -44120,29 +44121,6 @@
     "coordinates": [
       8.5301096,
       47.3862449
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9243699769",
-  "properties": {
-    "amenity": "kindergarten",
-    "contact:city": "Zürich",
-    "contact:housenumber": "269",
-    "contact:phone": "+41 44 413 76 91",
-    "contact:postcode": "8005",
-    "contact:street": "Hardturmstrasse",
-    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/pfingstweid/ueberuns/standorte/kindergaerten.html",
-    "name": "Kindergarten Kraftwerk",
-    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Pfingstweid",
-    "id": "node/9243699769"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5078559,
-      47.3929225
     ]
   }
 },
