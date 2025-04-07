@@ -98136,6 +98136,7 @@
   "id": "way/430108656",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-04-05",
     "name": "Feldhofschule",
     "id": "way/430108656"
   },
@@ -131850,6 +131851,27 @@
     "coordinates": [
       8.7306259,
       47.5008766
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12732790371",
+  "properties": {
+    "addr:city": "Kemptthal",
+    "addr:housenumber": "9",
+    "addr:postcode": "8310",
+    "addr:street": "Kemptpark",
+    "amenity": "school",
+    "name": "Speech Academy",
+    "website": "https://www.speech-academy.com/",
+    "id": "node/12732790371"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7047563,
+      47.4513002
     ]
   }
 }

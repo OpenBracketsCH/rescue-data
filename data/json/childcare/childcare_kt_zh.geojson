@@ -14956,6 +14956,28 @@
       47.2399677
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12732789702",
+  "properties": {
+    "addr:floor": "EG",
+    "addr:housenumber": "32",
+    "addr:street": "Freilagerstrasse",
+    "amenity": "childcare",
+    "check_date": "2025-04-06",
+    "level": "0",
+    "name": "Kiddi",
+    "website": "https://kitakiddi.ch/kita-kiddi-2-freilagerstrasse/",
+    "id": "node/12732789702"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4916282,
+      47.3791413
+    ]
+  }
 }
 ]
 }

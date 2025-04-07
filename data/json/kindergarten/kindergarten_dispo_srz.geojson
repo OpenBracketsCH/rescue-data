@@ -4225,6 +4225,7 @@
     "addr:street": "Seewadelstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2025-04-05",
     "name": "Kindergarten Wallberg",
     "id": "way/45208885"
   },

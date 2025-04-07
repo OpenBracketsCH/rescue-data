@@ -1843,9 +1843,9 @@
   "type": "Feature",
   "id": "way/845398099",
   "properties": {
-    "access": "permit",
     "barrier": "lift_gate",
     "horse": "no",
+    "motor_vehicle": "permit",
     "id": "way/845398099"
   },
   "geometry": {
@@ -1856,8 +1856,8 @@
         47.2556604
       ],
       [
-        8.6111901,
-        47.2556357
+        8.6111909,
+        47.2556354
       ],
       [
         8.6112225,
@@ -14274,8 +14274,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5377388,
-      47.3810254
+      8.537155,
+      47.3812116
     ]
   }
 },
@@ -14292,8 +14292,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5377944,
-      47.3809828
+      8.5377634,
+      47.3810053
     ]
   }
 },
@@ -15512,6 +15512,23 @@
     "coordinates": [
       8.5324572,
       47.4081656
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1116188623",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "node/1116188623"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5790824,
+      47.2669156
     ]
   }
 },
@@ -36427,6 +36444,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/3240856018",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "id": "node/3240856018"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5804703,
+      47.2657094
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3240908064",
   "properties": {
     "access": "yes",
@@ -36461,14 +36494,14 @@
   "type": "Feature",
   "id": "node/3240918639",
   "properties": {
-    "barrier": "lift_gate",
+    "barrier": "gate",
     "id": "node/3240918639"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6112627,
-      47.2557228
+      8.611271,
+      47.25572
     ]
   }
 },
@@ -65864,23 +65897,6 @@
     "coordinates": [
       8.973803,
       47.1708907
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8049513626",
-  "properties": {
-    "access": "permit",
-    "barrier": "lift_gate",
-    "horse": "no",
-    "id": "node/8049513626"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6111901,
-      47.2556357
     ]
   }
 },

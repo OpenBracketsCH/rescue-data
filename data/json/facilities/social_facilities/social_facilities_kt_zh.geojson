@@ -48609,6 +48609,93 @@
       47.5137752
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12733635732",
+  "properties": {
+    "addr:city": "Affoltern am Albis",
+    "addr:housenumber": "1",
+    "addr:postcode": "8910",
+    "addr:street": "Obfelderstrasse",
+    "amenity": "social_facility",
+    "name": "ToGoodToGo",
+    "operator": "Migrolino Socar",
+    "social_facility": "food_bank",
+    "id": "node/12733635732"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4386532,
+      47.2716927
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12733635733",
+  "properties": {
+    "addr:city": "Affoltern am Albis",
+    "addr:housenumber": "15",
+    "addr:postcode": "8910",
+    "addr:street": "Büelstrasse",
+    "amenity": "social_facility",
+    "name": "ToGoodToGo",
+    "operator": "Coop Supermarket",
+    "social_facility": "food_bank",
+    "id": "node/12733635733"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.44562,
+      47.273738
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12733635736",
+  "properties": {
+    "addr:city": "Affoltern am Albis",
+    "addr:housenumber": "21",
+    "addr:postcode": "8910",
+    "addr:street": "Obere Bahnhofstrasse",
+    "amenity": "social_facility",
+    "name": "ToGoodToGo",
+    "social_facility": "food_bank",
+    "id": "node/12733635736"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4482919,
+      47.276518
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12733635738",
+  "properties": {
+    "addr:city": "Affoltern am Albis",
+    "addr:housenumber": "6",
+    "addr:postcode": "8910",
+    "addr:street": "Im Wängli",
+    "amenity": "social_facility",
+    "name": "ToGoodToGo",
+    "operator": "Coop Pronto",
+    "social_facility": "food_bank",
+    "id": "node/12733635738"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4534117,
+      47.2838691
+    ]
+  }
 }
 ]
 }
