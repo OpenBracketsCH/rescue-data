@@ -8463,6 +8463,7 @@
     "description": "während Betriebszeiten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "id": "node/7667107713"
   },
   "geometry": {
@@ -89121,6 +89122,122 @@
     "coordinates": [
       8.3734596,
       47.5039635
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12736149101",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Migros-Genossenschafts-Bund, Limmatstrasse 152, 8005 Zürich (neben Empfang zwischen Kiosk und Hotelplan)",
+    "description": "Mo-Fr: 06:00-23:00 Uhr wenn die Schiebetüre am Haupteingang offen ist",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Migros-Genossenschafts-Bund",
+    "phone": "+41 58 570 3362",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12736149101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5312103,
+      47.3855038
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12736159802",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Migros-Genossenschafts-Bund, Heinrichstrasse 216, 8005 Zürich, Am Empfang",
+    "description": "Während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Migros-Genossenschafts-Bund",
+    "phone": "+41 58 570 3362",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12736159802"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5242854,
+      47.3882197
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12736176401",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Migros-Genossenschafts-Bund, Josefstrasse 212, 8005 Zürich",
+    "description": "Gebäudezugang nur mit Badge möglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "operator": "Migros-Genossenschafts-Bund",
+    "phone": "+41 58 570 3362",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12736176401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5230046,
+      47.3870413
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12736432601",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Seitlich unter dem Vordach",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Fehraltorf",
+    "phone": "+41433557813",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12736432601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.755391,
+      47.3884225
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12736435401",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Durchgang zwischen MZH - Schwimmbad",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Fehraltorf",
+    "phone": "+41 43 355 78 13",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12736435401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7567325,
+      47.3900735
     ]
   }
 }
