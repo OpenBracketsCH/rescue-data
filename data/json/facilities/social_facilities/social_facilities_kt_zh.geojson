@@ -665,9 +665,11 @@
     "contact:phone": "+41 52 544 74 74",
     "contact:website": "https://www.tertianum.ch/de/tertianum-gartenhof-winterthur_url-correct",
     "name": "Tertianum Gartenhof",
+    "operator": "Tertianum",
     "roof:levels": "0",
     "roof:shape": "flat",
-    "social_facility": "nursing_home",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
     "type": "multipolygon",
     "id": "relation/13468273"
   },

@@ -4183,6 +4183,7 @@
   "properties": {
     "amenity": "pharmacy",
     "check_date:opening_hours": "2021-02-25",
+    "healthcare": "pharmacy",
     "level": "0",
     "name": "Deutweg Apotheke",
     "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-18:00",

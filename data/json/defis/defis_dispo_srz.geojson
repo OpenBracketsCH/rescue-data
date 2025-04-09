@@ -31631,6 +31631,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Gemeinde Schübelbach",
     "id": "node/9094232019"
   },
@@ -89016,13 +89017,12 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Werkhof Gemeinde Maur",
-    "description": "immer verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "operator": "Gemeinde Maur",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Maur, Zürichstrasse 8, 8124 Maur",
     "phone": "+41449800821",
-    "source": "local_knowledge, defikarte.ch",
     "id": "node/12718810901"
   },
   "geometry": {
@@ -89238,6 +89238,31 @@
     "coordinates": [
       8.7567325,
       47.3900735
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12739161801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bürogebäude ONYX, Eingang links im Sanitätsraum",
+    "description": "Während den Öffungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:00-19:00",
+    "operator": "Unternehmen",
+    "phone": "+41417687668",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12739161801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.513326,
+      47.1902411
     ]
   }
 }
