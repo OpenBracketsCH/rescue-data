@@ -39822,8 +39822,8 @@
           47.2590841
         ],
         [
-          8.6002226,
-          47.2591582
+          8.6002008,
+          47.2591703
         ],
         [
           8.600125,
@@ -52829,30 +52829,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5465299536",
-  "properties": {
-    "amenity": "social_facility",
-    "check_date": "2024-06-24",
-    "fixme": "Nachmieter gesucht ab 1. August 2024. Update: Zettel entfernt 24.6.2024.",
-    "name": "Kinder-Spitex Kanton Zürich",
-    "phone": "+41 842 400 200",
-    "short_name": "kispex",
-    "social_facility": "ambulatory_care",
-    "social_facility:for": "child",
-    "website": "https://kinderspitex-zuerich.ch/",
-    "wheelchair": "no",
-    "id": "node/5465299536"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5389378,
-      47.3933974
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5468999848",
   "properties": {
     "addr:city": "Zürich",
@@ -54826,6 +54802,7 @@
     "addr:street": "Militärstrasse",
     "alt_name": "Kontakt- & Anlaufstellen für Drogenabhängige Kaserne",
     "amenity": "social_facility",
+    "check_date": "2025-04-09",
     "name": "K&A Kaserne",
     "operator": "Stadt Zürich",
     "phone": "+41 44 415 56 90",

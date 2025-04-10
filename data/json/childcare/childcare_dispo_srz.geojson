@@ -3757,6 +3757,49 @@
 },
 {
   "type": "Feature",
+  "id": "way/318298142",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "103",
+    "addr:postcode": "8048",
+    "addr:street": "Am Suteracher",
+    "amenity": "childcare",
+    "building": "yes",
+    "name": "Tierli Spielgruppe",
+    "opening_hours": "Mo-Th 08:30-11:30",
+    "website": "https://spielgruppezuerich.ch/",
+    "id": "way/318298142"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4683755,
+          47.3922971
+        ],
+        [
+          8.468341,
+          47.3922563
+        ],
+        [
+          8.4684734,
+          47.3922049
+        ],
+        [
+          8.4685079,
+          47.3922457
+        ],
+        [
+          8.4683755,
+          47.3922971
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/336843547",
   "properties": {
     "addr:city": "Zürich",

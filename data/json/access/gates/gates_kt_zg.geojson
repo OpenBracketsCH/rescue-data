@@ -2976,6 +2976,24 @@
       47.1922285
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12742163416",
+  "properties": {
+    "barrier": "lift_gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "maxwidth": "1.5",
+    "id": "node/12742163416"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5811663,
+      47.1384204
+    ]
+  }
 }
 ]
 }
