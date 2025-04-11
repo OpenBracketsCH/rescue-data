@@ -438,6 +438,98 @@
 },
 {
   "type": "Feature",
+  "id": "relation/4611410",
+  "properties": {
+    "addr:city": "Elsau",
+    "addr:housenumber": "9",
+    "addr:postcode": "8352",
+    "addr:street": "Im Ebnet",
+    "amenity": "school",
+    "name": "Oberstufenschule Elsau-Schlatt",
+    "type": "multipolygon",
+    "website": "https://www.elsauschlatt.ch/",
+    "id": "relation/4611410"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7994737,
+          47.5021379
+        ],
+        [
+          8.7994385,
+          47.5021353
+        ],
+        [
+          8.798961,
+          47.5020977
+        ],
+        [
+          8.7989745,
+          47.5020195
+        ],
+        [
+          8.7989018,
+          47.5020138
+        ],
+        [
+          8.7989302,
+          47.5018493
+        ],
+        [
+          8.799002,
+          47.5018549
+        ],
+        [
+          8.7990156,
+          47.5017755
+        ],
+        [
+          8.7994816,
+          47.5018121
+        ],
+        [
+          8.799475,
+          47.5018501
+        ],
+        [
+          8.7995219,
+          47.5018538
+        ],
+        [
+          8.7994737,
+          47.5021379
+        ]
+      ],
+      [
+        [
+          8.7991582,
+          47.5018997
+        ],
+        [
+          8.7991423,
+          47.5019986
+        ],
+        [
+          8.7992861,
+          47.5020092
+        ],
+        [
+          8.799302,
+          47.5019102
+        ],
+        [
+          8.7991582,
+          47.5018997
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "relation/7064113",
   "properties": {
     "amenity": "school",
@@ -2867,6 +2959,161 @@
 },
 {
   "type": "Feature",
+  "id": "relation/18974180",
+  "properties": {
+    "addr:city": "Elsau",
+    "addr:housenumber": "7",
+    "addr:postcode": "8352",
+    "addr:street": "Im Ebnet",
+    "amenity": "school",
+    "name": "Oberstufenschule Elsau-Schlatt",
+    "type": "multipolygon",
+    "id": "relation/18974180"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7994255,
+          47.5022158
+        ],
+        [
+          8.7994604,
+          47.5022184
+        ],
+        [
+          8.7994626,
+          47.5022033
+        ],
+        [
+          8.7995634,
+          47.5022111
+        ],
+        [
+          8.7995467,
+          47.5023098
+        ],
+        [
+          8.7995132,
+          47.5023072
+        ],
+        [
+          8.7995068,
+          47.5023447
+        ],
+        [
+          8.7995641,
+          47.5023491
+        ],
+        [
+          8.7995757,
+          47.50235
+        ],
+        [
+          8.79957,
+          47.5023838
+        ],
+        [
+          8.799562,
+          47.5024322
+        ],
+        [
+          8.7995513,
+          47.5024951
+        ],
+        [
+          8.7995385,
+          47.5025003
+        ],
+        [
+          8.7994923,
+          47.5024964
+        ],
+        [
+          8.7994919,
+          47.5024995
+        ],
+        [
+          8.7994802,
+          47.5025049
+        ],
+        [
+          8.7993474,
+          47.5024949
+        ],
+        [
+          8.7993536,
+          47.502452
+        ],
+        [
+          8.7992219,
+          47.5024412
+        ],
+        [
+          8.7992352,
+          47.5023617
+        ],
+        [
+          8.7992749,
+          47.5023646
+        ],
+        [
+          8.7992896,
+          47.5022873
+        ],
+        [
+          8.7993271,
+          47.5022884
+        ],
+        [
+          8.7993419,
+          47.5022127
+        ],
+        [
+          8.799378,
+          47.5022151
+        ],
+        [
+          8.7993778,
+          47.5022126
+        ],
+        [
+          8.7994255,
+          47.5022158
+        ]
+      ],
+      [
+        [
+          8.7994385,
+          47.5021353
+        ],
+        [
+          8.7994255,
+          47.5022158
+        ],
+        [
+          8.7994604,
+          47.5022184
+        ],
+        [
+          8.7994626,
+          47.5022033
+        ],
+        [
+          8.7994737,
+          47.5021379
+        ],
+        [
+          8.7994385,
+          47.5021353
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/5068100",
   "properties": {
     "amenity": "school",
@@ -3368,9 +3615,11 @@
     "addr:street": "Büelrainstrasse",
     "amenity": "school",
     "building": "yes",
-    "building:roof": "tile",
+    "building:levels": "3",
     "check_date": "2025-02-16",
     "name": "Gesamtschule Villa Büel",
+    "roof:levels": "1",
+    "roof:material": "roof_tiles",
     "id": "way/22703667"
   },
   "geometry": {
@@ -11471,49 +11720,6 @@
         [
           8.5344296,
           47.3826878
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/33058286",
-  "properties": {
-    "addr:city": "Oberhasli",
-    "addr:housenumber": "15",
-    "addr:postcode": "8156",
-    "addr:street": "Rietwiesenstrasse",
-    "amenity": "school",
-    "building": "school",
-    "check_date": "2025-01-04",
-    "name": "Privatschule One School Global",
-    "website": "https://www.oneschoolglobal.com/",
-    "id": "way/33058286"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5016005,
-          47.4642199
-        ],
-        [
-          8.501806,
-          47.464139
-        ],
-        [
-          8.501875,
-          47.4642192
-        ],
-        [
-          8.5016694,
-          47.4643
-        ],
-        [
-          8.5016005,
-          47.4642199
         ]
       ]
     ]
@@ -24602,6 +24808,7 @@
     "amenity": "school",
     "building": "school",
     "name": "Privatschule Ellen Grüninger",
+    "operator:type": "private",
     "source": "bing, survey",
     "id": "way/81692283"
   },
@@ -29312,43 +29519,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/96998324",
-  "properties": {
-    "amenity": "school",
-    "building": "yes",
-    "source": "bing",
-    "id": "way/96998324"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7709515,
-          47.250491
-        ],
-        [
-          8.7707807,
-          47.2502992
-        ],
-        [
-          8.7709388,
-          47.2502343
-        ],
-        [
-          8.7711096,
-          47.250426
-        ],
-        [
-          8.7709515,
-          47.250491
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/97467858",
   "properties": {
     "amenity": "school",
@@ -32323,6 +32493,7 @@
     "building": "school",
     "name": "Primarschulhaus Süd",
     "source": "http://www.ps-elsau.ch/wb/;local knowledge",
+    "website": "https://www.elsauschlatt.ch/",
     "id": "way/112792736"
   },
   "geometry": {
@@ -40695,6 +40866,7 @@
   "properties": {
     "amenity": "school",
     "name": "Primarschule Elsau",
+    "website": "https://www.elsauschlatt.ch/",
     "id": "way/148743368"
   },
   "geometry": {
@@ -43854,24 +44026,48 @@
     "coordinates": [
       [
         [
-          8.4463143,
-          47.4047514
+          8.4463094,
+          47.4047319
         ],
         [
-          8.4463233,
-          47.4046214
+          8.4463159,
+          47.4046288
         ],
         [
-          8.4466402,
-          47.4046315
+          8.4463332,
+          47.4046293
         ],
         [
-          8.4466311,
-          47.4047615
+          8.4463339,
+          47.404617
         ],
         [
-          8.4463143,
-          47.4047514
+          8.4464071,
+          47.4046191
+        ],
+        [
+          8.4465221,
+          47.4046225
+        ],
+        [
+          8.4466521,
+          47.4046262
+        ],
+        [
+          8.4466438,
+          47.404758
+        ],
+        [
+          8.4463256,
+          47.4047488
+        ],
+        [
+          8.4463266,
+          47.4047324
+        ],
+        [
+          8.4463094,
+          47.4047319
         ]
       ]
     ]
@@ -74493,6 +74689,7 @@
     "addr:street": "Schaffhauserstrasse",
     "amenity": "school",
     "name": "Privatschule Morgentau",
+    "operator:type": "private",
     "id": "way/414226141"
   },
   "geometry": {
@@ -77059,8 +77256,8 @@
           47.4962868
         ],
         [
-          8.7290915,
-          47.4962839
+          8.7290408,
+          47.4962827
         ],
         [
           8.7289234,
@@ -77815,49 +78012,6 @@
         [
           8.6149564,
           47.3888242
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/446323915",
-  "properties": {
-    "addr:city": "Oberhasli",
-    "addr:housenumber": "17",
-    "addr:postcode": "8156",
-    "addr:street": "Rietwiesenstrasse",
-    "amenity": "school",
-    "building": "school",
-    "check_date": "2025-01-04",
-    "name": "Privatschule One School Global",
-    "website": "https://www.oneschoolglobal.com/",
-    "id": "way/446323915"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5015323,
-          47.4641403
-        ],
-        [
-          8.5017378,
-          47.4640597
-        ],
-        [
-          8.501806,
-          47.464139
-        ],
-        [
-          8.5016005,
-          47.4642199
-        ],
-        [
-          8.5015323,
-          47.4641403
         ]
       ]
     ]
@@ -85916,6 +86070,7 @@
   "properties": {
     "amenity": "school",
     "name": "Privatschule IWW",
+    "operator:type": "private",
     "id": "way/684117682"
   },
   "geometry": {
@@ -99265,6 +99420,45 @@
 },
 {
   "type": "Feature",
+  "id": "way/1376574855",
+  "properties": {
+    "amenity": "school",
+    "building": "school",
+    "name": "Privatschule One School Global",
+    "operator:type": "private",
+    "website": "https://www.oneschoolglobal.com/",
+    "id": "way/1376574855"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.501545,
+          47.4643972
+        ],
+        [
+          8.5013694,
+          47.4641743
+        ],
+        [
+          8.5019871,
+          47.4639119
+        ],
+        [
+          8.5021766,
+          47.4641493
+        ],
+        [
+          8.501545,
+          47.4643972
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/256335788",
   "properties": {
     "amenity": "school",
@@ -99680,7 +99874,9 @@
   "id": "node/1419824274",
   "properties": {
     "amenity": "school",
-    "name": "Feldbach",
+    "isced:level": "1",
+    "name": "Schule Feldbach",
+    "operator:type": "public",
     "id": "node/1419824274"
   },
   "geometry": {
@@ -99696,14 +99892,15 @@
   "id": "node/1419828508",
   "properties": {
     "amenity": "school",
-    "name": "Schulhaus Gmeindmatt",
+    "name": "Schule Gmeindmatt",
+    "operator:type": "public",
     "id": "node/1419828508"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7711183,
-      47.2503029
+      8.7711532,
+      47.2502756
     ]
   }
 },
@@ -100421,6 +100618,7 @@
     "addr:street": "Bühlwiesenstrasse",
     "amenity": "school",
     "name": "Privatschule EVENTA",
+    "operator:type": "private",
     "id": "node/5308771121"
   },
   "geometry": {
@@ -101711,6 +101909,7 @@
     "contact:street": "Toblerstrasse",
     "contact:website": "https://www.tobli.ch/Kontakt.html",
     "name": "Privatschule Toblerstrasse",
+    "operator:type": "private",
     "id": "node/9662243007"
   },
   "geometry": {
@@ -103021,6 +103220,7 @@
     "amenity": "school",
     "check_date": "2024-07-01",
     "name": "Privatschule Portanova",
+    "operator:type": "private",
     "id": "node/9850693839"
   },
   "geometry": {
@@ -103169,6 +103369,7 @@
     "addr:street": "Wolfhagstrasse",
     "amenity": "school",
     "name": "Privatschule Tany Fitiavana",
+    "operator:type": "private",
     "id": "node/9887494790"
   },
   "geometry": {
@@ -103189,6 +103390,7 @@
     "addr:street": "Tösstalstrasse",
     "amenity": "school",
     "name": "Privatschule Neue Lernwelt",
+    "operator:type": "private",
     "id": "node/9899510313"
   },
   "geometry": {
@@ -103370,6 +103572,7 @@
     "addr:street": "Werner-Weber-Strasse",
     "amenity": "school",
     "name": "Privatschule 9plus",
+    "operator:type": "private",
     "id": "node/9944260752"
   },
   "geometry": {
@@ -103523,6 +103726,7 @@
     "amenity": "school",
     "check_date": "2025-02-21",
     "name": "Kobuki Privatschule",
+    "operator:type": "private",
     "id": "node/9960710277"
   },
   "geometry": {
@@ -103994,6 +104198,23 @@
     "coordinates": [
       8.7047563,
       47.4513002
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12745515479",
+  "properties": {
+    "amenity": "school",
+    "name": "Schule Eichberg",
+    "operator:type": "public",
+    "id": "node/12745515479"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7724483,
+      47.2499369
     ]
   }
 }

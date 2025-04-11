@@ -33190,6 +33190,7 @@
     "amenity": "kindergarten",
     "isced:level": "0",
     "name": "Kindergarten Altes Dörfli",
+    "operator:type": "public",
     "website": "https://www.schulehombrechtikon.ch/p19000033.html",
     "id": "node/1927786950"
   },
@@ -42372,8 +42373,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7079226,
-      47.3522217
+      8.707412,
+      47.3519265
     ]
   }
 },

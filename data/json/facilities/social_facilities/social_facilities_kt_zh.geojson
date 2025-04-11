@@ -33703,66 +33703,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/692399193",
-  "properties": {
-    "addr:place": "8810",
-    "amenity": "social_facility",
-    "building": "apartments",
-    "name": "PWG Strickler",
-    "operator": "Stiftung Amalie Widmer (SAWH)",
-    "social_facility": "nursing_home",
-    "id": "way/692399193"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5928348,
-          47.2590956
-        ],
-        [
-          8.5927868,
-          47.2590455
-        ],
-        [
-          8.5928357,
-          47.2589953
-        ],
-        [
-          8.592874,
-          47.2589426
-        ],
-        [
-          8.5930339,
-          47.2589953
-        ],
-        [
-          8.5930964,
-          47.2590873
-        ],
-        [
-          8.5929081,
-          47.2591914
-        ],
-        [
-          8.5928695,
-          47.2591639
-        ],
-        [
-          8.5928149,
-          47.2591394
-        ],
-        [
-          8.5928348,
-          47.2590956
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/692526832",
   "properties": {
     "addr:city": "Buchs ZH",
@@ -48673,6 +48613,26 @@
     "coordinates": [
       8.4534117,
       47.2838691
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12744324506",
+  "properties": {
+    "amenity": "social_facility",
+    "description": "Pflegewohngruppe",
+    "name": "PWG Strickler",
+    "operator": "Stiftung Amalie Widmer (SAWH)",
+    "social_facility": "nursing_home",
+    "website": "https://wohnchetti.ch/strickler.php",
+    "id": "node/12744324506"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5929038,
+      47.259066
     ]
   }
 }

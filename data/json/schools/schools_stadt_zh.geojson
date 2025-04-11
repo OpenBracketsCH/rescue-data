@@ -21099,6 +21099,7 @@
     "contact:street": "Toblerstrasse",
     "contact:website": "https://www.tobli.ch/Kontakt.html",
     "name": "Privatschule Toblerstrasse",
+    "operator:type": "private",
     "id": "node/9662243007"
   },
   "geometry": {
