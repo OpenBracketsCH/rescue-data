@@ -602,6 +602,7 @@
   "properties": {
     "amenity": "school",
     "building": "yes",
+    "name": "Gewerblich-industrielles Bildungszentrum Zug",
     "id": "way/29583196"
   },
   "geometry": {

@@ -50666,6 +50666,7 @@
   "id": "node/473379001",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2025-04-11",
     "denomination": "catholic",
     "name": "Katholische Hochschulseelsorge",
     "operator": "Katholische Hochschulgemeinde",
@@ -53649,8 +53650,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7328951,
-      47.4946906
+      8.7329039,
+      47.4947057
     ]
   }
 },
