@@ -1882,12 +1882,15 @@
   "type": "Feature",
   "id": "way/22702052",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "7",
+    "addr:postcode": "8400",
     "addr:street": "Konradstrasse",
     "amenity": "social_facility",
     "building": "apartments",
     "building:levels": "6",
     "name": "Konradhof",
+    "roof:shape": "flat",
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "id": "way/22702052"
@@ -1992,6 +1995,8 @@
     "operator": "Heilsarmee",
     "phone": "+41 52 208 90 50",
     "roof:levels": "2",
+    "roof:material": "roof_tiles",
+    "roof:orientation": "across",
     "roof:shape": "gabled",
     "social_facility": "assisted_living",
     "website": "https://www.heilsarmee.ch/standorte/wohnheim-winterthur",
@@ -2002,24 +2007,28 @@
     "coordinates": [
       [
         [
-          8.720094,
-          47.5016424
+          8.7201134,
+          47.5016429
         ],
         [
-          8.7201652,
-          47.5017347
+          8.7201756,
+          47.5017272
         ],
         [
-          8.7200615,
-          47.5017693
+          8.7201818,
+          47.5017348
         ],
         [
-          8.7199957,
-          47.5016775
+          8.7200428,
+          47.5017801
         ],
         [
-          8.720094,
-          47.5016424
+          8.7199798,
+          47.5016887
+        ],
+        [
+          8.7201134,
+          47.5016429
         ]
       ]
     ]

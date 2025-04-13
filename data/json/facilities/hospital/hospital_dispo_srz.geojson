@@ -12806,7 +12806,7 @@
     "addr:housenumber": "20",
     "addr:postcode": "8400",
     "addr:street": "Bankstrasse",
-    "check_date": "2023-06-29",
+    "check_date": "2025-04-12",
     "healthcare": "clinic",
     "healthcare:speciality": "radiology",
     "name": "RODIAG Diagnostic Centers Röntgeninstitut",
@@ -13141,7 +13141,9 @@
   "type": "Feature",
   "id": "node/5507116089",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "19",
+    "addr:postcode": "8400",
     "addr:street": "Rudolfstrasse",
     "amenity": "clinic",
     "check_date": "2023-06-27",
