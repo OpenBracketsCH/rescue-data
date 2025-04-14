@@ -1087,6 +1087,7 @@
     "height": "16",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Einsiedeln_altes_Schulhaus.JPG/800px-Einsiedeln_altes_Schulhaus.JPG",
     "name": "Altes Schulhaus",
+    "roof:levels": "1",
     "roof:material": "roof_tiles",
     "roof:shape": "3dr",
     "wikidata": "Q29881481",

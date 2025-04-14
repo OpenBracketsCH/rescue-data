@@ -36595,64 +36595,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/112146363",
-  "properties": {
-    "addr:city": "Uster",
-    "addr:housenumber": "6",
-    "addr:postcode": "8610",
-    "addr:street": "Schulweg",
-    "amenity": "school",
-    "building": "school",
-    "name": "Musikschulzentrum Dorf Uster",
-    "school:CH": "primarschule",
-    "id": "way/112146363"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7152026,
-          47.3467772
-        ],
-        [
-          8.7151332,
-          47.3466902
-        ],
-        [
-          8.7152243,
-          47.3466568
-        ],
-        [
-          8.715169,
-          47.3465876
-        ],
-        [
-          8.7153256,
-          47.3465302
-        ],
-        [
-          8.7155027,
-          47.346752
-        ],
-        [
-          8.715331,
-          47.346815
-        ],
-        [
-          8.7152786,
-          47.3467493
-        ],
-        [
-          8.7152026,
-          47.3467772
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/112176100",
   "properties": {
     "amenity": "school",
@@ -50680,6 +50622,7 @@
     "height": "16",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Einsiedeln_altes_Schulhaus.JPG/800px-Einsiedeln_altes_Schulhaus.JPG",
     "name": "Altes Schulhaus",
+    "roof:levels": "1",
     "roof:material": "roof_tiles",
     "roof:shape": "3dr",
     "wikidata": "Q29881481",

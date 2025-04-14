@@ -51620,6 +51620,39 @@
 },
 {
   "type": "Feature",
+  "id": "node/2900408003",
+  "properties": {
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "3012",
+    "addr:street": "Parkterrasse",
+    "amenity": "clinic",
+    "branch": "Bern Bahnhof",
+    "contact:email": "bern-bahnhof@medbase.ch",
+    "contact:fax": "+41 31 335 50 80",
+    "contact:phone": "+41 31 335 50 00",
+    "description": "Praxiszentrum mit Walk-in-Notfall",
+    "emergency": "yes",
+    "healthcare": "clinic",
+    "name": "Medbase",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 09:00-17:00",
+    "operator": "Medbase AG",
+    "operator:type": "private",
+    "operator:wikidata": "Q50038690",
+    "website": "https://www.medbase.ch/standorte/detail/medbase-bern-bahnhof/",
+    "id": "node/2900408003"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.439182,
+      46.9497242
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2934006680",
   "properties": {
     "addr:city": "Einsiedeln",
