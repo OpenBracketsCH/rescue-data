@@ -1826,8 +1826,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4693049,
-      47.3241113
+      8.4692539,
+      47.3241321
     ]
   }
 },
@@ -4135,9 +4135,9 @@
     "healthcare": "pharmacy",
     "name": "APODRO Apotheke",
     "old_name": "Schmiedegg-Apotheke",
-    "opening_hours": "Mo-Fr 08:00-18:30, Sa 09:00-18:00; PH off",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-17:00",
     "operator": "APODRO",
-    "website": "https://www.apodro.ch/%C3%BCber-uns/apodro-standorte/schmiedegg/",
+    "website": "https://www.apodro.ch/über-uns/apodro-standorte/schmiedegg/",
     "wheelchair": "limited",
     "id": "node/1924110536"
   },

@@ -281,7 +281,7 @@
     "addr:postcode": "8004",
     "addr:street": "Militärstrasse",
     "amenity": "police",
-    "check_date": "2024-10-19",
+    "check_date": "2025-04-14",
     "name": "Regionalwache Aussersihl",
     "opening_hours": "24/7",
     "operator": "Stadtpolizei Zürich",
@@ -290,8 +290,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5288494,
-      47.3790011
+      8.5286685,
+      47.379079
     ]
   }
 },

@@ -125170,6 +125170,7 @@
   "id": "way/1346068389",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-04-14",
     "id": "way/1346068389"
   },
   "geometry": {

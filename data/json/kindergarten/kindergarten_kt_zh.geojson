@@ -14237,6 +14237,7 @@
     "addr:street": "Seestrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "building:levels": "1",
     "check_date": "2025-01-04",
     "name": "Kindergarten Niederuster",
     "id": "way/178413094"

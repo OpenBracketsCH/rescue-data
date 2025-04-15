@@ -19857,8 +19857,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.3919883,
-      47.4623957
+      8.3921362,
+      47.4626009
     ]
   }
 },
@@ -28995,19 +28995,22 @@
   "id": "node/9809316759",
   "properties": {
     "access": "customers",
-    "defibrillator:location": "Inside mall, next to elevators on ground floor / Im EG, links nebem Liftreihe",
+    "defibrillator:location": "Migros-Supermarkt - Zürich - Affoltern, im EG, links nebem Liftreihe",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "wheelchair": "yes",
+    "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+    "operator": "Genossenschaft Migros Zürich",
+    "phone": "+41 44 377 90 19",
+    "wheelchair": "limited",
     "id": "node/9809316759"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5079506,
-      47.4202073
+      8.507939,
+      47.4202478
     ]
   }
 },
@@ -31269,13 +31272,18 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Baugenossenschaft Schönau",
+    "phone": "+41 44 301 23 34",
+    "wheelchair": "limited",
     "id": "node/9967598517"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5353643,
-      47.4277775
+      8.535355,
+      47.4278271
     ]
   }
 },
@@ -69559,6 +69567,99 @@
     "coordinates": [
       8.5332078,
       47.5272438
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12753888293",
+  "properties": {
+    "access": "customers",
+    "defibrillator:location": "Quartiertreff Zehntenhaus",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Quartiertreff Zehntenhaus",
+    "phone": "+41 44 371 71 31",
+    "wheelchair": "limited",
+    "id": "node/12753888293"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.506801,
+      47.4197817
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12753903401",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Wengistrasse 7, 8004 Zürich",
+    "description": "Während den Bürozeiten zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "3",
+    "opening_hours": "Mo - Fr 08:00 - 17:00",
+    "operator": "Firma Vertec AG",
+    "phone": "+41 43 444 60 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12753903401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5231429,
+      47.3749375
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12753957861",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulgesundheitsdienste",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Schulgesundheitsdienste",
+    "phone": "+41 44 413 88 98",
+    "wheelchair": "no",
+    "id": "node/12753957861"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5213073,
+      47.3792634
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12755217508",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Melchrütistrasse 63, beim Veloständer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Stadt Wallisellen",
+    "phone": "+41 44 830 22 79",
+    "id": "node/12755217508"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5809526,
+      47.4183167
     ]
   }
 }
