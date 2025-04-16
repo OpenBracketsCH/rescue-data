@@ -23755,6 +23755,7 @@
     "addr:street": "Obergass",
     "amenity": "school",
     "building": "school",
+    "check_date": "2025-04-15",
     "name": "Schulhaus Städtli",
     "id": "way/50305413"
   },
@@ -77644,11 +77645,9 @@
   "id": "way/262686828",
   "properties": {
     "addr:city": "Hinwil",
-    "addr:country": "CH",
     "addr:housenumber": "1",
     "addr:postcode": "8340",
     "addr:street": "Badstrasse",
-    "addr:suburb": "Girenbad",
     "amenity": "school",
     "building": "detached",
     "name": "Schulhaus Girenbad",
@@ -109354,8 +109353,8 @@
           47.3691249
         ],
         [
-          8.5357108,
-          47.3691095
+          8.5357189,
+          47.3691107
         ],
         [
           8.5357715,

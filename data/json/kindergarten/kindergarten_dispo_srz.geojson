@@ -10186,7 +10186,7 @@
     "addr:postcode": "8610",
     "addr:street": "Gotthardweg",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "check_date": "2025-04-05",
     "contact:phone": "+41 44 940 57 57",
     "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/963",
@@ -46231,6 +46231,7 @@
   "id": "node/9787537271",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-04-15",
     "contact:city": "Adliswil",
     "contact:email": "office@houseofkids.ch",
     "contact:housenumber": "73a",
