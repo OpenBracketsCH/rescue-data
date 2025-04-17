@@ -29170,22 +29170,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3081408879",
-  "properties": {
-    "barrier": "gate",
-    "noexit": "yes",
-    "id": "node/3081408879"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6691624,
-      47.597239
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3081520428",
   "properties": {
     "barrier": "gate",
@@ -87208,6 +87192,7 @@
   "id": "node/12345642477",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "1",
     "id": "node/12345642477"
   },
   "geometry": {

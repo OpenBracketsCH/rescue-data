@@ -51461,6 +51461,40 @@
 },
 {
   "type": "Feature",
+  "id": "node/892824455",
+  "properties": {
+    "addr:city": "Bern",
+    "addr:housenumber": "10",
+    "addr:postcode": "3011",
+    "addr:street": "Schwanengasse",
+    "amenity": "clinic",
+    "branch": "Bern Zentrum",
+    "contact:email": "bern-zentrum@medbase.ch",
+    "contact:fax": "+41 31 326 55 66",
+    "contact:phone": "+41 31 326 55 55",
+    "contact:website": "https://www.medbase.ch/standorte/detail/medbase-bern-zentrum/",
+    "emergency": "no",
+    "healthcare": "clinic",
+    "name": "Medbase",
+    "old_name": "Swica Gesundheitszentrum",
+    "opening_hours": "Mo-Th 07:30-18:00; Fr 07:30-17:30",
+    "operator": "Medbase AG",
+    "operator:type": "private",
+    "operator:wikidata": "Q50038690",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "id": "node/892824455"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4388229,
+      46.9466224
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1388303714",
   "properties": {
     "addr:city": "Pully",
