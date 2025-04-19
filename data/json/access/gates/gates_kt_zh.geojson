@@ -13330,6 +13330,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/1322397007",
+  "properties": {
+    "barrier": "gate",
+    "description": "openable cow fence",
+    "id": "node/1322397007"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4614197,
+      47.5427797
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1333939358",
   "properties": {
     "barrier": "gate",
@@ -75010,6 +75026,22 @@
     "coordinates": [
       8.7248024,
       47.410507
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11027348759",
+  "properties": {
+    "barrier": "gate",
+    "description": "openable cow fence",
+    "id": "node/11027348759"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4611504,
+      47.543438
     ]
   }
 },

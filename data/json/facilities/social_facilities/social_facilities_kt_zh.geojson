@@ -7642,7 +7642,6 @@
     "phone": "+41 52 305 22 88",
     "social_facility": "group_home",
     "social_facility:for": "senior",
-    "source": "yahoo! Aerial imagery",
     "website": "https://www.wpz-rosengarten.ch/",
     "id": "way/48045183"
   },
@@ -41650,6 +41649,10 @@
         [
           8.7157954,
           47.3420051
+        ],
+        [
+          8.7161649,
+          47.34212
         ],
         [
           8.7162495,

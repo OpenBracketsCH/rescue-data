@@ -9584,6 +9584,7 @@
     "addr:street": "Gschwaderstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "building:levels": "2",
     "check_date": "2025-04-11",
     "contact:phone": "+41 44 940 59 03",
     "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/790",
@@ -35048,6 +35049,7 @@
   "id": "node/5086762596",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-04-18",
     "name": "Kinderhaus Imago",
     "wheelchair": "limited",
     "id": "node/5086762596"
@@ -35055,8 +35057,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6016264,
-      47.3950057
+      8.6007004,
+      47.3949689
     ]
   }
 },
@@ -36042,6 +36044,7 @@
   "id": "node/6605842587",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-04-18",
     "contact:city": "Zürich",
     "contact:housenumber": "1a",
     "contact:phone": "+41 44 413 74 04",
@@ -36049,9 +36052,10 @@
     "contact:street": "Mattenhof",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/mattenhof/ueberuns/standorte/grundstufe.html",
     "isced:level": "0",
-    "name": "Kindergarten Mattenhof 1",
+    "name": "Kindergarten Mattenhof 1A",
     "operator": "Stadt Zürich, SSD, Schulkreis Schwamendingen, Schuleinheit Mattenhof",
     "operator:type": "public",
+    "wheelchair": "yes",
     "id": "node/6605842587"
   },
   "geometry": {

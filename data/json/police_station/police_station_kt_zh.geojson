@@ -2860,10 +2860,12 @@
   "id": "node/7997118519",
   "properties": {
     "addr:city": "Dübendorf",
+    "addr:floor": "3",
     "addr:housenumber": "4",
     "addr:postcode": "8600",
     "addr:street": "Auenstrasse",
     "amenity": "police",
+    "check_date": "2025-04-18",
     "name": "Polizeiposten Dübendorf",
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",
