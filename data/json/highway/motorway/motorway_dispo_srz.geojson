@@ -208,7 +208,7 @@
   "type": "Feature",
   "id": "way/4310693",
   "properties": {
-    "destination:lanes": "Zürich City",
+    "destination:lanes": "Zürich-City|Zürich-City",
     "highway": "motorway",
     "lanes": "2",
     "lit": "yes",
@@ -4478,7 +4478,7 @@
   "id": "way/10231819",
   "properties": {
     "destination:int_ref:lanes": "E 41;E 60|E 41;E 60|",
-    "destination:lanes": "Bern;Basel;Chur;Luzern;Zürich-Affoltern|Bern;Basel;Chur;Luzern;Zürich-Affoltern|Zürich-Seebach;Glattbrugg;Rümlang",
+    "destination:lanes": "Bern;Basel;Chur;Luzern;Zürich-Affoltern|Bern;Basel;Chur;Luzern;Zürich-Affoltern|Bern;Basel;Zürich-Seebach",
     "destination:ref:lanes": "A1;A4|A1;A4|",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
@@ -4489,7 +4489,6 @@
     "ref": "A1;A4",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "none|none|slight_right",
     "id": "way/10231819"
   },
   "geometry": {
@@ -4609,7 +4608,7 @@
     "avz": "240",
     "cs_dir": "2",
     "destination:int_ref:lanes": "E 41;E 60|E 41;E 60|",
-    "destination:lanes": "Bern;Basel;Chur;Luzern;Zürich-Affoltern|Bern;Basel;Chur;Luzern;Zürich-Affoltern|Zürich-Seebach;Glattbrugg;Rümlang",
+    "destination:lanes": "Bern;Basel;Chur;Luzern;Zürich-Affoltern|Bern;Basel;Chur;Luzern;Zürich-Affoltern|Bern;Basel;Zürich-Seebach",
     "destination:ref:lanes": "A1;A4|A1;A4|",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
@@ -25405,8 +25404,7 @@
   "type": "Feature",
   "id": "way/37986233",
   "properties": {
-    "destination": "Zürich City;St. Gallen;Flughafen;Nordring Zürich;Westring Zürich;Urdorf;Chur",
-    "destination:lanes": "Zürich City|St. Gallen;Flughafen;Nordring Zürich| St. Gallen;Flughafen;Nordring Zürich |Urdorf;Chur;Westring Zürich",
+    "destination:lanes": "Zürich-City|Zürich-City;St. Gallen;Flughafen|St. Gallen;Flughafen;Nordring-Zürich|Chur;Luzern;Urdorf;Westring-Zürich",
     "highway": "motorway",
     "int_ref": "E 60",
     "lanes": "4",
@@ -25489,7 +25487,7 @@
   "type": "Feature",
   "id": "way/37986234",
   "properties": {
-    "destination:lanes": "Zürich City|St. Gallen;Flughafen;Nordring Zürich|Flughafen;Nordring Zürich|Urdorf Chur",
+    "destination:lanes": "Zürich-City|Zürich-City;St. Gallen;Flughafen|St. Gallen;Flughafen;Nordring-Zürich|Chur;Luzern;Urdorf;Westring-Zürich",
     "highway": "motorway",
     "int_ref": "E 60",
     "lanes": "4",
@@ -33715,7 +33713,7 @@
   "type": "Feature",
   "id": "way/77074946",
   "properties": {
-    "destination:lanes": "Zürich City|Zürich City|Sankt Gallen;Flughafen;Nordring-Zürich|Flughafen;Nordring-Zürich|Urdorf Chur",
+    "destination:lanes": "Zürich-City|Zürich-City|St. Gallen;Flughafen;Nordring-Zürich|St. Gallen;Flughafen;Nordring-Zürich|Chur;Luzern;Urdorf;Westring-Zürich",
     "highway": "motorway",
     "int_ref": "E 60",
     "lanes": "5",
@@ -33725,7 +33723,6 @@
     "ref": "A1;A3",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "slight_left|slight_left|slight_right|slight_right|slight_right",
     "id": "way/77074946"
   },
   "geometry": {
@@ -45080,8 +45077,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5545472,
-        47.4283074
+        8.5548919,
+        47.4281214
       ],
       [
         8.5537028,
@@ -64045,7 +64042,7 @@
   "id": "way/438516262",
   "properties": {
     "destination:int_ref:lanes": "E 41;E 60|E 41;E 60|",
-    "destination:lanes": "Bern;Basel;Chur;Luzern;Zürich-Affoltern|Bern;Basel;Chur;Luzern;Zürich-Affoltern|Zürich-Seebach;Glattbrugg;Rümlang",
+    "destination:lanes": "Bern;Basel;Chur;Luzern;Zürich-Affoltern|Bern;Basel;Chur;Luzern;Zürich-Affoltern|Bern;Basel;Zürich-Seebach",
     "destination:ref:lanes": "A1;A4|A1;A4|",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
@@ -64056,7 +64053,6 @@
     "ref": "A1;A4",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "none|none|slight_right",
     "id": "way/438516262"
   },
   "geometry": {
@@ -64079,12 +64075,8 @@
         47.4279974
       ],
       [
-        8.5548377,
-        47.4281505
-      ],
-      [
-        8.5545472,
-        47.4283074
+        8.5548919,
+        47.4281214
       ]
     ]
   }
@@ -64122,7 +64114,7 @@
   "type": "Feature",
   "id": "way/438517753",
   "properties": {
-    "destination:lanes": "Zürich City|Zürich City|St. Gallen;Flughafen;Nordring Zürich|Flughafen;Nordring Zürich|Urdorf Chur",
+    "destination:lanes": "Zürich-City|Zürich-City|St. Gallen;Flughafen;Nordring-Zürich|St. Gallen;Flughafen;Nordring-Zürich|Chur;Luzern;Urdorf;Westring-Zürich",
     "highway": "motorway",
     "int_ref": "E 60",
     "lanes": "5",
@@ -64133,7 +64125,6 @@
     "ref": "A1;A3",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "slight_left|slight_left|slight_right|slight_right|slight_right",
     "id": "way/438517753"
   },
   "geometry": {

@@ -43370,6 +43370,29 @@
       47.5080817
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12768156458",
+  "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "87",
+    "addr:postcode": "8810",
+    "addr:street": "Seestrasse",
+    "amenity": "kindergarten",
+    "max_age": "6",
+    "min_age": "5 months",
+    "name": "Kita Shining-Stars Two",
+    "website": "https://www.shining-stars.ch",
+    "id": "node/12768156458"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.59227,
+      47.2624668
+    ]
+  }
 }
 ]
 }

@@ -26479,7 +26479,7 @@
   "id": "node/8780672285",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Hauptzugang Schulhaus Hofacker, Ecke Stationsstrasse",
+    "defibrillator:location": "Hauptzugang Schulhaus Hofacker, Ecke Stationsstrasse beim Brunnen, grüner Kasten an der Wand",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -89763,6 +89763,51 @@
     "coordinates": [
       8.6113403,
       47.1336048
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12768349501",
+  "properties": {
+    "defibrillator:location": "Reception",
+    "description": "während den Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Romantik Seehotel Sonne",
+    "phone": "+41 44 914 18 18",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12768349501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5788578,
+      47.3191886
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12768615402",
+  "properties": {
+    "defibrillator:location": "acasa männedorf, Pflegezentrum, Schwerzistrasse 32, 8708 Männedorf",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Su 6:30-19:30",
+    "operator": "Verein",
+    "phone": "+41 44 921 64 11",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12768615402"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.692342,
+      47.2559101
     ]
   }
 }
