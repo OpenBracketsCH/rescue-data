@@ -18606,7 +18606,9 @@
   "type": "Feature",
   "id": "way/209562676",
   "properties": {
+    "addr:city": "Siebnen",
     "addr:housenumber": "3",
+    "addr:postcode": "8854",
     "addr:street": "Stationsweg",
     "amenity": "kindergarten",
     "building": "house",
@@ -43054,7 +43056,9 @@
   "type": "Feature",
   "id": "node/7177454101",
   "properties": {
+    "addr:city": "Siebnen",
     "addr:housenumber": "11",
+    "addr:postcode": "8854",
     "addr:street": "Unterer Althof",
     "amenity": "kindergarten",
     "contact:phone": "+41 79 569 43 81",
