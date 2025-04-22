@@ -41932,6 +41932,7 @@
     "addr:postcode": "8105",
     "addr:street": "Stationsstrasse",
     "amenity": "kindergarten",
+    "check_date": "2025-04-21",
     "name": "Kleingruppenschule Furttal",
     "id": "node/9939319861"
   },
@@ -41952,6 +41953,7 @@
     "addr:postcode": "8105",
     "addr:street": "Schulstrasse",
     "amenity": "kindergarten",
+    "check_date": "2025-04-21",
     "name": "Kindergarten Ruggenacher",
     "id": "node/9939324750"
   },
@@ -42766,6 +42768,7 @@
   "id": "node/10797076917",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-04-21",
     "name": "Kita Fugu",
     "id": "node/10797076917"
   },

@@ -48705,6 +48705,31 @@
       47.4493831
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12772101218",
+  "properties": {
+    "addr:floor": "EG",
+    "addr:housenumber": "44",
+    "addr:street": "Moosstrasse",
+    "amenity": "social_facility",
+    "check_date": "2025-04-21",
+    "level": "0",
+    "name": "Malraum",
+    "opening_hours": "Mo-Tu,Th 09:00-11:30",
+    "phone": "+41 79 397 88 95",
+    "website": "https://malraumr%C3%BCti.ch",
+    "wheelchair": "no",
+    "id": "node/12772101218"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8551787,
+      47.2520916
+    ]
+  }
 }
 ]
 }

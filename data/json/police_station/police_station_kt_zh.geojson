@@ -3070,6 +3070,7 @@
     "addr:street": "Untere Mühlestrasse",
     "alt_name": "Kapo",
     "amenity": "police",
+    "check_date": "2025-04-21",
     "name": "Polizeiposten Regensdorf",
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",

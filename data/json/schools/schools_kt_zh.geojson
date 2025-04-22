@@ -46040,8 +46040,10 @@
   "id": "way/169315618",
   "properties": {
     "addr:housename": "Trakt A",
+    "addr:street": "Ruggenacherweg",
     "amenity": "school",
     "building": "yes",
+    "name": "Primarschule Ruggenacher 1",
     "id": "way/169315618"
   },
   "geometry": {
@@ -46087,6 +46089,7 @@
     "addr:street": "Schulstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2025-04-21",
     "name": "Turnhalle Ruggenacher 1",
     "id": "way/169315620"
   },
@@ -47566,7 +47569,8 @@
   "id": "way/175713214",
   "properties": {
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
+    "check_date": "2025-04-21",
     "name": "Schülerhort Ruggenacher 1",
     "id": "way/175713214"
   },
@@ -94564,7 +94568,8 @@
   "id": "way/1084661846",
   "properties": {
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
+    "name": "Kindergarten Ruggenacher 1",
     "id": "way/1084661846"
   },
   "geometry": {
@@ -97576,6 +97581,7 @@
   "id": "way/1290844087",
   "properties": {
     "amenity": "school",
+    "name": "Kindergarten Ruggenacher 1",
     "id": "way/1290844087"
   },
   "geometry": {
@@ -103804,28 +103810,6 @@
     "coordinates": [
       8.5309013,
       47.4109396
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11209621996",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "197",
-    "addr:postcode": "8400",
-    "addr:street": "Tösstalstrasse",
-    "amenity": "school",
-    "grades": "0-1",
-    "name": "Villa Zauberhuet",
-    "website": "https://esel-naturkindergarten.ch/",
-    "id": "node/11209621996"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7540898,
-      47.4879096
     ]
   }
 },
