@@ -20112,6 +20112,7 @@
     "addr:street": "Bankstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "building:levels": "4",
     "email": "info@bachstei.ch",
     "name": "Wohngruppe Bachstei",
     "operator": "Verein Sozialpäda- gogische Wohn- gruppe Zürcher Oberland",

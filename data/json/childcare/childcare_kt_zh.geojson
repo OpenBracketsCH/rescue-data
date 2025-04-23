@@ -15024,6 +15024,25 @@
       47.3791413
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12776937023",
+  "properties": {
+    "amenity": "childcare",
+    "email": "info@grimselzwerge.ch",
+    "name": "Grimselzwerge",
+    "phone": "+41 (0)44 501 01 01",
+    "website": "https://www.grimselzwerge.ch/",
+    "id": "node/12776937023"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4883218,
+      47.385807
+    ]
+  }
 }
 ]
 }

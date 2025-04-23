@@ -1883,6 +1883,10 @@
             47.1055033
           ],
           [
+            6.8188328,
+            47.1056293
+          ],
+          [
             6.8186443,
             47.1057577
           ],
@@ -1897,6 +1901,10 @@
           [
             6.8194663,
             47.105635
+          ],
+          [
+            6.8191618,
+            47.1054328
           ],
           [
             6.8189842,
@@ -4001,11 +4009,6 @@
   "type": "Feature",
   "id": "relation/18380217",
   "properties": {
-    "addr:city": "Olten",
-    "addr:country": "CH",
-    "addr:housenumber": "150",
-    "addr:postcode": "4600",
-    "addr:street": "Baslerstrasse",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
