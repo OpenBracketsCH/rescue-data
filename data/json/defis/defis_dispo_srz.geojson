@@ -48423,13 +48423,13 @@
   "type": "Feature",
   "id": "node/10537274009",
   "properties": {
-    "access": "yes",
+    "access": "private",
     "defibrillator:location": "An der Wand hinter des Hauseingangs (im Freien)",
     "description": "AED Schrank an der Seite öffnen, Tasche entnehmen. In der Tasche befindet sich alles Zubehör. Bitte nach Verwendung Information an 079 651 55 93, danke!",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "opening_hours": "24/7",
+    "opening_hours": "Mo-Su 09:00-23:00",
     "operator": "EMS Niederglatt",
     "phone": "+41 79 651 55 93",
     "website": "https://www.ems-niederglatt.ch/",
@@ -69719,7 +69719,7 @@
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Gemeinde Hombrechtikon",
-    "phone": "+41 55 254 92 34",
+    "phone": "+41 55 254 92 92",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/11665347169"
   },
@@ -83337,7 +83337,7 @@
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Gemeinde Hombrechtikon",
-    "phone": "+41 55 254 92 34",
+    "phone": "+41 55 254 92 92",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/12395987001"
   },
@@ -87234,9 +87234,12 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Gemeindehaus, Feldbachstrasse 12, rechts vom Eingang",
+    "description": "immer verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
     "operator": "Gemeindeverwaltung Hombrechtikon",
     "phone": "+41 55 254 92 92",
     "source": "local_knowledge, defikarte.ch",
@@ -89813,6 +89816,51 @@
     "coordinates": [
       8.692342,
       47.2559101
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12778619701",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bahnhof Feldbach, links vom Gebäude, Nähe 30 Min. Parkplätze/Bushaltestelle (Eingang Perron)",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Hombrechtikon",
+    "phone": "+41552549292",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12778619701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7830201,
+      47.2390718
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12778967601",
+  "properties": {
+    "defibrillator:location": "Warteraum Bus Station Zürich",
+    "description": "während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Su 6:00 - 22:00",
+    "operator": "unbekannt",
+    "id": "node/12778967601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5377512,
+      47.3805363
     ]
   }
 }

@@ -10742,6 +10742,174 @@
 },
 {
   "type": "Feature",
+  "id": "way/78763599",
+  "properties": {
+    "addr:city": "Kilchberg",
+    "addr:country": "CH",
+    "addr:housenumber": "60",
+    "addr:postcode": "8802",
+    "addr:street": "Grütstrasse",
+    "amenity": "social_facility",
+    "contact:email": "asylwesen@kilchberg.ch",
+    "contact:phone": "+41 44 716 32 70",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
+    "id": "way/78763599"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5359558,
+          47.3195209
+        ],
+        [
+          8.5363692,
+          47.3195192
+        ],
+        [
+          8.5363726,
+          47.3199862
+        ],
+        [
+          8.5363994,
+          47.3199854
+        ],
+        [
+          8.5363982,
+          47.3200213
+        ],
+        [
+          8.536445,
+          47.3200211
+        ],
+        [
+          8.5364458,
+          47.3200558
+        ],
+        [
+          8.5366752,
+          47.3200552
+        ],
+        [
+          8.5366819,
+          47.3202812
+        ],
+        [
+          8.5365455,
+          47.3202817
+        ],
+        [
+          8.5365492,
+          47.3203941
+        ],
+        [
+          8.5364161,
+          47.3203962
+        ],
+        [
+          8.5364202,
+          47.3205585
+        ],
+        [
+          8.5360902,
+          47.3205622
+        ],
+        [
+          8.5360862,
+          47.3203457
+        ],
+        [
+          8.5358817,
+          47.3203476
+        ],
+        [
+          8.5358856,
+          47.320564
+        ],
+        [
+          8.5358871,
+          47.3206488
+        ],
+        [
+          8.5357612,
+          47.3206498
+        ],
+        [
+          8.5357596,
+          47.3206051
+        ],
+        [
+          8.5357582,
+          47.3205141
+        ],
+        [
+          8.5357487,
+          47.3199887
+        ],
+        [
+          8.5359067,
+          47.3199879
+        ],
+        [
+          8.5359063,
+          47.3199478
+        ],
+        [
+          8.5357454,
+          47.3199478
+        ],
+        [
+          8.5357457,
+          47.3198483
+        ],
+        [
+          8.5358559,
+          47.3198502
+        ],
+        [
+          8.5358561,
+          47.3199164
+        ],
+        [
+          8.5359061,
+          47.319916
+        ],
+        [
+          8.5359035,
+          47.319769
+        ],
+        [
+          8.5357439,
+          47.3197703
+        ],
+        [
+          8.5357411,
+          47.3195914
+        ],
+        [
+          8.5357827,
+          47.3195391
+        ],
+        [
+          8.5358985,
+          47.3195902
+        ],
+        [
+          8.5359571,
+          47.3195893
+        ],
+        [
+          8.5359558,
+          47.3195209
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/84844805",
   "properties": {
     "addr:city": "Zürich",
@@ -35553,6 +35721,77 @@
 },
 {
   "type": "Feature",
+  "id": "way/398277030",
+  "properties": {
+    "addr:city": "Zug",
+    "addr:housenumber": "27",
+    "addr:postcode": "6300",
+    "addr:street": "Zugerbergstrasse",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "capacity": "27",
+    "contact:email": "info@stiftung-maihof.ch",
+    "contact:phone": "+41 41 727 82 12",
+    "contact:website": "https://stiftung-maihof.ch/",
+    "name": "Haus Maihof",
+    "operator": "Stiftung Maihof Zug",
+    "social_facility": "group_home",
+    "id": "way/398277030"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5206696,
+          47.1591828
+        ],
+        [
+          8.520633,
+          47.1591199
+        ],
+        [
+          8.5205732,
+          47.1590966
+        ],
+        [
+          8.5205139,
+          47.159042
+        ],
+        [
+          8.5205011,
+          47.1590213
+        ],
+        [
+          8.5204818,
+          47.1589799
+        ],
+        [
+          8.5204818,
+          47.1589221
+        ],
+        [
+          8.5204289,
+          47.1588545
+        ],
+        [
+          8.520716,
+          47.1587563
+        ],
+        [
+          8.5209549,
+          47.1590998
+        ],
+        [
+          8.5206696,
+          47.1591828
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/405651571",
   "properties": {
     "addr:city": "Weisslingen",
@@ -54621,31 +54860,6 @@
     "coordinates": [
       8.6879812,
       47.4299774
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8563180616",
-  "properties": {
-    "addr:city": "Kilchberg",
-    "addr:housenumber": "60",
-    "addr:postcode": "8802",
-    "addr:street": "Grütstrasse",
-    "amenity": "social_facility",
-    "name": "Wohn- und Pflegeheim See-Spital",
-    "operator": "See-Spital",
-    "phone": "+41 44 728 63 06",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "website": "https://www.heiminfo.ch/institution/wohn-und-pflegeheim-see-spital/2OK1HuF",
-    "id": "node/8563180616"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5361434,
-      47.3201591
     ]
   }
 },

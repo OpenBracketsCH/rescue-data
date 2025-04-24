@@ -739,24 +739,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8227050913",
-  "properties": {
-    "alt_name": "Wache Kilchberg",
-    "emergency": "ambulance_station",
-    "name": "Rettungsdienst Horgen",
-    "operator": "See-Spital",
-    "id": "node/8227050913"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5355905,
-      47.3208167
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8227050914",
   "properties": {
     "alt_name": "Wache Nord",

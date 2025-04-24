@@ -25536,31 +25536,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8563180616",
-  "properties": {
-    "addr:city": "Kilchberg",
-    "addr:housenumber": "60",
-    "addr:postcode": "8802",
-    "addr:street": "Grütstrasse",
-    "amenity": "social_facility",
-    "name": "Wohn- und Pflegeheim See-Spital",
-    "operator": "See-Spital",
-    "phone": "+41 44 728 63 06",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "website": "https://www.heiminfo.ch/institution/wohn-und-pflegeheim-see-spital/2OK1HuF",
-    "id": "node/8563180616"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5361434,
-      47.3201591
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8570528588",
   "properties": {
     "addr:city": "Männedorf",

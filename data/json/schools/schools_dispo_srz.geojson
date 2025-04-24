@@ -8049,6 +8049,7 @@
   "id": "way/28018842",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-04-23",
     "name": "Fuhr / Rotweg",
     "operator": "Oberstufe Wädenswil",
     "operator:type": "public",

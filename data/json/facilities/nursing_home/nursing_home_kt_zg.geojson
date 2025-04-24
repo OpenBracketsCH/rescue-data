@@ -1373,6 +1373,77 @@
 },
 {
   "type": "Feature",
+  "id": "way/398277030",
+  "properties": {
+    "addr:city": "Zug",
+    "addr:housenumber": "27",
+    "addr:postcode": "6300",
+    "addr:street": "Zugerbergstrasse",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "capacity": "27",
+    "contact:email": "info@stiftung-maihof.ch",
+    "contact:phone": "+41 41 727 82 12",
+    "contact:website": "https://stiftung-maihof.ch/",
+    "name": "Haus Maihof",
+    "operator": "Stiftung Maihof Zug",
+    "social_facility": "group_home",
+    "id": "way/398277030"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5206696,
+          47.1591828
+        ],
+        [
+          8.520633,
+          47.1591199
+        ],
+        [
+          8.5205732,
+          47.1590966
+        ],
+        [
+          8.5205139,
+          47.159042
+        ],
+        [
+          8.5205011,
+          47.1590213
+        ],
+        [
+          8.5204818,
+          47.1589799
+        ],
+        [
+          8.5204818,
+          47.1589221
+        ],
+        [
+          8.5204289,
+          47.1588545
+        ],
+        [
+          8.520716,
+          47.1587563
+        ],
+        [
+          8.5209549,
+          47.1590998
+        ],
+        [
+          8.5206696,
+          47.1591828
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/801926738",
   "properties": {
     "addr:housenumber": "3",
