@@ -124,6 +124,7 @@
     "alt_name": "Kapo",
     "amenity": "police",
     "building": "yes",
+    "check_date": "2025-04-24",
     "name": "Polizeiposten Verkehrsstützpunkt Neubüel",
     "opening_hours": "24/7",
     "operator": "Kantonspolizei Zürich",
@@ -3241,6 +3242,7 @@
   "properties": {
     "alt_name": "Stafff SIKO (Grüezi Z)",
     "amenity": "police",
+    "check_date": "2025-04-23",
     "level": "0",
     "name": "Staff SIKO (Zollhalle 2)",
     "name:de": "Staff SIKO (Zollhalle 2)",

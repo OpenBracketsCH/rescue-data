@@ -5195,6 +5195,10 @@
           47.4068352
         ],
         [
+          8.5441249,
+          47.4069127
+        ],
+        [
           8.5438129,
           47.4070115
         ],
@@ -20644,6 +20648,7 @@
     "amenity": "school",
     "check_date": "2024-04-10",
     "grades": "10-13",
+    "isced:level": "3",
     "name": "Academic Gateway",
     "operator": "Academic Gateway AG",
     "operator:type": "private",

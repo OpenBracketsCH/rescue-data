@@ -40630,27 +40630,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5328590180",
-  "properties": {
-    "addr:city": "Wettswil am Albis",
-    "addr:housenumber": "54",
-    "addr:postcode": "8907",
-    "addr:street": "Stationsstrasse",
-    "amenity": "kindergarten",
-    "check_date": "2023-04-28",
-    "name": "Kinderzentrum Wettswil",
-    "id": "node/5328590180"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4739486,
-      47.3318146
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5331387425",
   "properties": {
     "amenity": "kindergarten",
@@ -41026,7 +41005,10 @@
   "properties": {
     "amenity": "kindergarten",
     "check_date": "2024-02-05",
+    "isced:level": "0",
     "name": "Kindergarten Ägerten",
+    "operator": "Primarschule Wettswil",
+    "operator:type": "public",
     "id": "node/6061461127"
   },
   "geometry": {
@@ -41043,7 +41025,10 @@
   "properties": {
     "amenity": "kindergarten",
     "check_date": "2023-05-22",
+    "isced:level": "0",
     "name": "Kindergarten Mettlen",
+    "operator": "Primarschule Wettswil",
+    "operator:type": "public",
     "wheelchair": "no",
     "id": "node/6061461130"
   },
@@ -41052,6 +41037,25 @@
     "coordinates": [
       8.4751443,
       47.3388043
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6061461134",
+  "properties": {
+    "amenity": "kindergarten",
+    "isced:level": "0",
+    "name": "Kindergarten Wolfetsloh",
+    "operator": "Primarschule Wettswil",
+    "operator:type": "public",
+    "id": "node/6061461134"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4770327,
+      47.332388
     ]
   }
 },

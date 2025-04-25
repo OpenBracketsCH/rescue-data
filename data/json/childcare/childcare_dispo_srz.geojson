@@ -6993,7 +6993,11 @@
     "addr:postcode": "8906",
     "addr:street": "Schachenstrasse",
     "amenity": "childcare",
-    "name": "Kinderzentrum Bonstetten",
+    "branch": "Bonstetten",
+    "name": "Kinderzentrum",
+    "operator": "Bonstetten Kinderbetreuung GmbH",
+    "operator:type": "private",
+    "website": "https://kinderzentrum.ch/angebot-preise/standorte/bonstetten/",
     "id": "node/5328590179"
   },
   "geometry": {
@@ -7001,6 +7005,31 @@
     "coordinates": [
       8.4723399,
       47.3221485
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5328590180",
+  "properties": {
+    "addr:city": "Wettswil am Albis",
+    "addr:housenumber": "54",
+    "addr:postcode": "8907",
+    "addr:street": "Stationsstrasse",
+    "amenity": "childcare",
+    "branch": "Wettswil Stationsstrasse",
+    "check_date": "2023-04-28",
+    "name": "Kinderzentrum",
+    "operator": "Bonstetten Kinderbetreuung GmbH",
+    "operator:type": "private",
+    "website": "https://kinderzentrum.ch/angebot-preise/standorte/wettswil-stationsstrasse/",
+    "id": "node/5328590180"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4739486,
+      47.3318146
     ]
   }
 },
@@ -15795,6 +15824,30 @@
     "coordinates": [
       8.4883218,
       47.385807
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12784033233",
+  "properties": {
+    "addr:city": "Wettswil am Albis",
+    "addr:housenumber": "7",
+    "addr:postcode": "8907",
+    "addr:street": "Lenggenweg",
+    "amenity": "childcare",
+    "branch": "Wettswil Lenggenweg",
+    "name": "Kinderzentrum",
+    "operator": "Bonstetten Kinderbetreuung GmbH",
+    "operator:type": "private",
+    "website": "https://kinderzentrum.ch/angebot-preise/standorte/wettswil-lenggenweg/",
+    "id": "node/12784033233"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4694046,
+      47.3417033
     ]
   }
 }

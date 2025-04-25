@@ -30166,6 +30166,10 @@
           47.4068352
         ],
         [
+          8.5441249,
+          47.4069127
+        ],
+        [
           8.5438129,
           47.4070115
         ],
@@ -104598,9 +104602,11 @@
     "addr:postcode": "8907",
     "amenity": "school",
     "email": "verwaltung@schulewettswil.ch",
+    "isced:level": "0;1",
     "name": "Primarschule Mettlen",
     "name:de": "Primarschule Mettlen",
-    "operator": "Gemeinde Wettwswil",
+    "operator": "Primarschule Wettswil",
+    "operator:type": "public",
     "phone": "+41 43 466 20 30",
     "website": "https://www.schulewettswil.ch/",
     "id": "way/550477816"
@@ -104830,8 +104836,10 @@
   "id": "way/550477822",
   "properties": {
     "amenity": "school",
+    "isced:level": "0;1",
     "name": "Primarschule Aegerten",
-    "operator": "Gemeinde Wettwswil",
+    "operator": "Primarschule Wettswil",
+    "operator:type": "public",
     "wheelchair": "yes",
     "id": "way/550477822"
   },
@@ -128806,6 +128814,7 @@
     "amenity": "school",
     "check_date": "2024-04-10",
     "grades": "10-13",
+    "isced:level": "3",
     "name": "Academic Gateway",
     "operator": "Academic Gateway AG",
     "operator:type": "private",

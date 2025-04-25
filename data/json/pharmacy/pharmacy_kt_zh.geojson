@@ -6475,6 +6475,7 @@
     "brand": "Pill Apotheke",
     "healthcare": "pharmacy",
     "name": "Pill Apotheke Waldegg",
+    "opening_hours": "Mo-Fr 08:00-12:30,13:30-18:30; Sa 08:00-16:00",
     "operator": "Pill Group",
     "website": "https://www.pill.ch/standorte/pill-apotheke-waldegg.html",
     "id": "node/7489059376"
