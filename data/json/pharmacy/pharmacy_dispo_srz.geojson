@@ -7460,6 +7460,7 @@
     "dispensing": "yes",
     "drive_through": "no",
     "name": "Pill Apotheke Oberdorf",
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-17:00",
     "operator": "Pill Group",
     "website": "https://www.pill.ch/standorte/pill-apotheke-oberdorf.html",
     "id": "node/7489015226"
