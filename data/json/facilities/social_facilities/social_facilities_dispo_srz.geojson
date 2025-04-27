@@ -25466,12 +25466,13 @@
     "amenity": "social_facility",
     "building": "yes",
     "building:levels": "2",
-    "building:roof": "tile",
     "email": "info@lehrlingsheim.ch",
     "name": "Wohnheim für Lehrlinge",
     "operator": "Verein Wohnheim für Lehrlinge",
     "phone": "+41 52 213 90 30",
     "roof:levels": "1",
+    "roof:material": "roof_tiles",
+    "roof:orientation": "across",
     "roof:shape": "gabled",
     "website": "https://www.lehrlingsheim.ch/home-1697.html",
     "id": "way/232940031"
@@ -34644,6 +34645,10 @@
           47.3734586
         ],
         [
+          8.5260465,
+          47.3734733
+        ],
+        [
           8.5260536,
           47.3734898
         ],
@@ -34654,6 +34659,10 @@
         [
           8.5258228,
           47.3735357
+        ],
+        [
+          8.5258146,
+          47.3735169
         ],
         [
           8.5257898,
