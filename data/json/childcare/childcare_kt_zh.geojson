@@ -7811,6 +7811,7 @@
   "id": "node/6633329045",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-04-27",
     "contact:city": "Zürich",
     "contact:housenumber": "20",
     "contact:phone": "+41 44 413 77 56",
@@ -7858,6 +7859,7 @@
   "id": "node/6633329048",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-04-27",
     "contact:city": "Zürich",
     "contact:housenumber": "19",
     "contact:phone": "+41 44 413 77 53",
@@ -7880,6 +7882,7 @@
   "id": "node/6633329050",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-04-27",
     "contact:city": "Zürich",
     "contact:housenumber": "80",
     "contact:phone": "+41 44 413 78 65",
@@ -11597,6 +11600,7 @@
   "id": "node/9492707922",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-04-27",
     "contact:city": "Zürich",
     "contact:housenumber": "8",
     "contact:phone": "+41 44 482 06 06",
@@ -11688,6 +11692,7 @@
   "id": "node/9495414050",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-04-27",
     "contact:city": "Zürich",
     "contact:housenumber": "1",
     "contact:phone": "+41 44 413 77 16",
@@ -11833,6 +11838,7 @@
   "id": "node/9507391363",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-04-27",
     "contact:city": "Zürich",
     "contact:housenumber": "47",
     "contact:phone": "+41 44 413 78 97",
@@ -14945,6 +14951,8 @@
   "id": "node/12606899732",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-04-27",
+    "level": "0",
     "name": "Fugu Kinderkrippe",
     "id": "node/12606899732"
   },

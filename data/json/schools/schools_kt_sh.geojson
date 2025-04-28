@@ -2346,6 +2346,7 @@
     "addr:street": "Schulstrasse",
     "amenity": "school",
     "building": "yes",
+    "check_date": "2025-04-27",
     "name": "Lammschulhaus",
     "id": "way/195806250"
   },

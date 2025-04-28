@@ -182,7 +182,7 @@
     "addr:street": "Büelstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
-    "name": "Kindergarten Brüel",
+    "name": "Kindergarten Büel",
     "id": "way/193356366"
   },
   "geometry": {
@@ -194,12 +194,12 @@
           47.17421
         ],
         [
-          8.8941264,
+          8.8941266,
           47.1742463
         ],
         [
-          8.8940973,
-          47.1743561
+          8.8940971,
+          47.1743558
         ],
         [
           8.8938945,

@@ -5674,48 +5674,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/59283588",
-  "properties": {
-    "addr:city": "Volketswil",
-    "addr:country": "CH",
-    "addr:housenumber": "18",
-    "addr:postcode": "8604",
-    "addr:street": "Grindelstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Steibrugg",
-    "id": "way/59283588"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6667534,
-          47.3869193
-        ],
-        [
-          8.6667742,
-          47.3871654
-        ],
-        [
-          8.6663822,
-          47.3871806
-        ],
-        [
-          8.6663614,
-          47.3869345
-        ],
-        [
-          8.6667534,
-          47.3869193
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/61637164",
   "properties": {
     "addr:city": "Zollikon",
@@ -8439,6 +8397,7 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "building:levels": "1",
+    "check_date": "2025-04-27",
     "description": "ABZ-Siedlung Im Moos I",
     "isced:level": "0",
     "name": "Kindergarten Moos 1+2",
@@ -23331,6 +23290,7 @@
     "amenity": "kindergarten",
     "building": "school",
     "building:levels": "3",
+    "check_date": "2025-04-27",
     "isced:level": "0",
     "name": "Kindergarten Entlisberg Pavillon 1+2",
     "note": "Schulpavillon Typ Züri-Modular",
@@ -23878,6 +23838,7 @@
   "id": "way/552139735",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-04-27",
     "contact:city": "Zürich",
     "contact:housenumber": "8",
     "contact:phone": "+41 44 413 77 41",
@@ -37382,6 +37343,7 @@
   "id": "node/6633329049",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-04-27",
     "contact:city": "Zürich",
     "contact:housenumber": "1",
     "contact:phone": "+41 44 413 76 26",

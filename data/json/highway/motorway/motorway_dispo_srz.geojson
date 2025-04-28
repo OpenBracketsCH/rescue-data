@@ -90097,7 +90097,7 @@
     "ref": "A3",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "through|through |slight_right",
+    "turn:lanes": "through|through|slight_right",
     "id": "way/1316927629"
   },
   "geometry": {
@@ -90133,7 +90133,7 @@
     "ref": "A3",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "through|through |slight_right",
+    "turn:lanes": "through|through|slight_right",
     "id": "way/1316927630"
   },
   "geometry": {
