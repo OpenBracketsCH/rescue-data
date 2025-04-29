@@ -588,6 +588,7 @@
   "id": "node/269234979",
   "properties": {
     "addr:city": "Uster",
+    "addr:floor": "0",
     "addr:housenumber": "9",
     "addr:postcode": "8610",
     "addr:street": "Brunnenstrasse",
@@ -596,6 +597,7 @@
     "branch": "Uster Brunnen",
     "brand": "DROPA",
     "brand:wikidata": "Q1260273",
+    "check_date": "2025-04-28",
     "healthcare": "pharmacy",
     "name": "Dropa Brunnen",
     "old_name": "Brunnenapotheke",

@@ -5443,10 +5443,12 @@
   "id": "node/1263163861",
   "properties": {
     "addr:city": "Uster",
+    "addr:floor": "0",
     "addr:housenumber": "1",
     "addr:postcode": "8610",
     "addr:street": "Lorenweg",
     "amenity": "childcare",
+    "check_date": "2025-04-28",
     "contact:phone": "+41 43 366 53 29",
     "contact:website": "https://www.krippeschatzkiste.ch/",
     "max_age": "Kindergarteneintritt",
@@ -12357,6 +12359,7 @@
   "id": "node/9509751865",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-04-28",
     "contact:city": "Zürich",
     "contact:housenumber": "55",
     "contact:phone": "+41 44 413 30 06",
