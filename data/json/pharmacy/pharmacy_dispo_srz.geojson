@@ -1185,32 +1185,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/352860118",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "107",
-    "addr:postcode": "8045",
-    "addr:street": "Uetlibergstrasse",
-    "amenity": "pharmacy",
-    "brand": "Fortis",
-    "fixme": "I think it has moved or does not exist anymore",
-    "healthcare": "pharmacy",
-    "name": "Laubegg Apotheke",
-    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-12:30",
-    "website": "https://www.laubeggapotheke.ch/",
-    "id": "node/352860118"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.517625,
-      47.3612909
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/352995446",
   "properties": {
     "addr:city": "Winterthur",
@@ -1643,7 +1617,7 @@
     "amenity": "pharmacy",
     "branch": "Adliswil",
     "brand": "Pill Apotheke",
-    "check_date:opening_hours": "2024-03-15",
+    "check_date:opening_hours": "2025-04-29",
     "healthcare": "pharmacy",
     "name": "Pill Apotheke Sihltal",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",

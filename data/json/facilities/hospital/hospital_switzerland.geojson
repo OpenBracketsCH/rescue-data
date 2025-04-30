@@ -47237,6 +47237,70 @@
 },
 {
   "type": "Feature",
+  "id": "way/914830181",
+  "properties": {
+    "addr:city": "Lausanne",
+    "addr:housenumber": "4",
+    "addr:postcode": "1003",
+    "addr:street": "Place de la Gare",
+    "amenity": "hospital",
+    "building:levels": "4",
+    "healthcare": "hospital",
+    "healthcare:speciality": "osteopathy",
+    "name": "OSTEO 7/7",
+    "roof:shape": "flat",
+    "id": "way/914830181"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6298164,
+          46.5176426
+        ],
+        [
+          6.6293305,
+          46.5177117
+        ],
+        [
+          6.6292826,
+          46.5177189
+        ],
+        [
+          6.6292657,
+          46.517721
+        ],
+        [
+          6.6292199,
+          46.5175676
+        ],
+        [
+          6.629441,
+          46.5175362
+        ],
+        [
+          6.6297265,
+          46.5174956
+        ],
+        [
+          6.6297706,
+          46.5174893
+        ],
+        [
+          6.6298112,
+          46.517625
+        ],
+        [
+          6.6298164,
+          46.5176426
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/931725899",
   "properties": {
     "addr:city": "Frutigen",

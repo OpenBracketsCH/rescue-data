@@ -56709,7 +56709,8 @@
     "grades": "0-6",
     "name": "Schule Geiselweid",
     "operator": "Stadt Winterthur",
-    "operator:type": "public",
+    "operator:type": "government",
+    "operator:wikidata": "Q9125",
     "website": "https://www.schule-lind.ch/schule-geiselweid/team-geiselweid-und-inneres-lind/p-94/",
     "id": "way/229014557"
   },
@@ -56718,12 +56719,12 @@
     "coordinates": [
       [
         [
-          8.7350748,
-          47.498802
+          8.7350766,
+          47.4988411
         ],
         [
-          8.7344868,
-          47.498807
+          8.7345239,
+          47.4988431
         ],
         [
           8.7346133,
@@ -56826,8 +56827,8 @@
           47.4985726
         ],
         [
-          8.7350748,
-          47.498802
+          8.7350766,
+          47.4988411
         ]
       ]
     ]
