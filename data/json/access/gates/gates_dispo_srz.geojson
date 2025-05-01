@@ -41867,6 +41867,9 @@
   "properties": {
     "access": "yes",
     "barrier": "lift_gate",
+    "description": "Bei Grossanlässen im Letzigrund-Stadion kann die Schranke geschlossen sein.",
+    "direction": "forward",
+    "lift_gate:type": "single",
     "id": "node/4001423581"
   },
   "geometry": {
@@ -102344,6 +102347,43 @@
     "coordinates": [
       8.6608933,
       47.2213426
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12800195831",
+  "properties": {
+    "access": "yes",
+    "barrier": "lift_gate",
+    "description": "Bei Grossanlässen im Letzigrund-Stadion kann die Schranke geschlossen sein.",
+    "lift_gate:type": "double",
+    "id": "node/12800195831"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5059723,
+      47.3832736
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12800221047",
+  "properties": {
+    "access": "yes",
+    "barrier": "lift_gate",
+    "description": "Bei Grossanlässen im Letzigrund-Stadion kann die Schranke geschlossen sein.",
+    "direction": "forward",
+    "lift_gate:type": "single",
+    "id": "node/12800221047"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5059941,
+      47.3831572
     ]
   }
 }
