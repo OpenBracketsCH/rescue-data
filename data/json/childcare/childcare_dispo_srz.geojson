@@ -14294,6 +14294,7 @@
   "id": "node/10713662345",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-05-01",
     "contact:phone": "+41 44 940 61 82",
     "contact:website": "https://www.waldspielgruppe-wurzeln.ch",
     "max_age": "6",

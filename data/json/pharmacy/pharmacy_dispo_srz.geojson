@@ -1332,6 +1332,7 @@
   "id": "node/370588821",
   "properties": {
     "addr:city": "Uster",
+    "addr:floor": "0",
     "addr:housenumber": "10",
     "addr:postcode": "8610",
     "addr:street": "Bankstrasse",
@@ -1340,6 +1341,7 @@
     "branch": "Uster",
     "brand": "Medbase",
     "brand:wikidata": "Q50038690",
+    "check_date": "2025-05-01",
     "healthcare": "pharmacy",
     "name": "Medbase Apotheke Uster",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa,Su,PH 08:00-18:00",
