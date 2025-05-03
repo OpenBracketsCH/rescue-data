@@ -2891,8 +2891,9 @@
     "addr:street": "Schulstrasse",
     "amenity": "school",
     "building": "school",
-    "name": "Primar-Schulhaus Rothenturm",
+    "name": "Primar-Schulhaus Rothenthurm",
     "source": "bing",
+    "website": "https://www.rothenthurm.ch/bildung/primarschule",
     "id": "way/199229269"
   },
   "geometry": {
@@ -9575,7 +9576,8 @@
   "id": "way/559756430",
   "properties": {
     "amenity": "school",
-    "name": "Primarschule Rothenturm",
+    "name": "Primarschule Rothenthurm",
+    "website": "https://www.rothenthurm.ch/bildung/primarschule",
     "id": "way/559756430"
   },
   "geometry": {

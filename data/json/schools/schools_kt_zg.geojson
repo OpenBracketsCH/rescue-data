@@ -7280,6 +7280,7 @@
     "addr:street": "Lorzenparkstrasse",
     "amenity": "school",
     "building": "yes",
+    "building:levels": "5",
     "leisure": "sports_centre",
     "name": "On Your Marks",
     "short_name": "OYM",
