@@ -14370,6 +14370,7 @@
   "id": "node/10725028895",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-05-04",
     "contact:phone": "+41 79 535 59 54",
     "contact:website": "http://www.waldkinderuster.ch",
     "min_age": "2 years 6 months",

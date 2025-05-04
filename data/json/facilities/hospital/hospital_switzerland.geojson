@@ -40368,10 +40368,11 @@
   "properties": {
     "addr:city": "Le Locle",
     "addr:country": "CH",
-    "addr:housenumber": "40-42",
+    "addr:housenumber": "40;42",
     "addr:postcode": "2400",
     "addr:street": "Rue Bellevue",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Hôpital neuchâtelois Le Locle",
     "operator": "Hôpital neuchâtelois",
     "phone": "+41 (32) 933 61 11",
@@ -40384,76 +40385,104 @@
     "coordinates": [
       [
         [
-          6.7435174,
-          47.0572336
+          6.743565,
+          47.0572423
         ],
         [
-          6.7433471,
-          47.0574268
+          6.7433846,
+          47.0574552
         ],
         [
-          6.7431694,
-          47.0573528
+          6.743096,
+          47.0573374
         ],
         [
-          6.7430782,
-          47.0574543
+          6.7430356,
+          47.0574031
         ],
         [
-          6.7428019,
-          47.0573405
+          6.7430192,
+          47.0574213
         ],
         [
-          6.7427785,
-          47.0573679
+          6.7428023,
+          47.0573307
         ],
         [
-          6.7424767,
-          47.0572446
+          6.7427775,
+          47.0573583
         ],
         [
-          6.7425081,
-          47.057209
+          6.7425463,
+          47.0572618
         ],
         [
-          6.7422329,
-          47.0570966
+          6.7425104,
+          47.0572468
         ],
         [
-          6.7422703,
-          47.0570274
+          6.7425515,
+          47.0572011
         ],
         [
-          6.742226,
-          47.057004
+          6.7422964,
+          47.057095
         ],
         [
-          6.7421992,
-          47.056958
+          6.7423497,
+          47.0570343
         ],
         [
-          6.7422707,
-          47.0568388
+          6.7422518,
+          47.0569945
+        ],
+        [
+          6.7422203,
+          47.0569735
+        ],
+        [
+          6.7421837,
+          47.0569385
         ],
         [
           6.7422802,
           47.0568154
         ],
         [
-          6.7423255,
-          47.0567579
+          6.74232,
+          47.0567613
         ],
         [
-          6.7427368,
-          47.0568992
+          6.7427582,
+          47.0568969
         ],
         [
-          6.7431445,
-          47.0570673
+          6.7431924,
+          47.0570801
         ],
         [
-          6.7435174,
-          47.0572336
+          6.7432764,
+          47.0571198
+        ],
+        [
+          6.7432627,
+          47.0571336
+        ],
+        [
+          6.7432846,
+          47.0571437
+        ],
+        [
+          6.7434558,
+          47.057222
+        ],
+        [
+          6.7434762,
+          47.0572014
+        ],
+        [
+          6.743565,
+          47.0572423
         ]
       ]
     ]
@@ -47230,70 +47259,6 @@
         [
           8.9629272,
           47.4299919
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/914830181",
-  "properties": {
-    "addr:city": "Lausanne",
-    "addr:housenumber": "4",
-    "addr:postcode": "1003",
-    "addr:street": "Place de la Gare",
-    "amenity": "hospital",
-    "building:levels": "4",
-    "healthcare": "hospital",
-    "healthcare:speciality": "osteopathy",
-    "name": "OSTEO 7/7",
-    "roof:shape": "flat",
-    "id": "way/914830181"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          6.6298164,
-          46.5176426
-        ],
-        [
-          6.6293305,
-          46.5177117
-        ],
-        [
-          6.6292826,
-          46.5177189
-        ],
-        [
-          6.6292657,
-          46.517721
-        ],
-        [
-          6.6292199,
-          46.5175676
-        ],
-        [
-          6.629441,
-          46.5175362
-        ],
-        [
-          6.6297265,
-          46.5174956
-        ],
-        [
-          6.6297706,
-          46.5174893
-        ],
-        [
-          6.6298112,
-          46.517625
-        ],
-        [
-          6.6298164,
-          46.5176426
         ]
       ]
     ]
@@ -58028,6 +57993,60 @@
     "coordinates": [
       8.8222082,
       47.2263664
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12806467880",
+  "properties": {
+    "addr:city": "Lausanne",
+    "addr:housenumber": "4",
+    "addr:postcode": "1003",
+    "addr:street": "Place de la Gare",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "osteopathy",
+    "name": "Osteo 7/7",
+    "opening_hours": "7/7",
+    "phone": "+41 21 510 50 50",
+    "start_date": "2012-04-01",
+    "website": "https://osteo7-7.ch",
+    "id": "node/12806467880"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6293222,
+      46.5175847
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12806521748",
+  "properties": {
+    "addr:city": "Genève",
+    "addr:housenumber": "21",
+    "addr:postcode": "1201",
+    "addr:street": "Rue du Mont-Blanc",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "osteopathy",
+    "name": "Osteo 7/7",
+    "opening_hours": "7/7",
+    "phone": "+41 22 510 50 50",
+    "start_date": "2018-01-01",
+    "website": "https://osteo7-7.ch",
+    "id": "node/12806521748"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1433455,
+      46.2091006
     ]
   }
 }

@@ -1220,7 +1220,9 @@
   "type": "Feature",
   "id": "node/354489329",
   "properties": {
+    "addr:floor": "0",
     "amenity": "pharmacy",
+    "check_date": "2025-05-03",
     "email": "rm@apotheke-uster.ch",
     "healthcare": "pharmacy",
     "name": "Schloss",
