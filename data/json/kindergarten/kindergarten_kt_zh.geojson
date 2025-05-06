@@ -2291,50 +2291,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/39358555",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "23",
-    "addr:postcode": "8400",
-    "addr:street": "Paulstrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "kita pop e popa leuehöli",
-    "roof:levels": "1",
-    "roof:orientation": "across",
-    "roof:shape": "gabled",
-    "id": "way/39358555"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.719426,
-          47.5010402
-        ],
-        [
-          8.7193146,
-          47.501079
-        ],
-        [
-          8.7192529,
-          47.5009981
-        ],
-        [
-          8.7193643,
-          47.5009593
-        ],
-        [
-          8.719426,
-          47.5010402
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/39358557",
   "properties": {
     "addr:housenumber": "11",
@@ -26232,6 +26188,10 @@
           47.3399748
         ],
         [
+          8.5265478,
+          47.339882
+        ],
+        [
           8.5265913,
           47.3395835
         ],
@@ -32164,6 +32124,61 @@
 },
 {
   "type": "Feature",
+  "id": "way/1383779265",
+  "properties": {
+    "amenity": "kindergarten",
+    "id": "way/1383779265"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5327099,
+          47.3429375
+        ],
+        [
+          8.5326877,
+          47.342894
+        ],
+        [
+          8.5327203,
+          47.3428109
+        ],
+        [
+          8.5328011,
+          47.3425652
+        ],
+        [
+          8.5329877,
+          47.3425401
+        ],
+        [
+          8.5330908,
+          47.3425786
+        ],
+        [
+          8.5329871,
+          47.3427844
+        ],
+        [
+          8.5331646,
+          47.3428363
+        ],
+        [
+          8.5330571,
+          47.3430279
+        ],
+        [
+          8.5327099,
+          47.3429375
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
@@ -33233,25 +33248,6 @@
     "coordinates": [
       8.5285856,
       47.4511024
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1927009015",
-  "properties": {
-    "addr:housenumber": "184",
-    "addr:street": "Bahnhofstrasse",
-    "amenity": "kindergarten",
-    "name": "FIZ-Familie im Zentrum",
-    "website": "https://www.fizwetzikon.ch/",
-    "id": "node/1927009015"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8007327,
-      47.3266447
     ]
   }
 },
@@ -41386,6 +41382,7 @@
     "addr:postcode": "8152",
     "addr:street": "Boulevard Lilienthal",
     "amenity": "kindergarten",
+    "check_date": "2025-05-05",
     "name": "Kindergarten Lilienthal 1+2",
     "id": "node/9865919816"
   },

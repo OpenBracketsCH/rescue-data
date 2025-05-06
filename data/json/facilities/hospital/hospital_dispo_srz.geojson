@@ -14066,6 +14066,7 @@
     "healthcare": "clinic",
     "name": "ABC Ärzteberatung",
     "website": "https://a-b-c.ch/",
+    "wheelchair": "yes",
     "id": "node/11069092338"
   },
   "geometry": {

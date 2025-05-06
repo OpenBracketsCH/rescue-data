@@ -11508,6 +11508,7 @@
     "name": "Schul- und Sportanlage Buchwiesen",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Buchwiesen",
     "operator:type": "public",
+    "website": "https://www.buchwiesen.ch/",
     "id": "way/251207184"
   },
   "geometry": {

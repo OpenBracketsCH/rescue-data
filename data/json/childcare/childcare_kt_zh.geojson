@@ -6966,6 +6966,7 @@
     "addr:postcode": "8152",
     "addr:street": "Boulevard Lilienthal",
     "amenity": "childcare",
+    "check_date": "2025-05-04",
     "name": "globegarden Lilienthal",
     "website": "https://www.globegarden.ch/",
     "id": "node/5784735973"
@@ -8451,10 +8452,11 @@
     "addr:postcode": "8610",
     "addr:street": "Industriestrasse",
     "amenity": "childcare",
-    "check_date": "2025-03-28",
+    "check_date": "2025-05-05",
     "contact:phone": "+41 44 940 14 01",
     "contact:website": "http://www.muulwurf.ch",
     "email": "info@muulwurf.ch",
+    "level": "0",
     "max_age": "Kindergarteneintritt",
     "min_age": "3 months",
     "name": "Verein Kindertagesstätte Muulwurf",
@@ -8642,6 +8644,7 @@
     "addr:postcode": "8152",
     "addr:street": "Boulevard Lilienthal",
     "amenity": "childcare",
+    "check_date": "2025-05-05",
     "name": "KitaS Creativa",
     "website": "https://www.kitascreativa.ch/",
     "id": "node/8718842522"
@@ -9012,22 +9015,6 @@
     "coordinates": [
       8.6173572,
       47.4011574
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8829494596",
-  "properties": {
-    "amenity": "childcare",
-    "name": "KiMi",
-    "id": "node/8829494596"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.561256,
-      47.4230827
     ]
   }
 },
@@ -13428,6 +13415,7 @@
     "addr:postcode": "8152",
     "addr:street": "Earhart-Strasse",
     "amenity": "childcare",
+    "check_date": "2025-05-05",
     "name": "Kinderkrippe Bambi",
     "website": "https://www.kinderkrippe-bambi.ch/de/kinderkrippen/standorte/kinderkrippe-opfikon",
     "id": "node/10614620822"
@@ -13470,6 +13458,7 @@
     "addr:postcode": "8152",
     "addr:street": "Dufaux-Strasse",
     "amenity": "childcare",
+    "check_date": "2025-05-05",
     "name": "KiTa Zwerglinge",
     "website": "https://www.kitazwerglinge.ch/",
     "id": "node/10614738235"
@@ -15113,6 +15102,27 @@
     "coordinates": [
       8.4694046,
       47.3417033
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12811377963",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "23",
+    "addr:postcode": "8400",
+    "addr:street": "Paulstrasse",
+    "amenity": "childcare",
+    "name": "Pop e poppa Kita Leuehöhli",
+    "website": "https://www.popepoppa.ch/de/einrichtungen/kita-in-winterthur/",
+    "id": "node/12811377963"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7193429,
+      47.5010175
     ]
   }
 }

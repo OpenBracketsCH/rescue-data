@@ -38928,6 +38928,7 @@
     "amenity": "hospital",
     "email": "info@santacroce.ch",
     "emergency": "no",
+    "healthcare": "hospital",
     "name": "Clinica Santa Croce",
     "phone": "+41 91 735 41 41",
     "website": "https://www.santacroce.ch/index.php?view=1000",
@@ -56353,6 +56354,7 @@
     "healthcare": "clinic",
     "name": "ABC Ärzteberatung",
     "website": "https://a-b-c.ch/",
+    "wheelchair": "yes",
     "id": "node/11069092338"
   },
   "geometry": {
