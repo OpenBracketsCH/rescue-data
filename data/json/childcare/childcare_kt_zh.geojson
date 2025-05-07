@@ -8999,6 +8999,24 @@
 },
 {
   "type": "Feature",
+  "id": "node/8761055062",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kinderhort & Mittagstisch",
+    "operator": "Schule Glattpark",
+    "website": "https://www.schule-opfikon.ch/",
+    "id": "node/8761055062"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5609237,
+      47.4221453
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/8791091321",
   "properties": {
     "addr:city": "Dübendorf",

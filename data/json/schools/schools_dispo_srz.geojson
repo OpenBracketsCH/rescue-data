@@ -1419,7 +1419,10 @@
   "id": "relation/9307264",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-05-06",
+    "grades": "1-6",
     "name": "Primarschule Oberuster",
+    "operator:type": "public",
     "type": "multipolygon",
     "id": "relation/9307264"
   },
@@ -8803,9 +8806,11 @@
   "id": "way/29071883",
   "properties": {
     "amenity": "school",
-    "check_date": "2025-03-27",
+    "check_date": "2025-05-06",
     "designation": "Primarschule",
+    "grades": "1-6",
     "name": "Pünt",
+    "operator:type": "public",
     "id": "way/29071883"
   },
   "geometry": {
@@ -8885,9 +8890,10 @@
   "id": "way/29071911",
   "properties": {
     "amenity": "school",
-    "check_date": "2025-05-05",
+    "check_date": "2025-05-06",
     "grades": "7-9",
     "name": "Oberstufenschule Krämeracher",
+    "operator:type": "public",
     "id": "way/29071911"
   },
   "geometry": {
@@ -8927,8 +8933,10 @@
   "id": "way/29260131",
   "properties": {
     "amenity": "school",
-    "check_date": "2025-04-01",
+    "check_date": "2025-05-06",
+    "grades": "1-6",
     "name": "Gschwader",
+    "operator:type": "public",
     "id": "way/29260131"
   },
   "geometry": {
@@ -9093,9 +9101,10 @@
   "id": "way/29425036",
   "properties": {
     "amenity": "school",
-    "check_date": "2025-05-05",
+    "check_date": "2025-05-06",
     "grades": "7-9",
     "name": "Schule Weidli",
+    "operator:type": "public",
     "id": "way/29425036"
   },
   "geometry": {
@@ -36450,8 +36459,11 @@
     "addr:street": "Hasenbühlstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2025-05-06",
     "email": "christoph.thut@primarschule-uster.ch",
+    "grades": "1-6",
     "name": "Primarschule",
+    "operator:type": "public",
     "phone": "+41 44 994 14 92",
     "school": "primary",
     "school:CH": "primarschule",
@@ -36539,9 +36551,10 @@
   "id": "way/112176100",
   "properties": {
     "amenity": "school",
-    "check_date": "2025-05-05",
+    "check_date": "2025-05-06",
     "grades": "1-6",
     "name": "Primarschulhaus Talacker",
+    "operator:type": "public",
     "id": "way/112176100"
   },
   "geometry": {
@@ -37094,7 +37107,8 @@
     "grades": "1-9",
     "name": "Schule Rychenberg",
     "operator": "Stadt Winterthur",
-    "operator:type": "public",
+    "operator:type": "government",
+    "operator:wikidata": "Q9125",
     "website": "https://www.schule-rychenberg.com/",
     "id": "way/112883095"
   },
@@ -37267,12 +37281,12 @@
           47.5078621
         ],
         [
-          8.7525427,
-          47.5080078
+          8.7525087,
+          47.5080235
         ],
         [
-          8.752657,
-          47.5080632
+          8.7526242,
+          47.508082
         ],
         [
           8.7521898,
@@ -41987,6 +42001,22 @@
         [
           8.5288146,
           47.3374148
+        ],
+        [
+          8.5288115,
+          47.3376263
+        ],
+        [
+          8.5288122,
+          47.3377269
+        ],
+        [
+          8.5288126,
+          47.337817
+        ],
+        [
+          8.5288107,
+          47.3378864
         ],
         [
           8.5288108,
@@ -52085,9 +52115,12 @@
   "properties": {
     "amenity": "school",
     "building": "school",
+    "check_date": "2025-05-06",
     "email": "christine.walter@primarschule-uster.ch",
+    "grades": "1-6",
     "name": "Primarschule Talacker-Dorf",
     "noaddress": "yes",
+    "operator:type": "public",
     "phone": "+41 44 941 22 60",
     "school": "primary",
     "school:CH": "primarschule",
@@ -54819,8 +54852,11 @@
     "amenity": "school",
     "building": "school",
     "building:levels": "2",
+    "check_date": "2025-05-06",
     "email": "elvira.major@primarschule-uster.ch",
+    "grades": "1-6",
     "name": "Primarschule Niederuster",
+    "operator:type": "public",
     "phone": "+41 44 994 15 67",
     "roof:levels": "1",
     "school": "primary",
@@ -56337,6 +56373,7 @@
     "addr:street": "Aathalstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2025-05-06",
     "name": "Primarschule / Turnhalle Oberuster",
     "id": "way/190555442"
   },
@@ -66637,9 +66674,10 @@
   "id": "way/220636481",
   "properties": {
     "amenity": "school",
-    "check_date": "2025-05-05",
+    "check_date": "2025-05-06",
     "grades": "1-6",
     "name": "Schule Niederuster",
+    "operator:type": "public",
     "id": "way/220636481"
   },
   "geometry": {
@@ -103331,6 +103369,14 @@
           47.3426368
         ],
         [
+          8.5342335,
+          47.3425451
+        ],
+        [
+          8.5341629,
+          47.3425186
+        ],
+        [
           8.5338998,
           47.34242
         ]
@@ -121902,6 +121948,100 @@
 },
 {
   "type": "Feature",
+  "id": "way/1184201130",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Bertschikon",
+    "contact:housenumber": "8",
+    "contact:phone": "+41 44 936 56 50",
+    "contact:postcode": "8614",
+    "contact:street": "Männetsrietstrasse",
+    "contact:website": "https://www.schulegossau-zh.ch/p135001485.html",
+    "name": "Schule Männetsriet",
+    "id": "way/1184201130"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7599023,
+          47.322871
+        ],
+        [
+          8.7602302,
+          47.3226464
+        ],
+        [
+          8.760427,
+          47.3224765
+        ],
+        [
+          8.7606166,
+          47.3223108
+        ],
+        [
+          8.7606621,
+          47.3222711
+        ],
+        [
+          8.7609467,
+          47.322034
+        ],
+        [
+          8.7612894,
+          47.3218156
+        ],
+        [
+          8.7613421,
+          47.3217846
+        ],
+        [
+          8.7614855,
+          47.3217004
+        ],
+        [
+          8.7619946,
+          47.3219687
+        ],
+        [
+          8.7609821,
+          47.3227851
+        ],
+        [
+          8.7613885,
+          47.3229924
+        ],
+        [
+          8.7614629,
+          47.3230284
+        ],
+        [
+          8.7612242,
+          47.3232372
+        ],
+        [
+          8.7609892,
+          47.3234503
+        ],
+        [
+          8.7608539,
+          47.3233788
+        ],
+        [
+          8.7605325,
+          47.323195
+        ],
+        [
+          8.7599023,
+          47.322871
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1185786383",
   "properties": {
     "amenity": "school",
@@ -126213,6 +126353,45 @@
 },
 {
   "type": "Feature",
+  "id": "way/1383947288",
+  "properties": {
+    "amenity": "school",
+    "check_date": "2025-05-06",
+    "grades": "1-6",
+    "name": "Schulhaus Krämeracker",
+    "operator:type": "public",
+    "id": "way/1383947288"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7084528,
+          47.3520216
+        ],
+        [
+          8.7080568,
+          47.3525758
+        ],
+        [
+          8.7065393,
+          47.3515323
+        ],
+        [
+          8.7071201,
+          47.3511015
+        ],
+        [
+          8.7084528,
+          47.3520216
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/256335788",
   "properties": {
     "amenity": "school",
@@ -126538,22 +126717,6 @@
     "coordinates": [
       8.5249742,
       47.1687737
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/469930570",
-  "properties": {
-    "amenity": "school",
-    "name": "Schulhaus Bertschikon",
-    "id": "node/469930570"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7606137,
-      47.3229513
     ]
   }
 },

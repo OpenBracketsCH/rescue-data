@@ -936,6 +936,7 @@
   "id": "node/5699100721",
   "properties": {
     "access": "yes",
+    "defibrillator:location": "In Bushaltestelle",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -23665,26 +23666,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8577530559",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Beim Gemeinschaftszentrum Freienbach",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "id": "node/8577530559"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7595629,
-      47.2051591
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8577563906",
   "properties": {
     "defibrillator:location": "Büroräumlichkeiten der Amavita Apotheke",
@@ -29840,26 +29821,6 @@
     "coordinates": [
       8.499043,
       47.6904534
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8940555667",
-  "properties": {
-    "defibrillator:location": "Gegenüber dem Haupteingang der Kirche",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "level": "0",
-    "opening_hours": "24/7",
-    "id": "node/8940555667"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.778081,
-      47.2002472
     ]
   }
 },
@@ -90046,6 +90007,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "opening_hours": "Mo-Fr 07:00-17:00",
     "operator": "Literargymnasium Rämibühl",
     "phone": "+41 44 265 62 22",
@@ -90058,6 +90020,99 @@
     "coordinates": [
       8.5530037,
       47.3715074
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12813639601",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Wüeri Näninikon-Greifensee, Eingangsbereich zur Turnhalle",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 7:20 - 22:00",
+    "operator": "Schule",
+    "phone": "+41786059039",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12813639601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6882222,
+      47.3693973
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12813664201",
+  "properties": {
+    "defibrillator:location": "Schulhaus Immensee",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Bezirk Küssnacht, Rettungsdienst",
+    "phone": "+41 79 101 93 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12813664201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4636676,
+      47.0982809
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12813678401",
+  "properties": {
+    "defibrillator:location": "Schule Seematt, Seemattzopfweg",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Bezirk Küssancht, Rettungsdienst",
+    "phone": "+41 79 101 93 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12813678401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4386533,
+      47.0776297
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12814261801",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Aula Kantonsschule Rämibühl, im Foyer gegenüber Haupteingang, rechts von der Garderobe",
+    "description": "während Veranstaltungen verfügbar, keine durchgängigen Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Literargymnasium Rämibühl",
+    "phone": "+41 44 265 62 82",
+    "ref": "8900-0800-01",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12814261801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5526308,
+      47.3709254
     ]
   }
 }

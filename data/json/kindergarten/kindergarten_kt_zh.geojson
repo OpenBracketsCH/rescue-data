@@ -14400,8 +14400,10 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "building:levels": "2",
+    "check_date": "2025-05-06",
     "email": "ursula.pedrazzoli@primarschule-uster.ch",
     "name": "Kindergarten Pünt",
+    "operator:type": "public",
     "phone": "+41 44 941 11 50",
     "school": "primary",
     "school:CH": "primarschule",
@@ -32158,6 +32160,10 @@
           47.3425786
         ],
         [
+          8.5330373,
+          47.3426847
+        ],
+        [
           8.5329871,
           47.3427844
         ],
@@ -38447,22 +38453,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8761055062",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "KiMi",
-    "id": "node/8761055062"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5609237,
-      47.4221453
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8823901478",
   "properties": {
     "addr:city": "Affoltern am Albis",
@@ -42447,7 +42437,9 @@
   "id": "node/9960751952",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-05-06",
     "name": "Kindergarten Krämeracker",
+    "operator:type": "public",
     "id": "node/9960751952"
   },
   "geometry": {
@@ -42467,6 +42459,7 @@
     "addr:postcode": "8610",
     "addr:street": "Aathalstrasse",
     "amenity": "kindergarten",
+    "check_date": "2025-05-06",
     "contact:website": "https://www.primarschule-uster.ch/oberustersulzbach/211",
     "name": "Kindergarten Oberuster",
     "id": "node/9960754438"
