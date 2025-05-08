@@ -441,6 +441,10 @@
   "type": "Feature",
   "id": "way/31827427",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "21",
+    "addr:postcode": "8810",
+    "addr:street": "Waldeggstrasse",
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Horgen - Depot Horgen",
@@ -816,6 +820,10 @@
         [
           8.5291438,
           47.3178951
+        ],
+        [
+          8.5290794,
+          47.3180216
         ],
         [
           8.5290052,
@@ -6370,7 +6378,7 @@
   "type": "Feature",
   "id": "node/7462551854",
   "properties": {
-    "addr:city": "Wil ZH",
+    "addr:city": "Wil",
     "addr:housenumber": "10",
     "addr:postcode": "8196",
     "addr:street": "Schützenhausstrasse",
@@ -6381,8 +6389,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5067048,
-      47.5996083
+      8.5067545,
+      47.5995759
     ]
   }
 },

@@ -4811,6 +4811,11 @@
   "type": "Feature",
   "id": "way/229758761",
   "properties": {
+    "addr:city": "Unterägeri",
+    "addr:country": "CH",
+    "addr:housenumber": "28",
+    "addr:postcode": "6314",
+    "addr:street": "Höfnerstrasse",
     "amenity": "school",
     "building": "yes",
     "id": "way/229758761"

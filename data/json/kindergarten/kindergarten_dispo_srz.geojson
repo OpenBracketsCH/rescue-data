@@ -1325,6 +1325,10 @@
   "type": "Feature",
   "id": "way/32450538",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "30",
+    "addr:postcode": "8810",
+    "addr:street": "Erlenstrasse",
     "amenity": "kindergarten",
     "building": "school",
     "name": "Kindergarten Fischenrüti",
@@ -1430,6 +1434,10 @@
   "type": "Feature",
   "id": "way/32450750",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8810",
+    "addr:street": "Mühlebachstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Allmend 1+2+3",
@@ -1483,6 +1491,10 @@
   "type": "Feature",
   "id": "way/32451201",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "23",
+    "addr:postcode": "8810",
+    "addr:street": "Drusbergstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Heubach",
@@ -8842,6 +8854,10 @@
   "type": "Feature",
   "id": "way/97010281",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "16",
+    "addr:postcode": "8810",
+    "addr:street": "Aubrigstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Kottenrain 1+2",
@@ -8971,6 +8987,10 @@
   "type": "Feature",
   "id": "way/97161679",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "39",
+    "addr:postcode": "8810",
+    "addr:street": "Gehrenstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Gehren",
@@ -9008,6 +9028,10 @@
   "type": "Feature",
   "id": "way/97467854",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "60a",
+    "addr:postcode": "8810",
+    "addr:street": "Bockenweg",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Arn",
@@ -9085,6 +9109,10 @@
   "type": "Feature",
   "id": "way/98645682",
   "properties": {
+    "addr:city": "Horgenberg",
+    "addr:housenumber": "1a",
+    "addr:postcode": "8815",
+    "addr:street": "Maurenmoosstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Horgenberg",
@@ -10051,10 +10079,11 @@
     "addr:street": "Brunnenwiesenstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
-    "check_date": "2025-04-01",
+    "check_date": "2025-05-07",
     "contact:phone": "+41 44 940 61 00",
     "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/791",
     "name": "Kindergarten Brunnenwiese",
+    "operator:type": "public",
     "id": "way/110887668"
   },
   "geometry": {
@@ -15247,8 +15276,9 @@
     "addr:street": "Seestrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
-    "check_date": "2025-01-04",
+    "check_date": "2025-05-08",
     "name": "Kindergarten Niederuster",
+    "operator:type": "public",
     "id": "way/178413096"
   },
   "geometry": {
@@ -15354,10 +15384,11 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "building:levels": "2",
-    "check_date": "2025-03-25",
+    "check_date": "2025-05-08",
     "contact:phone": "+41 44 940 16 55",
     "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/804",
     "name": "Kindergarten Wanne",
+    "operator:type": "public",
     "roof:levels": "0",
     "id": "way/179174984"
   },
@@ -27840,12 +27871,28 @@
           47.3385264
         ],
         [
+          8.5326711,
+          47.3383939
+        ],
+        [
+          8.5327097,
+          47.3382212
+        ],
+        [
           8.5327107,
           47.3382168
         ],
         [
           8.5329704,
           47.3379277
+        ],
+        [
+          8.5330957,
+          47.3379909
+        ],
+        [
+          8.533362,
+          47.338125
         ],
         [
           8.5334789,
@@ -36809,6 +36856,93 @@
 },
 {
   "type": "Feature",
+  "id": "way/1384302584",
+  "properties": {
+    "amenity": "kindergarten",
+    "id": "way/1384302584"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5275269,
+          47.3365988
+        ],
+        [
+          8.5275273,
+          47.336577
+        ],
+        [
+          8.5275282,
+          47.3365199
+        ],
+        [
+          8.5275253,
+          47.3365085
+        ],
+        [
+          8.5275401,
+          47.3363714
+        ],
+        [
+          8.5276618,
+          47.3363944
+        ],
+        [
+          8.5277535,
+          47.3364125
+        ],
+        [
+          8.5280009,
+          47.336452
+        ],
+        [
+          8.5280136,
+          47.3364652
+        ],
+        [
+          8.528013,
+          47.3364775
+        ],
+        [
+          8.528025,
+          47.3364784
+        ],
+        [
+          8.5280243,
+          47.3364971
+        ],
+        [
+          8.5280237,
+          47.3365102
+        ],
+        [
+          8.5279882,
+          47.3365093
+        ],
+        [
+          8.5279873,
+          47.3365201
+        ],
+        [
+          8.5279866,
+          47.3365991
+        ],
+        [
+          8.5279474,
+          47.3365985
+        ],
+        [
+          8.5275269,
+          47.3365988
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",
@@ -40417,8 +40551,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6121958,
-      47.254424
+      8.6122238,
+      47.2543756
     ]
   }
 },
@@ -47870,8 +48004,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5089777,
-      47.604716
+      8.5091242,
+      47.6047778
     ]
   }
 },
@@ -48137,8 +48271,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7451754,
-      47.1270174
+      8.7450606,
+      47.1269685
     ]
   }
 },

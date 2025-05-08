@@ -9769,6 +9769,10 @@
   "type": "Feature",
   "id": "way/31318152",
   "properties": {
+    "addr:city": "Horgenberg",
+    "addr:housenumber": "1",
+    "addr:postcode": "8815",
+    "addr:street": "Maurenmoosstrasse",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Horgenberg",
@@ -10121,6 +10125,10 @@
   "type": "Feature",
   "id": "way/31827047",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "35",
+    "addr:postcode": "8810",
+    "addr:street": "Alte Landstrasse",
     "amenity": "school",
     "building": "school",
     "check_date": "2024-10-18",
@@ -10175,6 +10183,10 @@
   "type": "Feature",
   "id": "way/31827052",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "33",
+    "addr:postcode": "8810",
+    "addr:street": "Alte Landstrasse",
     "amenity": "school",
     "building": "school",
     "check_date": "2024-10-18",
@@ -18460,6 +18472,10 @@
   "type": "Feature",
   "id": "way/44629796",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "57",
+    "addr:postcode": "8810",
+    "addr:street": "Glärnischstrasse",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Rotweg",
@@ -28195,6 +28211,10 @@
           47.3421532
         ],
         [
+          8.5332223,
+          47.3420226
+        ],
+        [
           8.5332228,
           47.3420142
         ],
@@ -28233,6 +28253,14 @@
         [
           8.5344169,
           47.3415281
+        ],
+        [
+          8.5342986,
+          47.3416971
+        ],
+        [
+          8.5341994,
+          47.3418387
         ],
         [
           8.5341679,
@@ -29198,6 +29226,10 @@
   "type": "Feature",
   "id": "way/96298580",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "13",
+    "addr:postcode": "8810",
+    "addr:street": "Speerstrasse",
     "amenity": "school",
     "building": "school",
     "check_date": "2024-11-03",
@@ -29238,6 +29270,10 @@
   "type": "Feature",
   "id": "way/96298611",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "26",
+    "addr:postcode": "8810",
+    "addr:street": "Einsiedlerstrasse",
     "amenity": "school",
     "building": "school",
     "check_date": "2024-11-03",
@@ -29416,6 +29452,10 @@
   "type": "Feature",
   "id": "way/97467858",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "60",
+    "addr:postcode": "8810",
+    "addr:street": "Bockenweg",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Arn",
@@ -54455,9 +54495,10 @@
   "id": "way/222864920",
   "properties": {
     "amenity": "school",
-    "check_date": "2025-05-05",
+    "check_date": "2025-05-07",
     "grades": "1-6",
     "name": "Schulhaus Hasenbühl",
+    "operator:type": "public",
     "id": "way/222864920"
   },
   "geometry": {
@@ -63112,6 +63153,10 @@
   "type": "Feature",
   "id": "way/264194308",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "11",
+    "addr:postcode": "8810",
+    "addr:street": "Speerstrasse",
     "amenity": "school",
     "building": "school",
     "id": "way/264194308"
@@ -81321,6 +81366,10 @@
           47.3394637
         ],
         [
+          8.534758,
+          47.3391991
+        ],
+        [
           8.5349008,
           47.3391043
         ],
@@ -93987,6 +94036,10 @@
   "type": "Feature",
   "id": "way/1078399727",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "24",
+    "addr:postcode": "8810",
+    "addr:street": "Einsiedlerstrasse",
     "amenity": "school",
     "building": "school",
     "check_date": "2024-11-03",
@@ -94138,6 +94191,10 @@
   "type": "Feature",
   "id": "way/1078511517",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "5",
+    "addr:postcode": "8810",
+    "addr:street": "Waldeggstrasse",
     "amenity": "school",
     "building": "school",
     "layer": "1",
@@ -99545,8 +99602,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5941725,
-      47.2614492
+      8.5940647,
+      47.2614737
     ]
   }
 },
@@ -103568,8 +103625,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5582062,
-      47.3069051
+      8.5582416,
+      47.3069075
     ]
   }
 },

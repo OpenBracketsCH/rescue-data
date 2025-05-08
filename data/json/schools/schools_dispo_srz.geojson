@@ -3235,6 +3235,115 @@
 },
 {
   "type": "Feature",
+  "id": "relation/19097543",
+  "properties": {
+    "addr:city": "Wollerau",
+    "addr:housenumber": "9",
+    "addr:postcode": "8832",
+    "addr:street": "Sihleggstrasse",
+    "amenity": "school",
+    "building": "school",
+    "name": "Obersee Bilingual School",
+    "short_name": "OBS",
+    "type": "multipolygon",
+    "id": "relation/19097543"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7057382,
+          47.1890427
+        ],
+        [
+          8.7058712,
+          47.188875
+        ],
+        [
+          8.7059034,
+          47.1888727
+        ],
+        [
+          8.7059666,
+          47.1887922
+        ],
+        [
+          8.7059521,
+          47.1887761
+        ],
+        [
+          8.7061154,
+          47.1885694
+        ],
+        [
+          8.706696,
+          47.1887846
+        ],
+        [
+          8.7065459,
+          47.1889729
+        ],
+        [
+          8.706563,
+          47.1889788
+        ],
+        [
+          8.7065058,
+          47.1890723
+        ],
+        [
+          8.7064314,
+          47.1891259
+        ],
+        [
+          8.7064235,
+          47.1891241
+        ],
+        [
+          8.706386,
+          47.1891725
+        ],
+        [
+          8.7060232,
+          47.1891488
+        ],
+        [
+          8.7057382,
+          47.1890427
+        ]
+      ],
+      [
+        [
+          8.7060832,
+          47.1889712
+        ],
+        [
+          8.7062906,
+          47.1890477
+        ],
+        [
+          8.7063175,
+          47.1890139
+        ],
+        [
+          8.7064161,
+          47.1888904
+        ],
+        [
+          8.7062088,
+          47.188814
+        ],
+        [
+          8.7060832,
+          47.1889712
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/5068100",
   "properties": {
     "amenity": "school",
@@ -10983,6 +11092,10 @@
   "type": "Feature",
   "id": "way/31318152",
   "properties": {
+    "addr:city": "Horgenberg",
+    "addr:housenumber": "1",
+    "addr:postcode": "8815",
+    "addr:street": "Maurenmoosstrasse",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Horgenberg",
@@ -11335,6 +11448,10 @@
   "type": "Feature",
   "id": "way/31827047",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "35",
+    "addr:postcode": "8810",
+    "addr:street": "Alte Landstrasse",
     "amenity": "school",
     "building": "school",
     "check_date": "2024-10-18",
@@ -11389,6 +11506,10 @@
   "type": "Feature",
   "id": "way/31827052",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "33",
+    "addr:postcode": "8810",
+    "addr:street": "Alte Landstrasse",
     "amenity": "school",
     "building": "school",
     "check_date": "2024-10-18",
@@ -21418,6 +21539,10 @@
   "type": "Feature",
   "id": "way/44629796",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "57",
+    "addr:postcode": "8810",
+    "addr:street": "Glärnischstrasse",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Rotweg",
@@ -32498,6 +32623,10 @@
           47.3421532
         ],
         [
+          8.5332223,
+          47.3420226
+        ],
+        [
           8.5332228,
           47.3420142
         ],
@@ -32536,6 +32665,14 @@
         [
           8.5344169,
           47.3415281
+        ],
+        [
+          8.5342986,
+          47.3416971
+        ],
+        [
+          8.5341994,
+          47.3418387
         ],
         [
           8.5341679,
@@ -33501,6 +33638,10 @@
   "type": "Feature",
   "id": "way/96298580",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "13",
+    "addr:postcode": "8810",
+    "addr:street": "Speerstrasse",
     "amenity": "school",
     "building": "school",
     "check_date": "2024-11-03",
@@ -33541,6 +33682,10 @@
   "type": "Feature",
   "id": "way/96298611",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "26",
+    "addr:postcode": "8810",
+    "addr:street": "Einsiedlerstrasse",
     "amenity": "school",
     "building": "school",
     "check_date": "2024-11-03",
@@ -33719,6 +33864,10 @@
   "type": "Feature",
   "id": "way/97467858",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "60",
+    "addr:postcode": "8810",
+    "addr:street": "Bockenweg",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Arn",
@@ -67054,9 +67203,10 @@
   "id": "way/222864920",
   "properties": {
     "amenity": "school",
-    "check_date": "2025-05-05",
+    "check_date": "2025-05-07",
     "grades": "1-6",
     "name": "Schulhaus Hasenbühl",
+    "operator:type": "public",
     "id": "way/222864920"
   },
   "geometry": {
@@ -69407,6 +69557,11 @@
   "type": "Feature",
   "id": "way/229758761",
   "properties": {
+    "addr:city": "Unterägeri",
+    "addr:country": "CH",
+    "addr:housenumber": "28",
+    "addr:postcode": "6314",
+    "addr:street": "Höfnerstrasse",
     "amenity": "school",
     "building": "yes",
     "id": "way/229758761"
@@ -77628,6 +77783,10 @@
   "type": "Feature",
   "id": "way/264194308",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "11",
+    "addr:postcode": "8810",
+    "addr:street": "Speerstrasse",
     "amenity": "school",
     "building": "school",
     "id": "way/264194308"
@@ -103192,6 +103351,10 @@
           47.3394637
         ],
         [
+          8.534758,
+          47.3391991
+        ],
+        [
           8.5349008,
           47.3391043
         ],
@@ -118931,6 +119094,10 @@
   "type": "Feature",
   "id": "way/1078399727",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "24",
+    "addr:postcode": "8810",
+    "addr:street": "Einsiedlerstrasse",
     "amenity": "school",
     "building": "school",
     "check_date": "2024-11-03",
@@ -119082,6 +119249,10 @@
   "type": "Feature",
   "id": "way/1078511517",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "5",
+    "addr:postcode": "8810",
+    "addr:street": "Waldeggstrasse",
     "amenity": "school",
     "building": "school",
     "layer": "1",
@@ -121074,87 +121245,6 @@
         [
           8.7857248,
           47.0402709
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/1102575814",
-  "properties": {
-    "addr:city": "Wollerau",
-    "addr:housenumber": "9",
-    "addr:postcode": "8832",
-    "addr:street": "Sihleggstrasse",
-    "amenity": "school",
-    "name": "Obersee Bilingual School",
-    "short_name": "OBS",
-    "id": "way/1102575814"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7057382,
-          47.1890427
-        ],
-        [
-          8.7058712,
-          47.188875
-        ],
-        [
-          8.7059034,
-          47.1888727
-        ],
-        [
-          8.7059666,
-          47.1887922
-        ],
-        [
-          8.7059521,
-          47.1887761
-        ],
-        [
-          8.7061154,
-          47.1885694
-        ],
-        [
-          8.706696,
-          47.1887846
-        ],
-        [
-          8.7065459,
-          47.1889729
-        ],
-        [
-          8.706563,
-          47.1889788
-        ],
-        [
-          8.7065058,
-          47.1890723
-        ],
-        [
-          8.7064314,
-          47.1891259
-        ],
-        [
-          8.7064235,
-          47.1891241
-        ],
-        [
-          8.706386,
-          47.1891725
-        ],
-        [
-          8.7060232,
-          47.1891488
-        ],
-        [
-          8.7057382,
-          47.1890427
         ]
       ]
     ]
@@ -126434,8 +126524,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5941725,
-      47.2614492
+      8.5940647,
+      47.2614737
     ]
   }
 },
@@ -131336,8 +131426,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5582062,
-      47.3069051
+      8.5582416,
+      47.3069075
     ]
   }
 },

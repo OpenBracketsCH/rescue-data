@@ -4027,9 +4027,7 @@
   "type": "Feature",
   "id": "node/2463070431",
   "properties": {
-    "addr:city": "Dielsdorf",
     "addr:housenumber": "43",
-    "addr:postcode": "8157",
     "addr:street": "Wehntalerstrasse",
     "amenity": "pharmacy",
     "email": "info@gesundheits-apotheke.ch",
@@ -4044,8 +4042,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4537708,
-      47.4817544
+      8.4537786,
+      47.4817311
     ]
   }
 },
@@ -5917,8 +5915,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5984065,
-      47.2590767
+      8.5984176,
+      47.2590883
     ]
   }
 },

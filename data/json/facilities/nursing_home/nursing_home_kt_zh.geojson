@@ -17774,6 +17774,14 @@
           47.3379735
         ],
         [
+          8.5314903,
+          47.3379764
+        ],
+        [
+          8.5317351,
+          47.3380071
+        ],
+        [
           8.5321018,
           47.3380538
         ],
@@ -18535,6 +18543,10 @@
   "type": "Feature",
   "id": "way/662349659",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "2",
+    "addr:postcode": "8810",
+    "addr:street": "Schärbächlistrasse",
     "amenity": "social_facility",
     "email": "info@tabea.ch",
     "name": "Alterszentrum Haus Tabea",

@@ -5270,6 +5270,10 @@
   "type": "Feature",
   "id": "way/317763534",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "19",
+    "addr:postcode": "8810",
+    "addr:street": "Asylstrasse",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",

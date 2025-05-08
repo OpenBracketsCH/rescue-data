@@ -4631,6 +4631,9 @@
   "type": "Feature",
   "id": "way/32963881",
   "properties": {
+    "addr:housenumber": "55",
+    "addr:postcode": "8810",
+    "addr:street": "Zugerstrasse",
     "amenity": "social_facility",
     "building": "yes",
     "email": "arbeiten@humanitashorgen.ch",
@@ -7825,6 +7828,7 @@
     "addr:street": "Bahnhofstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2025-05-07",
     "email": "info@gleis1-rafz.org",
     "name": "Gleis 1 Jugendheim",
     "operator": "Verein betreutes Wohnen",
@@ -11634,6 +11638,10 @@
   "type": "Feature",
   "id": "way/96293676",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "11",
+    "addr:postcode": "8810",
+    "addr:street": "Amalie-Widmer-Strasse",
     "alt_name": "Stiftung Amalie Widmer",
     "amenity": "social_facility",
     "building": "apartments",
@@ -12146,6 +12154,10 @@
   "type": "Feature",
   "id": "way/98524706",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "53",
+    "addr:postcode": "8810",
+    "addr:street": "Zugerstrasse",
     "amenity": "social_facility",
     "building": "yes",
     "email": "werkstatt.textil@humanitashorgen.ch",
@@ -30403,6 +30415,14 @@
           47.3379735
         ],
         [
+          8.5314903,
+          47.3379764
+        ],
+        [
+          8.5317351,
+          47.3380071
+        ],
+        [
           8.5321018,
           47.3380538
         ],
@@ -30549,91 +30569,6 @@
         [
           8.4976836,
           47.3740923
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/545775507",
-  "properties": {
-    "amenity": "social_facility",
-    "name": "SAW-Siedlung Werdhölzli",
-    "operator": "Stiftung Alterswohnungen der Stadt Zürich (SAW)",
-    "social_facility": "assisted_living",
-    "social_facility:for": "senior",
-    "start_date": "1973",
-    "website": "https://www.stadt-zuerich.ch/zuerich-im-alter/de/index/wohnen/alterswohnungen/Kreis_9/saw_werdhoelzli.html",
-    "id": "way/545775507"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4823137,
-          47.3980961
-        ],
-        [
-          8.4820937,
-          47.3977107
-        ],
-        [
-          8.4820846,
-          47.3976816
-        ],
-        [
-          8.4820826,
-          47.3976494
-        ],
-        [
-          8.4820813,
-          47.3976344
-        ],
-        [
-          8.4820944,
-          47.397618
-        ],
-        [
-          8.4821153,
-          47.3976057
-        ],
-        [
-          8.482157,
-          47.3975854
-        ],
-        [
-          8.4823128,
-          47.3975258
-        ],
-        [
-          8.4825274,
-          47.3974565
-        ],
-        [
-          8.4827726,
-          47.397366
-        ],
-        [
-          8.4830048,
-          47.3972734
-        ],
-        [
-          8.4832891,
-          47.3976579
-        ],
-        [
-          8.4829993,
-          47.3977422
-        ],
-        [
-          8.4831025,
-          47.3978908
-        ],
-        [
-          8.4823137,
-          47.3980961
         ]
       ]
     ]
@@ -32688,6 +32623,10 @@
   "type": "Feature",
   "id": "way/662349659",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "2",
+    "addr:postcode": "8810",
+    "addr:street": "Schärbächlistrasse",
     "amenity": "social_facility",
     "email": "info@tabea.ch",
     "name": "Alterszentrum Haus Tabea",
@@ -46061,8 +46000,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4369111,
-      47.5034844
+      8.4369161,
+      47.5034337
     ]
   }
 },

@@ -23320,6 +23320,10 @@
   "type": "Feature",
   "id": "way/317763534",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "19",
+    "addr:postcode": "8810",
+    "addr:street": "Asylstrasse",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
@@ -40774,6 +40778,7 @@
     "addr:postcode": "2000",
     "addr:street": "Faubourg de l'Hôpital",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Hôpital catholique de la Providence",
     "phone": "+41 32 720 30 30",
     "source": "Orthophotos 2006 SITN 50cm",
@@ -43398,6 +43403,7 @@
     "addr:postcode": "6600",
     "addr:street": "Via Stefano Franscini",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Clinica Santa Chiara SA",
     "phone": "+41 91 756 41 11",
     "website": "https://www.clinicasantachiara.ch/",
@@ -58226,6 +58232,23 @@
     "coordinates": [
       6.1433455,
       46.2091006
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12818424603",
+  "properties": {
+    "addr:housenumber": "14a",
+    "addr:street": "Karlihofstrasse",
+    "amenity": "hospital",
+    "id": "node/12818424603"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5637212,
+      46.9696081
     ]
   }
 }
