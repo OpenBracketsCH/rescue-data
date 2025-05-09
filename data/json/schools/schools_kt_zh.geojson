@@ -23226,6 +23226,10 @@
   "type": "Feature",
   "id": "way/68804806",
   "properties": {
+    "addr:city": "Hirzel",
+    "addr:housenumber": "47",
+    "addr:postcode": "8816",
+    "addr:street": "Dorfstrasse",
     "amenity": "school",
     "building": "school",
     "name": "Schulhaus Schützenmatt",
@@ -66815,6 +66819,10 @@
   "type": "Feature",
   "id": "way/295032920",
   "properties": {
+    "addr:city": "Hirzel",
+    "addr:housenumber": "56b",
+    "addr:postcode": "8816",
+    "addr:street": "Dorfstrasse",
     "amenity": "school",
     "building": "school",
     "name": "Schule Heerenrainli",

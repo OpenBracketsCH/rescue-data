@@ -5,6 +5,9 @@
   "type": "Feature",
   "id": "way/23646458",
   "properties": {
+    "addr:housenumber": "1.1",
+    "addr:postcode": "6340",
+    "addr:street": "Walterswil",
     "amenity": "school",
     "building": "yes",
     "id": "way/23646458"
@@ -217,6 +220,9 @@
   "type": "Feature",
   "id": "way/23646461",
   "properties": {
+    "addr:housenumber": "1.5",
+    "addr:postcode": "6340",
+    "addr:street": "Walterswil",
     "amenity": "school",
     "building": "yes",
     "id": "way/23646461"
@@ -317,6 +323,10 @@
   "type": "Feature",
   "id": "way/23646462",
   "properties": {
+    "addr:city": "Baar",
+    "addr:housenumber": "1.7",
+    "addr:postcode": "6340",
+    "addr:street": "Walterswil",
     "amenity": "school",
     "building": "yes",
     "name": "International School of Zug and Luzern",
@@ -661,6 +671,7 @@
   "type": "Feature",
   "id": "way/32216321",
   "properties": {
+    "addr:city": "Baar",
     "addr:housenumber": "9",
     "addr:postcode": "6340",
     "addr:street": "Deinikonerstrasse",
@@ -721,6 +732,7 @@
   "type": "Feature",
   "id": "way/32216356",
   "properties": {
+    "addr:city": "Baar",
     "addr:housenumber": "7",
     "addr:postcode": "6340",
     "addr:street": "Deinikonerstrasse",
@@ -1455,6 +1467,7 @@
   "type": "Feature",
   "id": "way/41062607",
   "properties": {
+    "addr:city": "Baar",
     "addr:postcode": "6340",
     "amenity": "school",
     "building": "school",
@@ -2646,9 +2659,7 @@
   "type": "Feature",
   "id": "way/54362437",
   "properties": {
-    "addr:housenumber": "10",
-    "addr:postcode": "6340",
-    "addr:street": "Sternmattstrasse",
+    "addr:city": "Baar",
     "amenity": "school",
     "building": "yes",
     "name": "Sternmatt I",
@@ -2702,6 +2713,7 @@
   "type": "Feature",
   "id": "way/54362493",
   "properties": {
+    "addr:city": "Baar",
     "addr:housenumber": "22b",
     "addr:postcode": "6340",
     "addr:street": "Inwilerstrasse",
@@ -2745,6 +2757,7 @@
   "type": "Feature",
   "id": "way/54362582",
   "properties": {
+    "addr:city": "Baar",
     "addr:housenumber": "6",
     "addr:postcode": "6340",
     "addr:street": "Inwilerstrasse",
@@ -2842,6 +2855,7 @@
   "type": "Feature",
   "id": "way/54362583",
   "properties": {
+    "addr:city": "Baar",
     "addr:housenumber": "4",
     "addr:postcode": "6340",
     "addr:street": "Inwilerstrasse",
@@ -2986,7 +3000,10 @@
   "type": "Feature",
   "id": "way/108958685",
   "properties": {
-    "addr:place": "Walterswil",
+    "addr:city": "Baar",
+    "addr:housenumber": "2",
+    "addr:postcode": "6340",
+    "addr:street": "Walterswil",
     "amenity": "school",
     "building": "yes",
     "id": "way/108958685"
@@ -3854,6 +3871,10 @@
   "type": "Feature",
   "id": "way/170975540",
   "properties": {
+    "addr:city": "Allenwinden",
+    "addr:housenumber": "18",
+    "addr:postcode": "6319",
+    "addr:street": "Dorfstrasse",
     "amenity": "school",
     "building": "yes",
     "id": "way/170975540"
@@ -4360,6 +4381,7 @@
   "type": "Feature",
   "id": "way/196783639",
   "properties": {
+    "addr:city": "Allenwinden",
     "addr:housenumber": "10",
     "addr:postcode": "6319",
     "addr:street": "Dorfstrasse",
@@ -5025,7 +5047,9 @@
   "type": "Feature",
   "id": "way/275863164",
   "properties": {
-    "addr:place": "Walterswil",
+    "addr:housenumber": "3",
+    "addr:postcode": "6340",
+    "addr:street": "Walterswil",
     "amenity": "school",
     "building": "yes",
     "id": "way/275863164"
@@ -7808,6 +7832,9 @@
   "type": "Feature",
   "id": "way/1042637871",
   "properties": {
+    "addr:housenumber": "2.1",
+    "addr:postcode": "6340",
+    "addr:street": "Walterswil",
     "amenity": "school",
     "id": "way/1042637871"
   },
@@ -7843,7 +7870,10 @@
   "type": "Feature",
   "id": "way/1042637872",
   "properties": {
-    "addr:place": "Walterswil",
+    "addr:city": "Baar",
+    "addr:housenumber": "1",
+    "addr:postcode": "6340",
+    "addr:street": "Walterswil",
     "amenity": "school",
     "building": "yes",
     "name": "International School of Zug and Luzern",
@@ -7886,6 +7916,9 @@
   "type": "Feature",
   "id": "way/1042637873",
   "properties": {
+    "addr:housenumber": "1.8",
+    "addr:postcode": "6340",
+    "addr:street": "Walterswil",
     "amenity": "school",
     "building": "yes",
     "id": "way/1042637873"
@@ -7922,6 +7955,7 @@
   "type": "Feature",
   "id": "way/1046864458",
   "properties": {
+    "addr:city": "Baar",
     "addr:housenumber": "7b",
     "addr:postcode": "6340",
     "addr:street": "Deinikonerstrasse",
@@ -7964,6 +7998,7 @@
   "type": "Feature",
   "id": "way/1094394798",
   "properties": {
+    "addr:city": "Baar",
     "addr:housenumber": "13",
     "addr:postcode": "6340",
     "addr:street": "Deinikonerstrasse",

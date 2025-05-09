@@ -5,9 +5,6 @@
   "type": "Feature",
   "id": "way/41062610",
   "properties": {
-    "addr:city": "Baar",
-    "addr:place": "Rainhalde",
-    "addr:postcode": "6340",
     "amenity": "kindergarten",
     "building": "yes",
     "check_date": "2024-02-24",
@@ -46,9 +43,7 @@
   "type": "Feature",
   "id": "way/54362361",
   "properties": {
-    "addr:housenumber": "30",
-    "addr:postcode": "6340",
-    "addr:street": "Altgasse",
+    "addr:city": "Baar",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "building:colour": "brown",
@@ -56,6 +51,7 @@
     "building:use": "education",
     "check_date": "2025-01-01",
     "name": "Kindergarten Altgasse",
+    "nohousenumber": "yes",
     "operator": "Schulen Baar",
     "preschool": "yes",
     "roof:shape": "flat",
@@ -246,6 +242,7 @@
   "type": "Feature",
   "id": "way/154831362",
   "properties": {
+    "addr:city": "Unterägeri",
     "addr:country": "CH",
     "addr:housenumber": "2",
     "addr:postcode": "6314",
@@ -287,6 +284,7 @@
   "type": "Feature",
   "id": "way/192553802",
   "properties": {
+    "addr:city": "Unterägeri",
     "addr:country": "CH",
     "addr:housenumber": "2",
     "addr:place": "Chlösterli",

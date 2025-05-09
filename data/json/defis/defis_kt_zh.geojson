@@ -12236,8 +12236,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Fr 08:00-17:00",
-    "operator": "Irene Kalt",
-    "phone": "+41 44 913 11 11",
+    "operator": "Gemeinde Küsnacht",
+    "phone": "+41 44 913 12 48",
     "id": "node/8556472951"
   },
   "geometry": {
@@ -27991,7 +27991,7 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Genossenschaft für das Zolliker Gewerbe",
+    "operator": "Gewerbe­zentrum Zollikon",
     "phone": "+41444212060",
     "id": "node/9730014217"
   },
@@ -59594,6 +59594,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Gemeinde Oberrieden",
     "phone": "+41 44 722 71 71",
     "source": "local_knowledge, defikarte.ch",
@@ -59641,6 +59642,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Gemeinde Oberrieden",
     "phone": "+41 44 722 71 71",
     "source": "local_knowledge, defikarte.ch",
@@ -70149,55 +70151,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/12817032903",
-  "properties": {
-    "access": "permissive",
-    "defibrillator:location": "Fahrweidstrasse 80",
-    "description": "während Büroöffnungszeiten",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "1",
-    "opening_hours": "Mo-Fr 8:00-17:00",
-    "operator": "Büro",
-    "phone": "+41848888500",
-    "id": "node/12817032903"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4143357,
-      47.4164327
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/12817129501",
-  "properties": {
-    "access": "permissive",
-    "defibrillator:location": "Fahrweidstrasse 80",
-    "description": "während den Büroöffnungszeiten",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "1",
-    "opening_hours": "Mo-Fr 08:00-17:00",
-    "operator": "Büro",
-    "phone": "+41848888500",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/12817129501"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4143697,
-      47.4162629
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/12817285201",
   "properties": {
     "access": "permissive",
@@ -70218,6 +70171,73 @@
     "coordinates": [
       8.5849149,
       47.318795
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12818633601",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Espelstrasse 43, Illnau – Abgang zu Tiefgarage bei Liegenschaft Nr. 41-45",
+    "description": "an Wand neben Tiefgaragentüre",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "-1",
+    "opening_hours": "24/7",
+    "operator": "Miteigentümergemeinschaft Espelstrasse 27-69",
+    "phone": "+41 79 208 68 27",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12818633601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7232143,
+      47.4043439
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12818671101",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Parkplatz Kindergarten Tobel",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Meilen",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12818671101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6193055,
+      47.2827045
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12818872801",
+  "properties": {
+    "defibrillator:location": "PHYSIO Impact GmbH",
+    "description": "während Öffnungszeiten verfügbar.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12818872801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6969233,
+      47.3457729
     ]
   }
 }

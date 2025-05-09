@@ -15777,6 +15777,10 @@
   "type": "Feature",
   "id": "way/295032884",
   "properties": {
+    "addr:city": "Hirzel",
+    "addr:housenumber": "1a",
+    "addr:postcode": "8816",
+    "addr:street": "Bergstrasse",
     "amenity": "social_facility",
     "building": "yes",
     "email": "info@spyrigarten.ch",

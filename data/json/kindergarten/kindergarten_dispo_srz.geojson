@@ -2586,9 +2586,6 @@
   "type": "Feature",
   "id": "way/41062610",
   "properties": {
-    "addr:city": "Baar",
-    "addr:place": "Rainhalde",
-    "addr:postcode": "6340",
     "amenity": "kindergarten",
     "building": "yes",
     "check_date": "2024-02-24",
@@ -5480,9 +5477,7 @@
   "type": "Feature",
   "id": "way/54362361",
   "properties": {
-    "addr:housenumber": "30",
-    "addr:postcode": "6340",
-    "addr:street": "Altgasse",
+    "addr:city": "Baar",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "building:colour": "brown",
@@ -5490,6 +5485,7 @@
     "building:use": "education",
     "check_date": "2025-01-01",
     "name": "Kindergarten Altgasse",
+    "nohousenumber": "yes",
     "operator": "Schulen Baar",
     "preschool": "yes",
     "roof:shape": "flat",
@@ -8845,139 +8841,6 @@
         [
           8.7496429,
           47.4923227
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/97010281",
-  "properties": {
-    "addr:city": "Horgen",
-    "addr:housenumber": "16",
-    "addr:postcode": "8810",
-    "addr:street": "Aubrigstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Kottenrain 1+2",
-    "id": "way/97010281"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6016191,
-          47.2544347
-        ],
-        [
-          8.6015743,
-          47.2543434
-        ],
-        [
-          8.6016612,
-          47.254324
-        ],
-        [
-          8.6016642,
-          47.2543221
-        ],
-        [
-          8.6016599,
-          47.2543201
-        ],
-        [
-          8.6016569,
-          47.2543172
-        ],
-        [
-          8.6016556,
-          47.2543147
-        ],
-        [
-          8.6016107,
-          47.254224
-        ],
-        [
-          8.6017377,
-          47.2541943
-        ],
-        [
-          8.6017456,
-          47.2541926
-        ],
-        [
-          8.6017572,
-          47.2541929
-        ],
-        [
-          8.6017638,
-          47.254196
-        ],
-        [
-          8.6017672,
-          47.2541996
-        ],
-        [
-          8.6017696,
-          47.254204
-        ],
-        [
-          8.6017985,
-          47.2542628
-        ],
-        [
-          8.6018659,
-          47.2542477
-        ],
-        [
-          8.6018238,
-          47.2543412
-        ],
-        [
-          8.601808,
-          47.2543442
-        ],
-        [
-          8.6017978,
-          47.2543677
-        ],
-        [
-          8.6017589,
-          47.2543766
-        ],
-        [
-          8.6017709,
-          47.254401
-        ],
-        [
-          8.6017712,
-          47.2544057
-        ],
-        [
-          8.6017682,
-          47.2544107
-        ],
-        [
-          8.6017623,
-          47.2544139
-        ],
-        [
-          8.6016414,
-          47.2544421
-        ],
-        [
-          8.6016327,
-          47.2544419
-        ],
-        [
-          8.6016243,
-          47.2544398
-        ],
-        [
-          8.6016191,
-          47.2544347
         ]
       ]
     ]
@@ -13428,6 +13291,7 @@
   "type": "Feature",
   "id": "way/154831362",
   "properties": {
+    "addr:city": "Unterägeri",
     "addr:country": "CH",
     "addr:housenumber": "2",
     "addr:postcode": "6314",
@@ -16561,6 +16425,7 @@
   "type": "Feature",
   "id": "way/192553802",
   "properties": {
+    "addr:city": "Unterägeri",
     "addr:country": "CH",
     "addr:housenumber": "2",
     "addr:place": "Chlösterli",
@@ -23127,6 +22992,10 @@
   "type": "Feature",
   "id": "way/295035033",
   "properties": {
+    "addr:city": "Hirzel",
+    "addr:housenumber": "27",
+    "addr:postcode": "8816",
+    "addr:street": "Dorfstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Dorf",
@@ -24796,6 +24665,7 @@
     "addr:street": "Sonnenstrasse",
     "amenity": "kindergarten",
     "building": "yes",
+    "building:colour": "grey",
     "check_date": "2024-10-20",
     "name": "Kindergarten Ramsen",
     "id": "way/345571677"
@@ -36936,6 +36806,54 @@
         [
           8.5275269,
           47.3365988
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1384515684",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Kottenrain 1+2",
+    "id": "way/1384515684"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6015897,
+          47.2544615
+        ],
+        [
+          8.6015159,
+          47.2543061
+        ],
+        [
+          8.6013055,
+          47.2543578
+        ],
+        [
+          8.6011733,
+          47.254065
+        ],
+        [
+          8.6015054,
+          47.2541605
+        ],
+        [
+          8.6019195,
+          47.2541545
+        ],
+        [
+          8.60177,
+          47.2544971
+        ],
+        [
+          8.6015897,
+          47.2544615
         ]
       ]
     ]
