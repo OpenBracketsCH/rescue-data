@@ -13021,6 +13021,7 @@
     "lanes": "2",
     "layer": "1",
     "lit": "yes",
+    "maxheight:signed": "no",
     "maxspeed": "100",
     "nat_name": "N11",
     "old_name": "A51",
@@ -65230,8 +65231,8 @@
         47.1474403
       ],
       [
-        8.4400827,
-        47.1478489
+        8.440347,
+        47.1475809
       ]
     ]
   }
@@ -83533,8 +83534,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4400827,
-        47.1478489
+        8.440347,
+        47.1475809
       ],
       [
         8.4399982,
@@ -85181,38 +85182,6 @@
   "geometry": {
     "type": "LineString",
     "coordinates": [
-      [
-        8.5693771,
-        47.4398715
-      ],
-      [
-        8.5694106,
-        47.4397113
-      ],
-      [
-        8.5694532,
-        47.4395256
-      ],
-      [
-        8.5695415,
-        47.4391942
-      ],
-      [
-        8.5696653,
-        47.4388088
-      ],
-      [
-        8.5697399,
-        47.4385996
-      ],
-      [
-        8.5698103,
-        47.4384085
-      ],
-      [
-        8.5700098,
-        47.437891
-      ],
       [
         8.5700926,
         47.4376553
@@ -91709,6 +91678,92 @@
       [
         8.3928174,
         47.4222913
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1385057613",
+  "properties": {
+    "alt_name": "Flughafenautobahn",
+    "highway": "motorway",
+    "lanes": "3",
+    "maxspeed": "100",
+    "nat_name": "N11",
+    "old_name": "A51",
+    "oneway": "yes",
+    "ref": "A11",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "none|none|slight_right",
+    "id": "way/1385057613"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5693771,
+        47.4398715
+      ],
+      [
+        8.5694106,
+        47.4397113
+      ],
+      [
+        8.5694532,
+        47.4395256
+      ],
+      [
+        8.5695415,
+        47.4391942
+      ],
+      [
+        8.5696653,
+        47.4388088
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1385057614",
+  "properties": {
+    "alt_name": "Flughafenautobahn",
+    "highway": "motorway",
+    "lanes": "2",
+    "maxspeed": "100",
+    "nat_name": "N11",
+    "old_name": "A51",
+    "oneway": "yes",
+    "ref": "A11",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "none|none|slight_right",
+    "id": "way/1385057614"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5696653,
+        47.4388088
+      ],
+      [
+        8.5697399,
+        47.4385996
+      ],
+      [
+        8.5698103,
+        47.4384085
+      ],
+      [
+        8.5700098,
+        47.437891
+      ],
+      [
+        8.5700926,
+        47.4376553
       ]
     ]
   }

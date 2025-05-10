@@ -48745,6 +48745,30 @@
       47.2520916
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12822720420",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "90",
+    "addr:postcode": "8408",
+    "addr:street": "Wässerwiesenstrasse",
+    "amenity": "social_facility",
+    "name": "Spitex Futura 24",
+    "operator:type": "private",
+    "social_facility": "ambulatory_care",
+    "social_facility:for": "senior",
+    "website": "https://www.spitex-futura24.ch/",
+    "id": "node/12822720420"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6831234,
+      47.5142257
+    ]
+  }
 }
 ]
 }

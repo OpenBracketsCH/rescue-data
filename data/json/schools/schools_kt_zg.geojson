@@ -5493,73 +5493,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/346809074",
-  "properties": {
-    "addr:city": "Cham",
-    "addr:housenumber": "23",
-    "addr:postcode": "6330",
-    "addr:street": "Johannisstrasse",
-    "amenity": "school",
-    "building": "school",
-    "building:levels": "3",
-    "entrance": "yes",
-    "name": "Schulhaus Städtli 2",
-    "id": "way/346809074"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4632406,
-          47.1829889
-        ],
-        [
-          8.4631821,
-          47.183036
-        ],
-        [
-          8.4631205,
-          47.1830857
-        ],
-        [
-          8.4628532,
-          47.1829325
-        ],
-        [
-          8.4622464,
-          47.1825847
-        ],
-        [
-          8.4622269,
-          47.1825745
-        ],
-        [
-          8.4623166,
-          47.1824579
-        ],
-        [
-          8.4623651,
-          47.1824871
-        ],
-        [
-          8.4626732,
-          47.1826637
-        ],
-        [
-          8.4629733,
-          47.1828357
-        ],
-        [
-          8.4632406,
-          47.1829889
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/376681476",
   "properties": {
     "amenity": "school",
@@ -7013,7 +6946,7 @@
   "properties": {
     "amenity": "school",
     "isced:level": "0;1",
-    "name": "Scjule Städtli 2",
+    "name": "Städtli 2",
     "operator:type": "public",
     "phone": "+41 41 723 85 81",
     "website": "https://www.schulen-cham.ch/de/organisation/standorte/staedtlizwei/",
@@ -7069,7 +7002,7 @@
   "properties": {
     "amenity": "school",
     "isced:level": "0;1",
-    "name": "Schule Städtli 1",
+    "name": "Städtli 1",
     "operator:type": "public",
     "phone": "+41 41 723 85 51",
     "website": "https://www.schulen-cham.ch/de/organisation/standorte/staedtli/",

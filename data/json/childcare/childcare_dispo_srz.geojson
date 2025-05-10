@@ -15913,6 +15913,28 @@
       47.3931629
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12822702473",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "12",
+    "addr:postcode": "8409",
+    "addr:street": "Schönholzweg",
+    "amenity": "childcare",
+    "name": "Chinder-Huus Hegi",
+    "opening_hours": "Mo-Su 06:30-21:30",
+    "website": "https://pwhegi.ch/chind/",
+    "id": "node/12822702473"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7813964,
+      47.505294
+    ]
+  }
 }
 ]
 }
