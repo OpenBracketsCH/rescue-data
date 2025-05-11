@@ -21088,7 +21088,8 @@
     "grades": "1-6",
     "name": "Schule Langwiesen",
     "operator": "Stadt Winterthur",
-    "operator:type": "public",
+    "operator:type": "government",
+    "operator:wikidata": "Q9125",
     "website": "https://www.schule-langwiesen.ch/",
     "id": "way/52562296"
   },
@@ -21125,8 +21126,8 @@
           47.5132955
         ],
         [
-          8.6881858,
-          47.5131842
+          8.6882255,
+          47.5131665
         ],
         [
           8.6884151,
@@ -64173,8 +64174,8 @@
           47.3256127
         ],
         [
-          8.8021574,
-          47.3256598
+          8.8021424,
+          47.3256721
         ],
         [
           8.8018344,
@@ -100989,6 +100990,7 @@
   "id": "node/6140114429",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-05-10",
     "name": "CEIBS",
     "id": "node/6140114429"
   },

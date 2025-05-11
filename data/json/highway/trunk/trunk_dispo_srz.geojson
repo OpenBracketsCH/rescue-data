@@ -25065,6 +25065,7 @@
     "old_name": "A53",
     "oneway": "yes",
     "ref": "A15",
+    "surface": "asphalt",
     "id": "way/1188060382"
   },
   "geometry": {
@@ -26008,6 +26009,7 @@
     "old_name": "A53",
     "oneway": "yes",
     "ref": "A15",
+    "surface": "asphalt",
     "id": "way/1240174966"
   },
   "geometry": {
