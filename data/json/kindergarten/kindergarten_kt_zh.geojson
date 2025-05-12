@@ -4641,6 +4641,7 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "building:levels": "1",
+    "check_date": "2025-05-12",
     "name": "Kindergarten Breitacher",
     "id": "way/49967918"
   },
@@ -14051,6 +14052,7 @@
     "addr:street": "Seestrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "building:levels": "1",
     "check_date": "2025-05-08",
     "name": "Kindergarten Niederuster",
     "operator:type": "public",
@@ -33131,6 +33133,7 @@
     "addr:housenumber": "23",
     "addr:street": "Hardaustrasse",
     "amenity": "kindergarten",
+    "check_date": "2025-05-11",
     "name": "Musische Kindertagesstätte MUKITA",
     "wheelchair": "no",
     "id": "node/1365303145"

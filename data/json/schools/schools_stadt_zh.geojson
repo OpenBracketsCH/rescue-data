@@ -22288,6 +22288,7 @@
   "id": "node/10828170606",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-05-11",
     "name": "Schule für Sehbehinderte",
     "operator": "Stadt Zürich, SSD, Sonderschulen",
     "operator:type": "public",

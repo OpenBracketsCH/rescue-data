@@ -28456,6 +28456,7 @@
   "id": "way/1156599034",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2025-05-11",
     "contact:city": "Uster",
     "contact:email": "info@wagerenhof.ch",
     "contact:housenumber": "24",
