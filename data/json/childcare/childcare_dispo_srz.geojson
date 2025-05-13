@@ -15610,6 +15610,8 @@
   "id": "node/12495533598",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-05-12",
+    "level": "0",
     "name": "Globe Garden",
     "id": "node/12495533598"
   },

@@ -88773,6 +88773,136 @@
       47.3324047
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12829898221",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "bicycle": "no",
+    "foot": "yes",
+    "horse": "no",
+    "locked": "yes",
+    "motor_vehicle": "no",
+    "wheelchair": "no",
+    "id": "node/12829898221"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6932191,
+      47.2542735
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12829898228",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/12829898228"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6952889,
+      47.2514322
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12829898229",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/12829898229"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6950604,
+      47.2512987
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12829938822",
+  "properties": {
+    "barrier": "gate",
+    "locked": "yes",
+    "wheelchair": "no",
+    "id": "node/12829938822"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6941432,
+      47.2540762
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12830004440",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/12830004440"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6990393,
+      47.2544979
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12830045259",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/12830045259"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7015092,
+      47.2549314
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12830113637",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/12830113637"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6911564,
+      47.2636006
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12830198705",
+  "properties": {
+    "barrier": "gate",
+    "wheelchair": "yes",
+    "id": "node/12830198705"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7075946,
+      47.2467273
+    ]
+  }
 }
 ]
 }

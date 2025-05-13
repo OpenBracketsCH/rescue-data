@@ -1944,6 +1944,7 @@
     "addr:postcode": "8180",
     "addr:street": "Bahnhofstrasse",
     "amenity": "pharmacy",
+    "check_date": "2025-05-12",
     "drive_through": "no",
     "email": "info@bueli-apotheke.ch",
     "fax": "+41 44 860 39 10",
@@ -1952,6 +1953,7 @@
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
     "phone": "+41 44 860 72 11",
     "website": "https://www.bueli-apotheke.ch/",
+    "wheelchair": "yes",
     "id": "node/538779680"
   },
   "geometry": {

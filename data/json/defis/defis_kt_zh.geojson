@@ -11195,6 +11195,7 @@
   "id": "node/8446724817",
   "properties": {
     "access": "yes",
+    "check_date": "2025-05-11",
     "defibrillator:location": "Sportanlage Pöschenriet ",
     "description": "Bei Garderobeneingang unten",
     "emergency": "defibrillator",
@@ -12672,8 +12673,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6970842,
-      47.3209096
+      8.697287,
+      47.3210108
     ]
   }
 },
@@ -70269,6 +70270,54 @@
     "coordinates": [
       8.554197,
       47.3644122
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12830075801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Direktionsbüro",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "operator": "Hotel",
+    "phone": "+41 43 388 33 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12830075801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5659564,
+      47.2954835
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12830417902",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Migros-Pensionskasse, Cafeteria 4. OG",
+    "description": "Während Bürozeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "4",
+    "operator": "Migros-Pensionskasse",
+    "phone": "+41 44 436 83 36",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12830417902"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4427428,
+      47.3994673
     ]
   }
 }

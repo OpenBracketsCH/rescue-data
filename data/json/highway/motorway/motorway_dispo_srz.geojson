@@ -10549,12 +10549,14 @@
   "properties": {
     "highway": "motorway",
     "lanes": "1",
+    "layer": "-1",
     "lit": "yes",
     "maxspeed": "60",
     "oneway": "yes",
     "ref": "A1L",
     "surface": "asphalt",
     "toll": "yes",
+    "tunnel": "yes",
     "id": "way/23637407"
   },
   "geometry": {
@@ -10565,12 +10567,8 @@
         47.4099464
       ],
       [
-        8.5702535,
-        47.4103123
-      ],
-      [
-        8.5705246,
-        47.4104555
+        8.5701653,
+        47.4102665
       ]
     ]
   }
@@ -37811,12 +37809,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.570102,
-        47.4104372
-      ],
-      [
-        8.5698483,
-        47.4102899
+        8.569792,
+        47.410254
       ],
       [
         8.5696819,
@@ -91764,6 +91758,70 @@
       [
         8.5700926,
         47.4376553
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1385946445",
+  "properties": {
+    "highway": "motorway",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "60",
+    "oneway": "yes",
+    "ref": "A1L",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1385946445"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5701653,
+        47.4102665
+      ],
+      [
+        8.5702535,
+        47.4103123
+      ],
+      [
+        8.5705246,
+        47.4104555
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1385946446",
+  "properties": {
+    "highway": "motorway",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "60",
+    "oneway": "yes",
+    "ref": "A1L",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1385946446"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.570102,
+        47.4104372
+      ],
+      [
+        8.5698483,
+        47.4102899
+      ],
+      [
+        8.569792,
+        47.410254
       ]
     ]
   }

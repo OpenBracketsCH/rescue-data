@@ -3709,6 +3709,7 @@
     "addr:street": "Gartematt",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2025-05-12",
     "name": "Sechtbach-Huus",
     "operator": "Stiftung WFJB",
     "social_facility": "nursing_home",
