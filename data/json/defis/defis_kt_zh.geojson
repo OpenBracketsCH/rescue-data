@@ -25797,24 +25797,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9530681359",
-  "properties": {
-    "defibrillator:location": "Wall mounted inside lobby",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "id": "node/9530681359"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5365306,
-      47.3729532
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9531793117",
   "properties": {
     "access": "yes",
@@ -46047,31 +46029,6 @@
     "coordinates": [
       8.5548186,
       47.4134581
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11037266736",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Bei Empfang",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "latitude": "47.40077461",
-    "longitude": "8.455164499",
-    "name": "Promea Sozialversicherungen",
-    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-16:30",
-    "operator": "Lifetec AG",
-    "phone": "0800 122 144",
-    "id": "node/11037266736"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4551645,
-      47.4007746
     ]
   }
 },
@@ -70318,6 +70275,82 @@
     "coordinates": [
       8.4427428,
       47.3994673
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12833526654",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Seebad Katzensee, Im Infopoint",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Seebad Katzensee",
+    "phone": "+41 44 371 08 90",
+    "wheelchair": "limited",
+    "id": "node/12833526654"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4934854,
+      47.4309386
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12833579491",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Zürich",
+    "addr:housenumber": "60",
+    "addr:postcode": "8048",
+    "addr:street": "Baslerstrasse",
+    "defibrillator:location": "Treppenhaus C",
+    "description": "Koffer Orange",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "3",
+    "opening_hours": "Mo - Fr 08.00-12.00 13.00 - 16.30",
+    "operator": "Lifetec AG",
+    "phone": "+41800122144",
+    "ref": "1222LTM",
+    "id": "node/12833579491"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4963861,
+      47.3866746
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12833712182",
+  "properties": {
+    "access": "customers",
+    "defibrillator:location": "Eingang USZ Nord 2",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Universitätsspital Zürich",
+    "phone": "+41 44 255 11 11",
+    "wheelchair": "limited",
+    "id": "node/12833712182"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5499235,
+      47.3792841
     ]
   }
 }

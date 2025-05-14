@@ -23777,12 +23777,20 @@
           47.3839658
         ],
         [
+          8.4884422,
+          47.3839673
+        ],
+        [
           8.488327,
           47.3839959
         ],
         [
           8.488277,
           47.3840076
+        ],
+        [
+          8.488217,
+          47.3838943
         ],
         [
           8.4881633,
@@ -37308,6 +37316,7 @@
   "id": "node/465614398",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-05-13",
     "name": "Kindertagesstätte Regenbogen",
     "website": "https://www.kita-regenbogen.ch/",
     "id": "node/465614398"
