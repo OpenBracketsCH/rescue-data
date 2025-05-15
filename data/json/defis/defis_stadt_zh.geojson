@@ -7476,7 +7476,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-Fr 09:00-17:00",
+    "opening_hours": "Mo-Fr 09:00-12:15, 13:15-17:00",
     "operator": "VP Bank (Schweiz) AG",
     "phone": "+41 44 226 24 24",
     "source": "local_knowledge, defikarte.ch",
@@ -16274,6 +16274,30 @@
     "coordinates": [
       8.5499235,
       47.3792841
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12836362901",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Fachschule Viventa, im Haupteingang neben Lift",
+    "description": "während Öffnungszeiten verfügbar, während Schulferien sind die Öffnungszeiten evtl. verkürzt",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator": "Stadt Zürich, Fachschule Viventa",
+    "phone": "+41 44 413 50 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12836362901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5499328,
+      47.4076115
     ]
   }
 }
