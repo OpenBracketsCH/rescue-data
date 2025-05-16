@@ -5770,6 +5770,7 @@
     "old_name": "A53",
     "oneway": "yes",
     "ref": "A15",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/11349853"
   },
@@ -21790,6 +21791,7 @@
     "old_name": "A53",
     "oneway": "yes",
     "ref": "A15",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/31726375"
   },
@@ -26753,6 +26755,7 @@
     "old_name": "A53",
     "oneway": "yes",
     "ref": "A15",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/40528298"
   },
@@ -26817,6 +26820,7 @@
     "old_name": "A53",
     "oneway": "yes",
     "ref": "A15",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/40528299"
   },
@@ -27079,6 +27083,7 @@
     "oneway": "yes",
     "placement": "right_of:1",
     "ref": "A15",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "||slight_right",
     "id": "way/41423198"
@@ -32470,6 +32475,7 @@
     "old_name": "A53",
     "oneway": "yes",
     "ref": "A15",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/56877518"
   },
@@ -70886,6 +70892,7 @@
     "old_name": "A53",
     "oneway": "yes",
     "ref": "A15",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/546336845"
   },
@@ -71139,6 +71146,7 @@
     "oneway": "yes",
     "placement": "right_of:1",
     "ref": "A15",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "||slight_right",
     "id": "way/546336855"
@@ -71246,6 +71254,7 @@
     "old_name": "A53",
     "oneway": "yes",
     "ref": "A15",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/546365246"
   },

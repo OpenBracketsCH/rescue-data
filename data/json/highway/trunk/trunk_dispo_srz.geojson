@@ -10930,6 +10930,7 @@
     "name": "Forchstrasse",
     "oneway": "yes",
     "ref": "A52",
+    "surface": "asphalt",
     "id": "way/145341491"
   },
   "geometry": {
@@ -10980,6 +10981,7 @@
     "name": "Forchstrasse",
     "oneway": "yes",
     "ref": "A52",
+    "surface": "asphalt",
     "turn:lanes": "merge_to_right|none",
     "id": "way/145341492"
   },
@@ -15768,6 +15770,7 @@
     "name": "Forchstrasse",
     "oneway": "yes",
     "ref": "A52",
+    "surface": "asphalt",
     "id": "way/288229670"
   },
   "geometry": {

@@ -498,6 +498,7 @@
     "addr:street": "Esslingerstrasse",
     "amenity": "fire_station",
     "building": "yes",
+    "check_date": "2025-05-15",
     "noname": "yes",
     "id": "way/32120469"
   },
@@ -5659,6 +5660,7 @@
   "id": "node/1202857728",
   "properties": {
     "amenity": "fire_station",
+    "check_date": "2025-05-15",
     "name": "Feuerwehr Kloten",
     "id": "node/1202857728"
   },

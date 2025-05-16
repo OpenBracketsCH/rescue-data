@@ -1020,7 +1020,9 @@
   "properties": {
     "addr:floor": "0",
     "amenity": "pharmacy",
-    "check_date": "2025-05-03",
+    "check_date": "2025-05-16",
+    "dispensing": "yes",
+    "drive_through": "no",
     "email": "rm@apotheke-uster.ch",
     "healthcare": "pharmacy",
     "name": "Schloss",
