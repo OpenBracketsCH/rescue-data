@@ -47906,8 +47906,10 @@
     "addr:postcode": "8610",
     "addr:street": "Gschwaderstrasse",
     "amenity": "kindergarten",
-    "check_date": "2025-04-01",
+    "check_date": "2025-05-16",
     "name": "Kindergarten Gschwader",
+    "operator:type": "public",
+    "preschool": "yes",
     "id": "node/9958733870"
   },
   "geometry": {

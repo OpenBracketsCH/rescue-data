@@ -4674,6 +4674,7 @@
     "lanes": "2",
     "layer": "-1",
     "lit": "24/7",
+    "maxheight:signed": "no",
     "maxspeed": "100",
     "nat_name": "N15",
     "old_name": "A53",
@@ -4723,6 +4724,7 @@
     "lanes": "2",
     "layer": "-1",
     "lit": "24/7",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "nat_name": "N15",
     "old_name": "A53",
@@ -42841,8 +42843,8 @@
         47.3923446
       ],
       [
-        8.4163401,
-        47.3928505
+        8.4161784,
+        47.3927693
       ]
     ]
   }
@@ -47032,12 +47034,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4163401,
-        47.3928505
+        8.4161784,
+        47.3927693
       ],
       [
-        8.4167373,
-        47.3932439
+        8.416472,
+        47.3930815
       ]
     ]
   }
@@ -47178,8 +47180,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4167373,
-        47.3932439
+        8.416472,
+        47.3930815
       ],
       [
         8.4174005,
@@ -69298,6 +69300,7 @@
     "highway": "motorway",
     "lanes": "2",
     "lit": "no",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "nat_name": "N15",
     "old_name": "A53",
@@ -69467,6 +69470,7 @@
     "highway": "motorway",
     "lanes": "2",
     "lit": "no",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "nat_name": "N15",
     "old_name": "A53",
@@ -69826,6 +69830,7 @@
     "highway": "motorway",
     "lanes": "2",
     "lit": "no",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "nat_name": "N15",
     "old_name": "A53",

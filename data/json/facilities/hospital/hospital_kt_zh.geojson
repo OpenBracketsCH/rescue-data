@@ -7130,7 +7130,6 @@
   "id": "way/671785658",
   "properties": {
     "addr:city": "Zürich",
-    "addr:country": "CH",
     "addr:housenumber": "31",
     "addr:postcode": "8008",
     "addr:street": "Lenggstrasse",

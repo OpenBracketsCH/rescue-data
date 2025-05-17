@@ -25558,6 +25558,7 @@
     "highway": "trunk",
     "lanes": "1",
     "layer": "-1",
+    "maxheight:signed": "no",
     "maxspeed": "100",
     "motorroad": "yes",
     "nat_name": "N15",
