@@ -51324,7 +51324,9 @@
   "id": "node/3883289626",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2025-05-17",
     "email": "info@sucht-praevention.ch",
+    "level": "1",
     "name": "Suchtpräventionsstelle Zürcher Oberland",
     "phone": "+41 43 399 10 80",
     "social_facility:for": "drug_addicted",

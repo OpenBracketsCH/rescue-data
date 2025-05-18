@@ -57926,6 +57926,43 @@
       46.9696081
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12843923502",
+  "properties": {
+    "addr:housenumber": "63",
+    "addr:street": "Gasstrasse",
+    "amenity": "clinic",
+    "name": "Kinderarztpraxis Davidsboden",
+    "website": "http://praxisdavidsboden.ch",
+    "id": "node/12843923502"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.574753,
+      47.5686162
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12844023401",
+  "properties": {
+    "addr:housenumber": "9",
+    "addr:street": "Henric Petri-Strasse",
+    "amenity": "clinic",
+    "name": "Medbase Basel St. Elisabethen",
+    "id": "node/12844023401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5918008,
+      47.5526103
+    ]
+  }
 }
 ]
 }

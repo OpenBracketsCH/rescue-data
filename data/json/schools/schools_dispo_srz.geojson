@@ -95015,6 +95015,7 @@
     "amenity": "school",
     "building": "school",
     "building:levels": "5",
+    "check_date": "2025-05-17",
     "name": "Lycée Français de Zurich",
     "id": "way/402764374"
   },
@@ -96331,6 +96332,7 @@
   "id": "way/422075924",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-05-17",
     "name": "Lycée Français de Zurich",
     "name:fr": "Lycée français Marie Curie de Zurich",
     "wheelchair": "yes",
