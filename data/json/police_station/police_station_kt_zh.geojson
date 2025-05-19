@@ -3864,6 +3864,28 @@
       47.4487117
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12847610051",
+  "properties": {
+    "addr:city": "Embrach",
+    "addr:housenumber": "3a",
+    "addr:place": "Embrach",
+    "addr:postcode": "8424",
+    "addr:street": "Embraport",
+    "amenity": "police",
+    "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "id": "node/12847610051"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5932302,
+      47.5163834
+    ]
+  }
 }
 ]
 }

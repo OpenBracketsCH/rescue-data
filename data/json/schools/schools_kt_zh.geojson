@@ -100886,66 +100886,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5741495350",
-  "properties": {
-    "amenity": "school",
-    "check_date": "2024-05-22",
-    "contact:city": "Zürich",
-    "contact:email": "info@akad.ch",
-    "contact:housenumber": "43",
-    "contact:phone": "+41 44 307 31 31",
-    "contact:postcode": "8050",
-    "contact:street": "Jungholzstrasse",
-    "contact:website": "https://www.akad.ch/de-CH",
-    "name": "AKAD Business Zürich",
-    "id": "node/5741495350"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.543807,
-      47.4154229
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5741495352",
-  "properties": {
-    "amenity": "school",
-    "check_date": "2025-01-02",
-    "name": "Fachschule Viventa, Schulhaus Jungholz",
-    "operator": "Stadt Zürich, SSD, Fachschule Viventa",
-    "id": "node/5741495352"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.543807,
-      47.4154943
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5741495353",
-  "properties": {
-    "amenity": "school",
-    "check_date": "2024-05-22",
-    "name": "Kalaidos Bildungsgruppe",
-    "website": "https://www.kalaidos.ch/",
-    "id": "node/5741495353"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.543807,
-      47.4155643
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5762327053",
   "properties": {
     "amenity": "school",

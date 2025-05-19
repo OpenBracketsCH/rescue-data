@@ -12986,6 +12986,7 @@
     "addr:street": "Dietenrainweg",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2025-05-18",
     "name": "Dietenrain",
     "social_facility": "assisted_living",
     "toilets:wheelchair": "yes",
@@ -17978,8 +17979,12 @@
           47.5350548
         ],
         [
-          8.7273553,
-          47.5349134
+          8.727336,
+          47.5350396
+        ],
+        [
+          8.7273312,
+          47.5349125
         ],
         [
           8.7274616,
