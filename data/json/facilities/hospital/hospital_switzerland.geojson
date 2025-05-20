@@ -24228,6 +24228,7 @@
     "addr:housenumber": "5",
     "addr:postcode": "7310",
     "addr:street": "Hermitageweg",
+    "alt_name": "Clinic Bad Ragaz",
     "amenity": "clinic",
     "building": "yes",
     "healthcare": "clinic",
@@ -35689,6 +35690,7 @@
     "addr:housenumber": "94",
     "addr:postcode": "9000",
     "addr:street": "Rorschacher Strasse",
+    "alt_name": "Rehazentrum St. Gallen",
     "amenity": "hospital",
     "description": "Geriatrie",
     "emergency": "no",
@@ -36968,6 +36970,7 @@
     "addr:housenumber": "30",
     "addr:postcode": "4058",
     "addr:street": "Kleinriehenstrasse",
+    "alt_name": "Rehaklinik Basel",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
@@ -38082,12 +38085,12 @@
     "coordinates": [
       [
         [
-          9.0265667,
-          46.1843914
+          9.0265439,
+          46.1843927
         ],
         [
-          9.0257084,
-          46.1839327
+          9.0256938,
+          46.1839423
         ],
         [
           9.0255998,
@@ -38194,12 +38197,12 @@
           46.1842809
         ],
         [
-          9.0265882,
-          46.1844044
+          9.0265755,
+          46.184414
         ],
         [
-          9.0265667,
-          46.1843914
+          9.0265439,
+          46.1843927
         ]
       ]
     ]
@@ -39494,6 +39497,135 @@
         [
           9.4271284,
           46.7317887
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/677017569",
+  "properties": {
+    "addr:city": "Davos",
+    "addr:housenumber": "6",
+    "addr:postcode": "7272",
+    "addr:street": "Klinikstrasse",
+    "alt_name": "Klinik Davos Clavadel",
+    "amenity": "clinic",
+    "check_date": "2024-07-24",
+    "emergency": "no",
+    "healthcare": "rehabilitation",
+    "name": "Zürcher RehaZentren - Klinik Davos",
+    "official_name": "Zürcher RehaZentren - Klinik Davos",
+    "operator": "Zürcher RahaZentren",
+    "phone": "+41814144222",
+    "website": "https://zhreha.ch/klinik/klinik-davos/",
+    "wheelchair": "yes",
+    "id": "way/677017569"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.8151523,
+          46.7693952
+        ],
+        [
+          9.8151067,
+          46.7694651
+        ],
+        [
+          9.8148277,
+          46.7694173
+        ],
+        [
+          9.8149283,
+          46.7692272
+        ],
+        [
+          9.8150222,
+          46.7691188
+        ],
+        [
+          9.8147359,
+          46.768851
+        ],
+        [
+          9.8146923,
+          46.7688106
+        ],
+        [
+          9.814643,
+          46.7687959
+        ],
+        [
+          9.8146021,
+          46.7687908
+        ],
+        [
+          9.8145619,
+          46.7687993
+        ],
+        [
+          9.8145109,
+          46.7688207
+        ],
+        [
+          9.8145032,
+          46.7688156
+        ],
+        [
+          9.814412,
+          46.7687559
+        ],
+        [
+          9.8145649,
+          46.768597
+        ],
+        [
+          9.8147111,
+          46.7684904
+        ],
+        [
+          9.8147325,
+          46.7684427
+        ],
+        [
+          9.8147245,
+          46.768394
+        ],
+        [
+          9.8148223,
+          46.7683922
+        ],
+        [
+          9.8152027,
+          46.7683779
+        ],
+        [
+          9.8152623,
+          46.768383
+        ],
+        [
+          9.8155761,
+          46.7681588
+        ],
+        [
+          9.8161179,
+          46.7684785
+        ],
+        [
+          9.8165819,
+          46.7688698
+        ],
+        [
+          9.8156619,
+          46.7693732
+        ],
+        [
+          9.8151523,
+          46.7693952
         ]
       ]
     ]
@@ -46986,6 +47118,76 @@
         [
           8.683669,
           47.2721844
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/896501881",
+  "properties": {
+    "addr:city": "Walenstadtberg",
+    "addr:housenumber": "1",
+    "addr:postcode": "8881",
+    "addr:street": "Chnoblisbüel",
+    "amenity": "clinic",
+    "emergency": "no",
+    "healthcare": "rehabilitation",
+    "name": "Rehazentrum Walenstadtberg",
+    "opening_hours:visit": "14:00-20:00",
+    "operator": "Kliniken Valens",
+    "phone": "+41 81 736 21 11",
+    "website": "https://www.rehazentrum-walenstadtberg.ch/",
+    "id": "way/896501881"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.2862018,
+          47.1407726
+        ],
+        [
+          9.2857847,
+          47.1412771
+        ],
+        [
+          9.2854405,
+          47.1411063
+        ],
+        [
+          9.2845415,
+          47.1407452
+        ],
+        [
+          9.2839441,
+          47.1402713
+        ],
+        [
+          9.283544,
+          47.1399761
+        ],
+        [
+          9.2837797,
+          47.1396469
+        ],
+        [
+          9.2841687,
+          47.1396196
+        ],
+        [
+          9.2851322,
+          47.1402247
+        ],
+        [
+          9.2861677,
+          47.1406088
+        ],
+        [
+          9.2862018,
+          47.1407726
         ]
       ]
     ]
