@@ -48764,6 +48764,11 @@
   "type": "Feature",
   "id": "way/1123960495",
   "properties": {
+    "addr:city": "Bellinzona",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "6500",
+    "addr:street": "Viale Officina",
     "amenity": "clinic",
     "building": "yes",
     "healthcare": "clinic",
@@ -48775,32 +48780,32 @@
     "coordinates": [
       [
         [
-          9.0272725,
-          46.1975165
+          9.0272691,
+          46.1975188
         ],
         [
-          9.0271589,
-          46.1974383
+          9.0271555,
+          46.1974406
         ],
         [
-          9.0274124,
-          46.1972618
+          9.027409,
+          46.1972641
         ],
         [
-          9.0276262,
-          46.1974089
+          9.0276228,
+          46.1974112
         ],
         [
-          9.0275124,
-          46.1974881
+          9.027509,
+          46.1974904
         ],
         [
-          9.0274123,
-          46.1974192
+          9.0274089,
+          46.1974215
         ],
         [
-          9.0272725,
-          46.1975165
+          9.0272691,
+          46.1975188
         ]
       ]
     ]
@@ -58163,6 +58168,23 @@
     "coordinates": [
       7.5918008,
       47.5526103
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12850934568",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Rheumatologie am Rosenberg",
+    "id": "node/12850934568"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4138233,
+      47.4409274
     ]
   }
 }

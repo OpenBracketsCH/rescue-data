@@ -25179,11 +25179,12 @@
     "addr:postcode": "8400",
     "addr:street": "Eichwaldstrasse",
     "amenity": "social_facility",
-    "name": "Hardoskop",
+    "name": "tilia Wohnen & Beschäftigung",
     "operator": "Kanton Zürich",
     "operator:type": "public",
     "social_facility": "group_home",
     "social_facility:for": "mental_health",
+    "website": "https://www.zh.ch/de/soziales/leben-mit-behinderung/wohnheim-tilia.html#647029949",
     "id": "node/8390977067"
   },
   "geometry": {
