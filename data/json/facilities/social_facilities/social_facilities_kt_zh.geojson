@@ -47676,31 +47676,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10615491468",
-  "properties": {
-    "amenity": "social_facility",
-    "brand": "Madame Frigo",
-    "brand:website": "https://www.madamefrigo.ch/",
-    "brand:wikidata": "Q122664134",
-    "email": "info@foodsharingschweiz.ch",
-    "fridge": "yes",
-    "name": "Madame Frigo",
-    "operator": "foodsharing.de",
-    "social_facility": "food_bank",
-    "social_facility:for": "everyone",
-    "wheelchair": "yes",
-    "id": "node/10615491468"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5266103,
-      47.334998
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10736523294",
   "properties": {
     "addr:city": "Zürich",
