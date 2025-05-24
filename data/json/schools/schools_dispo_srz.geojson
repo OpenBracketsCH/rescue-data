@@ -130834,31 +130834,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9756929945",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "1",
-    "addr:postcode": "8406",
-    "addr:street": "Technoparkstrasse",
-    "amenity": "school",
-    "contact:email": "info.winterthur@swissinternationalschool.ch",
-    "contact:phone": "+41 52 202 82 11",
-    "contact:website": "https://www.swissinternationalschool.ch/de-CH/Schulorte/Winterthur",
-    "name": "SIS Swiss International School",
-    "operator": "SIS Swiss International School",
-    "short_name": "SIS",
-    "id": "node/9756929945"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7162418,
-      47.4945564
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9756988095",
   "properties": {
     "addr:city": "Winterthur",

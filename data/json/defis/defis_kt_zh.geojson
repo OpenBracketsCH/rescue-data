@@ -45382,7 +45382,7 @@
   "id": "node/10958986005",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Pädagogische Hochschule Zürich, innen im Eingang zwischen den beiden Eingangstüren",
+    "defibrillator:location": "Pädagogische Hochschule Zürich in den Gebäuden LAA, LAB und LAC im Eingangsbereich",
     "description": "während der Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -45390,7 +45390,7 @@
     "level": "2",
     "opening_hours": "Mo-Fr 07:00-22:00, Sa 07:00-17:00",
     "operator": "Kanton Zürich",
-    "phone": "+41 43 305 50 01",
+    "phone": "+41 43 305 5555",
     "source": "local_knowledge, defikarte.ch",
     "wheelchair": "yes",
     "id": "node/10958986005"
@@ -70632,6 +70632,50 @@
     "coordinates": [
       8.5432424,
       47.3079804
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12857368301",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Scholhaus Tömlimatt",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde",
+    "phone": "+41 44 764 12 55",
+    "id": "node/12857368301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5313835,
+      47.2270292
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12859283801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Dynamo Metall",
+    "description": "draussen am Gittergebäude neben dem Dynamo",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Jugendkulturhaus Dynamo",
+    "id": "node/12859283801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5397222,
+      47.3829132
     ]
   }
 }
