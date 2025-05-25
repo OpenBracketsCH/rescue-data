@@ -3625,17 +3625,18 @@
   "id": "node/8510278477",
   "properties": {
     "addr:city": "Uster",
-    "addr:housenumber": "6a",
+    "addr:housenumber": "6",
     "addr:postcode": "8610",
     "addr:street": "Bankstrasse",
     "alt_name": "Kapo",
     "amenity": "police",
-    "check_date": "2024-09-16",
+    "check_date": "2025-05-24",
     "name": "Polizeiposten Uster Bahnhof",
+    "opening_hours": "Mo-Fr 09:00-18:00",
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",
     "operator:wikipedia": "de:Kantonspolizei Zürich",
-    "phone": "+41 44 943 61 00",
+    "phone": "+41 44 943 61 00; +41586486555",
     "id": "node/8510278477"
   },
   "geometry": {

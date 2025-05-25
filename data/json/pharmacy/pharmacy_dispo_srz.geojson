@@ -4346,6 +4346,9 @@
     "name": "Unterstadt-Apotheke & Post",
     "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-17:00",
     "phone": "+41 52 625 11 44",
+    "post_office": "post_partner",
+    "post_office:brand": "Die Post",
+    "post_office:website": "https://places.post.ch/de/001PST_001107108/post-filiale-8202-schaffhausen-2-unterstadt",
     "website": "https://www.unterstadtapotheke.ch/",
     "wheelchair": "yes",
     "id": "node/2258851964"
