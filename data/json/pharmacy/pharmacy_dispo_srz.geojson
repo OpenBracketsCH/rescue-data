@@ -7392,6 +7392,7 @@
     "amenity": "pharmacy",
     "branch": "Regensdorf Zentrum",
     "brand": "Amavita",
+    "brand:wikidata": "Q93733901",
     "level": "1",
     "name": "Amavita Regensdorf",
     "operator": "GaleniCare",

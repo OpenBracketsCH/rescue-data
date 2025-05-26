@@ -6794,6 +6794,9 @@
   "properties": {
     "amenity": "fire_station",
     "name": "Feuerwehr Unteramt - Depot Heumoos",
+    "operator": "Zweckverband Feuerwehr Unteramt",
+    "short_name": "FWUA",
+    "website": "https://www.feuerwehrunteramt.ch",
     "id": "node/12677020387"
   },
   "geometry": {

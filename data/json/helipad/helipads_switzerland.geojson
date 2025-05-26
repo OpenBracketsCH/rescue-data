@@ -24886,22 +24886,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1323054911",
-  "properties": {
-    "aeroway": "helipad",
-    "name": "Ausweichlandeplatz USZ",
-    "id": "node/1323054911"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5513244,
-      47.3741908
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1334052008",
   "properties": {
     "aeroway": "helipad",

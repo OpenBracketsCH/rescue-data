@@ -22633,11 +22633,12 @@
     "addr:housenumber": "10",
     "addr:postcode": "8134",
     "addr:street": "Erlenstrasse",
-    "amenity": "nursing_home",
+    "amenity": "social_facility",
     "building": "yes",
     "contact:phone": "+41 44 414 34 34",
     "contact:website": "https://www.helveticcare.ch/institutionen/alterszentrum-buttenau",
     "name": "Alterszentrum Buttenau",
+    "social_facility": "nursing_home",
     "id": "way/1197958367"
   },
   "geometry": {

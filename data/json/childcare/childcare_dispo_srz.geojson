@@ -12198,6 +12198,7 @@
   "id": "node/9497601801",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-05-25",
     "contact:city": "Zürich",
     "contact:housenumber": "21",
     "contact:phone": "+41 44 413 77 81",
@@ -15942,6 +15943,27 @@
     "coordinates": [
       8.7813964,
       47.505294
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12862307688",
+  "properties": {
+    "addr:floor": "EG",
+    "amenity": "childcare",
+    "check_date": "2025-05-25",
+    "level": "0",
+    "name": "Kinderia",
+    "phone": "+41 77 510 75 03",
+    "website": "https://kinderia.ch",
+    "id": "node/12862307688"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4984427,
+      47.3851762
     ]
   }
 }

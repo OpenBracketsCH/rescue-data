@@ -18479,6 +18479,9 @@
     "building": "yes",
     "healthcare": "clinic",
     "name": "Ospedale Malcantonese",
+    "post_office": "post_partner",
+    "post_office:brand": "Die Post",
+    "post_office:website": "https://places.post.ch/de/001PST_001114068/post-filiale-6980-castelrotto",
     "website": "https://www.oscam.ch/",
     "id": "way/237132704"
   },
@@ -44438,8 +44441,8 @@
           47.6466466
         ],
         [
-          8.917952,
-          47.6462925
+          8.9179362,
+          47.6462863
         ],
         [
           8.9175262,

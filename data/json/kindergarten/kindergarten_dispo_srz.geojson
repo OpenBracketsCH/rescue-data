@@ -39335,6 +39335,7 @@
     "addr:housenumber": "21",
     "addr:street": "Leimbachstrasse",
     "amenity": "kindergarten",
+    "check_date": "2025-05-25",
     "contact:city": "Zürich",
     "contact:housenumber": "21",
     "contact:phone": "+41 44 413 77 80",
