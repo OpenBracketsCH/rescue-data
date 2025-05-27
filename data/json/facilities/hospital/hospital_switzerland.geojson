@@ -56014,8 +56014,10 @@
   "id": "node/10251141087",
   "properties": {
     "amenity": "clinic",
+    "check_date:opening_hours": "2025-05-26",
     "healthcare": "clinic",
     "name": "Ärztehaus Gossau",
+    "opening_hours:signed": "no",
     "id": "node/10251141087"
   },
   "geometry": {

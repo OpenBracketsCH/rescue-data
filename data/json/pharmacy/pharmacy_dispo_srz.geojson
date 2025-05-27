@@ -4967,9 +4967,15 @@
     "addr:housenumber": "1",
     "addr:street": "Bahnhofstrasse",
     "amenity": "pharmacy",
+    "check_date": "2025-05-26",
     "contact:phone": "+41 44 715 46 10",
     "healthcare": "pharmacy",
+    "internet_access": "no",
     "name": "Bahnhof-Apotheke",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "wheelchair": "no",
     "id": "node/2921525228"
   },
   "geometry": {
@@ -6394,7 +6400,9 @@
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su 09:00-14:00",
     "operator": "Rotpunkt Pharma",
     "phone": "+41 44 463 15 33",
-    "shop": "chemist",
+    "post_office": "post_partner",
+    "post_office:brand": "Die Post",
+    "post_office:website": "https://places.post.ch/de/001PST_001200201/post-filiale-8047-zürich-triemli",
     "website": "https://www.triemli-apotheke.ch/",
     "wheelchair": "yes",
     "id": "node/4838594398"
@@ -7475,6 +7483,9 @@
     "name": "Pill Apotheke Waldegg",
     "opening_hours": "Mo-Fr 08:00-12:30,13:30-18:30; Sa 08:00-16:00",
     "operator": "Pill Group",
+    "post_office": "post_partner",
+    "post_office:brand": "Die Post",
+    "post_office:website": "https://places.post.ch/de/001PST_001125592/post-filiale-8813-horgen-waldegg",
     "website": "https://www.pill.ch/standorte/pill-apotheke-waldegg.html",
     "id": "node/7489059376"
   },

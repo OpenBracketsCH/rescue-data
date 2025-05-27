@@ -28385,7 +28385,7 @@
     "amenity": "social_facility",
     "building": "yes",
     "building:levels": "6",
-    "check_date": "2024-06-14",
+    "check_date": "2025-05-26",
     "denomination": "evangelical",
     "disused:amenity": "place_of_worship",
     "email": "whz.info@heilsarmee.ch",
@@ -42354,9 +42354,9 @@
   "id": "node/3883289626",
   "properties": {
     "amenity": "social_facility",
-    "check_date": "2025-05-17",
+    "check_date": "2025-05-26",
     "email": "info@sucht-praevention.ch",
-    "level": "1",
+    "level": "1;2",
     "name": "Suchtpräventionsstelle Zürcher Oberland",
     "phone": "+41 43 399 10 80",
     "social_facility:for": "drug_addicted",
@@ -48913,6 +48913,54 @@
     "coordinates": [
       8.6831234,
       47.5142257
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12864212101",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "2",
+    "addr:postcode": "8404",
+    "addr:street": "Sulzerallee",
+    "amenity": "social_facility",
+    "name": "Arbeitsintegration Winterthur",
+    "social_facility": "outreach",
+    "social_facility:for": "unemployed",
+    "website": "https://stadt.winterthur.ch/gemeinde/verwaltung/soziales/soziale-dienste/arbeitsintegration",
+    "id": "node/12864212101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7530942,
+      47.4998566
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12865375961",
+  "properties": {
+    "addr:housenumber": "12",
+    "addr:street": "Körnerstrasse",
+    "amenity": "social_facility",
+    "check_date": "2025-05-26",
+    "description": "Beratung zu Stellensuche, Arbeit und Recht",
+    "email": "impuls@sah-zh.ch",
+    "name": "Impuls",
+    "opening_hours": "Mo,We 13:30-16:30; Tu,Th 08:30-11:30,13:30-16:30; Fr 08:30-11:30; Sa-Su off",
+    "phone": "+41 44 296 59 42",
+    "website": "https://impuls-sah.ch",
+    "wheelchair": "no",
+    "id": "node/12865375961"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5216422,
+      47.3738481
     ]
   }
 }

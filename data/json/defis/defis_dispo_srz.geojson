@@ -33591,7 +33591,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:30-12:00, 13:00-16:30",
-    "operator": "Kaiser Severin, Stabsoffizier Feuerwehr",
+    "operator": "Stadt Adliswil",
     "phone": "+41 44 711 78 06",
     "id": "node/9285924074"
   },
@@ -33679,8 +33679,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:30-12:00, 13:00-16:30",
-    "operator": "Kaiser Severin, Stabsoffizier Feuerwehr",
-    "phone": "+41 44 711 78 06",
+    "operator": "Stadt Adliswil",
+    "phone": "+41 44 711 77 11",
     "id": "node/9285924078"
   },
   "geometry": {
@@ -33701,8 +33701,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:30-12:00, 13:00-16:30",
-    "operator": "Kaiser Severin, Stabsoffizier Feuerwehr",
-    "phone": "+41 44 711 78 06",
+    "operator": "Stadt Adliswil",
+    "phone": "+41 44 711 7711",
     "id": "node/9285924079"
   },
   "geometry": {
@@ -33745,8 +33745,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Fr 06:30-20:30; Sa-Su 08:00-18:00",
-    "operator": "Kaiser Severin, Stabsoffizier Feuerwehr",
-    "phone": "+41 44 711 78 06",
+    "operator": "Stadt Adliswil",
+    "phone": "+41 44 711 77 11",
     "id": "node/9285924081"
   },
   "geometry": {
@@ -33767,8 +33767,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo 14:00-18:00; We 14:00-19:00; Th 09:00-11:00, 14:00-18:00; Fr 14:00-19:00; Sa 09:00-13:00",
-    "operator": "Kaiser Severin, Stabsoffizier Feuerwehr",
-    "phone": "+41 44 711 78 06",
+    "operator": "Stadt Adliswil",
+    "phone": "+41 44 711 77 11",
     "id": "node/9285924082"
   },
   "geometry": {
@@ -33789,8 +33789,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo 08:00-11:30, 13:30-18:30; Tu-Th 08:00-11:30, 13:30-16:00; Fr 07:00-15:00",
-    "operator": "Kaiser Severin, Stabsoffizier Feuerwehr",
-    "phone": "+41 44 711 78 06",
+    "operator": "Stadt Adliswil",
+    "phone": "+41 44 711 77 11",
     "id": "node/9285955621"
   },
   "geometry": {
@@ -57017,29 +57017,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10763310117",
-  "properties": {
-    "defibrillator:location": "3.OG Aufenthaltsraum",
-    "description": "gelber Koffer",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "name": "Proretail AG",
-    "opening_hours": "Mo-Fr 08:00-17:30",
-    "operator": "Lifetec AG Schweiz",
-    "phone": "+41 800 122 144",
-    "id": "node/10763310117"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4548,
-      47.40107
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10763310118",
   "properties": {
     "access": "no",
@@ -64516,8 +64493,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5372045,
-      47.3122932
+      8.5331919,
+      47.3201742
     ]
   }
 },
@@ -81953,11 +81930,12 @@
   "id": "node/12318739101",
   "properties": {
     "access": "private",
-    "defibrillator:location": "First Responder Ausrüstung",
-    "description": "AED Schiller Fred Easy & First Responder Ausrüstung",
+    "defibrillator:location": "Privater AED im Fzg, Firstresponder hier wohnhaft",
+    "description": "Zoll AED 3, mit Kindertaste und CPR Feedback. Inkl. Notfallset: Schere, Rasierer, Beatmungs-Folie, Taschenmaske in Hartbox mit Filter, Gummizug, Handschuhe und Alkoholpads.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
+    "indoor": "yes",
+    "opening_hours": "24/7",
     "operator": "Claudio Granja (First Responder)",
     "phone": "+41 76 513 14 15",
     "source": "local_knowledge, defikarte.ch",
@@ -90816,6 +90794,76 @@
     "coordinates": [
       8.5397222,
       47.3829132
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12864333301",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Kongresshaus 1 Obergeschoss im Foyer direkt neben Lift (Bei Terrasse).",
+    "description": "nur während Öffnungszeiten verfügbar (Veranstaltung Abhängig)",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "08:00-17:00",
+    "operator": "Kongresshaus-Stiftung Zürich",
+    "phone": "+41 79 803 60 65",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12864333301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5376376,
+      47.3658112
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12864704601",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Werstatt",
+    "description": "Mo-Fr 07:30-12:00  13:30-17:45",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Binzegger Auto AG",
+    "phone": "+41417697082",
+    "id": "node/12864704601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5216257,
+      47.1871047
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12865317201",
+  "properties": {
+    "defibrillator:location": "Johannespraxis",
+    "description": "während der Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "operator": "Arztpraxis",
+    "phone": "+41417418255",
+    "id": "node/12865317201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5063204,
+      47.1795499
     ]
   }
 }
