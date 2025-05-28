@@ -18809,7 +18809,7 @@
   "id": "way/162431682",
   "properties": {
     "addr:city": "Rickenbach Sulz",
-    "addr:housenumber": "16/18",
+    "addr:housenumber": "16",
     "addr:postcode": "8545",
     "addr:street": "Stationsstrasse",
     "amenity": "social_facility",
@@ -48961,6 +48961,29 @@
     "coordinates": [
       8.5216422,
       47.3738481
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12866639044",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "39",
+    "addr:postcode": "8400",
+    "addr:street": "Stadthausstrasse",
+    "amenity": "social_facility",
+    "name": "Institut Kinderseele Schweiz",
+    "social_facility": "outreach",
+    "social_facility:for": "child;mental_health",
+    "website": "https://www.kinderseele.ch/",
+    "id": "node/12866639044"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7313099,
+      47.5003583
     ]
   }
 }

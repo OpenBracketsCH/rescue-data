@@ -6928,16 +6928,20 @@
         47.4075058
       ],
       [
-        8.568016,
-        47.408802
+        8.5672847,
+        47.4081452
       ],
       [
-        8.5682073,
-        47.4089609
+        8.5680116,
+        47.4087823
       ],
       [
-        8.568559,
-        47.4092532
+        8.5682306,
+        47.4089658
+      ],
+      [
+        8.5685634,
+        47.4092512
       ],
       [
         8.5687203,
@@ -9367,6 +9371,8 @@
     "highway": "motorway",
     "lanes": "2",
     "lit": "no",
+    "maxheight": "default",
+    "maxheight:signed": "no",
     "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3",
@@ -9445,6 +9451,8 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "maxheight": "default",
+    "maxheight:signed": "no",
     "maxspeed": "100",
     "oneway": "yes",
     "ref": "A3",
@@ -39715,6 +39723,8 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "maxheight": "default",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
@@ -59704,6 +59714,8 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "maxheight": "default",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
