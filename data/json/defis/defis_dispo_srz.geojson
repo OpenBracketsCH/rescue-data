@@ -51391,6 +51391,7 @@
   "id": "node/10747918705",
   "properties": {
     "access": "yes",
+    "check_date": "2025-05-28",
     "defibrillator:location": "Firststrasse 19",
     "description": "Rechts vom Ladeneingang",
     "emergency": "defibrillator",
@@ -51405,8 +51406,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7398218,
-      47.1898984
+      8.7397447,
+      47.1900374
     ]
   }
 },
@@ -91175,6 +91176,29 @@
     "coordinates": [
       8.5725236,
       47.353809
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12870980001",
+  "properties": {
+    "defibrillator:location": "Milchgenossenschaft Hinteregg Forchstrasse 177 8132 Hinteregg",
+    "description": "Aussenkasten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeindeverwaltung Egg ZH",
+    "phone": "+41 79 418 09 64",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12870980001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6840326,
+      47.3056442
     ]
   }
 }

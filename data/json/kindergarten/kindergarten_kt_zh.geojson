@@ -39651,28 +39651,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9355489034",
-  "properties": {
-    "amenity": "kindergarten",
-    "contact:city": "Zürich",
-    "contact:housenumber": "150",
-    "contact:phone": "+41 44 413 15 59",
-    "contact:postcode": "8048",
-    "contact:street": "Eugen-Huber-Strasse",
-    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/chriesiweg/ueberuns/standorte/kindergarten.html",
-    "name": "Kindergarten Chriesiweg 1-3",
-    "id": "node/9355489034"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4732959,
-      47.3886241
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9358580417",
   "properties": {
     "amenity": "kindergarten",
@@ -42555,6 +42533,7 @@
     "addr:postcode": "8317",
     "addr:street": "Falkenstrasse",
     "amenity": "kindergarten",
+    "check_date": "2025-05-28",
     "name": "Kindergarten Buck",
     "id": "node/9954433535"
   },

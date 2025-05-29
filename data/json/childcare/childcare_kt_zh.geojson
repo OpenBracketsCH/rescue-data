@@ -10808,28 +10808,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9355489033",
-  "properties": {
-    "amenity": "childcare",
-    "contact:city": "Zürich",
-    "contact:housenumber": "150",
-    "contact:phone": "+41 44 413 15 68",
-    "contact:postcode": "8048",
-    "contact:street": "Eugen-Huber-Strasse",
-    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/chriesiweg/betreuung/standorte.html",
-    "name": "Kinderhort Chriesiweg 1 und 2",
-    "id": "node/9355489033"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4733601,
-      47.3887048
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9355668134",
   "properties": {
     "amenity": "childcare",
@@ -14862,8 +14840,10 @@
   "type": "Feature",
   "id": "node/12495533598",
   "properties": {
+    "addr:housenumber": "9",
+    "addr:street": "Zürichstrasse",
     "amenity": "childcare",
-    "check_date": "2025-05-12",
+    "check_date": "2025-05-28",
     "level": "0",
     "name": "Globe Garden",
     "id": "node/12495533598"
