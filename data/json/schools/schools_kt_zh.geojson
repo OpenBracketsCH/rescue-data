@@ -99255,6 +99255,51 @@
 },
 {
   "type": "Feature",
+  "id": "way/1390648451",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "20",
+    "contact:phone": "+41 44 413 10 10",
+    "contact:postcode": "8047",
+    "contact:street": "In der Ey",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/inderey/ueberuns/standorte/schulhaus.html",
+    "description": "Primarschule",
+    "name": "Schule Triemli und In der Ey",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit In der Ey",
+    "operator:type": "public",
+    "id": "way/1390648451"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4870222,
+          47.3754732
+        ],
+        [
+          8.487105,
+          47.375192
+        ],
+        [
+          8.4875627,
+          47.3752694
+        ],
+        [
+          8.4874716,
+          47.3755409
+        ],
+        [
+          8.4870222,
+          47.3754732
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/256335788",
   "properties": {
     "amenity": "school",

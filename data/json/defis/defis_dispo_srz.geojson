@@ -5346,10 +5346,11 @@
   "id": "node/7568739435",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Direktion für Bildung & Kultur",
+    "defibrillator:location": "Amt für Berufsberatung",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Kanton Zug",
     "id": "node/7568739435"
@@ -5357,8 +5358,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5160673,
-      47.172501
+      8.516096,
+      47.172484
     ]
   }
 },
@@ -42094,28 +42095,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9917843314",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Verkaufsfläche LIDL",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "operator": "LIDL Schweiz",
-    "phone": "+41716278074",
-    "id": "node/9917843314"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5411407,
-      47.5093298
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9917845025",
   "properties": {
     "access": "yes",
@@ -76870,7 +76849,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "opening_hours": "24/7 ",
+    "opening_hours": "24/7",
     "operator": "Schweizerische Rettungsflugwacht, Rega",
     "phone": "+41 333 333 333",
     "source": "local_knowledge, defikarte.ch",
@@ -78386,7 +78365,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "15",
-    "opening_hours": "24/7 ",
+    "opening_hours": "24/7",
     "operator": "Stadt Zürich",
     "phone": "+41 44 412 70 00",
     "source": "local_knowledge, defikarte.ch",

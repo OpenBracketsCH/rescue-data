@@ -409,6 +409,7 @@
     "addr:postcode": "8001",
     "addr:street": "Bahnhofbrücke",
     "amenity": "police",
+    "check_date": "2025-05-29",
     "name": "Verkehrspolizei der Stadtpolizei Zürich",
     "name:en": "Traffic Police",
     "operator": "Stadtpolizei Zürich",

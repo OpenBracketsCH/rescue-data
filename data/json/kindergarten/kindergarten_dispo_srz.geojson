@@ -19031,6 +19031,7 @@
     "building:levels": "1",
     "name": "Kindergarten Neuhaus",
     "operator": "Schulverwaltung Wald ZH",
+    "operator:type": "government",
     "id": "way/226343663"
   },
   "geometry": {
