@@ -1496,6 +1496,7 @@
     "addr:street": "Albisstrasse",
     "amenity": "childcare",
     "building": "yes",
+    "check_date": "2025-05-29",
     "name": "Kinderkrippe Knirpsenvilla",
     "nursery": "yes",
     "id": "way/108686728"

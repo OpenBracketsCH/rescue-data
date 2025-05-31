@@ -53421,26 +53421,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6310537845",
-  "properties": {
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "healthcare:speciality": "gastroenterology",
-    "name": "Klinik für Gastroenterologie/ Hepatologie",
-    "phone": "+41 71 494 10 65",
-    "website": "https://www.kssg.ch/gastroenterologie-hepatologie",
-    "id": "node/6310537845"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      9.3875653,
-      47.4300234
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6316596968",
   "properties": {
     "addr:city": "Feuerthalen",
@@ -58204,6 +58184,28 @@
     "coordinates": [
       9.4138233,
       47.4409274
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12875899102",
+  "properties": {
+    "addr:housenumber": "54",
+    "addr:street": "Rue de Lausanne",
+    "amenity": "clinic",
+    "email": "cpge@dialogai.org",
+    "name": "Checkpoint Genève",
+    "name:en": "French",
+    "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-18:00",
+    "phone": "0229064030",
+    "id": "node/12875899102"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1465501,
+      46.214553
     ]
   }
 }

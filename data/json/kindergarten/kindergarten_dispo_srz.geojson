@@ -32776,139 +32776,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1069481268",
-  "properties": {
-    "addr:city": "Dietikon",
-    "addr:housenumber": "2",
-    "addr:postcode": "8953",
-    "addr:street": "Max Müller-Strasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Max-Müllerstrasse",
-    "id": "way/1069481268"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4117584,
-          47.3975463
-        ],
-        [
-          8.4118163,
-          47.3975131
-        ],
-        [
-          8.4118199,
-          47.397516
-        ],
-        [
-          8.4118168,
-          47.3975177
-        ],
-        [
-          8.4118361,
-          47.3975331
-        ],
-        [
-          8.4118225,
-          47.3975408
-        ],
-        [
-          8.4118419,
-          47.3975564
-        ],
-        [
-          8.4118592,
-          47.3975465
-        ],
-        [
-          8.4118783,
-          47.3975618
-        ],
-        [
-          8.4119507,
-          47.3975204
-        ],
-        [
-          8.4119542,
-          47.3975231
-        ],
-        [
-          8.4119501,
-          47.3975255
-        ],
-        [
-          8.4120389,
-          47.3975966
-        ],
-        [
-          8.4120413,
-          47.3975952
-        ],
-        [
-          8.4120445,
-          47.3975978
-        ],
-        [
-          8.41195,
-          47.397652
-        ],
-        [
-          8.411913,
-          47.3976224
-        ],
-        [
-          8.4118771,
-          47.397643
-        ],
-        [
-          8.4118732,
-          47.3976399
-        ],
-        [
-          8.4118772,
-          47.3976376
-        ],
-        [
-          8.411855,
-          47.3976196
-        ],
-        [
-          8.411846,
-          47.3976247
-        ],
-        [
-          8.4118291,
-          47.3976172
-        ],
-        [
-          8.4118237,
-          47.3976134
-        ],
-        [
-          8.4118197,
-          47.397616
-        ],
-        [
-          8.4118152,
-          47.3976123
-        ],
-        [
-          8.4118302,
-          47.3976037
-        ],
-        [
-          8.4117584,
-          47.3975463
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1074113428",
   "properties": {
     "addr:city": "Feuerthalen",
@@ -36093,8 +35960,8 @@
     "amenity": "kindergarten",
     "name": "Kindergarten Wolfsmatt",
     "operator": "Stadt Dietikon",
-    "operator:type": "government",
-    "phone": "+41 https://www.schule-dietikon.ch/schulhaeuser/6256",
+    "operator:type": "public",
+    "phone": "+41 44 740 32 62",
     "preschool": "yes",
     "website": "https://www.schule-dietikon.ch/schulhaeuser/6256",
     "id": "way/1324717832"
@@ -37047,6 +36914,87 @@
         [
           8.4900371,
           47.48268
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1391090857",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "71",
+    "addr:postcode": "8953",
+    "addr:street": "Max Müller-Strasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Max Müllerstrasse",
+    "operator": "Stadt Dietikon",
+    "operator:type": "public",
+    "phone": "+41 44 741 44 52",
+    "preschool": "yes",
+    "website": "https://www.schule-dietikon.ch/schulhaeuser/1619",
+    "id": "way/1391090857"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.412158,
+          47.3973316
+        ],
+        [
+          8.4122961,
+          47.3975884
+        ],
+        [
+          8.4119464,
+          47.3976791
+        ],
+        [
+          8.4117955,
+          47.3977172
+        ],
+        [
+          8.4117728,
+          47.3976804
+        ],
+        [
+          8.4117436,
+          47.3976875
+        ],
+        [
+          8.4117217,
+          47.3975797
+        ],
+        [
+          8.4117411,
+          47.3975195
+        ],
+        [
+          8.4117123,
+          47.3974819
+        ],
+        [
+          8.4117397,
+          47.3974136
+        ],
+        [
+          8.4118206,
+          47.3973619
+        ],
+        [
+          8.412004,
+          47.3973495
+        ],
+        [
+          8.4120781,
+          47.397333
+        ],
+        [
+          8.412158,
+          47.3973316
         ]
       ]
     ]
