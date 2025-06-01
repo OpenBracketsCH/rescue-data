@@ -34173,6 +34173,8 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Waldspielgruppe",
+    "operator": "Naturspielgruppe Würglenhof",
+    "website": "https://naturspielgruppe.wuerglenhof.ch/",
     "id": "way/1241734833"
   },
   "geometry": {
