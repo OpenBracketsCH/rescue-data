@@ -436,6 +436,25 @@
 },
 {
   "type": "Feature",
+  "id": "node/440011039",
+  "properties": {
+    "barrier": "lift_gate",
+    "foot": "yes",
+    "lift_gate:type": "single",
+    "locked": "yes",
+    "motor_vehicle": "no",
+    "id": "node/440011039"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.667439,
+      47.155067
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/454185795",
   "properties": {
     "access": "no",
