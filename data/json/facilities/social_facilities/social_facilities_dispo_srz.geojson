@@ -32696,6 +32696,111 @@
 },
 {
   "type": "Feature",
+  "id": "way/297752833",
+  "properties": {
+    "addr:city": "Turbenthal",
+    "addr:housenumber": "2",
+    "addr:postcode": "8488",
+    "addr:street": "Lindenweg",
+    "amenity": "social_facility",
+    "building": "house",
+    "email": "info@lindehus.ch",
+    "name": "Alterspflegeheim Lindehus",
+    "phone": "+41 52 396 24 24;+41 52 396 44 44",
+    "social_facility": "assisted_living",
+    "website": "http://www.lindehus.ch/",
+    "id": "way/297752833"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8481879,
+          47.4368091
+        ],
+        [
+          8.8481012,
+          47.4366648
+        ],
+        [
+          8.8481846,
+          47.4366419
+        ],
+        [
+          8.8481187,
+          47.4365321
+        ],
+        [
+          8.8481004,
+          47.4365372
+        ],
+        [
+          8.8480126,
+          47.4363911
+        ],
+        [
+          8.8481083,
+          47.4363648
+        ],
+        [
+          8.8480689,
+          47.4362992
+        ],
+        [
+          8.8481427,
+          47.4362789
+        ],
+        [
+          8.8481061,
+          47.436218
+        ],
+        [
+          8.8482628,
+          47.4361749
+        ],
+        [
+          8.8483435,
+          47.4361527
+        ],
+        [
+          8.8484336,
+          47.4363026
+        ],
+        [
+          8.8483534,
+          47.4363246
+        ],
+        [
+          8.8484493,
+          47.4364843
+        ],
+        [
+          8.8483609,
+          47.4365086
+        ],
+        [
+          8.8484403,
+          47.4366407
+        ],
+        [
+          8.8483634,
+          47.4366619
+        ],
+        [
+          8.8484144,
+          47.4367468
+        ],
+        [
+          8.8481879,
+          47.4368091
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/297971894",
   "properties": {
     "addr:city": "Schlatt ZH",
@@ -42386,6 +42491,7 @@
     "addr:street": "Im Spilhöfler",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2025-06-02",
     "name": "Pflegezentrum Spilhöfler",
     "social_facility": "group_home",
     "social_facility:for": "senior",

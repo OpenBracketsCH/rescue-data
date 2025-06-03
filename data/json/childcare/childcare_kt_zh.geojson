@@ -15194,6 +15194,28 @@
       47.3851762
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12881029281",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "24",
+    "addr:postcode": "8405",
+    "addr:street": "Grüntalstrasse",
+    "amenity": "childcare",
+    "name": "KiTa Chrönli",
+    "opening_hours": "Mo-Fr 07:00-18:30",
+    "website": "https://www.kitachroenli.ch",
+    "id": "node/12881029281"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.767742,
+      47.4854192
+    ]
+  }
 }
 ]
 }
