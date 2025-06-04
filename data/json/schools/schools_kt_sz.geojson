@@ -5680,6 +5680,7 @@
     "addr:street": "Seestrasse",
     "alt_name": "Schulhaus Nuolen",
     "amenity": "school",
+    "building": "school",
     "name": "Kantonsschule Ausserschwyz",
     "short_name": "KSA",
     "id": "way/273892386"

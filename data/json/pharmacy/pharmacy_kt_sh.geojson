@@ -39,6 +39,7 @@
     "amenity": "pharmacy",
     "check_date:opening_hours": "2023-07-06",
     "drive_through": "no",
+    "level": "0",
     "name": "Bahnhof-Apotheke",
     "opening_hours": "Mo-Sa 07:00-20:00; Su 08:00-18:00",
     "phone": "+41 52 625 26 86",

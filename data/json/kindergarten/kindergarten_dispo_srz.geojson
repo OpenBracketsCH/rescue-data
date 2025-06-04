@@ -29554,6 +29554,7 @@
   "id": "way/705483767",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-06-03",
     "contact:city": "Zürich",
     "contact:housenumber": "15",
     "contact:phone": "+41 44 413 73 23",
