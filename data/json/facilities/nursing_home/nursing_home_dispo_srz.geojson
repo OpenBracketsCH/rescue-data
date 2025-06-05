@@ -4832,6 +4832,83 @@
 },
 {
   "type": "Feature",
+  "id": "way/47406002",
+  "properties": {
+    "addr:city": "Rheinau",
+    "addr:country": "CH",
+    "addr:housenumber": "51",
+    "addr:postcode": "8462",
+    "addr:street": "Alleestrasse",
+    "amenity": "social_facility",
+    "building": "hospital",
+    "building:levels": "3",
+    "contact:email": "wohnheimtilia@sa.zh.ch",
+    "contact:phone": "+41 43 258 66 00",
+    "contact:website": "https://www.zh.ch/de/soziales/leben-mit-behinderung/einrichtungen-menschen-mit-behinderung/kantonale-iv-betriebe/wohnheim-tilia.html#564534511",
+    "name": "Wohnheim Tilia",
+    "roof:levels": "0",
+    "roof:shape": "flat",
+    "social_facility": "group_home",
+    "id": "way/47406002"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6036693,
+          47.6356139
+        ],
+        [
+          8.6038753,
+          47.6355757
+        ],
+        [
+          8.603967,
+          47.6358001
+        ],
+        [
+          8.6040256,
+          47.6359463
+        ],
+        [
+          8.6039626,
+          47.6359583
+        ],
+        [
+          8.6039176,
+          47.6358471
+        ],
+        [
+          8.603899,
+          47.6358505
+        ],
+        [
+          8.6039109,
+          47.63588
+        ],
+        [
+          8.6038678,
+          47.6358879
+        ],
+        [
+          8.6038564,
+          47.6358595
+        ],
+        [
+          8.6037746,
+          47.6358745
+        ],
+        [
+          8.6036693,
+          47.6356139
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/48045183",
   "properties": {
     "addr:city": "Kleinandelfingen",
@@ -33245,6 +33322,26 @@
     "coordinates": [
       8.5929038,
       47.259066
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12886226311",
+  "properties": {
+    "amenity": "social_facility",
+    "contact:email": "wohnheimtilia@sa.zh.ch",
+    "contact:phone": "+41 43 258 66 00",
+    "contact:website": "https://www.zh.ch/de/soziales/leben-mit-behinderung/einrichtungen-menschen-mit-behinderung/kantonale-iv-betriebe/wohnheim-tilia.html#564534511",
+    "name": "Wohnheim Tilia",
+    "social_facility": "group_home",
+    "id": "node/12886226311"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.608223,
+      47.6343392
     ]
   }
 }

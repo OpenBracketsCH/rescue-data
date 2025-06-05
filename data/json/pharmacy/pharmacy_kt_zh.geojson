@@ -5487,7 +5487,7 @@
     "opening_hours": "Mo-Fr 07:30-18:30; Sa 08:00-16:00",
     "operator": "BENU Pharmacies",
     "website": "https://www.benu.ch/de/pharmacies/kreuz/",
-    "wheelchair": "limited",
+    "wheelchair": "yes",
     "id": "node/4838594393"
   },
   "geometry": {

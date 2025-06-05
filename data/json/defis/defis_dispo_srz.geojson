@@ -34776,13 +34776,16 @@
   "type": "Feature",
   "id": "node/9394069017",
   "properties": {
-    "access": "no",
+    "access": "yes",
     "defibrillator:location": "Steinel Solutions AG",
-    "description": "während Bürozeiten",
+    "description": "Zugang ist zu diesen Zeiten möglich und der Defi darf von jedem genutzt werden.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:00-17:00",
     "operator": "Steinel Solutions AG",
+    "phone": "+41 55 418 21 11",
     "id": "node/9394069017"
   },
   "geometry": {
@@ -91191,7 +91194,7 @@
   "id": "node/12874713346",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Familiengärten Samichlaus, Vereinshaus, Zugang von Dietlikonerstrasse 2. Gartentor Seite Wallisellen",
+    "defibrillator:location": "Familiengarten Samichlaus, Vereinshaus, Zugang von der Dietlikonerstrasse, 2. Gartentor Seite Wallisellen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -91254,6 +91257,29 @@
     "coordinates": [
       8.6477047,
       47.5993485
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12886577101",
+  "properties": {
+    "defibrillator:location": "Brandstrasse 24, Zeitschaltuhr neben Pausenraum",
+    "description": "Schlattermitatbeiter zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 06:00-18:00",
+    "operator": "Schlatter Industries",
+    "phone": "+41447327280",
+    "id": "node/12886577101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4442272,
+      47.4018246
     ]
   }
 }

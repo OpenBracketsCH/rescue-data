@@ -45237,6 +45237,7 @@
     "name": "Bürgerspital Solothurn",
     "operator": "Solothurner Spitäler",
     "phone": "+41 32 627 31 21",
+    "short_name": "BSS",
     "website": "https://www.solothurnerspitaeler.ch/unsere-spitaeler/buergerspital-solothurn/",
     "id": "way/681557491"
   },
@@ -57196,24 +57197,6 @@
     "coordinates": [
       6.0329634,
       46.2126998
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/12065171669",
-  "properties": {
-    "addr:postcode": "7188",
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "name": "Немецкий",
-    "id": "node/12065171669"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.768295,
-      46.6788777
     ]
   }
 },
