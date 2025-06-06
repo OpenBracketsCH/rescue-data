@@ -12065,161 +12065,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/117138396",
-  "properties": {
-    "addr:city": "Davos Wolfgang",
-    "addr:housenumber": "1",
-    "addr:postcode": "7265",
-    "addr:street": "Herman-Burchard-Strasse",
-    "alt_name": "Rehaklinik Davos Wolfgang",
-    "amenity": "hospital",
-    "email": "hochgebirgsklinik@hgk.ch",
-    "emergency": "no",
-    "healthcare": "hospital",
-    "healthcare:speciality": "Pneumologie;Allergologie;Psychosomatik;Pädiatrie;Dermatologie;Kardiologie",
-    "name": "Hochgebirgsklinik Davos",
-    "operator": "Hochgebirgsklinik Davos AG",
-    "phone": "+41 81 417 44 44",
-    "website": "https://www.hochgebirgsklinik.ch/",
-    "wheelchair": "yes",
-    "wikidata": "Q1621810",
-    "wikipedia": "de:Hochgebirgsklinik Davos",
-    "id": "way/117138396"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          9.8568754,
-          46.8302257
-        ],
-        [
-          9.8567643,
-          46.8301146
-        ],
-        [
-          9.8564342,
-          46.8301455
-        ],
-        [
-          9.8561189,
-          46.830175
-        ],
-        [
-          9.8558625,
-          46.8300934
-        ],
-        [
-          9.8550496,
-          46.8298779
-        ],
-        [
-          9.8549648,
-          46.8296178
-        ],
-        [
-          9.854199,
-          46.8298888
-        ],
-        [
-          9.8536994,
-          46.830299
-        ],
-        [
-          9.8534513,
-          46.8302611
-        ],
-        [
-          9.8534188,
-          46.8302432
-        ],
-        [
-          9.853857,
-          46.829686
-        ],
-        [
-          9.8538829,
-          46.8281392
-        ],
-        [
-          9.8538829,
-          46.8280922
-        ],
-        [
-          9.8538824,
-          46.8278748
-        ],
-        [
-          9.8548631,
-          46.8279022
-        ],
-        [
-          9.8548681,
-          46.8278152
-        ],
-        [
-          9.8554051,
-          46.8278297
-        ],
-        [
-          9.8554006,
-          46.8279078
-        ],
-        [
-          9.856248,
-          46.8279118
-        ],
-        [
-          9.8563569,
-          46.8279519
-        ],
-        [
-          9.8574172,
-          46.8289978
-        ],
-        [
-          9.8575223,
-          46.8291483
-        ],
-        [
-          9.8575718,
-          46.8293029
-        ],
-        [
-          9.8575483,
-          46.8294875
-        ],
-        [
-          9.8574982,
-          46.8296522
-        ],
-        [
-          9.8574433,
-          46.8297749
-        ],
-        [
-          9.857326,
-          46.8299449
-        ],
-        [
-          9.8572143,
-          46.8300691
-        ],
-        [
-          9.8569378,
-          46.8302602
-        ],
-        [
-          9.8568754,
-          46.8302257
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/117138399",
   "properties": {
     "amenity": "hospital",
@@ -58288,6 +58133,35 @@
     "coordinates": [
       8.2805526,
       47.0700413
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12889004981",
+  "properties": {
+    "addr:city": "Davos Wolfgang",
+    "addr:housenumber": "1",
+    "addr:postcode": "7265",
+    "addr:street": "Herman-Burchard-Strasse",
+    "alt_name": "Rehaklinik Davos Wolfgang",
+    "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "healthcare:speciality": "pulmonology;allergology;psychosomatik;paediatrics;dermatology;cardiology",
+    "name": "Hochgebirgsklinik Davos",
+    "operator": "Hochgebirgsklinik Davos AG",
+    "website": "https://hochgebirgsklinik.ch/",
+    "wheelchair": "yes",
+    "wikidata": "Q1621810",
+    "wikipedia": "https://de.wikipedia.org/wiki/Hochgebirgsklinik_Davos?uselang=de",
+    "id": "node/12889004981"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8558114,
+      46.8286753
     ]
   }
 }
