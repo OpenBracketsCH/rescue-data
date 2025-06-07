@@ -15969,6 +15969,27 @@
       47.4854192
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12892472793",
+  "properties": {
+    "addr:floor": "1",
+    "addr:housenumber": "220",
+    "addr:street": "Altstetterstrasse",
+    "amenity": "childcare",
+    "check_date": "2025-06-06",
+    "name": "Pop E Poppa",
+    "website": "https://popepoppa.ch",
+    "id": "node/12892472793"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4836555,
+      47.3825275
+    ]
+  }
 }
 ]
 }

@@ -79113,9 +79113,17 @@
   "type": "Feature",
   "id": "way/522249569",
   "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "18",
+    "addr:postcode": "8400",
+    "addr:street": "Schaffhauserstrasse",
     "amenity": "school",
-    "name": "Gesamtschule Winterthur",
-    "website": "https://gesamtschulewinterthur.ch/",
+    "grades": "1-6",
+    "name": "gsw",
+    "old_name": "Gesamtschule Winterthur",
+    "operator": "gsw.schule GmbH",
+    "operator:type": "private",
+    "website": "https://gsw.schule/",
     "id": "way/522249569"
   },
   "geometry": {
@@ -79123,24 +79131,48 @@
     "coordinates": [
       [
         [
-          8.7240183,
-          47.5055889
+          8.7240685,
+          47.5056061
         ],
         [
-          8.7241677,
-          47.505296
+          8.7241118,
+          47.5055133
         ],
         [
-          8.7245256,
-          47.5053808
+          8.7240921,
+          47.505461
         ],
         [
-          8.7244481,
-          47.5056935
+          8.7241757,
+          47.5052936
         ],
         [
-          8.7240183,
-          47.5055889
+          8.724514,
+          47.5053584
+        ],
+        [
+          8.7245459,
+          47.5053899
+        ],
+        [
+          8.724517,
+          47.5055432
+        ],
+        [
+          8.7247754,
+          47.5055666
+        ],
+        [
+          8.7248483,
+          47.5057333
+        ],
+        [
+          8.7244,
+          47.505679
+        ],
+        [
+          8.7240685,
+          47.5056061
         ]
       ]
     ]
