@@ -208,6 +208,7 @@
   "type": "Feature",
   "id": "way/4310693",
   "properties": {
+    "destination": "Zürich-City",
     "destination:lanes": "Zürich-City|Zürich-City",
     "highway": "motorway",
     "lanes": "2",
@@ -224,8 +225,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4227913,
-        47.413833
+        8.4227483,
+        47.4138406
       ],
       [
         8.4232156,
@@ -25430,7 +25431,8 @@
   "type": "Feature",
   "id": "way/37986233",
   "properties": {
-    "destination:lanes": "Zürich-City|Zürich-City;St. Gallen;Flughafen|St. Gallen;Flughafen;Nordring-Zürich|Chur;Luzern;Urdorf;Westring-Zürich",
+    "destination:lanes": "Zürich-City|Zürich-City;Sankt Gallen;Flughafen|Sankt Gallen;Flughafen;Nordring-Zürich|Chur;Luzern;Urdorf;Westring-Zürich",
+    "destination:name:lanes": "Zürich-City|Zürich-City;St. Gallen;Flughafen|St. Gallen;Flughafen;Nordring-Zürich|Chur;Luzern;Urdorf;Westring-Zürich",
     "highway": "motorway",
     "int_ref": "E 60",
     "lanes": "4",
@@ -25513,7 +25515,8 @@
   "type": "Feature",
   "id": "way/37986234",
   "properties": {
-    "destination:lanes": "Zürich-City|Zürich-City;St. Gallen;Flughafen|St. Gallen;Flughafen;Nordring-Zürich|Chur;Luzern;Urdorf;Westring-Zürich",
+    "destination:lanes": "Zürich-City|Zürich-City;Sankt Gallen;Flughafen|Sankt Gallen;Flughafen;Nordring-Zürich|Chur;Luzern;Urdorf;Westring-Zürich",
+    "destination:name:lanes": "Zürich-City|Zürich-City;St. Gallen;Flughafen|St. Gallen;Flughafen;Nordring-Zürich|Chur;Luzern;Urdorf;Westring-Zürich",
     "highway": "motorway",
     "int_ref": "E 60",
     "lanes": "4",
@@ -33743,7 +33746,8 @@
   "type": "Feature",
   "id": "way/77074946",
   "properties": {
-    "destination:lanes": "Zürich-City|Zürich-City|St. Gallen;Flughafen;Nordring-Zürich|St. Gallen;Flughafen;Nordring-Zürich|Chur;Luzern;Urdorf;Westring-Zürich",
+    "destination:lanes": "Zürich-City|Zürich-City|Sankt Gallen;Flughafen;Nordring-Zürich|Sankt Gallen;Flughafen;Nordring-Zürich|Chur;Luzern;Urdorf;Westring-Zürich",
+    "destination:name:lanes": "Zürich-City|Zürich-City|St. Gallen;Flughafen;Nordring-Zürich|St. Gallen;Flughafen;Nordring-Zürich|Chur;Luzern;Urdorf;Westring-Zürich",
     "highway": "motorway",
     "int_ref": "E 60",
     "lanes": "5",
@@ -33753,6 +33757,7 @@
     "ref": "A1;A3",
     "surface": "asphalt",
     "toll": "yes",
+    "turn:lanes": "slight_left|slight_left|slight_right|slight_right|slight_right",
     "id": "way/77074946"
   },
   "geometry": {
@@ -33787,8 +33792,8 @@
         47.4140605
       ],
       [
-        8.4227913,
-        47.413833
+        8.4227483,
+        47.4138406
       ]
     ]
   }
@@ -64151,7 +64156,8 @@
   "type": "Feature",
   "id": "way/438517753",
   "properties": {
-    "destination:lanes": "Zürich-City|Zürich-City|St. Gallen;Flughafen;Nordring-Zürich|St. Gallen;Flughafen;Nordring-Zürich|Chur;Luzern;Urdorf;Westring-Zürich",
+    "destination:lanes": "Zürich-City|Zürich-City|Sankt Gallen;Flughafen;Nordring-Zürich|Sankt Gallen;Flughafen;Nordring-Zürich|Chur;Luzern;Urdorf;Westring-Zürich",
+    "destination:name:lanes": "Zürich-City|Zürich-City|St. Gallen;Flughafen;Nordring-Zürich|St. Gallen;Flughafen;Nordring-Zürich|Chur;Luzern;Urdorf;Westring-Zürich",
     "highway": "motorway",
     "int_ref": "E 60",
     "lanes": "5",
@@ -64162,6 +64168,7 @@
     "ref": "A1;A3",
     "surface": "asphalt",
     "toll": "yes",
+    "turn:lanes": "none|none|slight_right|slight_right|slight_right",
     "id": "way/438517753"
   },
   "geometry": {
