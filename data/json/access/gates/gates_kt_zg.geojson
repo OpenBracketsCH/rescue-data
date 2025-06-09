@@ -443,6 +443,8 @@
     "lift_gate:type": "single",
     "locked": "yes",
     "motor_vehicle": "no",
+    "note": "Tafel 2.01 \"Allgemeines Fahrverbot\"",
+    "traffic_sign": "CH:2.01",
     "id": "node/440011039"
   },
   "geometry": {

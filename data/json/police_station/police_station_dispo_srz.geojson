@@ -4590,6 +4590,7 @@
     "addr:street": "Sonnenbergstrasse",
     "alt_name": "Kapo Niederglatt",
     "amenity": "police",
+    "check_date": "2025-06-08",
     "name": "Polizeiposten Niederglatt",
     "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
     "operator": "Kantonspolizei Zürich",
