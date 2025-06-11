@@ -29230,7 +29230,8 @@
   "type": "Feature",
   "id": "way/1263020988",
   "properties": {
-    "change:lanes": "no|no",
+    "change:lanes:backward": "no",
+    "change:lanes:forward": "not_left|yes",
     "hazard": "deer",
     "highway": "trunk",
     "int_ref": "E 41;E 54",
@@ -29248,7 +29249,7 @@
     "source:maxspeed": "sign. Survey 12.2018",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes:forward": "through|sight_right",
+    "turn:lanes:forward": "through|slight_right",
     "id": "way/1263020988"
   },
   "geometry": {

@@ -6224,6 +6224,7 @@
   "id": "node/3970363225",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-06-10",
     "name": "Noveos",
     "phone": "+41 44 940 63 80",
     "website": "https://www.noveos.ch/content/d/2/index.php?N1=Zentrum+Wohnen&N2=Wohngruppe+Haselrain+(Wohnhaus+Uster)&N3=Kontakt",

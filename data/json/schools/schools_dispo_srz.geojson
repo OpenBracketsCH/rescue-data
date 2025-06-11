@@ -76003,7 +76003,11 @@
     "addr:street": "Gewerbeschulstrasse",
     "amenity": "school",
     "building": "school",
-    "name": "KV Wetzikon - Gewerbeschule",
+    "grades": "9-12",
+    "name": "Gewerbliche Berufsschule Wetzikon",
+    "operator": "Kanton Zürich",
+    "operator:type": "government",
+    "website": "www.gbwetzikon.ch",
     "id": "way/255020187"
   },
   "geometry": {

@@ -51512,7 +51512,7 @@
     "addr:city": "Ecublens",
     "addr:housenumber": "6A",
     "addr:postcode": "1024",
-    "addr:street": "Route Louis-Favre",
+    "addr:street": "Route Louis Favre",
     "amenity": "clinic",
     "healthcare": "clinic",
     "name": "Centre Médical Arcades EPFL",
@@ -58162,6 +58162,26 @@
     "coordinates": [
       9.8558114,
       46.8286753
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12901984496",
+  "properties": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Centre Médico - Chirurgical",
+    "operator": "Mediclinic",
+    "operator:type": "private",
+    "operator:wikidata": "Q1916123",
+    "id": "node/12901984496"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.143518,
+      46.2083785
     ]
   }
 }
