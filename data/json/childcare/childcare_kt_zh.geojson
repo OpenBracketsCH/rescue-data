@@ -4174,42 +4174,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/851831249",
-  "properties": {
-    "amenity": "childcare",
-    "building": "yes",
-    "id": "way/851831249"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6057393,
-          47.4139656
-        ],
-        [
-          8.6057131,
-          47.4138578
-        ],
-        [
-          8.605844,
-          47.4138432
-        ],
-        [
-          8.6058702,
-          47.413951
-        ],
-        [
-          8.6057393,
-          47.4139656
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/943488213",
   "properties": {
     "addr:city": "Winterthur",

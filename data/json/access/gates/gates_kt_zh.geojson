@@ -58616,7 +58616,9 @@
   "type": "Feature",
   "id": "node/8475999888",
   "properties": {
+    "access": "private",
     "barrier": "gate",
+    "locked": "yes",
     "id": "node/8475999888"
   },
   "geometry": {
@@ -78586,6 +78588,7 @@
   "id": "node/11360773397",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "1",
     "id": "node/11360773397"
   },
   "geometry": {

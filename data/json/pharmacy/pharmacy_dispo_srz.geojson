@@ -4584,8 +4584,8 @@
     "branch": "Winterthur Oberwinterthur",
     "brand": "Medbase",
     "brand:wikidata": "Q50038690",
-    "check_date": "2025-01-24",
-    "check_date:opening_hours": "2021-10-17",
+    "check_date": "2025-06-11",
+    "check_date:opening_hours": "2025-06-11",
     "name": "Medbase Apotheke Oberi",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
     "operator": "Medbase Apotheken",
@@ -4594,6 +4594,7 @@
     "payment:debit_cards": "yes",
     "phone": "+41 52 245 19 45",
     "website": "https://www.topwell.ch/medbaseapothekewinterthuroberi/",
+    "wheelchair": "yes",
     "id": "node/2434379960"
   },
   "geometry": {

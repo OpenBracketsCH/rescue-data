@@ -7018,6 +7018,7 @@
   "properties": {
     "access": "private",
     "barrier": "gate",
+    "locked": "yes",
     "id": "node/12521312833"
   },
   "geometry": {
