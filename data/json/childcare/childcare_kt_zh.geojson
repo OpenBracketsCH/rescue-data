@@ -15204,6 +15204,40 @@
       47.3825275
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12911030438",
+  "properties": {
+    "amenity": "childcare",
+    "check_date": "2025-06-12",
+    "name": "Bambis Chinderland",
+    "id": "node/12911030438"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5330545,
+      47.3647632
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12911055453",
+  "properties": {
+    "amenity": "childcare",
+    "check_date": "2025-06-12",
+    "name": "Globegarden",
+    "id": "node/12911055453"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5307232,
+      47.3686203
+    ]
+  }
 }
 ]
 }
