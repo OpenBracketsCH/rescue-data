@@ -40893,29 +40893,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9694800189",
-  "properties": {
-    "amenity": "kindergarten",
-    "contact:city": "Zürich",
-    "contact:housenumber": "38",
-    "contact:postcode": "8002",
-    "contact:street": "Brandschenkestrasse",
-    "isced:level": "0",
-    "name": "Globegarden Brandschenke",
-    "operator": "Globegarden Childcare",
-    "operator:type": "private",
-    "id": "node/9694800189"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5310939,
-      47.3688238
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9694832294",
   "properties": {
     "amenity": "kindergarten",

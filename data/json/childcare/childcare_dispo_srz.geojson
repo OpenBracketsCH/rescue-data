@@ -13641,6 +13641,32 @@
 },
 {
   "type": "Feature",
+  "id": "node/9694800189",
+  "properties": {
+    "amenity": "childcare",
+    "branch": "Brandschenke",
+    "check_date": "2025-06-12",
+    "contact:city": "Zürich",
+    "contact:housenumber": "38",
+    "contact:postcode": "8002",
+    "contact:street": "Brandschenkestrasse",
+    "isced:level": "0",
+    "name": "Globegarden Childcare",
+    "operator": "Globegarden Childcare",
+    "operator:type": "private",
+    "operator:website": "https://www.globegarden.ch/",
+    "id": "node/9694800189"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5307372,
+      47.3686601
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9700896092",
   "properties": {
     "addr:city": "Oberweningen",
@@ -13685,7 +13711,9 @@
   "id": "node/9811018975",
   "properties": {
     "amenity": "childcare",
+    "branch": "Friedensgasse",
     "name": "Globegarden Childcare",
+    "website": "https://www.globegarden.ch/locations/friedensgasse",
     "id": "node/9811018975"
   },
   "geometry": {
@@ -15972,23 +16000,6 @@
     "coordinates": [
       8.5330545,
       47.3647632
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/12911055453",
-  "properties": {
-    "amenity": "childcare",
-    "check_date": "2025-06-12",
-    "name": "Globegarden",
-    "id": "node/12911055453"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5307232,
-      47.3686203
     ]
   }
 }
