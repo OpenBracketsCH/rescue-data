@@ -53797,8 +53797,8 @@
     "coordinates": [
       [
         [
-          8.7542839,
-          47.485749
+          8.7542848,
+          47.4857498
         ],
         [
           8.7538527,
@@ -53885,12 +53885,12 @@
           47.4855182
         ],
         [
-          8.754746,
-          47.4855164
+          8.7547716,
+          47.485502
         ],
         [
-          8.7542839,
-          47.485749
+          8.7542848,
+          47.4857498
         ]
       ]
     ]
@@ -76007,7 +76007,7 @@
     "name": "Gewerbliche Berufsschule Wetzikon",
     "operator": "Kanton Zürich",
     "operator:type": "government",
-    "website": "www.gbwetzikon.ch",
+    "website": "https://www.gbwetzikon.ch/",
     "id": "way/255020187"
   },
   "geometry": {
