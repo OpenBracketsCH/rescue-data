@@ -53788,7 +53788,8 @@
     "amenity": "school",
     "name": "Schule Steinacker",
     "operator": "Stadt Winterthur",
-    "operator:type": "public",
+    "operator:type": "government",
+    "operator:wikidata": "Q9125",
     "website": "https://www.schule-steinacker-seen.ch/",
     "id": "way/172341987"
   },

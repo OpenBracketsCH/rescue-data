@@ -35383,7 +35383,7 @@
     "amenity": "kindergarten",
     "name": "Kindergarten Guggenbühl",
     "operator": "Stadt Dietikon",
-    "operator:type": "government",
+    "operator:type": "public",
     "phone": "+41 44 741 00 71",
     "preschool": "yes",
     "website": "https://www.schule-dietikon.ch/schulhaeuser/2198",
@@ -35404,6 +35404,10 @@
         [
           8.4027863,
           47.399161
+        ],
+        [
+          8.402778,
+          47.3991642
         ],
         [
           8.4027333,
@@ -35444,6 +35448,10 @@
         [
           8.4025166,
           47.3990467
+        ],
+        [
+          8.4025111,
+          47.399039
         ],
         [
           8.4025053,
