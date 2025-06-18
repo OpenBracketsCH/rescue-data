@@ -15101,6 +15101,7 @@
     "building:levels": "1",
     "check_date": "2025-01-04",
     "name": "Kindergarten Niederuster",
+    "roof:shape": "flat",
     "id": "way/178413094"
   },
   "geometry": {
@@ -15145,6 +15146,7 @@
     "check_date": "2025-05-08",
     "name": "Kindergarten Niederuster",
     "operator:type": "public",
+    "roof:shape": "flat",
     "id": "way/178413096"
   },
   "geometry": {
@@ -48530,7 +48532,6 @@
   "id": "node/10094691201",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Kindergarten Tuggen",
     "id": "node/10094691201"
   },
   "geometry": {

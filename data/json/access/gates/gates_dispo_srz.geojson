@@ -94347,6 +94347,7 @@
   "id": "node/11691402444",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "1.5",
     "id": "node/11691402444"
   },
   "geometry": {
@@ -98376,6 +98377,7 @@
     "access": "yes",
     "barrier": "gate",
     "material": "metal",
+    "maxwidth:physical": "1.5",
     "id": "node/12065925624"
   },
   "geometry": {

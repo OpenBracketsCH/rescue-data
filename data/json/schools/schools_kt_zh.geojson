@@ -47578,6 +47578,7 @@
     "operator:type": "public",
     "phone": "+41 44 994 15 67",
     "roof:levels": "1",
+    "roof:shape": "hipped",
     "school": "primary",
     "school:CH": "primarschule",
     "website": "https://www.primarschule-uster.ch/de/daten/schuleinheit/niederuster/",

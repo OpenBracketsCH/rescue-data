@@ -43063,10 +43063,6 @@
   "type": "Feature",
   "id": "way/680350679",
   "properties": {
-    "addr:city": "Locarno",
-    "addr:housenumber": "1",
-    "addr:postcode": "6600",
-    "addr:street": "Via Ospedale",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
@@ -43089,8 +43085,8 @@
           46.168404
         ],
         [
-          8.7900697,
-          46.1682368
+          8.7900627,
+          46.1682088
         ],
         [
           8.7908301,
@@ -43101,16 +43097,16 @@
           46.1683007
         ],
         [
-          8.7916004,
-          46.1683691
+          8.7915974,
+          46.1683707
         ],
         [
           8.7915004,
           46.1688607
         ],
         [
-          8.7914684,
-          46.1690374
+          8.7914675,
+          46.1690472
         ],
         [
           8.7910594,
@@ -48876,6 +48872,7 @@
   "id": "way/1165234785",
   "properties": {
     "amenity": "hospital",
+    "check_date": "2025-06-17",
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "paediatrics;child_psychiatry",
