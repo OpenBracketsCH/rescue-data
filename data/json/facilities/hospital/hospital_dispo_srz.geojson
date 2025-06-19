@@ -14354,6 +14354,28 @@
       47.2632669
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12922603996",
+  "properties": {
+    "amenity": "clinic",
+    "currency:XBT": "yes",
+    "healthcare": "clinic",
+    "name": "Sailer Clinic",
+    "payment:lightning": "yes",
+    "payment:onchain": "yes",
+    "survey:date": "2025-06-18",
+    "website": "https://www.sailerclinic.com",
+    "id": "node/12922603996"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5664691,
+      47.3693903
+    ]
+  }
 }
 ]
 }
