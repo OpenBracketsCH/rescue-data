@@ -42244,7 +42244,7 @@
     "alt_name": "Flughafenautobahn",
     "avz": "241",
     "highway": "motorway",
-    "lanes": "2",
+    "lanes": "3",
     "layer": "-1",
     "lit": "yes",
     "maxspeed": "100",

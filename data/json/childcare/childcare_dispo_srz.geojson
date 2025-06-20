@@ -8390,6 +8390,7 @@
   "id": "node/6840489980",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-06-19",
     "name": "Froschkönig",
     "id": "node/6840489980"
   },
