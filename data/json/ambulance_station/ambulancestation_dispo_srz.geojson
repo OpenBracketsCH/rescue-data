@@ -729,6 +729,7 @@
     "addr:housenumber": "56",
     "addr:postcode": "8302",
     "addr:street": "Dorfstrasse",
+    "check_date": "2025-06-20",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Bülach - Wache Kloten",
     "operator": "Spital Bülach - Rettungsdienst",
