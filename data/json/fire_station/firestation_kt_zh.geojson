@@ -6806,6 +6806,23 @@
       47.322837
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12942362791",
+  "properties": {
+    "amenity": "fire_station",
+    "name": "Depot Feuerwehr Eulachtal",
+    "operator": "Feuerwehr Eulachtal",
+    "id": "node/12942362791"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8878675,
+      47.5209275
+    ]
+  }
 }
 ]
 }
