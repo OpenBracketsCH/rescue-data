@@ -8883,6 +8883,7 @@
     "addr:postcode": "8002",
     "addr:street": "Waffenplatzstrasse",
     "amenity": "childcare",
+    "check_date": "2025-06-19",
     "name": "Academicus",
     "website": "https://www.academicus.co/",
     "id": "node/8378829332"

@@ -9334,7 +9334,8 @@
     "addr:postcode": "8610",
     "addr:street": "Wermatswilerstrasse",
     "amenity": "kindergarten",
-    "building": "detached",
+    "building": "kindergarten",
+    "check_date": "2025-06-22",
     "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/805",
     "name": "Kindergarten Weidli",
     "phone": "+41 44 940 42 79",
@@ -37836,6 +37837,7 @@
   "id": "node/6633369939",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-06-20",
     "contact:city": "Zürich",
     "contact:housenumber": "10",
     "contact:phone": "+41 44 413 78 47",
