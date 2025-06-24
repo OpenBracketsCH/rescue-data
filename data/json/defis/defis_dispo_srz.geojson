@@ -17209,7 +17209,7 @@
   "id": "node/8382790996",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Eingang Gebäude B",
+    "defibrillator:location": "Eingang Gebäude A",
     "description": "öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -20271,13 +20271,12 @@
   "type": "Feature",
   "id": "node/8554807617",
   "properties": {
-    "defibrillator:location": "Frauenarzt Praxis Dr. Kratzer",
-    "description": "während den Öffnungszeiten",
+    "defibrillator:location": "Frauenpraxis Regensdorf",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "24/7",
-    "operator": "Aerzte Praxis",
+    "opening_hours": "Mo 08:00-12:00,13:00-18:00; Tu 07:30-12:30,13:30-17:00; We 08:00-12:00,13:00-18:00; Th 07:30-12:00,13:00-17:00; Fr 07:30-12:00,13:00-17:00",
+    "operator": "Frauenpraxis Regensdorf",
     "phone": "+41448401606",
     "id": "node/8554807617"
   },
@@ -53767,30 +53766,6 @@
     "coordinates": [
       8.40062,
       47.40573
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10763309966",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Werkstatt",
-    "description": "oranger Koffer",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "name": "Acer Computer (Switzerland) AG",
-    "opening_hours": "Mo-Fr 09:00-12:00, 13:00-18:00; Sa 09:00-16:00",
-    "operator": "Lifetec AG Schweiz",
-    "phone": "+41 800 122 144",
-    "id": "node/10763309966"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.39501,
-      47.41892
     ]
   }
 },
@@ -91837,28 +91812,6 @@
     "coordinates": [
       8.6617123,
       47.3039984
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/12942418501",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "ZKB Infotafel Loipe Guldenen / WC Anlage",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "Gemeinde Egg ((H.J. Schiess)",
-    "phone": "+41794180964",
-    "id": "node/12942418501"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.661729,
-      47.3039816
     ]
   }
 }

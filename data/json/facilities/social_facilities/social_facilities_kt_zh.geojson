@@ -23226,6 +23226,7 @@
     "addr:street": "Depotweg",
     "amenity": "social_facility",
     "area": "yes",
+    "check_date": "2025-06-23",
     "name": "Strichplatz",
     "operator": "Stadt Zürich",
     "operator:type": "public",
@@ -28521,6 +28522,7 @@
     "addr:street": "Triemlistrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2025-06-23",
     "email": "reblaube@ksdz.ch",
     "name": "Männerhaus Reblaube",
     "operator": "Stiftung Kirchlicher Sozialdienst Zürich",
@@ -49547,6 +49549,30 @@
     "coordinates": [
       8.608223,
       47.6343392
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12946150402",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "10",
+    "addr:postcode": "8400",
+    "addr:street": "Eckstrasse",
+    "amenity": "social_facility",
+    "name": "Andante Miethaus Eckstrasse",
+    "operator": "Stiftung andante",
+    "operator:type": "private",
+    "social_facility": "assisted_living",
+    "social_facility:for": "disabled",
+    "id": "node/12946150402"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7238731,
+      47.5076825
     ]
   }
 }
