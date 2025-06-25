@@ -90,6 +90,7 @@
   "id": "way/54679537",
   "properties": {
     "amenity": "kindergarten",
+    "building": "yes",
     "name": "Kindergarten Wiesental",
     "id": "way/54679537"
   },

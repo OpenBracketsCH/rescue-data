@@ -588,6 +588,10 @@
   "type": "Feature",
   "id": "way/199365164",
   "properties": {
+    "addr:city": "Zug",
+    "addr:housenumber": "1",
+    "addr:place": "Frauensteinmatt",
+    "addr:postcode": "6300",
     "alt_name": "Alterszentrum Frauensteinmatt",
     "amenity": "social_facility",
     "building": "yes",

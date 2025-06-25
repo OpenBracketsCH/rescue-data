@@ -24786,6 +24786,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A7",
@@ -28265,6 +28266,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A7",
@@ -29009,6 +29011,7 @@
     "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3W",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/44774429"
   },
@@ -34600,6 +34603,7 @@
     "highway": "motorway",
     "int_ref": "E 60",
     "lanes": "2",
+    "lit": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A1",
@@ -52952,6 +52956,7 @@
   "properties": {
     "highway": "motorway",
     "lanes": "2",
+    "lit": "no",
     "maxheight": "default",
     "maxspeed": "120",
     "oneway": "yes",
@@ -66742,6 +66747,7 @@
     "name": "Sihlhochstrasse",
     "oneway": "yes",
     "ref": "A3W",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "merge_to_right|none|none",
     "wikidata": "Q105037848",
@@ -66786,6 +66792,7 @@
     "name": "Sihlhochstrasse",
     "oneway": "yes",
     "ref": "A3W",
+    "surface": "asphalt",
     "toll": "yes",
     "wikidata": "Q105037848",
     "id": "way/537948562"
@@ -74823,6 +74830,7 @@
     "name": "Sihlhochstrasse",
     "oneway": "yes",
     "ref": "A3W",
+    "surface": "asphalt",
     "toll": "yes",
     "wikidata": "Q105037848",
     "id": "way/656681143"

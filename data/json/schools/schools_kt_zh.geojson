@@ -31859,6 +31859,7 @@
     "email": "elisabeth.schweiger@primarschule-uster.ch",
     "name": "Heilpädagogische Schule",
     "phone": "+41 44 940 53 64",
+    "roof:shape": "flat",
     "school": "primary",
     "school:CH": "primarschule",
     "website": "https://www.primarschule-uster.ch/de/daten/schuleinheit/heilpaedagogischeschuleuster/",

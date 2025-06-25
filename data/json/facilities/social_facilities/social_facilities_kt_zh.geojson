@@ -45742,11 +45742,14 @@
     "addr:housenumber": "10",
     "addr:street": "Gubelstrasse",
     "amenity": "social_facility",
+    "check_date": "2025-06-24",
     "description": "Ausgabestelle im GZ Oerlikon",
     "name": "Tischlein Deck Dich",
     "opening_hours": "Mo 10:30-12:00",
     "social_facility": "food_bank",
     "social_facility:for": "underprivileged",
+    "website": "https://www.tischlein.ch/",
+    "wheelchair": "yes",
     "id": "node/8152206419"
   },
   "geometry": {
@@ -48537,6 +48540,7 @@
     "addr:postcode": "8002",
     "addr:street": "Bederstrasse",
     "amenity": "social_facility",
+    "check_date": "2025-06-24",
     "name": "Treffpunkt t-alk",
     "opening_hours": "10:15-17:30",
     "operator": "Stadt Zürich Soziale Einrichtungen und Betriebe",

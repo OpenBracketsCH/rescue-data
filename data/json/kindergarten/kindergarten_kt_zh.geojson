@@ -35146,15 +35146,15 @@
   "id": "node/4408280436",
   "properties": {
     "amenity": "kindergarten",
-    "check_date": "2023-07-16",
+    "check_date": "2025-06-24",
     "name": "Bambola",
     "id": "node/4408280436"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5418645,
-      47.4096169
+      8.5420594,
+      47.4095647
     ]
   }
 },
@@ -43064,6 +43064,7 @@
   "id": "node/10712571236",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-06-24",
     "name": "Kindergarten Am Stadtrand",
     "id": "node/10712571236"
   },
