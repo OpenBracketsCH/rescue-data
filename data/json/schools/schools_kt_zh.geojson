@@ -103736,6 +103736,24 @@
       47.3471139
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12953279089",
+  "properties": {
+    "addr:city": "Uster",
+    "amenity": "school",
+    "name": "Onken Academy GmbH",
+    "opening_hours": "Mo-Fr 08:00-12:30,13:30-17:00",
+    "id": "node/12953279089"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7238486,
+      47.348569
+    ]
+  }
 }
 ]
 }
