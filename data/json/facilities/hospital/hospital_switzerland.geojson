@@ -51679,7 +51679,7 @@
   "properties": {
     "amenity": "clinic",
     "contact:email": "olten@pallas-kliniken.ch",
-    "contact:website": "http://www.pallas-kliniken.ch/de/standorte/olten-ch-4600.html",
+    "contact:website": "https://www.pallas-kliniken.ch/de/standorte/pallas-klinik-olten-augenklinik",
     "name": "Pallas Klinik",
     "id": "node/3279430720"
   },

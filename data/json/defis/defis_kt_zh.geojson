@@ -40557,15 +40557,16 @@
   "type": "Feature",
   "id": "node/10763309995",
   "properties": {
+    "access": "no",
     "defibrillator:location": "1. OG Wartezimmer",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "name": "Swisspath AG",
-    "opening_hours": "Mo-Fr 08:00-17:30",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
+    "ref": "0351LTM",
     "id": "node/10763309995"
   },
   "geometry": {
@@ -71618,6 +71619,29 @@
     "coordinates": [
       8.6871714,
       47.605553
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12957231901",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Dienstgebäude Forchbahn",
+    "description": "Aussenkasten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Egg ZH (H.J. Schiess)",
+    "phone": "+41794180964",
+    "id": "node/12957231901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7101704,
+      47.2876946
     ]
   }
 }

@@ -2881,6 +2881,7 @@
   "properties": {
     "barrier": "lift_gate",
     "lift_gate:type": "single",
+    "locked": "yes",
     "id": "node/12449723133"
   },
   "geometry": {

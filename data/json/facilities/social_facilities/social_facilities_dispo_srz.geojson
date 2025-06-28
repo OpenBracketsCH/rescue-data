@@ -31199,6 +31199,14 @@
           47.7559349
         ],
         [
+          8.4973884,
+          47.7559299
+        ],
+        [
+          8.4974027,
+          47.7559203
+        ],
+        [
           8.4974107,
           47.7559149
         ],
@@ -57949,6 +57957,26 @@
     "coordinates": [
       8.5604406,
       47.4133257
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10311532927",
+  "properties": {
+    "amenity": "social_facility",
+    "capacity": "5",
+    "name": "BeWo Egghof",
+    "operator": "Betreutes Wohnen Elgg AG",
+    "social_facility": "assisted_living",
+    "website": "https://www.bewoelgg.ch/wohnen/egghof",
+    "id": "node/10311532927"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.89312,
+      47.5088417
     ]
   }
 },
