@@ -13426,6 +13426,8 @@
   "id": "way/1142062691",
   "properties": {
     "aeroway": "helipad",
+    "level": "8",
+    "maxweight": "3.5",
     "name": "Kantonsspital Schaffhausen Helipad",
     "id": "way/1142062691"
   },

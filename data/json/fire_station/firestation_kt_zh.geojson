@@ -1516,55 +1516,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/51334233",
-  "properties": {
-    "addr:city": "Wettswil",
-    "addr:housenumber": "4",
-    "addr:postcode": "8907",
-    "addr:street": "Schulstrasse",
-    "amenity": "fire_station",
-    "building": "yes",
-    "name": "Feuerwehr Unteramt - Depot Wettswil",
-    "id": "way/51334233"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.474852,
-          47.3380881
-        ],
-        [
-          8.4748852,
-          47.3379807
-        ],
-        [
-          8.4750174,
-          47.3379995
-        ],
-        [
-          8.4750095,
-          47.338025
-        ],
-        [
-          8.4750064,
-          47.3380245
-        ],
-        [
-          8.4749811,
-          47.3381064
-        ],
-        [
-          8.474852,
-          47.3380881
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/52924472",
   "properties": {
     "addr:city": "Aeugst am Albis",
@@ -6158,27 +6109,6 @@
     "coordinates": [
       8.5516896,
       47.4927411
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5314467631",
-  "properties": {
-    "addr:city": "Bonstetten",
-    "addr:housenumber": "1",
-    "addr:postcode": "8906",
-    "addr:street": "Dorfstrasse",
-    "amenity": "fire_station",
-    "name": "Feuerwehr Unteramt - Depot Bonstetten",
-    "website": "https://www.feuerwehrunteramt.ch/",
-    "id": "node/5314467631"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4718553,
-      47.315067
     ]
   }
 },

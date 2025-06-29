@@ -90516,6 +90516,7 @@
   "properties": {
     "barrier": "gate",
     "material": "metal",
+    "maxwidth:physical": "1.2",
     "id": "node/11322937231"
   },
   "geometry": {
