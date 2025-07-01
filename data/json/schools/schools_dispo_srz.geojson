@@ -127679,6 +127679,7 @@
   "id": "node/5331387438",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-06-30",
     "contact:city": "Zürich",
     "contact:housenumber": "68",
     "contact:postcode": "8002",
