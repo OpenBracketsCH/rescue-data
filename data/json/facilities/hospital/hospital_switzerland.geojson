@@ -26892,6 +26892,7 @@
     "addr:street": "Rue de la Serre",
     "amenity": "hospital",
     "building": "hospital",
+    "healthcare": "hospital",
     "name": "Hôpital neuchatelois Policlinique pédiatrique des Montagnes",
     "operator": "Hôpital neuchatelois",
     "phone": "+41 32 713 38 48",

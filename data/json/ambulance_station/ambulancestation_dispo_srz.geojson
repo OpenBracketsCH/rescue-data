@@ -918,8 +918,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8430759,
-      47.2596602
+      8.842989,
+      47.2596671
     ]
   }
 },
@@ -941,6 +941,26 @@
     "coordinates": [
       8.5160027,
       47.3879322
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12966008621",
+  "properties": {
+    "amenity": "rescue_station",
+    "emergency": "ambulance_station",
+    "emergency:phone": "144",
+    "operator": "Regio 144 AG",
+    "phone": "055 220 41 41",
+    "website": "www.regio144.ch",
+    "id": "node/12966008621"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8019344,
+      47.3199596
     ]
   }
 }
