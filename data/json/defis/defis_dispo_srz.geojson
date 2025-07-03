@@ -92017,6 +92017,52 @@
       47.3587059
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12968917801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "bonaLiving, nach Haupteingang im Eingangsbereich rechts in der Ecke an der Wand",
+    "description": "während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo - Su 08:00-20:00",
+    "operator": "bonacasa AG",
+    "phone": "+41795551345",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12968917801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5850202,
+      47.1399148
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12969046602",
+  "properties": {
+    "defibrillator:location": "workfashion.com ag",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2",
+    "opening_hours": "Mo-Fr 8:00-16:00",
+    "operator": "workfashion.com ag",
+    "phone": "+41417848484",
+    "id": "node/12969046602"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4307426,
+      47.2033286
+    ]
+  }
 }
 ]
 }

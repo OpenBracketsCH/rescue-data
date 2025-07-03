@@ -4642,7 +4642,6 @@
     "amenity": "school",
     "building": "yes",
     "name": "International School of Zug and Luzern",
-    "website": "http://www.isocs.ch/",
     "id": "way/23646462"
   },
   "geometry": {
@@ -116916,44 +116915,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1042637871",
-  "properties": {
-    "addr:housenumber": "2.1",
-    "addr:postcode": "6340",
-    "addr:street": "Walterswil",
-    "amenity": "school",
-    "id": "way/1042637871"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5571039,
-          47.2109545
-        ],
-        [
-          8.557116,
-          47.2109247
-        ],
-        [
-          8.5571551,
-          47.210932
-        ],
-        [
-          8.557143,
-          47.2109618
-        ],
-        [
-          8.5571039,
-          47.2109545
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1042637872",
   "properties": {
     "addr:city": "Baar",
@@ -116963,7 +116924,6 @@
     "amenity": "school",
     "building": "yes",
     "name": "International School of Zug and Luzern",
-    "website": "http://www.isocs.ch/",
     "id": "way/1042637872"
   },
   "geometry": {
@@ -125860,6 +125820,51 @@
         [
           8.4870222,
           47.3754732
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1411399758",
+  "properties": {
+    "amenity": "school",
+    "name": "International School of Zug and Luzern",
+    "website": "https://www.iszl.ch/",
+    "id": "way/1411399758"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5557749,
+          47.2106725
+        ],
+        [
+          8.5560675,
+          47.209623
+        ],
+        [
+          8.5566579,
+          47.2095506
+        ],
+        [
+          8.5575249,
+          47.2097608
+        ],
+        [
+          8.5588367,
+          47.2102663
+        ],
+        [
+          8.558066,
+          47.211259
+        ],
+        [
+          8.5557749,
+          47.2106725
         ]
       ]
     ]

@@ -7609,6 +7609,7 @@
     "addr:street": "Leumatt",
     "amenity": "kindergarten",
     "building": "school",
+    "check_date": "2025-07-02",
     "contact:email": "schulverwaltung@seegraeben.ch",
     "contact:phone": "+41 44 932 28 64",
     "contact:website": "https://www.schule-seegraeben.ch/klassen/14443",
