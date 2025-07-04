@@ -12938,6 +12938,7 @@
   "id": "node/7044143562",
   "properties": {
     "amenity": "clinic",
+    "check_date:opening_hours": "2025-07-03",
     "healthcare": "clinic",
     "name": "Arud Zentrum für Suchtmedizin",
     "opening_hours": "Mo-Fr 08:00-17:00",

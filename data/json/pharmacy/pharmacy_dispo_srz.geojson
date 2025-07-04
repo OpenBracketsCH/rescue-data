@@ -7076,11 +7076,6 @@
   "type": "Feature",
   "id": "node/7098198699",
   "properties": {
-    "access:covid19": "yes",
-    "addr:city": "Hinwil",
-    "addr:housenumber": "38",
-    "addr:postcode": "8340",
-    "addr:street": "Wässeristrasse",
     "amenity": "pharmacy",
     "delivery:covid19": "no",
     "description": "Persönliche und ganzheitliche Beratung für unsere Kundschaft. Neben klassischer Schulmedizin führen wir ein sehr breites und qualitativ hochstehendes Sortiment an Naturheilmitteln, Naturkosmetik, Dermakosmetik, Reformartikel und Babynahrung.",
