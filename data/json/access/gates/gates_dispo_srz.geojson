@@ -60549,14 +60549,15 @@
   "properties": {
     "access": "yes",
     "barrier": "lift_gate",
+    "locked": "no",
     "motorcar": "yes",
     "id": "node/7006266793"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6237853,
-      47.6935889
+      8.6237914,
+      47.6935819
     ]
   }
 },

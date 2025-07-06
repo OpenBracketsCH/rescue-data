@@ -5598,6 +5598,29 @@
 },
 {
   "type": "Feature",
+  "id": "node/3268664482",
+  "properties": {
+    "addr:city": "Wallisellen",
+    "addr:housenumber": "2",
+    "addr:postcode": "8304",
+    "addr:street": "Richtiarkade",
+    "amenity": "childcare",
+    "check_date": "2025-07-05",
+    "name": "Globegarden",
+    "preschool": "yes",
+    "wheelchair": "yes",
+    "id": "node/3268664482"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.593687,
+      47.4115225
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3373699876",
   "properties": {
     "amenity": "childcare",
@@ -15244,6 +15267,28 @@
     "coordinates": [
       8.5330545,
       47.3647632
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12980599059",
+  "properties": {
+    "addr:floor": "EG",
+    "addr:housenumber": "97",
+    "addr:street": "Eugen-Huber-Strasse",
+    "amenity": "childcare",
+    "check_date": "2025-07-05",
+    "level": "0",
+    "name": "Luna",
+    "website": "https://lunakids.ch/",
+    "id": "node/12980599059"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.476308,
+      47.3873795
     ]
   }
 }

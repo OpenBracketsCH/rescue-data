@@ -12886,49 +12886,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/148506349",
-  "properties": {
-    "addr:city": "Opfikon",
-    "addr:housenumber": "43",
-    "addr:postcode": "8152",
-    "addr:street": "Oberhauserstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Glattweg",
-    "roof:shape": "flat",
-    "source": "bing",
-    "id": "way/148506349"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5684164,
-          47.431347
-        ],
-        [
-          8.5686339,
-          47.4312416
-        ],
-        [
-          8.5688022,
-          47.4313986
-        ],
-        [
-          8.5685851,
-          47.4315053
-        ],
-        [
-          8.5684164,
-          47.431347
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/148742739",
   "properties": {
     "addr:city": "Au ZH",
@@ -13156,63 +13113,6 @@
         [
           8.6775071,
           47.1907363
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/152220154",
-  "properties": {
-    "addr:housenumber": "45",
-    "addr:postcode": "8152",
-    "addr:street": "Oberhauserstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Halden",
-    "source": "bing",
-    "id": "way/152220154"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5687635,
-          47.431182
-        ],
-        [
-          8.5689194,
-          47.431106
-        ],
-        [
-          8.5690128,
-          47.4311938
-        ],
-        [
-          8.5690532,
-          47.4311741
-        ],
-        [
-          8.5691292,
-          47.4312455
-        ],
-        [
-          8.568969,
-          47.4313235
-        ],
-        [
-          8.5689002,
-          47.4312589
-        ],
-        [
-          8.5688641,
-          47.4312765
-        ],
-        [
-          8.5687635,
-          47.431182
         ]
       ]
     ]
@@ -13902,58 +13802,6 @@
         [
           8.575241,
           47.4312579
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/157855564",
-  "properties": {
-    "addr:city": "Opfikon",
-    "addr:housenumber": "27",
-    "addr:postcode": "8152",
-    "addr:street": "Dorfstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "building:levels": "3",
-    "name": "Kindergarten Dorf",
-    "roof:shape": "pitched",
-    "source": "gis browser",
-    "id": "way/157855564"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5758607,
-          47.4319343
-        ],
-        [
-          8.5759539,
-          47.4318822
-        ],
-        [
-          8.5760893,
-          47.4319915
-        ],
-        [
-          8.5760537,
-          47.4320118
-        ],
-        [
-          8.5760824,
-          47.4320342
-        ],
-        [
-          8.5760258,
-          47.4320664
-        ],
-        [
-          8.5758607,
-          47.4319343
         ]
       ]
     ]
@@ -19854,40 +19702,40 @@
     "coordinates": [
       [
         [
-          8.623655,
-          47.7127886
+          8.6236504,
+          47.7127964
         ],
         [
-          8.6236738,
-          47.7127544
+          8.6236692,
+          47.7127622
         ],
         [
-          8.6236822,
-          47.7127566
+          8.6236776,
+          47.7127644
         ],
         [
-          8.6237201,
-          47.712688
+          8.6237155,
+          47.7126958
         ],
         [
-          8.6240273,
-          47.7127652
+          8.6240227,
+          47.712773
         ],
         [
-          8.6239888,
-          47.7128349
+          8.6239842,
+          47.7128427
         ],
         [
-          8.6239961,
-          47.7128367
+          8.6239915,
+          47.7128445
         ],
         [
-          8.6239779,
-          47.7128698
+          8.6239733,
+          47.7128776
         ],
         [
-          8.623655,
-          47.7127886
+          8.6236504,
+          47.7127964
         ]
       ]
     ]
@@ -34009,6 +33857,7 @@
   "id": "way/1190139545",
   "properties": {
     "amenity": "kindergarten",
+    "isced:level": "n",
     "id": "way/1190139545"
   },
   "geometry": {
@@ -37294,6 +37143,125 @@
 },
 {
   "type": "Feature",
+  "id": "way/1412495253",
+  "properties": {
+    "amenity": "kindergarten",
+    "id": "way/1412495253"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5681466,
+          47.4312577
+        ],
+        [
+          8.5685315,
+          47.431128
+        ],
+        [
+          8.5686558,
+          47.431179
+        ],
+        [
+          8.5690519,
+          47.4310299
+        ],
+        [
+          8.5691022,
+          47.431047
+        ],
+        [
+          8.569163,
+          47.4310687
+        ],
+        [
+          8.5692203,
+          47.4311023
+        ],
+        [
+          8.5692727,
+          47.4311637
+        ],
+        [
+          8.5692902,
+          47.4311935
+        ],
+        [
+          8.5692657,
+          47.4312479
+        ],
+        [
+          8.5691979,
+          47.4312871
+        ],
+        [
+          8.5690281,
+          47.4313769
+        ],
+        [
+          8.5690068,
+          47.4313876
+        ],
+        [
+          8.5688886,
+          47.4314179
+        ],
+        [
+          8.5684799,
+          47.4315879
+        ],
+        [
+          8.5681466,
+          47.4312577
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1412496168",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Dorf",
+    "id": "way/1412496168"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5758149,
+          47.4319517
+        ],
+        [
+          8.576088,
+          47.4318101
+        ],
+        [
+          8.5763083,
+          47.4319989
+        ],
+        [
+          8.5763402,
+          47.432125
+        ],
+        [
+          8.5761967,
+          47.4322626
+        ],
+        [
+          8.5758149,
+          47.4319517
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",
@@ -39376,29 +39344,6 @@
     "coordinates": [
       8.5945373,
       47.4105428
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/3268664482",
-  "properties": {
-    "addr:city": "Wallisellen",
-    "addr:housenumber": "2",
-    "addr:postcode": "8304",
-    "addr:street": "Richtiarkade",
-    "amenity": "kindergarten",
-    "check_date": "2024-09-14",
-    "name": "Kindergarten Globegarden",
-    "preschool": "yes",
-    "wheelchair": "yes",
-    "id": "node/3268664482"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.593687,
-      47.4115225
     ]
   }
 },
