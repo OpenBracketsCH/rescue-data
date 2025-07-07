@@ -58275,6 +58275,29 @@
       47.3693903
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12981974840",
+  "properties": {
+    "addr:city": "Bern",
+    "addr:housenumber": "18",
+    "addr:postcode": "3027",
+    "addr:street": "Ramuzstrasse",
+    "amenity": "clinic",
+    "email": "bern-westside@medbase.ch",
+    "healthcare": "clinic",
+    "name": "Medbase",
+    "website": "https://www.medbase.ch/standorte/detail/medbase-bern-westside",
+    "id": "node/12981974840"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3751693,
+      46.945052
+    ]
+  }
 }
 ]
 }
