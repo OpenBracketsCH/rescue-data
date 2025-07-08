@@ -92063,6 +92063,71 @@
       47.391493
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/12985187702",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Thurgauerstrasse 56, vor dem Haupteingang rechts in einem Wandkasten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "GVZ Gebäudeversicherung Kanton Zürich",
+    "phone": "+41 44 308 21 11",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12985187702"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5528564,
+      47.4160989
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12985225203",
+  "properties": {
+    "access": "yes",
+    "check_date": "2025-07-07",
+    "defibrillator:location:de": "Im Eingangsbereich links der Eingangstüre an der Wand",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "1",
+    "phone": "044 422 75 61",
+    "id": "node/12985225203"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5942292,
+      47.3599877
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12985228803",
+  "properties": {
+    "access": "yes",
+    "check_date": "2025-07-07",
+    "defibrillator:location:de": "Im Eingangsbereich links neben der Eingangstüre an der Wand",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "1",
+    "phone": "044 422 75 61",
+    "id": "node/12985228803"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.595979,
+      47.359774
+    ]
+  }
 }
 ]
 }

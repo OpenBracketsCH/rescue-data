@@ -15613,9 +15613,10 @@
     "addr:housenumber": "9",
     "addr:street": "Zürichstrasse",
     "amenity": "childcare",
-    "check_date": "2025-05-28",
+    "check_date": "2025-07-07",
     "level": "0",
     "name": "Globe Garden",
+    "website": "https://www.globegarden.ch/locations/stadtpark",
     "id": "node/12495533598"
   },
   "geometry": {

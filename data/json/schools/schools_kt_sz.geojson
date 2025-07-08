@@ -3112,6 +3112,7 @@
     "addr:street": "Kornhausstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2025-07-07",
     "name": "Schulhaus Kornhausstrasse",
     "source": "bing",
     "id": "way/199520041"

@@ -29863,42 +29863,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/626650132",
-  "properties": {
-    "amenity": "hospital",
-    "healthcare": "hospital",
-    "id": "way/626650132"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          9.0175575,
-          46.1984201
-        ],
-        [
-          9.0175141,
-          46.1983828
-        ],
-        [
-          9.01756,
-          46.1983616
-        ],
-        [
-          9.0175983,
-          46.1983958
-        ],
-        [
-          9.0175575,
-          46.1984201
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/650674013",
   "properties": {
     "amenity": "hospital",
