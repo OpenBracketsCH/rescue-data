@@ -1202,6 +1202,7 @@
     "addr:street": "Weinsteig",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2025-07-08",
     "name": "Kindergarten Geissberg 2",
     "id": "way/199664877"
   },

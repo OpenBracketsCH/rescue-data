@@ -1547,7 +1547,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "name": "AED Haus Rank",
-    "opening_hours": "Mo-Fr 07:00-20:00",
+    "opening_hours": "Mo-Fr 07:00-19:00",
     "operator": "Zoll AED",
     "id": "node/7261907324"
   },
@@ -1568,16 +1568,16 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "name": "AED Haus Gerbi",
-    "opening_hours": "Mo-Fr 07:00-20:00",
+    "name": "AED Haus Neubau",
+    "opening_hours": "Mo-Fr 07:00-19:00",
     "operator": "Zoll AED",
     "id": "node/7261907326"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.761883,
-      47.2798859
+      8.7615761,
+      47.2795232
     ]
   }
 },
@@ -5354,8 +5354,8 @@
   "id": "node/7836853916",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Im Gemeindehaus",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Aussen Haupteingang zu Gemeindehaus",
+    "description": "24 Std. / 7 Tage",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "id": "node/7836853916"
@@ -5363,8 +5363,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7213382,
-      47.3093281
+      8.7214212,
+      47.3093373
     ]
   }
 },
@@ -71781,6 +71781,52 @@
     "coordinates": [
       8.595979,
       47.359774
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12987333003",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "An der Aussenwand am Garderobengebäude",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Fehraltorf",
+    "phone": "+41433557813",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12987333003"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.750075,
+      47.3831804
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12987616001",
+  "properties": {
+    "defibrillator:location": "Gemeindehaus Aussenwand Haupteingang",
+    "description": "24 / 7 verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeindeverwaltung Mönchaltorf",
+    "phone": "+41449494010",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12987616001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7214062,
+      47.3093075
     ]
   }
 }

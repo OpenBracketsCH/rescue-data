@@ -9763,6 +9763,7 @@
   "id": "node/9245648266",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-07-08",
     "contact:city": "Zürich",
     "contact:housenumber": "81",
     "contact:phone": "+41 44 413 04 62",

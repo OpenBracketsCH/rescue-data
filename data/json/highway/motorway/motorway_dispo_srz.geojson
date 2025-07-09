@@ -30765,6 +30765,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "lit": "yes",
+    "maxheight:signed": "no",
     "maxspeed": "80",
     "nat_name": "N4",
     "oneway": "yes",
