@@ -101283,6 +101283,7 @@
   "id": "node/9642593595",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-07-10",
     "contact:city": "Zürich",
     "contact:email": "info.intermezzo@zkj.ch",
     "contact:housenumber": "71",
