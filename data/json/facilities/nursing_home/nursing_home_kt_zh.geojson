@@ -19594,6 +19594,7 @@
   "properties": {
     "amenity": "social_facility",
     "building": "yes",
+    "name": "Alters- und Pflegeheim «Tertianum»",
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "id": "way/704152223"
