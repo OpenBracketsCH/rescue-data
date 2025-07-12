@@ -43901,6 +43901,7 @@
     "addr:postcode": "8005",
     "addr:street": "Fabrikstrasse",
     "amenity": "social_facility",
+    "check_date": "2025-07-11",
     "name": "SAW-Siedlung Sihlquai",
     "operator": "Stiftung Alterswohnungen der Stadt Zürich",
     "operator:short": "SAW",
@@ -43913,8 +43914,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5292503,
-      47.3872593
+      8.5292514,
+      47.3873061
     ]
   }
 },

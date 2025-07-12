@@ -12473,7 +12473,7 @@
     "name": "RODIAG Diagnostic Centers Röntgeninstitut",
     "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:00; Tu off; Th off",
     "operator": "Rodiag",
-    "phone": "+41 80 044 00 13",
+    "phone": "+41 58 401 14 60",
     "website": "https://www.rodiag.ch/",
     "id": "node/2934006680"
   },
@@ -12482,30 +12482,6 @@
     "coordinates": [
       8.74234,
       47.1367341
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/3772970125",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "252",
-    "addr:postcode": "8005",
-    "addr:street": "Limmatstrasse",
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "healthcare:speciality": "ophthalmology;dermatology;dermatovenereology;phlebology;plastic_surgery",
-    "name": "Pallas Klinik",
-    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
-    "operator": "Klinik Pallas AG",
-    "id": "node/3772970125"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5263966,
-      47.3888334
     ]
   }
 },

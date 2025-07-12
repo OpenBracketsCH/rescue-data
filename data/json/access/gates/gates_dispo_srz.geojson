@@ -6642,6 +6642,7 @@
     "access": "private",
     "barrier": "gate",
     "emergency": "no",
+    "locked": "yes",
     "name": "Tor 130",
     "id": "node/290383657"
   },
@@ -39663,8 +39664,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6934993,
-      47.2573754
+      8.6934758,
+      47.2573935
     ]
   }
 },
@@ -46737,6 +46738,7 @@
   "id": "node/4992238594",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "1.5",
     "id": "node/4992238594"
   },
   "geometry": {
@@ -80056,6 +80058,7 @@
     "access": "private",
     "barrier": "gate",
     "emergency": "no",
+    "locked": "yes",
     "id": "node/10211513473"
   },
   "geometry": {

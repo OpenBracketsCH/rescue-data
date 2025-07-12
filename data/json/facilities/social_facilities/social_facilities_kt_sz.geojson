@@ -315,6 +315,76 @@
 },
 {
   "type": "Feature",
+  "id": "way/170203136",
+  "properties": {
+    "addr:housenumber": "1",
+    "addr:postcode": "8840",
+    "addr:street": "Allmeindstrasse",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "building:colour": "white",
+    "building:levels": "4",
+    "building:material": "plaster",
+    "name": "Langrüti",
+    "roof:levels": "1",
+    "roof:shape": "flat",
+    "social_facility": "nursing_home",
+    "id": "way/170203136"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7412596,
+          47.1219087
+        ],
+        [
+          8.741316,
+          47.1218728
+        ],
+        [
+          8.7414002,
+          47.1218193
+        ],
+        [
+          8.7414248,
+          47.1218037
+        ],
+        [
+          8.7415515,
+          47.1218959
+        ],
+        [
+          8.7415659,
+          47.1218868
+        ],
+        [
+          8.7416796,
+          47.1219697
+        ],
+        [
+          8.7416656,
+          47.1219785
+        ],
+        [
+          8.7417855,
+          47.1220659
+        ],
+        [
+          8.7416199,
+          47.1221711
+        ],
+        [
+          8.7412596,
+          47.1219087
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/196496829",
   "properties": {
     "addr:city": "Schübelbach",

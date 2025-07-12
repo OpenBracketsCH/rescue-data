@@ -51608,7 +51608,7 @@
     "name": "RODIAG Diagnostic Centers Röntgeninstitut",
     "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:00; Tu off; Th off",
     "operator": "Rodiag",
-    "phone": "+41 80 044 00 13",
+    "phone": "+41 58 401 14 60",
     "website": "https://www.rodiag.ch/",
     "id": "node/2934006680"
   },
@@ -51790,30 +51790,6 @@
     "coordinates": [
       8.0561052,
       47.390856
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/3772970125",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "252",
-    "addr:postcode": "8005",
-    "addr:street": "Limmatstrasse",
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "healthcare:speciality": "ophthalmology;dermatology;dermatovenereology;phlebology;plastic_surgery",
-    "name": "Pallas Klinik",
-    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
-    "operator": "Klinik Pallas AG",
-    "id": "node/3772970125"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5263966,
-      47.3888334
     ]
   }
 },
@@ -58136,36 +58112,6 @@
     "coordinates": [
       6.6084816,
       46.5467491
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/12881296091",
-  "properties": {
-    "addr:city": "Emmenbrücke",
-    "addr:housenumber": "15",
-    "addr:postcode": "6020",
-    "addr:street": "Gerliswilstrasse",
-    "amenity": "hospital",
-    "email": "augenemmen@hin.ch",
-    "emergency": "yes",
-    "healthcare": "hospital",
-    "healthcare:speciality": "ophthalmology",
-    "level": "3",
-    "name": "Augenzentrum LuzernNord",
-    "operator": "Dr. med. Mustafa Ghanem",
-    "operator:type": "community",
-    "phone": "+41412601520",
-    "website": "https://augenemmen.ch",
-    "wheelchair": "yes",
-    "id": "node/12881296091"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.2805526,
-      47.0700413
     ]
   }
 },

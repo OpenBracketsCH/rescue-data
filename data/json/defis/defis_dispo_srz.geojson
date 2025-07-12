@@ -5789,6 +5789,7 @@
   "id": "node/7579637108",
   "properties": {
     "access": "yes",
+    "check_date": "2025-07-11",
     "defibrillator:location": "In Polizeidienststelle",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -92405,6 +92406,30 @@
     "coordinates": [
       8.6905658,
       47.3901251
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12993909701",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Büro",
+    "description": "während der Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "Galliker Transport AG",
+    "phone": "+41 62 748 82 23",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/12993909701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6498559,
+      47.5185267
     ]
   }
 }

@@ -9653,30 +9653,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3772970125",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "252",
-    "addr:postcode": "8005",
-    "addr:street": "Limmatstrasse",
-    "amenity": "clinic",
-    "healthcare": "clinic",
-    "healthcare:speciality": "ophthalmology;dermatology;dermatovenereology;phlebology;plastic_surgery",
-    "name": "Pallas Klinik",
-    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
-    "operator": "Klinik Pallas AG",
-    "id": "node/3772970125"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5263966,
-      47.3888334
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4101711789",
   "properties": {
     "addr:city": "Zürich",

@@ -26422,6 +26422,7 @@
   "id": "way/90647696",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-07-11",
     "contact:city": "Zürich",
     "contact:housenumber": "176",
     "contact:phone": "+41 44 413 33 14",
@@ -87060,6 +87061,7 @@
   "id": "way/795600649",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-07-10",
     "name": "Hatzenbühl",
     "id": "way/795600649"
   },
