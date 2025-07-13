@@ -550,7 +550,7 @@
     "name": "Regio 144 AG",
     "operator": "Regio 144 Rettung AG",
     "phone": "055 220 41 41",
-    "website": "www.regio144.ch",
+    "website": "https://www.regio144.ch/",
     "id": "way/1411116370"
   },
   "geometry": {
