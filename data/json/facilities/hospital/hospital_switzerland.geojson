@@ -47265,59 +47265,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/952595648",
-  "properties": {
-    "addr:city": "Muraz (Collombey)",
-    "addr:housenumber": "103",
-    "addr:postcode": "1893",
-    "addr:street": "Zone Artisanale des Plavaux",
-    "amenity": "clinic",
-    "building": "yes",
-    "healthcare": "clinic",
-    "name": "Clinique CIC Collombey",
-    "operator": "Goupe Clinique CIC Suisse",
-    "operator:type": "private",
-    "website": "https://www.cliniquecic-collombey.ch/",
-    "id": "way/952595648"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          6.9381826,
-          46.2771861
-        ],
-        [
-          6.9385858,
-          46.2774065
-        ],
-        [
-          6.9384935,
-          46.2775757
-        ],
-        [
-          6.9381665,
-          46.2773899
-        ],
-        [
-          6.9378717,
-          46.2775757
-        ],
-        [
-          6.9377373,
-          46.2774759
-        ],
-        [
-          6.9381826,
-          46.2771861
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/966657435",
   "properties": {
     "addr:city": "Bouveret",
@@ -58206,6 +58153,28 @@
     "coordinates": [
       7.3751693,
       46.945052
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/12998426665",
+  "properties": {
+    "amenity": "clinic",
+    "email": "info.collombey@cliniquecic.ch",
+    "healthcare": "clinic",
+    "name": "Clinique CIC Collombey",
+    "operator": "Goupe Clinique CIC Suisse",
+    "operator:type": "private",
+    "phone": "+41 24 552 24 24",
+    "website": "https://www.cliniquecic-collombey.ch/",
+    "id": "node/12998426665"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9381973,
+      46.2772766
     ]
   }
 }

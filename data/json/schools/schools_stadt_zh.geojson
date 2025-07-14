@@ -19191,6 +19191,7 @@
   "id": "way/1148035871",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-07-13",
     "layer": "-1",
     "name": "Naturschule Dunkelhölzli",
     "id": "way/1148035871"
@@ -21888,6 +21889,7 @@
   "id": "node/9726670001",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-07-13",
     "contact:city": "Zürich",
     "contact:email": "info@sisz.ch",
     "contact:housenumber": "1",
