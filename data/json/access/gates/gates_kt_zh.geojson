@@ -37801,7 +37801,7 @@
   "type": "Feature",
   "id": "node/4546660995",
   "properties": {
-    "access": "no",
+    "access": "private",
     "barrier": "lift_gate",
     "id": "node/4546660995"
   },
@@ -76413,6 +76413,7 @@
   "type": "Feature",
   "id": "node/11134253423",
   "properties": {
+    "access": "private",
     "barrier": "gate",
     "id": "node/11134253423"
   },
@@ -76428,6 +76429,7 @@
   "type": "Feature",
   "id": "node/11134253437",
   "properties": {
+    "access": "private",
     "barrier": "gate",
     "id": "node/11134253437"
   },
