@@ -13973,7 +13973,7 @@
   "properties": {
     "addr:city": "St. Urban",
     "addr:country": "CH",
-    "addr:housenumber": "1, 1,2",
+    "addr:housenumber": "1",
     "addr:postcode": "4915",
     "addr:street": "Schafmattstrasse",
     "amenity": "hospital",

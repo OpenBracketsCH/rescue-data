@@ -11514,7 +11514,9 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindergarten Weberstrasse",
-    "operator": "Tagesschule Mattenbach",
+    "operator": "Stadt Winterthur",
+    "operator:type": "government",
+    "operator:wikidata": "Q9125",
     "id": "way/135588223"
   },
   "geometry": {
@@ -16435,18 +16437,19 @@
   "type": "Feature",
   "id": "way/237304227",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "35",
+    "addr:postcode": "8400",
     "addr:street": "Am Bach",
     "amenity": "kindergarten",
     "building": "school",
     "building:levels": "1",
     "building:roof": "F",
-    "contact:email": "primarschule.mattenbach@win.ch",
     "contact:phone": "+41 52 232 19 00",
-    "contact:website": "https://stadt.winterthur.ch/themen/leben-in-winterthur/bildung-und-schule/schulen-und-schulhaeuser/schulen-stadtkreis-mattenbach",
     "name": "Kindergarten Am Bach",
-    "operator": "Tagesschule Mattenbach",
+    "operator": "Stadt Winterthur",
     "operator:type": "public",
+    "operator:wikidata": "Q9125",
     "roof:shape": "flat",
     "id": "way/237304227"
   },
@@ -34718,24 +34721,6 @@
     "coordinates": [
       8.7410153,
       47.4900966
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4110517449",
-  "properties": {
-    "amenity": "kindergarten",
-    "check_date": "2024-02-17",
-    "name": "Betreuung Weberstrasse",
-    "operator": "Tagesschule Mattenbach",
-    "id": "node/4110517449"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7398336,
-      47.4926739
     ]
   }
 },
