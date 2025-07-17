@@ -32623,6 +32623,58 @@
 },
 {
   "type": "Feature",
+  "id": "way/1415315863",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Nüsatz",
+    "id": "way/1415315863"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6536486,
+          47.6548297
+        ],
+        [
+          8.6536036,
+          47.6548182
+        ],
+        [
+          8.6535854,
+          47.6547111
+        ],
+        [
+          8.6535442,
+          47.6546473
+        ],
+        [
+          8.6534604,
+          47.6545942
+        ],
+        [
+          8.6533439,
+          47.6545648
+        ],
+        [
+          8.6532832,
+          47.654353
+        ],
+        [
+          8.6540042,
+          47.6544217
+        ],
+        [
+          8.6536486,
+          47.6548297
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
@@ -37359,6 +37411,7 @@
   "id": "node/6631645525",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-07-16",
     "contact:city": "Zürich",
     "contact:housenumber": "346",
     "contact:phone": "+41 44 413 75 95",

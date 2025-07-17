@@ -125949,6 +125949,62 @@
 },
 {
   "type": "Feature",
+  "id": "way/1415315865",
+  "properties": {
+    "amenity": "school",
+    "grades": "0-6",
+    "name": "Schule Benken",
+    "operator": "Primarschulgemeinde Benken",
+    "operator:type": "government",
+    "website": "https://www.schulebenken.ch",
+    "id": "way/1415315865"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.654004,
+          47.6510785
+        ],
+        [
+          8.6559494,
+          47.6507604
+        ],
+        [
+          8.656032,
+          47.6508734
+        ],
+        [
+          8.6551393,
+          47.6522465
+        ],
+        [
+          8.6549845,
+          47.6520535
+        ],
+        [
+          8.6547084,
+          47.65217
+        ],
+        [
+          8.6543317,
+          47.6517459
+        ],
+        [
+          8.654164,
+          47.6514748
+        ],
+        [
+          8.654004,
+          47.6510785
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/256335788",
   "properties": {
     "amenity": "school",
