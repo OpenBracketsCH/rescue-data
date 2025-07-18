@@ -43105,6 +43105,7 @@
   "id": "node/6633504762",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-07-18",
     "contact:city": "Zürich",
     "contact:housenumber": "106",
     "contact:phone": "+41 44 413 76 13",

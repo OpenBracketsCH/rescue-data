@@ -55626,6 +55626,7 @@
     "amenity": "clinic",
     "healthcare": "clinic",
     "name": "Team Radiologie plus",
+    "opening_hours": "Mo-Fr 20:00-12:00,13:00-17:30",
     "id": "node/9850204699"
   },
   "geometry": {
