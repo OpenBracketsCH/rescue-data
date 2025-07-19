@@ -24430,6 +24430,7 @@
   "id": "way/80905222",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-07-18",
     "name": "Schule Wyden",
     "operator": "Schule Langwiesen-Wyden",
     "toilets:wheelchair": "yes",
@@ -59333,12 +59334,12 @@
           47.3297873
         ],
         [
-          8.806778,
-          47.3301516
+          8.8068023,
+          47.3301172
         ],
         [
-          8.8066639,
-          47.3301142
+          8.806778,
+          47.3301516
         ],
         [
           8.8065501,

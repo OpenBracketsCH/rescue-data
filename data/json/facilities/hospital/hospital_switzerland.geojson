@@ -58280,6 +58280,29 @@
       46.2772766
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13008901401",
+  "properties": {
+    "addr:housenumber": "9a-11",
+    "addr:postcode": "1003",
+    "addr:street": "Place de la Gare",
+    "amenity": "clinic",
+    "email": "lausanne-gare@medbase.ch",
+    "name": "Medbase Lausanne Gare",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "phone": "+41 21 620 65 65",
+    "website": "https://www.medbase.ch/en/centers/detail/medbase-lausanne-gare/",
+    "id": "node/13008901401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6283582,
+      46.5171493
+    ]
+  }
 }
 ]
 }

@@ -38308,6 +38308,7 @@
   "id": "node/1584041794",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-07-18",
     "name": "Kindergarten Wyden",
     "operator": "Schule Langwiesen-Wyden",
     "id": "node/1584041794"

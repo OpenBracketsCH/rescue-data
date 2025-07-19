@@ -9696,6 +9696,7 @@
     "addr:street": "Wülflingerstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2025-07-18",
     "name": "Tertianum Papillon",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
