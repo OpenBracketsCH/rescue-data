@@ -2516,6 +2516,7 @@
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "website": "https://altersheim-schleitheim.ch/kontakt-2/",
+    "wheelchair": "yes",
     "id": "way/276766708"
   },
   "geometry": {

@@ -58303,6 +58303,25 @@
       46.5171493
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13011774801",
+  "properties": {
+    "addr:housenumber": "21",
+    "addr:postcode": "1020",
+    "addr:street": "Rue de Lausanne",
+    "amenity": "clinic",
+    "name": "PROFA",
+    "id": "node/13011774801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5820745,
+      46.5368906
+    ]
+  }
 }
 ]
 }

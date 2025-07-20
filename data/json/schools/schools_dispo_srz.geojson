@@ -80246,6 +80246,7 @@
     "building": "yes",
     "name": "Schulhaus",
     "website": "https://www.schulerandental.ch/",
+    "wheelchair": "limited",
     "id": "way/276599525"
   },
   "geometry": {
@@ -80510,6 +80511,7 @@
     "building": "school",
     "name": "Aula",
     "roof:colour": "slategray",
+    "wheelchair": "yes",
     "id": "way/276599529"
   },
   "geometry": {

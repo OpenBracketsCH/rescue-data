@@ -85099,23 +85099,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10819310814",
-  "properties": {
-    "access": "customers",
-    "barrier": "lift_gate",
-    "maxheight": "1.90",
-    "id": "node/10819310814"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5156584,
-      47.3711677
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10822741981",
   "properties": {
     "access": "no",
@@ -94513,6 +94496,7 @@
   "id": "node/11696993477",
   "properties": {
     "barrier": "gate",
+    "locked": "yes",
     "id": "node/11696993477"
   },
   "geometry": {

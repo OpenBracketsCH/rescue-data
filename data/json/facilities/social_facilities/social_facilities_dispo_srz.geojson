@@ -31025,6 +31025,7 @@
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "website": "https://altersheim-schleitheim.ch/kontakt-2/",
+    "wheelchair": "yes",
     "id": "way/276766708"
   },
   "geometry": {
@@ -52541,6 +52542,7 @@
   "id": "node/5150752919",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2025-07-19",
     "name": "Sentivo Betreuung",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
@@ -54177,26 +54179,6 @@
     "coordinates": [
       8.7505566,
       47.1877107
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6102986594",
-  "properties": {
-    "amenity": "social_facility",
-    "name": "Mütterberatung",
-    "opening_hours": "Tu 13:30-16:00",
-    "social_facility": "outreach",
-    "social_facility:for": "family",
-    "website": "https://familienverein-effretikon.ch/externe/muetterberatung/",
-    "id": "node/6102986594"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6934694,
-      47.428834
     ]
   }
 },
