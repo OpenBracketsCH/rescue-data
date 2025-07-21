@@ -42527,6 +42527,7 @@
   "id": "node/6631645524",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-07-20",
     "contact:city": "Zürich",
     "contact:housenumber": "11",
     "contact:phone": "+41 44 413 75 40",
@@ -48772,6 +48773,7 @@
   "id": "node/10828128397",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-07-20",
     "isced:level": "0",
     "name": "Kindergarten Altweg",
     "operator": "Stadt Zürich, SSD, Schulkreis Letzi",

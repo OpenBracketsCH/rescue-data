@@ -47318,6 +47318,7 @@
   "properties": {
     "addr:city": "Frutigen",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Spital Frutigen",
     "id": "way/931725899"
   },

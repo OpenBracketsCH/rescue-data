@@ -25403,6 +25403,120 @@
 },
 {
   "type": "Feature",
+  "id": "way/1416120937",
+  "properties": {
+    "aeroway": "helipad",
+    "name": "Steinhausen",
+    "operator": "Polizei",
+    "id": "way/1416120937"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4737759,
+          47.1921898
+        ],
+        [
+          8.4738798,
+          47.1921541
+        ],
+        [
+          8.4739289,
+          47.1922247
+        ],
+        [
+          8.4738261,
+          47.1922588
+        ],
+        [
+          8.4737759,
+          47.1921898
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1416121944",
+  "properties": {
+    "aeroway": "helipad",
+    "layer": "1",
+    "lit": "yes",
+    "location": "roof",
+    "name": "Schindler Aufzüge Ebikon",
+    "operator": "Schindler Aufzüge Ebikon",
+    "id": "way/1416121944"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.3513065,
+          47.0898638
+        ],
+        [
+          8.351487,
+          47.0897351
+        ],
+        [
+          8.3516715,
+          47.0898574
+        ],
+        [
+          8.3514924,
+          47.0899873
+        ],
+        [
+          8.3513065,
+          47.0898638
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1416126054",
+  "properties": {
+    "aeroway": "helipad",
+    "name": "Le Mirador",
+    "operator": "Le Mirador Resort & Spa",
+    "id": "way/1416126054"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8287389,
+          46.4814253
+        ],
+        [
+          6.8287369,
+          46.4815101
+        ],
+        [
+          6.8286087,
+          46.4815093
+        ],
+        [
+          6.8286102,
+          46.4814242
+        ],
+        [
+          6.8287389,
+          46.4814253
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/822278390",
   "properties": {
     "aeroway": "helipad",
@@ -26188,6 +26302,57 @@
     "coordinates": [
       6.9136862,
       46.7075884
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13013823856",
+  "properties": {
+    "access": "private",
+    "aeroway": "helipad",
+    "name": "Verkehrsstützpukt Urdorf",
+    "operator": "Kantonspolizei Zürich",
+    "id": "node/13013823856"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4207548,
+      47.3729542
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13013875186",
+  "properties": {
+    "aeroway": "helipad",
+    "lit": "no",
+    "name": "Stans",
+    "operator": "Kantonspolizei Nidwalden",
+    "id": "node/13013875186"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3872603,
+      46.9656597
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13013876993",
+  "properties": {
+    "aeroway": "helipad",
+    "id": "node/13013876993"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8286736,
+      46.4814672
     ]
   }
 }

@@ -42074,6 +42074,7 @@
     "addr:street": "Dorfstrasse",
     "amenity": "school",
     "building": "yes",
+    "name": "Aula",
     "id": "way/156066474"
   },
   "geometry": {
@@ -78565,6 +78566,7 @@
   "id": "way/497128127",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-07-20",
     "contact:city": "Zürich",
     "contact:housenumber": "208",
     "contact:phone": "+41 44 413 15 89",
@@ -97708,6 +97710,7 @@
   "id": "way/1314322754",
   "properties": {
     "amenity": "school",
+    "name": "Schulhaus Dorf",
     "id": "way/1314322754"
   },
   "geometry": {

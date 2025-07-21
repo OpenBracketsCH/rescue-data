@@ -2666,8 +2666,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4870966,
-      47.0426368
+      8.4871149,
+      47.0426493
     ]
   }
 },
@@ -2954,6 +2954,7 @@
   "id": "node/6976938402",
   "properties": {
     "access": "yes",
+    "check_date": "2025-07-19",
     "defibrillator:location": "Dorfladen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -7222,8 +7223,9 @@
   "id": "node/7637818553",
   "properties": {
     "access": "yes",
+    "check_date": "2025-07-20",
     "defibrillator:location": "Bergbahnen Rigi Kulm",
-    "description": "Aussenfont Seite Dorfplatz",
+    "description": "Warteraum Seite Bergkapelle",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -49173,12 +49175,13 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Hauseingang Am Wasser 9",
-    "description": "Hinter Eingangstüre, unter der Brüche",
+    "description": "Hinter Eingangstüre, unter der Brücke\nneben Briefkästen im Inneen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "operator": "Hausverwaltung",
+    "opening_hours": "24/7",
+    "operator": "Hausverwaltung, Kraftwerk1",
     "id": "node/10589058605"
   },
   "geometry": {
@@ -74511,6 +74514,7 @@
   "id": "node/11904179329",
   "properties": {
     "access": "yes",
+    "check_date": "2025-07-20",
     "defibrillator:location": "RB und LS Station Kräbel",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -74523,8 +74527,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5303499,
-      47.0400277
+      8.5303097,
+      47.0400243
     ]
   }
 },

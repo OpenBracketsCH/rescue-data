@@ -3148,6 +3148,43 @@
 },
 {
   "type": "Feature",
+  "id": "way/1416120937",
+  "properties": {
+    "aeroway": "helipad",
+    "name": "Steinhausen",
+    "operator": "Polizei",
+    "id": "way/1416120937"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4737759,
+          47.1921898
+        ],
+        [
+          8.4738798,
+          47.1921541
+        ],
+        [
+          8.4739289,
+          47.1922247
+        ],
+        [
+          8.4738261,
+          47.1922588
+        ],
+        [
+          8.4737759,
+          47.1921898
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/11980672056",
   "properties": {
     "aeroway": "helipad",
@@ -3158,6 +3195,24 @@
     "coordinates": [
       8.38723,
       47.4111475
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13013823856",
+  "properties": {
+    "access": "private",
+    "aeroway": "helipad",
+    "name": "Verkehrsstützpukt Urdorf",
+    "operator": "Kantonspolizei Zürich",
+    "id": "node/13013823856"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4207548,
+      47.3729542
     ]
   }
 }

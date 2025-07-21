@@ -7849,6 +7849,7 @@
   "id": "node/6631567471",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-07-20",
     "name": "Hort Altweg",
     "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
     "id": "node/6631567471"
@@ -11450,6 +11451,7 @@
   "id": "node/9358553004",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-07-20",
     "contact:city": "Zürich",
     "contact:housenumber": "9",
     "contact:phone": "+41 44 413 75 19",
