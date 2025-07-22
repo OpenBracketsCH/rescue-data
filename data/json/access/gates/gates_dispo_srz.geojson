@@ -24185,6 +24185,21 @@
 },
 {
   "type": "Feature",
+  "id": "node/2099720501",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/2099720501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5112782,
+      47.0412507
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2100571111",
   "properties": {
     "barrier": "gate",
