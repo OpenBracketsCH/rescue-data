@@ -7200,26 +7200,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7637818610",
-  "properties": {
-    "access": "yes",
-    "description": "Aussenwand beim Eingang",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "name": "Dorfladen, Poststelle",
-    "opening_hours": "24/7",
-    "id": "node/7637818610"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4081535,
-      47.0658966
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7637818872",
   "properties": {
     "emergency": "defibrillator",
@@ -31161,7 +31141,7 @@
   "type": "Feature",
   "id": "node/9058114084",
   "properties": {
-    "access": "24/7",
+    "access": "yes",
     "defibrillator:location": "Haupteingang Schulhaus C",
     "description": "24h verfügbar",
     "emergency": "defibrillator",
@@ -83872,7 +83852,7 @@
   "type": "Feature",
   "id": "node/12430369903",
   "properties": {
-    "access": "24/7",
+    "access": "yes",
     "defibrillator:location": "Spritzenhaus Wappenswilerstrasse",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -83885,8 +83865,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8681949,
-      47.32433
+      8.8681931,
+      47.3243835
     ]
   }
 },
@@ -83894,7 +83874,7 @@
   "type": "Feature",
   "id": "node/12430377901",
   "properties": {
-    "access": "24/7",
+    "access": "yes",
     "defibrillator:location": "Pumpwerk Rüeggenthalstrasse 18",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -83907,8 +83887,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8689672,
-      47.3491088
+      8.8689446,
+      47.3491527
     ]
   }
 },
@@ -83916,7 +83896,7 @@
   "type": "Feature",
   "id": "node/12430395503",
   "properties": {
-    "access": "24/7",
+    "access": "yes",
     "defibrillator:location": "Reservoir Tödiweg 5",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -84007,7 +83987,7 @@
   "type": "Feature",
   "id": "node/12430894401",
   "properties": {
-    "access": "24/7",
+    "access": "yes",
     "defibrillator:location": "Schürlistrasse 3",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -92537,6 +92517,29 @@
     "coordinates": [
       8.4085321,
       47.0656458
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13019017104",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Primarschulhaus Marthalen",
+    "description": "Pausenplatz",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde",
+    "id": "node/13019017104"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6498465,
+      47.6279586
     ]
   }
 }
