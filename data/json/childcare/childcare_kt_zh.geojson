@@ -5080,6 +5080,7 @@
   "id": "node/299616478",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-07-24",
     "contact:city": "Zürich",
     "contact:housenumber": "29",
     "contact:phone": "+41 44 413 76 25",

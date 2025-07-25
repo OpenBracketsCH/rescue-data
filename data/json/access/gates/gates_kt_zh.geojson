@@ -41575,6 +41575,24 @@
 },
 {
   "type": "Feature",
+  "id": "node/5200586893",
+  "properties": {
+    "barrier": "gate",
+    "foot": "yes",
+    "locked": "no",
+    "vehicle": "no",
+    "id": "node/5200586893"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5253876,
+      47.4065651
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/5202191111",
   "properties": {
     "barrier": "gate",
@@ -89748,6 +89766,95 @@
     "coordinates": [
       8.4229186,
       47.3604244
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13021745565",
+  "properties": {
+    "barrier": "gate",
+    "bicycle": "no",
+    "foot": "yes",
+    "locked": "no",
+    "vehicle": "no",
+    "id": "node/13021745565"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5276364,
+      47.4056171
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13021745575",
+  "properties": {
+    "barrier": "gate",
+    "foot": "yes",
+    "locked": "no",
+    "id": "node/13021745575"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5274524,
+      47.4058724
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13021745578",
+  "properties": {
+    "barrier": "gate",
+    "foot": "yes",
+    "locked": "no",
+    "id": "node/13021745578"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5268634,
+      47.4065444
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13021745580",
+  "properties": {
+    "barrier": "gate",
+    "foot": "yes",
+    "locked": "no",
+    "vehicle": "permit",
+    "id": "node/13021745580"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.526855,
+      47.4066152
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13021745581",
+  "properties": {
+    "barrier": "gate",
+    "foot": "yes",
+    "locked": "no",
+    "vehicle": "yes",
+    "id": "node/13021745581"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5282252,
+      47.405084
     ]
   }
 }
