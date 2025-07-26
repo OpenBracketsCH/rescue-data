@@ -14951,6 +14951,7 @@
   "id": "node/8574099763",
   "properties": {
     "defibrillator:location": "Gemeindesaal, Treppenhaus EG",
+    "description": "DERZEIT DEFEKT!",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -28821,8 +28822,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 08:00-18:00",
-    "operator": "Kath. Kirchgemeinde Uster/Pfarrei Greifensee, Kontaktperson: Monika Streuli (Hauswartin)",
+    "opening_hours": "Mo-Sa 08:00-18:00, So 08:00-17:00",
+    "operator": "Kath. Kirchgemeinde Uster/Pfarrei Greifensee, Kontaktperson: Antonella Morgante (Hauswartin)",
     "phone": "+41 75 422 94 33",
     "id": "node/9807826842"
   },
@@ -72012,6 +72013,59 @@
     "coordinates": [
       8.6498465,
       47.6279586
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13022529811",
+  "properties": {
+    "access": "unknown",
+    "addr:city": "Zürich",
+    "addr:housenumber": "22",
+    "addr:postcode": "8038",
+    "addr:street": "Kalchbühlstrasse",
+    "defibrillator:location": "Eingang links bei Reception",
+    "description": "Koffer Orange",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "name": "Hilti Schweiz",
+    "opening_hours": "MO-FR 08.00-12.00 13.00-17.00",
+    "operator": "Lifetec AG",
+    "phone": "+41800122144",
+    "ref": "1586LTM",
+    "id": "node/13022529811"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5312729,
+      47.3403913
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13023028499",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Föhrlibuckstrasse 10 beim Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Stadt Wallisellen, Föhrlibuckstrasse",
+    "phone": "+41 44 830 22 79",
+    "id": "node/13023028499"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6025214,
+      47.4089647
     ]
   }
 }

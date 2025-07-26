@@ -36715,6 +36715,7 @@
   "id": "node/6628492594",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-07-25",
     "contact:city": "Zürich",
     "contact:housenumber": "104",
     "contact:phone": "+41 44 271 71 15",

@@ -30269,8 +30269,16 @@
           46.8613747
         ],
         [
-          9.5414087,
-          46.8609705
+          9.5415021,
+          46.8611676
+        ],
+        [
+          9.5414683,
+          46.86103
+        ],
+        [
+          9.5414302,
+          46.8609679
         ],
         [
           9.5413366,
@@ -57900,30 +57908,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/12687074100",
-  "properties": {
-    "addr:city": "Wil",
-    "addr:housenumber": "1",
-    "addr:postcode": "9500",
-    "addr:street": "Obere Bahnhofstrasse",
-    "healthcare": "clinic",
-    "healthcare:speciality": "radiology",
-    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
-    "operator": "Rodiag",
-    "phone": "+41 58 401 16 40",
-    "website": "https://rodiag.ch/",
-    "id": "node/12687074100"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      9.0000385,
-      47.4614777
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/12687105754",
   "properties": {
     "addr:city": "St. Gallen",
@@ -58332,6 +58316,30 @@
     "coordinates": [
       6.5820745,
       46.5368906
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13022349831",
+  "properties": {
+    "addr:city": "Wil",
+    "addr:housenumber": "1",
+    "addr:postcode": "9500",
+    "addr:street": "Obere Bahnhofstrasse",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "operator": "Rodiag",
+    "phone": "+41 58 401 16 40",
+    "website": "https://rodiag.ch/",
+    "id": "node/13022349831"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0422634,
+      47.4625519
     ]
   }
 }
