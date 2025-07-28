@@ -4881,6 +4881,7 @@
   "properties": {
     "amenity": "hospital",
     "check_date": "2025-01-25",
+    "emergency": "yes",
     "healthcare": "clinic",
     "name": "Universitäre Psychiatrische Kliniken Basel",
     "operator": "Universitäre Psychiatrische Kliniken (UPK) Basel",
@@ -4956,6 +4957,10 @@
         [
           7.5618173,
           47.5713264
+        ],
+        [
+          7.5636499,
+          47.5700461
         ],
         [
           7.5648698,

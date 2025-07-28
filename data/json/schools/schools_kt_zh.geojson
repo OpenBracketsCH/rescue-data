@@ -92492,8 +92492,8 @@
     "amenity": "school",
     "name": "Berufsfachschule Winterthur Campus Tösstalstrasse",
     "operator": "Kanton Zürich",
-    "operator:type": "public",
-    "website": "https://bfs-winterthur.ch/",
+    "operator:type": "government",
+    "website": "https://bfs.zh.ch/",
     "id": "way/1056880674"
   },
   "geometry": {
@@ -103934,6 +103934,29 @@
     "coordinates": [
       8.7417707,
       47.4898038
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13030440188",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "7",
+    "addr:postcode": "8400",
+    "addr:street": "Zürcherstrasse",
+    "amenity": "school",
+    "name": "BFS Schulhaus Pionierpark",
+    "operator": "Kanton Zürich",
+    "operator:type": "government",
+    "website": "https://bfs.zh.ch/standorte/pionierpark/",
+    "id": "node/13030440188"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7203863,
+      47.4982542
     ]
   }
 }
