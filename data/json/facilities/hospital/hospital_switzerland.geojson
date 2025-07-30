@@ -49007,7 +49007,11 @@
   "properties": {
     "amenity": "clinic",
     "building": "yes",
+    "check_date": "2025-07-29",
+    "fixme": "check duplicate",
     "healthcare": "clinic",
+    "name": "Centromedico",
+    "website": "https://centromedico.ch",
     "id": "way/1234440958"
   },
   "geometry": {

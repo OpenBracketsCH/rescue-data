@@ -12580,7 +12580,10 @@
   "type": "Feature",
   "id": "node/9549411394",
   "properties": {
+    "addr:housenumber": "30",
+    "addr:street": "Ottikerstrasse",
     "amenity": "childcare",
+    "check_date": "2025-07-29",
     "contact:city": "Zürich",
     "contact:housenumber": "30",
     "contact:phone": "+41 44 251 55 35",

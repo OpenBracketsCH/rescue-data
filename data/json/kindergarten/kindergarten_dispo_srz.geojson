@@ -25571,8 +25571,8 @@
           47.5100819
         ],
         [
-          8.6933652,
-          47.5102075
+          8.6934091,
+          47.510232
         ],
         [
           8.6932491,
@@ -42164,6 +42164,7 @@
   "id": "node/6628788316",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-07-29",
     "contact:city": "Zürich",
     "contact:housenumber": "51",
     "contact:phone": "+41 44 413 74 68",
@@ -42171,6 +42172,7 @@
     "contact:street": "Stapferstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/scherr/ueberuns/standorte/kindergaerten.html",
     "name": "Kindergarten Scherr 1",
+    "wheelchair": "no",
     "id": "node/6628788316"
   },
   "geometry": {

@@ -50305,6 +50305,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/5443017350",
+  "properties": {
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "node/5443017350"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4772224,
+      47.3983269
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/5473336493",
   "properties": {
     "access": "private",
@@ -104100,6 +104116,40 @@
     "coordinates": [
       8.5243199,
       47.3692097
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13035170886",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "description": "Hole like opening in fence in 1m height",
+    "foot": "yes",
+    "id": "node/13035170886"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.635949,
+      47.01603
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13035736372",
+  "properties": {
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "node/13035736372"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4770104,
+      47.3990991
     ]
   }
 }

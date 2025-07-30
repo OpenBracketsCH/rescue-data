@@ -102573,7 +102573,10 @@
   "type": "Feature",
   "id": "node/9726635896",
   "properties": {
+    "addr:housenumber": "36",
+    "addr:street": "Ottikerstrasse",
     "amenity": "school",
+    "check_date": "2025-07-29",
     "contact:city": "Zürich",
     "contact:email": "schulleitung@sekundarschuleamrigiplatz.com",
     "contact:housenumber": "36",
