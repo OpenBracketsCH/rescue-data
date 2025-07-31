@@ -12615,9 +12615,34 @@
 },
 {
   "type": "Feature",
+  "id": "node/747550565",
+  "properties": {
+    "barrier": "gate",
+    "bicycle": "yes",
+    "dog": "no",
+    "foot": "yes",
+    "locked": "no",
+    "motor_vehicle": "no",
+    "id": "node/747550565"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.523874,
+      47.3520905
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/747550602",
   "properties": {
     "barrier": "gate",
+    "bicycle": "yes",
+    "dog": "no",
+    "foot": "yes",
+    "locked": "no",
+    "motor_vehicle": "no",
     "id": "node/747550602"
   },
   "geometry": {
