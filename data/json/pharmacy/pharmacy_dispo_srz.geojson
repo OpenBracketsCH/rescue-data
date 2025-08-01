@@ -7030,8 +7030,10 @@
     "healthcare": "pharmacy",
     "level": "0",
     "name": "Pill Apotheke am Bahnhof",
+    "opening_hours": "Mo-Fr 08:00-13:00,14:00-18:30; Sa 08:00-12:30",
     "operator": "Pill Group",
     "website": "https://www.pill.ch/standorte/pill-apotheke-am-bahnhof.html",
+    "wheelchair": "yes",
     "id": "node/6982309383"
   },
   "geometry": {
