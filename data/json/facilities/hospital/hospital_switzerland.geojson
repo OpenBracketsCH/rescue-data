@@ -48225,6 +48225,7 @@
     "addr:postcode": "1530",
     "addr:street": "Avenue de la Colline",
     "amenity": "hospital",
+    "check_date": "2025-08-02",
     "emergency": "yes",
     "fax": "+41 26 662 85 21",
     "healthcare": "hospital",
