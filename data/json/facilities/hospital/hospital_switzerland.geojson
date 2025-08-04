@@ -52322,8 +52322,6 @@
   "type": "Feature",
   "id": "node/4401061790",
   "properties": {
-    "addr:postcode": "6900",
-    "addr:street": "Via Marco da Carona",
     "amenity": "clinic",
     "check_date": "2024-07-15",
     "name": "Casa Serena",

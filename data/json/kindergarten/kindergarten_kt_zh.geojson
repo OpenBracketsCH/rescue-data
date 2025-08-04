@@ -7212,6 +7212,7 @@
     "phone": "+41 44 413 74 34",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
     "website": "https://www.stadt-zuerich.ch/schulen/de/letten/freizeitangebot.html",
+    "wheelchair": "no",
     "id": "way/90844715"
   },
   "geometry": {
@@ -28090,6 +28091,7 @@
   "id": "way/1020003200",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-08-04",
     "contact:city": "Zürich",
     "contact:housenumber": "102",
     "contact:phone": "+41 44 413 75 89",
