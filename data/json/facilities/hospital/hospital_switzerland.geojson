@@ -12227,6 +12227,8 @@
   "properties": {
     "amenity": "hospital",
     "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "paediatrics;emergency;community;surgery;internal",
     "name": "Spital Davos",
     "wheelchair": "yes",
     "wikidata": "Q2311207",
@@ -17739,8 +17741,13 @@
   "properties": {
     "amenity": "clinic",
     "building": "hospital",
+    "contact:facebook": "https://www.facebook.com/cliniquedevalere/",
+    "contact:linkedin": "https://www.linkedin.com/company/clinique-de-val%C3%A8re/",
+    "email": "info@cliniquevalere.ch",
     "healthcare": "clinic",
     "name": "Clinique de Valère",
+    "opening_hours:visitors": "Mo-Su 14:00-18:30",
+    "phone": "+41 27 327 10 10",
     "website": "https://www.cliniquevalere.ch/",
     "id": "way/224262469"
   },
@@ -24708,14 +24715,15 @@
     "addr:postcode": "6005",
     "addr:street": "Robert-Zünd-Strasse",
     "amenity": "clinic",
-    "check_date": "2024-01-26",
+    "check_date": "2025-08-05",
+    "check_date:opening_hours": "2025-08-05",
     "emergency": "yes",
     "healthcare": "clinic",
     "healthcare:speciality": "general",
     "indoor": "yes",
     "level": "-1",
     "name": "Permanence Medical Center Luzern",
-    "opening_hours": "Mo-Fr 07:00-23:00",
+    "opening_hours": "Mo-Su 07:00-22:00",
     "operator": "Permanence",
     "operator:type": "business",
     "phone": "+41 41 211 14 44",
@@ -58348,6 +58356,30 @@
     "coordinates": [
       9.0422634,
       47.4625519
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13047715138",
+  "properties": {
+    "addr:city": "Davos",
+    "addr:housenumber": "4",
+    "addr:postcode": "7270",
+    "addr:street": "Promenade",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general",
+    "name": "Praxiszentrum Davos",
+    "operator": "Spital Davos AG",
+    "website": "https://www.praxiszentrumdavos.ch/de",
+    "id": "node/13047715138"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8142594,
+      46.7877385
     ]
   }
 }
