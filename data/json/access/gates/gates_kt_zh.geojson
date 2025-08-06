@@ -68421,6 +68421,7 @@
   "properties": {
     "barrier": "gate",
     "material": "metal",
+    "maxwidth:physical": "1.2",
     "wheelchair": "yes",
     "id": "node/10029206753"
   },

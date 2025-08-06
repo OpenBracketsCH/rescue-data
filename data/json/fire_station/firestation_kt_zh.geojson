@@ -2016,6 +2016,7 @@
     "addr:street": "Zürcherstrasse",
     "amenity": "fire_station",
     "building": "yes",
+    "check_date": "2025-08-05",
     "name": "Feuerwehr Engstringen",
     "operator": "Gemeinden Ober- & Unterengstringen",
     "website": "https://www.feuerwehr-engstringen.ch/",

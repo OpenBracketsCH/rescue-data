@@ -13538,14 +13538,15 @@
   "type": "Feature",
   "id": "node/847852168",
   "properties": {
+    "access": "private",
     "barrier": "lift_gate",
     "id": "node/847852168"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7603348,
-      47.1422696
+      8.7603326,
+      47.1421936
     ]
   }
 },
@@ -79536,6 +79537,7 @@
   "properties": {
     "barrier": "gate",
     "material": "metal",
+    "maxwidth:physical": "1.2",
     "wheelchair": "yes",
     "id": "node/10029206753"
   },
