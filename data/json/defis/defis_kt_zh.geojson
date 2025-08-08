@@ -2082,7 +2082,6 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "24/7",
     "id": "node/7561453184"
   },
   "geometry": {
@@ -6528,27 +6527,6 @@
     "coordinates": [
       8.467226,
       47.3147486
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8062414469",
-  "properties": {
-    "access": "permissive",
-    "defibrillator:location": "Komplizierte Zugänglichkeit. In Küche des Betreibungsamts, Zugang nur in Absprache und begleitet möglich.",
-    "description": "Zugänglich während Öffnungszeiten des Betreibungsamtes.",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "opening_hours": "Mo-Th 08:00-11:30,14:00-16:30; Fr 07:00-13:00",
-    "phone": "+41 44 701 95 45",
-    "id": "node/8062414469"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4664764,
-      47.3150834
     ]
   }
 },
@@ -29602,26 +29580,6 @@
     "coordinates": [
       8.529009,
       47.2926639
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9895343817",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Waschhaus Wilen",
-    "description": "Öffentlich zugänglich",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "id": "node/9895343817"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.795734,
-      47.6024577
     ]
   }
 },
@@ -72231,6 +72189,50 @@
     "coordinates": [
       8.8204068,
       47.2754803
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13056063601",
+  "properties": {
+    "defibrillator:location": "Püntstrasse 75",
+    "description": "Usually 24/7",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Private",
+    "phone": "+41787673143",
+    "id": "node/13056063601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6860715,
+      47.4066868
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13056078900",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Komplizierte Zugänglichkeit. In Küche des Betreibungsamts, Zugang nur in Absprache und begleitet möglich.",
+    "description": "Zugänglich während Öffnungszeiten des Betreibungsamtes.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "opening_hours": "Mo-Th 08:00-11:30,14:00-16:30; Fr 07:00-13:00",
+    "phone": "+41 44 701 95 45",
+    "id": "node/13056078900"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4680878,
+      47.3228911
     ]
   }
 }

@@ -54520,8 +54520,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      7.242023,
-      47.1333674
+      7.2420646,
+      47.1333349
     ]
   }
 },
@@ -58380,6 +58380,24 @@
     "coordinates": [
       9.8142594,
       46.7877385
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13055805825",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "midwife",
+    "name": "Hebamme | Simone von Arb",
+    "name:de": "Hebamme",
+    "id": "node/13055805825"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9506589,
+      47.2912965
     ]
   }
 }

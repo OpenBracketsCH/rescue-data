@@ -17768,6 +17768,7 @@
     "addr:postcode": "8049",
     "addr:street": "Riedhofweg",
     "amenity": "social_facility",
+    "check_date": "2025-08-07",
     "name": "Alterswohnheim Riedhof",
     "operator": "Verein Riedhof",
     "social_facility": "group_home",
@@ -24417,6 +24418,96 @@
 },
 {
   "type": "Feature",
+  "id": "way/1420879242",
+  "properties": {
+    "addr:city": "Egg (ZH)",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8132",
+    "addr:street": "Mönchaltorferstrasse",
+    "amenity": "social_facility",
+    "name": "Rosenau",
+    "operator": "Rosenau AG",
+    "phone": "+41 44 984 05 50",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "website": "https://www.rosenau-egg.ch/",
+    "id": "way/1420879242"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6908168,
+          47.3028452
+        ],
+        [
+          8.6908732,
+          47.3028433
+        ],
+        [
+          8.6909325,
+          47.3028567
+        ],
+        [
+          8.6918498,
+          47.3033017
+        ],
+        [
+          8.6913657,
+          47.3037218
+        ],
+        [
+          8.6910073,
+          47.303561
+        ],
+        [
+          8.69067,
+          47.3038634
+        ],
+        [
+          8.6901564,
+          47.3036136
+        ],
+        [
+          8.6901197,
+          47.3035926
+        ],
+        [
+          8.69009,
+          47.3035658
+        ],
+        [
+          8.6900773,
+          47.3035371
+        ],
+        [
+          8.690083,
+          47.3035036
+        ],
+        [
+          8.6901042,
+          47.303471
+        ],
+        [
+          8.6907025,
+          47.3029112
+        ],
+        [
+          8.6907575,
+          47.3028634
+        ],
+        [
+          8.6908168,
+          47.3028452
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/845207315",
   "properties": {
     "addr:city": "Zürich",
@@ -25213,31 +25304,6 @@
     "coordinates": [
       8.8501398,
       47.2622812
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6532299103",
-  "properties": {
-    "addr:city": "Egg (ZH)",
-    "addr:housenumber": "1",
-    "addr:postcode": "8132",
-    "addr:street": "Mönchaltorferstrasse",
-    "amenity": "social_facility",
-    "name": "Rosenau",
-    "operator": "Rosenau AG",
-    "phone": "+41 44 984 05 50",
-    "social_facility": "group_home",
-    "social_facility:for": "mental_health",
-    "website": "https://www.rosenau-egg.ch/",
-    "id": "node/6532299103"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6909008,
-      47.3033368
     ]
   }
 },

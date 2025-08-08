@@ -2240,6 +2240,7 @@
     "addr:street": "Zürcherstrasse",
     "alt_name": "Kapo",
     "amenity": "police",
+    "check_date": "2025-08-05",
     "name": "Polizeiposten Unterengstringen",
     "opening_hours": "Mo-Fr 08:00 - 12:00, 13:00 - 17:00",
     "operator": "Kantonspolizei Zürich",

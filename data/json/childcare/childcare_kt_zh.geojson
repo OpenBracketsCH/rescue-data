@@ -5955,6 +5955,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/3883304860",
+  "properties": {
+    "amenity": "childcare",
+    "name": "globegarden childcare",
+    "id": "node/3883304860"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4481718,
+      47.4136737
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3970363222",
   "properties": {
     "addr:city": "Uster",

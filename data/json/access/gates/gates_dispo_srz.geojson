@@ -40319,6 +40319,7 @@
     "foot": "yes",
     "horse": "no",
     "locked": "no",
+    "maxwidth:physical": "1",
     "motor_vehicle": "no",
     "id": "node/3744437460"
   },
