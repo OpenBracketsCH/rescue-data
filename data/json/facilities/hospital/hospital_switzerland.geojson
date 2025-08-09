@@ -58400,6 +58400,29 @@
       47.2912965
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13058099467",
+  "properties": {
+    "addr:city": "Meyrin",
+    "addr:housenumber": "21b",
+    "addr:postcode": "1217",
+    "addr:street": "Rue des Lattes",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "level": "0",
+    "name": "Office médico-pédagogique OMP",
+    "operator": "État de Genèce",
+    "id": "node/13058099467"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0809295,
+      46.2379274
+    ]
+  }
 }
 ]
 }
