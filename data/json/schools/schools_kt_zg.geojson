@@ -3516,44 +3516,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/144073672",
-  "properties": {
-    "amenity": "school",
-    "building": "yes",
-    "check_date": "2024-04-23",
-    "name": "Schule Holzhäusern",
-    "id": "way/144073672"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4405649,
-          47.1529696
-        ],
-        [
-          8.4405616,
-          47.1528461
-        ],
-        [
-          8.4408214,
-          47.1528429
-        ],
-        [
-          8.4408248,
-          47.1529664
-        ],
-        [
-          8.4405649,
-          47.1529696
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/151825845",
   "properties": {
     "amenity": "school",

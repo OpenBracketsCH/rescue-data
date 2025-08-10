@@ -16800,6 +16800,7 @@
     "building": "hospital",
     "building:levels": "9",
     "capacity": "104",
+    "check_date": "2025-08-09",
     "name": "Gesundheitszentrum für das Alter Bombach",
     "old_name": "Krankenheim Bombach",
     "operator": "Stadt Zürich, GUD",

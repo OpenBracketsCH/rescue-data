@@ -41178,6 +41178,10 @@
           46.9890857
         ],
         [
+          9.6365772,
+          46.989057
+        ],
+        [
           9.6366996,
           46.9889814
         ],
@@ -58390,7 +58394,8 @@
     "amenity": "clinic",
     "healthcare": "midwife",
     "name": "Hebamme | Simone von Arb",
-    "name:de": "Hebamme",
+    "name:de": "Hebamme | Simone von Arb",
+    "website": "https://www.simonevonarb.ch",
     "id": "node/13055805825"
   },
   "geometry": {

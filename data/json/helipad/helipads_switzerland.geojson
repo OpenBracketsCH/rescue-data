@@ -25669,6 +25669,43 @@
 },
 {
   "type": "Feature",
+  "id": "way/1421194128",
+  "properties": {
+    "aeroway": "helipad",
+    "name": "Bundesbasis Helipad",
+    "operator": "Bund",
+    "id": "way/1421194128"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.5034951,
+          46.9104326
+        ],
+        [
+          7.5035884,
+          46.910358
+        ],
+        [
+          7.5036965,
+          46.910421
+        ],
+        [
+          7.5036033,
+          46.9104953
+        ],
+        [
+          7.5034951,
+          46.9104326
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/822278390",
   "properties": {
     "aeroway": "helipad",
