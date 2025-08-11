@@ -8434,9 +8434,16 @@
   "type": "Feature",
   "id": "node/6840489980",
   "properties": {
+    "addr:housenumber": "163",
+    "addr:street": "Ludretikonerstrasse",
     "amenity": "childcare",
-    "check_date": "2025-06-19",
+    "check_date": "2025-08-10",
+    "email": "froschkoeniggmbh@gmail.com",
     "name": "Froschkönig",
+    "opening_hours": "Mo-Fr 07:30-18:30",
+    "operator:type": "private",
+    "phone": "+41 76 393 81 56",
+    "website": "https://froschkoeniggmbh.ch",
     "id": "node/6840489980"
   },
   "geometry": {
