@@ -5289,11 +5289,12 @@
   "type": "Feature",
   "id": "node/7568739434",
   "properties": {
-    "access": "yes",
-    "defibrillator:location": "Bahnhof neben Gleis 3 Lift",
-    "description": "EG, Ausgang Richtung Metalli beim Lift zum Gleis 3",
+    "access": "no",
+    "defibrillator:location": "*Aktuell nicht verfügbar!*\n\nBahnhof neben Gleis 3 Lift",
+    "description": "*Aktuell nicht verfügbar!*\n\nEG, Ausgang Richtung Metalli beim Lift zum Gleis 3",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "wheelchair": "limited",
     "id": "node/7568739434"
@@ -39018,8 +39019,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4027144,
-      47.4076895
+      8.4027303,
+      47.4077348
     ]
   }
 },
@@ -92797,7 +92798,7 @@
   "id": "node/13056078900",
   "properties": {
     "access": "permissive",
-    "defibrillator:location": "Komplizierte Zugänglichkeit. In Küche des Betreibungsamts, Zugang nur in Absprache und begleitet möglich.",
+    "defibrillator:location": "Komplizierte Zugänglichkeit. Im Gemeindeammann- und Betreibungsamt. Zugang nur in Absprache und begleitet möglich.",
     "description": "Zugänglich während Öffnungszeiten des Betreibungsamtes.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -92808,8 +92809,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4680878,
-      47.3228911
+      8.4681762,
+      47.3229111
     ]
   }
 },
@@ -92835,6 +92836,54 @@
     "coordinates": [
       8.4380686,
       47.2757606
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13063250701",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "BBZ Schulhaus Charlotte",
+    "description": "Nach der Haupteingangstür links von aussen kommend",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:00-17:30",
+    "operator": "BBZ Schaffhausen",
+    "id": "node/13063250701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6213121,
+      47.6901622
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13063825001",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Zahnarztpraxis",
+    "description": "während der Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr  7:30 - 17:00",
+    "operator": "Zahnarztpraxis",
+    "phone": "+41 44 936 13 14",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/13063825001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7574714,
+      47.3073174
     ]
   }
 }

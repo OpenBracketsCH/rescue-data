@@ -53897,10 +53897,6 @@
   "type": "Feature",
   "id": "node/7316260930",
   "properties": {
-    "addr:city": "Pregassona",
-    "addr:housenumber": "34b",
-    "addr:postcode": "6963",
-    "addr:street": "Via Ceresio",
     "amenity": "clinic",
     "healthcare": "clinic",
     "healthcare:speciality": "psychiatry",

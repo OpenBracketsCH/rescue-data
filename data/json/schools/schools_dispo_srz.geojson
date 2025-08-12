@@ -126136,6 +126136,94 @@
 },
 {
   "type": "Feature",
+  "id": "way/1421557866",
+  "properties": {
+    "addr:city": "Opfikon",
+    "addr:housenumber": "17",
+    "addr:postcode": "8152",
+    "addr:street": "Glatthofstrasse",
+    "amenity": "school",
+    "grades": "0-6",
+    "name": "Schulanlage Bubenholz",
+    "operator": "Schule Opfikon",
+    "operator:type": "public",
+    "website": "https://www.schule-opfikon.ch/bubenholz/unser-schule/aktuelles/p-565/",
+    "id": "way/1421557866"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5702313,
+          47.4346946
+        ],
+        [
+          8.5707972,
+          47.4346287
+        ],
+        [
+          8.5711895,
+          47.434583
+        ],
+        [
+          8.5712246,
+          47.4345789
+        ],
+        [
+          8.5712243,
+          47.4346013
+        ],
+        [
+          8.571281,
+          47.4345983
+        ],
+        [
+          8.5711491,
+          47.4352682
+        ],
+        [
+          8.5712724,
+          47.4352687
+        ],
+        [
+          8.5711447,
+          47.4357513
+        ],
+        [
+          8.5705372,
+          47.4356743
+        ],
+        [
+          8.5706554,
+          47.4352834
+        ],
+        [
+          8.5703333,
+          47.4352523
+        ],
+        [
+          8.5703664,
+          47.4350425
+        ],
+        [
+          8.5702534,
+          47.4350322
+        ],
+        [
+          8.5702768,
+          47.4348681
+        ],
+        [
+          8.5702313,
+          47.4346946
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/256335788",
   "properties": {
     "amenity": "school",

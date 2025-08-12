@@ -24509,6 +24509,68 @@
 },
 {
   "type": "Feature",
+  "id": "way/1421537240",
+  "properties": {
+    "amenity": "social_facility",
+    "contact:city": "Adliswil",
+    "contact:email": "info@saba-adliswil.ch",
+    "contact:housenumber": "6",
+    "contact:phone": "+41 44 709 01 19",
+    "contact:postcode": "8134",
+    "contact:street": "Badstrasse",
+    "contact:website": "https://www.saba-adliswil.ch/wohnen-am-bad/",
+    "name": "Siedlung Wohnen am Bad",
+    "operator": "Stiftung für Altersbauten in Adliswil",
+    "short_name": "SABA",
+    "social_facility": "nursing_home",
+    "id": "way/1421537240"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5324622,
+          47.3117225
+        ],
+        [
+          8.5329406,
+          47.3120574
+        ],
+        [
+          8.5330215,
+          47.3124555
+        ],
+        [
+          8.5323285,
+          47.3126032
+        ],
+        [
+          8.532217,
+          47.312454
+        ],
+        [
+          8.5320713,
+          47.3123997
+        ],
+        [
+          8.5320582,
+          47.3122868
+        ],
+        [
+          8.5321237,
+          47.3122057
+        ],
+        [
+          8.5324622,
+          47.3117225
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/845207315",
   "properties": {
     "addr:city": "Zürich",
@@ -25679,6 +25741,7 @@
     "addr:postcode": "8103",
     "addr:street": "Sonnenberg",
     "amenity": "social_facility",
+    "check_date": "2025-08-11",
     "email": "kontakt@villaamberg.ch",
     "name": "Villa Sonnenberg",
     "operator": "Villa Sparrenberg AG",

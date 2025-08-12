@@ -165,11 +165,6 @@
   "type": "Feature",
   "id": "node/9435655841",
   "properties": {
-    "addr:city": "Stein am Rhein",
-    "addr:country": "CH",
-    "addr:housenumber": "2",
-    "addr:postcode": "8260",
-    "addr:street": "Bahnhofstrasse",
     "description": "Bahnhofstrasse/Zivilschutzanlage Trötteli",
     "emergency": "disaster_help_point",
     "name": "Notfalltreffpunkt Kanton Schaffhausen",

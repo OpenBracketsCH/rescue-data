@@ -3,6 +3,49 @@
 "features": [
 {
   "type": "Feature",
+  "id": "way/41975450",
+  "properties": {
+    "addr:city": "Hünenberg",
+    "addr:housenumber": "1",
+    "addr:postcode": "6331",
+    "addr:street": "Rothusstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Asylunterkunft Bösch",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
+    "id": "way/41975450"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4411912,
+          47.1611009
+        ],
+        [
+          8.4410755,
+          47.1608414
+        ],
+        [
+          8.4411708,
+          47.1608217
+        ],
+        [
+          8.4412864,
+          47.1610813
+        ],
+        [
+          8.4411912,
+          47.1611009
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/54679350",
   "properties": {
     "addr:city": "Baar",
