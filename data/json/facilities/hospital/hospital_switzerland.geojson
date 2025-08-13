@@ -58424,6 +58424,29 @@
       46.2379274
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13064832501",
+  "properties": {
+    "addr:housenumber": "2",
+    "addr:postcode": "1003",
+    "addr:street": "Chemin de Mornex",
+    "amenity": "clinic",
+    "email": "cip-lausanne@groupe3r.ch",
+    "name": "Centre d'imagerie du petit-chêne (CIP)",
+    "opening_hours": "Mo-Fr 07:45-12:00, 12:30-17:00",
+    "phone": "+41 21 310 40 30",
+    "website": "https://www.groupe3r.ch/fr/nos-centres/vaud/centre-d-imagerie-du-petit-chene-692/",
+    "id": "node/13064832501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6296167,
+      46.5183392
+    ]
+  }
 }
 ]
 }

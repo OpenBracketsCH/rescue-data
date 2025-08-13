@@ -13452,6 +13452,7 @@
     "addr:postcode": "8152",
     "addr:street": "Oberhauserstrasse",
     "amenity": "childcare",
+    "check_date": "2025-08-12",
     "name": "Kinderkrippe Purzelhuus",
     "website": "https://www.purzel.ch/",
     "id": "node/10614597934"

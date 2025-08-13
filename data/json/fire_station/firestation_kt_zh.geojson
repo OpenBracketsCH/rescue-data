@@ -2996,6 +2996,7 @@
     "addr:street": "Oberhauserstrasse",
     "amenity": "fire_station",
     "building": "yes",
+    "check_date": "2025-08-12",
     "name": "Feuerwehr Opfikon",
     "operator": "Stadt Opfikon",
     "roof:shape": "flat",

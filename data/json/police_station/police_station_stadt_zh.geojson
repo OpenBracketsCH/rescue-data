@@ -500,27 +500,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4052928273",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "61",
-    "addr:postcode": "8005",
-    "addr:street": "Förrlibuckstrasse",
-    "amenity": "police",
-    "name": "Taxibüro / ARV Kontrolle",
-    "operator": "Stadtpolizei Zürich",
-    "id": "node/4052928273"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5143753,
-      47.39135
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4424600907",
   "properties": {
     "addr:city": "Zürich",
@@ -597,6 +576,27 @@
     "coordinates": [
       8.5465272,
       47.4073891
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13065053633",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "1",
+    "addr:postcode": "8001",
+    "addr:street": "Bahnhofbrücke",
+    "amenity": "police",
+    "name": "Taxibüro / ARV Kontrolle",
+    "operator": "Stadtpolizei Zürich",
+    "id": "node/13065053633"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5422205,
+      47.3762785
     ]
   }
 }

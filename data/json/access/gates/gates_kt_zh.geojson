@@ -53039,36 +53039,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7101276393",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/7101276393"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4642955,
-      47.4193926
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7101276397",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/7101276397"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4636869,
-      47.4193045
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7101752121",
   "properties": {
     "barrier": "gate",
@@ -73194,7 +73164,14 @@
   "type": "Feature",
   "id": "node/10795018954",
   "properties": {
+    "access": "private",
     "barrier": "gate",
+    "bicycle": "private",
+    "foot": "private",
+    "horse": "private",
+    "locked": "yes",
+    "material": "steel",
+    "motor_vehicle": "private",
     "vehicle": "private",
     "id": "node/10795018954"
   },
@@ -89944,6 +89921,44 @@
     "coordinates": [
       8.4823164,
       47.4238081
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13064817552",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "bicycle": "private",
+    "foot": "private",
+    "horse": "private",
+    "locked": "no",
+    "material": "metal",
+    "motor_vehicle": "private",
+    "id": "node/13064817552"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4523312,
+      47.4168368
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13065769773",
+  "properties": {
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "node/13065769773"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4872356,
+      47.4242273
     ]
   }
 }
