@@ -10450,21 +10450,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/783713582",
-  "properties": {
-    "barrier": "lift_gate",
-    "id": "node/783713582"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6927474,
-      47.5015591
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/797595830",
   "properties": {
     "barrier": "gate",

@@ -65931,7 +65931,7 @@
   "id": "way/219718126",
   "properties": {
     "amenity": "school",
-    "building": "yes",
+    "building": "school",
     "roof:colour": "silver",
     "roof:material": "metal",
     "roof:orientation": "along",

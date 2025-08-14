@@ -242,6 +242,22 @@
       47.0563067
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13068418401",
+  "properties": {
+    "amenity": "childcare",
+    "name": "ABC Learning Tree",
+    "id": "node/13068418401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7138367,
+      47.1975775
+    ]
+  }
 }
 ]
 }

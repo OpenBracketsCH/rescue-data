@@ -7596,12 +7596,24 @@
           47.3878346
         ],
         [
+          8.058608,
+          47.3877755
+        ],
+        [
+          8.058663,
+          47.3875481
+        ],
+        [
+          8.058674,
+          47.3875135
+        ],
+        [
           8.0586842,
           47.387473
         ],
         [
-          8.0587456,
-          47.3872465
+          8.0587489,
+          47.3872362
         ],
         [
           8.0587608,
@@ -7642,6 +7654,10 @@
         [
           8.0612836,
           47.3868216
+        ],
+        [
+          8.0620349,
+          47.3873785
         ],
         [
           8.06208,
@@ -58445,6 +58461,29 @@
     "coordinates": [
       6.6296167,
       46.5183392
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13068415771",
+  "properties": {
+    "addr:city": "Zermatt",
+    "addr:housenumber": "15",
+    "addr:postcode": "3920",
+    "addr:street": "Matterstrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general",
+    "name": "Ärztezentrum Zermatt",
+    "operator": "Ärztezentrum Zermatt",
+    "id": "node/13068415771"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7500016,
+      46.0216749
     ]
   }
 }
