@@ -58430,6 +58430,7 @@
     "healthcare": "clinic",
     "level": "0",
     "name": "Office médico-pédagogique OMP",
+    "opening_hours": "Mo-Fr 09:00-12:00,13:00-17:00",
     "operator": "État de Genèce",
     "id": "node/13058099467"
   },
@@ -58484,6 +58485,29 @@
     "coordinates": [
       7.7500016,
       46.0216749
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13070499032",
+  "properties": {
+    "addr:city": "Meyrin",
+    "addr:housenumber": "2bis",
+    "addr:postcode": "1217",
+    "addr:street": "Rue de la Prulay",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "podiatry",
+    "name": "Cabinet de podologie",
+    "opening_hours": "Th 09:00-12:00; Fr 13:00-18:00; Mo 09:00-19:00; Tu 09:00-17:00; We 09:00-18:00",
+    "id": "node/13070499032"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0813396,
+      46.2287999
     ]
   }
 }

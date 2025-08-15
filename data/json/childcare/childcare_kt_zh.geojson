@@ -6956,9 +6956,14 @@
   "type": "Feature",
   "id": "node/5775184590",
   "properties": {
+    "addr:postcode": "8050",
     "amenity": "childcare",
     "check_date": "2024-05-01",
+    "email": "info@kinderkrippe-kruemel.ch",
     "name": "Krippe Krümel",
+    "opening_hours": "Mo-Fr 07:00-18:30",
+    "phone": "0041443120303",
+    "website": "https://www.kinderkrippe-kruemel.ch",
     "wheelchair": "no",
     "id": "node/5775184590"
   },
