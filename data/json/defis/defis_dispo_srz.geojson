@@ -15645,6 +15645,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa-Su closed; PH closed",
     "operator": "ETH Zürich",
     "phone": "+41 44 342 11 88",
     "wheelchair": "yes",
@@ -29449,6 +29450,7 @@
   "id": "node/8921648160",
   "properties": {
     "access": "yes",
+    "check_date": "2025-08-15",
     "defibrillator:location": "Im EG, nach dem Haupteinang links, vor Raum B006",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
@@ -30574,6 +30576,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-18:30; Sa 09:00-16:00",
     "operator": "Porsche Zentrum Winterthur",
     "phone": "+41 52 208 33 33",
     "id": "node/9001439783"
@@ -32181,6 +32184,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:30-17:30",
     "operator": "Administrations Team",
     "phone": "+41 58 316 10 10",
     "id": "node/9199447901"
@@ -52735,7 +52739,6 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "name": "Binelli Automobile AG",
     "opening_hours": "Mo-Fr 07:00-18:00; Sa 09:00-16:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
@@ -52744,8 +52747,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.53037,
-      47.32624
+      8.5303641,
+      47.326223
     ]
   }
 },

@@ -58510,6 +58510,28 @@
       46.2287999
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13072534656",
+  "properties": {
+    "addr:housenumber": "4",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "clinic",
+    "level": "1",
+    "name": "Praxis Reusstal",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:30-17:30",
+    "phone": "+41 41 871 02 00",
+    "website": "https://www.praxisreusstal.ch/",
+    "id": "node/13072534656"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6316167,
+      46.8768978
+    ]
+  }
 }
 ]
 }

@@ -623,31 +623,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5282740906",
-  "properties": {
-    "addr:city": "Bachenbülach",
-    "addr:housenumber": "8",
-    "addr:postcode": "8184",
-    "addr:street": "Länggenstrasse",
-    "email": "tierrettung@tierrettungsdienst.ch",
-    "emergency": "ambulance_station",
-    "name": "Einsatzzentrale Tierrettung",
-    "opening_hours": "24/7",
-    "operator": "Stiftung TierRettungsDienst",
-    "phone": "+41 800 211 222",
-    "website": "https://www.tierrettungsdienst.ch/",
-    "id": "node/5282740906"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5439085,
-      47.5034812
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6209722205",
   "properties": {
     "check_date": "2024-07-19",
@@ -924,27 +899,6 @@
     "coordinates": [
       8.7513064,
       47.4256203
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10074458031",
-  "properties": {
-    "addr:city": "Winkel",
-    "addr:housenumber": "1",
-    "addr:postcode": "8185",
-    "addr:street": "Lufingerstrasse",
-    "emergency": "ambulance_station",
-    "name": "Tierrettung Zürich (Schweiz)",
-    "operator": "Stiftung TierRettungsDienst",
-    "id": "node/10074458031"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5537092,
-      47.4798389
     ]
   }
 },
