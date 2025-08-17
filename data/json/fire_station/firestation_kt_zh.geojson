@@ -5801,6 +5801,7 @@
   "id": "node/2353441275",
   "properties": {
     "amenity": "fire_station",
+    "check_date": "2025-08-16",
     "name": "Feuerwehr- u. Werkgebäude",
     "id": "node/2353441275"
   },
