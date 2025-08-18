@@ -73946,6 +73946,8 @@
   "properties": {
     "highway": "motorway",
     "lanes": "1",
+    "maxheight": "default",
+    "maxheight:signed": "no",
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A50",

@@ -18363,6 +18363,7 @@
   "id": "way/705481027",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-08-14",
     "contact:city": "Zürich",
     "contact:housenumber": "55a",
     "contact:phone": "+44 413 31 99",
