@@ -57967,6 +57967,7 @@
   "id": "node/12687074031",
   "properties": {
     "addr:city": "Kreuzlingen",
+    "addr:country": "CH",
     "addr:housenumber": "16",
     "addr:postcode": "8280",
     "addr:street": "Löwenstrasse",

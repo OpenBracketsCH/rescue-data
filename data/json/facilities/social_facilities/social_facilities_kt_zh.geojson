@@ -49615,6 +49615,30 @@
       47.5076825
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13077697932",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "11",
+    "addr:postcode": "8400",
+    "addr:street": "Untere Vogelsangstrasse",
+    "amenity": "social_facility",
+    "name": "Jumpin Jugendberatung",
+    "operator": "Stadt Winterthur",
+    "operator:type": "government",
+    "social_facility": "outreach",
+    "social_facility:for": "juvenile",
+    "id": "node/13077697932"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7229935,
+      47.4973362
+    ]
+  }
 }
 ]
 }

@@ -5837,8 +5837,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5272856,
-      47.195124
+      8.5272274,
+      47.1951432
     ]
   }
 },
@@ -26892,7 +26892,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-Sa 11:30-22:00; Su 11:30-20:00",
+    "opening_hours": "Mo-We 09:00-22:00; Su 10:00-20:00; Th-Fr 09:00-24:00; Sa 10:00-24:00",
     "operator": "Freiruum Zug",
     "wheelchair": "yes",
     "id": "node/8820883648"
@@ -29429,6 +29429,7 @@
   "id": "node/8921648159",
   "properties": {
     "access": "yes",
+    "check_date": "2025-08-19",
     "defibrillator:location": "Gebäude A, Hintereingang bei Wildbachstrasse Im Gang, kurz nach dem Eingang an der Wand",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
