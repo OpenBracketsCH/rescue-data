@@ -3994,31 +3994,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9417237719",
-  "properties": {
-    "activation": "blackout;phone_breakdown;evacuation",
-    "contact:city": "Neftenbach",
-    "contact:country": "CH",
-    "contact:housenumber": "19",
-    "contact:postcode": "8413",
-    "contact:street": "Schulstrasse",
-    "emergency": "disaster_help_point",
-    "name": "Mehrzweckhalle",
-    "operator": "RFO/GFO Kanton Zürich",
-    "source": "https://www.zh.ch/de/sicherheit-justiz/bevoelkerungsschutz/notfalltreffpunkte.html",
-    "temporary": "yes",
-    "id": "node/9417237719"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6660707,
-      47.5255886
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9417237720",
   "properties": {
     "activation": "blackout;phone_breakdown;evacuation",
