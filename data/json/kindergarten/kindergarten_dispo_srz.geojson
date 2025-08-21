@@ -4508,8 +4508,6 @@
     "addr:postcode": "8413",
     "addr:street": "Schulstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
-    "layer": "-1",
     "name": "Kindergarten Drei Linden",
     "website": "https://www.schule-neftenbach.ch/de/kindergarten/kigadreilinden/",
     "id": "way/47035825"
@@ -37333,6 +37331,86 @@
 },
 {
   "type": "Feature",
+  "id": "way/1423549103",
+  "properties": {
+    "amenity": "kindergarten",
+    "check_date": "2025-08-20",
+    "kindergarten": "yes",
+    "name": "Pandolino",
+    "nursery": "yes",
+    "operator:type": "private",
+    "id": "way/1423549103"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5252621,
+          47.3091106
+        ],
+        [
+          8.5253003,
+          47.309189
+        ],
+        [
+          8.5250634,
+          47.3092391
+        ],
+        [
+          8.5250058,
+          47.3092325
+        ],
+        [
+          8.524903,
+          47.3092405
+        ],
+        [
+          8.5248916,
+          47.3091014
+        ],
+        [
+          8.5249151,
+          47.3090983
+        ],
+        [
+          8.5249513,
+          47.3090927
+        ],
+        [
+          8.5249701,
+          47.3090839
+        ],
+        [
+          8.524991,
+          47.3090811
+        ],
+        [
+          8.5250947,
+          47.3090583
+        ],
+        [
+          8.5251508,
+          47.3090501
+        ],
+        [
+          8.525206,
+          47.3090509
+        ],
+        [
+          8.5252322,
+          47.3090489
+        ],
+        [
+          8.5252621,
+          47.3091106
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",
@@ -44229,25 +44307,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9008386897",
-  "properties": {
-    "amenity": "kindergarten",
-    "check_date": "2024-03-13",
-    "kindergarten": "yes",
-    "name": "Pandolino",
-    "nursery": "yes",
-    "id": "node/9008386897"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5251587,
-      47.3091373
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9032634717",
   "properties": {
     "amenity": "kindergarten",
@@ -49559,6 +49618,33 @@
     "coordinates": [
       8.59227,
       47.2624668
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13085033826",
+  "properties": {
+    "addr:city": "Bonstetten",
+    "addr:housenumber": "4",
+    "addr:postcode": "8906",
+    "addr:street": "Heumattstrasse",
+    "alt_name": "KiTa Barabu",
+    "amenity": "kindergarten",
+    "email": "chinderinsle@barabu.org",
+    "name": "Chinderinsle Barabu",
+    "opening_hours": "Mo-Fr 07:15-18:15",
+    "operator": "Verein Barabu",
+    "operator:type": "business",
+    "phone": "+41 43 536 75 77",
+    "website": "https://www.barabu.org",
+    "id": "node/13085033826"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4684314,
+      47.3232928
     ]
   }
 }

@@ -909,56 +909,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/79271549",
-  "properties": {
-    "addr:city": "Bonstetten",
-    "addr:country": "CH",
-    "addr:housenumber": "4",
-    "addr:postcode": "8906",
-    "addr:street": "Stationsstrasse",
-    "amenity": "childcare",
-    "building": "yes",
-    "building:levels": "2",
-    "email": "chinderinsle@barabu.org",
-    "name": "Chinderinsle Barabu",
-    "opening_hours": "Mo-Fr 07:15-18:15",
-    "operator": "Verein Barabu",
-    "operator:type": "business",
-    "phone": "+41 43 536 75 77",
-    "roof:shape": "flat",
-    "website": "https://www.barabu.org",
-    "id": "way/79271549"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4686637,
-          47.3274953
-        ],
-        [
-          8.4686339,
-          47.3273183
-        ],
-        [
-          8.46879,
-          47.3273063
-        ],
-        [
-          8.4688197,
-          47.3274833
-        ],
-        [
-          8.4686637,
-          47.3274953
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/81549731",
   "properties": {
     "addr:housenumber": "2",

@@ -8154,8 +8154,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5779029,
-      47.3843038
+      8.5777712,
+      47.3843361
     ]
   }
 },
@@ -8178,8 +8178,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5770044,
-      47.3883135
+      8.576976,
+      47.3882968
     ]
   }
 },
@@ -8224,8 +8224,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5746508,
-      47.3845409
+      8.574667,
+      47.3845345
     ]
   }
 },
@@ -18369,34 +18369,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8840727618",
-  "properties": {
-    "access": "yes",
-    "addr:city": "Weiningen",
-    "addr:housenumber": "4",
-    "addr:postcode": "8104",
-    "addr:street": "Regensdorferstrasse",
-    "defibrillator:location": "In alter Telefonkabine links vom Eingang",
-    "description": "Grüner Kasten",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "level": "0",
-    "opening_hours": "24/7",
-    "operator": "Lifetec AG",
-    "ref": "0018LTC",
-    "id": "node/8840727618"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4349589,
-      47.4201244
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8840764917",
   "properties": {
     "defibrillator:location": "Arztpraxis Rorbas, Nauengasse 18",
@@ -18434,28 +18406,6 @@
     "coordinates": [
       8.499976,
       47.3640093
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8840798117",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Steueramt Weiningen (ehemalige Post)",
-    "description": "links vom Eingang in alter Telefonkabine",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "Gemeinde",
-    "id": "node/8840798117"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.43498,
-      47.4201352
     ]
   }
 },
@@ -54793,8 +54743,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5786952,
-      47.3874657
+      8.5787021,
+      47.387475
     ]
   }
 },
@@ -72145,7 +72095,7 @@
   "id": "node/13056078900",
   "properties": {
     "access": "permissive",
-    "defibrillator:location": "Komplizierte Zugänglichkeit. Im Gemeindeammann- und Betreibungsamt. Zugang nur in Absprache und begleitet möglich.",
+    "defibrillator:location": "Komplizierte Zugänglichkeit. 1. Stock, im Gemeindeammann- und Betreibungsamt. Zugang nur in Absprache und begleitet möglich.",
     "description": "Zugänglich während Öffnungszeiten des Betreibungsamtes.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -72156,8 +72106,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4681762,
-      47.3229111
+      8.4683045,
+      47.3228614
     ]
   }
 },
@@ -72229,6 +72179,73 @@
     "coordinates": [
       8.7010459,
       47.2081481
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13084053709",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Weiningen",
+    "addr:housenumber": "10",
+    "addr:postcode": "8104",
+    "addr:street": "Schlüechtistrasse",
+    "defibrillator:location": "Schulhaus Schlüechti Eingang",
+    "description": "Grüner Kasten",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "level": "0",
+    "name": "Schulhaus Schlüechti",
+    "opening_hours": "24/7",
+    "operator": "Lifetec AG",
+    "ref": "0018LTC Outdoor",
+    "id": "node/13084053709"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4337328,
+      47.4179354
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13084392162",
+  "properties": {
+    "access": "private",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "Feuerwehr Fehraltorf",
+    "id": "node/13084392162"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7537322,
+      47.3899826
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13085041101",
+  "properties": {
+    "defibrillator:location": "Schützenhaus Volketswil",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Schützenverein Volketswil",
+    "id": "node/13085041101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6738132,
+      47.3959258
     ]
   }
 }

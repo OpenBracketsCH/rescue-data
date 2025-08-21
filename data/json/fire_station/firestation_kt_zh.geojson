@@ -5542,18 +5542,20 @@
   "id": "node/579651429",
   "properties": {
     "addr:city": "Fehraltorf",
+    "addr:housenumber": "5a",
     "addr:postcode": "8320",
     "addr:street": "Schulhausstrasse",
     "amenity": "fire_station",
     "check_date": "2025-01-12",
     "name": "Feuerwehr Fehraltorf",
+    "operator": "Gemeinde Fehraltorf",
     "id": "node/579651429"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.753809,
-      47.3898315
+      8.7537439,
+      47.3899246
     ]
   }
 },
