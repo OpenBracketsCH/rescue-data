@@ -1660,6 +1660,7 @@
   "properties": {
     "aeroway": "helipad",
     "lit": "yes",
+    "name": "Hôpital de Sion Héliport",
     "id": "way/216530488"
   },
   "geometry": {
@@ -4938,6 +4939,8 @@
   "id": "way/440240752",
   "properties": {
     "aeroway": "helipad",
+    "name": "Landeplatz Alpine Rettung Grindelwald",
+    "surface": "asphalt",
     "id": "way/440240752"
   },
   "geometry": {

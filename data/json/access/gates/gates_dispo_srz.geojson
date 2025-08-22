@@ -55787,6 +55787,7 @@
     "bicycle": "no",
     "foot": "yes",
     "horse": "no",
+    "maxwidth:physical": "2.5",
     "motor_vehicle": "no",
     "id": "node/6486079230"
   },
@@ -87092,8 +87093,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5246675,
-      47.5121411
+      8.5246939,
+      47.5121497
     ]
   }
 },

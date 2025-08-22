@@ -6029,6 +6029,7 @@
     "indoor": "yes",
     "level": "-2",
     "name": "Medbase Apotheke",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa,Su 09:00-20:00",
     "operator": "Medbase Apotheken",
     "start_date": "2024-08-15",
     "website": "https://www.medbase-apotheken.ch/apotheken/detail/medbase-apotheke-zuerich-hb/",

@@ -10328,7 +10328,10 @@
   "type": "Feature",
   "id": "node/9318528149",
   "properties": {
+    "addr:housenumber": "20",
+    "addr:street": "Schwandenholzstrasse",
     "amenity": "childcare",
+    "check_date": "2025-08-21",
     "contact:city": "Zürich",
     "contact:housenumber": "20",
     "contact:phone": "+41 44 413 77 33",
@@ -11620,6 +11623,7 @@
   "id": "node/9495092383",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-08-21",
     "contact:city": "Zürich",
     "contact:housenumber": "1",
     "contact:phone": "+41 44 413 12 72",

@@ -47671,59 +47671,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/996685264",
-  "properties": {
-    "amenity": "hospital",
-    "healthcare": "hospital",
-    "name": "Extension et transformation de l’hôpital",
-    "id": "way/996685264"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.3845408,
-          46.2343398
-        ],
-        [
-          7.3845033,
-          46.2337331
-        ],
-        [
-          7.3853642,
-          46.2333898
-        ],
-        [
-          7.3862494,
-          46.2333917
-        ],
-        [
-          7.3867214,
-          46.2333824
-        ],
-        [
-          7.3869977,
-          46.2335809
-        ],
-        [
-          7.3869119,
-          46.2343231
-        ],
-        [
-          7.3857022,
-          46.2343231
-        ],
-        [
-          7.3845408,
-          46.2343398
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/996685269",
   "properties": {
     "amenity": "hospital",
