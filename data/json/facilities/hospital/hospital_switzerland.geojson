@@ -58296,17 +58296,19 @@
     "addr:street": "Rue de Lausanne",
     "amenity": "clinic",
     "email": "cpge@dialogai.org",
+    "healthcare": "clinic",
     "name": "Checkpoint Genève",
     "name:en": "French",
     "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-18:00",
     "phone": "0229064030",
+    "website": "https://mycheckpoint.ch/fr/emplacement/geneve/",
     "id": "node/12875899102"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      6.1465501,
-      46.214553
+      6.146574,
+      46.2145445
     ]
   }
 },

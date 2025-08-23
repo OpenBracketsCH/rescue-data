@@ -21484,6 +21484,7 @@
     "name": "Wohngruppe Bachstei",
     "operator": "Verein Sozialpäda- gogische Wohn- gruppe Zürcher Oberland",
     "phone": "+41 44 940 66 88",
+    "roof:shape": "gabled",
     "social_facility": "assisted_living",
     "website": "https://www.bachstei.ch/",
     "id": "way/189450517"

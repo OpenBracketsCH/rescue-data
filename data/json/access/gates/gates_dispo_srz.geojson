@@ -104416,6 +104416,7 @@
   "id": "node/13081428246",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "1.2",
     "wheelchair": "no",
     "id": "node/13081428246"
   },
@@ -104484,6 +104485,21 @@
     "coordinates": [
       8.5772608,
       47.3878317
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13088631919",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/13088631919"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5691243,
+      47.4045707
     ]
   }
 }

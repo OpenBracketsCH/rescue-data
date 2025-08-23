@@ -38126,6 +38126,7 @@
     "addr:postcode": "8800",
     "addr:street": "Rossistrasse",
     "amenity": "kindergarten",
+    "check_date": "2025-08-22",
     "name": "Kindergarten Rossi",
     "id": "node/1069638625"
   },
