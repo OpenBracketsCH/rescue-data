@@ -3998,6 +3998,28 @@
 },
 {
   "type": "Feature",
+  "id": "node/8599713917",
+  "properties": {
+    "alt_name": "Sicherheitskontrolle Transfer D",
+    "amenity": "police",
+    "level": "0",
+    "name": "Sicherheitskontrolle (Dock B/D)",
+    "name:en": "Security Check (Gate B/D)",
+    "not:operator:wikidata": "Q1728099",
+    "short_name": "Siko",
+    "wheelchair": "yes",
+    "id": "node/8599713917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5599545,
+      47.4510059
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/8621205825",
   "properties": {
     "alt_name": "Eidgenössische Zollverwaltung",
@@ -4049,6 +4071,49 @@
 },
 {
   "type": "Feature",
+  "id": "node/8635545327",
+  "properties": {
+    "alt_name": "Staff Siko Ausreise 1",
+    "amenity": "police",
+    "level": "1",
+    "name": "Staff Sicherheitskontrollen (Ausreise 1)",
+    "name:de": "Staff Sicherheitskontrollen (Ausreise 1)",
+    "name:en": "Staff Security Check (Departure 1)",
+    "opening_hours": "24/7",
+    "short_name": "Siko",
+    "wheelchair": "yes",
+    "id": "node/8635545327"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5616195,
+      47.4526653
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8635553317",
+  "properties": {
+    "amenity": "police",
+    "level": "2",
+    "name": "Sicherheitskontrolle (Swiss First Lounge A)",
+    "name:en": "Security Check (Swiss First Lounge A)",
+    "short_name": "Siko",
+    "wheelchair": "yes",
+    "id": "node/8635553317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.561436,
+      47.4526912
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/8635593760",
   "properties": {
     "alt_name": "Stafff SIKO (Grüezi Z)",
@@ -4075,12 +4140,13 @@
   "type": "Feature",
   "id": "node/8659006318",
   "properties": {
+    "alt_name": "SKG (Linien 01-07)",
     "amenity": "police",
     "level": "0",
     "name": "Sicherheitskontrollgebäude (Linien 01-07)",
     "name:de": "Sicherheitskontrollgebäude (Linien 01-07)",
     "name:en": "Security Check Building (Lanes 01-07)",
-    "short_name": "SIKO",
+    "short_name": "Siko",
     "wheelchair": "yes",
     "id": "node/8659006318"
   },
@@ -4096,12 +4162,13 @@
   "type": "Feature",
   "id": "node/8659006939",
   "properties": {
+    "alt_name": "SKG (Linien 22-27)",
     "amenity": "police",
     "level": "2",
     "name": "Sicherheitskontrollgebäude (Linien 22-27)",
     "name:de": "Sicherheitskontrollgebäude (Linien 22-27)",
     "name:en": "Security Check Building (Lanes 22-27)",
-    "short_name": "SIKO",
+    "short_name": "Siko",
     "wheelchair": "yes",
     "id": "node/8659006939"
   },
@@ -4117,12 +4184,13 @@
   "type": "Feature",
   "id": "node/8659008053",
   "properties": {
+    "alt_name": "SKG (Linien 11-17)",
     "amenity": "police",
     "level": "1",
     "name": "Sicherheitskontrollgebäude (Linien 11-17)",
     "name:de": "Sicherheitskontrollgebäude (Linien 11-17)",
     "name:en": "Security Check Building (Lanes 11-17)",
-    "short_name": "SIKO",
+    "short_name": "Siko",
     "wheelchair": "yes",
     "id": "node/8659008053"
   },
@@ -4138,12 +4206,13 @@
   "type": "Feature",
   "id": "node/8659010423",
   "properties": {
+    "alt_name": "SKG (Linien 31-37)",
     "amenity": "police",
     "level": "3",
     "name": "Sicherheitskontrollgebäude (Linien 31-37)",
     "name:de": "Sicherheitskontrollgebäude (Linien 31-37)",
     "name:en": "Security Check Building (Lanes 31-37)",
-    "short_name": "SIKO",
+    "short_name": "Siko",
     "wheelchair": "yes",
     "id": "node/8659010423"
   },
@@ -4539,16 +4608,39 @@
 },
 {
   "type": "Feature",
+  "id": "node/9597419147",
+  "properties": {
+    "alt_name": "Passagier und Staff Sicherheitskontrolle (GAC)",
+    "amenity": "police",
+    "level": "0",
+    "name": "Sicherheitskontrollen Passagiere und Staff (GAC, General Aviation Center))",
+    "name:de": "Sicherheitskontrollen Passagiere und Staff (GAC, General Aviation Center))",
+    "name:en": "Security Check (GAC, General Aviation Center)",
+    "opening_hours": "Mo-Su 04:30-23:00",
+    "short_name": "Siko",
+    "wheelchair": "yes",
+    "id": "node/9597419147"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5737662,
+      47.4534426
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9597456361",
   "properties": {
-    "alt_name": "Stafff SIKO OPC",
+    "alt_name": "Staff Siko OPC",
     "amenity": "police",
     "level": "-1",
-    "name": "Operations Center, Crew Siko",
-    "name:de": "Operations Center, Crew Siko",
-    "name:en": "Operations Center, Crew Siko",
+    "name": "Sicherheitskontrolle Crew (Operation Center, OPC)",
+    "name:de": "Sicherheitskontrolle Crew (Operation Center, OPC)",
+    "name:en": "Security Check Crew (Operation Center)",
     "opening_hours": "Mo-Su 05:00-22:30",
-    "short_name": "SIKO",
+    "short_name": "Siko",
     "wheelchair": "yes",
     "id": "node/9597456361"
   },
@@ -4557,6 +4649,29 @@
     "coordinates": [
       8.5650481,
       47.4544374
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9597501885",
+  "properties": {
+    "alt_name": "Passagier und Staff Sicherheitskontrollen (BAC)",
+    "amenity": "police",
+    "level": "0",
+    "name": "Sicherheitskontrollen Passagiere und Staff (BAC)",
+    "name:de": "Passagier und Staff Sicherheitskontrollen (BAC)",
+    "name:en": "Staff Security Check (BAC)",
+    "opening_hours": "Mo-Su 04:30-22:45",
+    "short_name": "Siko",
+    "wheelchair": "yes",
+    "id": "node/9597501885"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5740695,
+      47.4580662
     ]
   }
 },

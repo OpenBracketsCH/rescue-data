@@ -29606,6 +29606,7 @@
     "addr:postcode": "8057",
     "amenity": "school",
     "building": "yes",
+    "name": "Schulanlage Brunnenhof",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
     "id": "way/87768437"
   },
@@ -89317,6 +89318,7 @@
     "addr:street": "Brunnenhofweg",
     "amenity": "school",
     "building": "yes",
+    "name": "Sekundarschule Brunnenhof + Kreisschulbehörde Waidberg",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
     "id": "way/328342901"
   },
