@@ -5696,11 +5696,11 @@
   "type": "Feature",
   "id": "way/66990024",
   "properties": {
-    "addr:city": "Küsnacht",
+    "addr:city": "Küsnacht ZH",
     "addr:country": "CH",
     "addr:housenumber": "18",
     "addr:postcode": "8700",
-    "addr:street": "Heinrich Wettsteinstrasse",
+    "addr:street": "Heinrich-Wettstein-Strasse",
     "amenity": "kindergarten",
     "building": "school",
     "name": "Kindergarten Heinrich Wettstein",
@@ -11819,7 +11819,7 @@
   "type": "Feature",
   "id": "way/137472642",
   "properties": {
-    "addr:city": "Erlenbach",
+    "addr:city": "Erlenbach ZH",
     "addr:country": "CH",
     "addr:housenumber": "6",
     "addr:postcode": "8703",

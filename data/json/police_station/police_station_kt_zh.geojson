@@ -1774,7 +1774,7 @@
   "type": "Feature",
   "id": "node/775341414",
   "properties": {
-    "addr:city": "Küsnacht",
+    "addr:city": "Küsnacht ZH",
     "addr:housenumber": "135",
     "addr:postcode": "8700",
     "addr:street": "Alte Landstrasse",
@@ -2998,7 +2998,7 @@
   "type": "Feature",
   "id": "node/8510383531",
   "properties": {
-    "addr:city": "Küsnacht",
+    "addr:city": "Küsnacht ZH",
     "addr:housenumber": "135",
     "addr:postcode": "8700",
     "addr:street": "Alte Landstrasse",

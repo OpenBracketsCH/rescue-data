@@ -4372,7 +4372,7 @@
   "id": "node/9417237735",
   "properties": {
     "activation": "blackout;phone_breakdown;evacuation",
-    "contact:city": "Küsnacht",
+    "contact:city": "Küsnacht ZH",
     "contact:country": "CH",
     "contact:housenumber": "37",
     "contact:postcode": "8700",

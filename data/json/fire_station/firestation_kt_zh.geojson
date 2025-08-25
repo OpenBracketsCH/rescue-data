@@ -1762,7 +1762,7 @@
   "type": "Feature",
   "id": "way/66986858",
   "properties": {
-    "addr:city": "Küsnacht",
+    "addr:city": "Küsnacht ZH",
     "addr:country": "CH",
     "addr:housenumber": "139",
     "addr:postcode": "8700",
@@ -2746,7 +2746,7 @@
   "type": "Feature",
   "id": "way/137879362",
   "properties": {
-    "addr:city": "Erlenbach",
+    "addr:city": "Erlenbach ZH",
     "addr:housenumber": "32",
     "addr:postcode": "8703",
     "addr:street": "Schulhausstrasse",

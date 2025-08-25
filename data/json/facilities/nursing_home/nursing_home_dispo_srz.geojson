@@ -2330,6 +2330,7 @@
     "alt_name": "Altersheim Sonnegg",
     "amenity": "social_facility",
     "building": "residential",
+    "check_date": "2025-08-24",
     "email": "info@sonnegg-langnau.ch",
     "name": "Sonnegg Wohn- und Pflegezentrum",
     "operator": "Stiftung Sonnegg",
@@ -6561,7 +6562,7 @@
   "type": "Feature",
   "id": "way/67603613",
   "properties": {
-    "addr:city": "Küsnacht",
+    "addr:city": "Küsnacht ZH",
     "addr:country": "CH",
     "addr:housenumber": "136",
     "addr:postcode": "8700",
@@ -32610,7 +32611,7 @@
   "type": "Feature",
   "id": "node/8556680317",
   "properties": {
-    "addr:city": "Erlenbach",
+    "addr:city": "Erlenbach ZH",
     "addr:housenumber": "1",
     "addr:postcode": "8703",
     "addr:street": "Im Spitzli",
