@@ -6596,7 +6596,7 @@
   "id": "node/9417237825",
   "properties": {
     "activation": "blackout;phone_breakdown;evacuation",
-    "contact:city": "Bertschikon",
+    "contact:city": "Bertschikon (Gossau ZH)",
     "contact:country": "CH",
     "contact:housenumber": "8",
     "contact:postcode": "8614",

@@ -14726,6 +14726,10 @@
           47.3095761
         ],
         [
+          8.5217862,
+          47.3100662
+        ],
+        [
           8.5218465,
           47.3100941
         ],
@@ -30108,6 +30112,8 @@
     "building": "yes",
     "name": "Schulhaus Rooswis",
     "operator": "Gemeinde Gossau",
+    "operator:type": "government",
+    "operator:wikidata": "Q67525",
     "id": "way/99043010"
   },
   "geometry": {
@@ -91180,6 +91186,7 @@
   "id": "way/971963957",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-08-26",
     "grades": "7-9",
     "name": "Schulanlage Freienstein",
     "operator": "Schulgemeinde Rorbas-Freienstein-Teufen",
@@ -99690,6 +99697,7 @@
   "id": "node/439980333",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-08-26",
     "grades": "7-9",
     "name": "Sekundarschule Freienstein",
     "operator": "Schulgemeinde Rorbas-Freienstein-Teufen",
@@ -101859,6 +101867,7 @@
   "id": "node/9647786939",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-08-25",
     "contact:city": "Dällikon",
     "contact:email": "pspori@kgs-daellikon.ch",
     "contact:housenumber": "7",

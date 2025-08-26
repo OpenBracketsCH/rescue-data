@@ -4712,7 +4712,7 @@
     "addr:country": "CH",
     "addr:housenumber": "13",
     "addr:postcode": "8193",
-    "addr:street": "Salomon Landolt-Weg",
+    "addr:street": "Salomon-Landolt-Weg",
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Eigenacker",
@@ -8593,7 +8593,9 @@
   "type": "Feature",
   "id": "way/98440073",
   "properties": {
+    "addr:city": "Bertschikon (Gossau ZH)",
     "addr:housenumber": "2",
+    "addr:postcode": "8614",
     "addr:street": "Männetsrietstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",

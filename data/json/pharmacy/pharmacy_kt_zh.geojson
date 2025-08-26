@@ -3492,7 +3492,7 @@
   "type": "Feature",
   "id": "node/1788460722",
   "properties": {
-    "addr:city": "Gossau",
+    "addr:city": "Gossau ZH",
     "addr:housenumber": "49",
     "addr:postcode": "8625",
     "addr:street": "Grütstrasse",
