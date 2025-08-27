@@ -404,9 +404,9 @@
     "addr:postcode": "8400",
     "addr:street": "Untertor",
     "amenity": "pharmacy",
-    "check_date:opening_hours": "2024-02-24",
+    "check_date:opening_hours": "2025-08-27",
     "name": "Adler-Apotheke",
-    "opening_hours": "Mo-Fr 07:45-20:00; Sa 07:45-18:00; Su 10:00-17:00",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-17:00",
     "wheelchair": "yes",
     "id": "node/246249855"
   },
