@@ -15492,7 +15492,7 @@
   "type": "Feature",
   "id": "way/226339955",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:country": "CH",
     "addr:housenumber": "22",
     "addr:postcode": "8620",
@@ -15617,7 +15617,7 @@
   "type": "Feature",
   "id": "way/226339956",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:country": "CH",
     "addr:housenumber": "22",
     "addr:postcode": "8620",
@@ -25660,7 +25660,7 @@
   "type": "Feature",
   "id": "way/759835218",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:country": "CH",
     "addr:housenumber": "22",
     "addr:postcode": "8620",

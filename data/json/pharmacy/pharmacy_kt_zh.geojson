@@ -1966,7 +1966,7 @@
   "type": "Feature",
   "id": "node/664406565",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:housenumber": "151",
     "addr:postcode": "8620",
     "addr:street": "Bahnhofstrasse",
@@ -2960,7 +2960,7 @@
   "type": "Feature",
   "id": "node/1377449055",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:country": "CH",
     "addr:housenumber": "16",
     "addr:postcode": "8620",
@@ -5013,10 +5013,11 @@
     "amenity": "pharmacy",
     "branch": "Oberengstringen",
     "brand": "Amavita",
+    "brand:wikidata": "Q93733901",
     "dispensing": "yes",
     "healthcare": "pharmacy",
     "level": "0",
-    "name": "Amavita Oberengstringen",
+    "name": "Amavita",
     "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:00-16:00; Su,PH off",
     "operator": "GaleniCare AG",
     "website": "https://www.amavita.ch/de/amavita-apotheke-oberengstringen",
@@ -5026,8 +5027,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4628644,
-      47.4086895
+      8.4629581,
+      47.4086468
     ]
   }
 },

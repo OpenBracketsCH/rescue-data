@@ -4573,24 +4573,28 @@
           47.5266131
         ],
         [
-          8.6632053,
-          47.5268039
+          8.6632542,
+          47.5267553
         ],
         [
           8.6631779,
           47.5267802
         ],
         [
-          8.6631505,
-          47.5267565
+          8.6631519,
+          47.5267963
+        ],
+        [
+          8.6631425,
+          47.5267691
         ],
         [
           8.6628998,
           47.5266698
         ],
         [
-          8.6628646,
-          47.5266576
+          8.662863,
+          47.5266591
         ],
         [
           8.6629929,
@@ -10803,7 +10807,7 @@
   "type": "Feature",
   "id": "way/123561294",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:country": "CH",
     "addr:housenumber": "28",
     "addr:postcode": "8620",
@@ -31925,7 +31929,7 @@
   "type": "Feature",
   "id": "way/963055706",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:country": "CH",
     "addr:housenumber": "35a",
     "addr:postcode": "8620",

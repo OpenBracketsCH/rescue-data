@@ -2806,7 +2806,7 @@
   "type": "Feature",
   "id": "way/232713453",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:country": "CH",
     "addr:housenumber": "15",
     "addr:postcode": "8620",

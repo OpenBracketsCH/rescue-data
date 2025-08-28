@@ -297,30 +297,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9435655847",
-  "properties": {
-    "contact:city": "Schaffhausen",
-    "contact:housenumber": "12",
-    "contact:postcode": "8200",
-    "contact:street": "J.J. Wepfer-Strasse",
-    "description": "Notfalltreffpunkt in Schaffhausen",
-    "emergency": "disaster_help_point",
-    "fixme": "add additional information about activation, room",
-    "location": "Pflegezentrum-Spitäler Schaffhausen",
-    "name": "Pflegeheim Geissberg",
-    "operator": "Kanton Schaffhausen",
-    "id": "node/9435655847"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6404123,
-      47.7157595
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9435655848",
   "properties": {
     "contact:city": "Schaffhausen",

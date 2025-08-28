@@ -3881,7 +3881,7 @@
   "type": "Feature",
   "id": "way/255026614",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:country": "CH",
     "addr:housenumber": "5",
     "addr:postcode": "8620",
@@ -5563,7 +5563,7 @@
   "type": "Feature",
   "id": "node/664420085",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:housenumber": "5",
     "addr:postcode": "8620",
     "addr:street": "Farbstrasse",

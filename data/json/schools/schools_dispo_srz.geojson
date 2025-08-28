@@ -34521,7 +34521,7 @@
   "type": "Feature",
   "id": "way/98867433",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:country": "CH",
     "addr:housenumber": "7",
     "addr:postcode": "8620",
@@ -40860,7 +40860,7 @@
   "type": "Feature",
   "id": "way/123558322",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:country": "CH",
     "addr:housenumber": "6",
     "addr:postcode": "8620",
@@ -68216,7 +68216,7 @@
   "type": "Feature",
   "id": "way/226337974",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:country": "CH",
     "addr:housenumber": "14",
     "addr:postcode": "8620",
@@ -76190,7 +76190,7 @@
   "type": "Feature",
   "id": "way/255020187",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:country": "CH",
     "addr:housenumber": "10",
     "addr:postcode": "8620",
@@ -131030,7 +131030,7 @@
   "type": "Feature",
   "id": "node/9781518933",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:housenumber": "150",
     "addr:postcode": "8620",
     "addr:street": "Bahnhofstrasse",
