@@ -24176,7 +24176,7 @@
   "type": "Feature",
   "id": "way/319422859",
   "properties": {
-    "addr:city": "Pfäffikon (SZ)",
+    "addr:city": "Pfäffikon SZ",
     "addr:housenumber": "27",
     "addr:postcode": "8808",
     "addr:street": "Etzelstrasse",
@@ -47778,109 +47778,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1025032541",
-  "properties": {
-    "addr:city": "Crans-Montana",
-    "addr:housenumber": "1",
-    "addr:postcode": "3963",
-    "addr:street": "Impasse Palace Bellevue",
-    "amenity": "hospital",
-    "healthcare": "hospital",
-    "name": "Clinique Bernoise de Crans Montana",
-    "name:de": "Berner Klinik Crans Montana",
-    "name:fr": "Clinique Bernoise de Crans Montana",
-    "id": "way/1025032541"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          7.4856061,
-          46.3137182
-        ],
-        [
-          7.4846246,
-          46.3134868
-        ],
-        [
-          7.4849046,
-          46.3128495
-        ],
-        [
-          7.4863549,
-          46.313104
-        ],
-        [
-          7.4868788,
-          46.3132688
-        ],
-        [
-          7.4877967,
-          46.313382
-        ],
-        [
-          7.4879262,
-          46.3136089
-        ],
-        [
-          7.487864,
-          46.3138238
-        ],
-        [
-          7.4877809,
-          46.3138535
-        ],
-        [
-          7.4876092,
-          46.3138498
-        ],
-        [
-          7.4874644,
-          46.3138442
-        ],
-        [
-          7.4873919,
-          46.313885
-        ],
-        [
-          7.487312,
-          46.3139091
-        ],
-        [
-          7.4871913,
-          46.3139165
-        ],
-        [
-          7.4869714,
-          46.3138794
-        ],
-        [
-          7.4867536,
-          46.3138498
-        ],
-        [
-          7.4866302,
-          46.3138405
-        ],
-        [
-          7.4865283,
-          46.3138016
-        ],
-        [
-          7.4863351,
-          46.313759
-        ],
-        [
-          7.4856061,
-          46.3137182
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1031658733",
   "properties": {
     "addr:city": "Münsterlingen",
@@ -55921,6 +55818,31 @@
 },
 {
   "type": "Feature",
+  "id": "node/9990471869",
+  "properties": {
+    "addr:city": "Crans-Montana",
+    "addr:housenumber": "87",
+    "addr:postcode": "3963",
+    "addr:street": "Route de la Moubra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "physiatry",
+    "name": "Clinique Bernoise Montana",
+    "name:de": "Berner Klinik Montana",
+    "name:fr": "Clinique Bernoise Montana",
+    "phone": "+41 27 485 51 21",
+    "id": "node/9990471869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.481131,
+      46.2997051
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9990748725",
   "properties": {
     "addr:city": "Reichenburg",
@@ -58685,6 +58607,24 @@
     "coordinates": [
       8.6316167,
       46.8768978
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13103355775",
+  "properties": {
+    "amenity": "clinic",
+    "check_date": "2025-08-28",
+    "healthcare": "clinic",
+    "name": "Herztraum",
+    "id": "node/13103355775"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7941813,
+      47.5551494
     ]
   }
 }

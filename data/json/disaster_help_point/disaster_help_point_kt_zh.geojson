@@ -3522,7 +3522,7 @@
   "id": "node/9417237700",
   "properties": {
     "activation": "blackout;phone_breakdown;evacuation",
-    "contact:city": "Ottikon",
+    "contact:city": "Ottikon (Gossau ZH)",
     "contact:country": "CH",
     "contact:housenumber": "117",
     "contact:postcode": "8626",

@@ -47166,7 +47166,7 @@
   "type": "Feature",
   "id": "way/150269903",
   "properties": {
-    "addr:city": "Pfäffikon (SZ)",
+    "addr:city": "Pfäffikon SZ",
     "addr:country": "CH",
     "addr:housenumber": "15",
     "addr:postcode": "8808",
@@ -47267,7 +47267,7 @@
   "type": "Feature",
   "id": "way/150269930",
   "properties": {
-    "addr:city": "Pfäffikon (SZ)",
+    "addr:city": "Pfäffikon SZ",
     "addr:country": "CH",
     "addr:housenumber": "21",
     "addr:postcode": "8808",
@@ -47825,7 +47825,7 @@
   "type": "Feature",
   "id": "way/151573519",
   "properties": {
-    "addr:city": "Pfäffikon (SZ)",
+    "addr:city": "Pfäffikon SZ",
     "addr:country": "CH",
     "addr:housenumber": "21",
     "addr:postcode": "8808",
@@ -82481,7 +82481,7 @@
   "type": "Feature",
   "id": "way/289326558",
   "properties": {
-    "addr:city": "Ottikon",
+    "addr:city": "Ottikon (Gossau ZH)",
     "addr:housenumber": "117",
     "addr:postcode": "8626",
     "addr:street": "Grüningerstrasse",

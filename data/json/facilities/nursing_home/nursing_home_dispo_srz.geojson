@@ -948,6 +948,10 @@
           47.501671
         ],
         [
+          8.7224263,
+          47.5016844
+        ],
+        [
           8.7222447,
           47.5017463
         ],
@@ -1530,6 +1534,10 @@
         [
           8.5106411,
           47.3641278
+        ],
+        [
+          8.5106044,
+          47.3641669
         ],
         [
           8.5105323,
@@ -7800,7 +7808,9 @@
   "type": "Feature",
   "id": "way/99826401",
   "properties": {
+    "addr:city": "Ottikon (Gossau ZH)",
     "addr:housenumber": "14",
+    "addr:postcode": "8626",
     "addr:street": "Brüschägertenweg",
     "amenity": "social_facility",
     "building": "yes",
@@ -7857,7 +7867,9 @@
   "type": "Feature",
   "id": "way/99826431",
   "properties": {
+    "addr:city": "Ottikon (Gossau ZH)",
     "addr:housenumber": "12",
+    "addr:postcode": "8626",
     "addr:street": "Brüschägertenweg",
     "amenity": "social_facility",
     "building": "yes",
@@ -27006,6 +27018,7 @@
   "id": "way/929856034",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2025-08-28",
     "name": "Stiftung Züriwerk",
     "social_facility": "group_home",
     "social_facility:for": "disabled",

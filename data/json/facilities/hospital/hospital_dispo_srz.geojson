@@ -5245,7 +5245,7 @@
   "type": "Feature",
   "id": "way/319422859",
   "properties": {
-    "addr:city": "Pfäffikon (SZ)",
+    "addr:city": "Pfäffikon SZ",
     "addr:housenumber": "27",
     "addr:postcode": "8808",
     "addr:street": "Etzelstrasse",

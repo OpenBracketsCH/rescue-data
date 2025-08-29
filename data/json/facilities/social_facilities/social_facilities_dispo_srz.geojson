@@ -2309,6 +2309,10 @@
           47.501671
         ],
         [
+          8.7224263,
+          47.5016844
+        ],
+        [
           8.7222447,
           47.5017463
         ],
@@ -13636,7 +13640,9 @@
   "type": "Feature",
   "id": "way/99826401",
   "properties": {
+    "addr:city": "Ottikon (Gossau ZH)",
     "addr:housenumber": "14",
+    "addr:postcode": "8626",
     "addr:street": "Brüschägertenweg",
     "amenity": "social_facility",
     "building": "yes",
@@ -13693,7 +13699,9 @@
   "type": "Feature",
   "id": "way/99826431",
   "properties": {
+    "addr:city": "Ottikon (Gossau ZH)",
     "addr:housenumber": "12",
+    "addr:postcode": "8626",
     "addr:street": "Brüschägertenweg",
     "amenity": "social_facility",
     "building": "yes",
@@ -13742,7 +13750,7 @@
   "type": "Feature",
   "id": "way/99840710",
   "properties": {
-    "addr:city": "Ottikon",
+    "addr:city": "Ottikon (Gossau ZH)",
     "addr:housenumber": "3",
     "addr:postcode": "8626",
     "addr:street": "Rössliwiese",
@@ -34300,7 +34308,7 @@
   "type": "Feature",
   "id": "way/328356702",
   "properties": {
-    "addr:city": "Pfäffikon (SZ)",
+    "addr:city": "Pfäffikon SZ",
     "addr:housenumber": "5",
     "addr:postcode": "8808",
     "addr:street": "Huobstrasse",
@@ -43964,6 +43972,7 @@
   "id": "way/929856034",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2025-08-28",
     "name": "Stiftung Züriwerk",
     "social_facility": "group_home",
     "social_facility:for": "disabled",
