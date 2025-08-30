@@ -15126,7 +15126,7 @@
   "type": "Feature",
   "id": "way/221044976",
   "properties": {
-    "addr:city": "Wangen",
+    "addr:city": "Wangen SZ",
     "addr:housenumber": "24",
     "addr:postcode": "8855",
     "addr:street": "Zürcherstrasse",
@@ -15184,7 +15184,7 @@
   "type": "Feature",
   "id": "way/221044977",
   "properties": {
-    "addr:city": "Wangen",
+    "addr:city": "Wangen SZ",
     "addr:housenumber": "2",
     "addr:postcode": "8855",
     "addr:street": "Hengstackerstrasse",

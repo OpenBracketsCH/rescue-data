@@ -13540,7 +13540,7 @@
     "addr:postcode": "1245",
     "addr:street": "Chemin de la Savonnière",
     "amenity": "hospital",
-    "check_date": "2023-04-24",
+    "check_date": "2025-08-29",
     "healthcare": "rehabilitation",
     "name": "Hôpital de Bellerive (HUG)",
     "operator": "HUG Hopitaux Universitaires Genève",
@@ -27920,86 +27920,6 @@
         [
           8.5190366,
           47.3999458
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/542443635",
-  "properties": {
-    "addr:city": "Blonay",
-    "addr:housenumber": "35",
-    "addr:street": "Chemin de Mottex",
-    "amenity": "hospital",
-    "emergency": "no",
-    "healthcare": "hospital",
-    "healthcare:speciality": "intensive;CTR",
-    "name": "Hôpital Riviera-Chablais, Clinique de Mottex",
-    "website": "https://www.hopitalrivierachablais.ch/jcms/c_5022/fr/clinique-de-mottex",
-    "wikidata": "Q16642757",
-    "id": "way/542443635"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          6.8846556,
-          46.460767
-        ],
-        [
-          6.8846354,
-          46.4607047
-        ],
-        [
-          6.8842222,
-          46.4601825
-        ],
-        [
-          6.8841926,
-          46.4599091
-        ],
-        [
-          6.88475,
-          46.4598363
-        ],
-        [
-          6.8850055,
-          46.460133
-        ],
-        [
-          6.8855059,
-          46.4599672
-        ],
-        [
-          6.8853982,
-          46.4603018
-        ],
-        [
-          6.8856579,
-          46.4603672
-        ],
-        [
-          6.8855477,
-          46.4607754
-        ],
-        [
-          6.8851853,
-          46.4607325
-        ],
-        [
-          6.8848389,
-          46.4607275
-        ],
-        [
-          6.8847214,
-          46.4607324
-        ],
-        [
-          6.8846556,
-          46.460767
         ]
       ]
     ]
@@ -58625,6 +58545,27 @@
     "coordinates": [
       7.7941813,
       47.5551494
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13105841444",
+  "properties": {
+    "addr:city": "Erlinsbach SO",
+    "addr:housenumber": "2",
+    "addr:postcode": "5015",
+    "addr:street": "Dorfplatz",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Schmitte-Praxis",
+    "id": "node/13105841444"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0082671,
+      47.3970051
     ]
   }
 }

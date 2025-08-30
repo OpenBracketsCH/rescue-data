@@ -11108,10 +11108,12 @@
   "id": "node/7853369118",
   "properties": {
     "access": "yes",
+    "check_date": "2025-08-29",
     "defibrillator:location": "Zürcher Kantonalbank",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "id": "node/7853369118"
   },
   "geometry": {
@@ -19323,9 +19325,8 @@
     "defibrillator:location": "Eingangshalle an Säule",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "fixme": "source???",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 07:00 - 17:00",
+    "opening_hours": "Mo-Fr 07:00-17:00",
     "operator": "Helbling AG",
     "phone": "+41 44 438 17 11",
     "id": "node/8461610909"
@@ -52622,7 +52623,6 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "name": "Giardino Verde",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763309923"
@@ -63281,7 +63281,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "täglich 07.55-22.00",
+    "opening_hours": "Mo-Su 07:55-22:00",
     "operator": "Schule Freilager",
     "phone": "+41444163661",
     "source": "local_knowledge, defikarte.ch",
@@ -63750,7 +63750,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo. - Sa. 09:00 - 21:00",
+    "opening_hours": "Mo-Sa 09:00-21:00",
     "operator": "Kleingewerbe",
     "phone": "+4144 461 09 40",
     "id": "node/11230586851"
@@ -64475,7 +64475,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-Fr: 07:00 - 18:00",
+    "opening_hours": "Mo-Fr 07:00-18:00",
     "operator": "Organisation und Informatik, Stadt Zürich",
     "phone": "+41 44 412 56 20",
     "source": "local_knowledge, defikarte.ch",
@@ -69636,7 +69636,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "opening_hours": "immer verfügbar",
+    "opening_hours": "24/7",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41444342040",
     "source": "local_knowledge, defikarte.ch",
@@ -81928,7 +81928,7 @@
     "indoor": "yes",
     "level": "0",
     "name": "Denner",
-    "opening_hours": "Mo-Do 07:30-17:30 Fr 07:30-17:00",
+    "opening_hours": "Mo-Th 07:30-17:30; Fr 07:30-17:00",
     "operator": "Lifetec AG",
     "phone": "+41800122144",
     "postal_code": "8045",
@@ -90016,7 +90016,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "3",
-    "opening_hours": "Mo - Fr 08.00-12.00 13.00 - 16.30",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-16:30",
     "operator": "Lifetec AG",
     "phone": "+41800122144",
     "ref": "1222LTM",
@@ -90409,20 +90409,22 @@
   "id": "node/12859283801",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Dynamo Metall",
+    "defibrillator:location": "Dynamo Metallwerkstatt",
     "description": "draussen am Gittergebäude neben dem Dynamo",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Jugendkulturhaus Dynamo",
+    "wheelchair": "no",
     "id": "node/12859283801"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5397222,
-      47.3829132
+      8.5397235,
+      47.3829182
     ]
   }
 },
@@ -93113,6 +93115,49 @@
     "coordinates": [
       8.5640558,
       47.4255323
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13105311501",
+  "properties": {
+    "defibrillator:location": "Schulhaus am Park vor Lehrpersonen-/Vorbereitungszimmer",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Sek1March Lachen",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/13105311501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8518959,
+      47.1954462
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13105673615",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Fabrikstrasse, in der Garage",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "-1",
+    "opening_hours": "24/7",
+    "wheelchair": "no",
+    "id": "node/13105673615"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5634123,
+      47.4342927
     ]
   }
 }
