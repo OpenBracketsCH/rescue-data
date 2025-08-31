@@ -5517,6 +5517,7 @@
     "addr:postcode": "8400",
     "addr:street": "Bahnhofplatz",
     "amenity": "clinic",
+    "check_date": "2025-08-30",
     "healthcare": "clinic",
     "indoor": "yes",
     "level": "2",
@@ -5580,6 +5581,7 @@
     "addr:postcode": "8400",
     "addr:street": "Bahnhofplatz",
     "amenity": "doctors",
+    "check_date": "2025-08-30",
     "check_date:opening_hours": "2023-05-03",
     "contact:email": "permanence-winterthur@hin.ch",
     "contact:fax": "+41 52 267 01 00",
@@ -9824,12 +9826,12 @@
           46.9963717
         ],
         [
-          8.6045909,
-          46.9957131
+          8.6045422,
+          46.9957818
         ],
         [
-          8.6052453,
-          46.9959619
+          8.6051842,
+          46.9960237
         ],
         [
           8.605167,

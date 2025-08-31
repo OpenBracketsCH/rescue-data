@@ -12781,62 +12781,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/155725645",
-  "properties": {
-    "addr:housenumber": "8",
-    "addr:postcode": "8134",
-    "addr:street": "Feldweg",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Feldweg",
-    "id": "way/155725645"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5302438,
-          47.3121547
-        ],
-        [
-          8.5302568,
-          47.3121332
-        ],
-        [
-          8.530238,
-          47.3121274
-        ],
-        [
-          8.5302878,
-          47.3120424
-        ],
-        [
-          8.5306353,
-          47.3121375
-        ],
-        [
-          8.5306186,
-          47.3121647
-        ],
-        [
-          8.5305911,
-          47.3121577
-        ],
-        [
-          8.5305445,
-          47.3122364
-        ],
-        [
-          8.5302438,
-          47.3121547
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/156093300",
   "properties": {
     "addr:city": "Uitikon Waldegg",
@@ -32891,6 +32835,46 @@
 },
 {
   "type": "Feature",
+  "id": "way/1426110591",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Feldweg",
+    "id": "way/1426110591"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5307041,
+          47.3121054
+        ],
+        [
+          8.5305745,
+          47.3123217
+        ],
+        [
+          8.5300712,
+          47.312185
+        ],
+        [
+          8.5302104,
+          47.3119339
+        ],
+        [
+          8.5304213,
+          47.3120039
+        ],
+        [
+          8.5307041,
+          47.3121054
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
@@ -40094,8 +40078,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4873129,
-      47.3736141
+      8.4886825,
+      47.3739907
     ]
   }
 },
@@ -40118,8 +40102,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4875837,
-      47.3737884
+      8.4884534,
+      47.3740062
     ]
   }
 },

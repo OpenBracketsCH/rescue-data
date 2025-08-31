@@ -11505,8 +11505,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4878154,
-      47.3738495
+      8.4885485,
+      47.3738871
     ]
   }
 },
@@ -16059,6 +16059,22 @@
     "coordinates": [
       8.7138367,
       47.1975775
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13108174932",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kita Seegarten",
+    "id": "node/13108174932"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7127155,
+      47.3551208
     ]
   }
 }

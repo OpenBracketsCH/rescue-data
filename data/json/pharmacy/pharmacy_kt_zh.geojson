@@ -4069,7 +4069,7 @@
   "type": "Feature",
   "id": "node/2468322528",
   "properties": {
-    "addr:city": "Wald (ZH)",
+    "addr:city": "Wald ZH",
     "addr:country": "CH",
     "addr:housenumber": "21",
     "addr:postcode": "8636",

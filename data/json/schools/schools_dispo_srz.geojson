@@ -17035,16 +17035,20 @@
           47.3132487
         ],
         [
-          8.5279382,
-          47.3127172
+          8.5279042,
+          47.3126977
         ],
         [
-          8.52816,
-          47.3126341
+          8.5279839,
+          47.3126839
         ],
         [
-          8.5283341,
-          47.3126852
+          8.5281597,
+          47.3126165
+        ],
+        [
+          8.5283462,
+          47.3126903
         ],
         [
           8.5294046,
@@ -68403,7 +68407,7 @@
   "type": "Feature",
   "id": "way/226338653",
   "properties": {
-    "addr:city": "Wald",
+    "addr:city": "Wald ZH",
     "addr:housenumber": "7",
     "addr:postcode": "8636",
     "addr:street": "Burgstrasse",
@@ -68612,7 +68616,7 @@
   "type": "Feature",
   "id": "way/226338914",
   "properties": {
-    "addr:city": "Wald (ZH)",
+    "addr:city": "Wald ZH",
     "addr:housenumber": "35",
     "addr:postcode": "8636",
     "addr:street": "Hüeblistrasse",
@@ -68680,7 +68684,7 @@
   "type": "Feature",
   "id": "way/226346463",
   "properties": {
-    "addr:city": "Wald",
+    "addr:city": "Wald ZH",
     "addr:housenumber": "7.1",
     "addr:postcode": "8636",
     "addr:street": "Burgstrasse",
@@ -105167,6 +105171,10 @@
         [
           8.4886391,
           47.3728242
+        ],
+        [
+          8.4886209,
+          47.3730248
         ],
         [
           8.4886179,

@@ -2949,7 +2949,7 @@
   "type": "Feature",
   "id": "node/8510286119",
   "properties": {
-    "addr:city": "Wald (ZH)",
+    "addr:city": "Wald ZH",
     "addr:housenumber": "31",
     "addr:postcode": "8636",
     "addr:street": "Bachtelstrasse",
