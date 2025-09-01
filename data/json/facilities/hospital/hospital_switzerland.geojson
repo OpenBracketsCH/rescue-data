@@ -40078,8 +40078,16 @@
           47.5805027
         ],
         [
-          8.218039,
-          47.5810147
+          8.2181379,
+          47.5812592
+        ],
+        [
+          8.2178128,
+          47.5813022
+        ],
+        [
+          8.2177115,
+          47.5810655
         ],
         [
           8.217532,
@@ -58568,6 +58576,33 @@
     "coordinates": [
       8.0082671,
       47.3970051
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13110853724",
+  "properties": {
+    "addr:city": "Basel",
+    "addr:housenumber": "2",
+    "addr:postcode": "4051",
+    "addr:street": "Schifflände",
+    "amenity": "clinic",
+    "check_date": "2025-08-31",
+    "contact:instagram": "https://www.instagram.com/betterview_/",
+    "healthcare": "yes",
+    "healthcare:speciality": "ophthalmology",
+    "name": "Betterview Basel",
+    "opening_hours": "Mo off; Tu 08:00-17:00; We-Fr 09:00-19:00; Sa 09:00-17:00; PH off",
+    "phone": "+41 61 588 04 09",
+    "website": "https://betterview.ch/de/standorte/basel/",
+    "id": "node/13110853724"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5881799,
+      47.5596656
     ]
   }
 }
