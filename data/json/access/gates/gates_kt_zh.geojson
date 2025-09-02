@@ -9265,7 +9265,8 @@
   "id": "node/658618476",
   "properties": {
     "barrier": "gate",
-    "entrance": "garage",
+    "door": "sliding",
+    "entrance": "service",
     "id": "node/658618476"
   },
   "geometry": {
@@ -90476,6 +90477,22 @@
     "coordinates": [
       8.4746652,
       47.3827221
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13112643031",
+  "properties": {
+    "barrier": "gate",
+    "gate:type": "sliding",
+    "id": "node/13112643031"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4291723,
+      47.4017075
     ]
   }
 }
