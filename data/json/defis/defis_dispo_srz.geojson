@@ -5811,25 +5811,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7579637111",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Eingang Trakt A",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "opening_hours": "24/7",
-    "id": "node/7579637111"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5183552,
-      47.1990259
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7579637112",
   "properties": {
     "access": "yes",
@@ -5882,26 +5863,6 @@
     "coordinates": [
       8.5262145,
       47.1909208
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7579637116",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Beim neun Schulhaus",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "id": "node/7579637116"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5241656,
-      47.1923721
     ]
   }
 },
@@ -93206,6 +93167,100 @@
     "coordinates": [
       8.5157911,
       47.1888362
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13114487401",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Ruggenacher 1, Eingang Turnhalle, Trakt B",
+    "description": "Aussenstandort, frei zugäglich.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Regensdorf",
+    "phone": "+41 043 343 84 33",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/13114487401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.465808,
+      47.4343544
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13114604901",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Restaurant",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Golfpark Holzhäusern",
+    "phone": "+41 58 568 07 00",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/13114604901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4422743,
+      47.1497718
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13114626701",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Feuerwehrdepot bei Eingang",
+    "description": "jederzeit zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Einwohnergemeinde Baar",
+    "phone": "+41417690111",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/13114626701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5290854,
+      47.195515
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13115097502",
+  "properties": {
+    "defibrillator:location": "Praxis Gefässmedizin Seefeld",
+    "description": "während Öffnungszeiten vergügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Dr. Martina Schaefle",
+    "phone": "+41442612675",
+    "id": "node/13115097502"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5508327,
+      47.3622909
     ]
   }
 }
