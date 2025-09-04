@@ -40002,6 +40002,7 @@
     "addr:postcode": "8406",
     "addr:street": "Eichliackerstrasse",
     "amenity": "kindergarten",
+    "check_date": "2025-09-03",
     "name": "Betreuung Eichliacker am Gleis",
     "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
     "id": "node/4122641594"
@@ -40023,7 +40024,7 @@
     "addr:postcode": "8406",
     "addr:street": "Zelglistrasse",
     "amenity": "kindergarten",
-    "check_date": "2023-07-24",
+    "check_date": "2025-09-03",
     "name": "Betreuung Zelglistrasse",
     "operator": "Primarschule Töss, Schulkreis Stadt-Töss",
     "id": "node/4122641595"

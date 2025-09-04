@@ -35247,6 +35247,30 @@
 },
 {
   "type": "Feature",
+  "id": "node/2986701373",
+  "properties": {
+    "access": "private",
+    "addr:city": "Zug",
+    "addr:housenumber": "17",
+    "addr:postcode": "6300",
+    "addr:street": "Grienbachstrasse",
+    "barrier": "gate",
+    "check_date": "2023-04-26",
+    "name": "Büro AG",
+    "office": "company",
+    "website": "https://www.buero-ag.ch/",
+    "id": "node/2986701373"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5195638,
+      47.1796666
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3002724900",
   "properties": {
     "barrier": "gate",
@@ -54071,22 +54095,6 @@
     "coordinates": [
       8.5204939,
       47.1811458
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5943904797",
-  "properties": {
-    "access": "private",
-    "barrier": "gate",
-    "id": "node/5943904797"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5195638,
-      47.1796666
     ]
   }
 },
@@ -104775,6 +104783,40 @@
     "coordinates": [
       8.4291723,
       47.4017075
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13115824745",
+  "properties": {
+    "barrier": "gate",
+    "foot": "yes",
+    "id": "node/13115824745"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5368068,
+      47.1693775
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13116129430",
+  "properties": {
+    "barrier": "gate",
+    "bicycle": "dismount",
+    "foot": "yes",
+    "locked": "no",
+    "id": "node/13116129430"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5361655,
+      47.1691963
     ]
   }
 }

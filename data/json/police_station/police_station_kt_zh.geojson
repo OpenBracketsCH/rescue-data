@@ -2284,22 +2284,22 @@
   "id": "node/3441082572",
   "properties": {
     "addr:city": "Bonstetten",
-    "addr:housenumber": "1",
+    "addr:housenumber": "8",
     "addr:postcode": "8906",
-    "addr:street": "Burgwies",
+    "addr:street": "Heumattstrasse",
     "amenity": "police",
     "name": "Polizeiposten Bonstetten",
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",
     "operator:wikipedia": "de:Kantonspolizei Zürich",
-    "phone": "+41 44 701 81 50",
+    "phone": "+41 58 648 66 20",
     "id": "node/3441082572"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4684135,
-      47.3152546
+      8.4680887,
+      47.3228906
     ]
   }
 },
