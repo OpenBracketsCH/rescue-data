@@ -20586,6 +20586,7 @@
   "id": "way/264487884",
   "properties": {
     "amenity": "hospital",
+    "building": "hospital",
     "healthcare": "hospital",
     "name": "Institut für Pathologie Universitätsspital Basel",
     "opening_hours": "Mo-Fr 07:00-17:00",
@@ -58521,6 +58522,27 @@
     "coordinates": [
       7.5881799,
       47.5596656
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13119519091",
+  "properties": {
+    "addr:city": "Meyrin",
+    "addr:housenumber": "284",
+    "addr:postcode": "1217",
+    "addr:street": "Route de Meyrin",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Clinique Milaena de Meyrin",
+    "id": "node/13119519091"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0718809,
+      46.2290691
     ]
   }
 }

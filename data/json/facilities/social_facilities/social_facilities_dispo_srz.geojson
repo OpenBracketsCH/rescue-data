@@ -9437,6 +9437,7 @@
     "alt_name": "Alterszentrum Herzogenmühle",
     "amenity": "social_facility",
     "building": "residential",
+    "building:levels": "5",
     "capacity": "70+5",
     "email": "asz-herzogenmuehle@zuerich.ch",
     "name": "Gesundheitszentrum für das Alter Herzogenmühle",
@@ -9519,6 +9520,10 @@
         [
           8.5735543,
           47.40701
+        ],
+        [
+          8.5736404,
+          47.4069869
         ],
         [
           8.5736875,
