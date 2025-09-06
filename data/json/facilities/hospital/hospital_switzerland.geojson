@@ -29496,12 +29496,12 @@
           47.3806657
         ],
         [
-          8.5489119,
-          47.3806413
+          8.5489268,
+          47.3806389
         ],
         [
-          8.5486719,
-          47.3805579
+          8.5486746,
+          47.3805562
         ],
         [
           8.548433,
@@ -52570,6 +52570,7 @@
     "operator": "Privatklinik Meiringen AG",
     "operator:type": "private",
     "website": "https://www.privatklinik-meiringen.ch/",
+    "wikidata": "Q1569628",
     "id": "node/5185924555"
   },
   "geometry": {
