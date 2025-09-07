@@ -45203,7 +45203,7 @@
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "merge_to_right|slight_left|sligh_left;slight_right|slight_right",
+    "turn:lanes": "merge_to_right|slight_left|slight_left;slight_right|slight_right",
     "id": "way/194211721"
   },
   "geometry": {

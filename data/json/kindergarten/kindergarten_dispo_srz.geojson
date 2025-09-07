@@ -37936,7 +37936,7 @@
     "addr:postcode": "8406",
     "addr:street": "Rebwiesenstrasse",
     "amenity": "kindergarten",
-    "check_date": "2023-07-23",
+    "check_date": "2025-09-06",
     "name": "Betreuung Rebwiesen",
     "id": "node/673782757"
   },
@@ -38189,7 +38189,7 @@
     "addr:postcode": "8406",
     "addr:street": "Schlosstalstrasse",
     "amenity": "kindergarten",
-    "check_date": "2023-08-02",
+    "check_date": "2025-09-06",
     "name": "Kindergarten Schlosstalstrasse",
     "operator": "Stadt Winterthur",
     "operator:type": "public",

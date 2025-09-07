@@ -58032,6 +58032,7 @@
     "addr:housenumber": "63",
     "addr:street": "Gasstrasse",
     "amenity": "clinic",
+    "healthcare": "clinic",
     "name": "Kinderarztpraxis Davidsboden",
     "website": "http://praxisdavidsboden.ch",
     "id": "node/12843923502"
