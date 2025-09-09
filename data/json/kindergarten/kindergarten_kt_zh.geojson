@@ -9805,6 +9805,7 @@
     "addr:street": "Zürcherstrasse",
     "amenity": "kindergarten",
     "building": "yes",
+    "check_date": "2025-09-08",
     "name": "Turnhalle im Moos",
     "website": "https://www.schlieren.ch/sehenswuerdigkeiten/24457",
     "id": "way/116472521"
@@ -9866,6 +9867,7 @@
     "addr:street": "Zürcherstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2025-09-08",
     "name": "Kindergarten im Moos 1+2",
     "id": "way/116472523"
   },

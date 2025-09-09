@@ -93292,6 +93292,75 @@
       47.2005882
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13127602102",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Bildungszentrum Jungholz, im Eingangsbereich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "phone": "+41442001900",
+    "id": "node/13127602102"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5438112,
+      47.4154788
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13128045602",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Parkalle, Ottos",
+    "description": "während Öffnungszeiten geöffnet. befindet sich bei den Kassen von Ottos",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 9:00-20:00",
+    "operator": "ottos.ch",
+    "phone": "+41448623470",
+    "id": "node/13128045602"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5429054,
+      47.5048135
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13128045802",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Einkaufzentrum Parkalle, neben notausgang im Lidl",
+    "description": "Während öffnungszeiten verfügbar (im Lidl neben Notausgang)",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 7:30-20:00",
+    "operator": "lidl.ch",
+    "phone": "+41715880510",
+    "id": "node/13128045802"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5422113,
+      47.5043229
+    ]
+  }
 }
 ]
 }
