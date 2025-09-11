@@ -12481,7 +12481,6 @@
   "id": "way/1074256792",
   "properties": {
     "aeroway": "helipad",
-    "emergency": "landing_site",
     "id": "way/1074256792"
   },
   "geometry": {

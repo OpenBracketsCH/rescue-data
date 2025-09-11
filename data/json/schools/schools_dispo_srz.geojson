@@ -39330,6 +39330,10 @@
           47.4042254
         ],
         [
+          8.564947,
+          47.4041687
+        ],
+        [
           8.5648718,
           47.4039505
         ]
@@ -128733,6 +128737,31 @@
     "coordinates": [
       8.5144123,
       47.0997854
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6632922659",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:housenumber": "68",
+    "contact:phone": "+41 44 413 21 50",
+    "contact:postcode": "8004",
+    "contact:street": "Hohlstrasse",
+    "contact:website": "https://www.kuszh.ch/",
+    "isced:level": "2",
+    "name": "Kunst- & Sportschule Zürich",
+    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Aussersihl",
+    "operator:type": "public",
+    "id": "node/6632922659"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5247543,
+      47.3783289
     ]
   }
 },

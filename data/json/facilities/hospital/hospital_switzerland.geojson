@@ -16384,8 +16384,11 @@
   "id": "way/194101694",
   "properties": {
     "building": "hospital",
+    "building:levels": "10",
     "healthcare": "hospital",
     "name": "Luzerner Kantonsspital Sursee",
+    "roof:levels": "0",
+    "roof:shape": "flat",
     "wheelchair": "yes",
     "id": "way/194101694"
   },

@@ -1531,7 +1531,11 @@
     "addr:street": "Frohburgstrasse",
     "amenity": "childcare",
     "building": "yes",
+    "building:levels": "2",
     "name": "kihz Tierspital",
+    "roof:colour": "#765",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
     "website": "https://www.kihz.uzh.ch/de/kitas/kihz-tierspital.html",
     "id": "way/113820364"
   },
@@ -1544,8 +1548,20 @@
           47.3995546
         ],
         [
+          8.5529857,
+          47.3996171
+        ],
+        [
           8.5529889,
           47.3996206
+        ],
+        [
+          8.552963,
+          47.3996315
+        ],
+        [
+          8.5528752,
+          47.3996683
         ],
         [
           8.5528311,
@@ -1554,6 +1570,18 @@
         [
           8.5527708,
           47.3996208
+        ],
+        [
+          8.5527812,
+          47.3996164
+        ],
+        [
+          8.5528175,
+          47.3996012
+        ],
+        [
+          8.5529039,
+          47.399565
         ],
         [
           8.5529286,

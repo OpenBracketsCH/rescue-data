@@ -2741,7 +2741,7 @@
   "id": "node/6976938392",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Gemeindeverwaltung beim Eingang",
+    "defibrillator:location": "Gemeindeverwaltung im Zwischengang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -2753,8 +2753,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8301939,
-      47.1917017
+      8.8301169,
+      47.1917053
     ]
   }
 },
@@ -13767,7 +13767,7 @@
   "id": "node/7977202585",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Beim Eingang Feuerwehr",
+    "defibrillator:location": "Beim Eingang Turnhalle",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -22563,14 +22563,12 @@
   "type": "Feature",
   "id": "node/8571598717",
   "properties": {
-    "access": "yes",
     "defibrillator:location": "Jumbo, nach Eingang links an der Wand",
-    "description": "währen Öffnungszeit verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-We 08:30-20:00; Th-Fr 08:40-21:00; Sa 08:00-20:00",
+    "opening_hours": "Mo-Fr 08:30-20:00, Sa 08:00-20:00; PH off",
     "operator": "Jumbo-Markt AG",
     "phone": "+848 11 33 11",
     "wheelchair": "yes",
@@ -34731,20 +34729,19 @@
   "id": "node/9399627917",
   "properties": {
     "defibrillator:location": "Bildungszentrum",
-    "description": "währen Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "24/7",
-    "operator": "Bildungsbetrib",
-    "phone": "0448019028",
+    "operator": "Schweizerischer Fachverband Betriebsunterhalt",
+    "phone": "+41 44 801 90 28",
     "id": "node/9399627917"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6689055,
-      47.7182938
+      8.6246398,
+      47.4165688
     ]
   }
 },
@@ -40785,8 +40782,8 @@
   "id": "node/9855954517",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Schulhaus Burggasse ",
-    "description": "Eingang rechts, während Schulbetrieb ",
+    "defibrillator:location": "Schulhaus Burggasse",
+    "description": "Eingang rechts vor Treppe, während Schulbetrieb",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -40796,8 +40793,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8321472,
-      47.1912884
+      8.8323382,
+      47.1915564
     ]
   }
 },
@@ -67090,14 +67087,11 @@
   "id": "node/11505926769",
   "properties": {
     "defibrillator:location": "Eingangsbereich Gynpraxis",
-    "description": "währen der Öffnungszeiten der Praxis zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo, Tu, Th, Fr 08:00-16:00; We 08:00-12:00",
-    "operator": "Firma",
-    "source": "local_knowledge, defikarte.ch",
+    "opening_hours": "Mo,Tu,Th,Fr 08:00-16:00; We 08:00-12:00",
     "id": "node/11505926769"
   },
   "geometry": {
@@ -69302,21 +69296,18 @@
   "type": "Feature",
   "id": "node/11669984569",
   "properties": {
-    "defibrillator:location": "Ottos",
-    "description": "nur währen den Öffnunzeiten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo - Sa 9:00 -18:00",
-    "operator": "Ottos",
-    "source": "local_knowledge, defikarte.ch",
+    "opening_hours": "Mo-Fr 09:00-18:30; Sa 08:00-16:00",
+    "operator": "Otto's",
     "id": "node/11669984569"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7506694,
-      47.1428871
+      8.7506547,
+      47.1429035
     ]
   }
 },
@@ -71628,14 +71619,12 @@
   "id": "node/11795066069",
   "properties": {
     "defibrillator:location": "Eingang Empfang neben den Toiletten",
-    "description": "Währen den Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:30-12:00,13:00-17:00",
     "operator": "Heusser Water Solutions AG",
     "phone": "+41 41 747 22 00",
-    "source": "local_knowledge, defikarte.ch",
     "id": "node/11795066069"
   },
   "geometry": {
@@ -75171,12 +75160,10 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Treppenhaus Erdgeschoss geradeaus an Wand in Halterung",
-    "description": "nur währen Öffnundszeit",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "opening_hours": "Mo-Fr 08:00 - 18:00 ",
-    "source": "local_knowledge, defikarte.ch",
+    "opening_hours": "Mo-Fr 08:00-18:00",
     "id": "node/11937332269"
   },
   "geometry": {
@@ -87114,21 +87101,19 @@
   "properties": {
     "access": "private",
     "defibrillator:location": "Messerli AG",
-    "description": "währen der Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "2",
-    "operator": "Messerli AG Firma",
+    "operator": "Messerli AG",
     "phone": "+41 439 31 43 43",
-    "source": "local_knowledge, defikarte.ch",
     "id": "node/12640379701"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.792603,
-      47.3320461
+      8.801759,
+      47.3323088
     ]
   }
 },
@@ -93382,6 +93367,71 @@
     "coordinates": [
       8.5399926,
       47.3766515
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13132412901",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Turnhalle Threepoint Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Primarschule Dübendorf",
+    "phone": "+4144 801 69 24",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/13132412901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6004066,
+      47.3969548
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13132798901",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Schulhaus Bullinger, Haupteingang linke Seite",
+    "description": "während Öffnungszeiten verfügbar, Schulferien geschlossen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:00 - 16:30",
+    "operator": "Stadt Zürich Fachschule Viventa",
+    "phone": "+41444135000",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/13132798901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5106653,
+      47.3815451
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13135227866",
+  "properties": {
+    "defibrillator:location": "Wall mounted",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "id": "node/13135227866"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7265438,
+      47.4955158
     ]
   }
 }

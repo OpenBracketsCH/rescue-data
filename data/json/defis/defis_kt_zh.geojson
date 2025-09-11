@@ -14399,14 +14399,12 @@
   "type": "Feature",
   "id": "node/8571598717",
   "properties": {
-    "access": "yes",
     "defibrillator:location": "Jumbo, nach Eingang links an der Wand",
-    "description": "währen Öffnungszeit verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-We 08:30-20:00; Th-Fr 08:40-21:00; Sa 08:00-20:00",
+    "opening_hours": "Mo-Fr 08:30-20:00, Sa 08:00-20:00; PH off",
     "operator": "Jumbo-Markt AG",
     "phone": "+848 11 33 11",
     "wheelchair": "yes",
@@ -24736,6 +24734,27 @@
     "coordinates": [
       8.5875944,
       47.4007355
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9399627917",
+  "properties": {
+    "defibrillator:location": "Bildungszentrum",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Schweizerischer Fachverband Betriebsunterhalt",
+    "phone": "+41 44 801 90 28",
+    "id": "node/9399627917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6246398,
+      47.4165688
     ]
   }
 },
@@ -50754,14 +50773,11 @@
   "id": "node/11505926769",
   "properties": {
     "defibrillator:location": "Eingangsbereich Gynpraxis",
-    "description": "währen der Öffnungszeiten der Praxis zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo, Tu, Th, Fr 08:00-16:00; We 08:00-12:00",
-    "operator": "Firma",
-    "source": "local_knowledge, defikarte.ch",
+    "opening_hours": "Mo,Tu,Th,Fr 08:00-16:00; We 08:00-12:00",
     "id": "node/11505926769"
   },
   "geometry": {
@@ -57205,12 +57221,10 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Treppenhaus Erdgeschoss geradeaus an Wand in Halterung",
-    "description": "nur währen Öffnundszeit",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "opening_hours": "Mo-Fr 08:00 - 18:00 ",
-    "source": "local_knowledge, defikarte.ch",
+    "opening_hours": "Mo-Fr 08:00-18:00",
     "id": "node/11937332269"
   },
   "geometry": {
@@ -67636,21 +67650,19 @@
   "properties": {
     "access": "private",
     "defibrillator:location": "Messerli AG",
-    "description": "währen der Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "2",
-    "operator": "Messerli AG Firma",
+    "operator": "Messerli AG",
     "phone": "+41 439 31 43 43",
-    "source": "local_knowledge, defikarte.ch",
     "id": "node/12640379701"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.792603,
-      47.3320461
+      8.801759,
+      47.3323088
     ]
   }
 },
@@ -72632,6 +72644,71 @@
     "coordinates": [
       8.5399926,
       47.3766515
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13132412901",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Turnhalle Threepoint Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Primarschule Dübendorf",
+    "phone": "+4144 801 69 24",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/13132412901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6004066,
+      47.3969548
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13132798901",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Schulhaus Bullinger, Haupteingang linke Seite",
+    "description": "während Öffnungszeiten verfügbar, Schulferien geschlossen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:00 - 16:30",
+    "operator": "Stadt Zürich Fachschule Viventa",
+    "phone": "+41444135000",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/13132798901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5106653,
+      47.3815451
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13135227866",
+  "properties": {
+    "defibrillator:location": "Wall mounted",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "id": "node/13135227866"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7265438,
+      47.4955158
     ]
   }
 }
