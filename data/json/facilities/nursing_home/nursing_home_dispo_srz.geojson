@@ -18736,6 +18736,7 @@
     "addr:street": "Bahnhofstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2025-09-11",
     "name": "Aussenwohngruppe Bahnhofstrasse",
     "operator": "Ilgenpark",
     "short_name": "AWG Bahnhofstrasse",

@@ -9809,6 +9809,29 @@
 },
 {
   "type": "Feature",
+  "id": "node/9210087228",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "50",
+    "contact:phone": "+41 44 413 26 60",
+    "contact:postcode": "8046",
+    "contact:street": "Blumenfeldstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/blumenfeld/betreuung/standorte.html",
+    "isced:level": "0",
+    "name": "Blumenfeld Morgen-Mittag-Abendhort",
+    "id": "node/9210087228"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5043234,
+      47.4231322
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9220545781",
   "properties": {
     "amenity": "childcare",
@@ -12907,6 +12930,7 @@
   "id": "node/9534319413",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-09-04",
     "contact:city": "Zürich",
     "contact:housenumber": "19",
     "contact:phone": "+41 44 413 73 03",
