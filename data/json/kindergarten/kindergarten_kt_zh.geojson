@@ -37396,7 +37396,8 @@
   "id": "node/6631567473",
   "properties": {
     "amenity": "kindergarten",
-    "name": "Mittaghort Altweg 3",
+    "check_date": "2025-08-23",
+    "name": "Hort Altweg 3",
     "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
     "id": "node/6631567473"
   },

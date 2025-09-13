@@ -15681,6 +15681,7 @@
     "building": "school",
     "building:colour": "lightgray",
     "building:levels": "4",
+    "check_date": "2025-09-12",
     "height": "16",
     "name": "Schulhaus Kirchacker",
     "roof:colour": "brown",
@@ -15689,7 +15690,6 @@
     "roof:orientation": "along",
     "roof:shape": "hipped",
     "start_date": "1898",
-    "survey:date": "2014-12-21",
     "id": "way/36780842"
   },
   "geometry": {

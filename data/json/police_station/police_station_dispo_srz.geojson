@@ -1505,6 +1505,7 @@
     "addr:postcode": "8212",
     "addr:street": "Rheingoldstrasse",
     "amenity": "police",
+    "check_date": "2025-09-12",
     "fax": "+41 52 632 89 39",
     "name": "Polizeistation Neuhausen am Rheinfall",
     "opening_hours": "Mo 07:00-11:30,13:45-17:00; Tu,We,Fr 13:45-17:00; Th 13:45-18:00",
