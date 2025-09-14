@@ -32889,6 +32889,7 @@
     "oa:lon": "6.63567781",
     "oa:version": "oa2osm - 0.2 - sax",
     "source": "Orthophotos Ville de Lausanne 2008",
+    "wheelchair": "yes",
     "id": "way/675163485"
   },
   "geometry": {
