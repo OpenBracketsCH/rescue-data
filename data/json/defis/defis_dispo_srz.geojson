@@ -8785,6 +8785,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
+    "opening_hours": "Mo-Su 08:00-21:00",
     "operator": "Feuerwehr Hinwil",
     "phone": "+41 44 938 56 60",
     "id": "node/7667107736"
@@ -42780,8 +42781,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4095728,
-      47.3744835
+      8.4096715,
+      47.3744923
     ]
   }
 },
@@ -93454,6 +93455,29 @@
     "coordinates": [
       8.5485531,
       47.3666884
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13142750001",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "offene Garage Moser Uhren",
+    "description": "immer frei zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "IG Rundbuck",
+    "id": "node/13142750001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6025627,
+      47.6758389
     ]
   }
 }
