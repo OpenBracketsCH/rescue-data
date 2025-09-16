@@ -652,6 +652,7 @@
     "addr:street": "Forchstrasse",
     "amenity": "pharmacy",
     "check_date": "2024-03-03",
+    "healthcare": "pharmacy",
     "name": "Hirslanden-Apotheke",
     "opening_hours": "Mo-Fr 07:45-18:30; Sa 07:45-16:00",
     "operator": "Dr. rer. nat. Karl-Rudolf Reichenbach",
