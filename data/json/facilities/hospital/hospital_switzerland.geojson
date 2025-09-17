@@ -44676,6 +44676,10 @@
           46.9686295
         ],
         [
+          7.486981,
+          46.9690439
+        ],
+        [
           7.4868988,
           46.9691618
         ],
@@ -44710,6 +44714,10 @@
         [
           7.4866137,
           46.9698312
+        ],
+        [
+          7.4864868,
+          46.969804
         ],
         [
           7.4855656,
@@ -58553,6 +58561,44 @@
     "coordinates": [
       6.0718809,
       46.2290691
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13146462317",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Artemis",
+    "id": "node/13146462317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0714043,
+      46.2282098
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13146847088",
+  "properties": {
+    "addr:city": "Malleray",
+    "addr:housenumber": "37",
+    "addr:postcode": "2735",
+    "addr:street": "Grand-Rue",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Médicentre Valbirse",
+    "id": "node/13146847088"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2728945,
+      47.2382581
     ]
   }
 }
