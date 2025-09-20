@@ -6274,65 +6274,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/81898336",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "81",
-    "addr:postcode": "8406",
-    "addr:street": "Neumühlestrasse",
-    "amenity": "kindergarten",
-    "building": "school",
-    "name": "Kindergarten Auwiesen",
-    "operator": "Stadt Winterthur",
-    "operator:type": "public",
-    "id": "way/81898336"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7086047,
-          47.4831717
-        ],
-        [
-          8.7084968,
-          47.483082
-        ],
-        [
-          8.7086106,
-          47.483019
-        ],
-        [
-          8.7087431,
-          47.4831271
-        ],
-        [
-          8.7087295,
-          47.483136
-        ],
-        [
-          8.708738,
-          47.4832167
-        ],
-        [
-          8.708628,
-          47.4832228
-        ],
-        [
-          8.708611,
-          47.4832234
-        ],
-        [
-          8.7086047,
-          47.4831717
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/83119476",
   "properties": {
     "addr:city": "Thalwil",
@@ -37483,6 +37424,44 @@
         [
           8.7178867,
           47.3546543
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1431138653",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Auwiesen",
+    "operator": "Stadt Winterthur",
+    "operator:type": "government",
+    "id": "way/1431138653"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7082691,
+          47.4832461
+        ],
+        [
+          8.7084556,
+          47.4829062
+        ],
+        [
+          8.7088006,
+          47.4831614
+        ],
+        [
+          8.708806,
+          47.4832118
+        ],
+        [
+          8.7082691,
+          47.4832461
         ]
       ]
     ]
