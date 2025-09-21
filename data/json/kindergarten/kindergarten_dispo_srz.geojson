@@ -37469,6 +37469,55 @@
 },
 {
   "type": "Feature",
+  "id": "way/1431566562",
+  "properties": {
+    "amenity": "kindergarten",
+    "operator": "Stadt Zürich",
+    "operator:type": "government",
+    "id": "way/1431566562"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5582801,
+          47.4169789
+        ],
+        [
+          8.5582123,
+          47.4169625
+        ],
+        [
+          8.5582798,
+          47.4168349
+        ],
+        [
+          8.5583066,
+          47.4167841
+        ],
+        [
+          8.5589207,
+          47.4169327
+        ],
+        [
+          8.5588261,
+          47.4171117
+        ],
+        [
+          8.5586942,
+          47.4170798
+        ],
+        [
+          8.5582801,
+          47.4169789
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",

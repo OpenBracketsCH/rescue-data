@@ -16330,6 +16330,7 @@
   "id": "node/1185778206",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "2.5",
     "id": "node/1185778206"
   },
   "geometry": {
@@ -105039,6 +105040,25 @@
     "coordinates": [
       8.4199154,
       47.3635734
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13158565098",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "foot": "private",
+    "locked": "yes",
+    "material": "wood",
+    "id": "node/13158565098"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5582798,
+      47.4168349
     ]
   }
 }
