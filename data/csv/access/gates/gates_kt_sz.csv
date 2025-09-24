@@ -453,3 +453,4 @@ FeatureCollection,"{'type': 'Feature', 'id': 'node/12992138932', 'properties': {
 FeatureCollection,"{'type': 'Feature', 'id': 'node/13014126971', 'properties': {'barrier': 'gate', 'id': 'node/13014126971'}, 'geometry': {'type': 'Point', 'coordinates': [8.4646963, 47.0682037]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/13020083230', 'properties': {'barrier': 'lift_gate', 'id': 'node/13020083230'}, 'geometry': {'type': 'Point', 'coordinates': [8.5489546, 47.0418056]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/13035170886', 'properties': {'access': 'no', 'barrier': 'gate', 'description': 'Hole like opening in fence in 1m height', 'foot': 'yes', 'id': 'node/13035170886'}, 'geometry': {'type': 'Point', 'coordinates': [8.635949, 47.01603]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/13161534890', 'properties': {'barrier': 'gate', 'id': 'node/13161534890'}, 'geometry': {'type': 'Point', 'coordinates': [8.5580424, 47.0542931]}}"
