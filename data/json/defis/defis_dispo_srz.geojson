@@ -61720,7 +61720,6 @@
     "access": "yes",
     "addr:housenumber": "16",
     "addr:street": "Matten",
-    "defibrillator:location": "Eingang / Hochparterre. Schulhaus Matten 1429LTS",
     "description": "Grüner Kasten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -61736,8 +61735,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4126853,
-      47.1976674
+      8.4123444,
+      47.1975278
     ]
   }
 },
@@ -92943,7 +92942,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-Su 07:00-21:00",
+    "opening_hours": "Mo-Su 08:00-17:00",
     "operator": "Stiftung Solvita",
     "phone": "+41 79 279 88 11",
     "source": "local_knowledge, defikarte.ch",
@@ -93758,6 +93757,125 @@
     "coordinates": [
       8.8566113,
       47.2889234
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13165134801",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "2. Stock, vor dem Eingang zur Reist Telecom AG",
+    "description": "Open from 06:00 am to 06:00 pm",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2",
+    "opening_hours": "Mo-Fr 06:00-18:00",
+    "operator": "Reist Telecom AG",
+    "phone": "+41 44 567 0777",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/13165134801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4779584,
+      47.1890307
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13167011001",
+  "properties": {
+    "defibrillator:location": "Schulhaus Dorfmatt A Bei Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Einwohnergemeinde Baar",
+    "phone": "+41417690111",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/13167011001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5262328,
+      47.1934891
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13167015001",
+  "properties": {
+    "defibrillator:location": "Schulhaus Sternmatt 2",
+    "description": "Bei Eingang Schulhaus rechts an der Wand",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Einwohnergemeinde Baar",
+    "phone": "+41417690111",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/13167015001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5262811,
+      47.1909629
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13167016701",
+  "properties": {
+    "defibrillator:location": "Schulhaus Inwil",
+    "description": "Bei Eingang zu Turnhalle neben Treppe",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Einwohnergemeinde Baar",
+    "phone": "+41417690111",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/13167016701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5348052,
+      47.1824647
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13167018801",
+  "properties": {
+    "defibrillator:location": "Schulhaus Allenwinden Bei Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Einwohnergemeinde Baar",
+    "phone": "+41417690111",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/13167018801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5565847,
+      47.1646801
     ]
   }
 }

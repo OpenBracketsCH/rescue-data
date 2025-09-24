@@ -49596,6 +49596,25 @@
       47.4973362
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13165970123",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Offene Jugendarbeit Wangen-Brüttisellen",
+    "social_facility": "outreach",
+    "social_facility:for": "juvenile",
+    "website": "https://www.ojawb.ch/",
+    "id": "node/13165970123"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6306164,
+      47.4222007
+    ]
+  }
 }
 ]
 }

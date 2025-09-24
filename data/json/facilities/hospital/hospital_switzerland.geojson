@@ -56764,8 +56764,10 @@
   "type": "Feature",
   "id": "node/11594926769",
   "properties": {
+    "check_date": "2025-09-23",
     "healthcare": "clinic",
     "name": "ALTIUS Swiss Sportmed Center AG",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00; Sa-Su off",
     "website": "https://www.altius.ag/",
     "id": "node/11594926769"
   },
