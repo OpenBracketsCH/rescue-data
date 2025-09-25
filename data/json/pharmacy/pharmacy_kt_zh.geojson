@@ -4318,7 +4318,9 @@
   "type": "Feature",
   "id": "node/2921525228",
   "properties": {
+    "addr:city": "Kilchberg ZH",
     "addr:housenumber": "1",
+    "addr:postcode": "8802",
     "addr:street": "Bahnhofstrasse",
     "amenity": "pharmacy",
     "check_date": "2025-05-26",

@@ -2930,24 +2930,24 @@
     "coordinates": [
       [
         [
-          8.4935674,
-          47.4986731
+          8.4936029,
+          47.4986831
         ],
         [
-          8.4936461,
-          47.4988455
+          8.4936828,
+          47.4988554
         ],
         [
-          8.4934435,
-          47.4988877
+          8.4934831,
+          47.4988977
         ],
         [
-          8.4933648,
-          47.4987153
+          8.4934031,
+          47.4987254
         ],
         [
-          8.4935674,
-          47.4986731
+          8.4936029,
+          47.4986831
         ]
       ]
     ]
@@ -6692,8 +6692,10 @@
     "addr:postcode": "8802",
     "addr:street": "Alte Landstrasse",
     "amenity": "fire_station",
+    "email": "info.feuerwehr@kilchberg.ch",
     "name": "Feuerwehr Kilchberg - Rüschlikon",
     "operator": "Sicherheitszweckverband Kilchberg - Rüschlikon",
+    "phone": "+41 44 716 31 62",
     "id": "node/11007183828"
   },
   "geometry": {

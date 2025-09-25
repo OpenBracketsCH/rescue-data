@@ -5791,26 +5791,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7579637110",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Bei der Turnhalle",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "id": "node/7579637110"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5344887,
-      47.1826725
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7579637112",
   "properties": {
     "access": "yes",
@@ -5845,25 +5825,6 @@
     "coordinates": [
       8.5305933,
       47.1995798
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7579637114",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Beim Haupteingang",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "opening_hours": "24/7",
-    "id": "node/7579637114"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5262145,
-      47.1909208
     ]
   }
 },
@@ -13007,7 +12968,7 @@
     "indoor": "no",
     "name": "Hallenbad Herti, bei der Badeaufsicht",
     "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
-    "phone": "+41 58 728 99 09",
+    "operator:email": "sicherheit@stadtzug.ch",
     "id": "node/7930654665"
   },
   "geometry": {
@@ -13440,7 +13401,7 @@
     "indoor": "yes",
     "opening_hours": "24/7",
     "operator": "Stadtverwaltung Zug,  Abteilung Sicherheit und Verkehr",
-    "phone": "+41 58 728 99 09",
+    "operator:email": "sicherheit@stadtzug.ch",
     "id": "node/7930677689"
   },
   "geometry": {
@@ -37040,7 +37001,8 @@
     "indoor": "yes",
     "opening_hours": "24/7",
     "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
-    "phone": "+41 58 728 99 09",
+    "operator:email": "sicherheit@stadtzug.ch",
+    "website": "https://www.stadtzug.ch/",
     "id": "node/9605130357"
   },
   "geometry": {
@@ -37048,25 +37010,6 @@
     "coordinates": [
       8.5109148,
       47.1821748
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9605130358",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "In der Sporthalle",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "id": "node/9605130358"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5083264,
-      47.1750919
     ]
   }
 },
@@ -74839,12 +74782,14 @@
   "type": "Feature",
   "id": "node/11917431969",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "vereinshaus",
+    "access": "yes",
+    "defibrillator:location": "Vereinshaus Gartenverein",
+    "email": "arealchef@gartenverein-herti.ch",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gartenverein Herti",
     "id": "node/11917431969"
   },
   "geometry": {
@@ -82982,8 +82927,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5202706,
-      47.1922688
+      8.5201988,
+      47.1923581
     ]
   }
 },
@@ -93827,8 +93772,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5262811,
-      47.1909629
+      8.5262103,
+      47.1909461
     ]
   }
 },

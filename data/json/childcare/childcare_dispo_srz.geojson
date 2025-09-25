@@ -1312,10 +1312,16 @@
     "addr:housenumber": "154",
     "addr:postcode": "8802",
     "addr:street": "Alte Landstrasse",
+    "alt_name": "Schwellenhüsli",
     "amenity": "childcare",
     "building": "yes",
+    "email": "kinderkrippe@kilchberg.ch",
     "name": "Kinderkrippe Kilchberg",
+    "operator": "Gemeinde Kilchberg",
+    "operator:type": "government",
+    "phone": "+41 44 716 33 13",
     "source": "local knowledge",
+    "website": "https://www.kilchberg.ch/themen/familie-partnerschaft-kinder-todesfall/betreuungs-und-begleitungsangebot-fuer-familien#section-868",
     "id": "way/99405686"
   },
   "geometry": {

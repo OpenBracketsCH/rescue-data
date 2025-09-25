@@ -216,12 +216,24 @@
           47.5215382
         ],
         [
-          8.5327925,
-          47.5213453
+          8.531905,
+          47.5213441
         ],
         [
-          8.532732,
-          47.5210144
+          8.5318689,
+          47.5212441
+        ],
+        [
+          8.5326979,
+          47.5210127
+        ],
+        [
+          8.532966,
+          47.5209715
+        ],
+        [
+          8.5335762,
+          47.5209242
         ],
         [
           8.5343774,
@@ -10681,13 +10693,19 @@
   "type": "Feature",
   "id": "node/10007195115",
   "properties": {
-    "addr:city": "Kilchberg (ZH)",
+    "addr:city": "Kilchberg ZH",
     "addr:housenumber": "2",
     "addr:postcode": "8802",
     "addr:street": "Bahnhofstrasse",
     "amenity": "clinic",
+    "check_date": "2025-09-24",
+    "check_date:opening_hours:drive_through": "2025-09-24",
+    "email": "info@dr-kochholch.ch",
+    "fax": "+41 43 277 60 01",
     "healthcare": "clinic",
     "name": "Dr. med. Annemarie Koch-Holch & Dr. med. James Koch",
+    "opening_hours": "Mo-Th 08:00-12:30,14:00-17:00; Fr 08:00-12:30",
+    "phone": "+41 43 277 60 00",
     "website": "https://dr-kochholch.ch/",
     "id": "node/10007195115"
   },

@@ -42179,6 +42179,10 @@
     "addr:street": "Alte Landstrasse",
     "amenity": "kindergarten",
     "name": "Kindergarten Schellergut 1+2",
+    "operator": "Gemeinde Kilchberg",
+    "operator:type": "government",
+    "phone": "+41 44 716 33 48",
+    "preschool": "yes",
     "id": "node/9899307001"
   },
   "geometry": {
