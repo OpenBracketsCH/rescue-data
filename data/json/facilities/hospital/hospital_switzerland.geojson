@@ -25098,11 +25098,13 @@
     "addr:postcode": "8400",
     "addr:street": "Bahnhofplatz",
     "amenity": "clinic",
-    "check_date": "2025-08-30",
+    "check_date": "2025-09-25",
+    "check_date:opening_hours": "2025-09-25",
     "healthcare": "clinic",
     "indoor": "yes",
     "level": "2",
     "name": "Permanence",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa,Su 10:00-20:00",
     "id": "way/381444923"
   },
   "geometry": {

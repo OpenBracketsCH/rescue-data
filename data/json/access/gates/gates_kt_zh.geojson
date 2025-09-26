@@ -6837,6 +6837,7 @@
   "id": "node/390307793",
   "properties": {
     "barrier": "gate",
+    "locked": "no",
     "id": "node/390307793"
   },
   "geometry": {

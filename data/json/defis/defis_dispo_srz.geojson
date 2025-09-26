@@ -61663,6 +61663,7 @@
     "access": "yes",
     "addr:housenumber": "16",
     "addr:street": "Matten",
+    "defibrillator:location": "An Strasse bei Fussgängerstreifen",
     "description": "Grüner Kasten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -93821,6 +93822,76 @@
     "coordinates": [
       8.5565847,
       47.1646801
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13169120401",
+  "properties": {
+    "defibrillator:location": "Planted Foods AG / planted.bistro",
+    "description": "Öffnungszeiten Bistro beachten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "6",
+    "opening_hours": "Mo-Fr 08:00-16:30",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/13169120401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7036807,
+      47.4494729
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13169532101",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingang Klotener Seite 12a",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo - Fr 07:00- 18:00",
+    "operator": "Stiftung Pigna",
+    "phone": "+410448007500",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/13169532101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5919523,
+      47.4494112
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13171455001",
+  "properties": {
+    "defibrillator:location": "Tannenstrasse 108 8424 Embrach",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo - Fr 08:00-17:00",
+    "operator": "Expoforma",
+    "phone": "+41 44 864 12 12",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/13171455001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5898602,
+      47.5099108
     ]
   }
 }
