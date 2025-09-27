@@ -6164,6 +6164,8 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "name": "Kindergarten Jennischloss",
+    "wikidata": "Q6179252",
+    "wikipedia": "de:Jenny-Schloss",
     "id": "way/84217390"
   },
   "geometry": {

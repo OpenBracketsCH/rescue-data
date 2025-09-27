@@ -6396,6 +6396,7 @@
     "amenity": "pharmacy",
     "branch": "Thalwil",
     "brand": "Coop Vitality",
+    "brand:wikidata": "Q111725297",
     "healthcare": "pharmacy",
     "name": "Coop Vitality",
     "operator": "Coop Vitality & GaleniCare",
