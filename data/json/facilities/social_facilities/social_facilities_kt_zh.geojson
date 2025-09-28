@@ -49615,6 +49615,26 @@
       47.4222007
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13175030659",
+  "properties": {
+    "addr:housenumber": "8",
+    "addr:street": "Gutstrasse",
+    "amenity": "social_facility",
+    "check_date": "2025-09-27",
+    "description": "Fachbereich Jugendförderung",
+    "name": "AOZ",
+    "id": "node/13175030659"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5094772,
+      47.3705305
+    ]
+  }
 }
 ]
 }

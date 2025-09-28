@@ -21000,33 +21000,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9642310076",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "8",
-    "addr:postcode": "8055",
-    "addr:street": "Gutstrasse",
-    "amenity": "school",
-    "isced:level": "3",
-    "name": "Fachschule Viventa, Schulhaus Gutstrasse",
-    "operator": "Stadt Zürich, SSD, Fachschule Viventa",
-    "operator:type": "public",
-    "phone": "+41 44 413 43 30",
-    "short_name": "FSV Gutstrasse",
-    "website": "https://www.stadt-zuerich.ch/ssd/de/index/jugend-_und_erwachsenenbildung/ueber_die_viventa/unsere_schulhaeuser/schulhausgutstrasse.html",
-    "id": "node/9642310076"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5094441,
-      47.370554
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9642445064",
   "properties": {
     "amenity": "school",
