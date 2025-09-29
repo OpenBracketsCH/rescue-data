@@ -104509,6 +104509,22 @@
       47.4982542
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13176703559",
+  "properties": {
+    "amenity": "school",
+    "name": "School of tomorrow",
+    "id": "node/13176703559"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7134708,
+      47.3503434
+    ]
+  }
 }
 ]
 }
