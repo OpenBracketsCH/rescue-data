@@ -3903,6 +3903,7 @@
   "properties": {
     "alt_name": "Kantonspolizei Zürich",
     "amenity": "police",
+    "check_date": "2025-09-29",
     "name": "Kapo ZH - Posten Adliswil",
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",

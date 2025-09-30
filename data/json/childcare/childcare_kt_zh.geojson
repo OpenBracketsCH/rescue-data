@@ -8898,6 +8898,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/8725015058",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kinderkrippe Möwe",
+    "operator": "Keller AG",
+    "operator:type": "private",
+    "preschool": "yes",
+    "website": "https://krippemoewe.ch/",
+    "id": "node/8725015058"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7479832,
+      47.4984249
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/8725015060",
   "properties": {
     "addr:city": "Winterthur",

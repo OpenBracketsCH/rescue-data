@@ -6111,6 +6111,85 @@
 },
 {
   "type": "Feature",
+  "id": "way/68249274",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Schützenwiese",
+    "operator": "Stadt Winterthur",
+    "operator:type": "government",
+    "operator:wikidata": "Q9125",
+    "id": "way/68249274"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7172495,
+          47.5020791
+        ],
+        [
+          8.7171655,
+          47.5018167
+        ],
+        [
+          8.7174047,
+          47.5017815
+        ],
+        [
+          8.7173855,
+          47.5017229
+        ],
+        [
+          8.7173214,
+          47.5015165
+        ],
+        [
+          8.7177419,
+          47.5014517
+        ],
+        [
+          8.7177732,
+          47.5015545
+        ],
+        [
+          8.7179557,
+          47.5015291
+        ],
+        [
+          8.7179772,
+          47.5015951
+        ],
+        [
+          8.7180238,
+          47.5017429
+        ],
+        [
+          8.7180632,
+          47.5018552
+        ],
+        [
+          8.7180341,
+          47.5019014
+        ],
+        [
+          8.7180061,
+          47.5019267
+        ],
+        [
+          8.7179005,
+          47.5019747
+        ],
+        [
+          8.7172495,
+          47.5020791
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/78367307",
   "properties": {
     "addr:city": "Zürich",
@@ -8018,6 +8097,7 @@
     "addr:street": "Wolfgrabenstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2025-09-29",
     "name": "Kindergarten Wolfgraben 4",
     "id": "way/92926123"
   },
@@ -33697,50 +33777,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1191768971",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "15a",
-    "addr:postcode": "8400",
-    "addr:street": "Schützenstrasse",
-    "amenity": "kindergarten",
-    "building": "school",
-    "building:levels": "2",
-    "name": "Provisorium Kindergarten Schützenwiese",
-    "operator": "Stadt Winterthur",
-    "roof:shape": "flat",
-    "id": "way/1191768971"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7172843,
-          47.5020608
-        ],
-        [
-          8.7172006,
-          47.5017933
-        ],
-        [
-          8.7173466,
-          47.5017725
-        ],
-        [
-          8.7174302,
-          47.50204
-        ],
-        [
-          8.7172843,
-          47.5020608
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1197612918",
   "properties": {
     "amenity": "kindergarten",
@@ -36606,6 +36642,7 @@
   "id": "way/1385043225",
   "properties": {
     "amenity": "kindergarten",
+    "name": "Primarschule Wolfgraben Altes Schulhaus",
     "id": "way/1385043225"
   },
   "geometry": {
@@ -44288,26 +44325,6 @@
     "coordinates": [
       8.757744,
       47.5106365
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8725015058",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Kinderkrippe Möwe",
-    "operator": "Keller AG",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "https://krippemoewe.ch/",
-    "id": "node/8725015058"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7479832,
-      47.4984249
     ]
   }
 },

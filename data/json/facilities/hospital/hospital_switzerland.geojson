@@ -6194,15 +6194,13 @@
   "type": "Feature",
   "id": "way/37277021",
   "properties": {
-    "addr:city": "Chur",
-    "addr:housenumber": "220",
-    "addr:postcode": "7000",
-    "addr:street": "Loëstrasse",
     "amenity": "hospital",
     "healthcare": "hospital",
     "healthcare:speciality": "psychiatry",
     "name": "Psychiatrische Klinik Waldhaus",
     "name:rm": "Clinica Waldhaus",
+    "operator": "Psychiatrische Dienste Graubünden (PDGR)",
+    "operator:type": "government",
     "phone": "+41 58 225 25 25",
     "website": "https://www.pdgr.ch/standorte/klinik-waldhaus-chur/",
     "wheelchair": "yes",
@@ -58664,6 +58662,166 @@
     "coordinates": [
       7.2728945,
       47.2382581
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13180183985",
+  "properties": {
+    "addr:city": "Cazis",
+    "addr:housenumber": "17",
+    "addr:postcode": "7408",
+    "addr:street": "La Nicca Strasse",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Eingang Station Danis / Klinik Beverin Cazis",
+    "operator": "Psychiatrische Dienste Graubünden (PDGR)",
+    "operator:type": "government",
+    "id": "node/13180183985"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4279825,
+      46.7305619
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13180183986",
+  "properties": {
+    "addr:city": "Cazis",
+    "addr:housenumber": "17",
+    "addr:postcode": "7408",
+    "addr:street": "La Nicca Strasse",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Eingang Station Nova / Klinik Beverin Cazis",
+    "operator": "Psychiatrische Dienste Graubünden (PDGR)",
+    "operator:type": "government",
+    "id": "node/13180183986"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4295189,
+      46.7309385
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13180183987",
+  "properties": {
+    "addr:city": "Cazis",
+    "addr:housenumber": "17",
+    "addr:postcode": "7408",
+    "addr:street": "La Nicca Strasse",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Station Selva / Klinik Beverin Cazis",
+    "operator": "Psychiatrische Dienste Graubünden (PDGR)",
+    "operator:type": "government",
+    "id": "node/13180183987"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4293858,
+      46.7309296
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13180183988",
+  "properties": {
+    "addr:city": "Cazis",
+    "addr:housenumber": "17",
+    "addr:postcode": "7408",
+    "addr:street": "La Nicca Strasse",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Station Salvora / Klinik Beverin",
+    "operator": "Psychiatrische Dienste Graubünden (PDGR)",
+    "operator:type": "government",
+    "id": "node/13180183988"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4289953,
+      46.7311678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13180183989",
+  "properties": {
+    "addr:city": "Cazis",
+    "addr:housenumber": "17",
+    "addr:postcode": "7408",
+    "addr:street": "La Nicca Strasse",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Station Cresta / Klinik Beverin Cazis",
+    "operator": "Psychiatrische Dienste Graubünden (PDGR)",
+    "operator:type": "government",
+    "id": "node/13180183989"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.428107,
+      46.7309767
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13180183990",
+  "properties": {
+    "addr:city": "Cazis",
+    "addr:housenumber": "17",
+    "addr:postcode": "7408",
+    "addr:street": "La Nicca Strasse",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Station Bernina / Klinik Beverin Cazis",
+    "operator": "Psychiatrische Dienste Graubünden (PDGR)",
+    "operator:type": "government",
+    "id": "node/13180183990"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4281756,
+      46.730956
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13180183991",
+  "properties": {
+    "addr:city": "Cazis",
+    "addr:housenumber": "17",
+    "addr:postcode": "7408",
+    "addr:street": "La Nicca Strasse",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Privatklinik MENTALVA Cazis",
+    "operator": "Psychiatrische Dienste Graubünden (PDGR)",
+    "id": "node/13180183991"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4299867,
+      46.730153
     ]
   }
 }
