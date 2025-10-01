@@ -2917,6 +2917,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/877150393",
+  "properties": {
+    "addr:city": "Zollikerberg",
+    "addr:housenumber": "146",
+    "addr:postcode": "8125",
+    "addr:street": "Forchstrasse",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "id": "node/877150393"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5979775,
+      47.3469846
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/891896164",
   "properties": {
     "addr:city": "Zürich",
@@ -2987,8 +3007,8 @@
     "branch": "Zürich Oerlikon",
     "brand": "Medbase",
     "brand:wikidata": "Q50038690",
-    "check_date": "2025-06-24",
-    "check_date:opening_hours": "2022-06-20",
+    "check_date": "2025-09-30",
+    "check_date:opening_hours": "2025-09-30",
     "healthcare": "pharmacy",
     "name": "Medbase Apotheke Kreis 11",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00",
