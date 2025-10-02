@@ -52165,6 +52165,7 @@
     "addr:postcode": "8400",
     "addr:street": "Untere Vogelsangstrasse",
     "amenity": "social_facility",
+    "check_date": "2025-10-01",
     "name": "Treffpunkt Vogelsang",
     "opening_hours": "Mo-Fr 11:00-18:00",
     "social_facility:for": "underprivileged",

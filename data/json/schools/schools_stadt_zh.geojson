@@ -1961,10 +1961,12 @@
     "building": "school",
     "contact:email": "sekretariat@liceo.ch",
     "contact:phone": "+41 44 202 80 40",
-    "contact:website": "https://www.kfr.ch/liceo/",
+    "contact:website": "https://liceo.ch/willkommen",
     "isced:level": "3",
     "name": "Liceo Artistico",
     "operator": "Kanton Zürich, Bildungsdirektion",
+    "operator:type": "government",
+    "operator:wikidata": "Q113033130",
     "wikidata": "Q1823209",
     "id": "way/32649990"
   },
