@@ -6499,6 +6499,7 @@
     "barrier": "gate",
     "bicycle:conditional": "yes @ Mo-Su 05:30-22:00",
     "foot:conditional": "yes @ Mo-Su 05:30-22:00",
+    "maxwidth:physical": "2",
     "id": "node/365890414"
   },
   "geometry": {
@@ -37082,22 +37083,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4355981158",
-  "properties": {
-    "access": "private",
-    "barrier": "gate",
-    "id": "node/4355981158"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.60695,
-      47.4039435
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4360323004",
   "properties": {
     "barrier": "lift_gate",
@@ -53872,22 +53857,6 @@
     "coordinates": [
       8.568577,
       47.3785111
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7223151594",
-  "properties": {
-    "access": "private",
-    "barrier": "gate",
-    "id": "node/7223151594"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6076273,
-      47.40368
     ]
   }
 },
@@ -82607,6 +82576,7 @@
   "id": "node/11777771680",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "2.5",
     "id": "node/11777771680"
   },
   "geometry": {

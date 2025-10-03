@@ -3980,7 +3980,7 @@
   "id": "node/6992457791",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Links beim Schwimmbädli im Gang im Zugang zur ZSO-Anlage",
+    "defibrillator:location": "Links beim Schwimmbädli beim Abgang zur ZSO-Anlage",
     "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -3993,8 +3993,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8001574,
-      47.2865175
+      8.8001561,
+      47.2865181
     ]
   }
 },
@@ -21500,8 +21500,9 @@
   "type": "Feature",
   "id": "node/8560862936",
   "properties": {
-    "access": "yes",
+    "access": "permissive",
     "defibrillator:location": "Reception",
+    "description": "Nicht sichtbar. Kann nicht gefunden werden, ist angeblich in einem Schrank ohne Markierung.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -21512,8 +21513,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.467635,
-      47.4312292
+      8.4676346,
+      47.4312291
     ]
   }
 },
@@ -94057,6 +94058,30 @@
     "coordinates": [
       8.6855936,
       47.3907051
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13188352101",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Turnhalle Gramatt bei Haupteingang",
+    "description": "nur während Öffnungszeiten zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:00-20:30",
+    "operator": "Primarschule Mettmenstetten",
+    "phone": "+41 44 767 93 39",
+    "id": "node/13188352101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4650905,
+      47.2460399
     ]
   }
 }
