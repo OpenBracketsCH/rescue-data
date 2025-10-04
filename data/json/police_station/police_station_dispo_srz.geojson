@@ -2845,6 +2845,7 @@
     "addr:postcode": "6330",
     "addr:street": "Luzernerstrasse",
     "amenity": "police",
+    "check_date": "2025-10-03",
     "name": "Polizeidienststelle Cham",
     "opening_hours": "Mo 08:00-11:45, 13:30-18:00; Tu-Fr 08:00-11:45, 13:30-17:00",
     "operator": "Zuger Polizei",

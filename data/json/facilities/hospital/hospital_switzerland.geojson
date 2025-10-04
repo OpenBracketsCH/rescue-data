@@ -57004,6 +57004,7 @@
     "amenity": "clinic",
     "healthcare:speciality": "ophthalmology",
     "name": "betterview",
+    "opening_hours": "Mo,Tu 08:00-17:00; We-Fr 09:00-19:00; Sa 09:00-17:00",
     "website": "https://betterview.ch/",
     "id": "node/11800118612"
   },

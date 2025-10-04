@@ -10476,25 +10476,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7836853916",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Aussen Haupteingang zu Gemeindehaus",
-    "description": "24 Std. / 7 Tage",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "id": "node/7836853916"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7214212,
-      47.3093373
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7836882155",
   "properties": {
     "access": "yes",
@@ -29674,7 +29655,7 @@
   "id": "node/8955167741",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "beim Buswartehäuschen",
+    "defibrillator:location": "Im Buswartehäuschen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -29686,8 +29667,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4355309,
-      47.4000469
+      8.4356181,
+      47.400073
     ]
   }
 },
@@ -66160,27 +66141,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11397529169",
-  "properties": {
-    "defibrillator:location": "TCS Zentrum Betzholz, Erdgeschoss Empfang",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "0",
-    "operator": "TCS Training & Events",
-    "id": "node/11397529169"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8177942,
-      47.2883626
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11397677870",
   "properties": {
     "access": "no",
@@ -94082,6 +94042,122 @@
     "coordinates": [
       8.4650905,
       47.2460399
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13190148601",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Forsthaus Küsnacht",
+    "description": "neben der Eingangstüre zum Forsthaus",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Holzkooperation Küsnacht",
+    "phone": "+41 44 918 21 12",
+    "id": "node/13190148601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6088833,
+      47.317835
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13190208301",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Treppenhaus 2. OG",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "Denner AG",
+    "id": "node/13190208301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5171212,
+      47.3630235
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13190211801",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Bürofläche 1. OG",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 08:00-16:00",
+    "operator": "Denner AG",
+    "id": "node/13190211801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.513596,
+      47.3623753
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13190667701",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Lidl Schweiz (bei Kasse), Eggstrasse 88",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo - Sa 07:30 - 20:00",
+    "operator": "Lidl Schweiz",
+    "phone": "+41 71 588 05 10",
+    "id": "node/13190667701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5446028,
+      47.3032268
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13190930801",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Schützenstrasse 29 / 8902 Urdorf / EG / Eingang Produktion",
+    "description": "Während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo - Fr 07:30 - 17:00",
+    "operator": "Heinz Baumgartner Werkzeugbau und Feinmechanik AG / Produktion",
+    "phone": "+41447344636",
+    "id": "node/13190930801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4213008,
+      47.3690957
     ]
   }
 }
