@@ -540,6 +540,7 @@
     "addr:street": "Grendelbachstrasse",
     "amenity": "fire_station",
     "building": "yes",
+    "check_date": "2025-10-04",
     "name": "Feuerwehr Effretikon",
     "source": "Yahoo",
     "id": "way/32499093"

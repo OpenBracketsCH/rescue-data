@@ -11193,6 +11193,66 @@
 },
 {
   "type": "Feature",
+  "id": "way/1365536269",
+  "properties": {
+    "building": "hospital",
+    "building:levels": "5",
+    "healthcare": "hospital",
+    "healthcare:speciality": "oncology",
+    "name": "See-Spital Onkologie",
+    "roof:shape": "flat",
+    "id": "way/1365536269"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5909062,
+          47.2624515
+        ],
+        [
+          8.5910619,
+          47.2625649
+        ],
+        [
+          8.5910421,
+          47.2625789
+        ],
+        [
+          8.5911358,
+          47.2626474
+        ],
+        [
+          8.5910171,
+          47.2627263
+        ],
+        [
+          8.5909193,
+          47.2626586
+        ],
+        [
+          8.5909382,
+          47.262646
+        ],
+        [
+          8.5909179,
+          47.2626319
+        ],
+        [
+          8.5907793,
+          47.2625359
+        ],
+        [
+          8.5909062,
+          47.2624515
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/199578656",
   "properties": {
     "id": "way/199578656"
@@ -13274,6 +13334,8 @@
     "addr:street": "Hardturmstrasse",
     "amenity": "clinic",
     "email": "mpa.zuerich@integrative-onkologie.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "oncology",
     "name": "ZIO Zentrum für Integrative Onkologie",
     "phone": "+41 44 448 30 00",
     "website": "https://integrative-onkologie.ch/",

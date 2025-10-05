@@ -24821,6 +24821,59 @@
 },
 {
   "type": "Feature",
+  "id": "way/355536318",
+  "properties": {
+    "addr:city": "Biel/Bienne",
+    "addr:country": "CH",
+    "addr:housenumber": "38",
+    "addr:postcode": "2503",
+    "addr:street": "Rebenweg",
+    "addr:street:fr": "Chemin des Vignes",
+    "building": "apartments",
+    "building:levels": "4",
+    "contact:email": "info@radioonkologie.ch",
+    "contact:fax": "+41 32 366 81 12",
+    "contact:phone": "+41 32 366 81 11",
+    "contact:website": "http://www.radioonkologie.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "oncology;radiology",
+    "name": "Radio-Onkologie Zentrum - Centre de radio-oncologie",
+    "name:de": "Radio-Onkologie Zentrum",
+    "name:fr": "Centre de radio-oncologie",
+    "roof:levels": "1",
+    "roof:shape": "flat",
+    "id": "way/355536318"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.2630006,
+          47.1324437
+        ],
+        [
+          7.2628937,
+          47.1323853
+        ],
+        [
+          7.2630581,
+          47.1322444
+        ],
+        [
+          7.2631648,
+          47.1323044
+        ],
+        [
+          7.2630006,
+          47.1324437
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/370366918",
   "properties": {
     "addr:city": "Lachen",
@@ -37069,12 +37122,16 @@
     "coordinates": [
       [
         [
-          7.6126349,
-          47.5658635
+          7.612636,
+          47.5658699
         ],
         [
-          7.6145044,
-          47.5649803
+          7.6132934,
+          47.5655256
+        ],
+        [
+          7.6145012,
+          47.5649753
         ],
         [
           7.6145174,
@@ -37117,8 +37174,8 @@
           47.5659334
         ],
         [
-          7.6126349,
-          47.5658635
+          7.612636,
+          47.5658699
         ]
       ]
     ]
@@ -49752,6 +49809,66 @@
 },
 {
   "type": "Feature",
+  "id": "way/1365536269",
+  "properties": {
+    "building": "hospital",
+    "building:levels": "5",
+    "healthcare": "hospital",
+    "healthcare:speciality": "oncology",
+    "name": "See-Spital Onkologie",
+    "roof:shape": "flat",
+    "id": "way/1365536269"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5909062,
+          47.2624515
+        ],
+        [
+          8.5910619,
+          47.2625649
+        ],
+        [
+          8.5910421,
+          47.2625789
+        ],
+        [
+          8.5911358,
+          47.2626474
+        ],
+        [
+          8.5910171,
+          47.2627263
+        ],
+        [
+          8.5909193,
+          47.2626586
+        ],
+        [
+          8.5909382,
+          47.262646
+        ],
+        [
+          8.5909179,
+          47.2626319
+        ],
+        [
+          8.5907793,
+          47.2625359
+        ],
+        [
+          8.5909062,
+          47.2624515
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1371182821",
   "properties": {
     "addr:city": "Sarnen",
@@ -54901,6 +55018,8 @@
     "addr:street": "Hardturmstrasse",
     "amenity": "clinic",
     "email": "mpa.zuerich@integrative-onkologie.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "oncology",
     "name": "ZIO Zentrum für Integrative Onkologie",
     "phone": "+41 44 448 30 00",
     "website": "https://integrative-onkologie.ch/",

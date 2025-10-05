@@ -5840,9 +5840,6 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindergarten Schützenwiese",
-    "operator": "Stadt Winterthur",
-    "operator:type": "government",
-    "operator:wikidata": "Q9125",
     "id": "way/68249274"
   },
   "geometry": {
@@ -32919,6 +32916,42 @@
 },
 {
   "type": "Feature",
+  "id": "way/1435510408",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Schwerzgrueb",
+    "id": "way/1435510408"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5469103,
+          47.5154205
+        ],
+        [
+          8.5460373,
+          47.5147297
+        ],
+        [
+          8.5464795,
+          47.5143429
+        ],
+        [
+          8.5474429,
+          47.5151582
+        ],
+        [
+          8.5469103,
+          47.5154205
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
@@ -40309,6 +40342,7 @@
   "id": "node/9494459090",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-10-04",
     "contact:city": "Zürich",
     "contact:housenumber": "12",
     "contact:phone": "+41 44 413 78 60",
