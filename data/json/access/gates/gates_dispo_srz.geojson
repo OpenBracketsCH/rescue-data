@@ -7774,6 +7774,8 @@
   "id": "node/339385382",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "2.7",
+    "source:maxwidth:physical": "ARCore",
     "id": "node/339385382"
   },
   "geometry": {
@@ -102368,8 +102370,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4916428,
-      47.3494555
+      8.4916432,
+      47.3494554
     ]
   }
 },

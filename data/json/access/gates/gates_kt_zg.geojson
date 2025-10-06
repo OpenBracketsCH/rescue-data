@@ -360,6 +360,8 @@
   "id": "node/339385382",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "2.7",
+    "source:maxwidth:physical": "ARCore",
     "id": "node/339385382"
   },
   "geometry": {

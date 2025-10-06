@@ -9717,6 +9717,7 @@
     "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/805",
     "name": "Kindergarten Weidli",
     "phone": "+41 44 940 42 79",
+    "preschool": "yes",
     "id": "way/107958065"
   },
   "geometry": {
