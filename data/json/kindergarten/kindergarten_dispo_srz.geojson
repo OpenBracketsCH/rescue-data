@@ -40493,9 +40493,13 @@
   "type": "Feature",
   "id": "node/4408280436",
   "properties": {
+    "addr:postcode": "8050",
     "amenity": "kindergarten",
     "check_date": "2025-06-24",
+    "email": "bambola@gfkb.ch",
     "name": "Bambola",
+    "phone": "+41 44 311 41 40",
+    "website": "https://gfkb.ch/de-bambola",
     "id": "node/4408280436"
   },
   "geometry": {
