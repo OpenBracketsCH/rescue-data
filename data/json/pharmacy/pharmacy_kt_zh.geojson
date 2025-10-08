@@ -2496,6 +2496,7 @@
     "addr:street": "Forchstrasse",
     "amenity": "pharmacy",
     "healthcare": "pharmacy",
+    "name": "Rotpunkt Apotheke Zollikerberg",
     "id": "node/877150393"
   },
   "geometry": {

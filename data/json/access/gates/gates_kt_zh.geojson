@@ -33272,8 +33272,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4476422,
-      47.3988778
+      8.4476451,
+      47.3988687
     ]
   }
 },
@@ -33288,8 +33288,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4476923,
-      47.3985655
+      8.4476856,
+      47.398603
     ]
   }
 },
@@ -56701,22 +56701,6 @@
     "coordinates": [
       8.4747561,
       47.4291628
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7876407263",
-  "properties": {
-    "barrier": "lift_gate",
-    "opening_hours": "Mo-Su 08:00-22:30",
-    "id": "node/7876407263"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6364031,
-      47.4082485
     ]
   }
 },

@@ -5102,6 +5102,7 @@
     "website": "https://www.gzo.ch/",
     "wheelchair": "yes",
     "wikidata": "Q33121500",
+    "wikimedia_commons": "File:Wetzikon_-_Spitalstrasse_IMG_5007_ShiftN.jpg",
     "id": "way/28530564"
   },
   "geometry": {
@@ -53266,8 +53267,17 @@
     "addr:postcode": "9056",
     "addr:street": "Dorfplatz",
     "amenity": "clinic",
+    "check_date": "2025-10-06",
+    "check_date:opening_hours": "2025-10-06",
+    "contact:facebook": "https://www.facebook.com/alpsteinclinic/",
+    "contact:instagram": "https://www.instagram.com/alpsteinclinic/",
+    "email": "info@alpstein-clinic.ch",
     "healthcare": "clinic",
+    "healthcare:speciality": "stomatology;naturopathy;homeopathy",
     "name": "Alpstein Clinic AG",
+    "opening_hours": "Mo 08:00-18:00; Tu 08:00-19:00; We-Th 08:00-18:00; Fr 08:00-17:00",
+    "phone": "+41 71 791 81 00",
+    "website": "https://alpstein-clinic.ch",
     "id": "node/5834404647"
   },
   "geometry": {
@@ -58785,6 +58795,29 @@
     "coordinates": [
       7.2728945,
       47.2382581
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13200423002",
+  "properties": {
+    "addr:housenumber": "57",
+    "addr:postcode": "1217",
+    "addr:street": "Rue des Lattes",
+    "amenity": "clinic",
+    "email": "medimeyrin@hin.ch",
+    "name": "Medimeyrin",
+    "opening_hours": "Mo-Fr 08:30-11:30, 13:30-16:00",
+    "phone": "+41227853400",
+    "website": "http://medimeyrin.ch",
+    "id": "node/13200423002"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0788858,
+      46.2396957
     ]
   }
 }
