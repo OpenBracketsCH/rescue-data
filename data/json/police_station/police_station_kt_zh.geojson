@@ -3765,6 +3765,7 @@
     "addr:street": "Bergstrasse",
     "alt_name": "KomPol Zollikon",
     "amenity": "police",
+    "check_date": "2025-10-10",
     "loc_name": "Gemeindepolizei Zollikon",
     "name": "Polizeiposten Gemeindepolizei Zollikon",
     "operator": "Gemeinde Zollikon",

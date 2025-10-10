@@ -55493,7 +55493,7 @@
   "id": "node/11833035670",
   "properties": {
     "defibrillator:location": "Zürcherstrasse 28, Mettmenstetten",
-    "description": "in der Durchfahrt an der Wand",
+    "description": "in der Durchfahrt zur Waschstrasse an der Wand",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -55506,8 +55506,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4615898,
-      47.24681
+      8.4614522,
+      47.246726
     ]
   }
 },
@@ -73321,6 +73321,98 @@
     "coordinates": [
       8.4663731,
       47.3375582
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13204301401",
+  "properties": {
+    "defibrillator:location": "innerhalb der Praxis",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "-1",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "phone": "+41433443333",
+    "id": "node/13204301401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5323806,
+      47.351149
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13204567202",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Wygarten neben dem Eingang zur Turnhalle aussen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Schulverwaltung Schulhausstrasse 13 8932 Mettmenstetten",
+    "phone": "+41 44 768 55 95",
+    "id": "node/13204567202"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4636054,
+      47.2463089
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13204671601",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Lindenmoosstrasse 9",
+    "description": "während Oeffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:30-17:15",
+    "operator": "Peter Schmid Baudienstleistungen AG Lindenmoosstrasse 9 CH-8910 Affoltern a. A.",
+    "phone": "+41 43 333 44 77",
+    "id": "node/13204671601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.444689,
+      47.2698424
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13204760501",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haupteingang, 24h-Zone bei den Bancomaten",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Raiffeisenbank Zürcher Oberland",
+    "phone": "+41449052950",
+    "id": "node/13204760501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7192034,
+      47.3496224
     ]
   }
 }
