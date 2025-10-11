@@ -22196,7 +22196,10 @@
     "amenity": "school",
     "check_date": "2024-09-23",
     "name": "Primarschule Sonnenberg",
+    "operator": "Stadt Dübendorf",
+    "operator:type": "government",
     "school": "primary",
+    "website": "https://www.schule-duebendorf.ch/sonnenberg/3316",
     "id": "way/46154075"
   },
   "geometry": {
@@ -114621,7 +114624,10 @@
   "id": "way/958858298",
   "properties": {
     "amenity": "school",
-    "name": "Primarschule Dübendorf",
+    "name": "Schulhaus Gfenn",
+    "operator": "Stadt Dübendorf",
+    "operator:type": "government",
+    "website": "https://www.schule-duebendorf.ch/sonnenbergschulanlagen/230",
     "id": "way/958858298"
   },
   "geometry": {
@@ -114645,8 +114651,8 @@
           47.3915083
         ],
         [
-          8.6463723,
-          47.3916392
+          8.6463565,
+          47.3916671
         ],
         [
           8.6460307,

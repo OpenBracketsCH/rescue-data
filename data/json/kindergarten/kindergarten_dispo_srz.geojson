@@ -26923,6 +26923,8 @@
     "building:levels": "2",
     "check_date": "2024-09-23",
     "name": "Kindergarten Sonnenberg",
+    "operator": "Stadt Dübendorf",
+    "operator:type": "government",
     "id": "way/462496581"
   },
   "geometry": {
@@ -37854,6 +37856,7 @@
   "properties": {
     "amenity": "kindergarten",
     "capacity": "46",
+    "check_date": "2025-10-10",
     "email": "kita5@gfz-zh.ch",
     "name": "GFZ Kindertagesstätte 5",
     "operator": "Stiftung GFZ | Gemeinnützige Frauen Zürich",
@@ -48920,6 +48923,7 @@
   "id": "node/10095261923",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-10-10",
     "name": "Kindergarten Chäsigass",
     "id": "node/10095261923"
   },

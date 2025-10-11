@@ -788,6 +788,7 @@
   "id": "node/10095261923",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-10-10",
     "name": "Kindergarten Chäsigass",
     "id": "node/10095261923"
   },
