@@ -3114,7 +3114,7 @@ FeatureCollection,"{'type': 'Feature', 'id': 'node/5528138161', 'properties': {'
 FeatureCollection,"{'type': 'Feature', 'id': 'node/5531155994', 'properties': {'access': 'no', 'barrier': 'gate', 'note': 'Zugang zur ehemaligen Unterführung Bucheggplatz', 'id': 'node/5531155994'}, 'geometry': {'type': 'Point', 'coordinates': [8.5332233, 47.3976126]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/5535404860', 'properties': {'barrier': 'gate', 'id': 'node/5535404860'}, 'geometry': {'type': 'Point', 'coordinates': [8.5017063, 47.3871306]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/5535404861', 'properties': {'barrier': 'gate', 'id': 'node/5535404861'}, 'geometry': {'type': 'Point', 'coordinates': [8.5017643, 47.3871135]}}"
-FeatureCollection,"{'type': 'Feature', 'id': 'node/5536021476', 'properties': {'barrier': 'lift_gate', 'id': 'node/5536021476'}, 'geometry': {'type': 'Point', 'coordinates': [8.8533991, 47.0582808]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/5536021476', 'properties': {'barrier': 'lift_gate', 'id': 'node/5536021476'}, 'geometry': {'type': 'Point', 'coordinates': [8.8534044, 47.0582828]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/5536021477', 'properties': {'barrier': 'lift_gate', 'id': 'node/5536021477'}, 'geometry': {'type': 'Point', 'coordinates': [8.8576485, 47.0537288]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/5543559200', 'properties': {'barrier': 'gate', 'id': 'node/5543559200'}, 'geometry': {'type': 'Point', 'coordinates': [8.5413559, 47.3732806]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/5546251784', 'properties': {'access': 'no', 'barrier': 'gate', 'id': 'node/5546251784'}, 'geometry': {'type': 'Point', 'coordinates': [8.771714, 47.3426355]}}"
