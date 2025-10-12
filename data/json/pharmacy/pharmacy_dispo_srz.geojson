@@ -4781,32 +4781,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2526218137",
-  "properties": {
-    "addr:housenumber": "25",
-    "addr:street": "Gotthardstrasse",
-    "amenity": "pharmacy",
-    "check_date": "2025-08-13",
-    "dispensing": "yes",
-    "healthcare": "pharmacy",
-    "level": "0",
-    "name": "Gotthard Apotheke",
-    "opening_hours": "Mo-Fr 08:00-12:15,13:00-18:30; Sa 08:00-16:00",
-    "phone": "+41 44 720 04 70",
-    "website": "https://www.gotthard.apotheke.ch/",
-    "wheelchair": "yes",
-    "id": "node/2526218137"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5635726,
-      47.2956338
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2613296079",
   "properties": {
     "amenity": "pharmacy",
@@ -5546,8 +5520,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5648496,
-      47.2949154
+      8.5635764,
+      47.2956243
     ]
   }
 },
@@ -7930,7 +7904,8 @@
     "alt_name": "APODRO Apotheke Hinwil",
     "amenity": "pharmacy",
     "brand": "APODRO",
-    "check_date": "2023-10-31",
+    "check_date": "2025-10-11",
+    "check_date:opening_hours": "2025-10-11",
     "healthcare": "pharmacy",
     "name": "APODRO Apotheke",
     "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00; PH off",
