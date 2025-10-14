@@ -829,7 +829,7 @@
     "amenity": "police",
     "building": "yes",
     "name": "Polizeiposten Verkehrsstützpunkt Hinwil",
-    "opening_hours": "24/7",
+    "opening_hours": "Mo-Fr 06:00-17:00",
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",
     "operator:wikipedia": "de:Kantonspolizei Zürich",

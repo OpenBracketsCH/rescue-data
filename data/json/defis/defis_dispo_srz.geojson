@@ -93938,7 +93938,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "24/7",
+    "opening_hours": "07:00 - 21:00",
     "operator": "A4 Gross Fit",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/13180568903"
@@ -94398,6 +94398,76 @@
     "coordinates": [
       8.920606,
       47.3849494
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13229951401",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Dropa Drogerie Apotheke Illuster",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Sa 08:30 - 20:00",
+    "operator": "Dropa Illuster AG",
+    "phone": "+41 44 941 45 45",
+    "id": "node/13229951401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7151587,
+      47.3501067
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13230172601",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Rückseite Hauptgebäude Holzkorporation Dübendorf über Förster-Bantli-Weg erreichbar",
+    "description": "Aussen an der Hinterseite des Hauptgebäudes neben dem Aussen-WC, beim weissen Einhorn",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "operator": "HKD Dübendorf/ Stadt Dübendorf",
+    "phone": "+41448217853",
+    "id": "node/13230172601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.608753,
+      47.376021
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13232119701",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Zürichstrasse 40, Treppenhaus",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:00-17:00",
+    "operator": "Walim AG",
+    "phone": "+41 44 805 50 50",
+    "id": "node/13232119701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6273681,
+      47.4224729
     ]
   }
 }

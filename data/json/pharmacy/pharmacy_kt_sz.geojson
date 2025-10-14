@@ -256,12 +256,14 @@
     "addr:postcode": "6440",
     "addr:street": "Bahnhofstrasse",
     "amenity": "pharmacy",
+    "check_date:opening_hours": "2025-10-13",
     "dispensing": "yes",
     "healthcare": "pharmacy",
     "name": "Rütli Apotheke",
     "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-12:00,13:30-16:00",
     "phone": "+41 41 820 12 01",
     "website": "https://www.ruetli-apotheke.ch",
+    "wheelchair": "yes",
     "id": "node/2628536978"
   },
   "geometry": {
