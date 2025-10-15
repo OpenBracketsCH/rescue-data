@@ -1901,6 +1901,7 @@
     "addr:street": "Steinentischstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2025-10-14",
     "contact:phone": "+41 44 286 76 11",
     "contact:website": "https://www.ken.ch/kontakt",
     "name": "Kantonsschule Enge",
@@ -21411,6 +21412,7 @@
   "id": "node/9697745444",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-10-14",
     "contact:city": "Zürich",
     "contact:email": "zuerichoerlikon@hso.vantage.ch",
     "contact:housenumber": "15",

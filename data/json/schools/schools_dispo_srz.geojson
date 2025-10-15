@@ -12079,6 +12079,7 @@
     "addr:street": "Steinentischstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2025-10-14",
     "contact:phone": "+41 44 286 76 11",
     "contact:website": "https://www.ken.ch/kontakt",
     "name": "Kantonsschule Enge",
@@ -17157,6 +17158,7 @@
   "id": "way/37347275",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-10-14",
     "name": "Schule Wilacker",
     "id": "way/37347275"
   },
@@ -99474,6 +99476,7 @@
   "id": "way/459900916",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-10-13",
     "name": "Kindergarten Rudolf Steiner Schule",
     "id": "way/459900916"
   },
@@ -126172,6 +126175,8 @@
   "id": "way/1414916035",
   "properties": {
     "amenity": "school",
+    "name": "Schlafapfelbaum",
+    "website": "https://schlafapfelbaum.ch/",
     "id": "way/1414916035"
   },
   "geometry": {
@@ -128652,8 +128657,7 @@
     "addr:postcode": "8400",
     "addr:street": "Stadthausstrasse",
     "amenity": "school",
-    "name": "Lernklar",
-    "website": "https://www.lernklar.ch/",
+    "name": "freie Maturitätsschule Winterthur",
     "id": "node/6260309848"
   },
   "geometry": {
@@ -130159,6 +130163,7 @@
   "id": "node/9697745444",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-10-14",
     "contact:city": "Zürich",
     "contact:email": "zuerichoerlikon@hso.vantage.ch",
     "contact:housenumber": "15",
@@ -132343,6 +132348,54 @@
     "coordinates": [
       8.7134708,
       47.3503434
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13233950506",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:housenumber": "15a",
+    "addr:postcode": "8600",
+    "addr:street": "Sonnentalstrasse",
+    "amenity": "school",
+    "grades": "1-6",
+    "name": "Schulhaus Three Point D",
+    "operator": "Stadt Dübendorf",
+    "operator:type": "government",
+    "website": "https://www.schule-duebendorf.ch/birchlen/107",
+    "id": "node/13233950506"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6018973,
+      47.3972326
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13233950507",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:housenumber": "13a",
+    "addr:postcode": "8600",
+    "addr:street": "Sonnentalstrasse",
+    "amenity": "school",
+    "grades": "1-6",
+    "name": "Schulhaus Three Point E",
+    "operator": "Stadt Dübendorf",
+    "operator:type": "government",
+    "website": "https://www.schule-duebendorf.ch/birchlen/107",
+    "id": "node/13233950507"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6022576,
+      47.3968395
     ]
   }
 }
