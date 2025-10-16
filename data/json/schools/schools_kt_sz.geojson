@@ -12454,6 +12454,7 @@
     "addr:postcode": "6433",
     "addr:street": "Ringstrasse",
     "amenity": "school",
+    "check_date": "2025-10-15",
     "name": "Skischule Stoos",
     "website": "http://schneesportschule.stoos.ch",
     "id": "node/6256464585"

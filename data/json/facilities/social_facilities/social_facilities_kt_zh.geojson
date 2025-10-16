@@ -30839,7 +30839,10 @@
   "properties": {
     "amenity": "social_facility",
     "name": "SAW-Siedlung Köschenrüti",
-    "operator": "Stiftung Alterswohnungen der Stadt Zürich (SAW)",
+    "operator": "Stiftung Alterswohnungen der Stadt Zürich",
+    "operator:short": "SAW",
+    "operator:type": "public",
+    "operator:wikidata": "Q2348865",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "2014",
@@ -31036,7 +31039,10 @@
   "properties": {
     "amenity": "social_facility",
     "name": "SAW-Siedlung Felsenrain",
-    "operator": "Stiftung Alterswohnungen der Stadt Zürich (SAW)",
+    "operator": "Stiftung Alterswohnungen der Stadt Zürich",
+    "operator:short": "SAW",
+    "operator:type": "public",
+    "operator:wikidata": "Q2348865",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
     "start_date": "1958",

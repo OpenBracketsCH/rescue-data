@@ -13079,6 +13079,28 @@
 },
 {
   "type": "Feature",
+  "id": "node/7575189802",
+  "properties": {
+    "addr:city": "Beringen",
+    "addr:housenumber": "8",
+    "addr:postcode": "8222",
+    "addr:street": "Zelgstrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Arztpraxis Beringen",
+    "opening_hours": "Mo-Fr 08:00-12:00,14:00-18:00",
+    "id": "node/7575189802"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5740191,
+      47.6961352
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/8204308910",
   "properties": {
     "amenity": "doctors",
