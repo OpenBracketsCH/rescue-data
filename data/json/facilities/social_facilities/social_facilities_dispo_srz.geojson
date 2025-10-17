@@ -10988,6 +10988,78 @@
 },
 {
   "type": "Feature",
+  "id": "way/78502621",
+  "properties": {
+    "addr:city": "Bachs",
+    "addr:housenumber": "2",
+    "addr:postcode": "8164",
+    "addr:street": "Bachsertalstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@vivendra.ch",
+    "name": "Stiftung Vivendra Bachs",
+    "operator": "Stiftung Vivendra",
+    "operator:type": "private",
+    "phone": "+41 44 855 11 11",
+    "social_facility": "assisted_living",
+    "social_facility:for": "disabled",
+    "website": "https://www.vivendra.ch/wohnen/standort-bachs",
+    "id": "way/78502621"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4364391,
+          47.5273062
+        ],
+        [
+          8.4364291,
+          47.5272938
+        ],
+        [
+          8.4363301,
+          47.5271666
+        ],
+        [
+          8.4366524,
+          47.5270515
+        ],
+        [
+          8.4366662,
+          47.5270465
+        ],
+        [
+          8.4367011,
+          47.5270909
+        ],
+        [
+          8.4367754,
+          47.5271859
+        ],
+        [
+          8.4367426,
+          47.5271971
+        ],
+        [
+          8.4366873,
+          47.5272166
+        ],
+        [
+          8.4364679,
+          47.5272955
+        ],
+        [
+          8.4364391,
+          47.5273062
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/78578517",
   "properties": {
     "amenity": "social_facility",
@@ -10995,7 +11067,7 @@
     "name": "Vivendra Bachs",
     "phone": "+41 44 855 11 11",
     "social_facility:for": "disabled",
-    "website": "https://www.vivendra.ch/bei-uns-wohnen/wohnen-erwachsene/vivendra-bachs.html",
+    "website": "https://www.vivendra.ch/wohnen/standort-bachs",
     "id": "way/78578517"
   },
   "geometry": {
@@ -36525,6 +36597,7 @@
   "id": "way/444377023",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2025-10-16",
     "name": "Alterswohnungen in den Bühlhäusern",
     "operator": "Stiftung Diakoniewerk Neumünster – Schweizerische Pflegerinnenschule",
     "social_facility": "group_home",
@@ -36572,16 +36645,16 @@
           47.3485893
         ],
         [
-          8.5962303,
-          47.3485656
+          8.5962731,
+          47.3485467
         ],
         [
-          8.5961284,
-          47.3485238
+          8.5961873,
+          47.3484807
         ],
         [
-          8.5960787,
-          47.3484684
+          8.5960972,
+          47.3484364
         ],
         [
           8.5960915,
@@ -52360,6 +52433,7 @@
     "addr:postcode": "8125",
     "addr:street": "Neuweg",
     "amenity": "social_facility",
+    "check_date": "2025-10-16",
     "name": "Residenz Neumünster Park",
     "operator": "Stiftung Diakoniewerk Neumünster – Schweizerische Pflegerinnenschule",
     "social_facility": "assisted_living",

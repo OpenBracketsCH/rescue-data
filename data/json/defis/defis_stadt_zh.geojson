@@ -6857,29 +6857,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10223310221",
-  "properties": {
-    "defibrillator:location": "Gebäude Zeltweg 29, 8032 Zürich",
-    "description": "während Bürozeiten",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "1",
-    "opening_hours": "Mo-Fr 08:30-12:00,13:30-17:30",
-    "operator": "WS Audiology Switzerland AG",
-    "phone": "+41 800972972",
-    "id": "node/10223310221"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5515594,
-      47.3681728
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10236239542",
   "properties": {
     "access": "yes",
@@ -17283,6 +17260,35 @@
     "coordinates": [
       8.5323806,
       47.351149
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13236613702",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Zürich",
+    "addr:housenumber": "47",
+    "addr:postcode": "8032",
+    "addr:street": "Hegibachstrasse",
+    "defibrillator:location": "EG",
+    "description": "Koffer Orange",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:00-12:00 / 13:00-16:00",
+    "operator": "Lifetec AG",
+    "phone": "0800122144",
+    "ref": "1610LTM",
+    "id": "node/13236613702"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5637541,
+      47.3633
     ]
   }
 }

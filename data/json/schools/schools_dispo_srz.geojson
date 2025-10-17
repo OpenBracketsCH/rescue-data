@@ -129735,7 +129735,9 @@
   "type": "Feature",
   "id": "node/9642595626",
   "properties": {
+    "addr:city": "Zürich",
     "addr:housenumber": "5",
+    "addr:postcode": "8006",
     "addr:street": "Ottikerstrasse",
     "amenity": "school",
     "check_date": "2024-08-31",
@@ -130642,6 +130644,10 @@
   "type": "Feature",
   "id": "node/9719866404",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "109",
+    "addr:postcode": "8006",
+    "addr:street": "Weinbergstrasse",
     "amenity": "school",
     "check_date": "2024-06-28",
     "contact:city": "Zürich",
@@ -130650,7 +130656,7 @@
     "contact:phone": "+41 44 222 00 22",
     "contact:postcode": "8006",
     "contact:street": "Weinbergstrasse",
-    "contact:website": "https://www.talenta.ch/",
+    "contact:website": "https://www.talenta.ch",
     "isced:level": "1",
     "name": "Schule Talenta Zürich",
     "operator": "Talenta",
@@ -131988,6 +131994,7 @@
   "properties": {
     "addr:city": "Zürich",
     "addr:housenumber": "2",
+    "addr:postcode": "8006",
     "addr:street": "Scheuchzerstrasse",
     "amenity": "school",
     "description": "Sekundarschule",

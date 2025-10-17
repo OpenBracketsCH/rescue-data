@@ -17238,6 +17238,7 @@
   "id": "way/444377023",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2025-10-16",
     "name": "Alterswohnungen in den Bühlhäusern",
     "operator": "Stiftung Diakoniewerk Neumünster – Schweizerische Pflegerinnenschule",
     "social_facility": "group_home",
@@ -17285,16 +17286,16 @@
           47.3485893
         ],
         [
-          8.5962303,
-          47.3485656
+          8.5962731,
+          47.3485467
         ],
         [
-          8.5961284,
-          47.3485238
+          8.5961873,
+          47.3484807
         ],
         [
-          8.5960787,
-          47.3484684
+          8.5960972,
+          47.3484364
         ],
         [
           8.5960915,

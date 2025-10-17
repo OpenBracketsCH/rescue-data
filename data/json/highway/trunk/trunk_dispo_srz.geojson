@@ -6618,6 +6618,8 @@
     "toll": "yes",
     "tunnel": "yes",
     "tunnel:name": "Milchbucktunnel",
+    "wikidata": "Q1934398",
+    "wikipedia": "de:Milchbucktunnel",
     "id": "way/32554254"
   },
   "geometry": {
@@ -10928,12 +10930,14 @@
   "type": "Feature",
   "id": "way/145341491",
   "properties": {
+    "foot": "no",
     "highway": "trunk",
     "lanes": "1",
     "maxspeed": "60",
     "name": "Forchstrasse",
     "oneway": "yes",
     "ref": "A52",
+    "sidewalk": "no",
     "surface": "asphalt",
     "id": "way/145341491"
   },
@@ -10979,12 +10983,14 @@
   "type": "Feature",
   "id": "way/145341492",
   "properties": {
+    "foot": "no",
     "highway": "trunk",
     "lanes": "2",
     "maxspeed": "80",
     "name": "Forchstrasse",
     "oneway": "yes",
     "ref": "A52",
+    "sidewalk": "no",
     "surface": "asphalt",
     "turn:lanes": "merge_to_right|none",
     "id": "way/145341492"
@@ -15530,6 +15536,8 @@
     "toll": "yes",
     "tunnel": "yes",
     "tunnel:name": "Milchbucktunnel",
+    "wikidata": "Q1934398",
+    "wikipedia": "de:Milchbucktunnel",
     "id": "way/257237954"
   },
   "geometry": {
@@ -15768,12 +15776,14 @@
   "type": "Feature",
   "id": "way/288229670",
   "properties": {
+    "foot": "no",
     "highway": "trunk",
     "lanes": "1",
     "maxspeed": "80",
     "name": "Forchstrasse",
     "oneway": "yes",
     "ref": "A52",
+    "sidewalk": "no",
     "surface": "asphalt",
     "id": "way/288229670"
   },

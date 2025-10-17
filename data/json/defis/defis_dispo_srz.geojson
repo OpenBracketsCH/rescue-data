@@ -20361,7 +20361,7 @@
   "id": "node/8556519066",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Bei Bankomat",
+    "defibrillator:location": "Wisliger Märt Hausecke",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -20373,7 +20373,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7647317,
+      8.7647318,
       47.4300141
     ]
   }
@@ -26111,8 +26111,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4584997,
-      47.3978635
+      8.4584478,
+      47.3978676
     ]
   }
 },
@@ -46718,29 +46718,6 @@
     "coordinates": [
       8.508934,
       47.3925225
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10223310221",
-  "properties": {
-    "defibrillator:location": "Gebäude Zeltweg 29, 8032 Zürich",
-    "description": "während Bürozeiten",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "1",
-    "opening_hours": "Mo-Fr 08:30-12:00,13:30-17:30",
-    "operator": "WS Audiology Switzerland AG",
-    "phone": "+41 800972972",
-    "id": "node/10223310221"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5515594,
-      47.3681728
     ]
   }
 },
@@ -94424,6 +94401,59 @@
     "coordinates": [
       8.7705053,
       47.5012529
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13236002601",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Sauber, Reception",
+    "description": "Available only working days",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "operator": "Sauber Motorsport",
+    "phone": "+41 44 937 90 00",
+    "id": "node/13236002601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8320066,
+      47.3051282
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13236613702",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Zürich",
+    "addr:housenumber": "47",
+    "addr:postcode": "8032",
+    "addr:street": "Hegibachstrasse",
+    "defibrillator:location": "EG",
+    "description": "Koffer Orange",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:00-12:00 / 13:00-16:00",
+    "operator": "Lifetec AG",
+    "phone": "0800122144",
+    "ref": "1610LTM",
+    "id": "node/13236613702"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5637541,
+      47.3633
     ]
   }
 }
