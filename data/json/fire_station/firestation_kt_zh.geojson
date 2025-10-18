@@ -5743,7 +5743,9 @@
   "type": "Feature",
   "id": "node/1492865729",
   "properties": {
+    "addr:city": "Gockhausen",
     "addr:housenumber": "4",
+    "addr:postcode": "8044",
     "addr:street": "Obere Geerenstrasse",
     "amenity": "fire_station",
     "id": "node/1492865729"

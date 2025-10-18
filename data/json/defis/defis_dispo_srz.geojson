@@ -78398,6 +78398,7 @@
     "description": "Zugänglich während Öffnungszeiten Restaurant",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "operator": "Stoosbahnen",
     "id": "node/12105743459"
   },
@@ -92157,13 +92158,14 @@
   "id": "node/13022844702",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Mehrzweckhalle, gegenüber vom Haupteingang unter Dach",
-    "description": "jederzeit Verfügbar",
+    "defibrillator:location": "vor der MZH",
+    "description": "immer verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "1",
     "opening_hours": "24/7",
-    "operator": "Gemeinde Wollerau",
+    "operator": "Gemeinde wollerau",
     "phone": "+41 43 888 12 02",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/13022844702"
@@ -94454,6 +94456,48 @@
     "coordinates": [
       8.5637541,
       47.3633
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13238635001",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Kirche St.Katharina Haupteingang",
+    "description": "Während Öffnungszeit",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "8:00 - 17:00",
+    "operator": "Gemeinde",
+    "phone": "+41 79 267 03 93",
+    "id": "node/13238635001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.512028,
+      47.4154456
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13238743501",
+  "properties": {
+    "defibrillator:location": "Schulhaus Fahrweid, Eingang Turnhallentrakt rechts",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "id": "node/13238743501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4159897,
+      47.4111543
     ]
   }
 }

@@ -37514,7 +37514,12 @@
   "type": "Feature",
   "id": "way/1431566562",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "210",
+    "addr:postcode": "8050",
+    "addr:street": "Riedgrabenweg",
     "amenity": "kindergarten",
+    "name": "Kindergarten Riedgraben",
     "operator": "Stadt Zürich",
     "operator:type": "government",
     "id": "way/1431566562"
@@ -49523,8 +49528,14 @@
   "type": "Feature",
   "id": "node/12182910814",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "55",
+    "addr:postcode": "8050",
+    "addr:street": "Thurgauerstrasse",
     "amenity": "kindergarten",
-    "name": "Kindergarten Thurgauerstrasse",
+    "name": "Kindergarten Nordstern",
+    "operator": "Stadt Zürich",
+    "operator:type": "government",
     "phone": "+41 44 413 37 60",
     "preschool": "no",
     "id": "node/12182910814"

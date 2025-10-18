@@ -1322,7 +1322,6 @@
   "id": "way/30963741",
   "properties": {
     "amenity": "school",
-    "name": "Schulanlage Thurgauerstrasse",
     "id": "way/30963741"
   },
   "geometry": {
@@ -19742,7 +19741,9 @@
     "building": "school",
     "building:levels": "4",
     "grades": "1-4",
-    "name": "Schulanlage Thurgauerstrasse",
+    "name": "Schule Nordstern",
+    "operator": "Stadt Zürich",
+    "operator:type": "government",
     "id": "way/1312602999"
   },
   "geometry": {

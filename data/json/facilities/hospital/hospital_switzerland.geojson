@@ -11231,6 +11231,7 @@
     "name": "Lindenhofspital",
     "source": "survey and website",
     "website": "https://www.lindenhofgruppe.ch/de/standorte/lindenhof/",
+    "wheelchair": "yes",
     "wikidata": "Q30280704",
     "id": "way/91109658"
   },
