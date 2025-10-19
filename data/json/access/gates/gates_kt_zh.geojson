@@ -5857,6 +5857,7 @@
     "barrier": "gate",
     "foot": "no",
     "locked": "yes",
+    "maxwidth:physical": "2",
     "vehicle": "no",
     "id": "node/307921547"
   },
@@ -7330,23 +7331,6 @@
     "coordinates": [
       8.7713626,
       47.4368128
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/434324969",
-  "properties": {
-    "barrier": "gate",
-    "bicycle": "no",
-    "foot": "no",
-    "id": "node/434324969"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4797691,
-      47.4365228
     ]
   }
 },
@@ -21229,22 +21213,6 @@
     "coordinates": [
       8.6573192,
       47.2642104
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2359167627",
-  "properties": {
-    "barrier": "lift_gate",
-    "source": "survey",
-    "id": "node/2359167627"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6863454,
-      47.2192299
     ]
   }
 },

@@ -104419,6 +104419,28 @@
       47.3968395
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13240836572",
+  "properties": {
+    "addr:city": "Kemptthal",
+    "addr:housenumber": "5",
+    "addr:postcode": "8310",
+    "addr:street": "Kemptpark",
+    "amenity": "school",
+    "layer": "2",
+    "name": "Schweizerische Technische Fachschule Winterthur STFW",
+    "website": "https://www.stfw.ch/",
+    "id": "node/13240836572"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7049463,
+      47.4517347
+    ]
+  }
 }
 ]
 }
