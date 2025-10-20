@@ -1322,6 +1322,9 @@
   "id": "way/30963741",
   "properties": {
     "amenity": "school",
+    "name": "Schule Nordstern",
+    "operator": "Stadt Zürich",
+    "operator:type": "government",
     "id": "way/30963741"
   },
   "geometry": {
@@ -19741,7 +19744,6 @@
     "building": "school",
     "building:levels": "4",
     "grades": "1-4",
-    "name": "Schule Nordstern",
     "operator": "Stadt Zürich",
     "operator:type": "government",
     "id": "way/1312602999"

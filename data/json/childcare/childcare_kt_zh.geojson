@@ -13263,8 +13263,14 @@
   "type": "Feature",
   "id": "node/9892386988",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "79",
+    "addr:postcode": "8006",
+    "addr:street": "Nordstrasse",
     "amenity": "childcare",
+    "email": "info@schiguna.ch",
     "name": "Krippe Schiguna Kronenwiese",
+    "opening_hours": "Mo-Fr 07:00-18:00",
     "phone": "+41 445108470",
     "website": "https://www.schiguna.ch/",
     "id": "node/9892386988"

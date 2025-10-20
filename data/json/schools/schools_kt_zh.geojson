@@ -9588,6 +9588,9 @@
   "id": "way/30963741",
   "properties": {
     "amenity": "school",
+    "name": "Schule Nordstern",
+    "operator": "Stadt Zürich",
+    "operator:type": "government",
     "id": "way/30963741"
   },
   "geometry": {
@@ -89390,8 +89393,9 @@
   "id": "way/878133567",
   "properties": {
     "amenity": "school",
-    "check_date": "2024-08-16",
+    "check_date": "2025-10-20",
     "name": "Schule Reitmen",
+    "operator:type": "public",
     "id": "way/878133567"
   },
   "geometry": {
@@ -97690,7 +97694,6 @@
     "building": "school",
     "building:levels": "4",
     "grades": "1-4",
-    "name": "Schule Nordstern",
     "operator": "Stadt Zürich",
     "operator:type": "government",
     "id": "way/1312602999"
