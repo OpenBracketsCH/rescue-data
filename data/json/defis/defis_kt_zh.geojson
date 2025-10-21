@@ -18094,7 +18094,7 @@
   "id": "node/8816623418",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Turnhalle Pfaffverg",
+    "defibrillator:location": "Turnhalle Pfaffberg",
     "description": "neben Eingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -18105,8 +18105,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7934736,
-      47.3675494
+      8.7934734,
+      47.3675498
     ]
   }
 },
@@ -27938,13 +27938,14 @@
   "type": "Feature",
   "id": "node/9737204851",
   "properties": {
-    "access": "yes",
+    "access": "permissive",
     "defibrillator:location": "In der Werkstatt an der linken Wand",
     "description": "während Betriebszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Th 07:30-12:00, 13:00-17:15; Fr 07:30-12:00, 13:00-15:30",
+    "level": "0",
+    "opening_hours": "Mo-Th ,Fr  07:00 - 16:30, 07:00-12:00",
     "operator": "Rosenbauer Schweiz AG",
     "phone": "+41 43 411 12 12",
     "id": "node/9737204851"
@@ -27952,8 +27953,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5075189,
-      47.4747564
+      8.5073715,
+      47.4742615
     ]
   }
 },
@@ -73354,6 +73355,7 @@
     "emergency:phone": "144",
     "indoor": "no",
     "level": "0",
+    "opening_hours": "24/7",
     "operator": "HKD Dübendorf/ Stadt Dübendorf",
     "phone": "+41448217853",
     "id": "node/13230172601"
@@ -73361,8 +73363,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.608753,
-      47.376021
+      8.6087537,
+      47.3760201
     ]
   }
 },

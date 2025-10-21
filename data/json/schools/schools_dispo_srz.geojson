@@ -56515,6 +56515,7 @@
     "addr:street": "Im Chratz",
     "amenity": "school",
     "building": "yes",
+    "check_date": "2025-10-20",
     "name": "Primar- und Tagesschule Regensberg",
     "id": "way/190803614"
   },
@@ -104578,88 +104579,6 @@
         [
           8.7637222,
           47.1974616
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/551492552",
-  "properties": {
-    "amenity": "school",
-    "building": "school",
-    "contact:city": "Pfäffikon SZ",
-    "contact:email": "info@ksa.sz.ch",
-    "contact:housenumber": "4c",
-    "contact:phone": "+41 55 415 42 00",
-    "contact:postcode": "8808",
-    "contact:street": "Eichenstrasse",
-    "contact:website": "https://www.ksasz.ch",
-    "isced:level": "3",
-    "name": "Kantonsschule Ausserschwyz (Provisorium)",
-    "short_name": "KSA",
-    "id": "way/551492552"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7644688,
-          47.1970615
-        ],
-        [
-          8.7637744,
-          47.1969398
-        ],
-        [
-          8.7633373,
-          47.1968361
-        ],
-        [
-          8.7633891,
-          47.1967332
-        ],
-        [
-          8.7634315,
-          47.1967443
-        ],
-        [
-          8.7634895,
-          47.1966237
-        ],
-        [
-          8.7639021,
-          47.1967219
-        ],
-        [
-          8.7638661,
-          47.1967944
-        ],
-        [
-          8.764104,
-          47.1968394
-        ],
-        [
-          8.7641088,
-          47.1968184
-        ],
-        [
-          8.7641828,
-          47.1968316
-        ],
-        [
-          8.7641761,
-          47.1968521
-        ],
-        [
-          8.7645252,
-          47.1969126
-        ],
-        [
-          8.7644688,
-          47.1970615
         ]
       ]
     ]

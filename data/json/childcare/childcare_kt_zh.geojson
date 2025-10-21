@@ -13211,6 +13211,7 @@
   "id": "node/9776848825",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-10-20",
     "name": "Tobogan",
     "website": "https://www.centrum-cs-curych.ch/",
     "id": "node/9776848825"

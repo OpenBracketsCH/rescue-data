@@ -48865,6 +48865,7 @@
     "addr:street": "Im Chratz",
     "amenity": "school",
     "building": "yes",
+    "check_date": "2025-10-20",
     "name": "Primar- und Tagesschule Regensberg",
     "id": "way/190803614"
   },
