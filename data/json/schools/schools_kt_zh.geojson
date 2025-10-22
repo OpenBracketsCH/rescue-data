@@ -52047,6 +52047,10 @@
           47.3477054
         ],
         [
+          8.7072546,
+          47.3476019
+        ],
+        [
           8.7076017,
           47.3476906
         ],
@@ -104443,6 +104447,28 @@
     "coordinates": [
       8.7049463,
       47.4517347
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13247928601",
+  "properties": {
+    "addr:housenumber": "8",
+    "addr:postcode": "8462",
+    "addr:street": "Ochsengasse",
+    "amenity": "school",
+    "email": "info@bdas.ch",
+    "name": "Genossenschaft Biodynamische Ausbildung Schweiz",
+    "phone": "0041525101800",
+    "website": "https://demeterausbildung.ch",
+    "id": "node/13247928601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6041687,
+      47.6455137
     ]
   }
 }
