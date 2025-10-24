@@ -9024,6 +9024,7 @@
   "id": "node/8566507274",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-10-23",
     "contact:website": "https://www.globegarden.ch/",
     "name": "Globegarden",
     "id": "node/8566507274"

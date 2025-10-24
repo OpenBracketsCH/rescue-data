@@ -42133,7 +42133,7 @@
     "contact:postcode": "8152",
     "contact:street": "Schulstrasse",
     "contact:website": "https://www.schule-opfikon.ch/halden/unsere-schule/ueber-uns/p-418/",
-    "name": "Halden",
+    "name": "Schule Halden",
     "wheelchair": "limited",
     "id": "way/152220153"
   },
@@ -43184,7 +43184,7 @@
   "id": "way/156672380",
   "properties": {
     "amenity": "school",
-    "name": "Mettlen",
+    "name": "Schule Mettlen",
     "id": "way/156672380"
   },
   "geometry": {

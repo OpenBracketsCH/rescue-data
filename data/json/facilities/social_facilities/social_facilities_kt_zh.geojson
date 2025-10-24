@@ -19466,120 +19466,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/172400691",
-  "properties": {
-    "addr:city": "Dübendorf",
-    "addr:housenumber": "22",
-    "addr:postcode": "8600",
-    "addr:street": "Fällandenstrasse",
-    "amenity": "social_facility",
-    "building": "residential",
-    "name": "Haus A",
-    "social_facility": "nursing_home",
-    "id": "way/172400691"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6195867,
-          47.3879098
-        ],
-        [
-          8.6196011,
-          47.3879003
-        ],
-        [
-          8.6196071,
-          47.3879045
-        ],
-        [
-          8.6196599,
-          47.3878699
-        ],
-        [
-          8.6196708,
-          47.3878628
-        ],
-        [
-          8.6196645,
-          47.3878584
-        ],
-        [
-          8.6196731,
-          47.3878528
-        ],
-        [
-          8.6198468,
-          47.3877388
-        ],
-        [
-          8.6198195,
-          47.3877198
-        ],
-        [
-          8.6198462,
-          47.3877023
-        ],
-        [
-          8.6196581,
-          47.3875708
-        ],
-        [
-          8.6197701,
-          47.3874974
-        ],
-        [
-          8.6199161,
-          47.3875994
-        ],
-        [
-          8.6200243,
-          47.3876751
-        ],
-        [
-          8.6200587,
-          47.3876525
-        ],
-        [
-          8.6201604,
-          47.3877235
-        ],
-        [
-          8.6201252,
-          47.3877466
-        ],
-        [
-          8.6201492,
-          47.3877633
-        ],
-        [
-          8.6199403,
-          47.3879003
-        ],
-        [
-          8.6197479,
-          47.3880265
-        ],
-        [
-          8.6196176,
-          47.3879354
-        ],
-        [
-          8.6196206,
-          47.3879335
-        ],
-        [
-          8.6195867,
-          47.3879098
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/175713225",
   "properties": {
     "addr:city": "Regensdorf",
@@ -34862,7 +34748,7 @@
     "loc_name": "Pflegeeinrichtung Im Wil",
     "name": "IMWIL Alters- und Spitexzentrum Dübendorf",
     "operator": "Stadt Dübendorf",
-    "social_facility": "assisted_living",
+    "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "website": "https://imwil.ch/",
     "id": "way/761643641"

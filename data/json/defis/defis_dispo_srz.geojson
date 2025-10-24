@@ -19216,6 +19216,7 @@
   "id": "node/8461458032",
   "properties": {
     "access": "yes",
+    "check_date": "2025-10-23",
     "defibrillator:location": "Neben dem Kundendienst",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -94262,7 +94263,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7151587,
+      8.7151588,
       47.3501067
     ]
   }
@@ -94501,6 +94502,27 @@
     "coordinates": [
       8.5938798,
       47.4901762
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13252315501",
+  "properties": {
+    "defibrillator:location": "Eingang Gemeindeverwaltung",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Schlatt ZH",
+    "id": "node/13252315501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8285892,
+      47.4697333
     ]
   }
 }
