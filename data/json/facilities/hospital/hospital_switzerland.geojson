@@ -24794,6 +24794,60 @@
 },
 {
   "type": "Feature",
+  "id": "way/359113746",
+  "properties": {
+    "addr:city": "Corsier-sur-Vevey",
+    "addr:postcode": "1804",
+    "addr:street": "Route de Nant",
+    "building": "hospital",
+    "building:levels": "Rez inférieur",
+    "description": "Unité hospitalière de la personne âgée",
+    "healthcare": "hospital",
+    "name": "Molaine",
+    "id": "way/359113746"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8537254,
+          46.4790893
+        ],
+        [
+          6.8536092,
+          46.4789089
+        ],
+        [
+          6.8533377,
+          46.4789861
+        ],
+        [
+          6.8533061,
+          46.4789356
+        ],
+        [
+          6.8535825,
+          46.4788534
+        ],
+        [
+          6.8536755,
+          46.4788734
+        ],
+        [
+          6.8537958,
+          46.4790675
+        ],
+        [
+          6.8537254,
+          46.4790893
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/370366918",
   "properties": {
     "addr:city": "Lachen",
