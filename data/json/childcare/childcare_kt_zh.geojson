@@ -2135,6 +2135,10 @@
   "type": "Feature",
   "id": "way/154712765",
   "properties": {
+    "addr:city": "Dübendorf",
+    "addr:housenumber": "119",
+    "addr:postcode": "8600",
+    "addr:street": "Ueberlandstrasse",
     "amenity": "childcare",
     "building": "yes",
     "name": "Kinderpavillon Empa Eawag",
@@ -5111,6 +5115,7 @@
   "id": "node/830620117",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-10-26",
     "contact:city": "Zürich",
     "contact:housenumber": "189",
     "contact:phone": "+41 79 790 83 11",
@@ -6536,6 +6541,7 @@
   "id": "node/5295851870",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-10-26",
     "contact:city": "Zürich",
     "contact:housenumber": "78",
     "contact:phone": "+41 44 413 76 22",
@@ -9969,6 +9975,7 @@
   "id": "node/9260425360",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-10-26",
     "contact:city": "Zürich",
     "contact:housenumber": "180",
     "contact:phone": "+41 44 413 03 50",
@@ -10276,6 +10283,7 @@
   "id": "node/9292814645",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-10-26",
     "contact:city": "Zürich",
     "contact:housenumber": "24",
     "contact:phone": "+41 44 413 03 54",

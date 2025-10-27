@@ -2515,6 +2515,7 @@
     "addr:street": "Wolfswinkel",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2025-10-26",
     "name": "Kindergarten Reckenholz I + II",
     "note": "Aufgrund des Namens, vermutlich nicht der Originalstandort des Kindergartens",
     "phone": "+41 44 413 22 83",
@@ -24864,6 +24865,7 @@
   "id": "way/705215552",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-10-26",
     "contact:city": "Zürich",
     "contact:housenumber": "16",
     "contact:phone": "+41 44 413 75 27",
@@ -33423,6 +33425,7 @@
   "id": "node/830620095",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-10-26",
     "contact:city": "Zürich",
     "contact:housenumber": "189",
     "contact:postcode": "8008",
@@ -38578,9 +38581,14 @@
   "type": "Feature",
   "id": "node/6779465958",
   "properties": {
+    "addr:housenumber": "2",
+    "addr:street": "Schmittenstrasse",
     "after_school": "yes",
     "amenity": "kindergarten",
+    "email": "zickzack@primarobfelden.ch",
     "name": "Tagesstrukturen ZickZack",
+    "phone": "+41 44 552 18 13",
+    "website": "https://www.primarobfelden.ch/angebot/tagesstrukturen.html",
     "id": "node/6779465958"
   },
   "geometry": {
@@ -39845,6 +39853,7 @@
   "id": "node/9260425361",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-10-26",
     "contact:city": "Zürich",
     "contact:housenumber": "180",
     "contact:phone": "+41 44 413 03 42",

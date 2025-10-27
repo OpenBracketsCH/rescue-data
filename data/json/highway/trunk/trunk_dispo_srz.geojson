@@ -10376,28 +10376,8 @@
         47.7285536
       ],
       [
-        8.6273951,
-        47.7282536
-      ],
-      [
-        8.6277312,
-        47.7279558
-      ],
-      [
-        8.6279785,
-        47.7277262
-      ],
-      [
-        8.6282543,
-        47.7275032
-      ],
-      [
-        8.6286391,
-        47.7272112
-      ],
-      [
-        8.6289453,
-        47.726992
+        8.6273359,
+        47.7283171
       ]
     ]
   }
@@ -11549,7 +11529,7 @@
     "highway": "trunk",
     "lanes": "2",
     "maxspeed:backward": "60",
-    "maxspeed:forward": "100",
+    "maxspeed:forward": "80",
     "motorroad": "yes",
     "ref": "H4",
     "surface": "asphalt",
@@ -11610,7 +11590,7 @@
     "lanes": "3",
     "lanes:backward": "2",
     "lanes:forward": "1",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "motorroad": "yes",
     "ref": "H4",
     "surface": "asphalt",
@@ -11649,40 +11629,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6147189,
-        47.789443
-      ],
-      [
-        8.6150444,
-        47.7889352
-      ],
-      [
-        8.6151232,
-        47.7888117
-      ],
-      [
-        8.6152025,
-        47.7886706
-      ],
-      [
-        8.6152607,
-        47.788539
-      ],
-      [
-        8.6153253,
-        47.7883878
-      ],
-      [
-        8.6153759,
-        47.7882448
-      ],
-      [
-        8.6154228,
-        47.7880947
-      ],
-      [
-        8.6154684,
-        47.7878966
+        8.6154872,
+        47.7877637
       ],
       [
         8.6154984,
@@ -11894,7 +11842,8 @@
     "destination:forward": "Zürich;Singen;Schaffhausen-N;SH-Herblingen",
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "100",
+    "maxspeed:backward": "100",
+    "maxspeed:forward": "60",
     "motorroad": "yes",
     "ref": "H4",
     "toll": "yes",
@@ -11932,16 +11881,8 @@
         47.7252503
       ],
       [
-        8.632313,
-        47.7251354
-      ],
-      [
-        8.6325542,
-        47.7250396
-      ],
-      [
-        8.63274,
-        47.7249665
+        8.6323738,
+        47.725115
       ]
     ]
   }
@@ -11952,7 +11893,7 @@
   "properties": {
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "motorroad": "yes",
     "ref": "H4",
     "surface": "asphalt",
@@ -11993,7 +11934,7 @@
     "destination:forward": "SH-Schweizersbild",
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "motorroad": "yes",
     "ref": "H4",
     "surface": "asphalt",
@@ -13898,7 +13839,7 @@
   "properties": {
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "motorroad": "yes",
     "ref": "H4",
     "surface": "asphalt",
@@ -19533,7 +19474,7 @@
   "properties": {
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "motorroad": "yes",
     "ref": "H4",
     "surface": "asphalt",
@@ -22483,28 +22424,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6262671,
-        47.6912164
-      ],
-      [
-        8.6262166,
-        47.6912536
-      ],
-      [
-        8.626166,
-        47.6912939
-      ],
-      [
-        8.6261057,
-        47.691342
-      ],
-      [
-        8.6260609,
-        47.6913809
-      ],
-      [
-        8.6260029,
-        47.6914334
+        8.6259306,
+        47.6914978
       ],
       [
         8.6258389,
@@ -22578,7 +22499,9 @@
     "lanes:forward": "2",
     "lit": "yes",
     "maxheight": "default",
-    "maxspeed": "80",
+    "maxspeed:backward": "60",
+    "maxspeed:forward": "80",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "placement": "left_of:1",
@@ -22643,7 +22566,9 @@
     "layer": "-5",
     "lit": "yes",
     "maxheight": "default",
-    "maxspeed": "80",
+    "maxspeed:backward": "60",
+    "maxspeed:forward": "80",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "overtaking": "no",
@@ -22803,7 +22728,9 @@
     "lanes:backward": "2",
     "lanes:forward": "2",
     "lit": "yes",
-    "maxspeed": "80",
+    "maxspeed:backward": "60",
+    "maxspeed:forward": "80",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "overtaking": "no",
@@ -22827,8 +22754,8 @@
         47.7049423
       ],
       [
-        8.6369891,
-        47.7053404
+        8.6369048,
+        47.7052361
       ]
     ]
   }
@@ -22959,7 +22886,8 @@
     "layer": "-1",
     "lit": "yes",
     "maxheight": "default",
-    "maxspeed": "80",
+    "maxspeed:backward": "80",
+    "maxspeed:forward": "60",
     "motorroad": "yes",
     "nat_name": "N4",
     "ref": "A4",
@@ -24359,7 +24287,7 @@
     "lanes": "3",
     "lanes:backward": "1",
     "lanes:forward": "2",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "motorroad": "yes",
     "placement": "right_of:1",
     "ref": "H4",
@@ -24390,7 +24318,7 @@
     "lanes": "3",
     "lanes:backward": "1",
     "lanes:forward": "2",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "motorroad": "yes",
     "ref": "H4",
     "surface": "asphalt",
@@ -24421,7 +24349,7 @@
     "lanes": "4",
     "lanes:backward": "2",
     "lanes:forward": "2",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "motorroad": "yes",
     "ref": "H4",
     "surface": "asphalt",
@@ -24452,7 +24380,7 @@
     "lanes": "3",
     "lanes:backward": "2",
     "lanes:forward": "1",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "motorroad": "yes",
     "placement": "right_of:2",
     "ref": "H4",
@@ -24521,7 +24449,8 @@
     "destination:lanes:forward": "Zürich;Singen;Schaffhausen-N;SH-Herblingen|SH-Schweizersbild;Lohn",
     "highway": "trunk",
     "lanes": "4",
-    "maxspeed": "100",
+    "maxspeed:backward": "100",
+    "maxspeed:forward": "60",
     "motorroad": "yes",
     "ref": "H4",
     "toll": "no",
@@ -24551,7 +24480,8 @@
     "lanes": "3",
     "lanes:backward": "1",
     "lanes:forward": "2",
-    "maxspeed": "100",
+    "maxspeed:backward": "100",
+    "maxspeed:forward": "60",
     "motorroad": "yes",
     "placement": "right_of:2",
     "ref": "H4",
@@ -25310,7 +25240,9 @@
     "layer": "-5",
     "lit": "yes",
     "maxheight": "default",
-    "maxspeed": "80",
+    "maxspeed:backward": "60",
+    "maxspeed:forward": "80",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "overtaking": "no",
@@ -25351,7 +25283,9 @@
     "lanes:forward": "1",
     "lit": "yes",
     "maxheight": "default",
-    "maxspeed": "80",
+    "maxspeed:backward": "60",
+    "maxspeed:forward": "80",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "placement": "left_of:1",
@@ -28780,7 +28714,9 @@
     "layer": "-1",
     "lit": "yes",
     "maxheight": "default",
-    "maxspeed": "60",
+    "maxspeed:backward": "80",
+    "maxspeed:forward": "60",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "ref": "A4",
@@ -28833,7 +28769,9 @@
     "layer": "1",
     "lit": "yes",
     "maxheight": "default",
-    "maxspeed": "80",
+    "maxspeed:backward": "60",
+    "maxspeed:forward": "80",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "placement": "left_of:1",
@@ -28869,7 +28807,9 @@
     "int_ref": "E 41;E 54",
     "lanes": "2",
     "lit": "yes",
-    "maxspeed": "80",
+    "maxspeed:backward": "60",
+    "maxspeed:forward": "80",
+    "maxspeed:variable": "yes",
     "motorroad": "yes",
     "nat_name": "N4",
     "overtaking": "no",
@@ -29702,16 +29642,16 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6317598,
-        47.6777675
+        8.6317472,
+        47.6777885
       ],
       [
-        8.6316106,
-        47.6776532
+        8.631598,
+        47.6776742
       ],
       [
         8.6314503,
-        47.6775417
+        47.6775414
       ],
       [
         8.631244,
@@ -29749,8 +29689,8 @@
         47.677924
       ],
       [
-        8.6317598,
-        47.6777675
+        8.6317472,
+        47.6777885
       ]
     ]
   }
@@ -29865,6 +29805,240 @@
       [
         8.6895932,
         47.595351
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1445250022",
+  "properties": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "80",
+    "motorroad": "yes",
+    "ref": "H4",
+    "surface": "asphalt",
+    "toll": "no",
+    "id": "way/1445250022"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6147189,
+        47.789443
+      ],
+      [
+        8.6150444,
+        47.7889352
+      ],
+      [
+        8.6151232,
+        47.7888117
+      ],
+      [
+        8.6152025,
+        47.7886706
+      ],
+      [
+        8.6152607,
+        47.788539
+      ],
+      [
+        8.6153253,
+        47.7883878
+      ],
+      [
+        8.6153759,
+        47.7882448
+      ],
+      [
+        8.6154228,
+        47.7880947
+      ],
+      [
+        8.6154684,
+        47.7878966
+      ],
+      [
+        8.6154872,
+        47.7877637
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1445250403",
+  "properties": {
+    "destination:forward": "Zürich;Singen;Schaffhausen-N;SH-Herblingen",
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "100",
+    "motorroad": "yes",
+    "ref": "H4",
+    "toll": "yes",
+    "id": "way/1445250403"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6323738,
+        47.725115
+      ],
+      [
+        8.6325542,
+        47.7250396
+      ],
+      [
+        8.63274,
+        47.7249665
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1445250404",
+  "properties": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed:backward": "100",
+    "maxspeed:forward": "80",
+    "motorroad": "yes",
+    "ref": "H4",
+    "surface": "asphalt",
+    "toll": "no",
+    "id": "way/1445250404"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6273359,
+        47.7283171
+      ],
+      [
+        8.6277312,
+        47.7279558
+      ],
+      [
+        8.6279785,
+        47.7277262
+      ],
+      [
+        8.6282543,
+        47.7275032
+      ],
+      [
+        8.6286391,
+        47.7272112
+      ],
+      [
+        8.6289453,
+        47.726992
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1445251189",
+  "properties": {
+    "bicycle": "no",
+    "change:lanes": "not_left|",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 41;E 54",
+    "lanes": "4",
+    "lanes:backward": "2",
+    "lanes:forward": "2",
+    "lit": "yes",
+    "maxspeed": "80",
+    "motorroad": "yes",
+    "nat_name": "N4",
+    "overtaking": "no",
+    "ref": "A4",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through|slight_right",
+    "turn:lanes:backward": "through|merge_to_left",
+    "id": "way/1445251189"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6369048,
+        47.7052361
+      ],
+      [
+        8.6369891,
+        47.7053404
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1445251905",
+  "properties": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 41",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed:backward": "80",
+    "maxspeed:forward": "60",
+    "maxspeed:variable": "yes",
+    "maxweight:signed": "no",
+    "motorroad": "yes",
+    "nat_name": "N4",
+    "ref": "A4",
+    "shoulder": "right",
+    "surface": "asphalt",
+    "toll": "yes",
+    "width": "6.5",
+    "id": "way/1445251905"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6262671,
+        47.6912164
+      ],
+      [
+        8.6262166,
+        47.6912536
+      ],
+      [
+        8.626166,
+        47.6912939
+      ],
+      [
+        8.6261057,
+        47.691342
+      ],
+      [
+        8.6260609,
+        47.6913809
+      ],
+      [
+        8.6260029,
+        47.6914334
+      ],
+      [
+        8.6259306,
+        47.6914978
       ]
     ]
   }
