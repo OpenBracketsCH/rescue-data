@@ -51381,30 +51381,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10763276776",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "rechts von Empfang an Säule",
-    "description": "oranger Koffer",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "name": "J.H. Keller AG",
-    "opening_hours": "Mo-Fr 07:15-18:00; Sa 09:00-16:00",
-    "operator": "Lifetec AG Schweiz",
-    "phone": "+41 800 122 144",
-    "id": "node/10763276776"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.48211,
-      47.39435
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10763276777",
   "properties": {
     "access": "yes",
@@ -53953,8 +53929,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.46335,
-      47.39809
+      8.4631655,
+      47.3978308
     ]
   }
 },
@@ -94566,6 +94542,74 @@
     "coordinates": [
       8.5988733,
       47.5098878
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13261008801",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Blegi 5, 6343 Rotkreuz",
+    "description": "während Büroöffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "enovetic ag",
+    "id": "node/13261008801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4394529,
+      47.1470388
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13261035301",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Gemeindeverwaltung Niederweningen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeinde Niederweningen",
+    "phone": "+41 44 857 12 20",
+    "id": "node/13261035301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3816193,
+      47.506106
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13261481099",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Restaurant Neudorf",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Restaurant Neudorf",
+    "phone": "+41 44 312 34 40",
+    "wheelchair": "limited",
+    "id": "node/13261481099"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5557767,
+      47.4119064
     ]
   }
 }

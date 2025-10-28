@@ -36175,14 +36175,15 @@
     "addr:street": "Lindackerweg",
     "amenity": "kindergarten",
     "contact:phone": "+41 44 850 29 31",
+    "education": "kindergarten",
     "name": "Kindergarten Lindacker",
     "id": "node/5197116921"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4873881,
-      47.4822118
+      8.4873651,
+      47.4822072
     ]
   }
 },

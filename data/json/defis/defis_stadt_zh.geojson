@@ -7716,30 +7716,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10763276776",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "rechts von Empfang an Säule",
-    "description": "oranger Koffer",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "name": "J.H. Keller AG",
-    "opening_hours": "Mo-Fr 07:15-18:00; Sa 09:00-16:00",
-    "operator": "Lifetec AG Schweiz",
-    "phone": "+41 800 122 144",
-    "id": "node/10763276776"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.48211,
-      47.39435
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10763276779",
   "properties": {
     "access": "no",
@@ -17313,6 +17289,30 @@
     "coordinates": [
       8.512028,
       47.4154456
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13261481099",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Restaurant Neudorf",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Restaurant Neudorf",
+    "phone": "+41 44 312 34 40",
+    "wheelchair": "limited",
+    "id": "node/13261481099"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5557767,
+      47.4119064
     ]
   }
 }

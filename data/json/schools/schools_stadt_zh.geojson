@@ -5591,17 +5591,17 @@
   "id": "way/93078997",
   "properties": {
     "amenity": "school",
-    "check_date": "2024-07-08",
     "contact:city": "Zürich",
     "contact:housenumber": "1",
     "contact:phone": "+41 44 413 12 70",
     "contact:postcode": "8002",
     "contact:street": "Schulhausstrasse",
-    "contact:website": "https://www.stadt-zuerich.ch/ssd/de/index/volksschule/schulkreise_kreisschulbehoerden/uto/schulen/lavater_schuleinheit/schulhaus.html",
     "description": "Sekundarschule",
+    "education": "school",
     "name": "Schule Lavater",
     "operator": "Stadt Zürich, SSD, Schulkreis Uto, Schuleinheit Lavater",
     "operator:type": "public",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/lavater.html",
     "id": "way/93078997"
   },
   "geometry": {
