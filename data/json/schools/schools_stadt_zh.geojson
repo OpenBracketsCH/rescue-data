@@ -14079,6 +14079,7 @@
     "contact:street": "Wolfswinkel",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/imisengrind/ueberuns/standorte/schulhaus.html",
     "description": "Primarschule",
+    "education": "school",
     "name": "Schule Im Isengrind",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Im Isegrind",
     "operator:type": "public",
@@ -14209,20 +14210,20 @@
           47.4228044
         ],
         [
-          8.5153054,
-          47.4228402
+          8.5152884,
+          47.4228584
         ],
         [
-          8.5156137,
-          47.4230594
+          8.5155915,
+          47.4230812
         ],
         [
-          8.5157508,
-          47.4231202
+          8.5157569,
+          47.4231541
         ],
         [
-          8.5160424,
-          47.423308
+          8.5160396,
+          47.423339
         ],
         [
           8.5158711,
@@ -19202,12 +19203,24 @@
           47.3873725
         ],
         [
+          8.4950547,
+          47.3873786
+        ],
+        [
           8.4951716,
           47.3875885
         ],
         [
           8.4948942,
           47.387681
+        ],
+        [
+          8.4948829,
+          47.3876521
+        ],
+        [
+          8.4947742,
+          47.387375
         ],
         [
           8.4947694,

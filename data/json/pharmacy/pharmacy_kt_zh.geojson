@@ -6956,6 +6956,31 @@
       47.5026302
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13265064647",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:housenumber": "18a",
+    "addr:postcode": "8600",
+    "addr:street": "Ringstrasse",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Smartpharm",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00; PH off",
+    "website": "https://ihre-apotheke.ch/de/2123/duebendorf/apotheke-smartpharm-apotheke-ringstrasse-ag",
+    "id": "node/13265064647"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.604491,
+      47.3984796
+    ]
+  }
 }
 ]
 }

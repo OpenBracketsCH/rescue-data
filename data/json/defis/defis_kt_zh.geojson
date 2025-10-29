@@ -192,16 +192,19 @@
   "id": "node/3097773751",
   "properties": {
     "check_date": "2024-09-07",
+    "defibrillator:location": "Freibad Eingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Badegenossenschaft Bichelsee",
     "id": "node/3097773751"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.898851,
-      47.4559013
+      8.8988507,
+      47.4559007
     ]
   }
 },
@@ -73641,6 +73644,47 @@
     "coordinates": [
       8.5557767,
       47.4119064
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13264658401",
+  "properties": {
+    "defibrillator:location": "Wallisellen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "id": "node/13264658401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5911946,
+      47.4166051
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13265821401",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Samsung Schweiz, beim Empfang",
+    "description": "Während den Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "Samsung Schweiz",
+    "id": "node/13265821401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5211916,
+      47.3582084
     ]
   }
 }
