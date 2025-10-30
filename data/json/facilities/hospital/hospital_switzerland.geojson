@@ -37957,7 +37957,6 @@
   "properties": {
     "amenity": "clinic",
     "ele": "496",
-    "fixme": "Check tagging",
     "healthcare": "clinic",
     "healthcare:speciality": "paediatrics",
     "name": "Centre de développement et neuroréhabilitation pédiatrique de la fondation Wildermeth Bienne / Zentrum für Entwicklungsförderung und pädiatrische Neurorehabilitation der Stiftung Wildermeth Biel",
@@ -55811,7 +55810,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "radiology",
     "name": "RODIAG Diagnostic Centers Röntgeninstitut",
-    "phone": "0800 440 014",
+    "phone": "+41 58 401 15 00",
     "website": "https://www.rodiag.ch/willkommen/standorte/jona/",
     "id": "node/9786676756"
   },

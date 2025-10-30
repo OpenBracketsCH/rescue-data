@@ -36994,6 +36994,7 @@
   "id": "node/3252674287",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "1.2",
     "id": "node/3252674287"
   },
   "geometry": {
@@ -66024,6 +66025,7 @@
   "id": "node/8026553310",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "1.2",
     "id": "node/8026553310"
   },
   "geometry": {
