@@ -8660,6 +8660,7 @@
     "contact:street": "Schwandenholzstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/himmeri/ueberuns/standorte/schulhaus.html",
     "description": "Primarschule",
+    "education": "school",
     "name": "Schule Heumatt",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Himmeri",
     "operator:type": "public",
@@ -21672,6 +21673,7 @@
     "building": "school",
     "building:levels": "3",
     "check_date": "2024-06-11",
+    "education": "school",
     "isced:level": "1;2",
     "name": "Schulhaus Kolbenacker",
     "owner": "Immobilien Stadt Zürich (IMMO)",
@@ -54870,68 +54872,64 @@
     "coordinates": [
       [
         [
-          8.4671141,
-          47.4342548
+          8.4671108,
+          47.4342471
         ],
         [
-          8.4670698,
-          47.4342138
+          8.4670702,
+          47.4342105
         ],
         [
           8.4669449,
           47.4342483
         ],
         [
-          8.4667743,
-          47.4340917
+          8.4667767,
+          47.4340878
         ],
         [
           8.4668592,
           47.4340492
         ],
         [
-          8.4668308,
-          47.4340233
+          8.4668246,
+          47.4340186
         ],
         [
-          8.4669073,
-          47.4339845
+          8.4669098,
+          47.4339756
         ],
         [
-          8.4669131,
-          47.4339892
+          8.4669187,
+          47.4339829
         ],
         [
-          8.4669374,
-          47.4339763
+          8.4669444,
+          47.4339708
         ],
         [
-          8.4671263,
-          47.4341492
+          8.4671319,
+          47.434141
         ],
         [
-          8.4671878,
-          47.4341194
+          8.4671918,
+          47.4341113
         ],
         [
-          8.4672613,
-          47.4341873
+          8.46727,
+          47.4341876
         ],
         [
-          8.4672016,
-          47.4342172
+          8.4672172,
+          47.4342125
         ],
         [
-          8.4671994,
-          47.4342155
+          8.4672052,
+          47.4342013
         ],
         [
-          8.4671166,
-          47.4342573
-        ],
-        [
-          8.4671141,
-          47.4342548
+          8.4671108,
+          47.4342471
         ]
       ]
     ]
@@ -74059,6 +74057,7 @@
     "contact:street": "Höhernring",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/buhn/ueberuns/standorte/schulhaus.html#schulhaus_buhn",
     "description": "Primarschule",
+    "education": "school",
     "name": "Schule Buhn",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Buhn",
     "operator:type": "public",
@@ -74252,6 +74251,7 @@
     "contact:street": "Buhnrain",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/buhnrain/ueberuns/standorte/schulhaus.html",
     "description": "Sekundarschule",
+    "education": "school",
     "name": "Schule Buhnrain",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Buhnrain",
     "operator:type": "public",
@@ -74525,6 +74525,7 @@
     "contact:street": "Himmeristrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/himmeri/ueberuns/standorte/schulhaus.html",
     "description": "Primarschule",
+    "education": "school",
     "name": "Schule Himmeri Staudenbühl",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Himmeri",
     "operator:type": "public",
@@ -74758,6 +74759,7 @@
     "contact:street": "Schönauweg",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/buchwiesen.html",
     "description": "Primarschule",
+    "education": "school",
     "name": "Schul- und Sportanlage Buchwiesen",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Buchwiesen",
     "operator:type": "public",
@@ -74901,6 +74903,7 @@
     "contact:street": "Sperletweg",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kolbenacker/ueberuns/standorte/schulhaus.html",
     "description": "Primar- und Sekundarschule",
+    "education": "school",
     "name": "Schule Kolbenacker",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Kolbenacker",
     "operator:type": "public",
@@ -118972,36 +118975,36 @@
     "coordinates": [
       [
         [
-          8.4672016,
-          47.4342172
+          8.4672172,
+          47.4342125
         ],
         [
-          8.4673322,
-          47.4343385
+          8.4673469,
+          47.4343325
         ],
         [
-          8.4672043,
-          47.4344031
+          8.4672973,
+          47.434357
         ],
         [
-          8.4670692,
-          47.4342781
+          8.467203,
+          47.4344037
         ],
         [
-          8.4671141,
-          47.4342548
+          8.4670606,
+          47.434272
         ],
         [
-          8.4671166,
-          47.4342573
+          8.4671108,
+          47.4342471
         ],
         [
-          8.4671994,
-          47.4342155
+          8.4672052,
+          47.4342013
         ],
         [
-          8.4672016,
-          47.4342172
+          8.4672172,
+          47.4342125
         ]
       ]
     ]
@@ -123835,28 +123838,28 @@
     "coordinates": [
       [
         [
-          8.4669608,
-          47.4345169
+          8.4669621,
+          47.4345238
         ],
         [
-          8.466537,
-          47.4337704
+          8.4665495,
+          47.4337768
         ],
         [
-          8.4668378,
-          47.433673
+          8.4668503,
+          47.4336794
         ],
         [
-          8.4672946,
-          47.4341477
+          8.4673071,
+          47.4341541
         ],
         [
-          8.4673516,
-          47.4343316
+          8.467351,
+          47.4343333
         ],
         [
-          8.4669608,
-          47.4345169
+          8.4669621,
+          47.4345238
         ]
       ]
     ]

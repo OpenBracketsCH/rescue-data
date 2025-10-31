@@ -3455,6 +3455,7 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "check_date": "2024-06-11",
+    "education": "kindergarten",
     "isced:level": "0",
     "name": "Kindergarten Kolbenacker I",
     "phone": "+41 44 413 03 79",
@@ -22625,6 +22626,7 @@
     "contact:postcode": "8052",
     "contact:street": "Schwandenacker",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/himmeri/ueberuns/standorte/kindergaerten.html#himmeri_-_schwandenwieseniii",
+    "education": "kindergarten",
     "name": "Kindergarten Schwandenwiesen",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Himmeri",
     "operator:type": "public",
@@ -33148,6 +33150,7 @@
     "addr:postcode": "8052",
     "addr:street": "Katzenbachstrasse",
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "isced:level": "0",
     "name": "Kindergarten Katzenbach I + II",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
@@ -36876,46 +36879,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6624151063",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Mittag-/Abendhort Buhn 3",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "id": "node/6624151063"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5409271,
-      47.4201569
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6624151064",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "100",
-    "addr:postcode": "8052",
-    "addr:street": "Katzenbachstrasse",
-    "amenity": "kindergarten",
-    "isced:level": "0",
-    "name": "Katzenbach I + II Morgen-Mittag-Abendhort",
-    "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",
-    "phone": "+41 44 413 78 62",
-    "id": "node/6624151064"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5465239,
-      47.4231167
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6624210538",
   "properties": {
     "amenity": "kindergarten",
@@ -38586,6 +38549,7 @@
     "addr:street": "Schmittenstrasse",
     "after_school": "yes",
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "email": "zickzack@primarobfelden.ch",
     "name": "Tagesstrukturen ZickZack",
     "phone": "+41 44 552 18 13",
@@ -38595,8 +38559,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4224341,
-      47.2622036
+      8.4234855,
+      47.2625058
     ]
   }
 },
