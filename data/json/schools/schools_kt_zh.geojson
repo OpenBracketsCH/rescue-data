@@ -103717,8 +103717,10 @@
   "id": "node/9960732400",
   "properties": {
     "addr:floor": "3",
+    "addr:housenumber": "30",
+    "addr:street": "Pfäffikerstrasse",
     "amenity": "school",
-    "check_date": "2025-05-03",
+    "check_date": "2025-10-30",
     "name": "KuSS Kunst- und Sportschule",
     "id": "node/9960732400"
   },
