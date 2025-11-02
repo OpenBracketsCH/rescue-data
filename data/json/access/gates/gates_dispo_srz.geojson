@@ -9507,6 +9507,7 @@
     "barrier": "gate",
     "bicycle": "yes",
     "foot": "yes",
+    "maxwidth:physical": "0.9",
     "id": "node/472294753"
   },
   "geometry": {
@@ -10014,6 +10015,7 @@
     "barrier": "gate",
     "bicycle": "yes",
     "foot": "yes",
+    "maxwidth:physical": "5",
     "id": "node/498433553"
   },
   "geometry": {
@@ -21331,8 +21333,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8462031,
-      47.4252706
+      8.8460922,
+      47.4253265
     ]
   }
 },
@@ -33234,6 +33236,7 @@
     "barrier": "gate",
     "bicycle": "yes",
     "foot": "yes",
+    "maxwidth:physical": "5",
     "id": "node/2805476259"
   },
   "geometry": {
@@ -94025,6 +94028,7 @@
   "properties": {
     "barrier": "gate",
     "foot": "yes",
+    "maxwidth:physical": "12",
     "id": "node/11610835462"
   },
   "geometry": {

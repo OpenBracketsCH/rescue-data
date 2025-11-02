@@ -206,65 +206,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/4310693",
-  "properties": {
-    "destination": "Zürich-City",
-    "destination:lanes": "Zürich-City|Zürich-City",
-    "highway": "motorway",
-    "lanes": "2",
-    "lit": "yes",
-    "maxheight": "default",
-    "maxspeed": "100",
-    "oneway": "yes",
-    "ref": "A1H",
-    "surface": "asphalt",
-    "toll": "yes",
-    "id": "way/4310693"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.4227483,
-        47.4138406
-      ],
-      [
-        8.4232156,
-        47.4136696
-      ],
-      [
-        8.4236425,
-        47.4134756
-      ],
-      [
-        8.4241826,
-        47.413234
-      ],
-      [
-        8.4250145,
-        47.4128833
-      ],
-      [
-        8.4258319,
-        47.412557
-      ],
-      [
-        8.4265098,
-        47.4123056
-      ],
-      [
-        8.4267803,
-        47.4122074
-      ],
-      [
-        8.4270427,
-        47.4121148
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/4310694",
   "properties": {
     "avz": "66",
@@ -33767,7 +33708,7 @@
     "ref": "A1;A3",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "slight_left|slight_left|slight_right|slight_right|slight_right",
+    "turn:lanes": "none|none|slight_right|slight_right|slight_right",
     "id": "way/77074946"
   },
   "geometry": {
@@ -33798,12 +33739,8 @@
         47.4143639
       ],
       [
-        8.4222661,
-        47.4140605
-      ],
-      [
-        8.4227483,
-        47.4138406
+        8.4222678,
+        47.4140599
       ]
     ]
   }
@@ -62190,73 +62127,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/383751583",
-  "properties": {
-    "destination:lanes": "Zürich City|",
-    "highway": "motorway",
-    "lanes": "2",
-    "lit": "yes",
-    "maxheight": "default",
-    "maxspeed": "100",
-    "oneway": "yes",
-    "ref": "A1H",
-    "source:maxspeed": "sign",
-    "surface": "asphalt",
-    "toll": "yes",
-    "id": "way/383751583"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.4270427,
-        47.4121148
-      ],
-      [
-        8.4276903,
-        47.4118976
-      ],
-      [
-        8.4280087,
-        47.4117927
-      ],
-      [
-        8.4286641,
-        47.4115952
-      ],
-      [
-        8.4290439,
-        47.4114843
-      ],
-      [
-        8.429345,
-        47.4114015
-      ],
-      [
-        8.4297282,
-        47.4112986
-      ],
-      [
-        8.430173,
-        47.4111875
-      ],
-      [
-        8.4305982,
-        47.4110844
-      ],
-      [
-        8.4309031,
-        47.4110174
-      ],
-      [
-        8.4312061,
-        47.4109503
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/383751584",
   "properties": {
     "avz": "66",
@@ -64204,40 +64074,6 @@
       [
         8.4190802,
         47.4156159
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/438517756",
-  "properties": {
-    "destination": "Zürich City",
-    "highway": "motorway",
-    "lanes": "2",
-    "lit": "no",
-    "maxspeed": "100",
-    "oneway": "yes",
-    "ref": "A1H",
-    "source:maxspeed": "sign",
-    "surface": "asphalt",
-    "toll": "yes",
-    "id": "way/438517756"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.4312061,
-        47.4109503
-      ],
-      [
-        8.4316508,
-        47.4108584
-      ],
-      [
-        8.4324751,
-        47.4106996
       ]
     ]
   }

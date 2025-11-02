@@ -49075,10 +49075,6 @@
   "type": "Feature",
   "id": "way/1234440958",
   "properties": {
-    "addr:city": "S. Pietro",
-    "addr:housenumber": "16",
-    "addr:postcode": "6854",
-    "addr:street": "Via Segeno",
     "amenity": "clinic",
     "building": "yes",
     "healthcare": "clinic",

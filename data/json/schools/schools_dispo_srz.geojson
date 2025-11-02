@@ -17162,6 +17162,7 @@
   "properties": {
     "amenity": "school",
     "check_date": "2025-10-14",
+    "education": "school",
     "name": "Schule Wilacker",
     "id": "way/37347275"
   },
@@ -17170,8 +17171,8 @@
     "coordinates": [
       [
         [
-          8.5201726,
-          47.3038431
+          8.5199815,
+          47.3038179
         ],
         [
           8.5209327,
@@ -17202,8 +17203,8 @@
           47.3041459
         ],
         [
-          8.5201726,
-          47.3038431
+          8.5199815,
+          47.3038179
         ]
       ]
     ]
@@ -132329,6 +132330,22 @@
     "coordinates": [
       8.6691899,
       47.0147214
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13274022593",
+  "properties": {
+    "amenity": "school",
+    "name": "Berufsfachschule Uster BFSU",
+    "id": "node/13274022593"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7063486,
+      47.3456683
     ]
   }
 }
