@@ -40505,7 +40505,7 @@
     "healthcare": "hospital",
     "name": "Hôpital neuchâtelois Le Locle",
     "operator": "Hôpital neuchâtelois",
-    "phone": "+41 (32) 933 61 11",
+    "phone": "+41 32 933 61 11",
     "source": "orthophotos2006sitn50cm",
     "website": "https://www.h-ne.ch/contact/le-locle",
     "id": "way/677064257"
@@ -52550,11 +52550,11 @@
     "addr:postcode": "9244",
     "addr:street": "Marktstrasse",
     "amenity": "clinic",
+    "email": "uzepraxis@hin.ch",
     "healthcare": "clinic",
-    "name": "Uzepraxis",
+    "name": "Dr. med. Igor Kordish",
     "opening_hours": "Mo,We-Fr 07:30-12:00,13:30-17:30; Tu 07:30-17:30",
-    "phone": "0719550044",
-    "website": "http://uzepraxis.ch/",
+    "phone": "+41 71 955 00 44",
     "wheelchair": "yes",
     "id": "node/4497868586"
   },

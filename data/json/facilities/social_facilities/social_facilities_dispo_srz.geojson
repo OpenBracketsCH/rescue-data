@@ -53043,6 +53043,7 @@
   "id": "node/5274657030",
   "properties": {
     "amenity": "social_facility",
+    "check_date": "2025-11-02",
     "name": "SAW-Siedlung Dufourstrasse",
     "operator": "Stiftung Alterswohnungen der Stadt Zürich",
     "operator:short": "SAW",

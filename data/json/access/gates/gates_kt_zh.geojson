@@ -45732,6 +45732,7 @@
     "barrier": "gate",
     "bicycle": "yes",
     "foot": "yes",
+    "maxwidth:physical": "1.75",
     "id": "node/5789987040"
   },
   "geometry": {
@@ -56383,6 +56384,7 @@
   "id": "node/7796572159",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "2.5",
     "id": "node/7796572159"
   },
   "geometry": {
@@ -62376,6 +62378,7 @@
   "id": "node/8829117560",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "2",
     "id": "node/8829117560"
   },
   "geometry": {
