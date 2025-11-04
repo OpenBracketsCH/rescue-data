@@ -42054,6 +42054,7 @@
     "contact:postcode": "8050",
     "contact:street": "Regensbergstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/kuegeliloo/ueberuns/standorte/kindergaerten.html#kindergarten_holunderhofi",
+    "education": "kindergarten",
     "isced:level": "0",
     "name": "Kindergarten Holunderhof 1+2",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Kügeliloo",
@@ -45129,6 +45130,7 @@
   "id": "node/9277806056",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-11-03",
     "contact:city": "Zürich",
     "contact:housenumber": "71",
     "contact:phone": "+41 44 413 15 00",

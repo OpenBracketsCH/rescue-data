@@ -208,6 +208,7 @@
     "addr:postcode": "8008",
     "addr:street": "Riesbachstrasse",
     "amenity": "police",
+    "check_date": "2025-11-03",
     "name": "Quartierwache Riesbach",
     "opening_hours": "Mo 07:00-13:00; Tu-Fr 08:00-17:00; Th 08:00-13:00",
     "operator": "Stadtpolizei Zürich",

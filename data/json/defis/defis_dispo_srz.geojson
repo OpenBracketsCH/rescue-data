@@ -15177,7 +15177,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "ETH Zürich",
-    "phone": "+41 41 44 342 11 88",
+    "phone": "+41 44 342 11 88",
     "id": "node/8173606052"
   },
   "geometry": {
@@ -37047,6 +37047,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-17:00",
     "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
     "phone": "+41 58 728 99 09",
     "id": "node/9605130359"
@@ -37054,8 +37055,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5230036,
-      47.1845889
+      8.5230035,
+      47.1845884
     ]
   }
 },
@@ -94914,6 +94915,91 @@
     "coordinates": [
       8.4941774,
       47.4599425
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13277286001",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Notrufsäule vor Haupteingang Kindergarten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde",
+    "phone": "+41526872424",
+    "id": "node/13277286001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5877319,
+      47.6971502
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13277288101",
+  "properties": {
+    "defibrillator:location": "Aussenwand Ballcontainer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde",
+    "id": "node/13277288101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5718611,
+      47.6930185
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13277288102",
+  "properties": {
+    "defibrillator:location": "Neben Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Privat",
+    "id": "node/13277288102"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5978983,
+      47.6952705
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13277840901",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Göblizentrum, Industriestrasse 55",
+    "description": "während der Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:00-17:00",
+    "operator": "Eigentümerverband",
+    "id": "node/13277840901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.521658,
+      47.183856
     ]
   }
 }
