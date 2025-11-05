@@ -86396,6 +86396,8 @@
   "id": "node/10976078439",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "1.6",
+    "source:maxwidth:physical": "ARCore",
     "id": "node/10976078439"
   },
   "geometry": {
@@ -86411,6 +86413,8 @@
   "id": "node/10976078440",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "1.6",
+    "source:maxwidth:physical": "ARCore",
     "id": "node/10976078440"
   },
   "geometry": {

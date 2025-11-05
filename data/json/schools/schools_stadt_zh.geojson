@@ -16181,6 +16181,7 @@
   "id": "way/548165197",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-11-05",
     "contact:city": "Zürich",
     "contact:housenumber": "25",
     "contact:phone": "+41 44 413 13 24",
@@ -18516,7 +18517,7 @@
     "check_date": "2025-08-14",
     "contact:city": "Zürich",
     "contact:housenumber": "55a",
-    "contact:phone": "+44 413 31 99",
+    "contact:phone": "+41 44 413 31 99",
     "contact:postcode": "8049",
     "contact:street": "Am Wasser",
     "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/amwasser/ueberuns.html",

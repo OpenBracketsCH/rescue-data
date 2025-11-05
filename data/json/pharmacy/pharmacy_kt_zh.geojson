@@ -3640,11 +3640,12 @@
     "brand:wikidata": "Q50038690",
     "dispensing": "yes",
     "email": "apotheke-glattbrugg@medbase.ch",
+    "healthcare": "pharmacy",
     "name": "Medbase Apotheke Glattbrugg",
     "old_name": "Glattal Apotheke",
     "opening_hours": "Mo-Fr 08:00-18:30, Sa 08:00-16:00",
     "operator": "Elham Karimi",
-    "phone": "043 211 57 77",
+    "phone": "+41 43 211 57 77",
     "website": "https://www.medbase-apotheken.ch/apotheken/detail/medbase-apotheke-glattbrugg/",
     "wheelchair": "yes",
     "id": "node/1841363731"
@@ -6699,7 +6700,7 @@
     "name": "ZüriPharm AG",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:30-13:30",
     "operator": "Universitätsspital Zürich",
-    "phone": "044 255 85 30",
+    "phone": "+41 44 255 85 30",
     "id": "node/8497598414"
   },
   "geometry": {

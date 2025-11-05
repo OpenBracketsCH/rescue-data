@@ -10216,7 +10216,7 @@
     "level": "0",
     "opening_hours": "24/7",
     "operator": "Gemeinde Richterswil",
-    "phone": "+44 787 11 11",
+    "phone": "+41 44 787 11 11",
     "wheelchair": "limited",
     "id": "node/7819540982"
   },
@@ -11793,18 +11793,28 @@
   "type": "Feature",
   "id": "node/7928195409",
   "properties": {
-    "defibrillator:location": "Wohnen im Alter",
-    "description": "während Öffnungszeiten verfügbar",
+    "access": "yes",
+    "addr:city": "Hünnenberg",
+    "addr:housenumber": "1",
+    "addr:postcode": "6331",
+    "addr:street": "Lindenpark",
+    "defibrillator:location": "Beim Eingang links",
+    "description": "Weisser Kasten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "level": "0",
+    "opening_hours": "MO-SO 7.00-18.00",
+    "operator": "Lifetec AG",
+    "phone": "0800122144",
+    "ref": "1615LTC",
     "id": "node/7928195409"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4261033,
-      47.1775442
+      8.4260472,
+      47.1775906
     ]
   }
 },
@@ -32848,7 +32858,7 @@
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:30-12:00, 13:00-18:30; Sa 09:00-16:00; Su closed",
     "operator": "Amag Uster, Ruedi Schoch",
-    "phone": "+44 905 57 60",
+    "phone": "+41 44 905 57 60",
     "id": "node/9263275794"
   },
   "geometry": {
@@ -59058,29 +59068,6 @@
     "coordinates": [
       8.53855,
       47.6058
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10910676174",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Gemeindehaus im Druckerraum",
-    "description": "oranger Koffer",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "name": "Gemeinde Rafz",
-    "operator": "Lifetec AG Schweiz",
-    "phone": "+41 800 122 144",
-    "id": "node/10910676174"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.53643,
-      47.61354
     ]
   }
 },
@@ -95000,6 +94987,30 @@
     "coordinates": [
       8.521658,
       47.183856
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13280126901",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Tramstrasse 208",
+    "description": "DEFI auf Baustelle jeder Zeit zugänglich.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Bollhalder Walser Architektur",
+    "phone": "+41 44 537 84 16",
+    "id": "node/13280126901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5646608,
+      47.4084246
     ]
   }
 }
