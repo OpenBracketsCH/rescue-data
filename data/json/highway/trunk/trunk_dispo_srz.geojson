@@ -4436,6 +4436,7 @@
     "name": "Forchstrasse",
     "oneway": "yes",
     "ref": "A52",
+    "surface": "asphalt",
     "id": "way/22480329"
   },
   "geometry": {
@@ -4533,6 +4534,7 @@
     "motorroad": "yes",
     "name": "Forchstrasse",
     "oneway": "yes",
+    "surface": "asphalt",
     "id": "way/22480330"
   },
   "geometry": {
@@ -4663,6 +4665,7 @@
     "motorroad": "yes",
     "name": "Forchstrasse",
     "oneway": "yes",
+    "surface": "asphalt",
     "id": "way/22480332"
   },
   "geometry": {
@@ -4690,6 +4693,7 @@
     "name": "Forchstrasse",
     "oneway": "yes",
     "ref": "A52",
+    "surface": "asphalt",
     "id": "way/22480335"
   },
   "geometry": {
@@ -4791,6 +4795,7 @@
     "motorroad": "yes",
     "name": "Forchstrasse",
     "oneway": "yes",
+    "surface": "asphalt",
     "id": "way/22480336"
   },
   "geometry": {
@@ -4818,6 +4823,7 @@
     "name": "Forchstrasse",
     "oneway": "yes",
     "ref": "A52",
+    "surface": "asphalt",
     "id": "way/22480337"
   },
   "geometry": {
@@ -4875,6 +4881,7 @@
     "motorroad": "yes",
     "name": "Forchstrasse",
     "oneway": "yes",
+    "surface": "asphalt",
     "id": "way/22480338"
   },
   "geometry": {
@@ -5719,6 +5726,7 @@
     "name": "Forchstrasse",
     "oneway": "yes",
     "ref": "A52",
+    "surface": "asphalt",
     "id": "way/26192331"
   },
   "geometry": {
@@ -5815,6 +5823,7 @@
     "name": "Forchstrasse",
     "oneway": "yes",
     "ref": "A52",
+    "surface": "asphalt",
     "id": "way/26192335"
   },
   "geometry": {
@@ -7526,6 +7535,7 @@
   "properties": {
     "highway": "trunk",
     "lanes": "1",
+    "maxheight:signed": "no",
     "maxspeed": "100",
     "motorroad": "yes",
     "name": "Forchstrasse",
@@ -7744,6 +7754,7 @@
     "lanes": "1",
     "layer": "1",
     "maxspeed": "100",
+    "maxweight:signed": "no",
     "motorroad": "yes",
     "name": "Forchstrasse",
     "oneway": "yes",
@@ -7773,6 +7784,7 @@
     "lanes": "2",
     "layer": "1",
     "maxspeed": "100",
+    "maxweight:signed": "no",
     "motorroad": "yes",
     "name": "Forchstrasse",
     "oneway": "yes",
@@ -12100,6 +12112,7 @@
   "properties": {
     "highway": "trunk",
     "lanes": "1",
+    "maxheight:signed": "no",
     "maxspeed": "100",
     "motorroad": "yes",
     "name": "Forchstrasse",
@@ -12295,10 +12308,12 @@
     "lanes": "1",
     "layer": "1",
     "maxspeed": "100",
+    "maxweight:signed": "no",
     "motorroad": "yes",
     "name": "Forchstrasse",
     "oneway": "yes",
     "ref": "A52",
+    "surface": "asphalt",
     "id": "way/185909501"
   },
   "geometry": {
@@ -12352,10 +12367,12 @@
     "lanes": "1",
     "layer": "1",
     "maxspeed": "100",
+    "maxweight:signed": "no",
     "motorroad": "yes",
     "name": "Forchstrasse",
     "oneway": "yes",
     "ref": "A52",
+    "surface": "asphalt",
     "id": "way/185909505"
   },
   "geometry": {
@@ -12411,6 +12428,7 @@
     "name": "Forchstrasse",
     "oneway": "yes",
     "ref": "A52",
+    "surface": "asphalt",
     "id": "way/185909507"
   },
   "geometry": {

@@ -11806,7 +11806,7 @@
     "level": "0",
     "opening_hours": "MO-SO 7.00-18.00",
     "operator": "Lifetec AG",
-    "phone": "0800122144",
+    "phone": "+41 800 122 144",
     "ref": "1615LTC",
     "id": "node/7928195409"
   },
@@ -20365,8 +20365,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.686183,
-      47.4283084
+      8.6861823,
+      47.4283086
     ]
   }
 },
@@ -32836,7 +32836,7 @@
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:30-12:00, 13:00-18:30; Sa 09:00-16:00; Su closed",
     "operator": "Amag Uster, Ruedi Schoch",
-    "phone": "+44 905 57 60",
+    "phone": "+41 44 905 57 60",
     "id": "node/9263275793"
   },
   "geometry": {
@@ -42581,7 +42581,7 @@
     "indoor": "yes",
     "level": "1",
     "operator": "Genossenschaft Migros Zürich",
-    "phone": "+58 563 27 27",
+    "phone": "+41 58 563 27 27",
     "id": "node/9954854107"
   },
   "geometry": {
@@ -94994,15 +94994,15 @@
   "type": "Feature",
   "id": "node/13280126901",
   "properties": {
-    "access": "yes",
+    "access": "permissive",
     "defibrillator:location": "Tramstrasse 208",
-    "description": "DEFI auf Baustelle jeder Zeit zugänglich.",
+    "description": "DEFI auf Baustelle im Baubüro Bauleitung",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
-    "level": "0",
-    "opening_hours": "24/7",
-    "operator": "Bollhalder Walser Architektur",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo - Fr 8:00 - 17:00",
+    "operator": "Bollhalder Walser Architektur, Bauleitung",
     "phone": "+41 44 537 84 16",
     "id": "node/13280126901"
   },
@@ -95010,7 +95010,73 @@
     "type": "Point",
     "coordinates": [
       8.5646608,
-      47.4084246
+      47.4084247
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13282786020",
+  "properties": {
+    "access": "customers",
+    "addr:floor": "3",
+    "defibrillator:location": "3. Stock neben Eingang zum Atelier Uto",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "start_date": "2025",
+    "id": "node/13282786020"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4959048,
+      47.3830089
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13283105101",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "The Circle Öffentliche Toiletten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Flughafen Zürich AG",
+    "phone": "+41438162424",
+    "id": "node/13283105101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5652016,
+      47.4502146
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13283123001",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Werft 2, Mitte",
+    "description": "Flughafen Areal",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Swiss International Air Lines",
+    "id": "node/13283123001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5676704,
+      47.4431513
     ]
   }
 }

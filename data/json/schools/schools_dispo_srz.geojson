@@ -18744,6 +18744,7 @@
     "addr:street": "Tödistrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2025-11-05",
     "name": "Schulhaus Feld",
     "id": "way/38728716"
   },
@@ -60178,8 +60179,8 @@
           47.134254
         ],
         [
-          8.4661432,
-          47.1343117
+          8.4661425,
+          47.1343132
         ],
         [
           8.4661408,
@@ -131756,7 +131757,7 @@
     "amenity": "school",
     "email": "info@bdas.ch",
     "name": "Genossenschaft Biodynamische Ausbildung Schweiz",
-    "phone": "0041525101800",
+    "phone": "+41 52 510 18 00",
     "website": "https://demeterausbildung.ch",
     "id": "node/13247928601"
   },
