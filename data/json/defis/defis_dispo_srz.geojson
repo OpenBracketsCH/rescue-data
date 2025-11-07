@@ -7132,7 +7132,7 @@
   "properties": {
     "access": "yes",
     "check_date": "2025-09-16",
-    "contact:phone": "+41 811 15 55",
+    "contact:phone": "+41 41 811 15 55",
     "defibrillator:location": "Bergbahnen Rigi Kulm",
     "description": "Warteraum Seite Bergkapelle",
     "emergency": "defibrillator",
@@ -18405,11 +18405,12 @@
   "id": "node/8425745462",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Raumnummer 75",
+    "defibrillator:location": "Servicecenter ZRH",
+    "description": "ZUKO am Eingang rufen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "6",
+    "level": "5",
     "opening_hours": "24/7",
     "operator": "Flughafen Zürich AG",
     "phone": "+41 43 816 24 24",
@@ -24739,7 +24740,7 @@
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "RIWAG Türen AG",
-    "phone": "+4141590031",
+    "phone": "+41 41 859 00 31",
     "id": "node/8617211933"
   },
   "geometry": {
@@ -37464,19 +37465,22 @@
   "type": "Feature",
   "id": "node/9631144217",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "SwissRe Next",
-    "description": "Reception",
+    "access": "permissive",
+    "defibrillator:location": "Swiss Re Next, Reception (Mythenquai 50)",
+    "description": "Reception (im EG)",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:30-17:30",
+    "operator": "Swiss Re",
+    "phone": "+41432852121",
     "id": "node/9631144217"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5352689,
-      47.3599096
+      8.5352692,
+      47.3599103
     ]
   }
 },
@@ -68571,7 +68575,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 7:30-16:30",
+    "opening_hours": "Mo-Fr 7:00-19:00",
+    "operator": "Swiss Re",
     "phone": "+41 43 285 65 23",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/11629971769"
@@ -94771,13 +94776,14 @@
   "type": "Feature",
   "id": "node/13269622101",
   "properties": {
+    "access": "permissive",
     "defibrillator:location": "Haupteingang",
-    "description": "klingeln bei Hausbewohner",
+    "description": "Klingeln bei Hausbewohner",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "24/7",
-    "operator": "Solimo Ag",
+    "operator": "Solimo AG",
     "phone": "+41446876750",
     "id": "node/13269622101"
   },

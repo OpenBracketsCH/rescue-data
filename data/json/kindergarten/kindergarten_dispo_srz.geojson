@@ -2599,6 +2599,7 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "building:levels": "1",
+    "education": "kindergarten",
     "name": "Kindergarten Riedenhalden 1+2",
     "id": "way/41953618"
   },
@@ -29163,6 +29164,7 @@
     "contact:postcode": "8046",
     "contact:street": "Bergacker",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/schauenberg/ueberuns/standorte/kindergaerten.html",
+    "education": "kindergarten",
     "name": "Kindergarten Bergacker",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal, Schuleinheit Schauenberg",
     "operator:type": "public",
@@ -44999,6 +45001,7 @@
   "id": "node/9260178191",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-11-06",
     "contact:city": "Zürich",
     "contact:housenumber": "9",
     "contact:phone": "+41 44 413 00 40",
@@ -45504,6 +45507,7 @@
     "contact:postcode": "8046",
     "contact:street": "Lerchenhalde",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/schauenberg/ueberuns/standorte/kindergaerten.html#kindergarten_schauenberg",
+    "education": "kindergarten",
     "name": "Kindergarten Schauenberg 1+2",
     "phone": "+41 44 413 12 16",
     "id": "node/9415756800"

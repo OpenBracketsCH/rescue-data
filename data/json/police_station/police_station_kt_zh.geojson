@@ -1835,6 +1835,7 @@
     "name": "Quartierwache Affoltern",
     "opening_hours": "Mo 08:00-12:00, 13:00-17:00; Tu-Th 11:00-17:30",
     "operator": "Stadtpolizei Zürich",
+    "operator:wikidata": "Q2327949",
     "wheelchair": "yes",
     "id": "node/935796165"
   },
