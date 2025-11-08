@@ -58292,7 +58292,7 @@
     "amenity": "social_facility",
     "name": "Haus Sunshine",
     "operator": "Charriere Group",
-    "phone": "055 264 11 81",
+    "phone": "+41 55 264 11 81",
     "social_facility": "assisted_living",
     "id": "node/10749633600"
   },
@@ -58312,7 +58312,7 @@
     "amenity": "social_facility",
     "name": "Haus Patria",
     "operator": "Charriere Group",
-    "phone": "055 264 11 80",
+    "phone": "+41 55 264 11 80",
     "social_facility": "assisted_living",
     "id": "node/10749640583"
   },
@@ -58332,7 +58332,7 @@
     "amenity": "social_facility",
     "name": "Haus Luna",
     "operator": "Charriere Group",
-    "phone": "055 264 11 90",
+    "phone": "+41 55 264 11 90",
     "social_facility": "assisted_living",
     "id": "node/10749642391"
   },

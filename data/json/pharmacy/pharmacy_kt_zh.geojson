@@ -2777,9 +2777,10 @@
     "addr:postcode": "8001",
     "addr:street": "Bahnhofstrasse",
     "amenity": "pharmacy",
-    "check_date": "2024-08-09",
+    "check_date": "2025-11-07",
+    "check_date:opening_hours": "2025-11-07",
     "name": "Löwen Apotheke",
-    "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-17:00",
+    "opening_hours": "Mo-Fr 09:30-19:00; Sa 10:00-18:00",
     "website": "http://www.loewen-apotheke-zuerich.ch/",
     "wheelchair": "limited",
     "id": "node/1110775501"

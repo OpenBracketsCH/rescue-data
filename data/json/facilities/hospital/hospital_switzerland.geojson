@@ -35839,6 +35839,10 @@
           47.4292771
         ],
         [
+          9.3890917,
+          47.4292667
+        ],
+        [
           9.3889848,
           47.4292331
         ],
@@ -55095,6 +55099,7 @@
   "properties": {
     "alt_name": "Onko Zentrum Zürich Seefeld",
     "amenity": "clinic",
+    "check_date": "2025-11-07",
     "name": "Onkozentrum Zürich Seefeld",
     "website": "https://ozh.ch/ozh/standort-seefeld/",
     "id": "node/9151768393"

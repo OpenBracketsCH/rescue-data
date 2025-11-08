@@ -55160,7 +55160,7 @@
     "description": "Strasse während der Amphibienwanderung gesperrt.",
     "lift_gate:type": "single",
     "locked": "no",
-    "motor_vehicle:conditional": "no @ (Feb 15-Apr 15 Mo-Su 18:00-08:00; Jun-Jul; Oct 10-Nov 20 19:00-07:00)",
+    "motor_vehicle:conditional": "no @ (Feb Mo[-1]-Apr 16 18:00-08:00; Jun 1-Jul 31)",
     "id": "node/6367264877"
   },
   "geometry": {
@@ -71861,6 +71861,8 @@
   "id": "node/8829117561",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "2.5",
+    "source:maxwidth:physical": "ARCore",
     "id": "node/8829117561"
   },
   "geometry": {
@@ -93799,7 +93801,7 @@
     "description": "Strasse während der Amphibienwanderung gesperrt.",
     "lift_gate:type": "single",
     "locked": "no",
-    "motor_vehicle:conditional": "no @ (Feb 15-Apr 15 Mo-Su 18:00-08:00; Jun-Jul; Oct 10-Nov 20 19:00-07:00)",
+    "motor_vehicle:conditional": "no @ (Feb Mo[-1]-Apr 16 18:00-08:00; Jun 1-Jul 31)",
     "id": "node/11579626337"
   },
   "geometry": {

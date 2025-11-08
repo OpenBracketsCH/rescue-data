@@ -6175,6 +6175,7 @@
   "id": "node/5780241059",
   "properties": {
     "amenity": "fire_station",
+    "check_date": "2025-11-02",
     "name": "Betriebsfeuerwehr Sika",
     "id": "node/5780241059"
   },
