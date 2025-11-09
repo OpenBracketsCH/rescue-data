@@ -4176,9 +4176,12 @@
   "id": "node/2509261942",
   "properties": {
     "amenity": "pharmacy",
+    "check_date": "2025-11-08",
     "dispensing": "yes",
     "healthcare": "pharmacy",
     "name": "Rothaus",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-16:00; Su off",
+    "operator": "Matthias Schaufelberger",
     "wheelchair": "yes",
     "id": "node/2509261942"
   },

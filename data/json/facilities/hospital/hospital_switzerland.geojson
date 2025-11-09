@@ -56927,9 +56927,17 @@
   "type": "Feature",
   "id": "node/11505549442",
   "properties": {
+    "addr:housenumber": "2",
+    "addr:postcode": "9042",
+    "addr:street": "Vögelinsegg",
     "amenity": "hospital",
+    "check_date": "2025-11-08",
     "healthcare": "hospital",
+    "healthcare:speciality": "ophthalmology",
     "name": "Augenklinik Bellavista",
+    "operator": "Klinik Bellavista AG",
+    "phone": "+41 71 343 81 81",
+    "website": "https://klinik-bellavista.ch/",
     "id": "node/11505549442"
   },
   "geometry": {
@@ -57897,7 +57905,7 @@
     "email": "info-cise@magellan.ch",
     "name": "Centre Imagerie Servette",
     "opening_hours": "Mo-Fr 08:00-18:00",
-    "phone": "022 795 25 00",
+    "phone": "+41 22 795 25 00",
     "website": "https://www.magellan.ch/centre/centre-imagerie-servette/",
     "id": "node/12635826401"
   },
@@ -58397,7 +58405,7 @@
     "name": "Checkpoint Genève",
     "name:en": "French",
     "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-18:00",
-    "phone": "0229064030",
+    "phone": "+41 22 906 40 30",
     "website": "https://mycheckpoint.ch/fr/emplacement/geneve/",
     "id": "node/12875899102"
   },

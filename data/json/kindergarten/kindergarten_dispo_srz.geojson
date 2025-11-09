@@ -15360,76 +15360,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/183535019",
-  "properties": {
-    "addr:city": "Dielsdorf",
-    "addr:housenumber": "11",
-    "addr:postcode": "8157",
-    "addr:street": "Früeblistrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Früebli II",
-    "source": "bing",
-    "id": "way/183535019"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4561727,
-          47.4814176
-        ],
-        [
-          8.4562882,
-          47.4814377
-        ],
-        [
-          8.4562448,
-          47.4815515
-        ],
-        [
-          8.4562044,
-          47.4815444
-        ],
-        [
-          8.4561972,
-          47.4815633
-        ],
-        [
-          8.4561419,
-          47.4815536
-        ],
-        [
-          8.4561454,
-          47.4815442
-        ],
-        [
-          8.4560999,
-          47.4815363
-        ],
-        [
-          8.456112,
-          47.4815045
-        ],
-        [
-          8.456066,
-          47.4814965
-        ],
-        [
-          8.4561007,
-          47.4814056
-        ],
-        [
-          8.4561727,
-          47.4814176
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/183606529",
   "properties": {
     "addr:city": "Dielsdorf",
@@ -23377,6 +23307,7 @@
     "amenity": "kindergarten",
     "building": "school",
     "building:levels": "1",
+    "check_date": "2025-11-08",
     "name": "Kindergarten Untermoos 3",
     "operator": "Stadt Zürich, SSD, Schulkreis Letzi, Schuleinheit Untermoos",
     "phone": "+41 44 413 75 61",
@@ -31235,60 +31166,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/892596192",
-  "properties": {
-    "addr:city": "Dielsdorf",
-    "addr:housenumber": "9",
-    "addr:postcode": "8157",
-    "addr:street": "Früeblistrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Früebli I",
-    "source": "bing",
-    "id": "way/892596192"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4561424,
-          47.4812964
-        ],
-        [
-          8.4562139,
-          47.4811091
-        ],
-        [
-          8.4562814,
-          47.4811208
-        ],
-        [
-          8.4562533,
-          47.4811943
-        ],
-        [
-          8.4563853,
-          47.4812173
-        ],
-        [
-          8.4563419,
-          47.4813308
-        ],
-        [
-          8.4562143,
-          47.4813086
-        ],
-        [
-          8.4561424,
-          47.4812964
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/904375000",
   "properties": {
     "amenity": "kindergarten",
@@ -37590,6 +37467,43 @@
         [
           8.4475364,
           47.4938089
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1448371277",
+  "properties": {
+    "amenity": "kindergarten",
+    "education": "kindergarten",
+    "name": "Kindergarten Früebli",
+    "id": "way/1448371277"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.455992,
+          47.4815562
+        ],
+        [
+          8.4562098,
+          47.4810148
+        ],
+        [
+          8.456549,
+          47.4810323
+        ],
+        [
+          8.4563197,
+          47.481599
+        ],
+        [
+          8.455992,
+          47.4815562
         ]
       ]
     ]

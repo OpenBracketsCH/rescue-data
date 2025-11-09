@@ -7625,6 +7625,7 @@
   "id": "node/6623172256",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-11-08",
     "contact:city": "Zürich",
     "contact:housenumber": "5",
     "contact:phone": "+41 44 413 77 22",
@@ -12441,7 +12442,7 @@
     "amenity": "childcare",
     "contact:city": "Zürich",
     "contact:housenumber": "186",
-    "contact:phone": "+41 44 413 06 41/42/43",
+    "contact:phone": "+41 44 413 06 41;+41 44 413 06 42;+41 44 413 06 43",
     "contact:postcode": "8051",
     "contact:street": "186",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/hirzenbach/betreuung/standorte.html",
