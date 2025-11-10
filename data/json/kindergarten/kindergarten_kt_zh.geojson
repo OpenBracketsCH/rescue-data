@@ -8098,6 +8098,7 @@
     "addr:street": "Stüssistrasse",
     "amenity": "kindergarten",
     "building": "yes",
+    "check_date": "2025-11-09",
     "name": "Kindergarten Stüssistrasse",
     "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Milchbuck",
     "phone": "+41 44 413 74 13",
