@@ -19400,8 +19400,8 @@
     "building": "yes",
     "isced:level": "2",
     "name": "Heilpädagogische Schule Rümlang",
-    "name:de": "HPS",
-    "religion": "none",
+    "roof:shape": "flat",
+    "short_name": "HPS Rümlang",
     "social_facility": "ambulatory_care",
     "social_facility:for": "juvenile",
     "website": "https://www.psruemlang.ch/p28000025.html",
@@ -19412,24 +19412,24 @@
     "coordinates": [
       [
         [
-          8.5357953,
-          47.4467106
+          8.535804,
+          47.4467189
         ],
         [
-          8.5354986,
-          47.4465991
+          8.5355053,
+          47.4466098
         ],
         [
-          8.5355578,
-          47.446527
+          8.5355664,
+          47.4465333
         ],
         [
-          8.5358545,
-          47.4466385
+          8.5358651,
+          47.4466423
         ],
         [
-          8.5357953,
-          47.4467106
+          8.535804,
+          47.4467189
         ]
       ]
     ]
@@ -128484,6 +128484,7 @@
     "addr:postcode": "8408",
     "addr:street": "Schlossweg",
     "amenity": "school",
+    "check_date": "2025-11-10",
     "grades": "7-9",
     "name": "SalZH Kleinklasse Sekundarstufe",
     "operator": "Stiftung SalZH",

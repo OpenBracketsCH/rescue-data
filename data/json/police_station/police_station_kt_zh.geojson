@@ -2270,6 +2270,7 @@
     "addr:postcode": "8005",
     "addr:street": "Förrlibuckstrasse",
     "amenity": "police",
+    "check_date": "2025-11-10",
     "name": "Abteilung Spezial",
     "operator": "Stadtpolizei Zürich",
     "id": "node/3028531127"

@@ -26061,7 +26061,7 @@
     "healthcare": "clinic",
     "name": "Résidence PRE-FLEURI",
     "operator": "NECC SA",
-    "phone": "+41 (0)21 652 14 22",
+    "phone": "+41 21 652 14 22",
     "id": "way/443411665"
   },
   "geometry": {
@@ -27166,7 +27166,7 @@
     "healthcare": "rehabilitation",
     "name": "CLINICA DI RIABILITAZIONE EOC - NOVAGGIO",
     "operator": "EOC Ente Ospedaliero Cantonale",
-    "phone": "+41 (91) 811 22 11",
+    "phone": "+41 91 811 22 11",
     "short_name": "Reha Novaggio",
     "id": "way/472106387"
   },
@@ -46255,7 +46255,7 @@
     "amenity": "hospital",
     "name": "CLINICA DI RIABILITAZIONE EOC - FAIDO",
     "note": "Outline guessed",
-    "phone": "+41 (91) 811 21 11",
+    "phone": "+41 91 811 21 11",
     "short_name": "Reha Faido EOC",
     "id": "way/761426127"
   },
