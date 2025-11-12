@@ -129235,6 +129235,7 @@
     "contact:phone": "+41 44 206 20 30",
     "contact:website": "https://aurumschule.ch/",
     "isced:level": "2",
+    "level": "1;2",
     "name": "Aurum Schule Zürich",
     "operator": "Aurum Schule Zürich AG",
     "operator:type": "private",

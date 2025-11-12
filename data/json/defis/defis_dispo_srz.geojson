@@ -37062,8 +37062,9 @@
     "description": "365/24 verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-Fr 07:00-17:00",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
     "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
     "phone": "+41 58 728 99 09",
     "id": "node/9605130359"
@@ -94376,19 +94377,19 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Kirche St.Katharina Haupteingang",
-    "description": "Während Öffnungszeit",
+    "description": "Während Öffnungszeit und Gottesdienst",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "8:00 - 17:00",
-    "operator": "Gemeinde",
+    "operator": "Kirchgemeinde",
     "phone": "+41 79 267 03 93",
     "id": "node/13238635001"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.512028,
+      8.5120279,
       47.4154456
     ]
   }
@@ -95236,6 +95237,53 @@
     "coordinates": [
       8.724161,
       47.5004828
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13296385401",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Bahnhof-Apotheke P. Bolliger AG",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Sa 07:00-20:00, Su 08:00-18:00",
+    "operator": "Bahnhof-Apotheke P. Bolliger AG",
+    "phone": "+41 52 625 26 86",
+    "id": "node/13296385401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6323523,
+      47.6976632
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13296903701",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus MNG, EG Foyer neben Raum Nr. 316",
+    "description": "Während Öffnungszeiten verfügbar, Schulferien beachten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo - Fr 08:00 - 17:00",
+    "operator": "Kantonsschule MNG Rämibühl",
+    "phone": "+41442656421",
+    "id": "node/13296903701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5519056,
+      47.3720786
     ]
   }
 }

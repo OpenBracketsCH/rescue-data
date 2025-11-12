@@ -5371,6 +5371,7 @@
   "id": "node/298540366",
   "properties": {
     "amenity": "fire_station",
+    "check_date": "2025-11-06",
     "name": "Feuerwehr Langnau am Albis",
     "id": "node/298540366"
   },
