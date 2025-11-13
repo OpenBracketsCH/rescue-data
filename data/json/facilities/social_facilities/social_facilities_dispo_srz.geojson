@@ -9299,6 +9299,10 @@
           47.3952068
         ],
         [
+          8.4900977,
+          47.3952129
+        ],
+        [
           8.4901013,
           47.3952192
         ],
@@ -41303,7 +41307,7 @@
     "amenity": "social_facility",
     "building": "apartments",
     "building:levels": "8",
-    "check_date": "2024-03-05",
+    "check_date": "2025-11-12",
     "name": "Tertianum am Rietpark",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",
@@ -59593,6 +59597,30 @@
     "coordinates": [
       8.5094772,
       47.3705305
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13299029101",
+  "properties": {
+    "addr:housenumber": "36",
+    "addr:postcode": "8005",
+    "addr:street": "Ausstellungsstrasse",
+    "amenity": "social_facility",
+    "email": "beratung.zuerich@sbv-fsa.ch",
+    "level": "0",
+    "name": "sbv Beratung Zürich",
+    "opening_hours": "Mo-Th 09:00-11:30, 13:30-16:00; Fr 09:00-11:30",
+    "phone": "+41444441060",
+    "website": "http://sbv-fsa.ch/bst/zuerich",
+    "id": "node/13299029101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5365409,
+      47.3821816
     ]
   }
 }

@@ -10863,7 +10863,7 @@
     "level": "1",
     "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "Company",
-    "phone": "+41 70 000 00 01",
+    "phone": "+41 58 588 60 41",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/11187199437"
   },
@@ -15909,8 +15909,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4901518,
-      47.3970783
+      8.4902912,
+      47.3970197
     ]
   }
 },
@@ -17407,6 +17407,45 @@
     "coordinates": [
       8.5519056,
       47.3720786
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13299269502",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Schulhaus West neben Eingang Rote Kiste",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "TBZ",
+    "id": "node/13299269502"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.535338,
+      47.383813
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13299285137",
+  "properties": {
+    "defibrillator:location": "In der Apotheke im Bahnhof",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "id": "node/13299285137"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.531261,
+      47.3646156
     ]
   }
 }

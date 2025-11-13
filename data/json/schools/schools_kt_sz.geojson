@@ -12469,6 +12469,25 @@
       47.0147214
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13299549881",
+  "properties": {
+    "addr:city": "Schwyz",
+    "addr:postcode": "6430",
+    "addr:street": "Friedhofstrasse",
+    "amenity": "school",
+    "education": "school",
+    "id": "node/13299549881"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6590904,
+      47.0180992
+    ]
+  }
 }
 ]
 }
