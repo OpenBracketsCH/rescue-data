@@ -17448,6 +17448,50 @@
       47.3646156
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13301036001",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Passbüro, Sihlquai 253, 8005 Zürich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Öffentliche Institution, Verwaltung",
+    "id": "node/13301036001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5289888,
+      47.3874404
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13301590201",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Schulhaus Liguster, Treppenhaus West, Teamzimmer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "2",
+    "opening_hours": "07:30 - 17:30",
+    "operator": "Schule Liguster",
+    "phone": "+41444132573",
+    "id": "node/13301590201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5441623,
+      47.4064361
+    ]
+  }
 }
 ]
 }

@@ -6164,6 +6164,7 @@
     "defibrillator:location": "Schulhaus Morgarten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "opening_hours": "24/7",
     "operator": "Einwohnergemeinde Oberägeri",
     "id": "node/7579692883"
@@ -12090,29 +12091,6 @@
     "coordinates": [
       8.5858852,
       47.1820655
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7928222745",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Beim Empfang",
-    "description": "nicht öffentlich zugänglich",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "0",
-    "operator": "Gemeinde Menzingen",
-    "phone": "+41 41 757 22 03",
-    "id": "node/7928222745"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5924163,
-      47.1763791
     ]
   }
 },
@@ -23057,7 +23035,6 @@
   "id": "node/8574099763",
   "properties": {
     "defibrillator:location": "Gemeindesaal, Treppenhaus EG",
-    "description": "DERZEIT DEFEKT!",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -63250,21 +63227,21 @@
   "id": "node/11210666237",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Melkstand",
+    "defibrillator:location": "öffentliche WC Anlage",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 09:00-17:00",
+    "level": "0",
+    "opening_hours": "24/7",
     "operator": "Kanton Zürich Strickhof",
-    "phone": "+41795444906",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/11210666237"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5361772,
-      47.1130893
+      8.5361731,
+      47.1130869
     ]
   }
 },
@@ -95345,6 +95322,74 @@
     "coordinates": [
       8.7897518,
       47.3775513
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13301036001",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Passbüro, Sihlquai 253, 8005 Zürich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Öffentliche Institution, Verwaltung",
+    "id": "node/13301036001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5289888,
+      47.3874404
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13301187101",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Tobel",
+    "description": "Öffentlich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Hombrechtikon",
+    "phone": "+41552549262",
+    "id": "node/13301187101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7823007,
+      47.2512488
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13301590201",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Schulhaus Liguster, Treppenhaus West, Teamzimmer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "2",
+    "opening_hours": "07:30 - 17:30",
+    "operator": "Schule Liguster",
+    "phone": "+41444132573",
+    "id": "node/13301590201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5441623,
+      47.4064361
     ]
   }
 }

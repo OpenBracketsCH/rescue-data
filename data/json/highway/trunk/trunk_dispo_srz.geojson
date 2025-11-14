@@ -3929,6 +3929,8 @@
   "properties": {
     "highway": "trunk",
     "lanes": "2",
+    "lit": "yes",
+    "maxheight:signed": "no",
     "maxspeed": "100",
     "motorroad": "yes",
     "name": "Forchstrasse",
@@ -4118,6 +4120,8 @@
   "properties": {
     "highway": "trunk",
     "lanes": "1",
+    "lit": "yes",
+    "maxheight:signed": "no",
     "maxspeed": "100",
     "motorroad": "yes",
     "name": "Forchstrasse",
@@ -4557,6 +4561,7 @@
   "properties": {
     "highway": "trunk",
     "lanes": "1",
+    "lit": "yes",
     "maxheight:signed": "no",
     "maxspeed": "100",
     "motorroad": "yes",

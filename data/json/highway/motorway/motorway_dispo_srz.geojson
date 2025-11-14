@@ -87917,6 +87917,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/1293844647"
   },
@@ -88029,6 +88030,7 @@
     "maxspeed": "120",
     "oneway": "yes",
     "ref": "A3",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "through|through|right",
     "id": "way/1293844649"
