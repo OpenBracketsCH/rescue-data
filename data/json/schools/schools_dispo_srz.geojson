@@ -104758,6 +104758,7 @@
   "id": "way/552139737",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-11-14",
     "contact:city": "Zürich",
     "contact:housenumber": "79",
     "contact:phone": "+41 44 413 01 90",
