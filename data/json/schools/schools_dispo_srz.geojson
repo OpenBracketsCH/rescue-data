@@ -3731,6 +3731,7 @@
     "amenity": "school",
     "building": "school",
     "building:levels": "5",
+    "check_date": "2025-11-15",
     "isced:level": "3",
     "name": "Kantonsschule Im Lee",
     "roof:levels": "1",
@@ -40096,6 +40097,7 @@
   "id": "way/123098893",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-11-15",
     "contact:city": "Zürich",
     "contact:housenumber": "160",
     "contact:phone": "+41 44 413 14 20",
@@ -55488,104 +55490,6 @@
         [
           8.4676352,
           47.4812402
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/183746196",
-  "properties": {
-    "addr:city": "Winterberg",
-    "addr:housenumber": "34",
-    "addr:postcode": "8312",
-    "addr:street": "Schnällböcklerstrasse",
-    "amenity": "school",
-    "building": "yes",
-    "name": "Schulhaus Bachwis",
-    "website": "https://www.schule-lindau.ch/de/primarschule/bachwis/",
-    "id": "way/183746196"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.694317,
-          47.45189
-        ],
-        [
-          8.6943393,
-          47.4518738
-        ],
-        [
-          8.6944406,
-          47.4519377
-        ],
-        [
-          8.6944695,
-          47.4519168
-        ],
-        [
-          8.6946686,
-          47.4520424
-        ],
-        [
-          8.6945953,
-          47.4520955
-        ],
-        [
-          8.6945605,
-          47.4520735
-        ],
-        [
-          8.6944258,
-          47.4521711
-        ],
-        [
-          8.6942778,
-          47.4520831
-        ],
-        [
-          8.6942536,
-          47.4520688
-        ],
-        [
-          8.6942287,
-          47.4520537
-        ],
-        [
-          8.6941845,
-          47.4520875
-        ],
-        [
-          8.6940673,
-          47.4520116
-        ],
-        [
-          8.6941722,
-          47.4519356
-        ],
-        [
-          8.6941982,
-          47.4519521
-        ],
-        [
-          8.694229,
-          47.4519298
-        ],
-        [
-          8.6941453,
-          47.451877
-        ],
-        [
-          8.6942156,
-          47.451826
-        ],
-        [
-          8.694317,
-          47.45189
         ]
       ]
     ]
@@ -102758,6 +102662,7 @@
   "id": "way/548165198",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-11-15",
     "contact:city": "Zürich",
     "contact:housenumber": "45",
     "contact:postcode": "8032",

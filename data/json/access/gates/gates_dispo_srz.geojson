@@ -65651,6 +65651,8 @@
     "barrier": "gate",
     "bicycle": "yes",
     "foot": "yes",
+    "maxwidth:physical": "1.6",
+    "source:maxwidth:physical": "ARCore",
     "id": "node/7931371322"
   },
   "geometry": {
@@ -65668,6 +65670,8 @@
     "barrier": "gate",
     "bicycle": "yes",
     "foot": "yes",
+    "maxwidth:physical": "1",
+    "source:maxwidth:physical": "ARCore",
     "id": "node/7931371323"
   },
   "geometry": {
@@ -65685,6 +65689,7 @@
     "barrier": "gate",
     "bicycle": "yes",
     "foot": "yes",
+    "maxwidth:physical": "1",
     "id": "node/7931371324"
   },
   "geometry": {

@@ -7832,6 +7832,7 @@
   "id": "way/123098893",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-11-15",
     "contact:city": "Zürich",
     "contact:housenumber": "160",
     "contact:phone": "+41 44 413 14 20",
@@ -16280,6 +16281,7 @@
   "id": "way/548165198",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-11-15",
     "contact:city": "Zürich",
     "contact:housenumber": "45",
     "contact:postcode": "8032",

@@ -3345,6 +3345,7 @@
     "amenity": "pharmacy",
     "branch": "Zürich Neumünster",
     "brand": "Pill Apotheke",
+    "check_date:opening_hours": "2025-11-15",
     "healthcare": "pharmacy",
     "name": "Pill Apotheke Neumünster",
     "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:30-17:00",

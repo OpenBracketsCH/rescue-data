@@ -14329,64 +14329,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/183746192",
-  "properties": {
-    "addr:city": "Winterberg",
-    "addr:housenumber": "32",
-    "addr:postcode": "8312",
-    "addr:street": "Schnällböcklerstrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "check_date": "2025-10-14",
-    "name": "Kindergarten Bachwis",
-    "id": "way/183746192"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.693962,
-          47.452625
-        ],
-        [
-          8.6939293,
-          47.4526041
-        ],
-        [
-          8.6940067,
-          47.4525487
-        ],
-        [
-          8.6941128,
-          47.4526165
-        ],
-        [
-          8.6940798,
-          47.4526401
-        ],
-        [
-          8.6941391,
-          47.452678
-        ],
-        [
-          8.69405,
-          47.4527418
-        ],
-        [
-          8.6939173,
-          47.4526569
-        ],
-        [
-          8.693962,
-          47.452625
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/189141925",
   "properties": {
     "addr:city": "Uster",
@@ -41091,6 +41033,7 @@
   "id": "node/9682362707",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2025-11-15",
     "contact:city": "Zürich",
     "contact:email": "contact@childrenfirst.ch",
     "contact:housenumber": "175",

@@ -10656,6 +10656,7 @@
   "id": "node/9266065001",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-11-15",
     "contact:city": "Zürich",
     "contact:housenumber": "45",
     "contact:postcode": "8032",
