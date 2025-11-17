@@ -17916,10 +17916,6 @@
   "type": "Feature",
   "id": "way/228362596",
   "properties": {
-    "addr:city": "Chiasso",
-    "addr:country": "CH",
-    "addr:housenumber": "6",
-    "addr:postcode": "6830",
     "addr:street": "Corso San Gottardo",
     "amenity": "clinic",
     "building": "yes",
