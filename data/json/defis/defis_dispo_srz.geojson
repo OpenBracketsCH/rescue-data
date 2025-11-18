@@ -59038,29 +59038,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10910676173",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Im Eingangsbereich von Turnhalle",
-    "description": "oranger Koffer",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "name": "Gemeinde Rafz",
-    "operator": "Lifetec AG Schweiz",
-    "phone": "+41 800 122 144",
-    "id": "node/10910676173"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.53855,
-      47.6058
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10910676175",
   "properties": {
     "access": "no",
@@ -93182,6 +93159,7 @@
   "type": "Feature",
   "id": "node/13137886329",
   "properties": {
+    "defibrillator:location": "In the middle of the underground passage mounted on the wall. Easy to spot. (It's on the corner where the path between station building and the rail tracks crosses the shopping passage.)",
     "emergency": "defibrillator",
     "level": "-1",
     "id": "node/13137886329"
@@ -95410,6 +95388,29 @@
     "coordinates": [
       8.8003422,
       47.5688212
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13310941501",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Rathaus Apotheke Baar AG, Dorfstrasse 3, 6340 Baar",
+    "description": "Zugang während den Öffnungszeiten der Apotheke",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Rathaus Apotheke Baar AG",
+    "phone": "+41 41 761 88 28",
+    "id": "node/13310941501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5261449,
+      47.1942828
     ]
   }
 }

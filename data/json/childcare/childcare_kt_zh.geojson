@@ -5039,6 +5039,96 @@
 },
 {
   "type": "Feature",
+  "id": "way/1423549103",
+  "properties": {
+    "addr:city": "Adliswil",
+    "addr:housenumber": "30",
+    "addr:postcode": "8134",
+    "addr:street": "Albisstrasse",
+    "amenity": "childcare",
+    "building": "yes",
+    "check_date": "2025-11-16",
+    "kindergarten": "yes",
+    "name": "Pandalino",
+    "nursery": "yes",
+    "official_name": "Kinderkrippe Pandalino",
+    "opening_hours": "Mo-Fr 07:15-18:30",
+    "operator": "Kinderkrippe Pandalino GmbH",
+    "operator:type": "private",
+    "phone": "+41 43 377 98 33",
+    "website": "https://pandalino.ch/",
+    "id": "way/1423549103"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5252621,
+          47.3091106
+        ],
+        [
+          8.5253003,
+          47.309189
+        ],
+        [
+          8.5250634,
+          47.3092391
+        ],
+        [
+          8.5250058,
+          47.3092325
+        ],
+        [
+          8.524903,
+          47.3092405
+        ],
+        [
+          8.5248916,
+          47.3091014
+        ],
+        [
+          8.5249151,
+          47.3090983
+        ],
+        [
+          8.5249513,
+          47.3090927
+        ],
+        [
+          8.5249701,
+          47.3090839
+        ],
+        [
+          8.524991,
+          47.3090811
+        ],
+        [
+          8.5250947,
+          47.3090583
+        ],
+        [
+          8.5251508,
+          47.3090501
+        ],
+        [
+          8.525206,
+          47.3090509
+        ],
+        [
+          8.5252322,
+          47.3090489
+        ],
+        [
+          8.5252621,
+          47.3091106
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/269549760",
   "properties": {
     "addr:city": "Uster",

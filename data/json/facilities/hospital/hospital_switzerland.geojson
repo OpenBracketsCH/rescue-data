@@ -7831,6 +7831,10 @@
           47.3878159
         ],
         [
+          8.0631574,
+          47.3880173
+        ],
+        [
           8.0632723,
           47.3880778
         ],
@@ -17647,6 +17651,92 @@
 },
 {
   "type": "Feature",
+  "id": "way/216265083",
+  "properties": {
+    "addr:city": "Crans-Montana",
+    "addr:housenumber": "87",
+    "addr:postcode": "3963",
+    "addr:street": "Route de la Moubra",
+    "amenity": "hospital",
+    "building": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "physiatry",
+    "name": "Clinique Bernoise Montana",
+    "name:de": "Berner Klinik Montana",
+    "name:fr": "Clinique Bernoise Montana",
+    "phone": "+41 27 485 51 21",
+    "id": "way/216265083"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.4822852,
+          46.2998688
+        ],
+        [
+          7.4822467,
+          46.2999683
+        ],
+        [
+          7.4818426,
+          46.2998918
+        ],
+        [
+          7.481827,
+          46.2999185
+        ],
+        [
+          7.4811907,
+          46.2997676
+        ],
+        [
+          7.4811423,
+          46.299886
+        ],
+        [
+          7.4809763,
+          46.2998471
+        ],
+        [
+          7.4810295,
+          46.2997377
+        ],
+        [
+          7.4805803,
+          46.2996257
+        ],
+        [
+          7.4806487,
+          46.2994829
+        ],
+        [
+          7.4818835,
+          46.2997936
+        ],
+        [
+          7.4818728,
+          46.2998251
+        ],
+        [
+          7.4819226,
+          46.2998375
+        ],
+        [
+          7.481943,
+          46.2998008
+        ],
+        [
+          7.4822852,
+          46.2998688
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/216680033",
   "properties": {
     "addr:city": "Lussy-sur-Morges",
@@ -17916,6 +18006,10 @@
   "type": "Feature",
   "id": "way/228362596",
   "properties": {
+    "addr:city": "Chiasso",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "6830",
     "addr:street": "Corso San Gottardo",
     "amenity": "clinic",
     "building": "yes",
@@ -17931,24 +18025,24 @@
     "coordinates": [
       [
         [
-          9.0329665,
-          45.8329748
+          9.032961,
+          45.8329627
         ],
         [
-          9.0328293,
-          45.8328027
+          9.0328222,
+          45.8327895
         ],
         [
-          9.0330772,
-          45.8327068
+          9.0330799,
+          45.8326892
         ],
         [
-          9.0332144,
-          45.8328788
+          9.0332188,
+          45.8328623
         ],
         [
-          9.0329665,
-          45.8329748
+          9.032961,
+          45.8329627
         ]
       ]
     ]
@@ -26053,7 +26147,7 @@
     "amenity": "clinic",
     "building": "yes",
     "email": "info@pre-fleuri.ch",
-    "fax": "+41 (0)21 653 69 39",
+    "fax": "+41 21 653 69 39",
     "healthcare": "clinic",
     "name": "Résidence PRE-FLEURI",
     "operator": "NECC SA",
@@ -55971,31 +56065,6 @@
     "coordinates": [
       6.6213248,
       46.5200036
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9990471869",
-  "properties": {
-    "addr:city": "Crans-Montana",
-    "addr:housenumber": "87",
-    "addr:postcode": "3963",
-    "addr:street": "Route de la Moubra",
-    "amenity": "hospital",
-    "healthcare": "hospital",
-    "healthcare:speciality": "physiatry",
-    "name": "Clinique Bernoise Montana",
-    "name:de": "Berner Klinik Montana",
-    "name:fr": "Clinique Bernoise Montana",
-    "phone": "+41 27 485 51 21",
-    "id": "node/9990471869"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.481131,
-      46.2997051
     ]
   }
 },

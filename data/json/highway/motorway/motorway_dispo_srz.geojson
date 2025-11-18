@@ -37964,6 +37964,8 @@
     "toll": "yes",
     "tunnel": "yes",
     "tunnel:name": "Uetlibergtunnel",
+    "wikidata": "Q1291276",
+    "wikipedia": "de:Uetlibergtunnel",
     "id": "way/137477230"
   },
   "geometry": {
@@ -38209,6 +38211,8 @@
     "toll": "yes",
     "tunnel": "yes",
     "tunnel:name": "Uetlibergtunnel",
+    "wikidata": "Q1291276",
+    "wikipedia": "de:Uetlibergtunnel",
     "id": "way/137477232"
   },
   "geometry": {
@@ -73940,6 +73944,8 @@
     "toll": "yes",
     "tunnel": "yes",
     "tunnel:name": "Uetlibergtunnel",
+    "wikidata": "Q1291276",
+    "wikipedia": "de:Uetlibergtunnel",
     "id": "way/624393068"
   },
   "geometry": {
@@ -74033,6 +74039,8 @@
     "tunnel": "yes",
     "tunnel:name": "Uetlibergtunnel",
     "turn:lanes": "none|none|merge_to_left",
+    "wikidata": "Q1291276",
+    "wikipedia": "de:Uetlibergtunnel",
     "id": "way/624393071"
   },
   "geometry": {
@@ -74100,6 +74108,8 @@
     "toll": "yes",
     "tunnel": "yes",
     "tunnel:name": "Uetlibergtunnel",
+    "wikidata": "Q1291276",
+    "wikipedia": "de:Uetlibergtunnel",
     "id": "way/624393072"
   },
   "geometry": {
@@ -74147,6 +74157,8 @@
     "tunnel": "yes",
     "tunnel:name": "Uetlibergtunnel",
     "turn:lanes": "none|none|merge_to_left",
+    "wikidata": "Q1291276",
+    "wikipedia": "de:Uetlibergtunnel",
     "id": "way/624393073"
   },
   "geometry": {
