@@ -12855,11 +12855,11 @@
   "type": "Feature",
   "id": "node/8557121974",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Aussenfassade, bei der Schiedsrichter Kabine",
+    "defibrillator:location": "Aufgehoben weil Umbau",
+    "description": "nicht Verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
     "operator": "Gemeinde Männedorf, Facility Management",
     "phone": "+41 44 921 67 69",
     "id": "node/8557121974"
@@ -12867,7 +12867,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.712983,
+      8.7129843,
       47.2589011
     ]
   }
@@ -74251,6 +74251,29 @@
     "coordinates": [
       8.8003422,
       47.5688212
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13313136901",
+  "properties": {
+    "defibrillator:location": "Sihlporte 3",
+    "description": "abailable during business hours",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 08:00 - 18:00",
+    "operator": "Firma",
+    "phone": "+41446688000",
+    "id": "node/13313136901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5341928,
+      47.3723109
     ]
   }
 }

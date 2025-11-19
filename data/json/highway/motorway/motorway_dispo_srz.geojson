@@ -51230,6 +51230,7 @@
   "type": "Feature",
   "id": "way/255102674",
   "properties": {
+    "change:lanes": "yes|not_right|not_left|no",
     "destination:colour:lanes": "||;;blue|",
     "destination:int_ref:lanes": "E 41;E 60|E 41;E 60||",
     "destination:lanes": "St. Gallen;Schaffhausen;Winterthur|St. Gallen;Schaffhausen;Winterthur|Rapperswil-Jona;Uster;Wangen|Brüttisellen;Dietlikon",
@@ -51246,14 +51247,15 @@
     "source:maxspeed": "sign",
     "surface": "asphalt",
     "toll": "yes",
+    "turn:lanes": "through|through|through|slight_right",
     "id": "way/255102674"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.6250517,
-        47.4142904
+        8.6253431,
+        47.4144737
       ],
       [
         8.6257091,
@@ -80183,16 +80185,8 @@
         47.4136517
       ],
       [
-        8.6243482,
-        47.4138618
-      ],
-      [
-        8.6247003,
-        47.414073
-      ],
-      [
-        8.6250517,
-        47.4142904
+        8.6242246,
+        47.413789
       ]
     ]
   }
@@ -91773,6 +91767,91 @@
       [
         8.5697796,
         47.4102577
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1451624580",
+  "properties": {
+    "avz": "286",
+    "cs_dir": "1",
+    "destination:colour:lanes": "||;;blue|",
+    "destination:int_ref:lanes": "E 41;E 60|E 41;E 60||",
+    "destination:lanes": "St. Gallen;Schaffhausen;Winterthur|St. Gallen;Schaffhausen;Winterthur|Rapperswil-Jona;Uster;Wangen|Brüttisellen;Dietlikon",
+    "destination:ref:lanes": "A1;A4|A1;A4|A15|",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "4",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
+    "oneway": "yes",
+    "ref": "A1;A4",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through|through|through|slight_right",
+    "id": "way/1451624580"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6242246,
+        47.413789
+      ],
+      [
+        8.6243482,
+        47.4138618
+      ],
+      [
+        8.6247003,
+        47.414073
+      ],
+      [
+        8.6250517,
+        47.4142904
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1451624581",
+  "properties": {
+    "change:lanes": "yes|yes|yes|no",
+    "destination:colour:lanes": "||;;blue|",
+    "destination:int_ref:lanes": "E 41;E 60|E 41;E 60||",
+    "destination:lanes": "St. Gallen;Schaffhausen;Winterthur|St. Gallen;Schaffhausen;Winterthur|Rapperswil-Jona;Uster;Wangen|Brüttisellen;Dietlikon",
+    "destination:ref:lanes": "A1;A4|A1;A4|A15|",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
+    "oneway": "yes",
+    "placement": "middle_of:2",
+    "ref": "A1;A4",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through|through|through|slight_right",
+    "id": "way/1451624581"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6250517,
+        47.4142904
+      ],
+      [
+        8.6253431,
+        47.4144737
       ]
     ]
   }
