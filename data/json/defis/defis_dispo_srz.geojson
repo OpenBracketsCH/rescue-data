@@ -12112,8 +12112,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5913998,
-      47.1790811
+      8.5910806,
+      47.178805
     ]
   }
 },
@@ -72088,8 +72088,9 @@
   "type": "Feature",
   "id": "node/11822218871",
   "properties": {
+    "access": "permissive",
     "defibrillator:location": "SFB Bildungszentrum, Bernstrasse 392, 8953 Dietikon",
-    "description": "Haupteingang benützen, vor Treppenhaus links Eingang nehmen (Zimmer E01/E02).",
+    "description": "Haupteingang benützen. Nach Schiebetüre linke Seite an der Wand",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -72102,7 +72103,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.3955445,
+      8.3955446,
       47.38278
     ]
   }
@@ -80438,8 +80439,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6524552,
-      47.0231986
+      8.6523506,
+      47.0231277
     ]
   }
 },
@@ -87365,23 +87366,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/12670365701",
-  "properties": {
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "phone": "+41 41 811 15 55",
-    "id": "node/12670365701"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6523551,
-      47.023126
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/12670382801",
   "properties": {
     "access": "yes",
@@ -90587,8 +90571,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8464891,
-      46.9136355
+      8.8466025,
+      46.9135987
     ]
   }
 },
