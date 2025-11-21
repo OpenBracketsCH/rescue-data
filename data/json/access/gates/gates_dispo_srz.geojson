@@ -24866,6 +24866,7 @@
   "id": "node/2202561266",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "1.3",
     "id": "node/2202561266"
   },
   "geometry": {
@@ -93996,6 +93997,29 @@
 },
 {
   "type": "Feature",
+  "id": "node/11602272891",
+  "properties": {
+    "access": "private",
+    "addr:city": "Dietikon",
+    "addr:postcode": "8953",
+    "addr:street": "Weidstrasse",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/11602272891"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3880111,
+      47.4013366
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/11603003938",
   "properties": {
     "barrier": "gate",
@@ -94006,6 +94030,86 @@
     "coordinates": [
       8.6422783,
       47.4297033
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11603047538",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "locked": "yes",
+    "name": "Tiefgarage Staffelackerstrasse 23/27 - Ausfahrt Staffelackerstrasse",
+    "parking": "underground",
+    "id": "node/11603047538"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3889534,
+      47.4027157
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11603047539",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "locked": "yes",
+    "name": "Tiefgarage Staffelackerstrasse 23/27 - Einfahrt Staffelackerstrasse",
+    "parking": "underground",
+    "id": "node/11603047539"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3893938,
+      47.4027119
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11603047542",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "locked": "yes",
+    "name": "Tiefgarage Staffelackerstrasse 29/31/33 - Ausfahrt Staffelackerstrasse",
+    "parking": "underground",
+    "id": "node/11603047542"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3887025,
+      47.4028829
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11603047543",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "locked": "yes",
+    "name": "Tiefgarage Staffelackerstrasse 29/31/33 - Einfahrt Staffelackerstrasse",
+    "parking": "underground",
+    "id": "node/11603047543"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3891497,
+      47.4028806
     ]
   }
 },
@@ -105617,6 +105721,29 @@
 },
 {
   "type": "Feature",
+  "id": "node/13305978510",
+  "properties": {
+    "access": "private",
+    "addr:city": "Dietikon",
+    "addr:postcode": "8953",
+    "addr:street": "Windeggstrasse",
+    "amenity": "parking",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13305978510"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3982785,
+      47.4006899
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/13313412242",
   "properties": {
     "barrier": "gate",
@@ -105642,6 +105769,95 @@
     "coordinates": [
       8.4183307,
       47.4210462
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13320082539",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13320082539"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3880927,
+      47.4012176
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13320082540",
+  "properties": {
+    "access": "private",
+    "addr:city": "Dietikon",
+    "addr:postcode": "8953",
+    "addr:street": "Weidstrasse",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13320082540"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.388108,
+      47.4011972
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13320082541",
+  "properties": {
+    "access": "private",
+    "addr:city": "Dietikon",
+    "addr:postcode": "8953",
+    "addr:street": "Weidstrasse",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13320082541"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3881226,
+      47.4011778
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13320082542",
+  "properties": {
+    "access": "private",
+    "addr:city": "Dietikon",
+    "addr:postcode": "8953",
+    "addr:street": "Weidstrasse",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13320082542"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3881392,
+      47.4011557
     ]
   }
 }

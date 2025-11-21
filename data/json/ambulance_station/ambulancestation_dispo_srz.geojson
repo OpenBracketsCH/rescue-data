@@ -8,6 +8,7 @@
     "addr:housenumber": "24b",
     "addr:street": "Spitalstrasse",
     "building": "hospital",
+    "check_date": "2025-11-20",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Bülach",
     "operator": "Spital Bülach",
