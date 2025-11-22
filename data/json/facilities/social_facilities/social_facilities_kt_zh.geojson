@@ -19429,6 +19429,7 @@
     "addr:street": "Aathalstrasse",
     "alt_name": "Asylunterkunft Uster",
     "amenity": "social_facility",
+    "building": "civic",
     "name": "MNA Zentrum Uster",
     "old_name": "Alterszentrum Rosengarten",
     "operator": "Caritas Schweiz",

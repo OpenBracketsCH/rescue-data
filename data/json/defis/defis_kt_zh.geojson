@@ -11965,6 +11965,7 @@
   "id": "node/8554787355",
   "properties": {
     "access": "yes",
+    "check_date": "2025-11-21",
     "defibrillator:location": "im Treppenhaus, direkt beim Hauseingang",
     "description": "24h, Tür muss jedoch von einem Bewohner oder Praxis geöffnet werden (ca 20 Klingelknöpfe)",
     "emergency": "defibrillator",
@@ -48660,23 +48661,20 @@
   "type": "Feature",
   "id": "node/11307512969",
   "properties": {
-    "defibrillator:location": "Steinbruggstrasse 21",
-    "description": "Während Öffnungszeiten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "3",
     "opening_hours": "Mo-Fr 07:30-16:00",
-    "operator": "Roger Wiederkehr GmbH / www.malerwiederkehr.ch",
+    "operator": "Roger Wiederkehr GmbH",
     "phone": "+41 44 860 42 12",
-    "source": "local_knowledge, defikarte.ch",
     "id": "node/11307512969"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4087735,
-      47.4989197
+      8.4085469,
+      47.4989836
     ]
   }
 },
@@ -74275,6 +74273,28 @@
     "coordinates": [
       8.5341928,
       47.3723109
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13321556201",
+  "properties": {
+    "defibrillator:location": "121fitness gmbh",
+    "description": "während den Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "Privatperson",
+    "id": "node/13321556201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5783712,
+      47.324275
     ]
   }
 }

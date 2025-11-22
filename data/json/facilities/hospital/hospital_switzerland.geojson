@@ -39742,15 +39742,15 @@
     "addr:postcode": "7272",
     "addr:street": "Klinikstrasse",
     "alt_name": "Klinik Davos Clavadel",
-    "amenity": "clinic",
-    "check_date": "2024-07-24",
+    "amenity": "hospital",
+    "check_date": "2025-11-21",
     "emergency": "no",
     "healthcare": "rehabilitation",
-    "name": "Zürcher RehaZentren - Klinik Davos",
-    "official_name": "Zürcher RehaZentren - Klinik Davos",
-    "operator": "Zürcher RahaZentren",
+    "name": "Rehaklinik Davos Clavadel",
+    "operator": "Klinikgruppe Valens",
+    "operator:type": "private",
     "phone": "+41814144222",
-    "website": "https://zhreha.ch/klinik/klinik-davos/",
+    "website": "https://valens.ch/reha-davos-clavadel/",
     "wheelchair": "yes",
     "id": "way/677017569"
   },
@@ -39759,88 +39759,44 @@
     "coordinates": [
       [
         [
-          9.8151523,
-          46.7693952
+          9.8156619,
+          46.7693732
         ],
         [
-          9.8151067,
-          46.7694651
+          9.814935,
+          46.7694871
         ],
         [
-          9.8148277,
-          46.7694173
+          9.8139996,
+          46.7697692
         ],
         [
-          9.8149283,
-          46.7692272
+          9.8137927,
+          46.7694193
         ],
         [
-          9.8150222,
-          46.7691188
+          9.8137869,
+          46.7689378
         ],
         [
-          9.8147359,
-          46.768851
+          9.8139091,
+          46.7686032
         ],
         [
-          9.8146923,
-          46.7688106
-        ],
-        [
-          9.814643,
-          46.7687959
-        ],
-        [
-          9.8146021,
-          46.7687908
-        ],
-        [
-          9.8145619,
-          46.7687993
-        ],
-        [
-          9.8145109,
-          46.7688207
-        ],
-        [
-          9.8145032,
-          46.7688156
-        ],
-        [
-          9.814412,
-          46.7687559
-        ],
-        [
-          9.8145649,
-          46.768597
-        ],
-        [
-          9.8147111,
-          46.7684904
-        ],
-        [
-          9.8147325,
-          46.7684427
-        ],
-        [
-          9.8147245,
-          46.768394
+          9.8143681,
+          46.7684821
         ],
         [
           9.8148223,
           46.7683922
         ],
         [
-          9.8152027,
-          46.7683779
+          9.8149858,
+          46.7684254
         ],
         [
-          9.8152623,
-          46.768383
-        ],
-        [
-          9.8155761,
-          46.7681588
+          9.8154322,
+          46.7681847
         ],
         [
           9.8161179,
@@ -39853,10 +39809,6 @@
         [
           9.8156619,
           46.7693732
-        ],
-        [
-          9.8151523,
-          46.7693952
         ]
       ]
     ]
@@ -58531,10 +58483,11 @@
     "alt_name": "Rehaklinik Davos Wolfgang",
     "amenity": "hospital",
     "emergency": "no",
-    "healthcare": "hospital",
+    "healthcare": "rehabilitation",
     "healthcare:speciality": "pulmonology;allergology;psychosomatik;paediatrics;dermatology;cardiology",
     "name": "Hochgebirgsklinik Davos",
     "operator": "Hochgebirgsklinik Davos AG",
+    "operator:type": "private",
     "website": "https://hochgebirgsklinik.ch/",
     "wheelchair": "yes",
     "wikidata": "Q1621810",
