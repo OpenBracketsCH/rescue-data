@@ -7791,17 +7791,21 @@
   "id": "node/7644008605",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Dreifachturnhalle Breite",
+    "defibrillator:location": "Dreifachturnhalle Breite, beim Halleneingang zwischen Halle 2 und 3  im Untergeschoss (links). Roter Kasten an der Wand. Zugang nur bei offener Halle möglich.",
     "description": "nur zugänglich wenn Gebäude geöffnet sind",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "-1",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "wheelchair": "no",
     "id": "node/7644008605"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6234093,
-      47.7038306
+      8.6233442,
+      47.7039604
     ]
   }
 },
@@ -95487,6 +95491,28 @@
     "coordinates": [
       8.5240318,
       47.1923296
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13324058303",
+  "properties": {
+    "defibrillator:location": "Sagistrasse 12",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Tu 8:00-17:00, Fr 8:00-12:00",
+    "operator": "SHS",
+    "id": "node/13324058303"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4415836,
+      47.2754909
     ]
   }
 }
