@@ -33808,7 +33808,7 @@
     "addr:street": "Duttweilerstrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "check_date": "2025-07-25",
+    "check_date": "2025-11-23",
     "name": "Bundesasylzentrum Zürich West",
     "social_facility": "shelter",
     "social_facility:for": "refugee",
@@ -49521,6 +49521,31 @@
     "coordinates": [
       8.5365409,
       47.3821816
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13327110747",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "25",
+    "addr:postcode": "8404",
+    "addr:street": "Rudolf-Diesel-Strasse",
+    "amenity": "social_facility",
+    "description": "Geschäftsstelle",
+    "email": "info@tischlein.ch",
+    "name": "Tischlein deck dich",
+    "phone": "+41 52 224 44 88",
+    "social_facility": "office",
+    "website": "https://www.tischlein.ch/ueber-uns/regionen-und-teams/geschaeftsstelle/",
+    "id": "node/13327110747"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7598238,
+      47.4942095
     ]
   }
 }

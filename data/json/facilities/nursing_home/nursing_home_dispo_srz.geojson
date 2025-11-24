@@ -26141,6 +26141,7 @@
     "alt_name": "Altersheim Eichrrain;Pflegeheim Eichrain",
     "amenity": "nursing_home",
     "building": "yes",
+    "building:levels": "8",
     "contact:phone": "+41 44 414 42 42",
     "contact:website": "https://www.stadt-zuerich.ch/gesundheitszentrum-eichrain",
     "name": "Gesundheitszentrum für das Alter Eichrain",
