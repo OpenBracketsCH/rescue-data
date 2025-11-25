@@ -761,20 +761,21 @@
   "type": "Feature",
   "id": "node/5719351201",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "durch Drehtüre, dann gleich rechts.",
+    "defibrillator:location": "SR Technics, Building T22",
     "description": "nur mit Zugangskarte erreichbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "2",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "SR Technics Switzerland Ltd.",
     "id": "node/5719351201"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5699588,
-      47.4459054
+      8.5698704,
+      47.4459018
     ]
   }
 },
@@ -9245,12 +9246,13 @@
   "type": "Feature",
   "id": "node/8382790996",
   "properties": {
-    "access": "no",
+    "access": "yes",
     "defibrillator:location": "Eingang Gebäude A",
     "description": "öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "SOB",
     "phone": "+41 58 580 70 70",
     "id": "node/8382790996"
@@ -9258,7 +9260,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6837841,
+      8.6837838,
       47.192082
     ]
   }
@@ -63745,7 +63747,7 @@
   "id": "node/12395987001",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Gemeindesaal, Haupteingang rechts",
+    "defibrillator:location": "Gemeindesaal, Haupteingang rechts / Bahnweg 6",
     "description": "immer verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -63759,8 +63761,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.771512,
-      47.2523468
+      8.7715121,
+      47.2523469
     ]
   }
 },
@@ -66983,7 +66985,7 @@
   "id": "node/12607026601",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Gemeindehaus, Feldbachstrasse 12, rechts vom Eingang",
+    "defibrillator:location": "Gemeindehaus, rechts vom Eingang / Feldbachstrasse 12",
     "description": "immer verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -74191,7 +74193,7 @@
   "id": "node/13301187101",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Kindergarten Tobel / Links vom Eingang in den Kindergarten",
+    "defibrillator:location": "Kindergarten Tobel / Links vom Eingang in den Kindergarten / Eichwisstrasse 53",
     "description": "Öffentlich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -74206,7 +74208,7 @@
     "type": "Point",
     "coordinates": [
       8.7823007,
-      47.2512488
+      47.251249
     ]
   }
 },
@@ -74317,6 +74319,261 @@
     "coordinates": [
       8.4415836,
       47.2754909
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13327925201",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Wohnhaus B, rechts vom Empfang / Bruneggstrasse 3",
+    "description": "Öffentlich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Hombrechtikon",
+    "phone": "+41 55 254 92 62",
+    "id": "node/13327925201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7721699,
+      47.2434857
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13328098901",
+  "properties": {
+    "defibrillator:location": "SR Technics, Building T26n",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "4",
+    "opening_hours": "24/7",
+    "operator": "SR Technics Switzerland Ltd.",
+    "id": "node/13328098901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5678637,
+      47.4426976
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13328101201",
+  "properties": {
+    "defibrillator:location": "SR Technics, Building T26a",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "SR Technics Switzerland Ltd.",
+    "id": "node/13328101201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5695327,
+      47.4431173
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13328104601",
+  "properties": {
+    "defibrillator:location": "SR Technics, Building T42",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "SR Technics Switzerland Ltd.",
+    "id": "node/13328104601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.569697,
+      47.444306
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13328105601",
+  "properties": {
+    "defibrillator:location": "SR Technics, Building T12",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "SR Technics Switzerland Ltd.",
+    "id": "node/13328105601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.567907,
+      47.4434246
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13328112301",
+  "properties": {
+    "defibrillator:location": "SR Technics, Building T27",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "SR Technics Switzerland Ltd.",
+    "id": "node/13328112301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5698188,
+      47.4450218
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13328112303",
+  "properties": {
+    "defibrillator:location": "SR Technics, Building T21a",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "SR Technics Switzerland Ltd.",
+    "id": "node/13328112303"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5690754,
+      47.4458882
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13328114601",
+  "properties": {
+    "defibrillator:location": "SR Technics, Building T14",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "SR Technics Switzerland Ltd.",
+    "id": "node/13328114601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5682705,
+      47.4448926
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13328115001",
+  "properties": {
+    "defibrillator:location": "SR Technics, Building T14",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "6",
+    "opening_hours": "24/7",
+    "operator": "SR Technics Switzerland Ltd.",
+    "id": "node/13328115001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5678329,
+      47.4455152
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13328117201",
+  "properties": {
+    "defibrillator:location": "SR Technics, Building T10",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "SR Technics Switzerland Ltd.",
+    "id": "node/13328117201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5691383,
+      47.4450778
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13328120401",
+  "properties": {
+    "defibrillator:location": "SR Technics, Building T21b",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "SR Technics Switzerland Ltd.",
+    "id": "node/13328120401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5688045,
+      47.4464916
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13329753301",
+  "properties": {
+    "defibrillator:location": "Thurgauerstrass 40, 8050 Zürich, beim Eingang rechts",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "7",
+    "opening_hours": "Mo-Fr 07:00 - 17:00",
+    "operator": "Bund",
+    "id": "node/13329753301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5518173,
+      47.4147604
     ]
   }
 }

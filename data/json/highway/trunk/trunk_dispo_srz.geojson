@@ -6397,6 +6397,7 @@
   "id": "way/31715547",
   "properties": {
     "bicycle": "no",
+    "cycleway:both": "no",
     "foot": "no",
     "highway": "trunk",
     "lanes": "1",
@@ -6587,6 +6588,7 @@
   "type": "Feature",
   "id": "way/32554254",
   "properties": {
+    "cycleway:both": "no",
     "highway": "trunk",
     "lanes": "1",
     "layer": "-3",

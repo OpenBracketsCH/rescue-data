@@ -37241,36 +37241,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4429573385",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/4429573385"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5403658,
-      47.4480777
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4429573387",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/4429573387"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5399898,
-      47.4485822
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4430010682",
   "properties": {
     "access": "yes",
@@ -55923,6 +55893,7 @@
   "properties": {
     "barrier": "gate",
     "gate:type": "double",
+    "maxwidth:physical": "2",
     "opening_hours": "10:00-19:00",
     "id": "node/7597648129"
   },
@@ -69065,23 +69036,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6496706,
-      47.466319
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10211873111",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/10211873111"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6496706,
-      47.466319
+      8.6496716,
+      47.4663179
     ]
   }
 },
@@ -69091,36 +69047,6 @@
   "properties": {
     "barrier": "gate",
     "id": "node/10211873114"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.649691,
-      47.4665203
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10211873115",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/10211873115"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.649691,
-      47.4665203
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10211873116",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/10211873116"
   },
   "geometry": {
     "type": "Point",
@@ -90100,6 +90026,7 @@
   "properties": {
     "barrier": "gate",
     "locked": "no",
+    "maxwidth:physical": "2",
     "id": "node/13043232999"
   },
   "geometry": {
@@ -91072,6 +90999,7 @@
   "properties": {
     "barrier": "gate",
     "locked": "no",
+    "maxwidth:physical": "2",
     "id": "node/13265595157"
   },
   "geometry": {
@@ -91088,6 +91016,7 @@
   "properties": {
     "barrier": "gate",
     "locked": "no",
+    "maxwidth:physical": "2",
     "id": "node/13265595159"
   },
   "geometry": {
@@ -91104,6 +91033,7 @@
   "properties": {
     "barrier": "gate",
     "locked": "no",
+    "maxwidth:physical": "2",
     "id": "node/13265595161"
   },
   "geometry": {
@@ -91120,6 +91050,7 @@
   "properties": {
     "barrier": "gate",
     "locked": "no",
+    "maxwidth:physical": "2",
     "id": "node/13265595163"
   },
   "geometry": {
@@ -91136,6 +91067,7 @@
   "properties": {
     "barrier": "gate",
     "locked": "no",
+    "maxwidth:physical": "2",
     "id": "node/13265595177"
   },
   "geometry": {
@@ -91152,6 +91084,7 @@
   "properties": {
     "barrier": "gate",
     "locked": "no",
+    "maxwidth:physical": "2",
     "id": "node/13265595181"
   },
   "geometry": {
@@ -91168,6 +91101,7 @@
   "properties": {
     "barrier": "gate",
     "locked": "no",
+    "maxwidth:physical": "2",
     "id": "node/13265595182"
   },
   "geometry": {

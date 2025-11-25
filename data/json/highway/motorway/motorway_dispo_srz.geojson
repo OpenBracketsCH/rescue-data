@@ -26154,6 +26154,7 @@
   "properties": {
     "avz": "221",
     "cs_dir:forward": "1",
+    "destination:lanes": "Chur|Chur|Bern,Basel;St. Gallen;Luzern;Westring-Zürich",
     "highway": "motorway",
     "lanes": "3",
     "lit": "yes",
