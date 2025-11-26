@@ -15542,6 +15542,50 @@
       47.3553407
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13332220996",
+  "properties": {
+    "addr:city": "Rüti ZH",
+    "addr:housenumber": "14",
+    "addr:postcode": "8630",
+    "addr:street": "Amthofstrasse",
+    "amenity": "childcare",
+    "name": "Spielgruppe Liri!",
+    "opening_hours": "We 08:30-11:00; PH off",
+    "website": "https://www.spielgruppeliri.ch/",
+    "id": "node/13332220996"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8491381,
+      47.2600044
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13332558895",
+  "properties": {
+    "addr:city": "Rüti ZH",
+    "addr:housenumber": "34",
+    "addr:postcode": "8630",
+    "addr:street": "Eichwiesstrasse",
+    "amenity": "childcare",
+    "name": "Spielgruppe Smiley",
+    "phone": "+41 55 240 63 81",
+    "website": "https://www.spielgruppesmiley.ch/",
+    "id": "node/13332558895"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8434437,
+      47.2514484
+    ]
+  }
 }
 ]
 }

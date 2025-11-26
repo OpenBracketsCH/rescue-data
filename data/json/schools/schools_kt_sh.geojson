@@ -1658,7 +1658,8 @@
     "addr:street": "Holunderweg",
     "amenity": "school",
     "building": "school",
-    "name": "Schulhaus Alpenblick Primar",
+    "education": "school",
+    "name": "Schulhaus Alpenblick Garderobentrakt",
     "id": "way/167996819"
   },
   "geometry": {
@@ -6088,7 +6089,8 @@
     "addr:street": "Holunderweg",
     "amenity": "school",
     "building": "school",
-    "name": "Schulhaus Alpenblick Primar",
+    "education": "school",
+    "name": "Schulhaus Alpenblick Primar- und Oberstufe",
     "id": "way/1096261709"
   },
   "geometry": {

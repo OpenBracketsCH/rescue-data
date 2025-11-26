@@ -27111,7 +27111,11 @@
     "addr:street": "Fischeracherstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "building:levels": "2",
+    "check_date": "2025-11-23",
     "name": "Kindergarten Lindau",
+    "roof:levels": "0",
+    "roof:shape": "hipped",
     "id": "way/950043667"
   },
   "geometry": {
@@ -43247,23 +43251,6 @@
     "coordinates": [
       8.5938535,
       47.2607019
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10797076917",
-  "properties": {
-    "amenity": "kindergarten",
-    "check_date": "2025-04-21",
-    "name": "Kita Fugu",
-    "id": "node/10797076917"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8530445,
-      47.260615
     ]
   }
 },

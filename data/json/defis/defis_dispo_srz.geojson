@@ -46985,11 +46985,10 @@
   "type": "Feature",
   "id": "node/10240188669",
   "properties": {
-    "access": "yes",
     "defibrillator:location": "im Sekretariat",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "opening_hours": "24/7",
+    "indoor": "yes",
     "operator": "Primarschulhaus",
     "id": "node/10240188669"
   },
@@ -49066,15 +49065,12 @@
   "type": "Feature",
   "id": "node/10611433805",
   "properties": {
-    "defibrillator:location": "Im Bürogebäude, Küche oberhalb Schrank Kühlschrank",
-    "description": "Während Öffnungszeiten verfügbar",
+    "access": "private",
+    "defibrillator:location": "Ist nicht mehr in Betrieb!!",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-Fr 08:00-17:00",
-    "operator": "Gartenbau Genossenschaft Zürich",
-    "phone": "+41 79 667 94 93",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/10611433805"
   },
@@ -49090,15 +49086,11 @@
   "type": "Feature",
   "id": "node/10611433806",
   "properties": {
-    "access": "yes",
-    "defibrillator:location": "Im Holzerhurd 60, Werkhof, neben Aufenthaltsraum an Wand",
+    "access": "private",
+    "defibrillator:location": "Ist nicht mehr im Betrieb!!!!",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "-1",
-    "opening_hours": "24/7",
-    "operator": "Gartenbau Genossenschaft Zürich",
-    "phone": "+41796679493",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/10611433806"
   },
@@ -55725,21 +55717,27 @@
   "id": "node/10763310081",
   "properties": {
     "access": "no",
+    "addr:city": "Zürich",
+    "addr:housenumber": "17",
+    "addr:postcode": "8041",
+    "addr:street": "Maneggstrasse",
     "defibrillator:location": "Bei Firma Crealogix im 9. OG",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "9",
     "name": "CREALOGIX AG",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
+    "ref": "0665LTM",
     "id": "node/10763310081"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.52052,
-      47.3421
+      8.5205116,
+      47.3421095
     ]
   }
 },
@@ -67737,19 +67735,19 @@
   "id": "node/11579506069",
   "properties": {
     "defibrillator:location": "Activ Fitness",
-    "description": "Während Öffnungszeiten",
+    "description": "Während Öffnungszeiten Active Fitness",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
+    "indoor": "yes",
     "level": "0",
-    "opening_hours": "24/7",
+    "opening_hours": "Mo-Fr 06:30-22:00; Sa-Su 09:00-18:00",
     "id": "node/11579506069"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4873562,
-      47.3914489
+      8.4875429,
+      47.3914201
     ]
   }
 },
@@ -69088,26 +69086,6 @@
     "coordinates": [
       8.4823679,
       47.4091449
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11680086569",
-  "properties": {
-    "defibrillator:location": "Eingang Tiefgarage links",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/11680086569"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4824967,
-      47.4092851
     ]
   }
 },
@@ -90546,7 +90524,7 @@
     "defibrillator:location": "Muotathal, Sahli (Luftseilbahn Sahli-Glattalp)",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
     "opening_hours": "24/7",
     "operator": "ebs Energie AG",
     "phone": "+41 41 811 15 55",
@@ -90556,8 +90534,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8466025,
-      46.9135987
+      8.8466026,
+      46.9135988
     ]
   }
 },
@@ -90580,8 +90558,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8775702,
-      46.9154997
+      8.8738037,
+      46.9150946
     ]
   }
 },
