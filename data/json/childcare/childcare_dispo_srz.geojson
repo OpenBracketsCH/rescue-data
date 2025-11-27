@@ -16398,6 +16398,27 @@
       47.2514484
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13333712650",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:housenumber": "20",
+    "addr:postcode": "8600",
+    "addr:street": "Ringstrasse",
+    "amenity": "childcare",
+    "name": "Kinderwerkstatt",
+    "website": "https://www.igkinderwerkstatt.ch/kinderkrippe.html",
+    "id": "node/13333712650"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6039992,
+      47.397538
+    ]
+  }
 }
 ]
 }

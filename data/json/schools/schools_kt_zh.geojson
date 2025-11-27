@@ -24227,6 +24227,10 @@
           47.3540842
         ],
         [
+          8.4399009,
+          47.3540333
+        ],
+        [
           8.4398327,
           47.3539489
         ],
@@ -86368,6 +86372,7 @@
   "id": "way/782483814",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-11-26",
     "name": "Primarschule Bisikon",
     "id": "way/782483814"
   },
@@ -103780,6 +103785,28 @@
     "coordinates": [
       8.7063486,
       47.3456683
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13333712649",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:housenumber": "20",
+    "addr:postcode": "8600",
+    "addr:street": "Ringstrasse",
+    "amenity": "school",
+    "education": "school",
+    "grades": "0-6",
+    "name": "Kinderwerkstatt",
+    "id": "node/13333712649"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6040307,
+      47.3975456
     ]
   }
 }

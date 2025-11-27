@@ -52136,7 +52136,7 @@
     "addr:postcode": "8038",
     "addr:street": "Albisstrasse",
     "amenity": "social_facility",
-    "check_date": "2023-04-19",
+    "check_date": "2025-11-26",
     "email": "wollishofen-leimbach@oja.ch",
     "name": "OJA Wollishofen & Leimbach",
     "opening_hours": "Tu-Fr",
@@ -59478,7 +59478,7 @@
     "name": "sbv Beratung Zürich",
     "opening_hours": "Mo-Th 09:00-11:30, 13:30-16:00; Fr 09:00-11:30",
     "phone": "+41444441060",
-    "website": "http://sbv-fsa.ch/bst/zuerich",
+    "website": "https://sbv-fsa.ch/bst/zuerich",
     "id": "node/13299029101"
   },
   "geometry": {
