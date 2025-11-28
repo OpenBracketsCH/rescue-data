@@ -80221,6 +80221,27 @@
 },
 {
   "type": "Feature",
+  "id": "node/11486366055",
+  "properties": {
+    "access": "yes",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "foot": "no",
+    "maxheight": "2.1",
+    "name": "Tiefgarage Stadthaus Dietikon - Ein-/Ausfahrt Bühlstrasse",
+    "parking": "underground",
+    "id": "node/11486366055"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4009792,
+      47.4032479
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/11486405916",
   "properties": {
     "access": "private",
@@ -82421,6 +82442,26 @@
     "coordinates": [
       8.4000626,
       47.4030245
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11763827305",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "level": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/11763827305"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3998423,
+      47.402791
     ]
   }
 },
@@ -91402,6 +91443,21 @@
     "coordinates": [
       8.451711,
       47.4863462
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13336463375",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/13336463375"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4581688,
+      47.3585653
     ]
   }
 }
