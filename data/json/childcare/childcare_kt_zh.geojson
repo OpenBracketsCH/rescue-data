@@ -5838,6 +5838,7 @@
   "id": "node/3715459915",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-11-28",
     "name": "Teddybär",
     "nursery": "yes",
     "id": "node/3715459915"

@@ -16693,6 +16693,7 @@
     "addr:street": "Baumgartenstrasse",
     "amenity": "kindergarten",
     "building": "yes",
+    "check_date": "2025-11-28",
     "isced:level": "0",
     "name": "Kiga Baumgarten",
     "id": "way/247831887"
