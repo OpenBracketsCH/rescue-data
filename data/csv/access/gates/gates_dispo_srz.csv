@@ -6570,3 +6570,4 @@ FeatureCollection,"{'type': 'Feature', 'id': 'node/13331562589', 'properties': {
 FeatureCollection,"{'type': 'Feature', 'id': 'node/13331562599', 'properties': {'barrier': 'gate', 'id': 'node/13331562599'}, 'geometry': {'type': 'Point', 'coordinates': [8.431161, 47.5001057]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/13332215876', 'properties': {'barrier': 'gate', 'id': 'node/13332215876'}, 'geometry': {'type': 'Point', 'coordinates': [8.451711, 47.4863462]}}"
 FeatureCollection,"{'type': 'Feature', 'id': 'node/13336463375', 'properties': {'barrier': 'gate', 'id': 'node/13336463375'}, 'geometry': {'type': 'Point', 'coordinates': [8.4581688, 47.3585653]}}"
+FeatureCollection,"{'type': 'Feature', 'id': 'node/13338627353', 'properties': {'barrier': 'gate', 'id': 'node/13338627353'}, 'geometry': {'type': 'Point', 'coordinates': [8.5017133, 47.4890459]}}"
