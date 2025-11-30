@@ -26476,6 +26476,7 @@
     "addr:postcode": "1470",
     "addr:street": "Rue de la Rochette",
     "amenity": "hospital",
+    "check_date": "2025-11-29",
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",

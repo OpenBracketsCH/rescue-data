@@ -16420,6 +16420,31 @@
       47.397538
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13341197936",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "40",
+    "addr:postcode": "8008",
+    "addr:street": "Forchstrasse",
+    "amenity": "childcare",
+    "email": "info@dinsle.ch",
+    "name": "d'Insle",
+    "operator": "d'Insle Montessori Schule AG",
+    "operator:type": "private",
+    "phone": "+41 43 443 00 30",
+    "website": "https://www.dinsle-sprungbrett.ch/de",
+    "id": "node/13341197936"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5570779,
+      47.3634229
+    ]
+  }
 }
 ]
 }
