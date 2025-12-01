@@ -166,9 +166,12 @@
   "type": "Feature",
   "id": "node/9435655841",
   "properties": {
-    "description": "Bahnhofstrasse/Zivilschutzanlage Trötteli",
+    "contact:country": "CH",
+    "covering": "-",
+    "description": "Notfalltreffpunkt Kanton Schaffhausen",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "location": "Bahnhofstrasse/Zivilschutzanlage Trötteli",
+    "temporary": "yes",
     "id": "node/9435655841"
   },
   "geometry": {
@@ -183,13 +186,17 @@
   "type": "Feature",
   "id": "node/9435655842",
   "properties": {
-    "addr:city": "Stein am Rhein",
-    "addr:housenumber": "5",
-    "addr:postcode": "8260",
-    "addr:street": "Klingenstrasse",
-    "description": "Sporthalle HOGA",
+    "contact:city": "Stein am Rhein",
+    "contact:country": "CH",
+    "contact:housenumber": "5",
+    "contact:postcode": "8260",
+    "contact:street": "Klingenstrasse",
+    "covering": "-",
+    "description": "Notfalltreffpunkt Kanton Schaffhausen",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "location": "Sporthalle HOGA",
+    "name": "Sporthalle HOGA",
+    "temporary": "yes",
     "id": "node/9435655842"
   },
   "geometry": {
@@ -440,15 +447,19 @@
   "id": "node/9435655854",
   "properties": {
     "contact:city": "Ramsen",
+    "contact:country": "CH",
     "contact:housenumber": "420",
     "contact:postcode": "8262",
     "contact:street": "Sonnenstrasse",
+    "covering": "-",
     "description": "Notfalltreffpunkt in Ramsen",
     "emergency": "disaster_help_point",
     "location": "Schulhaus",
     "name": "Aula Schulhaus",
+    "official_name": "Notfalltreffpunkt",
     "operator": "Kanton Schaffhausen",
     "room": "Aula",
+    "temporary": "yes",
     "id": "node/9435655854"
   },
   "geometry": {
@@ -647,13 +658,19 @@
   "type": "Feature",
   "id": "node/9435655863",
   "properties": {
-    "addr:city": "Hemishofen",
-    "addr:housenumber": "1",
-    "addr:postcode": "8261",
-    "addr:street": "Im Hafacker",
-    "description": "Mehrzweckhalle",
+    "contact:city": "Hemishofen",
+    "contact:country": "CH",
+    "contact:housenumber": "1",
+    "contact:postcode": "8261",
+    "contact:street": "Im Hafacker",
+    "covering": "-",
+    "description": "Notfalltreffpunkt Kanton Schaffhausen",
     "emergency": "disaster_help_point",
-    "name": "Notfalltreffpunkt Kanton Schaffhausen",
+    "location": "Mehrzweckhalle",
+    "name": "Mehrzweckhalle",
+    "official_name": "Notfalltreffpunkt",
+    "temporary": "yes",
+    "website": "https://umap.openstreetmap.de/de/map/notfalltreffpunkte_35481#12/47.7207/8.8275",
     "id": "node/9435655863"
   },
   "geometry": {
@@ -760,14 +777,18 @@
   "id": "node/9435655869",
   "properties": {
     "contact:city": "Buch",
+    "contact:country": "CH",
     "contact:housenumber": "42",
     "contact:postcode": "8263",
     "contact:street": "Dorfstrasse",
+    "covering": "-",
     "description": "Notfalltreffpunkt in Buch",
     "emergency": "disaster_help_point",
     "location": "Gemeindeverwaltung",
     "name": "Gemeindeverwaltung",
+    "official_name": "Notfalltreffpunkt",
     "operator": "Kanton Schaffhausen",
+    "temporary": "yes",
     "id": "node/9435655869"
   },
   "geometry": {

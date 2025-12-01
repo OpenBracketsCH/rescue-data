@@ -6588,7 +6588,9 @@
   "type": "Feature",
   "id": "way/32554254",
   "properties": {
+    "bicycle": "no",
     "cycleway:both": "no",
+    "foot": "no",
     "highway": "trunk",
     "lanes": "1",
     "layer": "-3",
@@ -9597,6 +9599,7 @@
   "id": "way/90062603",
   "properties": {
     "bicycle": "no",
+    "cycleway:both": "no",
     "foot": "no",
     "highway": "trunk",
     "lanes": "1",
@@ -16114,6 +16117,9 @@
   "type": "Feature",
   "id": "way/294323346",
   "properties": {
+    "bicycle": "no",
+    "cycleway:both": "no",
+    "foot": "no",
     "highway": "trunk",
     "lanes": "3",
     "layer": "-2",
@@ -16147,6 +16153,9 @@
   "type": "Feature",
   "id": "way/294323347",
   "properties": {
+    "bicycle": "no",
+    "cycleway:both": "no",
+    "foot": "no",
     "highway": "trunk",
     "lanes": "2",
     "layer": "-2",

@@ -1459,12 +1459,16 @@
           47.3462464
         ],
         [
+          8.7301905,
+          47.3461635
+        ],
+        [
           8.7300011,
           47.3459399
         ],
         [
-          8.7302054,
-          47.3458864
+          8.7302452,
+          47.3458793
         ],
         [
           8.7301066,
@@ -55965,48 +55969,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/190555442",
-  "properties": {
-    "addr:city": "Uster",
-    "addr:housenumber": "31",
-    "addr:postcode": "8610",
-    "addr:street": "Aathalstrasse",
-    "amenity": "school",
-    "building": "school",
-    "check_date": "2025-05-06",
-    "name": "Primarschule / Turnhalle Oberuster",
-    "id": "way/190555442"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7308395,
-          47.3455017
-        ],
-        [
-          8.7310888,
-          47.3459949
-        ],
-        [
-          8.7304804,
-          47.3461375
-        ],
-        [
-          8.7302316,
-          47.3456439
-        ],
-        [
-          8.7308395,
-          47.3455017
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/190803614",
   "properties": {
     "addr:city": "Regensberg",
@@ -66111,6 +66073,7 @@
   "id": "way/220203928",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-11-30",
     "name": "Schulanlage Allmend",
     "id": "way/220203928"
   },

@@ -43512,6 +43512,7 @@
     "addr:postcode": "8046",
     "addr:street": "Wolfswinkel",
     "amenity": "social_facility",
+    "check_date": "2025-11-30",
     "name": "SAW-Siedlung Unteraffoltern",
     "operator": "Stiftung Alterswohnungen der Stadt Zürich (SAW)",
     "social_facility": "assisted_living",

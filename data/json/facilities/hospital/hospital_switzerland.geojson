@@ -17375,8 +17375,10 @@
     "addr:street": "Fohrenbergstrasse",
     "amenity": "clinic",
     "building": "yes",
+    "check_date:opening_hours": "2025-11-30",
     "healthcare": "clinic",
     "name": "Privatklinik Aadorf",
+    "opening_hours:signed": "no",
     "source": "Bing",
     "website": "https://www.klinik-aadorf.ch/",
     "id": "way/203099841"
@@ -49416,7 +49418,7 @@
     "amenity": "hospital",
     "healthcare": "hospital",
     "healthcare:speciality": "psychiatry",
-    "name": "Centre Neuchâtelois de Psychiatrie Préfagier",
+    "name": "Centre Neuchâtelois de Psychiatrie Préfargier",
     "operator": "Centre neuchâtelois de psychiatrie (CNP)",
     "operator:type": "public",
     "id": "way/1301544953"
@@ -54084,9 +54086,9 @@
   "type": "Feature",
   "id": "node/7316166708",
   "properties": {
-    "addr:city": "La Tène",
+    "addr:city": "Marin-Epagnier",
+    "addr:place": "Préfargier",
     "addr:postcode": "2074",
-    "addr:street": "Prefargier",
     "amenity": "hospital",
     "healthcare": "hospital",
     "healthcare:speciality": "psychiatry",
