@@ -5719,12 +5719,14 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
+    "operator": "Gemeindeverwaltung Oetwil",
+    "phone": "+41 44 749 33 66",
     "id": "node/7572776737"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.3943405,
+      8.3943406,
       47.4283292
     ]
   }
@@ -31013,6 +31015,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Krischan Egli",
     "phone": "+41 44 939 17 37",
     "id": "node/9058114084"
@@ -31020,8 +31023,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8548492,
-      47.3369026
+      8.854849,
+      47.3369032
     ]
   }
 },
@@ -50273,16 +50276,18 @@
   "id": "node/10717363595",
   "properties": {
     "access": "yes",
+    "defibrillator:location": "Primarschule Dorf",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "id": "node/10717363595"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
       8.620491,
-      47.3973386
+      47.3973388
     ]
   }
 },
@@ -50291,16 +50296,18 @@
   "id": "node/10717363596",
   "properties": {
     "access": "yes",
+    "defibrillator:location": "Primarschule Sonnenberg",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "id": "node/10717363596"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
       8.6307102,
-      47.3936983
+      47.3936975
     ]
   }
 },
@@ -94535,7 +94542,7 @@
   "properties": {
     "access": "private",
     "defibrillator:location": "Gate Gourmet Hauptgebäude",
-    "description": "Beim Haupteingang nach der Drehtüre rechte Seite, nur mit Zutrittsberechtigungausweis  erreichbar",
+    "description": "Beim Haupteingang nach der Drehtüre rechte Seite, nur mit Zutrittsberechtigungausweis erreichbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -94583,11 +94590,11 @@
   "properties": {
     "access": "private",
     "defibrillator:location": "Gate Gourmet Hauptgebäude",
-    "description": "Neben Warenlift  rechte Seite nur mit Zutrittsberechtigungsausweis erreichbar",
+    "description": "Neben Personenlift rechte Seite,nur mit Zutrittsberechtigungausweis erreichbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "4",
+    "level": "5",
     "opening_hours": "24/7",
     "operator": "Gate Gourmet",
     "phone": "+41445337251",
@@ -95810,6 +95817,92 @@
     "coordinates": [
       8.768537,
       47.3651573
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13343996901",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "MedAction Physiotherapie",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:00-20:00",
+    "phone": "+41 55 410 72 20",
+    "id": "node/13343996901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.782424,
+      47.2008716
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13344000101",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "MedAction Physiotherapie",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "-1",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "phone": "+41 44 527 88 48",
+    "id": "node/13344000101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6073697,
+      47.3464676
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13344258001",
+  "properties": {
+    "defibrillator:location": "Mettmenriet",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2",
+    "id": "node/13344258001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.544116,
+      47.512179
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13344453301",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Veloständer zwischen Waldmannhalle und Schulhaus",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Einwohnergemeinde Baar",
+    "phone": "+41 41 769 01 11",
+    "id": "node/13344453301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5189739,
+      47.1989439
     ]
   }
 }

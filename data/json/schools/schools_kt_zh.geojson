@@ -17238,177 +17238,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/39463968",
-  "properties": {
-    "addr:city": "Tagelswangen",
-    "addr:housenumber": "1",
-    "addr:postcode": "8317",
-    "addr:street": "Falkenstrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Buck",
-    "source": "Yahoo",
-    "website": "https://www.schule-lindau.ch/de/primarschule/buck/",
-    "id": "way/39463968"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.669761,
-          47.4331521
-        ],
-        [
-          8.6699386,
-          47.4331673
-        ],
-        [
-          8.6699273,
-          47.4332272
-        ],
-        [
-          8.6701623,
-          47.4332474
-        ],
-        [
-          8.6702106,
-          47.4329899
-        ],
-        [
-          8.6701564,
-          47.4329853
-        ],
-        [
-          8.6701601,
-          47.4329657
-        ],
-        [
-          8.6700989,
-          47.4329605
-        ],
-        [
-          8.6700868,
-          47.4330247
-        ],
-        [
-          8.6700085,
-          47.433018
-        ],
-        [
-          8.67001,
-          47.4330097
-        ],
-        [
-          8.6698383,
-          47.432995
-        ],
-        [
-          8.6698554,
-          47.4329038
-        ],
-        [
-          8.6699163,
-          47.432909
-        ],
-        [
-          8.669932,
-          47.4328253
-        ],
-        [
-          8.6700034,
-          47.4328314
-        ],
-        [
-          8.670019,
-          47.432748
-        ],
-        [
-          8.6701589,
-          47.43276
-        ],
-        [
-          8.6701545,
-          47.4327833
-        ],
-        [
-          8.6702704,
-          47.4327932
-        ],
-        [
-          8.6702657,
-          47.4328184
-        ],
-        [
-          8.6703831,
-          47.4328285
-        ],
-        [
-          8.6703661,
-          47.4329194
-        ],
-        [
-          8.670304,
-          47.4329141
-        ],
-        [
-          8.6702751,
-          47.4330688
-        ],
-        [
-          8.6703295,
-          47.4330734
-        ],
-        [
-          8.670313,
-          47.4331615
-        ],
-        [
-          8.6702811,
-          47.4331588
-        ],
-        [
-          8.6702659,
-          47.4332395
-        ],
-        [
-          8.6702949,
-          47.433242
-        ],
-        [
-          8.6702633,
-          47.433411
-        ],
-        [
-          8.6701388,
-          47.4334004
-        ],
-        [
-          8.6701342,
-          47.4334248
-        ],
-        [
-          8.6698824,
-          47.4334032
-        ],
-        [
-          8.6698862,
-          47.4333828
-        ],
-        [
-          8.6697204,
-          47.4333686
-        ],
-        [
-          8.669761,
-          47.4331521
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/39470257",
   "properties": {
     "addr:city": "Winterthur",
@@ -50284,6 +50113,7 @@
   "id": "way/197120820",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "name": "Primarschule Buck",
     "id": "way/197120820"
   },
@@ -100948,7 +100778,6 @@
     "contact:street": "Kreuzstrasse",
     "contact:website": "https://www.modeco.ch/de/kontakt",
     "description": "Kleinere und grössere Reparaturen können in Auftrag gegeben werden.",
-    "description:2": "Aktion am Repair Thursday: Öffnungszeiten: 13.00-17.00 Uhr   Kleinere Reparaturen und Änderungen schauen wir uns vor Ort gerne an und führen sie direkt kostenlos aus, grössere Reparaturen können kostenpflichtig in Auftrag gegeben werden.",
     "isced:level": "3",
     "name": "MODECO - Fachschule für Mode & Gestaltung",
     "opening_hours:description": "nach telefonischer Vereinbarung",
