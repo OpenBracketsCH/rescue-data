@@ -2273,6 +2273,7 @@
     "amenity": "clinic",
     "building": "hospital",
     "building:levels": "2",
+    "check_date:opening_hours": "2025-12-01",
     "healthcare": "clinic",
     "healthcare:speciality": "psychiatry",
     "name": "Psychiatrische Poliklinik",
@@ -3037,6 +3038,7 @@
   "id": "way/165785774",
   "properties": {
     "amenity": "clinic",
+    "check_date:opening_hours": "2025-12-01",
     "contact:city": "Winterthur",
     "contact:email": "spz@ksw.ch",
     "contact:housenumber": "24",
@@ -3048,6 +3050,7 @@
     "healthcare:speciality": "paediatrics",
     "name": "Sozialpädiatrisches Zentrum SPZ",
     "old_name": "Kantonale Krankenpflegeschule",
+    "opening_hours:signed": "no",
     "id": "way/165785774"
   },
   "geometry": {

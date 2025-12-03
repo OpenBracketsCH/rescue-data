@@ -178,6 +178,7 @@
     "building": "house",
     "building:levels": "1",
     "building:roof": "flat",
+    "check_date": "2025-12-01",
     "emergency": "ambulance_station",
     "name": "Rettungswache Winterthur",
     "operator": "Kantonsspital Winterthur",

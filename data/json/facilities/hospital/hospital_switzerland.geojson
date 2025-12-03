@@ -6665,6 +6665,7 @@
     "amenity": "clinic",
     "building": "hospital",
     "building:levels": "2",
+    "check_date:opening_hours": "2025-12-01",
     "healthcare": "clinic",
     "healthcare:speciality": "psychiatry",
     "name": "Psychiatrische Poliklinik",
@@ -14454,6 +14455,7 @@
   "id": "way/165785774",
   "properties": {
     "amenity": "clinic",
+    "check_date:opening_hours": "2025-12-01",
     "contact:city": "Winterthur",
     "contact:email": "spz@ksw.ch",
     "contact:housenumber": "24",
@@ -14465,6 +14467,7 @@
     "healthcare:speciality": "paediatrics",
     "name": "Sozialpädiatrisches Zentrum SPZ",
     "old_name": "Kantonale Krankenpflegeschule",
+    "opening_hours:signed": "no",
     "id": "way/165785774"
   },
   "geometry": {
@@ -50252,63 +50255,6 @@
           7.9455779,
           47.2952857
         ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/1444432304",
-  "properties": {
-    "addr:city": "Corsier-sur-Vevey",
-    "addr:postcode": "1804",
-    "addr:street": "Route de Nant",
-    "description": "Unité hospitalière de l'enfant et de l'adolescent",
-    "healthcare": "hospital",
-    "healthcare:speciality": "child_psychiatry",
-    "level": "1",
-    "name": "Mistral",
-    "operator": "Fondation de Nant",
-    "id": "way/1444432304"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        6.8532749,
-        46.4788877
-      ],
-      [
-        6.8535689,
-        46.4788028
-      ],
-      [
-        6.853737,
-        46.478842
-      ],
-      [
-        6.8538522,
-        46.4790492
-      ],
-      [
-        6.8537958,
-        46.4790675
-      ],
-      [
-        6.8536755,
-        46.4788734
-      ],
-      [
-        6.8535825,
-        46.4788534
-      ],
-      [
-        6.8533061,
-        46.4789356
-      ],
-      [
-        6.8532749,
-        46.4788877
       ]
     ]
   }

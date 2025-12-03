@@ -69208,6 +69208,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Kath. Kirche Herrliberg, Rennweg 35, 8704 Herrliberg",
     "phone": "+41 44 915 25 25",
     "source": "local_knowledge, defikarte.ch",
@@ -76246,6 +76247,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Gemeinde Embrach",
     "phone": "+41445544884",
     "source": "local_knowledge, defikarte.ch",
@@ -83467,6 +83469,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Gemeinde Bäretswil",
     "phone": "+41 44 939 17 37",
     "id": "node/12430894401"
@@ -83474,8 +83477,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8473357,
-      47.3322844
+      8.8473362,
+      47.3322843
     ]
   }
 },
@@ -84414,6 +84417,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Gemeinde",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/12507081401"
@@ -91898,7 +91902,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "opening_hours": "Mo - Fr 07:00 - 17:00",
+    "opening_hours": "24/7",
     "operator": "Firma",
     "phone": "+41 44 939 22 70",
     "source": "local_knowledge, defikarte.ch",
@@ -92196,6 +92200,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Stocker AG Elektro-Netzbau",
     "phone": "+41792830548",
     "source": "local_knowledge, defikarte.ch",
@@ -95002,13 +95007,14 @@
     "emergency:phone": "144",
     "indoor": "no",
     "level": "0",
+    "opening_hours": "24/7",
     "id": "node/13287346401"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8074188,
-      47.4677213
+      8.8074195,
+      47.4677222
     ]
   }
 },
@@ -95022,13 +95028,14 @@
     "emergency:phone": "144",
     "indoor": "no",
     "level": "0",
+    "opening_hours": "24/7",
     "id": "node/13287346402"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8218473,
-      47.4791532
+      8.8218498,
+      47.4791531
     ]
   }
 },
@@ -95903,6 +95910,75 @@
     "coordinates": [
       8.5189739,
       47.1989439
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13347377901",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Lugetenstr.10/Haupteingang/ Windfang/links an Wand",
+    "description": "7.30 Uhr bis 19.30 Uhr",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Su 07:30-19:30",
+    "operator": "Luegeten AG",
+    "phone": "+41 41 757 11 18",
+    "id": "node/13347377901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5940824,
+      47.1779922
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13347545501",
+  "properties": {
+    "defibrillator:location": "Oberfeldstrasse 2",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00 - 16:00",
+    "phone": "+41445647638",
+    "id": "node/13347545501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5966805,
+      47.4478828
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13347632801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schützenhaus (300 Meter Schiessstand), links von der Eingangstüre",
+    "description": "Öffentlich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Hombrechtikon",
+    "phone": "+41 55 254 92 62",
+    "id": "node/13347632801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7511929,
+      47.2551787
     ]
   }
 }

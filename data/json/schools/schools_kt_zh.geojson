@@ -17248,6 +17248,7 @@
     "amenity": "school",
     "building": "university",
     "building:levels": "2",
+    "check_date": "2025-12-02",
     "name": "Konservatorium Winterthur",
     "phone": "+41 52 268 15 80",
     "id": "way/39470257"
@@ -103326,6 +103327,7 @@
     "addr:postcode": "8310",
     "addr:street": "Kemptpark",
     "amenity": "school",
+    "education": "school",
     "name": "Speech Academy",
     "website": "https://www.speech-academy.com/",
     "id": "node/12732790371"
