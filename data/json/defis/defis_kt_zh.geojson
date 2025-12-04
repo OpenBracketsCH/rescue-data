@@ -17974,7 +17974,8 @@
   "id": "node/8811163706",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "neben Eingang Gemeindesaal",
+    "defibrillator:location": "Gebäude Ecke neben Eingang Gemeindesaal",
+    "description": "Gebäude Ecke neben Eingang Gemeindesaal",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -17987,8 +17988,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4446736,
-      47.4570674
+      8.444754,
+      47.4567812
     ]
   }
 },
@@ -22904,6 +22905,7 @@
   "id": "node/9221432969",
   "properties": {
     "access": "yes",
+    "check_date": "2025-12-03",
     "defibrillator:location": "outside of the entry to building 308",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -32391,14 +32393,15 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "opening_hours": "24/7",
     "operator": "Gemeinde Trüllikon",
     "id": "node/10013669018"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6741305,
-      47.6402778
+      8.6741298,
+      47.6402784
     ]
   }
 },
@@ -74668,6 +74671,7 @@
   "type": "Feature",
   "id": "node/13347545501",
   "properties": {
+    "access": "permissive",
     "defibrillator:location": "Oberfeldstrasse 2",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -74680,8 +74684,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5966805,
-      47.4478828
+      8.5960219,
+      47.447903
     ]
   }
 },
@@ -74706,6 +74710,94 @@
     "coordinates": [
       8.7511929,
       47.2551787
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13350849501",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Franklinturm",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "16",
+    "opening_hours": "8:00-12:00",
+    "id": "node/13350849501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5427048,
+      47.4109105
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13351341301",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Tennisclub Weihermatt Urdorf, Herren Garderobe",
+    "description": "während der Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Tennisclub Weihermatt Urdorf",
+    "id": "node/13351341301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4311241,
+      47.3768974
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13351510102",
+  "properties": {
+    "defibrillator:location": "Beim Notausgang",
+    "description": "Während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Brockenhaus Zürich",
+    "id": "node/13351510102"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.531149,
+      47.3815867
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13351959801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Ida-Sträuli-Strasse 65, im Durchgang zum Innenhof",
+    "description": "Immer zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Hausverein Giesserei",
+    "phone": "+41 79 377 42 80",
+    "id": "node/13351959801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7662578,
+      47.5039039
     ]
   }
 }

@@ -4441,6 +4441,7 @@
   "id": "node/9221432969",
   "properties": {
     "access": "yes",
+    "check_date": "2025-12-03",
     "defibrillator:location": "outside of the entry to building 308",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -17495,6 +17496,48 @@
     "coordinates": [
       8.5518173,
       47.4147604
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13350849501",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Franklinturm",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "16",
+    "opening_hours": "8:00-12:00",
+    "id": "node/13350849501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5427048,
+      47.4109105
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13351510102",
+  "properties": {
+    "defibrillator:location": "Beim Notausgang",
+    "description": "Während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Brockenhaus Zürich",
+    "id": "node/13351510102"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.531149,
+      47.3815867
     ]
   }
 }
