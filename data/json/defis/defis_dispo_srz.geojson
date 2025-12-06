@@ -19159,7 +19159,6 @@
   "type": "Feature",
   "id": "node/8450820917",
   "properties": {
-    "access": "no",
     "defibrillator:location": "feuerwehr Depot",
     "description": "unter Tel. Nummer 118 Anfordern",
     "emergency": "defibrillator",
@@ -19172,8 +19171,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7018527,
-      47.257809
+      8.7016802,
+      47.2578261
     ]
   }
 },
@@ -64216,7 +64215,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "3",
-    "opening_hours": "Mo-Fr: 08:00-18:00",
+    "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Pensimo Management AG",
     "phone": "+41445180200",
     "id": "node/11275503569"
@@ -64552,7 +64551,7 @@
     "emergency:phone": "144",
     "indoor": "no",
     "level": "0",
-    "opening_hours": "7.00-18.00",
+    "opening_hours": "Mo-Fr 07:00-18:00; PH off; SH off",
     "operator": "Schule Aussersihl",
     "phone": "+41 44 413 21 13",
     "source": "local_knowledge, defikarte.ch",
@@ -76855,7 +76854,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "name": "Nest Sammelstiftung",
-    "opening_hours": "Mo-Fr 09:00-12:00 13:30-17:00",
+    "opening_hours": "Mo-Fr 09:00-12:00,13:30-17:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "ref": "1438LTM",
@@ -78096,7 +78095,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "5",
-    "opening_hours": "MO-TH \"08:00-12:00 13:00-17:00 FR 08:00-12:00 13:00-16:00\"",
+    "opening_hours": "Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-16:00",
     "operator": "Stadt Zürich, Departementssekretariat",
     "phone": "+41 44 412 45 80",
     "source": "local_knowledge, defikarte.ch",
@@ -84394,24 +84393,25 @@
   "type": "Feature",
   "id": "node/12506584501",
   "properties": {
-    "access": "permit",
-    "defibrillator:location": "Wasser- und Elektrizitätswerk Steinhausen (WESt)",
+    "access": "permissive",
+    "defibrillator:location": "Wasser- und Elektrizitätswerk Steinhausen AG",
     "description": "Während Öffnungszeiten zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "1",
-    "note": "AED Schiller Fred Easy\ninkl. Beatmungsmaske, Pads für Kinder und Erwachsene sowie weiteres Zubehör.",
-    "operator": "Gemeindeverwaltung Steinhausen",
-    "phone": "+41 41 748 11 55",
-    "source": "local_knowledge, defikarte.ch;local knowledge;Eigentümer",
+    "note": "AED Schiller Fred Easy inkl. Beatmungsmaske, Pads für Kinder und Erwachsene sowie weiteres Zubehör.",
+    "opening_hours": "Mo-Th 07:15 - 12:00, 13:00 - 16:45; Fr 07:15-12:00, 13:00-16:15",
+    "operator": "Wasser- und Elektrizitätswerk Steinhausen AG",
+    "phone": "+41 41 749 40 30",
+    "source": "aed-source",
     "id": "node/12506584501"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4800388,
-      47.1925437
+      8.4800385,
+      47.192544
     ]
   }
 },
@@ -96159,6 +96159,57 @@
     "coordinates": [
       8.5430371,
       47.388588
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13354997001",
+  "properties": {
+    "defibrillator:location": "Treppenhaus 1. OG, links neben WC Damen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 07:30-17:00",
+    "operator": "Firma",
+    "id": "node/13354997001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6237338,
+      47.4175931
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13355029888",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Stäfa",
+    "addr:housenumber": "62",
+    "addr:postcode": "8712",
+    "addr:street": "Rhynerstrasse",
+    "defibrillator:location": "Eingang Gebäude",
+    "description": "Grüner Kasten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "name": "Gemeinde Stäfa ZH",
+    "opening_hours": "24/7",
+    "operator": "Lifetec AG",
+    "phone": "0800122144",
+    "ref": "1624lts",
+    "id": "node/13355029888"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7394787,
+      47.2473688
     ]
   }
 }

@@ -48993,7 +48993,7 @@
     "addr:street": "Müllerstrasse",
     "amenity": "social_facility",
     "name": "Primero",
-    "opening_hours": "Mo,Fr-Sa Su 15:00-19:30",
+    "opening_hours": "Mo,Fr-Su 15:00-19:30",
     "operator": "Incontro",
     "operator:type": "religious",
     "social_facility": "soup_kitchen",
