@@ -13879,13 +13879,14 @@
   "type": "Feature",
   "id": "node/10889189145",
   "properties": {
+    "addr:floor": "2",
+    "addr:housenumber": "26",
+    "addr:street": "Mürtschenstrasse",
     "amenity": "clinic",
+    "check_date": "2025-12-06",
     "healthcare": "clinic",
-    "healthcare:speciality": "general;dermatology;gynaecology",
-    "name": "allcare Zentrum Altstetten",
-    "opening_hours": "Mo-Fr 08:00-17:30",
-    "operator": "allcare group",
-    "phone": "+41 43 311 20 20",
+    "name": "Ärztezentrum Altstetten",
+    "opening_hours": "Mo-Sa 09:00-13:00,14:00-18:00",
     "id": "node/10889189145"
   },
   "geometry": {
