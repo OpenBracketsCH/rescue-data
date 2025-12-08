@@ -59103,6 +59103,22 @@
       46.2288645
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13359692313",
+  "properties": {
+    "amenity": "hospital",
+    "name": "KS_B City",
+    "id": "node/13359692313"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3051425,
+      47.4717116
+    ]
+  }
 }
 ]
 }

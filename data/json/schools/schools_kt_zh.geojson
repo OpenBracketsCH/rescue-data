@@ -101968,6 +101968,7 @@
   "id": "node/9726515094",
   "properties": {
     "amenity": "school",
+    "check_date": "2024-10-30",
     "contact:city": "Zürich",
     "contact:email": "info@freie-privatschule.ch",
     "contact:phone": "+41 44 211 88 77",
@@ -103468,8 +103469,16 @@
   "type": "Feature",
   "id": "node/13176703559",
   "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "2",
+    "addr:postcode": "8610",
+    "addr:street": "Gerichtsplatz",
     "amenity": "school",
+    "education": "school",
     "name": "School of tomorrow",
+    "operator": "School of Tomorrow AG",
+    "operator:type": "private",
+    "website": "https://www.schooloftomorrow.ch/gerichtsplatz-uster",
     "id": "node/13176703559"
   },
   "geometry": {

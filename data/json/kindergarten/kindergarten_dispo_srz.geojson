@@ -48568,26 +48568,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10072888438",
-  "properties": {
-    "addr:city": "Einsiedeln",
-    "addr:housenumber": "3",
-    "addr:postcode": "8840",
-    "addr:street": "Paracelsuspark",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Einsiedlerhof",
-    "id": "node/10072888438"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7504438,
-      47.1282365
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10072901671",
   "properties": {
     "addr:city": "Einsiedeln",
