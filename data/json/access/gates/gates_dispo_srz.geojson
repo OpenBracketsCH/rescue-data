@@ -23041,8 +23041,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4787202,
-      47.4229815
+      8.478722,
+      47.4229769
     ]
   }
 },
@@ -40746,6 +40746,7 @@
   "id": "node/3772743310",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "2",
     "opening_hours": "10:00-19:00",
     "id": "node/3772743310"
   },
@@ -104522,8 +104523,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4872356,
-      47.4242273
+      8.4872822,
+      47.4243269
     ]
   }
 },
@@ -106104,6 +106105,22 @@
     "coordinates": [
       8.7334839,
       47.5064597
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13361328541",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "id": "node/13361328541"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4898146,
+      47.4246514
     ]
   }
 }
