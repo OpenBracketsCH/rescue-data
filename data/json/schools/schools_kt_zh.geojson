@@ -100735,6 +100735,7 @@
   "id": "node/9593857220",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-12-10",
     "contact:city": "Zürich",
     "contact:email": "sekretariat@fes.ch",
     "contact:housenumber": "72",

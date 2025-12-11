@@ -11817,6 +11817,8 @@
   "id": "node/1042864607",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "0.8",
+    "source:maxwidth:physical": "ARCore",
     "id": "node/1042864607"
   },
   "geometry": {

@@ -28749,7 +28749,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Sa 08:00-18:00, So 08:00-17:00",
+    "opening_hours": "Mo-Sa 08:00-18:00, Su 08:00-17:00",
     "operator": "Kath. Kirchgemeinde Uster/Pfarrei Greifensee, Kontaktperson: Antonella Morgante (Hauswartin)",
     "phone": "+41 75 422 94 33",
     "id": "node/9807826842"
@@ -62841,7 +62841,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 09:00-20:00,\nSa 09:00-18:00",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00",
     "operator": "Ottos",
     "id": "node/12331429101"
   },
@@ -67610,11 +67610,11 @@
   "id": "node/12655825522",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Zentrum Wallisellen, beim Eingang rechts, Seite Neugutstrasse",
+    "defibrillator:location": "Zentrum Wallisellen, beim Eingang rechts neben UBS, Seite Neugutstrasse",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Sa 06:30-21:00",
+    "opening_hours": "Mo-Fr 05:00-23:30, Sa-Su 05:30-23:30",
     "operator": "Sidenzia AG",
     "phone": "+41432336262",
     "id": "node/12655825522"
@@ -67622,8 +67622,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5926211,
-      47.413178
+      8.5926209,
+      47.4131781
     ]
   }
 },
@@ -67683,7 +67683,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Su 08:00-16.30",
+    "opening_hours": "Mo-Su 08:00-16:30",
     "operator": "Gemeinde",
     "phone": "+4144 806 34 34",
     "source": "local_knowledge, defikarte.ch",
@@ -74968,6 +74968,30 @@
     "coordinates": [
       8.4492781,
       47.3012677
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13366839101",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Elias-Canetti-Strase 2",
+    "description": "Available during working hours",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "RAI, Robotics and AI Institute (Zurich) GmbH",
+    "phone": "+41 79 773 69 63",
+    "id": "node/13366839101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5415378,
+      47.4122022
     ]
   }
 }
