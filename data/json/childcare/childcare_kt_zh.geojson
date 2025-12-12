@@ -2310,6 +2310,71 @@
 },
 {
   "type": "Feature",
+  "id": "way/172200359",
+  "properties": {
+    "addr:city": "Pfaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "48",
+    "addr:postcode": "8118",
+    "addr:street": "Alte Zürichstrasse",
+    "amenity": "childcare",
+    "building": "yes",
+    "id": "way/172200359"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6285445,
+          47.3672651
+        ],
+        [
+          8.6285419,
+          47.3671716
+        ],
+        [
+          8.6285801,
+          47.3671711
+        ],
+        [
+          8.628579,
+          47.3671332
+        ],
+        [
+          8.6286862,
+          47.3671318
+        ],
+        [
+          8.628687,
+          47.3671603
+        ],
+        [
+          8.6288182,
+          47.3671586
+        ],
+        [
+          8.6288205,
+          47.3672422
+        ],
+        [
+          8.6286954,
+          47.3672437
+        ],
+        [
+          8.628696,
+          47.3672632
+        ],
+        [
+          8.6285445,
+          47.3672651
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/182073580",
   "properties": {
     "addr:city": "Dietikon",

@@ -16130,8 +16130,8 @@
           46.1866724
         ],
         [
-          6.1432734,
-          46.1866347
+          6.1432716,
+          46.1866334
         ],
         [
           6.1424311,
@@ -50246,6 +50246,73 @@
 },
 {
   "type": "Feature",
+  "id": "way/1391019767",
+  "properties": {
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "95",
+    "addr:postcode": "9000",
+    "addr:street": "Rorschacher Strasse",
+    "amenity": "hospital",
+    "building:levels": "3",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "layer": "1",
+    "name": "Haus 7A",
+    "operator": "HOCH Health Ostschweiz",
+    "operator:type": "public",
+    "roof:shape": "flat",
+    "id": "way/1391019767"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.3882739,
+          47.4304362
+        ],
+        [
+          9.3880294,
+          47.4306958
+        ],
+        [
+          9.3870799,
+          47.430288
+        ],
+        [
+          9.3868969,
+          47.4302103
+        ],
+        [
+          9.3869513,
+          47.4301527
+        ],
+        [
+          9.3865154,
+          47.4299652
+        ],
+        [
+          9.3865862,
+          47.4298844
+        ],
+        [
+          9.3866786,
+          47.4297789
+        ],
+        [
+          9.3870636,
+          47.4299415
+        ],
+        [
+          9.3882739,
+          47.4304362
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1394553260",
   "properties": {
     "addr:city": "Schinznach Bad",
@@ -50411,6 +50478,54 @@
         [
           7.9455779,
           47.2952857
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1457725124",
+  "properties": {
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "10",
+    "addr:postcode": "9000",
+    "addr:street": "Spitalstrasse",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Ostschweizer Kinderspital",
+    "operator": "Ostschweizer Kinderspital",
+    "operator:type": "public",
+    "id": "way/1457725124"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.3880294,
+          47.4306958
+        ],
+        [
+          9.3882739,
+          47.4304362
+        ],
+        [
+          9.3888345,
+          47.4306807
+        ],
+        [
+          9.3883919,
+          47.4311415
+        ],
+        [
+          9.3878368,
+          47.4309052
+        ],
+        [
+          9.3880294,
+          47.4306958
         ]
       ]
     ]
@@ -59117,6 +59232,30 @@
     "coordinates": [
       8.3051425,
       47.4717116
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13369136998",
+  "properties": {
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "10",
+    "addr:postcode": "9000",
+    "addr:street": "Spitalstrasse",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Ostschweizer Kinderspital",
+    "operator": "Ostschweizer Kinderspital",
+    "operator:type": "public",
+    "id": "node/13369136998"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3882134,
+      47.4309971
     ]
   }
 }

@@ -21984,6 +21984,7 @@
   "id": "node/9726348419",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-12-11",
     "contact:city": "Zürich",
     "contact:email": "zurich@tandem-ims.ch",
     "contact:housenumber": "111",

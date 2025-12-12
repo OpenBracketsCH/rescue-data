@@ -28392,8 +28392,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6302583,
-      47.3665988
+      8.630157,
+      47.3666228
     ]
   }
 },
@@ -74992,6 +74992,26 @@
     "coordinates": [
       8.5415378,
       47.4122022
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13370783401",
+  "properties": {
+    "defibrillator:location": "Tennis Club Rüschlikon",
+    "description": "Immer zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Tennis Club Rüschlikon",
+    "id": "node/13370783401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5411249,
+      47.2986405
     ]
   }
 }
