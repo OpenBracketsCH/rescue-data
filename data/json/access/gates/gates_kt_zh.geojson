@@ -91660,6 +91660,21 @@
       47.4246514
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13371382683",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/13371382683"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4990212,
+      47.4658543
+    ]
+  }
 }
 ]
 }

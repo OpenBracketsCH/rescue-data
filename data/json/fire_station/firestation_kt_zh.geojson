@@ -2520,7 +2520,9 @@
   "type": "Feature",
   "id": "way/117708071",
   "properties": {
+    "addr:city": "Elsau",
     "addr:housenumber": "11",
+    "addr:postcode": "8352",
     "addr:street": "Auwiesenstrasse",
     "amenity": "fire_station",
     "building": "yes",
@@ -2559,6 +2561,10 @@
         [
           8.7952658,
           47.5002815
+        ],
+        [
+          8.7953704,
+          47.5003715
         ],
         [
           8.7953904,
