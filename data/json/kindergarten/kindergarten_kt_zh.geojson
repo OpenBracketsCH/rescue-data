@@ -41440,6 +41440,7 @@
     "addr:postcode": "8180",
     "addr:street": "Kaffeestrasse",
     "amenity": "kindergarten",
+    "check_date": "2025-12-13",
     "name": "Kinderpalais",
     "operator": "Kinderpalais GmbH Bülach",
     "id": "node/9782158745"

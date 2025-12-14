@@ -6497,6 +6497,7 @@
     "alt_name": "Stiftung Alterszentrum Region Bülach",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2025-12-13",
     "name": "Altersheim im Grampen",
     "social_facility": "assisted_living",
     "social_facility:for": "senior",

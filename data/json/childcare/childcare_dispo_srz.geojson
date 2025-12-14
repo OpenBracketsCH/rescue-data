@@ -14215,27 +14215,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10064045751",
-  "properties": {
-    "addr:housenumber": "253",
-    "addr:street": "Albisriederstrasse",
-    "amenity": "childcare",
-    "check_date": "2025-03-08",
-    "level": "0",
-    "name": "Tadah",
-    "website": "https://tadah.ch",
-    "id": "node/10064045751"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4937659,
-      47.3779326
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10175174017",
   "properties": {
     "addr:postcode": "6330",
