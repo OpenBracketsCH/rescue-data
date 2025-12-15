@@ -7886,31 +7886,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6632980729",
-  "properties": {
-    "amenity": "childcare",
-    "contact:city": "Zürich",
-    "contact:housenumber": "185",
-    "contact:phone": "+41 44 413 74 74",
-    "contact:postcode": "8004",
-    "contact:street": "Hohlstrasse",
-    "contact:website": "https://www.stadt-zuerich.ch/content/schulen/de/sihlfeld/betreuung/standorte.html#hort_erna",
-    "isced:level": "0",
-    "name": "Mittag-/Abendhort Erna",
-    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Sihlfeld",
-    "operator:type": "public",
-    "id": "node/6632980729"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.518387,
-      47.3807461
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6632980730",
   "properties": {
     "amenity": "childcare",
@@ -10679,6 +10654,7 @@
   "id": "node/9323493201",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-12-14",
     "contact:city": "Zürich",
     "contact:housenumber": "25",
     "contact:phone": "+41 44 413 75 46",

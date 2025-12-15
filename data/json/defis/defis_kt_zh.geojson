@@ -75040,6 +75040,90 @@
       47.3671357
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13376112717",
+  "properties": {
+    "defibrillator:location": "Im Korridor 6. OG vor Eingang Pietrobon hvac GmbH an der Wand",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "6",
+    "operator": "pietrobon hvac GmbH",
+    "id": "node/13376112717"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7032784,
+      47.4493012
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13376672501",
+  "properties": {
+    "defibrillator:location": "Steinernstrasse",
+    "description": "Kreuzung am stromverteiler",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Gemeinde",
+    "id": "node/13376672501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4027629,
+      47.2834386
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13376685001",
+  "properties": {
+    "defibrillator:location": "kreuzung jonenstrasse und steinernstrasse",
+    "description": "beim stromverteiler",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "gemeinde ottenbach",
+    "id": "node/13376685001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4028596,
+      47.2834911
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13376776102",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "alte Landstrasse 27 Unter Vordach Clubhaus",
+    "description": "Wird gespielt ist Eingangstor offen, sonst muss es überklettert werden",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "TCW Tennisclub Wädenswil",
+    "phone": "+41 44 781 36 44",
+    "id": "node/13376776102"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6556126,
+      47.2409475
+    ]
+  }
 }
 ]
 }

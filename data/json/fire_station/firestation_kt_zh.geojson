@@ -1503,6 +1503,10 @@
   "type": "Feature",
   "id": "way/50561433",
   "properties": {
+    "addr:city": "Seuzach",
+    "addr:housenumber": "134",
+    "addr:postcode": "8472",
+    "addr:street": "Ohringerstrasse",
     "amenity": "fire_station",
     "building": "yes",
     "id": "way/50561433"
