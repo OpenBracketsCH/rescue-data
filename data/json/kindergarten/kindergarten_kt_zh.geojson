@@ -11028,6 +11028,7 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "building:roof": "flat",
+    "education": "kindergarten",
     "name": "Kindergarten Weid",
     "id": "way/131647378"
   },
@@ -11109,44 +11110,10 @@
 },
 {
   "type": "Feature",
-  "id": "way/131647380",
-  "properties": {
-    "amenity": "kindergarten",
-    "id": "way/131647380"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7375799,
-          47.5330068
-        ],
-        [
-          8.7373543,
-          47.5327923
-        ],
-        [
-          8.7378319,
-          47.5325589
-        ],
-        [
-          8.7380628,
-          47.5327698
-        ],
-        [
-          8.7375799,
-          47.5330068
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/131647382",
   "properties": {
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "id": "way/131647382"
   },
   "geometry": {

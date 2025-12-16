@@ -65588,14 +65588,15 @@
   "type": "Feature",
   "id": "node/11375490684",
   "properties": {
-    "access": "no",
+    "access": "yes",
     "defibrillator:location": "Hallenbad Chappelistein Ottenbach",
-    "description": "044 776 35 41",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "0",
-    "operator": "Primarschule Ottenbach",
+    "indoor": "no",
+    "level": "1",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Ottenbach Feuerwehr Ottenbach",
+    "phone": "+41 79 319 10 56",
     "id": "node/11375490684"
   },
   "geometry": {
@@ -94897,7 +94898,7 @@
   "type": "Feature",
   "id": "node/13280126901",
   "properties": {
-    "access": "permissive",
+    "access": "private",
     "defibrillator:location": "Tramstrasse 208",
     "description": "DEFI auf Baustelle im Baubüro Bauleitung",
     "emergency": "defibrillator",
@@ -96426,6 +96427,121 @@
     "coordinates": [
       8.6556126,
       47.2409475
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13377816301",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Trinkwasserreservoir Talzone",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Ottenbach Feuerwehr Ottenbach",
+    "phone": "+41 79 319 10 56",
+    "id": "node/13377816301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4109491,
+      47.2850544
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13378274803",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "WC Reuss",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "1",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Ottenbach Feuerwehr Ottenbach",
+    "phone": "+41 79 319 10 56",
+    "id": "node/13378274803"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3948868,
+      47.2793649
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13378294307",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bushaltestelle Rickenbach",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Ottenbach Feuerwehr Ottenbach",
+    "phone": "+41 79 319 10 56",
+    "id": "node/13378294307"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4049631,
+      47.2689634
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13378342801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Garagen Aussenwand",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Ottenbach Feuerwehr Ottenbach",
+    "phone": "+41 79 319 10 56",
+    "id": "node/13378342801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4114488,
+      47.2768802
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13378349801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Steuerschrank Klappenschacht",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Ottenbach Feuerwehr Ottenbach",
+    "phone": "+41 79 319 10 56",
+    "id": "node/13378349801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.40283,
+      47.2834624
     ]
   }
 }
