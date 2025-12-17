@@ -8012,12 +8012,12 @@
   "type": "Feature",
   "id": "node/7644008615",
   "properties": {
-    "access": "yes",
-    "defibrillator:location": "Freudenfels",
-    "description": "nur zugänglich wenn Gebäude geöffnet sind",
+    "defibrillator:location": "Standort aufgrund Umzug aufgegeben.",
+    "description": "Defi nicht mehr im Gebäude. Gebäude leerstehend.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
+    "operator": "Stadt Schaffhausen",
     "id": "node/7644008615"
   },
   "geometry": {
@@ -8032,12 +8032,11 @@
   "type": "Feature",
   "id": "node/7644008616",
   "properties": {
-    "access": "yes",
-    "defibrillator:location": "Treppenhaus, EG, Seite Pfarrhofgasse",
-    "description": "nur zugänglich wenn Gebäude geöffnet sind",
+    "defibrillator:location": "Standort aufgrund Umzug aufgelöst.",
+    "description": "Standort aufgelöst.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
     "operator": "Stadt Schaffhausen",
     "phone": "+41 52 632 57 55",
     "id": "node/7644008616"
@@ -82158,11 +82157,11 @@
   "id": "node/12365223612",
   "properties": {
     "defibrillator:location": "Brütsch-Rüegger, Haupteingang links",
-    "description": "wärend Öffnungszeiten",
+    "description": "während Öffnungszeiten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "EG",
+    "level": "0",
     "operator": "Swisspro AG",
     "phone": "+41444441122",
     "id": "node/12365223612"
@@ -96367,47 +96366,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/13376672501",
-  "properties": {
-    "defibrillator:location": "Steinernstrasse",
-    "description": "Kreuzung am stromverteiler",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "operator": "Gemeinde",
-    "id": "node/13376672501"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4027629,
-      47.2834386
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/13376685001",
-  "properties": {
-    "defibrillator:location": "kreuzung jonenstrasse und steinernstrasse",
-    "description": "beim stromverteiler",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "gemeinde ottenbach",
-    "id": "node/13376685001"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4028596,
-      47.2834911
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/13376776102",
   "properties": {
     "access": "permissive",
@@ -96542,6 +96500,24 @@
     "coordinates": [
       8.40283,
       47.2834624
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13381063798",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Eingang, direkt nach den beiden Glastüren, auf der linken Seite",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "id": "node/13381063798"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5036756,
+      47.3672191
     ]
   }
 }

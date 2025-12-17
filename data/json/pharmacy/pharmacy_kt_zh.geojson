@@ -6483,7 +6483,7 @@
   "id": "node/7489015226",
   "properties": {
     "addr:city": "Wädenswil",
-    "addr:housenumber": "23",
+    "addr:housenumber": "27",
     "addr:postcode": "8820",
     "addr:street": "Oberdorfstrasse",
     "amenity": "pharmacy",
