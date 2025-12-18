@@ -14110,7 +14110,7 @@
   "type": "Feature",
   "id": "node/8562820772",
   "properties": {
-    "access": "yes",
+    "access": "permissive",
     "defibrillator:location": "Im Treppenhaus",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -30357,18 +30357,17 @@
   "id": "node/9944152517",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "gemeinde wildberg",
-    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
-    "operator": "gemeinde",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Wildberg",
     "id": "node/9944152517"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8165367,
+      8.8165364,
       47.427757
     ]
   }
@@ -37552,7 +37551,7 @@
   "type": "Feature",
   "id": "node/10741161483",
   "properties": {
-    "access": "yes",
+    "access": "permissive",
     "defibrillator:location": "Im Treppenhaus",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -37576,7 +37575,7 @@
   "type": "Feature",
   "id": "node/10741161484",
   "properties": {
-    "access": "yes",
+    "access": "permissive",
     "defibrillator:location": "Im Treppenhaus",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -37600,7 +37599,7 @@
   "type": "Feature",
   "id": "node/10741161485",
   "properties": {
-    "access": "yes",
+    "access": "permissive",
     "defibrillator:location": "Im Treppenhaus",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -37624,7 +37623,7 @@
   "type": "Feature",
   "id": "node/10741161487",
   "properties": {
-    "access": "yes",
+    "access": "permissive",
     "defibrillator:location": "Im Treppenhaus",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -43775,6 +43774,7 @@
     "emergency:phone": "144",
     "indoor": "no",
     "level": "0",
+    "opening_hours": "24/7",
     "operator": "Betom SA AG",
     "phone": "+41 79 905 75 74",
     "source": "local_knowledge, defikarte.ch",
@@ -43783,8 +43783,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8903943,
-      47.5012235
+      8.8903964,
+      47.501221
     ]
   }
 },
@@ -45153,6 +45153,7 @@
   "type": "Feature",
   "id": "node/10977176305",
   "properties": {
+    "access": "permissive",
     "defibrillator:location": "Im Erdgeschoss / Sanitätsraum",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -66718,6 +66719,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Sekundarschule Elgg",
     "phone": "+41 52 208 06 43",
     "source": "local_knowledge, defikarte.ch",
@@ -67222,7 +67224,7 @@
   "type": "Feature",
   "id": "node/12625044096",
   "properties": {
-    "access": "yes",
+    "access": "permissive",
     "defibrillator:location": "Im Treppenhaus",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -67246,7 +67248,7 @@
   "type": "Feature",
   "id": "node/12625044097",
   "properties": {
-    "access": "yes",
+    "access": "permissive",
     "defibrillator:location": "Im Treppenhaus",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -73966,12 +73968,13 @@
     "emergency:phone": "144",
     "indoor": "no",
     "level": "0",
+    "opening_hours": "24/7",
     "id": "node/13287354501"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.84695,
+      8.8469553,
       47.4634519
     ]
   }
@@ -75204,8 +75207,9 @@
   "type": "Feature",
   "id": "node/13381063798",
   "properties": {
-    "access": "yes",
+    "access": "permissive",
     "defibrillator:location": "Beim Eingang, direkt nach den beiden Glastüren, auf der linken Seite",
+    "description": "nur während der Öffnungszeit des Gemeinschaftszentrums möglich",
     "emergency": "defibrillator",
     "indoor": "yes",
     "id": "node/13381063798"
@@ -75215,6 +75219,28 @@
     "coordinates": [
       8.5036756,
       47.3672191
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13383229801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Sportplatz Barzloo",
+    "description": "An der Aussenwand. Seite zum Fussballplatz",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Pfäffikon",
+    "id": "node/13383229801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7672077,
+      47.3730565
     ]
   }
 }
