@@ -20038,6 +20038,7 @@
   "id": "node/8554802075",
   "properties": {
     "access": "yes",
+    "check_date": "2025-12-19",
     "defibrillator:location": "Neben Haupteingang Gemeindeverwaltung unter Vordach",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -76478,12 +76479,12 @@
   "type": "Feature",
   "id": "node/12006310569",
   "properties": {
-    "access": "yes",
+    "access": "private",
     "defibrillator:location": "Laufbahnzentrum am Empfang",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
     "level": "0",
     "phone": "+41 44 412 78 78",
     "source": "local_knowledge, defikarte.ch",
@@ -76501,14 +76502,14 @@
   "type": "Feature",
   "id": "node/12006312670",
   "properties": {
-    "access": "permissive",
+    "access": "private",
     "defibrillator:location": "1. Stock, Stipendien Laufbahnzentrum",
     "description": "Während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
     "level": "1",
-    "operator": "Stadt Zürich ",
+    "operator": "Stadt Zürich",
     "phone": "+41 44 412 78 79",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/12006312670"
@@ -76516,7 +76517,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.529003,
+      8.5290031,
       47.3721602
     ]
   }
@@ -96534,18 +96535,23 @@
   "type": "Feature",
   "id": "node/13385763001",
   "properties": {
+    "access": "yes",
     "defibrillator:location": "rechts im Eingangsbereich",
+    "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
+    "opening_hours": "06:45-21:00",
+    "operator": "BODAG Immobilien AG",
+    "phone": "+41 52 633 44 44",
     "id": "node/13385763001"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.722008,
-      47.504009
+      8.7220079,
+      47.5040092
     ]
   }
 },
