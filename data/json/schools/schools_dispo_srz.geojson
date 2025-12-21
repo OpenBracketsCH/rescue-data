@@ -106401,6 +106401,7 @@
   "id": "way/662283291",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-12-20",
     "name": "Schule Tannenbach",
     "operator": "Gemeinde Horgen",
     "id": "way/662283291"

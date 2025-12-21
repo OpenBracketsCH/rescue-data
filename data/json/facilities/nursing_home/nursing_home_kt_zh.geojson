@@ -15914,6 +15914,7 @@
   "properties": {
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2025-12-20",
     "name": "Tertianum Grünegg",
     "phone": "+41 55 256 78 78",
     "social_facility": "nursing_home",
