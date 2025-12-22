@@ -1880,6 +1880,7 @@
     "addr:street": "Schlattergarten",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Hemmental",
     "id": "way/246071144"
   },

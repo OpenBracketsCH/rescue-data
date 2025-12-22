@@ -71566,6 +71566,7 @@
     "addr:street": "Schlattergarten",
     "amenity": "school",
     "building": "school",
+    "education": "school",
     "name": "Schulhaus Hemmental",
     "id": "way/246071146"
   },
@@ -71639,6 +71640,7 @@
     "addr:street": "Schlattergarten",
     "amenity": "school",
     "building": "school",
+    "education": "school",
     "leisure": "sports_centre",
     "name": "Sporthalle Hemmental",
     "id": "way/246071147"
