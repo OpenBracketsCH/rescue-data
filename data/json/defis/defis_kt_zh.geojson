@@ -69620,30 +69620,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/12830075801",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Direktionsbüro",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-Su 07:00-23:00",
-    "operator": "Hotel",
-    "phone": "+41 43 388 33 00",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/12830075801"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5659564,
-      47.2954835
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/12830417902",
   "properties": {
     "access": "yes",
@@ -75284,6 +75260,30 @@
     "coordinates": [
       8.5208827,
       47.3867456
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13394836401",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Zentrum Allmendhof",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "07:00-19:00",
+    "operator": "Zentrum Allmendhof AG",
+    "phone": "+41 43 843 41 41",
+    "id": "node/13394836401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6950172,
+      47.2605815
     ]
   }
 }
