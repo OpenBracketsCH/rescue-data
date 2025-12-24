@@ -91845,6 +91845,82 @@
       47.3507835
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13397306668",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13397306668"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3906977,
+      47.4025851
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13397306682",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13397306682"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3907735,
+      47.4025207
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13397306698",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13397306698"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3911081,
+      47.402801
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13397898501",
+  "properties": {
+    "access": "no",
+    "barrier": "lift_gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "horse": "yes",
+    "id": "node/13397898501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6181884,
+      47.2892844
+    ]
+  }
 }
 ]
 }
