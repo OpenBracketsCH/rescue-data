@@ -87386,6 +87386,7 @@
     "operator": "Gemeinde Wald",
     "operator:type": "public/government",
     "sport": "multi",
+    "wheelchair": "yes",
     "id": "way/830912981"
   },
   "geometry": {

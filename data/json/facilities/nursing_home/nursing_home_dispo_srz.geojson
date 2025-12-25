@@ -32733,7 +32733,7 @@
     "operator": "Sihlsana",
     "phone": "+41 44 711 84 50",
     "social_facility": "nursing_home",
-    "social_facility:for": "senior",
+    "social_facility:for": "dementia;senior",
     "wheelchair": "yes",
     "id": "node/8671539084"
   },
