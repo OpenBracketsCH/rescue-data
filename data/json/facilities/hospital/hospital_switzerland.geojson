@@ -16274,6 +16274,7 @@
   "id": "way/183498573",
   "properties": {
     "amenity": "hospital",
+    "check_date": "2025-12-25",
     "healthcare": "hospital",
     "name": "EMS",
     "id": "way/183498573"
