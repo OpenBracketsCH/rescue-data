@@ -19651,7 +19651,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 09:00-17:00 / Sa 09:00 - 14:00",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00 - 14:00; PH off",
     "operator": "V-ZUG AG",
     "id": "node/8520333804"
   },
@@ -37172,7 +37172,7 @@
     "indoor": "yes",
     "opening_hours": "Mo-Fr 7:00-12:00, 13:00-16:00",
     "operator": "Amstein+Walthert AG",
-    "phone": "+41 44 305 91 11",
+    "phone": "+41 44 305 91 11",
     "id": "node/9609828917"
   },
   "geometry": {
@@ -96720,13 +96720,14 @@
     "opening_hours": "Mo-Su 09:00-20:00",
     "operator": "Sihltal Zürich Uetliberg Bahn SZU AG",
     "phone": "+41 44 206 46 80",
+    "source": "aed-source",
     "id": "node/13401450601"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.519987,
-      47.3131583
+      8.5200452,
+      47.3131505
     ]
   }
 }

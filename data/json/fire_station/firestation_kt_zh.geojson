@@ -660,9 +660,10 @@
     "addr:housenumber": "3",
     "addr:postcode": "8192",
     "addr:street": "Aarütistrasse",
+    "alt_name": "Feuerwehr Glattfelden, Stadel, Weiach",
     "amenity": "fire_station",
     "building": "yes",
-    "name": "Feuerwehr Glastawei - Depot Glattfelden",
+    "name": "Feuerwehr GlaStaWei - Depot Glattfelden",
     "id": "way/32942803"
   },
   "geometry": {

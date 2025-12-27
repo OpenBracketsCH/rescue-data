@@ -6491,8 +6491,68 @@
           47.0567281
         ],
         [
-          8.2971109,
-          47.0575384
+          8.2961955,
+          47.0571971
+        ],
+        [
+          8.2964876,
+          47.0573077
+        ],
+        [
+          8.296642,
+          47.0573958
+        ],
+        [
+          8.2967365,
+          47.0574529
+        ],
+        [
+          8.296909,
+          47.0575264
+        ],
+        [
+          8.2970858,
+          47.057593
+        ],
+        [
+          8.2971787,
+          47.0576312
+        ],
+        [
+          8.2972124,
+          47.0576909
+        ],
+        [
+          8.2972108,
+          47.0577229
+        ],
+        [
+          8.2972017,
+          47.0577455
+        ],
+        [
+          8.2971851,
+          47.0577611
+        ],
+        [
+          8.2974308,
+          47.0578393
+        ],
+        [
+          8.2974906,
+          47.0577942
+        ],
+        [
+          8.2975227,
+          47.0577851
+        ],
+        [
+          8.2975681,
+          47.057744
+        ],
+        [
+          8.2975932,
+          47.057744
         ],
         [
           8.2988641,
@@ -9724,10 +9784,10 @@
   "type": "Feature",
   "id": "way/67302728",
   "properties": {
-    "addr:city": "Luzern 16",
+    "addr:city": "Luzern",
     "addr:housenumber": "31",
-    "addr:postcode": "6000",
-    "addr:street": "Spitalstrasse",
+    "addr:postcode": "6004",
+    "addr:street": "Kantonsspital",
     "amenity": "hospital",
     "building": "hospital",
     "building:levels": "18",
@@ -15398,6 +15458,18 @@
         [
           8.7300995,
           47.5071286
+        ],
+        [
+          8.7297714,
+          47.5072324
+        ],
+        [
+          8.7297204,
+          47.5072485
+        ],
+        [
+          8.7295482,
+          47.507303
         ],
         [
           8.7290904,
@@ -49161,11 +49233,11 @@
   "type": "Feature",
   "id": "way/1161606654",
   "properties": {
-    "addr:city": "Luzern 16",
+    "addr:city": "Luzern",
     "addr:housename": "Haus 33",
     "addr:housenumber": "33",
-    "addr:postcode": "6000",
-    "addr:street": "Spitalstrasse",
+    "addr:postcode": "6004",
+    "addr:street": "Kantonsspital",
     "alt_name": "Kinderspital Luzern",
     "amenity": "hospital",
     "building": "hospital",
