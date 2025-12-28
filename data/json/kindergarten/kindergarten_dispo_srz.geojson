@@ -11874,6 +11874,7 @@
   "id": "way/135588223",
   "properties": {
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Weberstrasse",
     "operator": "Stadt Winterthur",
     "operator:type": "government",
@@ -16125,6 +16126,7 @@
   "properties": {
     "amenity": "kindergarten",
     "check_date": "2024-02-19",
+    "education": "kindergarten",
     "name": "Kindergarten Lindau",
     "source": "Bing",
     "id": "way/193919804"
@@ -31410,51 +31412,6 @@
         [
           8.5916298,
           47.4553431
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/950043667",
-  "properties": {
-    "addr:city": "Lindau",
-    "addr:housenumber": "80",
-    "addr:postcode": "8315",
-    "addr:street": "Fischeracherstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "building:levels": "2",
-    "check_date": "2025-11-23",
-    "name": "Kindergarten Lindau",
-    "roof:levels": "0",
-    "roof:shape": "hipped",
-    "id": "way/950043667"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6748749,
-          47.4421712
-        ],
-        [
-          8.6748703,
-          47.4420045
-        ],
-        [
-          8.6750107,
-          47.4420028
-        ],
-        [
-          8.6750153,
-          47.4421695
-        ],
-        [
-          8.6748749,
-          47.4421712
         ]
       ]
     ]
