@@ -3845,7 +3845,6 @@
     "amenity": "pharmacy",
     "branch": "Zürich Wiedikon M-Märt",
     "brand": "Achillea Apotheke",
-    "check_date": "2024-01-20",
     "healthcare": "pharmacy",
     "level": "0",
     "name": "Drogama Apotheke Drogerie",
@@ -5490,6 +5489,35 @@
 },
 {
   "type": "Feature",
+  "id": "node/4838594391",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "50",
+    "addr:postcode": "8048",
+    "addr:street": "Baslerstrasse",
+    "alt_name": "Coop Vitality Letzipark",
+    "amenity": "pharmacy",
+    "branch": "Zürich Letzipark",
+    "brand": "Coop Vitality",
+    "level": "0",
+    "name": "Coop Vitality",
+    "opening_hours": "Mo-Sa 09:00-20:00; PH off",
+    "operator": "Coop Vitality & GaleniCare",
+    "website": "https://www.coopvitality.ch/de/coop-vitality-letzipark",
+    "wheelchair": "yes",
+    "id": "node/4838594391"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4990872,
+      47.3860955
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4838594392",
   "properties": {
     "addr:city": "Wallisellen",
@@ -5853,33 +5881,6 @@
     "coordinates": [
       8.7257688,
       47.500548
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5026288949",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "50",
-    "addr:place": "Letzipark",
-    "addr:postcode": "8048",
-    "addr:street": "Baslerstrasse",
-    "amenity": "pharmacy",
-    "branch": "Zürich Letzipark",
-    "level": "2",
-    "name": "Coop Vitality",
-    "note": "Rochadefläche (ex GameStop) während Umbau",
-    "opening_hours": "Mo-Sa 09:00-20:00",
-    "website": "https://www.coopvitality.ch/de/coop-vitality-letzipark",
-    "id": "node/5026288949"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4994562,
-      47.3862582
     ]
   }
 },

@@ -13533,9 +13533,11 @@
   "id": "way/134877023",
   "properties": {
     "amenity": "hospital",
-    "healthcare:speciality": "physiatry",
+    "disused:tourism": "hotel",
     "image": "https://commons.wikimedia.org/wiki/File:H%C3%B4pital_Beau-S%C3%A9jour_Gen%C3%A8ve_4_caf%C3%A9t%C3%A9ria.jpg",
     "name": "Hôpital Beau-Séjour (HUG)",
+    "old_name": "Hôtel Beau-Séjour",
+    "source_ref:name": "https://geneve-archi.ch/batiments/domaine-de-beau-sejour/",
     "website": "https://www.hug.ch/lhopital-de-beau-sejour",
     "wikidata": "Q121864320",
     "wikimedia_commons": "Category:Hôpital Beau-Séjour, Genève",
@@ -38660,6 +38662,10 @@
         [
           9.0254134,
           46.183656
+        ],
+        [
+          9.0255781,
+          46.1834344
         ],
         [
           9.025699,
