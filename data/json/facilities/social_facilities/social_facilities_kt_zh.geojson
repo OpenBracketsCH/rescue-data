@@ -45732,7 +45732,7 @@
     "name": "Riiburg, Wohngruppe für demenz-kranke Menschen",
     "phone": "+41 43 422 53 70",
     "social_facility": "group_home",
-    "social_facility:for": "senior",
+    "social_facility:for": "dementia",
     "id": "node/8482426412"
   },
   "geometry": {

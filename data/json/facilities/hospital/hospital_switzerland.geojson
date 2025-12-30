@@ -53083,6 +53083,7 @@
   "id": "node/4591024395",
   "properties": {
     "amenity": "clinic",
+    "check_date": "2025-12-29",
     "name": "Rehabilitationsklinik",
     "name:de": "Rehabilitationsklinik",
     "opening_hours": "24/7",
