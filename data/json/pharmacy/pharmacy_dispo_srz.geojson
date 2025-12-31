@@ -7573,6 +7573,8 @@
     "amenity": "pharmacy",
     "brand": "Fortis",
     "check_date": "2024-08-11",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
     "name": "Claudia-Apotheke",
     "opening_hours": "Mo-Fr 08:30-24:00,13:00-18:30; Sa 10:00-16:00",
     "website": "https://www.claudia-apotheke.ch/",

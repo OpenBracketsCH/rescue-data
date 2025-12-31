@@ -92097,6 +92097,26 @@
       47.4109699
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13417780077",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13417780077"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3902375,
+      47.4012945
+    ]
+  }
 }
 ]
 }

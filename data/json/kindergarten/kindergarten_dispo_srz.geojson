@@ -2520,6 +2520,7 @@
     "amenity": "kindergarten",
     "building": "yes",
     "check_date": "2024-02-24",
+    "education": "kindergarten",
     "name": "Rainhalde",
     "id": "way/41062610"
   },
@@ -6638,64 +6639,6 @@
         [
           8.5699387,
           47.2880959
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/87418272",
-  "properties": {
-    "addr:city": "Bassersdorf",
-    "addr:housenumber": "29",
-    "addr:postcode": "8303",
-    "addr:street": "Opfikonerstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Geeren 1+2",
-    "source": "Bing",
-    "id": "way/87418272"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6213577,
-          47.4429821
-        ],
-        [
-          8.6213513,
-          47.442755
-        ],
-        [
-          8.621505,
-          47.4427529
-        ],
-        [
-          8.621506,
-          47.4428194
-        ],
-        [
-          8.6215397,
-          47.4428196
-        ],
-        [
-          8.6215418,
-          47.4429119
-        ],
-        [
-          8.6215083,
-          47.4429124
-        ],
-        [
-          8.6215096,
-          47.4429792
-        ],
-        [
-          8.6213577,
-          47.4429821
         ]
       ]
     ]
@@ -31080,6 +31023,7 @@
   "properties": {
     "amenity": "kindergarten",
     "check_date": "2024-12-28",
+    "education": "kindergarten",
     "name": "Kindergarten Inwil",
     "name:de": "Kindergarten Inwil",
     "id": "way/892401596"

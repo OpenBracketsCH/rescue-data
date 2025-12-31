@@ -1472,6 +1472,7 @@
     "building": "school",
     "building:levels": "3",
     "check_date": "2024-12-27",
+    "education": "school",
     "name": "Schulhaus Inwil",
     "name:de": "Schulhaus Inwil",
     "operator:type": "public",

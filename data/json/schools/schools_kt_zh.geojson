@@ -19297,6 +19297,7 @@
     "amenity": "school",
     "building": "school",
     "building:levels": "3",
+    "education": "school",
     "name": "Schulhaus Geeren",
     "id": "way/46512031"
   },
@@ -49242,7 +49243,11 @@
   "id": "way/196057753",
   "properties": {
     "amenity": "school",
+    "education": "school",
+    "email": "schulleitungillnau@schule-ilef.ch",
     "name": "Primarschule Hagen",
+    "phone": "+41 52 354 33 70",
+    "website": "https://www.schule-ilef.ch/illnau/3731",
     "id": "way/196057753"
   },
   "geometry": {
@@ -49326,6 +49331,7 @@
   "id": "way/196058374",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "name": "Sekundarschule Hagen",
     "id": "way/196058374"
   },
@@ -74353,6 +74359,7 @@
   "id": "way/425905492",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "name": "Primarschule Geeren",
     "id": "way/425905492"
   },
@@ -94237,7 +94244,8 @@
   "id": "way/1130986970",
   "properties": {
     "amenity": "school",
-    "name": "Schmidrüti",
+    "education": "school",
+    "name": "Schule Schmidrüti",
     "id": "way/1130986970"
   },
   "geometry": {
@@ -94281,8 +94289,12 @@
           47.4138572
         ],
         [
-          8.9001981,
-          47.4137156
+          8.9000284,
+          47.4138036
+        ],
+        [
+          8.9001541,
+          47.4136953
         ],
         [
           8.9005512,
