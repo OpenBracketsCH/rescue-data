@@ -13658,6 +13658,7 @@
     "addr:postcode": "8152",
     "addr:street": "Giebeleichstrasse",
     "amenity": "childcare",
+    "check_date": "2026-01-02",
     "name": "Kinderkrippe Popcorn",
     "source": "local knowledge",
     "website": "https://kita-popcorn.ch/",

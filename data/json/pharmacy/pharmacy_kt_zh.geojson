@@ -2042,7 +2042,7 @@
     "brand:wikidata": "Q110277794",
     "dispensing": "yes",
     "healthcare": "pharmacy",
-    "name": "TopPharm",
+    "name": "Benu",
     "operator": "TopPharm Genossenschaft",
     "website": "https://www.apotheke.ch/schwerzenbach",
     "id": "node/686557302"
@@ -2050,8 +2050,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6605368,
-      47.3838074
+      8.6604719,
+      47.3837801
     ]
   }
 },
