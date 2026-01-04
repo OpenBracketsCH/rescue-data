@@ -19959,6 +19959,7 @@
   "id": "node/256335788",
   "properties": {
     "amenity": "school",
+    "check_date": "2026-01-03",
     "contact:city": "Zürich",
     "contact:email": "info@hausderfarbe.ch",
     "contact:housenumber": "34",

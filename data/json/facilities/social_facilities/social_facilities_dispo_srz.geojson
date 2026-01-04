@@ -10972,14 +10972,14 @@
     "building": "apartments",
     "building:levels": "3",
     "email": "dhw@swi.salvationarmy.org",
-    "name": "Durchgangsheim Heilsarmee",
+    "name": "Durchgangsheim Anker",
     "operator": "Heilsarmee",
     "phone": "+41 52 226 01 61",
     "roof:levels": "1",
     "roof:material": "roof_tiles",
     "roof:shape": "half-hipped",
     "social_facility": "shelter",
-    "website": "https://www.heilsarmee.ch/standorte/durchgangsheim-winterthur",
+    "website": "https://heilsarmee.ch/angebot/durchgangsheim-anker/",
     "id": "way/77539378"
   },
   "geometry": {
@@ -55655,6 +55655,7 @@
     "name": "Etappe sozialpädagogische Begleitung",
     "operator": "Etappe GmbH",
     "phone": "+41 52 224 72 81",
+    "website": "https://etappe.ch",
     "id": "node/8610137316"
   },
   "geometry": {

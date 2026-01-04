@@ -30643,7 +30643,7 @@
   "id": "way/784249984",
   "properties": {
     "amenity": "kindergarten",
-    "check_date": "2023-06-03",
+    "check_date": "2026-01-02",
     "name": "Kindergarten Oberwis",
     "id": "way/784249984"
   },
@@ -41753,6 +41753,7 @@
   "id": "node/6624405844",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-01-03",
     "isced:level": "0",
     "name": "Mittag-/Abendhort Affoltern 1 + 2",
     "operator": "Stadt Zürich, SSD, Schulkreis Glatttal",

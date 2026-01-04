@@ -92589,6 +92589,46 @@
       47.386917
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13428117238",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "level": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13428117238"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4031415,
+      47.4034116
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13428117239",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "level": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13428117239"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4031869,
+      47.4034522
+    ]
+  }
 }
 ]
 }

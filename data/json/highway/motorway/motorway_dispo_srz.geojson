@@ -3945,6 +3945,7 @@
     "old_name": "A51",
     "oneway": "yes",
     "ref": "A11",
+    "surface": "asphalt",
     "toll": "no",
     "id": "way/6071965"
   },
@@ -25563,6 +25564,7 @@
     "old_name": "A51",
     "oneway": "yes",
     "ref": "A11",
+    "surface": "asphalt",
     "toll": "no",
     "id": "way/38146429"
   },
@@ -51805,6 +51807,7 @@
     "oneway": "yes",
     "ref": "A11",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "id": "way/257163002"
   },
@@ -85275,6 +85278,7 @@
     "oneway": "yes",
     "ref": "A11",
     "source:maxspeed": "sign",
+    "surface": "asphalt",
     "toll": "yes",
     "turn:lanes": "none|none|slight_right",
     "id": "way/1222850482"
@@ -85598,6 +85602,7 @@
     "old_name": "A51",
     "oneway": "yes",
     "ref": "A11",
+    "surface": "asphalt",
     "toll": "no",
     "turn:lanes": "none|none|slight_right",
     "id": "way/1222851760"

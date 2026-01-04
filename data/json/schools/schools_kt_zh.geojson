@@ -63766,6 +63766,7 @@
   "id": "way/270084218",
   "properties": {
     "amenity": "school",
+    "check_date": "2026-01-03",
     "isced:level": "1",
     "name": "Sport- und Schulanlage Allmend",
     "operator:type": "public",
@@ -84220,6 +84221,7 @@
   "id": "way/663721101",
   "properties": {
     "amenity": "school",
+    "check_date": "2025-09-04",
     "name": "Schule / Sportanlage Waldegg",
     "id": "way/663721101"
   },
@@ -98711,6 +98713,7 @@
   "id": "node/256335788",
   "properties": {
     "amenity": "school",
+    "check_date": "2026-01-03",
     "contact:city": "Zürich",
     "contact:email": "info@hausderfarbe.ch",
     "contact:housenumber": "34",
