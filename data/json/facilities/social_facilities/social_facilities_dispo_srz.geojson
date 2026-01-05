@@ -20605,6 +20605,58 @@
 },
 {
   "type": "Feature",
+  "id": "way/174288816",
+  "properties": {
+    "addr:city": "Schübelbach",
+    "addr:country": "CH",
+    "addr:housenumber": "30",
+    "addr:postcode": "8862",
+    "addr:street": "Haslenstrasse",
+    "amenity": "social_facility",
+    "building": "commercial",
+    "building:levels": "1",
+    "building:levels:underground": "1",
+    "description": "Produktion, Spedition, Personalrestaurant",
+    "email": "info@bsz-stiftung.ch",
+    "name": "BSZ Stiftung Schübelbach",
+    "operator": "BSZ Stiftung",
+    "operator:type": "charitable",
+    "operator:wikidata": "Q105761109",
+    "phone": "+41 41 817 40 40",
+    "website": "https://bsz-stiftung.ch/",
+    "wheelchair": "yes",
+    "id": "way/174288816"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9257302,
+          47.1777719
+        ],
+        [
+          8.9254904,
+          47.1775595
+        ],
+        [
+          8.9263188,
+          47.1771274
+        ],
+        [
+          8.9265586,
+          47.1773398
+        ],
+        [
+          8.9257302,
+          47.1777719
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/175713225",
   "properties": {
     "addr:city": "Regensdorf",
@@ -57102,6 +57154,8 @@
     "description": "Die BSZ Stiftung ist die drittgrösste Arbeitgeberin im Kanton Schwyz. An mehreren Standorten erhalten Menschen mit Unterstützungsbedarf die Möglichkeit einer Ausbildung, in einer Wohngemeinschaft zu leben oder regelmässig einer Arbeit nachzugehen.",
     "name": "BSZ Stiftung",
     "operator": "BSZ Stiftung",
+    "operator:type": "charitable",
+    "operator:wikidata": "Q105761109",
     "social_facility:for": "disabled",
     "website": "https://bsz-stiftung.ch/",
     "id": "node/9468887466"

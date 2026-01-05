@@ -810,6 +810,7 @@
     "amenity": "school",
     "building": "school",
     "building:levels": "5",
+    "education": "school",
     "isced:level": "3",
     "name": "Berufsbildungszentrum Pfäffikon",
     "wikidata": "Q828843",
@@ -910,6 +911,7 @@
     "addr:street": "Stegstrasse",
     "amenity": "school",
     "building": "school",
+    "education": "school",
     "leisure": "sports_centre",
     "name": "Turnhalle Schule Steg",
     "source": "Bing",
@@ -1076,6 +1078,7 @@
     "addr:street": "Stegstrasse",
     "amenity": "school",
     "building": "school",
+    "education": "school",
     "name": "Primarschule Steg",
     "source": "Bing",
     "id": "way/151573519"
@@ -3239,6 +3242,7 @@
   "id": "way/201799894",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "id": "way/201799894"
   },
   "geometry": {
@@ -3646,6 +3650,7 @@
     "addr:street": "Stockbergstrasse",
     "amenity": "school",
     "building": "school",
+    "education": "school",
     "name": "Schulhaus Stockberg 1",
     "id": "way/202870862"
   },
@@ -3748,6 +3753,7 @@
     "amenity": "school",
     "building": "school",
     "building:levels": "2",
+    "education": "school",
     "name": "Schulhaus Stockberg 2",
     "id": "way/202870864"
   },
@@ -4135,6 +4141,7 @@
     "building": "school",
     "building:levels": "5",
     "check_date": "2024-06-04",
+    "education": "school",
     "name": "Sek 1 March Siebnen, Schulhaus",
     "operator": "Bezirk March",
     "roof:shape": "flat",
@@ -4263,6 +4270,7 @@
     "amenity": "school",
     "building": "sports_centre",
     "check_date": "2024-06-04",
+    "education": "school",
     "name": "Sek 1 March Siebnen, Turnhalle",
     "operator": "Bezirk March",
     "id": "way/217735698"
@@ -4348,6 +4356,7 @@
   "id": "way/219675946",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "motor_vehicle:conditional": "no @ (Mo-Fr 07:00-17:00)",
     "id": "way/219675946"
   },
@@ -4852,6 +4861,7 @@
   "id": "way/225377360",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "name": "Schulhaus Büel",
     "id": "way/225377360"
   },
@@ -6152,6 +6162,7 @@
     "addr:street": "Summelenweg",
     "amenity": "school",
     "building": "school",
+    "education": "school",
     "name": "Schulhaus Felsenburgmatte",
     "id": "way/293441171"
   },
@@ -6201,6 +6212,7 @@
     "addr:street": "Summelenweg",
     "amenity": "school",
     "building": "school",
+    "education": "school",
     "name": "Schulhaus Felsenburgmatte",
     "id": "way/293441178"
   },
@@ -7472,6 +7484,7 @@
     "alt_name": "Gewerbeschule",
     "amenity": "school",
     "building": "yes",
+    "education": "school",
     "isced:level": "3",
     "name": "Landwirtschaftsschule",
     "operator": "Amt für Landwirtschaft",
@@ -9270,6 +9283,7 @@
     "addr:street": "Schulstrasse",
     "amenity": "school",
     "building": "school",
+    "education": "school",
     "name": "Schulhaus Mittelstufe Tuggen",
     "id": "way/397729270"
   },
@@ -9367,6 +9381,7 @@
     "addr:street": "Buchbergstrasse",
     "amenity": "school",
     "building": "school",
+    "education": "school",
     "name": "Primar-Schulhaus Tuggen",
     "id": "way/397730341"
   },
@@ -10278,6 +10293,7 @@
   "properties": {
     "access:conditional": "yes @ (Mo-Fr 00:00-22:00; Sa-Su 10:00-18:00)",
     "amenity": "school",
+    "education": "school",
     "id": "way/930265993"
   },
   "geometry": {
@@ -11294,6 +11310,7 @@
     "contact:postcode": "8808",
     "contact:street": "Schützenstrasse",
     "contact:website": "https://www.ksasz.ch",
+    "education": "school",
     "isced:level": "3",
     "name": "Kantonsschule Ausserschwyz",
     "short_name": "KSA",
@@ -11915,6 +11932,7 @@
     "contact:postcode": "8808",
     "contact:street": "Schützenstrasse",
     "contact:website": "https://www.bbzp.ch/",
+    "education": "school",
     "isced:level": "3",
     "name": "Berufsbildungszentrum BBZ Pfäffikon",
     "id": "way/1354638783"
@@ -11968,6 +11986,7 @@
   "id": "way/1359852748",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "name": "Riedtmatt",
     "id": "way/1359852748"
   },
@@ -11980,16 +11999,36 @@
           47.1962966
         ],
         [
+          8.7117967,
+          47.196136
+        ],
+        [
+          8.7119195,
+          47.1960088
+        ],
+        [
+          8.7120797,
+          47.1959797
+        ],
+        [
           8.7123367,
           47.1960124
         ],
         [
-          8.7129129,
-          47.1960982
+          8.7128054,
+          47.1960709
         ],
         [
-          8.7131357,
-          47.1959138
+          8.7130413,
+          47.1960251
+        ],
+        [
+          8.7129938,
+          47.1959042
+        ],
+        [
+          8.713306,
+          47.1958426
         ],
         [
           8.7139847,
@@ -12032,6 +12071,10 @@
           47.1966073
         ],
         [
+          8.7127253,
+          47.1965272
+        ],
+        [
           8.7127644,
           47.1963901
         ],
@@ -12053,6 +12096,7 @@
     "addr:street": "Schützenstrasse",
     "amenity": "school",
     "building": "school",
+    "education": "school",
     "id": "way/1415588425"
   },
   "geometry": {
@@ -12153,6 +12197,7 @@
   "id": "node/1402461661",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "name": "Schule Tuggen",
     "id": "node/1402461661"
   },

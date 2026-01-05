@@ -2201,6 +2201,7 @@
     "addr:street": "Erlenstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Rosengarten",
     "id": "way/37825655"
   },
@@ -3737,6 +3738,7 @@
     "addr:street": "Im Leemann",
     "amenity": "kindergarten",
     "building": "yes",
+    "education": "kindergarten",
     "name": "Kindergarten Im Leemann",
     "id": "way/44848340"
   },
@@ -7436,6 +7438,7 @@
     "addr:street": "Moritzbergstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Moritzberg",
     "id": "way/92088051"
   },
@@ -8863,6 +8866,7 @@
     "addr:street": "Sunnengartenstrasse",
     "amenity": "kindergarten",
     "building": "yes",
+    "education": "kindergarten",
     "name": "Kindergarten Mettlen",
     "id": "way/100309607"
   },
@@ -8903,6 +8907,7 @@
     "addr:street": "Etzelstrasse",
     "amenity": "kindergarten",
     "building": "yes",
+    "education": "kindergarten",
     "name": "Kindertagesstätte",
     "id": "way/100318498"
   },
@@ -8943,6 +8948,7 @@
     "addr:street": "Etzelstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Etzelstrasse",
     "id": "way/100318512"
   },
@@ -13603,6 +13609,7 @@
     "addr:street": "Untermosenstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Untermosen 1+2",
     "id": "way/176223663"
   },
@@ -29463,6 +29470,7 @@
   "id": "way/1263535711",
   "properties": {
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Wisli",
     "id": "way/1263535711"
   },
@@ -34138,6 +34146,7 @@
   "id": "node/2675233987",
   "properties": {
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Kita Müüsliburg",
     "website": "https://www.muusliburg.ch/",
     "id": "node/2675233987"
@@ -40367,6 +40376,7 @@
   "id": "node/9529165914",
   "properties": {
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "email": "kontakt@guexi.ch",
     "name": "Güxi Kinderkrippe Richterswil Zentrum",
     "operator": "Güxi Kinderkrippen",
@@ -42410,6 +42420,7 @@
     "addr:postcode": "8805",
     "addr:street": "Zugerstrasse",
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Zauberflöte KiTa & KiGa",
     "id": "node/9939518550"
   },
@@ -42862,6 +42873,7 @@
   "id": "node/10003509812",
   "properties": {
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Hangenmoos 2",
     "preschool": "yes",
     "wheelchair": "yes",
@@ -43089,6 +43101,7 @@
   "id": "node/10087771460",
   "properties": {
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Hangenmoos 1",
     "preschool": "yes",
     "wheelchair": "yes",

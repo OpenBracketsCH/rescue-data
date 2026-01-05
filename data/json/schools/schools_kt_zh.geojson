@@ -4743,6 +4743,7 @@
   "id": "way/25748626",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "layer": "-1",
     "id": "way/25748626"
   },
@@ -4871,6 +4872,7 @@
   "id": "way/25767842",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "layer": "-1",
     "id": "way/25767842"
   },
@@ -4991,6 +4993,7 @@
   "id": "way/25767856",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "id": "way/25767856"
   },
   "geometry": {
@@ -5054,6 +5057,7 @@
   "id": "way/25797363",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "id": "way/25797363"
   },
   "geometry": {
@@ -5114,6 +5118,7 @@
     "addr:street": "Reidholzstrasse",
     "amenity": "school",
     "building": "school",
+    "education": "school",
     "name": "Schulhaus Feld I",
     "id": "way/25808498"
   },
@@ -5195,6 +5200,7 @@
     "addr:street": "Feldstrasse",
     "amenity": "school",
     "building": "school",
+    "education": "school",
     "name": "Schulhaus Feld II",
     "id": "way/25808508"
   },
@@ -5304,6 +5310,7 @@
     "addr:street": "Burghaldenstrasse",
     "amenity": "school",
     "building": "school",
+    "education": "school",
     "name": "Schulhaus Breiten",
     "id": "way/25808557"
   },
@@ -7205,6 +7212,7 @@
   "properties": {
     "amenity": "school",
     "check_date": "2025-04-23",
+    "education": "school",
     "name": "Fuhr / Rotweg",
     "operator": "Oberstufe Wädenswil",
     "operator:type": "public",
@@ -15569,6 +15577,7 @@
     "addr:street": "Göldistrasse",
     "amenity": "school",
     "building": "school",
+    "education": "school",
     "name": "Schulhaus Boden",
     "id": "way/37770986"
   },
@@ -18904,6 +18913,7 @@
     "addr:street": "Kirchstrasse",
     "amenity": "school",
     "building": "school",
+    "education": "school",
     "name": "Schulhaus Töss",
     "id": "way/46108237"
   },
@@ -27315,6 +27325,7 @@
   "id": "way/92088267",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "name": "Moritzberg",
     "id": "way/92088267"
   },
@@ -48263,6 +48274,7 @@
   "id": "way/191934540",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "name": "Gerberacher",
     "wheelchair": "no",
     "id": "way/191934540"

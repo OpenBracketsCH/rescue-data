@@ -232,6 +232,7 @@
     "description": "Umweltschutz- und Seepolizei Ausserschwyz Kantonspolizei Schwyz",
     "name": "Umweltschutz- und Seepolizei",
     "operator": "Kantonspolizei Schwyz",
+    "operator:wikidata": "Q56705179",
     "phone": "+41 55 410 44 93",
     "website": "https://www.sz.ch/xml_1/internet/de/application/d999/d2537/d2538/d23859/p26217.cfm?strasse=Hurdnerwaeldlistrasse+27a+8808+Pfaeffikon",
     "id": "node/4207802837"
@@ -320,6 +321,7 @@
     "amenity": "police",
     "name": "Polizeiposten Siebnen",
     "operator": "Kantonspolizei Schwyz",
+    "operator:wikidata": "Q56705179",
     "phone": "+41 41 819 59 10",
     "id": "node/8520382283"
   },

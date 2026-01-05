@@ -11480,6 +11480,36 @@
       47.3693903
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13429961779",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "29",
+    "addr:postcode": "8002",
+    "addr:street": "Bürglistrasse",
+    "amenity": "clinic",
+    "email": "info@snrc.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "neurosurgery;radiotherapy",
+    "level": "-1",
+    "name": "Swiss Neuro Radiosurgery Center (SNRC)",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "Swiss Neuro Radiosurgery Center (SNRC AG)",
+    "operator:type": "public",
+    "phone": "+41 44 576 72 72",
+    "website": "https://www.snrc.ch",
+    "wheelchair": "yes",
+    "id": "node/13429961779"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5293884,
+      47.3608591
+    ]
+  }
 }
 ]
 }

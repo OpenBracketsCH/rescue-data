@@ -2310,6 +2310,7 @@
     "addr:street": "Erlenstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Rosengarten",
     "id": "way/37825655"
   },
@@ -3930,6 +3931,7 @@
     "addr:street": "Im Leemann",
     "amenity": "kindergarten",
     "building": "yes",
+    "education": "kindergarten",
     "name": "Kindergarten Im Leemann",
     "id": "way/44848340"
   },
@@ -7712,6 +7714,7 @@
     "addr:street": "Moritzbergstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Moritzberg",
     "id": "way/92088051"
   },
@@ -9214,6 +9217,7 @@
     "addr:street": "Sunnengartenstrasse",
     "amenity": "kindergarten",
     "building": "yes",
+    "education": "kindergarten",
     "name": "Kindergarten Mettlen",
     "id": "way/100309607"
   },
@@ -9254,6 +9258,7 @@
     "addr:street": "Etzelstrasse",
     "amenity": "kindergarten",
     "building": "yes",
+    "education": "kindergarten",
     "name": "Kindertagesstätte",
     "id": "way/100318498"
   },
@@ -9294,6 +9299,7 @@
     "addr:street": "Etzelstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Etzelstrasse",
     "id": "way/100318512"
   },
@@ -14694,6 +14700,7 @@
     "addr:street": "Untermosenstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Untermosen 1+2",
     "id": "way/176223663"
   },
@@ -16024,6 +16031,7 @@
     "addr:street": "Büelstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Büel",
     "id": "way/193356366"
   },
@@ -17655,6 +17663,7 @@
     "amenity": "kindergarten",
     "building": "kindergarten",
     "building:levels": "1",
+    "education": "kindergarten",
     "isced:level": "0",
     "name": "Doppelkindergarten Spielweg",
     "roof:shape": "gabled",
@@ -17845,6 +17854,7 @@
     "amenity": "kindergarten",
     "building": "house",
     "building:levels": "2",
+    "education": "kindergarten",
     "email": "info@kita-aladin.ch",
     "name": "Kita Aladin",
     "opening_hours": "Mo-Fr 06:30-18:30; PH off",
@@ -24815,6 +24825,7 @@
     "addr:street": "Tödistrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Eneda",
     "id": "way/397729693"
   },
@@ -28076,6 +28087,7 @@
     "addr:street": "Schulstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Riedland A+B",
     "id": "way/695596343"
   },
@@ -34032,6 +34044,7 @@
   "id": "way/1263535711",
   "properties": {
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Wisli",
     "id": "way/1263535711"
   },
@@ -39051,6 +39064,7 @@
   "id": "node/2675233987",
   "properties": {
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Kita Müüsliburg",
     "website": "https://www.muusliburg.ch/",
     "id": "node/2675233987"
@@ -41407,6 +41421,7 @@
     "addr:street": "Weidweg",
     "amenity": "kindergarten",
     "check_date": "2023-05-07",
+    "education": "kindergarten",
     "email": "info@pswangensz.ch",
     "level": "0",
     "name": "Kindergarten Weidweg",
@@ -41432,6 +41447,7 @@
     "addr:postcode": "8855",
     "addr:street": "Dorfplatz",
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "email": "info@pswangensz.ch",
     "name": "Kindergarten Wangen",
     "website": "https://www.pswangensz.ch/",
@@ -43556,6 +43572,7 @@
     "addr:street": "Unterer Althof",
     "amenity": "kindergarten",
     "contact:phone": "+41 79 569 43 81",
+    "education": "kindergarten",
     "level": "0",
     "name": "Spielgruppe Flügäpilz",
     "opening_hours": "Mo-Th 09:00-11:00",
@@ -43594,6 +43611,7 @@
   "id": "node/7398243339",
   "properties": {
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Bauernhof Spielgruppe Rosenzwergli",
     "operator:type": "private",
     "id": "node/7398243339"
@@ -45586,6 +45604,7 @@
   "id": "node/9529165914",
   "properties": {
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "email": "kontakt@guexi.ch",
     "name": "Güxi Kinderkrippe Richterswil Zentrum",
     "operator": "Güxi Kinderkrippen",
@@ -47648,6 +47667,7 @@
     "addr:postcode": "8805",
     "addr:street": "Zugerstrasse",
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Zauberflöte KiTa & KiGa",
     "id": "node/9939518550"
   },
@@ -48123,6 +48143,7 @@
   "id": "node/10003509812",
   "properties": {
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Hangenmoos 2",
     "preschool": "yes",
     "wheelchair": "yes",
@@ -48463,6 +48484,7 @@
   "properties": {
     "amenity": "kindergarten",
     "check_date": "2025-03-22",
+    "education": "kindergarten",
     "isced:level": "0",
     "name": "ABC Learning Tree",
     "operator": "ABC Learning Tree GmbH",
@@ -48533,6 +48555,7 @@
   "id": "node/10087771460",
   "properties": {
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Hangenmoos 1",
     "preschool": "yes",
     "wheelchair": "yes",
@@ -48779,6 +48802,7 @@
     "addr:postcode": "8808",
     "addr:street": "Churerstrasse",
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Hochhaus",
     "id": "node/11143880046"
   },
@@ -48799,6 +48823,7 @@
     "addr:postcode": "8808",
     "addr:street": "Huobstrasse",
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Huob",
     "id": "node/11143901462"
   },
@@ -48984,6 +49009,7 @@
   "id": "node/11379230239",
   "properties": {
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Rot",
     "id": "node/11379230239"
   },
@@ -49091,6 +49117,7 @@
   "id": "node/11563738992",
   "properties": {
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Ausserdorf",
     "id": "node/11563738992"
   },
