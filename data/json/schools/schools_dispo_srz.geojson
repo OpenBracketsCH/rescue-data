@@ -39201,6 +39201,7 @@
     "contact:postcode": "8620",
     "contact:street": "Bühlstrasse",
     "contact:website": "https://www.kzo.ch/shortcuts/kontakt",
+    "education": "school",
     "name": "Kantonsschule Zürcher Oberland",
     "operator:type": "public",
     "short_name": "KZO",
@@ -74774,6 +74775,7 @@
     "addr:street": "Felsenhofstrasse",
     "amenity": "school",
     "building": "yes",
+    "education": "school",
     "name": "Schulhaus Felsenhof",
     "phone": "+41 44 937 38 50",
     "school": "primary",
@@ -79200,6 +79202,7 @@
     "addr:street": "Schulweg",
     "amenity": "school",
     "building": "yes",
+    "education": "school",
     "name": "Schulhaus Wernetshausen",
     "phone": "+41 44 937 37 26",
     "school": "primary",
@@ -111173,6 +111176,7 @@
   "id": "way/849942732",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "isced:level": "1",
     "name": "Tagesschule Unterbach",
     "operator": "Schule Hinwil",
@@ -118626,6 +118630,7 @@
   "id": "way/1087039115",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "name": "Schulanlage Breite",
     "phone": "+41 43 843 17 17",
     "website": "https://www.schulehinwil.ch/de/schulen/breite/",
@@ -118688,6 +118693,7 @@
   "id": "way/1087050412",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "name": "Mätteli",
     "id": "way/1087050412"
   },
@@ -118732,6 +118738,7 @@
   "id": "way/1087077392",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "name": "Meiliwiese",
     "website": "https://www.schulehinwil.ch/de/schulen/meiliwiese/",
     "id": "way/1087077392"
@@ -118881,6 +118888,7 @@
   "id": "way/1088005007",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "name": "Schule Wernetshausen",
     "id": "way/1088005007"
   },
@@ -121358,6 +121366,7 @@
     "addr:street": "Schulweg",
     "amenity": "school",
     "building": "yes",
+    "education": "school",
     "name": "Schulhaus Wernetshausen",
     "phone": "+41 44 937 37 26",
     "school": "primary",
@@ -121415,6 +121424,7 @@
     "addr:street": "Schulweg",
     "amenity": "school",
     "building": "yes",
+    "education": "school",
     "name": "Schulhaus Wernetshausen",
     "phone": "+41 44 937 37 26",
     "school": "primary",
@@ -121819,6 +121829,7 @@
     "addr:street": "Felsenhofstrasse",
     "amenity": "school",
     "building": "yes",
+    "education": "school",
     "name": "Schulhaus Felsenhof",
     "phone": "+41 44 937 38 50",
     "school": "primary",
@@ -124043,6 +124054,7 @@
   "id": "way/1354962613",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "grades": "0-6",
     "name": "Schulanlage Rorbas",
     "operator": "Schulgemeinde Rorbas-Freienstein-Teufen",

@@ -5904,7 +5904,8 @@
   "type": "Feature",
   "id": "node/1999821206",
   "properties": {
-    "addr:city": "Stadel",
+    "addr:city": "Stadel b. Niederglatt",
+    "addr:housenumber": "17",
     "addr:postcode": "8174",
     "addr:street": "Kaiserstuhlerstrasse",
     "amenity": "fire_station",

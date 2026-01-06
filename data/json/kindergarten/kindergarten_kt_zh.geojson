@@ -3688,48 +3688,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/44371104",
-  "properties": {
-    "addr:city": "Teufen",
-    "addr:housenumber": "11",
-    "addr:postcode": "8428",
-    "addr:street": "Irchelstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Teufen",
-    "source": "Yahoo aerial images",
-    "id": "way/44371104"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.567382,
-          47.5469852
-        ],
-        [
-          8.5675319,
-          47.5468637
-        ],
-        [
-          8.567655,
-          47.5469329
-        ],
-        [
-          8.5675051,
-          47.5470544
-        ],
-        [
-          8.567382,
-          47.5469852
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/44848340",
   "properties": {
     "addr:city": "Richterswil",
@@ -16982,6 +16940,7 @@
     "addr:street": "Schweipelstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Fröschlezzen 1+2",
     "phone": "+41 44 937 41 08;+41 44 937 37 41",
     "id": "way/251969228"
@@ -17056,6 +17015,7 @@
     "addr:street": "Sindelenstrasse",
     "amenity": "kindergarten",
     "building": "yes",
+    "education": "kindergarten",
     "id": "way/251982406"
   },
   "geometry": {
@@ -17097,6 +17057,7 @@
     "addr:street": "Täusistrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Wihalden 1+2",
     "phone": "+41 44 937 24 76",
     "id": "way/252135073"
@@ -18013,6 +17974,7 @@
     "addr:street": "Höhenstrasse",
     "amenity": "kindergarten",
     "building": "house",
+    "education": "kindergarten",
     "name": "Kindergarten Wernetshausen",
     "phone": "+41 44 937 12 95",
     "id": "way/263220340"
@@ -31214,6 +31176,7 @@
   "id": "way/1348058199",
   "properties": {
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Schöneich 1 + 2",
     "id": "way/1348058199"
   },
@@ -42461,6 +42424,7 @@
     "addr:postcode": "8427",
     "addr:street": "Zilacherstrasse",
     "amenity": "kindergarten",
+    "education": "kindergarten",
     "name": "Kindergarten Rorbas 3",
     "id": "node/9941842935"
   },

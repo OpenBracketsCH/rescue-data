@@ -4571,8 +4571,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5624544,
-      47.4511063
+      8.5623131,
+      47.4495927
     ]
   }
 },
@@ -7750,6 +7750,7 @@
   "id": "node/7967037966",
   "properties": {
     "amenity": "pharmacy",
+    "check_date": "2026-01-05",
     "dispensing": "yes",
     "email": "circle@victoria-apotheke.ch",
     "healthcare": "pharmacy",
