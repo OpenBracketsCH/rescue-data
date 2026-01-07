@@ -1518,6 +1518,111 @@
 },
 {
   "type": "Feature",
+  "id": "relation/20053753",
+  "properties": {
+    "amenity": "social_facility",
+    "contact:city": "Männedorf",
+    "contact:housenumber": "7",
+    "contact:postcode": "8708",
+    "contact:street": "Appisbergstrasse",
+    "email": "info@allmendhof.ch",
+    "name": "Allmendhöfli",
+    "operator": "Zentrum Allmendhof AG",
+    "phone": "+41 43 843 41 41",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "type": "multipolygon",
+    "website": "https://www.allmendhof.ch/",
+    "id": "relation/20053753"
+  },
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            8.6943947,
+            47.260472
+          ],
+          [
+            8.6945329,
+            47.2606414
+          ],
+          [
+            8.6945515,
+            47.2606642
+          ],
+          [
+            8.6945689,
+            47.2606855
+          ],
+          [
+            8.694305,
+            47.2607864
+          ],
+          [
+            8.694272,
+            47.260747
+          ],
+          [
+            8.6941795,
+            47.2606365
+          ],
+          [
+            8.694168,
+            47.2606228
+          ],
+          [
+            8.6943947,
+            47.260472
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            8.6948489,
+            47.2605903
+          ],
+          [
+            8.6951254,
+            47.2604812
+          ],
+          [
+            8.6950863,
+            47.2604356
+          ],
+          [
+            8.6954011,
+            47.2603113
+          ],
+          [
+            8.6955089,
+            47.2604372
+          ],
+          [
+            8.6952483,
+            47.26054
+          ],
+          [
+            8.6952812,
+            47.2605784
+          ],
+          [
+            8.6949505,
+            47.2607089
+          ],
+          [
+            8.6948489,
+            47.2605903
+          ]
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/14109709",
   "properties": {
     "addr:housenumber": "2b",
@@ -2930,66 +3035,6 @@
         [
           8.6996977,
           47.2075117
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/25812119",
-  "properties": {
-    "addr:city": "Männedorf",
-    "addr:housenumber": "7",
-    "addr:postcode": "8708",
-    "addr:street": "Appisbergstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Alters- und Pflegeheim Allmendhof",
-    "operator": "Gemeinde Männedorf",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "id": "way/25812119"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6948489,
-          47.2605903
-        ],
-        [
-          8.6951254,
-          47.2604812
-        ],
-        [
-          8.6950863,
-          47.2604356
-        ],
-        [
-          8.6954011,
-          47.2603113
-        ],
-        [
-          8.6955089,
-          47.2604372
-        ],
-        [
-          8.6952483,
-          47.26054
-        ],
-        [
-          8.6952812,
-          47.2605784
-        ],
-        [
-          8.6949505,
-          47.2607089
-        ],
-        [
-          8.6948489,
-          47.2605903
         ]
       ]
     ]
@@ -20115,6 +20160,10 @@
           47.4053481
         ],
         [
+          8.6481973,
+          47.4053996
+        ],
+        [
           8.6482077,
           47.4054072
         ],
@@ -20149,6 +20198,10 @@
         [
           8.648189,
           47.4054934
+        ],
+        [
+          8.6481207,
+          47.405536
         ],
         [
           8.648068,
@@ -40253,50 +40306,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1230284805",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "41",
-    "addr:postcode": "8004",
-    "addr:street": "Kasernenstrasse",
-    "amenity": "social_facility",
-    "name": "Kontakt- und Anlaufstelle Kaserne",
-    "phone": "+41 44 415 56 90",
-    "short_name": "K&A Kaserne",
-    "social_facility": "outreach",
-    "website": "https://www.stadt-zuerich.ch/sd/de/index/unterstuetzung/drogen/kontaktundanlaufstellen.html",
-    "id": "way/1230284805"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5311101,
-          47.3756543
-        ],
-        [
-          8.5313376,
-          47.3754986
-        ],
-        [
-          8.5317082,
-          47.3757802
-        ],
-        [
-          8.5314924,
-          47.3759153
-        ],
-        [
-          8.5311101,
-          47.3756543
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1261401661",
   "properties": {
     "addr:city": "Zürich",
@@ -42332,6 +42341,223 @@
 },
 {
   "type": "Feature",
+  "id": "way/1449647894",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8004",
+    "addr:street": "Zeughausstrasse",
+    "amenity": "social_facility",
+    "building": "garages",
+    "contact:phone": "+41 44 415 56 90",
+    "contact:website": "https://www.stadt-zuerich.ch/sd/de/index/unterstuetzung/drogen/kontaktundanlaufstellen.html",
+    "name": "Kontakt- und Anlaufstelle Kaserne",
+    "opening_hours": "Mo-Su 07:30-15:00; We-Sa 11:00-18:45",
+    "short_name": "K&A Kaserne",
+    "social_facility": "outreach",
+    "id": "way/1449647894"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5317313,
+          47.3750188
+        ],
+        [
+          8.5318287,
+          47.3751119
+        ],
+        [
+          8.5318219,
+          47.375118
+        ],
+        [
+          8.5318366,
+          47.3751356
+        ],
+        [
+          8.5317883,
+          47.3751679
+        ],
+        [
+          8.531642,
+          47.3750756
+        ],
+        [
+          8.5317313,
+          47.3750188
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1464596274",
+  "properties": {
+    "addr:city": "Bülach",
+    "addr:housenumber": "11a",
+    "addr:postcode": "8180",
+    "addr:street": "Heimgartenstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "therapie@archezuerich.ch",
+    "name": "Arche Therapie Bülach",
+    "operator": "Arche Züric",
+    "phone": "+41 44 860 11 87",
+    "social_facility": "assisted_living",
+    "social_facility:for": "drug_addicted",
+    "website": "https://www.archezuerich.ch/arche-therapie-buelach",
+    "id": "way/1464596274"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5362315,
+          47.5519123
+        ],
+        [
+          8.5361718,
+          47.5518377
+        ],
+        [
+          8.5362854,
+          47.5517963
+        ],
+        [
+          8.5363451,
+          47.551871
+        ],
+        [
+          8.5362315,
+          47.5519123
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/25812115",
+  "properties": {
+    "addr:city": "Männedorf",
+    "addr:housenumber": "5",
+    "addr:postcode": "8708",
+    "addr:street": "Appisbergstrasse",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "social_facility": "group_home",
+    "id": "way/25812115"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6943947,
+          47.260472
+        ],
+        [
+          8.6945329,
+          47.2606414
+        ],
+        [
+          8.6945515,
+          47.2606642
+        ],
+        [
+          8.6945689,
+          47.2606855
+        ],
+        [
+          8.694305,
+          47.2607864
+        ],
+        [
+          8.694272,
+          47.260747
+        ],
+        [
+          8.6941795,
+          47.2606365
+        ],
+        [
+          8.694168,
+          47.2606228
+        ],
+        [
+          8.6943947,
+          47.260472
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/25812119",
+  "properties": {
+    "addr:city": "Männedorf",
+    "addr:housenumber": "7",
+    "addr:postcode": "8708",
+    "addr:street": "Appisbergstrasse",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "name": "Allmendhöfli",
+    "social_facility": "group_home",
+    "id": "way/25812119"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6948489,
+          47.2605903
+        ],
+        [
+          8.6951254,
+          47.2604812
+        ],
+        [
+          8.6950863,
+          47.2604356
+        ],
+        [
+          8.6954011,
+          47.2603113
+        ],
+        [
+          8.6955089,
+          47.2604372
+        ],
+        [
+          8.6952483,
+          47.26054
+        ],
+        [
+          8.6952812,
+          47.2605784
+        ],
+        [
+          8.6949505,
+          47.2607089
+        ],
+        [
+          8.6948489,
+          47.2605903
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/473379001",
   "properties": {
     "amenity": "social_facility",
@@ -44173,13 +44399,13 @@
     "addr:street": "Zeughausstrasse",
     "amenity": "social_facility",
     "check_date": "2024-06-19",
-    "email": "kindundfamilie@archezuerich.ch",
-    "name": "Arche Kind & Familie",
-    "opening_hours": "Mo-Th 09:00-12:00, 14:00-17:00",
+    "email": "fuerfamilien@archezuerich.ch",
+    "name": "Arche Für Familien",
+    "opening_hours": "Mo-Th 09:00-12:00, 13:30-15:30",
     "operator": "Verein Arche Zürich",
-    "phone": "+41 44 273 31 35",
+    "phone": "+41 44 241 63 43",
     "social_facility": "outreach",
-    "website": "https://www.archezuerich.ch/arche-kind-familie",
+    "website": "https://www.archezuerich.ch/arche-fuer-familien",
     "id": "node/5297598012"
   },
   "geometry": {
@@ -46201,32 +46427,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8597583120",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "3",
-    "addr:postcode": "8004",
-    "addr:street": "Militärstrasse",
-    "alt_name": "Kontakt- & Anlaufstellen für Drogenabhängige Kaserne",
-    "amenity": "social_facility",
-    "check_date": "2025-04-09",
-    "name": "K&A Kaserne",
-    "operator": "Stadt Zürich",
-    "phone": "+41 44 415 56 90",
-    "social_facility": "outreach",
-    "website": "https://www.stadt-zuerich.ch/sd/de/index/unterstuetzung/drogen/kontaktundanlaufstellen.html",
-    "id": "node/8597583120"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5332337,
-      47.376037
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8600303441",
   "properties": {
     "addr:city": "Zürich",
@@ -46660,32 +46860,6 @@
     "coordinates": [
       8.6828966,
       47.326071
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8696250287",
-  "properties": {
-    "addr:city": "Bülach",
-    "addr:housenumber": "11",
-    "addr:postcode": "8180",
-    "addr:street": "Heimgartenstrasse",
-    "amenity": "social_facility",
-    "email": "therapie@archezuerich.ch",
-    "name": "Arche Therapie Bülach",
-    "operator": "Arche",
-    "phone": "+41 44 860 11 87",
-    "social_facility": "assisted_living",
-    "social_facility:for": "drug_addicted",
-    "website": "https://www.archezuerich.ch/arche-therapie-buelach",
-    "id": "node/8696250287"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5362685,
-      47.551963
     ]
   }
 },
@@ -49554,6 +49728,49 @@
     "coordinates": [
       8.7598238,
       47.4942095
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13434445018",
+  "properties": {
+    "amenity": "social_facility",
+    "email": "wohnen.station@archezuerich.ch",
+    "name": "Arche Integrierendes Wohnen",
+    "operator": "Arche Zürich",
+    "phone": "+41 44 451 01 60",
+    "social_facility": "assisted_living",
+    "website": "https://www.archezuerich.ch/arche-wohnen",
+    "id": "node/13434445018"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5199763,
+      47.3728325
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13434455225",
+  "properties": {
+    "amenity": "social_facility",
+    "email": "wohnen@archezuerich.ch",
+    "name": "Arche Betreutes Wohnen",
+    "operator": "Arche Zürich",
+    "phone": "+4 44 277 70 70",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
+    "website": "https://www.archezuerich.ch/arche-wohnen",
+    "id": "node/13434455225"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4943426,
+      47.3890715
     ]
   }
 }

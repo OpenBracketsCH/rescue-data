@@ -753,6 +753,111 @@
 },
 {
   "type": "Feature",
+  "id": "relation/20053753",
+  "properties": {
+    "amenity": "social_facility",
+    "contact:city": "Männedorf",
+    "contact:housenumber": "7",
+    "contact:postcode": "8708",
+    "contact:street": "Appisbergstrasse",
+    "email": "info@allmendhof.ch",
+    "name": "Allmendhöfli",
+    "operator": "Zentrum Allmendhof AG",
+    "phone": "+41 43 843 41 41",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "type": "multipolygon",
+    "website": "https://www.allmendhof.ch/",
+    "id": "relation/20053753"
+  },
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            8.6943947,
+            47.260472
+          ],
+          [
+            8.6945329,
+            47.2606414
+          ],
+          [
+            8.6945515,
+            47.2606642
+          ],
+          [
+            8.6945689,
+            47.2606855
+          ],
+          [
+            8.694305,
+            47.2607864
+          ],
+          [
+            8.694272,
+            47.260747
+          ],
+          [
+            8.6941795,
+            47.2606365
+          ],
+          [
+            8.694168,
+            47.2606228
+          ],
+          [
+            8.6943947,
+            47.260472
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            8.6948489,
+            47.2605903
+          ],
+          [
+            8.6951254,
+            47.2604812
+          ],
+          [
+            8.6950863,
+            47.2604356
+          ],
+          [
+            8.6954011,
+            47.2603113
+          ],
+          [
+            8.6955089,
+            47.2604372
+          ],
+          [
+            8.6952483,
+            47.26054
+          ],
+          [
+            8.6952812,
+            47.2605784
+          ],
+          [
+            8.6949505,
+            47.2607089
+          ],
+          [
+            8.6948489,
+            47.2605903
+          ]
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/22702052",
   "properties": {
     "addr:city": "Winterthur",
@@ -1563,66 +1668,6 @@
         [
           8.6920136,
           47.2560051
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/25812119",
-  "properties": {
-    "addr:city": "Männedorf",
-    "addr:housenumber": "7",
-    "addr:postcode": "8708",
-    "addr:street": "Appisbergstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Alters- und Pflegeheim Allmendhof",
-    "operator": "Gemeinde Männedorf",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "id": "way/25812119"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6948489,
-          47.2605903
-        ],
-        [
-          8.6951254,
-          47.2604812
-        ],
-        [
-          8.6950863,
-          47.2604356
-        ],
-        [
-          8.6954011,
-          47.2603113
-        ],
-        [
-          8.6955089,
-          47.2604372
-        ],
-        [
-          8.6952483,
-          47.26054
-        ],
-        [
-          8.6952812,
-          47.2605784
-        ],
-        [
-          8.6949505,
-          47.2607089
-        ],
-        [
-          8.6948489,
-          47.2605903
         ]
       ]
     ]
@@ -24550,6 +24595,121 @@
         [
           8.5324622,
           47.3117225
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/25812115",
+  "properties": {
+    "addr:city": "Männedorf",
+    "addr:housenumber": "5",
+    "addr:postcode": "8708",
+    "addr:street": "Appisbergstrasse",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "social_facility": "group_home",
+    "id": "way/25812115"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6943947,
+          47.260472
+        ],
+        [
+          8.6945329,
+          47.2606414
+        ],
+        [
+          8.6945515,
+          47.2606642
+        ],
+        [
+          8.6945689,
+          47.2606855
+        ],
+        [
+          8.694305,
+          47.2607864
+        ],
+        [
+          8.694272,
+          47.260747
+        ],
+        [
+          8.6941795,
+          47.2606365
+        ],
+        [
+          8.694168,
+          47.2606228
+        ],
+        [
+          8.6943947,
+          47.260472
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/25812119",
+  "properties": {
+    "addr:city": "Männedorf",
+    "addr:housenumber": "7",
+    "addr:postcode": "8708",
+    "addr:street": "Appisbergstrasse",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "name": "Allmendhöfli",
+    "social_facility": "group_home",
+    "id": "way/25812119"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6948489,
+          47.2605903
+        ],
+        [
+          8.6951254,
+          47.2604812
+        ],
+        [
+          8.6950863,
+          47.2604356
+        ],
+        [
+          8.6954011,
+          47.2603113
+        ],
+        [
+          8.6955089,
+          47.2604372
+        ],
+        [
+          8.6952483,
+          47.26054
+        ],
+        [
+          8.6952812,
+          47.2605784
+        ],
+        [
+          8.6949505,
+          47.2607089
+        ],
+        [
+          8.6948489,
+          47.2605903
         ]
       ]
     ]
