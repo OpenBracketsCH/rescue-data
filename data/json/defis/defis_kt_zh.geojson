@@ -34086,11 +34086,13 @@
   "type": "Feature",
   "id": "node/10177774017",
   "properties": {
-    "defibrillator:location": "ASVZ Kraftraum Wädenswil",
+    "access": "permissive",
+    "defibrillator:location": "EG, ASVZ Kraftraum Wädenswil",
     "description": "NUR während der Öffnungszeit und mit einem ASVZ Login erreichbar.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "opening_hours": "Mo-Fr 06:30-21:45; Sa 09:00-17:45",
     "operator": "ASVZ",
     "phone": "+41 58 934 67 10",
@@ -34489,12 +34491,13 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Im Eingangsbereich von beiden Häuser (Hausnummer 40 und 42)",
-    "description": "während Öffnungszeiten verfügbar",
+    "description": "ZURZEIT AUSSER BETRIEB",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "operator": "Verwaltung PRIVERA AG Dättwil",
-    "phone": "+41 58 715 79 74",
+    "level": "0",
+    "operator": "Verwaltung SIDENZIA AG Wallisellen",
+    "phone": "+41 43 233 62 62",
     "id": "node/10226015590"
   },
   "geometry": {
@@ -40903,13 +40906,14 @@
   "id": "node/10763310020",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "EG, Korridor (RC E0.60)",
+    "defibrillator:location": "EG Korridor, RC E0.60",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "name": "Zürcher Hochschule für Angewandte Wissenschaften",
-    "opening_hours": "Mo-Fr 07:00-19:00, Sa 07:00-14:00",
+    "opening_hours": "Mo-Fr 07:00-17:15",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763310020"
@@ -40917,8 +40921,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.68831,
-      47.21917
+      8.6882993,
+      47.2190297
     ]
   }
 },
@@ -40927,13 +40931,14 @@
   "id": "node/10763310021",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "1.OG, Foyer (RT 143)",
+    "defibrillator:location": "1.OG Foyer, RT 143",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "1",
     "name": "Zürcher Hochschule für Angewandte Wissenschaften",
-    "opening_hours": "Mo-Fr 07:00-19:00, Sa 07:00-14:00",
+    "opening_hours": "Mo-Fr 07:00-17:15",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763310021"
@@ -40941,8 +40946,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.68765,
-      47.21929
+      8.6876393,
+      47.2192244
     ]
   }
 },
@@ -40975,13 +40980,14 @@
   "id": "node/10763310023",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "EG, Foyer (RA E0.61)",
+    "defibrillator:location": "EG Foyer, RA E0.61",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "name": "Zürcher Hochschule für Angewandte Wissenschaften",
-    "opening_hours": "Mo-Fr 07:00-19:00, Sa 07:00-14:00",
+    "opening_hours": "Mo-Fr 07:00-17:15",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763310023"
@@ -40989,8 +40995,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6795,
-      47.22492
+      8.6789129,
+      47.2252525
     ]
   }
 },
@@ -40999,13 +41005,14 @@
   "id": "node/10763310024",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "EG, Eingangshalle (GA 200)",
+    "defibrillator:location": "EG Eingangshalle, GA 200",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "name": "Zürcher Hochschule für Angewandte Wissenschaften",
-    "opening_hours": "Mo-Fr 07:00-19:00, Sa 07:00-14:00",
+    "opening_hours": "Mo-Fr 07:00-17:15",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763310024"
@@ -41013,8 +41020,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.67992,
-      47.21836
+      8.6796113,
+      47.2188503
     ]
   }
 },
@@ -41023,13 +41030,14 @@
   "id": "node/10763310025",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "EG, Windfang (GB 100.2)",
+    "defibrillator:location": "EG Windfang, GB 100.2",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "name": "Zürcher Hochschule für Angewandte Wissenschaften",
-    "opening_hours": "Mo-Fr 07:00-19:00, Sa 07:00-14:00",
+    "opening_hours": "Mo-Fr 07:00-17:15",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763310025"
@@ -41038,7 +41046,7 @@
     "type": "Point",
     "coordinates": [
       8.67988,
-      47.2183
+      47.2182999
     ]
   }
 },
@@ -41047,13 +41055,14 @@
   "id": "node/10763310026",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "EG, Korridor (GC 100.1)",
+    "defibrillator:location": "EG Korridor, GC 100.1",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "name": "Zürcher Hochschule für Angewandte Wissenschaften",
-    "opening_hours": "Mo-Fr 07:00-19:00, Sa 07:00-14:00",
+    "opening_hours": "Mo-Fr 07:00-17:15",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763310026"
@@ -41061,8 +41070,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.68062,
-      47.21784
+      8.6808528,
+      47.2177454
     ]
   }
 },
@@ -41071,13 +41080,14 @@
   "id": "node/10763310027",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "1.OG, Windfang (GD 200.7)",
+    "defibrillator:location": "1.OG Windfang, GD 200.7",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "1",
     "name": "Zürcher Hochschule für Angewandte Wissenschaften",
-    "opening_hours": "Mo-Fr 07:00-19:00, Sa 07:00-14:00",
+    "opening_hours": "Mo-Fr 07:00-17:15",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763310027"
@@ -41085,8 +41095,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.67994,
-      47.21951
+      8.6799751,
+      47.21961
     ]
   }
 },
@@ -41119,13 +41129,14 @@
   "id": "node/10763310029",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "EG, Eingang Treppe (GS",
+    "defibrillator:location": "EG Eingang, GS 1.1",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "name": "Zürcher Hochschule für Angewandte Wissenschaften",
-    "opening_hours": "Mo-Fr 07:00-19:00, Sa 07:00-14:00",
+    "opening_hours": "Mo-Fr 07:00-17:15",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763310029"
@@ -41133,7 +41144,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.67664,
+      8.6766401,
       47.22305
     ]
   }
@@ -42224,29 +42235,6 @@
     "coordinates": [
       8.52314,
       47.31493
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10763310077",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Theke bei Empfang",
-    "description": "oranger Koffer",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "name": "LzLabs GmbH",
-    "operator": "Lifetec AG Schweiz",
-    "phone": "+41 800 122 144",
-    "id": "node/10763310077"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.59624,
-      47.40995
     ]
   }
 },
@@ -45652,15 +45640,17 @@
   "type": "Feature",
   "id": "node/11037266739",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Gebäude RD EG Foyer (E0.66)",
+    "access": "yes",
+    "defibrillator:location": "EG Foyer, RD E0.66",
+    "description": "ja",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "latitude": "47.21884734",
+    "level": "0",
     "longitude": "8.688470348",
     "name": "ZHAW Wädenswil Campus Reidbach",
-    "opening_hours": "Mo-Fr 08:00-12:00, 14:00-16:00",
+    "opening_hours": "Mo-Fr 07:00-17:15",
     "operator": "Lifetec AG",
     "phone": "+41 800 122 144",
     "id": "node/11037266739"
@@ -45668,8 +45658,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6884703,
-      47.2188473
+      8.6886671,
+      47.2189091
     ]
   }
 },
@@ -47159,12 +47149,13 @@
   "type": "Feature",
   "id": "node/11148833407",
   "properties": {
+    "access": "permissive",
     "defibrillator:location": "Appisberg Haus 3b",
     "description": "Gelbes Haus Eingang Nord.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr. 7:30 - 17:00",
+    "opening_hours": "Mo-Fr 07:30 - 17:00",
     "operator": "Verein Appisberg",
     "phone": "+41 43 843 44 10",
     "source": "local_knowledge, defikarte.ch",
@@ -47173,8 +47164,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6952764,
-      47.2657282
+      8.6952817,
+      47.2657253
     ]
   }
 },
@@ -71622,18 +71613,19 @@
   "type": "Feature",
   "id": "node/13033898930",
   "properties": {
-    "access": "private",
+    "access": "yes",
     "addr:city": "Wädenswil",
     "addr:housenumber": "27",
     "addr:postcode": "8820",
     "addr:street": "Müller-Thurgau-Strasse",
-    "defibrillator:location": "GU A2.2 Eingang",
+    "defibrillator:location": "EG Eingang Korridor, GU A1.3",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
     "name": "ZHWA Wädenswil",
+    "opening_hours": "Mo - Fr 07:00-17:15",
     "operator": "Lifetec AG",
     "phone": "+41800122144",
     "ref": "1588LTM",
@@ -71642,8 +71634,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6773801,
-      47.222142
+      8.6773116,
+      47.2221904
     ]
   }
 },
@@ -75403,6 +75395,59 @@
     "coordinates": [
       8.4788206,
       47.3825881
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13437169522",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Birmensdorf",
+    "addr:housenumber": "9",
+    "addr:postcode": "8903",
+    "addr:street": "Stallikonerstrasse",
+    "defibrillator:location": "Beim Eingangsbereich Eingang A",
+    "description": "Grüner Kasten",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "level": "0",
+    "name": "Gemeindeverwaltung Birmensdorf",
+    "opening_hours": "24/7",
+    "operator": "Lifetec AG",
+    "phone": "0800122144",
+    "ref": "1628LTC",
+    "id": "node/13437169522"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4383092,
+      47.354807
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13437800201",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "EG Eingang Korridor, GO EO.60",
+    "description": "oranger Koffer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:00-17:15",
+    "operator": "Lifetec AG Schweiz",
+    "phone": "+41 800 122 144",
+    "id": "node/13437800201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6799065,
+      47.2185755
     ]
   }
 }

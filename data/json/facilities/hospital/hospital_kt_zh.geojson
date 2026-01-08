@@ -11511,6 +11511,30 @@
       47.3608591
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13437827163",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "1",
+    "addr:postcode": "8045",
+    "addr:street": "Kalanderplatz",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "dermatology",
+    "name": "Derma Medical Clinic AG",
+    "operator": "Derma Medical Clinic AG",
+    "operator:type": "business",
+    "id": "node/13437827163"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5230804,
+      47.3576161
+    ]
+  }
 }
 ]
 }

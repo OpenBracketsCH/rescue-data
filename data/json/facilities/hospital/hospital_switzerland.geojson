@@ -45011,8 +45011,8 @@
     "coordinates": [
       [
         [
-          8.9202279,
-          47.6460594
+          8.920375,
+          47.6460236
         ],
         [
           8.9200401,
@@ -45063,32 +45063,28 @@
           47.6460783
         ],
         [
-          8.9190906,
-          47.6455317
+          8.9189203,
+          47.6455344
         ],
         [
-          8.9192221,
-          47.6456564
+          8.9194045,
+          47.6453655
         ],
         [
-          8.919434,
-          47.6455371
+          8.9196955,
+          47.6453419
         ],
         [
-          8.9197719,
-          47.6457757
+          8.9200087,
+          47.6457276
         ],
         [
-          8.9199784,
-          47.6458787
+          8.9202409,
+          47.6459123
         ],
         [
-          8.9202252,
-          47.6459582
-        ],
-        [
-          8.9202279,
-          47.6460594
+          8.920375,
+          47.6460236
         ]
       ]
     ]
@@ -59499,6 +59495,30 @@
     "coordinates": [
       8.5293884,
       47.3608591
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13437827163",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "1",
+    "addr:postcode": "8045",
+    "addr:street": "Kalanderplatz",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "dermatology",
+    "name": "Derma Medical Clinic AG",
+    "operator": "Derma Medical Clinic AG",
+    "operator:type": "business",
+    "id": "node/13437827163"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5230804,
+      47.3576161
     ]
   }
 }
