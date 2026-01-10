@@ -29400,6 +29400,7 @@
   "id": "way/705780957",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-01-09",
     "contact:city": "Wickenweg",
     "contact:housenumber": "18",
     "contact:phone": "+41 44 413 75 49",
@@ -37485,6 +37486,7 @@
     "addr:country": "CH",
     "addr:postcode": "8050",
     "amenity": "kindergarten",
+    "check_date": "2026-01-09",
     "name": "Kinderkrippe Schnappi",
     "id": "node/419866126"
   },
