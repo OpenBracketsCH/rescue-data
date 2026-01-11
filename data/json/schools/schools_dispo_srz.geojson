@@ -4874,6 +4874,7 @@
     "addr:street": "Kirchbühlstrasse",
     "amenity": "school",
     "building": "yes",
+    "education": "school",
     "name": "Bildungszentrum Zürichsee",
     "website": "http://www.bzzuerichsee.ch/",
     "id": "way/23660736"
@@ -4911,8 +4912,16 @@
           47.2401704
         ],
         [
+          8.7286597,
+          47.2401785
+        ],
+        [
           8.7287177,
           47.240274
+        ],
+        [
+          8.7286767,
+          47.2402855
         ],
         [
           8.7285793,
@@ -6364,6 +6373,7 @@
   "id": "way/25925181",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "name": "Kirchbühl",
     "id": "way/25925181"
   },
@@ -6524,6 +6534,7 @@
   "id": "way/25925184",
   "properties": {
     "amenity": "school",
+    "education": "school",
     "name": "Schulanlage Obstgarten",
     "id": "way/25925184"
   },
@@ -6568,6 +6579,10 @@
           47.2410027
         ],
         [
+          8.7318631,
+          47.2409031
+        ],
+        [
           8.7319165,
           47.2408927
         ],
@@ -6584,12 +6599,16 @@
           47.2412026
         ],
         [
-          8.7324206,
-          47.2414489
+          8.7321601,
+          47.2412076
         ],
         [
-          8.7326717,
-          47.241689
+          8.7324241,
+          47.2414522
+        ],
+        [
+          8.7326737,
+          47.2416911
         ],
         [
           8.7327017,
@@ -6600,8 +6619,8 @@
           47.2421061
         ],
         [
-          8.7315363,
-          47.24219
+          8.7315649,
+          47.2421783
         ],
         [
           8.7314431,
@@ -6614,6 +6633,10 @@
         [
           8.7299849,
           47.242794
+        ],
+        [
+          8.7299339,
+          47.242771
         ],
         [
           8.7296859,
@@ -25343,6 +25366,10 @@
   "id": "way/54362437",
   "properties": {
     "addr:city": "Baar",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "6340",
+    "addr:street": "Sternmattstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Sternmatt I",
@@ -94352,6 +94379,7 @@
   "id": "way/409633918",
   "properties": {
     "amenity": "school",
+    "check_date": "2026-01-09",
     "grades": "0",
     "name": "Kindergarten Inneres Lind",
     "operator": "Stadt Winterthur",
@@ -94408,6 +94436,7 @@
   "id": "way/409633919",
   "properties": {
     "amenity": "school",
+    "check_date": "2026-01-09",
     "name": "itw",
     "operator": "Integrale Tagesschule Winterthur",
     "website": "https://www.itw-oberstufe.ch/",

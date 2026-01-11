@@ -2660,6 +2660,10 @@
   "id": "way/54362437",
   "properties": {
     "addr:city": "Baar",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "6340",
+    "addr:street": "Sternmattstrasse",
     "amenity": "school",
     "building": "yes",
     "name": "Sternmatt I",

@@ -14589,8 +14589,12 @@
           47.2980257
         ],
         [
-          9.0838771,
-          47.2974627
+          9.0838458,
+          47.2974263
+        ],
+        [
+          9.0840226,
+          47.2973836
         ],
         [
           9.0842173,
@@ -52412,6 +52416,25 @@
     "coordinates": [
       8.74234,
       47.1367341
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3050580592",
+  "properties": {
+    "addr:country": "CH",
+    "addr:street": "Corso San Gottardo",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Centro Medico",
+    "id": "node/3050580592"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0283885,
+      45.8348234
     ]
   }
 },

@@ -11258,6 +11258,7 @@
     "defibrillator:location": "am Fronwagplatz, an der Lampe",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "highway": "street_lamp",
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Stadt Schaffhausen",
@@ -86933,8 +86934,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5493588,
-      47.3760855
+      8.5491417,
+      47.3765932
     ]
   }
 },
