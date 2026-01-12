@@ -26306,6 +26306,10 @@
   "type": "Feature",
   "id": "way/416547932",
   "properties": {
+    "addr:city": "Lustmühle",
+    "addr:housenumber": "8",
+    "addr:postcode": "9062",
+    "addr:street": "Battenhusstrasse",
     "amenity": "clinic",
     "building": "yes",
     "name": "Haus T",
