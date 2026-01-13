@@ -38668,6 +38668,7 @@
     "addr:street": "Güterstrasse",
     "amenity": "school",
     "building": "yes",
+    "education": "school",
     "name": "Kompass",
     "id": "way/121084683"
   },

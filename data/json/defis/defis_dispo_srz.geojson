@@ -19108,27 +19108,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8450820917",
-  "properties": {
-    "defibrillator:location": "Im Feuerwehr Depot",
-    "description": "unter Tel. Nummer 118 Anfordern",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "operator": "Feuerwehr Männedorf",
-    "phone": "+41 44 920 55 00",
-    "id": "node/8450820917"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7016802,
-      47.2578261
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8453143076",
   "properties": {
     "access": "yes",
@@ -22328,7 +22307,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8267582,
+      8.8267583,
       47.5404224
     ]
   }
@@ -48075,30 +48054,6 @@
     "coordinates": [
       8.5832532,
       47.2666524
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10555091109",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "ZHAW Campus Reidbach",
-    "description": "Empfang Gebäude RT",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "1",
-    "opening_hours": "Mo-Fr 07:00-19:00",
-    "operator": "ZHAW",
-    "phone": "+41589345000",
-    "id": "node/10555091109"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6876515,
-      47.2193053
     ]
   }
 },
@@ -96812,6 +96767,72 @@
     "coordinates": [
       8.604645,
       47.3460794
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13450362501",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Gewerbestrasse 3 beim Feuerwehr-Depot",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Feuerwehr Männedorf Uetikon",
+    "phone": "+41 44 920 55 00",
+    "id": "node/13450362501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7016799,
+      47.2578291
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13450522201",
+  "properties": {
+    "defibrillator:location": "Steinbislin 2",
+    "description": "während Öffnungszeiten Verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 06:30-12:00, 13:00-17:30",
+    "operator": "Strüby Konzept AG",
+    "phone": "+41418183570",
+    "id": "node/13450522201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.62941,
+      47.0328143
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13451243101",
+  "properties": {
+    "defibrillator:location": "Nebeneingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "HHM",
+    "id": "node/13451243101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5208042,
+      47.1839734
     ]
   }
 }
