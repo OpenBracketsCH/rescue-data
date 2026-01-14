@@ -52212,6 +52212,10 @@
     "addr:postcode": "8049",
     "addr:street": "Naglerwiesenstrasse",
     "amenity": "social_facility",
+    "email": "info@espas.ch",
+    "name": "ESPAS",
+    "phone": "+41 44 344 31 31",
+    "website": "https://www.espas.ch/ueber-espas/standorte/standort-zuerich/",
     "id": "node/3881850631"
   },
   "geometry": {

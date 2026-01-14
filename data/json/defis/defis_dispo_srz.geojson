@@ -12586,6 +12586,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "wheelchair": "yes",
     "id": "node/7930278099"
   },
   "geometry": {
@@ -54240,14 +54241,15 @@
   "type": "Feature",
   "id": "node/10763310022",
   "properties": {
-    "access": "yes",
+    "access": "private",
     "defibrillator:location": "EG, vor Aufenthalt (RU 100.3)",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "1",
     "name": "Zürcher Hochschule für Angewandte Wissenschaften",
-    "opening_hours": "Mo-Fr 07:00-19:00, Sa 07:00-14:00",
+    "opening_hours": "Mo-Fr 07:00-17:15",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/10763310022"
@@ -54255,7 +54257,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6863663,
+      8.6863662,
       47.2201264
     ]
   }
@@ -96833,6 +96835,30 @@
     "coordinates": [
       8.5208042,
       47.1839734
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13451962078",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "An der Wand zwischen Tür und Rahmen zu den Toiletten",
+    "defibrillator:location:en": "At the wall in between door and frame to toilets",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Tu 07:15-17:00; We-Fr 07:15-16:00",
+    "operator": "Strassenverkehrsamt Kanton Zürich",
+    "phone": "+41 43 257 00 00",
+    "id": "node/13451962078"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6938368,
+      47.5150403
     ]
   }
 }
