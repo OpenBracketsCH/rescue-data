@@ -3030,7 +3030,7 @@
   "id": "way/1190139545",
   "properties": {
     "amenity": "kindergarten",
-    "isced:level": "n",
+    "isced:level": "0",
     "id": "way/1190139545"
   },
   "geometry": {

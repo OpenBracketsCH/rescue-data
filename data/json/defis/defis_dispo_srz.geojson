@@ -51776,12 +51776,13 @@
   "type": "Feature",
   "id": "node/10763276802",
   "properties": {
-    "access": "yes",
+    "access": "customers",
     "defibrillator:location": "EG, Links neben Haupteingang. Grosse automatische Glastüre.",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "name": "Alpine Finanz Immobilien AG",
     "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "Lifetec AG Schweiz",
@@ -51791,8 +51792,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.55798,
-      47.43229
+      8.5579658,
+      47.4322427
     ]
   }
 },
@@ -63935,8 +63936,8 @@
   "type": "Feature",
   "id": "node/11266003470",
   "properties": {
-    "defibrillator:location": "Wacker Neuson",
-    "description": "nur zu den Öffnungszeiten verfügbar",
+    "defibrillator:location": "Beim Eingang zum Ersatzteildienst",
+    "description": "Nur zu den Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -96859,6 +96860,48 @@
     "coordinates": [
       8.6938368,
       47.5150403
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13456150101",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Rote Fabrik, Aktionshalle, Garderobe",
+    "description": "bei Veranstaltungen verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "id": "node/13456150101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5359912,
+      47.3432672
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13456393501",
+  "properties": {
+    "defibrillator:location": "ganz rechts neben Willkommenstafel im Decathlon Laden",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-20:00",
+    "operator": "Decathlon Filiale im Herblinger Markt",
+    "id": "node/13456393501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6650475,
+      47.7203038
     ]
   }
 }

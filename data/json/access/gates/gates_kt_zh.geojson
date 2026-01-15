@@ -90970,6 +90970,7 @@
   "id": "node/13180985806",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "1",
     "id": "node/13180985806"
   },
   "geometry": {
