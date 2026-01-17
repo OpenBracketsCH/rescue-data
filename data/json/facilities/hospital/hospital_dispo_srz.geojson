@@ -5470,71 +5470,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/339025313",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "8",
-    "addr:postcode": "8004",
-    "addr:street": "Militärstrasse",
-    "air_conditioning": "no",
-    "alt_name": "Kriesnintervention Zürich",
-    "amenity": "clinic",
-    "building": "yes",
-    "check_date": "2024-10-27",
-    "email": "tagesklinik.militaerstrasse@puk.zh.ch",
-    "healthcare": "clinic",
-    "healthcare:speciality": "psychiatry",
-    "name": "KIZ Tagesklinik Militärstrasse",
-    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
-    "operator": "Psychiatrische Universitätsklinik Zürich",
-    "operator:type": "public",
-    "phone": "+41 44 296 74 81",
-    "website": "https://www.pukzh.ch/unterlagen/behandlungsangebote/tagesklinik-militaerstrasse/",
-    "wheelchair": "yes",
-    "id": "way/339025313"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5335063,
-          47.3763225
-        ],
-        [
-          8.5334914,
-          47.3763135
-        ],
-        [
-          8.5333691,
-          47.3762379
-        ],
-        [
-          8.5334238,
-          47.3761936
-        ],
-        [
-          8.5334797,
-          47.3761506
-        ],
-        [
-          8.5335966,
-          47.3762385
-        ],
-        [
-          8.5336169,
-          47.3762539
-        ],
-        [
-          8.5335063,
-          47.3763225
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/370366918",
   "properties": {
     "addr:city": "Lachen",
@@ -14609,6 +14544,37 @@
     "coordinates": [
       8.5230804,
       47.3576161
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13460825695",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "8",
+    "addr:postcode": "8004",
+    "addr:street": "Militärstrasse",
+    "air_conditioning": "no",
+    "alt_name": "Kriesnintervention Zürich",
+    "amenity": "clinic",
+    "email": "tagesklinik.militaerstrasse@puk.zh.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "psychiatry",
+    "name": "KIZ Tagesklinik Militärstrasse",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
+    "operator": "Psychiatrische Universitätsklinik Zürich",
+    "operator:type": "public",
+    "phone": "+41 44 296 74 81",
+    "website": "https://www.pukzh.ch/unterlagen/behandlungsangebote/tagesklinik-militaerstrasse/",
+    "wheelchair": "yes",
+    "id": "node/13460825695"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5335242,
+      47.3762705
     ]
   }
 }

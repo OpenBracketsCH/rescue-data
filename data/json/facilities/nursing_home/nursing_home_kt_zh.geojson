@@ -8292,10 +8292,14 @@
   "type": "Feature",
   "id": "way/112898534",
   "properties": {
+    "addr:city": "Winterthur",
     "addr:housenumber": "3",
+    "addr:postcode": "8404",
     "addr:street": "Hegifeldstrasse",
     "building": "yes",
+    "building:levels": "2",
     "name": "Haus Hegifeld",
+    "roof:levels": "2",
     "social_facility": "nursing_home",
     "id": "way/112898534"
   },

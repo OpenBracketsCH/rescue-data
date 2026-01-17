@@ -14441,11 +14441,13 @@
     "addr:street": "Zum Park",
     "amenity": "social_facility",
     "building": "yes",
+    "building:levels": "3",
     "check_date": "2024-05-23",
     "email": "sekretariat@somosa.ch",
     "name": "Modellstation Somosa",
     "operator": "Stiftung Somosa",
     "phone": "+41 52 244 50 00",
+    "roof:shape": "flat",
     "source": "Bing",
     "website": "https://www.somosa.ch/home",
     "id": "way/105307668"

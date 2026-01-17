@@ -39463,30 +39463,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10763309951",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Im Büro Direktion, 2.OG",
-    "description": "gelber Koffer",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "name": "LSI Zürich",
-    "opening_hours": "Mo-Th 08:30-18:30; Fr 08:30-17:30",
-    "operator": "Lifetec AG Schweiz",
-    "phone": "+41 800 122 144",
-    "id": "node/10763309951"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.55017,
-      47.36329
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10763309952",
   "properties": {
     "defibrillator:location": "Eingangsbereich, 1.OG Büroräumlichkeiten",
@@ -75490,6 +75466,29 @@
     "coordinates": [
       8.8092696,
       47.3330606
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13460742101",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Gebäude von JOHO/Reproad/Lilly, neben dem Tor",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "JOHO Baukeramik + Bäder AG",
+    "phone": "+41 56 648 48 88",
+    "id": "node/13460742101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6092637,
+      47.3940233
     ]
   }
 }

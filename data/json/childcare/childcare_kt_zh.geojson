@@ -14533,6 +14533,7 @@
   "id": "node/11486572489",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2026-01-16",
     "email": "mupfelchischte@abbkinderkrippen.ch",
     "name": "ABB Kinderkrippe Mupfelchischte",
     "opening_hours": "Mo-Fr 07:00-18:30",

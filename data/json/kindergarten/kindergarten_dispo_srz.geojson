@@ -9806,6 +9806,7 @@
     "building": "school",
     "building:levels": "1",
     "building:roof": "flat",
+    "education": "kindergarten",
     "name": "Kindergarten Hegifeld",
     "roof:levels": "0",
     "id": "way/109298062"
@@ -38386,7 +38387,7 @@
     "addr:housenumber": "117a",
     "addr:street": "Bachwiesenstrasse",
     "amenity": "kindergarten",
-    "check_date": "2023-12-17",
+    "check_date": "2026-01-16",
     "name": "Krippe Schmetterling",
     "phone": "+41 44 492 60 02",
     "website": "https://www.krippe-schmetterling.ch/",

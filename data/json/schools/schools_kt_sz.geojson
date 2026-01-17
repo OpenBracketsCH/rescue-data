@@ -2773,6 +2773,7 @@
     "addr:street": "Dörflistrasse",
     "amenity": "school",
     "building": "yes",
+    "check_date": "2026-01-16",
     "name": "Primarschule Studen",
     "source": "bing",
     "id": "way/197343563"
