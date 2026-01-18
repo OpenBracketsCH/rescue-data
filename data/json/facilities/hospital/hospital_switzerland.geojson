@@ -10039,7 +10039,7 @@
     "addr:city": "Biel/Bienne",
     "addr:postcode": "2502",
     "amenity": "clinic",
-    "building": "yes",
+    "building": "hospital",
     "building:levels": "4",
     "email": "wic@mzb-cmb.ch",
     "fax": "+41 32 344 46 30",
