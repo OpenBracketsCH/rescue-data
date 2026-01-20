@@ -24578,8 +24578,16 @@
           46.9695793
         ],
         [
+          9.482678,
+          46.9695823
+        ],
+        [
           9.4826703,
           46.9695826
+        ],
+        [
+          9.4826698,
+          46.9695776
         ],
         [
           9.4826629,
@@ -24618,8 +24626,8 @@
           46.9693895
         ],
         [
-          9.4822314,
-          46.9693949
+          9.482228,
+          46.969394
         ],
         [
           9.4818521,
@@ -50362,6 +50370,7 @@
     "addr:postcode": "9000",
     "addr:street": "Rorschacher Strasse",
     "amenity": "hospital",
+    "building": "hospital",
     "building:levels": "3",
     "emergency": "no",
     "healthcare": "hospital",
@@ -50587,6 +50596,55 @@
         [
           7.9455779,
           47.2952857
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1457725124",
+  "properties": {
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "10",
+    "addr:postcode": "9000",
+    "addr:street": "Spitalstrasse",
+    "amenity": "hospital",
+    "building": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Ostschweizer Kinderspital",
+    "operator": "Ostschweizer Kinderspital",
+    "operator:type": "public",
+    "id": "way/1457725124"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.3880294,
+          47.4306958
+        ],
+        [
+          9.3882739,
+          47.4304362
+        ],
+        [
+          9.3888345,
+          47.4306807
+        ],
+        [
+          9.3883919,
+          47.4311415
+        ],
+        [
+          9.3878368,
+          47.4309052
+        ],
+        [
+          9.3880294,
+          47.4306958
         ]
       ]
     ]
@@ -55975,8 +56033,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      9.0838531,
-      47.2981793
+      9.083915,
+      47.2982064
     ]
   }
 },
@@ -56021,8 +56079,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      9.0843135,
-      47.2980571
+      9.0839396,
+      47.2976888
     ]
   }
 },
@@ -56038,8 +56096,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      9.0838964,
-      47.2975781
+      9.0843542,
+      47.2980344
     ]
   }
 },
@@ -56254,8 +56312,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      9.0876137,
-      47.2984277
+      9.0875689,
+      47.2984448
     ]
   }
 },
@@ -57047,6 +57105,7 @@
   "id": "node/11071629226",
   "properties": {
     "amenity": "clinic",
+    "check_date": "2026-01-19",
     "name": "Physiozentrum",
     "website": "https://www.physiozentrum.ch/basel-sbb/",
     "id": "node/11071629226"
@@ -59344,30 +59403,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/13369136998",
-  "properties": {
-    "addr:city": "St. Gallen",
-    "addr:housenumber": "10",
-    "addr:postcode": "9000",
-    "addr:street": "Spitalstrasse",
-    "amenity": "hospital",
-    "emergency": "yes",
-    "healthcare": "hospital",
-    "name": "Ostschweizer Kinderspital",
-    "operator": "Ostschweizer Kinderspital",
-    "operator:type": "public",
-    "id": "node/13369136998"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      9.3882134,
-      47.4309971
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/13429961779",
   "properties": {
     "addr:city": "Zürich",
@@ -59476,6 +59511,108 @@
     "coordinates": [
       8.5335242,
       47.3762705
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13468091582",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "xundart",
+    "id": "node/13468091582"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.084299,
+      47.2986547
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13468091583",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Gastrozentrum",
+    "id": "node/13468091583"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0843014,
+      47.2985722
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13468091584",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Nierenpraxis und Dialyse",
+    "id": "node/13468091584"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0843499,
+      47.2981279
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13468091585",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Orthopädie Rosenberg",
+    "id": "node/13468091585"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.08433,
+      47.2983799
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13468091586",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Pneumologie",
+    "id": "node/13468091586"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0843086,
+      47.2984879
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13468135678",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Zentrum Labormedizin",
+    "id": "node/13468135678"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0840257,
+      47.2983819
     ]
   }
 }

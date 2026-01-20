@@ -12807,6 +12807,7 @@
     "amenity": "social_facility",
     "building": "yes",
     "building:levels": "3",
+    "check_date": "2026-01-19",
     "name": "Haus Zelgli",
     "phone": "+41 44 952 56 56",
     "social_facility": "nursing_home",
