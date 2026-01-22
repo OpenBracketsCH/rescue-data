@@ -6448,7 +6448,7 @@
   "id": "node/4081379789",
   "properties": {
     "amenity": "childcare",
-    "check_date": "2023-07-21",
+    "check_date": "2025-12-22",
     "email": "info@familienzentrum-winterthur.ch",
     "name": "Familienzentrum Winterthur",
     "operator": "Familienzentrum Winterthur",
@@ -8856,6 +8856,7 @@
   "id": "node/7580199378",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2025-12-10",
     "name": "Joey's Kinderkrippe",
     "id": "node/7580199378"
   },

@@ -72669,6 +72669,7 @@
     "building:levels": "5",
     "check_date": "2025-05-17",
     "name": "Lycée Français de Zurich",
+    "roof:shape": "flat",
     "id": "way/402764374"
   },
   "geometry": {

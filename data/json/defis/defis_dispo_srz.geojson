@@ -1947,8 +1947,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6745851,
-      47.1059656
+      8.6745948,
+      47.105964
     ]
   }
 },
@@ -6345,12 +6345,10 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "im Turm",
-    "description": "8. Stock: Immer öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "8",
-    "opening_hours": "24/7",
     "id": "node/7592872950"
   },
   "geometry": {
@@ -6389,12 +6387,13 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Bei Sektor T (Gang)",
-    "description": "7. Stock: Immer öffentlich zugänglich",
+    "description": "7. Stock",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "7",
-    "opening_hours": "24/7",
+    "opening_hours": "07:00 - 21:00",
+    "operator": "ZHdK",
     "id": "node/7592872952"
   },
   "geometry": {
@@ -6433,12 +6432,12 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Treppenhaus",
-    "description": "5. Stock: Immer öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "5",
-    "opening_hours": "24/7",
+    "opening_hours": "07:00 - 21:00",
+    "operator": "ZHdK",
     "id": "node/7592872954"
   },
   "geometry": {
@@ -6455,12 +6454,13 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "im Turm",
-    "description": "2. Stock: Immer öffentlich zugänglich",
+    "description": "2. Stock",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "2",
-    "opening_hours": "24/7",
+    "opening_hours": "07:00 - 21:00",
+    "operator": "ZHdK",
     "id": "node/7592872955"
   },
   "geometry": {
@@ -6499,12 +6499,13 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Beim Empfang",
-    "description": "3. Stock: Immer öffentlich zugänglich",
+    "description": "3. Stock",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "3",
-    "opening_hours": "24/7",
+    "opening_hours": "07:00 - 21:00",
+    "operator": "ZHdK",
     "id": "node/7592872957"
   },
   "geometry": {
@@ -6519,14 +6520,12 @@
   "type": "Feature",
   "id": "node/7592872958",
   "properties": {
-    "access": "yes",
+    "access": "private",
     "defibrillator:location": "Sektor D",
-    "description": "2. Stock: Immer öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "2",
-    "opening_hours": "24/7",
     "id": "node/7592872958"
   },
   "geometry": {
@@ -6541,14 +6540,12 @@
   "type": "Feature",
   "id": "node/7592872959",
   "properties": {
-    "access": "yes",
+    "access": "private",
     "defibrillator:location": "Bei Anlieferung Ost",
-    "description": "1. Stock: Immer öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "1",
-    "opening_hours": "24/7",
     "id": "node/7592872959"
   },
   "geometry": {
@@ -47132,6 +47129,7 @@
     "opening_hours": "Mo-Fr 08:30-16:30",
     "operator": "SERV",
     "phone": "+41585515555",
+    "source": "aed-source",
     "id": "node/10259007709"
   },
   "geometry": {
@@ -54128,12 +54126,12 @@
   "id": "node/10763310019",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "9.OG, Korridor (ZT 9.T;7.OG, Korridor (ZT 7.T)",
+    "defibrillator:location": "9.OG, Korridor (ZT 9.T); und 7.OG, Korridor (ZT 7.T)",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "9",
+    "level": "7",
     "name": "Zürcher Hochschule für Angewandte Wissenschaften",
     "opening_hours": "Mo-Sa 07:00-21:00, Su 07:00-17:00",
     "operator": "Lifetec AG Schweiz",
@@ -54144,7 +54142,7 @@
     "type": "Point",
     "coordinates": [
       8.5116,
-      47.39032
+      47.3903201
     ]
   }
 },
@@ -96973,6 +96971,30 @@
     "coordinates": [
       8.7261181,
       47.4772737
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13470324401",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Haupteingang 3.OG → rechts → rechts, zwischen Küche und Büro",
+    "description": "während der Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "3",
+    "opening_hours": "Mo-Fr 08:00 - 17:00",
+    "operator": "Confirm AG",
+    "phone": "+41 44 269 61 90",
+    "id": "node/13470324401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.521677,
+      47.36042
     ]
   }
 }
