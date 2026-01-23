@@ -396,9 +396,10 @@
   "type": "Feature",
   "id": "node/4716015142",
   "properties": {
-    "defibrillator:location": "Beim linken Eingang, unter dem Vordach",
+    "defibrillator:location": "Hinter dem Hauptgebäude an der Mauer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "level": "0",
     "opening_hours": "24/7",
     "operator": "Kanton Zug",
@@ -408,8 +409,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4405512,
-      47.2007369
+      8.4405222,
+      47.201108
     ]
   }
 },
@@ -46695,9 +46696,9 @@
   "type": "Feature",
   "id": "node/10226015590",
   "properties": {
-    "access": "yes",
-    "defibrillator:location": "Im Eingangsbereich von beiden Häuser (Hausnummer 40 und 42)",
-    "description": "ZURZEIT AUSSER BETRIEB",
+    "access": "permissive",
+    "defibrillator:location": "Im Eingangsbereich von beiden Häusern (Hausnummer 40 und 42)",
+    "description": "Während der Büroöffnungszeiten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -61410,14 +61411,12 @@
   "id": "node/11038063725",
   "properties": {
     "defibrillator:location": "Zurich HelpPoint Pfäffikon SZ",
-    "description": "während den Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr: 07.30 - 12.00; 13.30 - 16.30",
+    "opening_hours": "Mo-Fr 07:30-12:00,13:30-16:30",
     "operator": "Zürich Versicherungs-Gesellschaft AG",
     "phone": "+41800808080",
-    "source": "local_knowledge, defikarte.ch",
     "id": "node/11038063725"
   },
   "geometry": {
@@ -61590,14 +61589,12 @@
   "id": "node/11038063829",
   "properties": {
     "defibrillator:location": "Zurich HelpPoint Zug",
-    "description": "während den Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr: 07.30 - 12.00; 13.30 - 17.00",
+    "opening_hours": "Mo-Fr 07:30-12:00,13:30-17:00",
     "operator": "Zürich Versicherungs-Gesellschaft AG",
     "phone": "+41800808080",
-    "source": "local_knowledge, defikarte.ch",
     "id": "node/11038063829"
   },
   "geometry": {
@@ -63846,15 +63843,13 @@
   "id": "node/11257044437",
   "properties": {
     "defibrillator:location": "Baarermattstrasse 10, 6340 Baar",
-    "description": "während den Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "4",
-    "opening_hours": "Mo-Fr: 08.00 - 17.00",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "Sonio AG",
     "phone": "+41 41 768 40 40",
-    "source": "local_knowledge, defikarte.ch",
     "id": "node/11257044437"
   },
   "geometry": {
@@ -68363,12 +68358,14 @@
   "type": "Feature",
   "id": "node/11629971769",
   "properties": {
-    "access": "yes",
-    "defibrillator:location": "Soodring 6, Haupteingang",
+    "access": "private",
+    "defibrillator:location": "Soodring 6, Haupteingang (Reception)",
+    "description": "nicht öffentlich zugänglich, Zutritt via Reception",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 7:00-19:00",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:00-19:00",
     "operator": "Swiss Re",
     "phone": "+41 43 285 65 23",
     "source": "local_knowledge, defikarte.ch",
@@ -68378,7 +68375,7 @@
     "type": "Point",
     "coordinates": [
       8.5215856,
-      47.3165362
+      47.3165361
     ]
   }
 },
@@ -96995,6 +96992,74 @@
     "coordinates": [
       8.521677,
       47.36042
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13475872701",
+  "properties": {
+    "defibrillator:location": "Sportzentrum Dea",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Su 06:00-22:00",
+    "id": "node/13475872701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5351214,
+      47.5267648
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13476129801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Heilpädagogische Schule Waidhöchi",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "HPS Waidhöchi Heilpädagogische Schule",
+    "phone": "+41 44 728 90 60",
+    "id": "node/13476129801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6034618,
+      47.2535618
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13476530401",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Moosgartenweg 2 in Rüschlikon. Das Gebäude gehört der Kinderkrippe. Direkt beim Eingang ins Treppenhaus auf der linken Seite hängt das Gerät an der Wand.",
+    "description": "während Öffnungszeiten verfügbar.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 06:30-18:30",
+    "operator": "Kinderkrippe Nidelbad",
+    "phone": "+41 44 724 74 55",
+    "id": "node/13476530401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5491977,
+      47.3039149
     ]
   }
 }
