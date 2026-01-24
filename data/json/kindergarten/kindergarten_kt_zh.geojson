@@ -43237,6 +43237,7 @@
   "id": "node/10741192260",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-01-23",
     "name": "Kita Stockerstrasse",
     "id": "node/10741192260"
   },

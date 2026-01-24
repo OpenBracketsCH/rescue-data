@@ -5216,6 +5216,85 @@
 },
 {
   "type": "Feature",
+  "id": "way/479904467",
+  "properties": {
+    "access": "emergency",
+    "aeroway": "helipad",
+    "check_date": "2025-01-30",
+    "ref": "1",
+    "surface": "metal",
+    "id": "way/479904467"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.5843811,
+          47.5610502
+        ],
+        [
+          7.5843157,
+          47.560983
+        ],
+        [
+          7.5844154,
+          47.5609388
+        ],
+        [
+          7.5844807,
+          47.561006
+        ],
+        [
+          7.5843811,
+          47.5610502
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/479904468",
+  "properties": {
+    "access": "emergency",
+    "aeroway": "helipad",
+    "check_date": "2025-01-30",
+    "ref": "2",
+    "source": "survey",
+    "surface": "metal",
+    "id": "way/479904468"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.5846411,
+          47.561314
+        ],
+        [
+          7.5845697,
+          47.5612448
+        ],
+        [
+          7.5846751,
+          47.5611953
+        ],
+        [
+          7.5847465,
+          47.5612645
+        ],
+        [
+          7.5846411,
+          47.561314
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/498401934",
   "properties": {
     "aeroway": "helipad",
