@@ -7204,6 +7204,86 @@
 },
 {
   "type": "Feature",
+  "id": "way/99043000",
+  "properties": {
+    "addr:city": "Gossau (ZH)",
+    "addr:housenumber": "43",
+    "addr:postcode": "8625",
+    "addr:street": "Grütstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "building:levels": "3",
+    "email": "info@grueneck-dorf.ch",
+    "name": "Pflegewohngruppe Grüneck im Dorf",
+    "operator": "Stiftung Grüneck",
+    "phone": "+41 44 939 93 39",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.grueneck-gossau.ch/",
+    "id": "way/99043000"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7568063,
+          47.3075996
+        ],
+        [
+          8.7567383,
+          47.3073036
+        ],
+        [
+          8.7567457,
+          47.3073028
+        ],
+        [
+          8.7567355,
+          47.3072586
+        ],
+        [
+          8.7569107,
+          47.3072401
+        ],
+        [
+          8.7569258,
+          47.3073062
+        ],
+        [
+          8.7569366,
+          47.3073051
+        ],
+        [
+          8.7569727,
+          47.3074627
+        ],
+        [
+          8.7569595,
+          47.3074641
+        ],
+        [
+          8.7569738,
+          47.3075266
+        ],
+        [
+          8.75694,
+          47.3075301
+        ],
+        [
+          8.7569524,
+          47.3075841
+        ],
+        [
+          8.7568063,
+          47.3075996
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/99044489",
   "properties": {
     "addr:city": "Gossau ZH",
