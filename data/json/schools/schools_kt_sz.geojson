@@ -2116,6 +2116,7 @@
     "addr:street": "Schulhausstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2026-01-25",
     "name": "Schulhaus Wilen",
     "id": "way/195276985"
   },

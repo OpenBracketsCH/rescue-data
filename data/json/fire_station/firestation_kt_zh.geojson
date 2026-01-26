@@ -5977,6 +5977,7 @@
   "id": "node/2911963567",
   "properties": {
     "amenity": "fire_station",
+    "check_date": "2026-01-25",
     "name": "Feuerwehr Unteramt - Depot Stallikon",
     "id": "node/2911963567"
   },
