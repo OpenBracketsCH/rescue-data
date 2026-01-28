@@ -1225,46 +1225,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/99154221",
-  "properties": {
-    "addr:city": "Gossau ZH",
-    "addr:housenumber": "52",
-    "addr:postcode": "8625",
-    "addr:street": "Rebhaldenstrasse",
-    "amenity": "childcare",
-    "building": "yes",
-    "id": "way/99154221"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7674376,
-          47.3042102
-        ],
-        [
-          8.767588,
-          47.30413
-        ],
-        [
-          8.7676792,
-          47.3042086
-        ],
-        [
-          8.7675288,
-          47.3042888
-        ],
-        [
-          8.7674376,
-          47.3042102
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/99291199",
   "properties": {
     "addr:city": "Grüt (Gossau ZH)",
@@ -2210,99 +2170,6 @@
         [
           8.7613372,
           47.3029943
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/167199890",
-  "properties": {
-    "addr:city": "Gossau ZH",
-    "addr:housenumber": "25",
-    "addr:postcode": "8625",
-    "addr:street": "Laufenbachstrasse",
-    "amenity": "childcare",
-    "building": "yes",
-    "name": "Spielgruppe Teddybär",
-    "id": "way/167199890"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7583936,
-          47.3069637
-        ],
-        [
-          8.7583971,
-          47.3069814
-        ],
-        [
-          8.7584291,
-          47.3069785
-        ],
-        [
-          8.7584304,
-          47.3069847
-        ],
-        [
-          8.7586771,
-          47.3069622
-        ],
-        [
-          8.7586782,
-          47.3069637
-        ],
-        [
-          8.7587643,
-          47.3070829
-        ],
-        [
-          8.7587736,
-          47.3071297
-        ],
-        [
-          8.7585733,
-          47.307148
-        ],
-        [
-          8.7585761,
-          47.3071626
-        ],
-        [
-          8.7584121,
-          47.3071775
-        ],
-        [
-          8.7584081,
-          47.3071572
-        ],
-        [
-          8.7583441,
-          47.307163
-        ],
-        [
-          8.7582983,
-          47.307148
-        ],
-        [
-          8.7582833,
-          47.3070724
-        ],
-        [
-          8.7582674,
-          47.3070739
-        ],
-        [
-          8.7582482,
-          47.3069769
-        ],
-        [
-          8.7583936,
-          47.3069637
         ]
       ]
     ]
@@ -16477,6 +16344,23 @@
     "coordinates": [
       8.5570779,
       47.3634229
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13503232167",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Spielgruppe Teddybär",
+    "website": "https://fizgo.clubdesk.com/angebote/spielgruppe_teddybaer",
+    "id": "node/13503232167"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7669994,
+      47.3039078
     ]
   }
 }

@@ -7740,8 +7740,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4184402,
-      47.4144889
+      8.4184583,
+      47.4144971
     ]
   }
 },
@@ -91966,8 +91966,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.3911081,
-      47.402801
+      8.3911078,
+      47.4028008
     ]
   }
 },
@@ -93788,6 +93788,306 @@
     "coordinates": [
       8.6215299,
       47.4251858
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13504614857",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "level": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13504614857"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3921006,
+      47.4033427
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13504614865",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13504614865"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3922972,
+      47.4024767
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13504614866",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13504614866"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3923244,
+      47.4024532
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13504614867",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13504614867"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3923517,
+      47.4024298
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13504614870",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13504614870"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3922616,
+      47.4024755
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13504614937",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13504614937"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3927009,
+      47.4026536
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13504614938",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13504614938"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.392681,
+      47.4026706
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13504614939",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13504614939"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3927208,
+      47.4026365
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13504614961",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13504614961"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3930093,
+      47.4027831
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13504614962",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13504614962"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3930323,
+      47.4027952
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13504614963",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13504614963"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3929864,
+      47.4027709
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13504614972",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13504614972"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3927086,
+      47.4030406
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13504614973",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13504614973"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3927321,
+      47.4030535
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13504614974",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13504614974"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3926851,
+      47.4030278
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13504614994",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "level": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13504614994"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3922495,
+      47.4034056
     ]
   }
 }

@@ -10571,6 +10571,7 @@
     "addr:street": "Bächergässli",
     "amenity": "kindergarten",
     "building": "yes",
+    "check_date": "2026-01-27",
     "name": "Kindergarten Mehrzweckgebäude",
     "id": "way/123265061"
   },
@@ -34405,17 +34406,17 @@
   "type": "Feature",
   "id": "way/1274398123",
   "properties": {
-    "addr:city": "Dietikon",
-    "addr:housenumber": "2",
-    "addr:postcode": "8953",
-    "addr:street": "Kindergartenweg",
     "amenity": "kindergarten",
+    "contact:city": "Dietikon",
+    "contact:housenumber": "2",
+    "contact:phone": "+41 44 741 41 01",
+    "contact:postcode": "8953",
+    "contact:street": "Kindergartenweg",
+    "contact:website": "https://www.schule-dietikon.ch/schulhaeuser/6262",
     "name": "Kindergarten Breiti",
     "operator": "Stadt Dietikon",
-    "operator:type": "government",
-    "phone": "+41 44 741 41 01",
+    "operator:type": "public",
     "preschool": "yes",
-    "website": "https://www.schule-dietikon.ch/schulhaeuser/1598",
     "id": "way/1274398123"
   },
   "geometry": {
@@ -34423,23 +34424,31 @@
     "coordinates": [
       [
         [
-          8.3923923,
+          8.3923916,
           47.4027333
         ],
         [
-          8.3921772,
-          47.4029009
+          8.3921993,
+          47.4029082
         ],
         [
-          8.3918416,
-          47.402747
+          8.3918552,
+          47.4027367
         ],
         [
-          8.3920691,
-          47.402556
+          8.3920181,
+          47.4026006
         ],
         [
-          8.3923923,
+          8.3920473,
+          47.4025761
+        ],
+        [
+          8.3920677,
+          47.4025591
+        ],
+        [
+          8.3923916,
           47.4027333
         ]
       ]

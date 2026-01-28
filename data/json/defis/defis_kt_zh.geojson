@@ -6969,11 +6969,12 @@
   "type": "Feature",
   "id": "node/8080529362",
   "properties": {
-    "access": "yes",
+    "access": "private",
     "defibrillator:location": "Turnhalle, beim Bademeister anfordern",
-    "description": "während Öffnungszeiten verfügbar",
+    "description": "ab Mai 2027 während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "id": "node/8080529362"
   },
   "geometry": {
@@ -6988,18 +6989,19 @@
   "type": "Feature",
   "id": "node/8080529363",
   "properties": {
-    "access": "yes",
+    "access": "private",
     "defibrillator:location": "Schwimmbad, beim Bademeister",
-    "description": "während Öffnungszeiten verfügbar",
+    "description": "ab Mai 2027 während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "id": "node/8080529363"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5825295,
-      47.3442902
+      8.5825297,
+      47.3442898
     ]
   }
 },
@@ -75674,6 +75676,74 @@
     "coordinates": [
       8.5328099,
       47.368293
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13504452501",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "DSV SA",
+    "description": "Türe bei den LKW Rampen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "07:00 - 12:30 , 13:30 - 17:00",
+    "operator": "Firma",
+    "phone": "+41 79 827 51 90",
+    "id": "node/13504452501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6863343,
+      47.4389177
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13504736601",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Stiftung AbeggHuus Pflegezentrum",
+    "description": "Personal kontaktieren",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "24/7",
+    "operator": "Stiftung AbeggHuus",
+    "phone": "+41447046171",
+    "id": "node/13504736601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5534821,
+      47.3066987
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13505334403",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Hof Metzgerei Volkart",
+    "description": "öffentlich zugänglich an Hauswand angebracht. Auf der Seite zwischen Volg und Metzgerei.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "id": "node/13505334403"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5154996,
+      47.5232796
     ]
   }
 }

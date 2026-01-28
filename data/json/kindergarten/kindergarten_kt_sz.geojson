@@ -11,6 +11,7 @@
     "addr:street": "Bächergässli",
     "amenity": "kindergarten",
     "building": "yes",
+    "check_date": "2026-01-27",
     "name": "Kindergarten Mehrzweckgebäude",
     "id": "way/123265061"
   },

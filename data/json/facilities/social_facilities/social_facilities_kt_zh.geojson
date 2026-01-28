@@ -43123,6 +43123,29 @@
 },
 {
   "type": "Feature",
+  "id": "node/4081379804",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "55a",
+    "addr:postcode": "8405",
+    "addr:street": "Landvogt-Waser-Strasse",
+    "amenity": "social_facility",
+    "name": "Spitex-Zentrum Seen",
+    "operator": "Stadt Winterthur",
+    "operator:type": "government",
+    "social_facility": "ambulatory_care",
+    "id": "node/4081379804"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7628475,
+      47.4870016
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4109460420",
   "properties": {
     "addr:city": "Winterthur",
