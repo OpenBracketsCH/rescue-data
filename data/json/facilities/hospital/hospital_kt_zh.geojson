@@ -11414,6 +11414,7 @@
     "amenity": "hospital",
     "healthcare": "hospital",
     "healthcare:speciality": "dermatology",
+    "level": "4",
     "name": "Derma Medical Clinic AG",
     "operator": "Derma Medical Clinic AG",
     "operator:type": "business",

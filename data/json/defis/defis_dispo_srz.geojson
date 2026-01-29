@@ -94565,7 +94565,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo - Fr 08:00 - 16:00",
+    "opening_hours": "Mo - Fr 08:00 - 12:00, 13:00 - 16:00",
     "operator": "Unternehmen",
     "phone": "+41 44 763 68 50",
     "id": "node/13270183304"
@@ -94573,8 +94573,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4452782,
-      47.2998528
+      8.4452784,
+      47.2998529
     ]
   }
 },
@@ -97222,6 +97222,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
     "id": "node/13505334403"
   },
   "geometry": {
@@ -97229,6 +97231,28 @@
     "coordinates": [
       8.5154996,
       47.5232796
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13506049701",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Seestrasse 126",
+    "description": "Im Treppenhaus",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "3",
+    "operator": "Arztpraxis",
+    "id": "node/13506049701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5958858,
+      47.260951
     ]
   }
 }
