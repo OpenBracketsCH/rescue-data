@@ -11181,8 +11181,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4241926,
-      47.4128486
+      8.4241802,
+      47.4128411
     ]
   }
 },
@@ -108649,6 +108649,26 @@
     "coordinates": [
       8.3922495,
       47.4034056
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13510481977",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "bicycle": "no",
+    "foot": "yes",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "id": "node/13510481977"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7299387,
+      47.2399072
     ]
   }
 }

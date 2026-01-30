@@ -9455,8 +9455,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6233341,
-      47.3333231
+      8.6233342,
+      47.3333232
     ]
   }
 },
@@ -9481,7 +9481,7 @@
     "type": "Point",
     "coordinates": [
       8.622907,
-      47.3344855
+      47.3344857
     ]
   }
 },
@@ -9543,7 +9543,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.623977,
+      8.6239772,
       47.3325111
     ]
   }
@@ -9568,8 +9568,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6242246,
-      47.3271083
+      8.6242247,
+      47.3271082
     ]
   }
 },
@@ -20677,7 +20677,7 @@
   "type": "Feature",
   "id": "node/8556997041",
   "properties": {
-    "access": "yes",
+    "access": "permissive",
     "defibrillator:location": "Dreifachhalle Kirchwies, UG",
     "description": "während Spielbetrieb verfügbar",
     "emergency": "defibrillator",
@@ -23196,26 +23196,6 @@
     "coordinates": [
       8.7154226,
       47.3490063
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8574210697",
-  "properties": {
-    "defibrillator:location": "in der Turnhalle",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "operator": "Stadt Uster",
-    "id": "node/8574210697"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7175173,
-      47.3603972
     ]
   }
 },
@@ -30703,18 +30683,19 @@
   "id": "node/9036239617",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Urania Parkhaus",
+    "defibrillator:location": "Urania Parkhaus bei den Kassen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "opening_hours": "24/7",
     "id": "node/9036239617"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5413583,
-      47.3740263
+      8.5413585,
+      47.3740262
     ]
   }
 },
@@ -43810,7 +43791,7 @@
     "type": "Point",
     "coordinates": [
       8.7175038,
-      47.3604008
+      47.3603975
     ]
   }
 },
@@ -49849,8 +49830,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.620575,
-      47.3386826
+      8.6205748,
+      47.3386827
     ]
   }
 },
@@ -61709,13 +61690,14 @@
   "type": "Feature",
   "id": "node/11038063905",
   "properties": {
+    "access": "permissive",
     "defibrillator:location": "Apotheke Dobler",
     "description": "während der Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-Fr 08:00-12:00,14:00-18:30, Sa 08:00-16:00",
+    "opening_hours": "Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-16:00",
     "operator": "Privat",
     "phone": "+41 44 984 31 31",
     "id": "node/11038063905"
@@ -72741,7 +72723,7 @@
     "indoor": "yes",
     "level": "0",
     "name": "Mercedes-Benz Automobil AG, Zweigniederlassung Adliswil",
-    "opening_hours": "Mo-Fr 07:00-18:30 Sa 09:00-17:00",
+    "opening_hours": "Mo-Fr 07:00-18:30; Sa 09:00-17:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "ref": "1408LTM",
@@ -72750,8 +72732,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5303391,
-      47.3239157
+      8.5303393,
+      47.323916
     ]
   }
 },
@@ -77971,7 +77953,7 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Feuerwehr Depot",
-    "description": "Draussen neben Tor 1 richtung Haupteingang (Gelbe AED Box)",
+    "description": "Draussen neben Tor 1 Richtung Haupteingang (Gelbe AED Box)",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -77983,7 +77965,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7154628,
+      8.7154629,
       47.3536069
     ]
   }
@@ -87469,15 +87451,15 @@
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Gemeindeverwaltung",
-    "phone": "+41438337079",
+    "phone": "+41 43 833 70 79",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/12696470701"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7584274,
-      47.2787242
+      8.7584276,
+      47.278724
     ]
   }
 },
@@ -97253,6 +97235,122 @@
     "coordinates": [
       8.5958858,
       47.260951
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13508549501",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Strickhof Grüentalstrasse 30, beim Haupteingang",
+    "description": "Defibox ist an der Aussenfassade links vom Haupteingang montiert.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Strickhof Wädenswil",
+    "phone": "+41 58 105 84 80",
+    "id": "node/13508549501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6801578,
+      47.2173396
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13508551301",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Waisenhausstrasse 14, Strickhof Wohnheim Neubau",
+    "description": "Befindet sich im Gebäude direkt im EG beim Haupteingang.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Strickhof Wädenswil",
+    "phone": "+41 58 105 84 80",
+    "id": "node/13508551301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6734486,
+      47.2173374
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13509402602",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Rechts neben dem Prima an der Wand, Dorfstrasse 63, 8126 Zumikon",
+    "description": "Nach Gebrauch bei der Feuerwehr melden: +41 44 918 01 32",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Zumikon",
+    "phone": "+41 44 918 01 32",
+    "id": "node/13509402602"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.625361,
+      47.3309279
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13510021201",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "SVA Schaffhausen",
+    "description": "während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "Mo-Fr 8:30 - 12:00, 13:30 - 16:30",
+    "operator": "SVA Schaffhausen",
+    "id": "node/13510021201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6326763,
+      47.6964829
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13510619501",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "AMAG Parkhaus, Büro Europcar",
+    "description": "Direkt beim Eingang, nur während Öffnungszeiten der Europcar Station verfügbar.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:30-11:30, 12:00-16:00",
+    "operator": "AMAG Services AG",
+    "id": "node/13510619501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4732329,
+      47.1866813
     ]
   }
 }
