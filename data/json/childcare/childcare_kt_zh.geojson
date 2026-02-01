@@ -14343,6 +14343,7 @@
     "addr:postcode": "8305",
     "addr:street": "Bahnhofstrasse",
     "amenity": "childcare",
+    "check_date": "2026-01-31",
     "name": "KiTa Pfiffikus",
     "website": "https://www.kita-pfiffikus.ch/",
     "id": "node/11407026353"

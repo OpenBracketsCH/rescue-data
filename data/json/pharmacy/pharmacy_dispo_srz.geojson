@@ -5905,11 +5905,13 @@
     "addr:postcode": "8305",
     "addr:street": "Bahnhofstrasse",
     "amenity": "pharmacy",
+    "check_date": "2026-01-31",
     "healthcare": "pharmacy",
     "name": "Zentrum Apotheke",
     "name:de": "Zentrum Apotheke",
     "opening_hours": "Mo-Fr 07:15-18:30; Sa 07:15-16:30",
     "phone": "+41 44 833 46 00",
+    "wheelchair": "yes",
     "id": "node/4492758092"
   },
   "geometry": {

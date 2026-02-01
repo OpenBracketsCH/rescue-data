@@ -700,6 +700,107 @@
 },
 {
   "type": "Feature",
+  "id": "way/4594037",
+  "properties": {
+    "highway": "trunk",
+    "lanes": "1",
+    "layer": "-1",
+    "maxspeed": "60",
+    "motorroad": "yes",
+    "name": "Schaffhausen Süd",
+    "oneway": "yes",
+    "ref": "5",
+    "surface": "asphalt",
+    "toll": "yes",
+    "tunnel": "yes",
+    "id": "way/4594037"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6243332,
+        47.6937468
+      ],
+      [
+        8.6244721,
+        47.6937591
+      ],
+      [
+        8.6246414,
+        47.6937499
+      ],
+      [
+        8.624789,
+        47.6937151
+      ],
+      [
+        8.6248259,
+        47.693703
+      ],
+      [
+        8.6248714,
+        47.6936812
+      ],
+      [
+        8.6249177,
+        47.6936535
+      ],
+      [
+        8.6249586,
+        47.6936218
+      ],
+      [
+        8.625004,
+        47.6935817
+      ],
+      [
+        8.625036,
+        47.6935464
+      ],
+      [
+        8.6250632,
+        47.6935104
+      ],
+      [
+        8.6250901,
+        47.6934749
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/4594038",
+  "properties": {
+    "highway": "trunk",
+    "lanes": "1",
+    "maxspeed": "60",
+    "motorroad": "yes",
+    "name": "Schaffhausen Süd",
+    "oneway": "yes",
+    "placement": "transition",
+    "ref": "5",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/4594038"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6251284,
+        47.693315
+      ],
+      [
+        8.6251557,
+        47.6931403
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/4643389",
   "properties": {
     "destination:lanes": "Zürich;Schaffhausen-N;Rheinfall|Singen;SH-Herblingen",
@@ -5676,6 +5777,55 @@
       [
         8.6216932,
         47.0027636
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/26096435",
+  "properties": {
+    "highway": "trunk",
+    "incline": "4.5%",
+    "int_ref": "E 54",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "layer": "-2",
+    "lit": "yes",
+    "maxspeed": "60",
+    "motorroad": "yes",
+    "name": "Galgenbucktunnel",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "toll": "no",
+    "tunnel": "yes",
+    "tunnel:name": "Galgenbuck",
+    "website": "http://www.galgenbucktunnel.ch/",
+    "id": "way/26096435"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6207863,
+        47.690415
+      ],
+      [
+        8.6209421,
+        47.6905502
+      ],
+      [
+        8.6209494,
+        47.6905561
+      ],
+      [
+        8.6209542,
+        47.69056
+      ],
+      [
+        8.621415,
+        47.6909734
       ]
     ]
   }
@@ -19711,6 +19861,379 @@
 },
 {
   "type": "Feature",
+  "id": "way/514625324",
+  "properties": {
+    "highway": "trunk",
+    "incline": "4.5%",
+    "int_ref": "E 54",
+    "lanes": "2",
+    "layer": "-2",
+    "maxspeed": "80",
+    "motorroad": "yes",
+    "name": "Galgenbucktunnel",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "toll": "no",
+    "tunnel": "yes",
+    "tunnel:name": "Galgenbuck",
+    "website": "http://www.galgenbucktunnel.ch/",
+    "id": "way/514625324"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6207863,
+        47.690415
+      ],
+      [
+        8.6206842,
+        47.6903252
+      ],
+      [
+        8.6203328,
+        47.6900775
+      ],
+      [
+        8.619988,
+        47.6898528
+      ],
+      [
+        8.6197755,
+        47.6897253
+      ],
+      [
+        8.6193533,
+        47.6894907
+      ],
+      [
+        8.6193267,
+        47.6894759
+      ],
+      [
+        8.6192938,
+        47.6894613
+      ],
+      [
+        8.6190126,
+        47.6893424
+      ],
+      [
+        8.6187331,
+        47.6892416
+      ],
+      [
+        8.618484,
+        47.6891583
+      ],
+      [
+        8.6180412,
+        47.6890239
+      ],
+      [
+        8.6176452,
+        47.6889247
+      ],
+      [
+        8.617562,
+        47.6889066
+      ],
+      [
+        8.6174933,
+        47.6888945
+      ],
+      [
+        8.6174637,
+        47.6888893
+      ],
+      [
+        8.6170725,
+        47.6888202
+      ],
+      [
+        8.6168482,
+        47.6887874
+      ],
+      [
+        8.6165816,
+        47.6887553
+      ],
+      [
+        8.6161917,
+        47.6887208
+      ],
+      [
+        8.6158524,
+        47.6886998
+      ],
+      [
+        8.6157632,
+        47.6886987
+      ],
+      [
+        8.6157539,
+        47.6886986
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/514625326",
+  "properties": {
+    "highway": "trunk",
+    "int_ref": "E 54",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "motorroad": "yes",
+    "oneway": "yes",
+    "smoothness": "excellent",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "toll": "no",
+    "turn:lanes": "|merge_to_left",
+    "width": "7.5",
+    "id": "way/514625326"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6218699,
+        47.69242
+      ],
+      [
+        8.6218399,
+        47.6923816
+      ],
+      [
+        8.6217943,
+        47.6923048
+      ],
+      [
+        8.6217112,
+        47.6921589
+      ],
+      [
+        8.6216221,
+        47.6919548
+      ],
+      [
+        8.621583,
+        47.6918391
+      ],
+      [
+        8.6215688,
+        47.6917859
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/514625327",
+  "properties": {
+    "highway": "trunk",
+    "incline": "4.5%",
+    "int_ref": "E 54",
+    "lanes": "1",
+    "layer": "-2",
+    "lit": "yes",
+    "maxspeed": "60",
+    "motorroad": "yes",
+    "name": "Galgenbucktunnel",
+    "oneway": "yes",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "toll": "no",
+    "tunnel": "yes",
+    "tunnel:name": "Galgenbuck",
+    "website": "http://www.galgenbucktunnel.ch/",
+    "id": "way/514625327"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6215417,
+        47.6912919
+      ],
+      [
+        8.6215106,
+        47.6911443
+      ],
+      [
+        8.621415,
+        47.6909734
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/514625329",
+  "properties": {
+    "highway": "trunk",
+    "lanes": "1",
+    "maxspeed": "50",
+    "motorroad": "yes",
+    "name": "Bahntalstrasse",
+    "oneway": "yes",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "toll": "yes",
+    "width": "8",
+    "id": "way/514625329"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6227185,
+        47.6928886
+      ],
+      [
+        8.6231106,
+        47.6932216
+      ],
+      [
+        8.6234392,
+        47.6934024
+      ],
+      [
+        8.6236416,
+        47.6935204
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/514625330",
+  "properties": {
+    "destination:lanes": "Schaffhausen;Kreuzlingen;Singen;Stuttgart|Winterthur;Zürich",
+    "highway": "trunk",
+    "int_ref": "E 54",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "60",
+    "motorroad": "yes",
+    "oneway": "yes",
+    "smoothness": "excellent",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "id": "way/514625330"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6216236,
+        47.6911737
+      ],
+      [
+        8.6216695,
+        47.691229
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/514625331",
+  "properties": {
+    "destination": "Winterthur;Zürich",
+    "highway": "trunk",
+    "lanes": "1",
+    "maxspeed": "50",
+    "motorroad": "yes",
+    "name": "Bahntalstrasse",
+    "oneway": "yes",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/514625331"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6219889,
+        47.6916409
+      ],
+      [
+        8.6220123,
+        47.6916793
+      ],
+      [
+        8.6220337,
+        47.6917182
+      ],
+      [
+        8.6220962,
+        47.6918388
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/514625332",
+  "properties": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "maxspeed": "50",
+    "maxweight:signed": "no",
+    "motorroad": "yes",
+    "name": "Bahntalstrasse",
+    "oneway": "yes",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "|merge_to_left",
+    "width": "8",
+    "id": "way/514625332"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6221982,
+        47.6921444
+      ],
+      [
+        8.6222766,
+        47.6923016
+      ],
+      [
+        8.6223501,
+        47.6924271
+      ],
+      [
+        8.6224494,
+        47.6925809
+      ],
+      [
+        8.6225573,
+        47.6927179
+      ],
+      [
+        8.6226318,
+        47.6928033
+      ],
+      [
+        8.6227185,
+        47.6928886
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/519181682",
   "properties": {
     "destination:lanes": "Zürich;Schaffhausen-N;Rheinfall|Singen;SH-Herblingen",
@@ -21759,6 +22282,40 @@
 },
 {
   "type": "Feature",
+  "id": "way/729939564",
+  "properties": {
+    "highway": "trunk",
+    "int_ref": "E 54",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed:backward": "80",
+    "maxspeed:forward": "60",
+    "motorroad": "yes",
+    "smoothness": "good",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "toll": "no",
+    "turn:lanes:backward": "through",
+    "turn:lanes:forward": "through|",
+    "id": "way/729939564"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6090072,
+        47.6910893
+      ],
+      [
+        8.608751,
+        47.6912951
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/747384161",
   "properties": {
     "alt_name": "Weinlandautobahn",
@@ -22237,6 +22794,463 @@
       [
         8.6488759,
         47.6476205
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/749029949",
+  "properties": {
+    "destination": "Winterthur;Zürich",
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "50",
+    "motorroad": "yes",
+    "name": "Bahntalstrasse",
+    "oneway": "yes",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "toll": "yes",
+    "width": "8",
+    "id": "way/749029949"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6220962,
+        47.6918388
+      ],
+      [
+        8.6221982,
+        47.6921444
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/749029951",
+  "properties": {
+    "bridge": "yes",
+    "destination": "Winterthur;Zürich",
+    "highway": "trunk",
+    "lanes": "1",
+    "layer": "1",
+    "maxspeed": "50",
+    "maxweight:signed": "no",
+    "motorroad": "yes",
+    "name": "Bahntalstrasse",
+    "oneway": "yes",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/749029951"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6218881,
+        47.6915251
+      ],
+      [
+        8.6219213,
+        47.6915631
+      ],
+      [
+        8.6219647,
+        47.6916097
+      ],
+      [
+        8.6219889,
+        47.6916409
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/749146263",
+  "properties": {
+    "destination:backward": "Schaffhausen",
+    "highway": "trunk",
+    "int_ref": "E 54",
+    "lanes": "2",
+    "lanes:backward": "1",
+    "lanes:forward": "1",
+    "maxspeed": "60",
+    "motorroad": "yes",
+    "smoothness": "good",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "toll": "no",
+    "id": "way/749146263"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.608751,
+        47.6912951
+      ],
+      [
+        8.6085787,
+        47.6914143
+      ],
+      [
+        8.6085218,
+        47.6914445
+      ],
+      [
+        8.6085016,
+        47.6914551
+      ],
+      [
+        8.6084782,
+        47.6914675
+      ],
+      [
+        8.6084418,
+        47.6914833
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/749146264",
+  "properties": {
+    "direction:lanes:forward": "Rheinfall;Neuhausen am Rheinfall.;Bülach|Klettgau;Freiburg im Breisgau;Basel",
+    "highway": "trunk",
+    "incline": "4.5%",
+    "int_ref": "E 54",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "layer": "-2",
+    "lit": "24/7",
+    "maxspeed:backward": "80",
+    "maxspeed:forward": "60",
+    "motorroad": "yes",
+    "name": "Galgenbucktunnel",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "toll": "no",
+    "tunnel": "yes",
+    "tunnel:name": "Galgenbuck",
+    "website": "http://www.galgenbucktunnel.ch/",
+    "id": "way/749146264"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6104334,
+        47.690135
+      ],
+      [
+        8.6102008,
+        47.6902682
+      ],
+      [
+        8.6098487,
+        47.6904935
+      ],
+      [
+        8.6094861,
+        47.6907304
+      ],
+      [
+        8.6090072,
+        47.6910893
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/749207594",
+  "properties": {
+    "bridge": "yes",
+    "destination:lanes": "Schaffhausen;Kreuzlingen;Singen;Stuttgart|Winterthur;Zürich",
+    "highway": "trunk",
+    "int_ref": "E 54",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "60",
+    "maxweight:signed": "no",
+    "motorroad": "yes",
+    "oneway": "yes",
+    "smoothness": "excellent",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "toll": "no",
+    "width": "11",
+    "id": "way/749207594"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6216695,
+        47.691229
+      ],
+      [
+        8.6218371,
+        47.6914486
+      ],
+      [
+        8.6218881,
+        47.6915251
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/749639062",
+  "properties": {
+    "highway": "trunk",
+    "incline": "4.5%",
+    "int_ref": "E 54",
+    "lanes": "2",
+    "layer": "-2",
+    "maxspeed": "60",
+    "motorroad": "yes",
+    "name": "Galgenbucktunnel",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "toll": "no",
+    "tunnel": "yes",
+    "tunnel:name": "Galgenbuck",
+    "website": "http://www.galgenbucktunnel.ch/",
+    "id": "way/749639062"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.615236,
+        47.6886932
+      ],
+      [
+        8.6152246,
+        47.6886934
+      ],
+      [
+        8.614982,
+        47.688697
+      ],
+      [
+        8.6145351,
+        47.6887399
+      ],
+      [
+        8.6140111,
+        47.6888045
+      ],
+      [
+        8.6134827,
+        47.6889111
+      ],
+      [
+        8.6134529,
+        47.6889173
+      ],
+      [
+        8.6130938,
+        47.6890073
+      ],
+      [
+        8.6126894,
+        47.6891193
+      ],
+      [
+        8.6121271,
+        47.68932
+      ],
+      [
+        8.6119566,
+        47.6893893
+      ],
+      [
+        8.6119436,
+        47.6893946
+      ],
+      [
+        8.6119294,
+        47.6894003
+      ],
+      [
+        8.611558,
+        47.6895512
+      ],
+      [
+        8.6110468,
+        47.6897955
+      ],
+      [
+        8.6104922,
+        47.6901025
+      ],
+      [
+        8.6104627,
+        47.6901189
+      ],
+      [
+        8.6104334,
+        47.690135
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/749639063",
+  "properties": {
+    "highway": "trunk",
+    "incline": "4.5%",
+    "int_ref": "E 54",
+    "lanes": "2",
+    "layer": "-2",
+    "maxspeed": "80",
+    "motorroad": "yes",
+    "name": "Galgenbucktunnel",
+    "shoulder": "both",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "toll": "no",
+    "tunnel": "yes",
+    "tunnel:name": "Galgenbuck",
+    "website": "http://www.galgenbucktunnel.ch/",
+    "id": "way/749639063"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6157539,
+        47.6886986
+      ],
+      [
+        8.6157077,
+        47.6886981
+      ],
+      [
+        8.6155274,
+        47.6886964
+      ],
+      [
+        8.6155096,
+        47.6886961
+      ],
+      [
+        8.6154993,
+        47.688696
+      ],
+      [
+        8.6154694,
+        47.6886957
+      ],
+      [
+        8.6152811,
+        47.6886937
+      ],
+      [
+        8.615236,
+        47.6886932
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/760858942",
+  "properties": {
+    "highway": "trunk",
+    "int_ref": "E 54",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "motorroad": "yes",
+    "oneway": "yes",
+    "smoothness": "excellent",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "toll": "no",
+    "width": "7.5",
+    "id": "way/760858942"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6215688,
+        47.6917859
+      ],
+      [
+        8.6215626,
+        47.6917539
+      ],
+      [
+        8.6215558,
+        47.6917067
+      ],
+      [
+        8.6215553,
+        47.6915587
+      ],
+      [
+        8.6215597,
+        47.6914662
+      ],
+      [
+        8.6215571,
+        47.6913921
+      ],
+      [
+        8.6215417,
+        47.6912919
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/760915644",
+  "properties": {
+    "destination:lanes": "Schaffhausen;Kreuzlingen;Singen;Stuttgart|Winterthur;Zürich",
+    "highway": "trunk",
+    "incline": "4.5%",
+    "int_ref": "E 54",
+    "lanes": "2",
+    "layer": "-2",
+    "lit": "yes",
+    "maxspeed": "60",
+    "motorroad": "yes",
+    "name": "Galgenbucktunnel",
+    "oneway": "yes",
+    "start_date": "2019-12-06",
+    "surface": "asphalt",
+    "toll": "no",
+    "tunnel": "yes",
+    "tunnel:name": "Galgenbuck",
+    "website": "http://www.galgenbucktunnel.ch/",
+    "id": "way/760915644"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.621415,
+        47.6909734
+      ],
+      [
+        8.6216236,
+        47.6911737
       ]
     ]
   }
@@ -25505,6 +26519,38 @@
       [
         8.6293883,
         47.6766313
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1224045166",
+  "properties": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "lanes": "1",
+    "layer": "1",
+    "maxspeed": "60",
+    "motorroad": "yes",
+    "name": "Schaffhausen Süd",
+    "oneway": "yes",
+    "placement": "transition",
+    "ref": "5",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1224045166"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6251557,
+        47.6931403
+      ],
+      [
+        8.6251876,
+        47.6929728
       ]
     ]
   }
@@ -29809,6 +30855,115 @@
       [
         8.6895932,
         47.595351
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1328921812",
+  "properties": {
+    "highway": "trunk",
+    "lanes": "1",
+    "maxspeed": "60",
+    "motorroad": "yes",
+    "name": "Schaffhausen Süd",
+    "oneway": "yes",
+    "ref": "5",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1328921812"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6250901,
+        47.6934749
+      ],
+      [
+        8.6251082,
+        47.6934331
+      ],
+      [
+        8.6251205,
+        47.6933803
+      ],
+      [
+        8.6251284,
+        47.693315
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1412416599",
+  "properties": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxheight": "default",
+    "maxspeed": "50",
+    "motorroad": "yes",
+    "name": "Schaffhausen Süd",
+    "oneway": "yes",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "|merge_to_left",
+    "id": "way/1412416599"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6236416,
+        47.6935204
+      ],
+      [
+        8.623787,
+        47.6935809
+      ],
+      [
+        8.6239224,
+        47.6936288
+      ],
+      [
+        8.6241046,
+        47.693689
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1412416600",
+  "properties": {
+    "highway": "trunk",
+    "lanes": "1",
+    "maxheight": "default",
+    "maxspeed": "50",
+    "motorroad": "yes",
+    "name": "Schaffhausen Süd",
+    "oneway": "yes",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through",
+    "id": "way/1412416600"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6241046,
+        47.693689
+      ],
+      [
+        8.6242284,
+        47.693725
+      ],
+      [
+        8.6243332,
+        47.6937468
       ]
     ]
   }
