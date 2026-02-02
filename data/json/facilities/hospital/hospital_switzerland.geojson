@@ -52112,6 +52112,27 @@
 },
 {
   "type": "Feature",
+  "id": "node/1505749825",
+  "properties": {
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "1",
+    "addr:postcode": "2502",
+    "addr:street": "Rue des Maréchaux / Schmiedengasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "altstadtpraxis",
+    "id": "node/1505749825"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2454831,
+      47.1406638
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1609006619",
   "properties": {
     "addr:city": "Baar",

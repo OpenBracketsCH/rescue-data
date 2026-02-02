@@ -4152,10 +4152,11 @@
     "addr:postcode": "8057",
     "addr:street": "Hofwiesenstrasse",
     "amenity": "pharmacy",
-    "check_date": "2024-01-21",
+    "check_date": "2026-02-01",
+    "check_date:opening_hours": "2026-02-01",
     "healthcare": "pharmacy",
     "name": "Wehntal-Apotheke",
-    "opening_hours": "Mo-Fr 08:00-12:00, 14:00-18:30; Sa 08:30-12:30",
+    "opening_hours": "Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:30-12:30",
     "website": "http://www.wehntal-apotheke.ch/",
     "wheelchair": "no",
     "id": "node/2479519173"

@@ -6460,6 +6460,7 @@
     "alt_name": "ZM Pavillon",
     "amenity": "kindergarten",
     "building": "yes",
+    "check_date": "2026-02-01",
     "name": "Hort Allenmoos 3",
     "operator": "Stadt Zürich, SSD, Schulkreis Waidberg",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",

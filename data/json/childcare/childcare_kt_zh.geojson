@@ -9272,6 +9272,7 @@
   "id": "node/9179718676",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2026-02-01",
     "isced:level": "0",
     "name": "Allenmoos 3 Mittag und Abendhort",
     "id": "node/9179718676"
@@ -14575,6 +14576,7 @@
   "id": "node/11844907898",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2026-02-01",
     "name": "pop e poppa",
     "id": "node/11844907898"
   },
