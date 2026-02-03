@@ -1741,6 +1741,94 @@
 },
 {
   "type": "Feature",
+  "id": "way/33806997",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housename": "UZH PLA",
+    "addr:housenumber": "10",
+    "addr:postcode": "8032",
+    "addr:street": "Plattenstrasse",
+    "amenity": "hospital",
+    "architect": "Jakob Zweifel",
+    "building:flats": "0",
+    "building:levels": "18",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "height": "55",
+    "name": "Careum Hochhaus",
+    "name:en": "Careum Tower",
+    "operator": "UZH - USZ - Careum",
+    "operator:type": "university",
+    "roof:shape": "flat",
+    "id": "way/33806997"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5520914,
+          47.3745426
+        ],
+        [
+          8.5519622,
+          47.3743505
+        ],
+        [
+          8.5520201,
+          47.3743327
+        ],
+        [
+          8.5520281,
+          47.3743445
+        ],
+        [
+          8.5521224,
+          47.3743154
+        ],
+        [
+          8.5521139,
+          47.3743027
+        ],
+        [
+          8.5521741,
+          47.3742841
+        ],
+        [
+          8.5523032,
+          47.374476
+        ],
+        [
+          8.5522418,
+          47.3744949
+        ],
+        [
+          8.5522352,
+          47.3744852
+        ],
+        [
+          8.5521893,
+          47.3744994
+        ],
+        [
+          8.5521451,
+          47.374513
+        ],
+        [
+          8.5521523,
+          47.3745238
+        ],
+        [
+          8.5520914,
+          47.3745426
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/39467940",
   "properties": {
     "addr:city": "Winterthur",
@@ -10249,42 +10337,6 @@
     "coordinates": [
       8.5662739,
       47.4493072
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8238083087",
-  "properties": {
-    "addr:city": "Schlieren",
-    "addr:housenumber": "12",
-    "addr:postcode": "8952",
-    "addr:street": "Wagistrasse",
-    "amenity": "clinic",
-    "email": "seka@medgen.uzh.ch",
-    "healthcare": "clinic",
-    "internet_access": "wlan",
-    "internet_access:fee": "customers",
-    "level": "1,2,3,7",
-    "name": "Institute of Medical Genetics - UZH",
-    "name:en": "Institute of Medical Genetics - UZH",
-    "name:fr": "Institut de génétique médicale - UZH",
-    "name:gsw": "Institut für Medizinische Genetik - UZH",
-    "name:it": "Istituto di Genetica Medica - UZH",
-    "opening_hours": "Mo-Fr 09:00-17:00",
-    "operator": "University of Zurich",
-    "operator:type": "university",
-    "phone": "+41 44 556 33 00",
-    "short_name": "medgen",
-    "website": "https://www.medgen.uzh.ch",
-    "wheelchair": "yes",
-    "id": "node/8238083087"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4579362,
-      47.3988819
     ]
   }
 },

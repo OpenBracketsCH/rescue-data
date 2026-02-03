@@ -25540,8 +25540,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4501311,
-      47.4004784
+      8.4500449,
+      47.4005379
     ]
   }
 },
@@ -30941,7 +30941,7 @@
   "id": "node/9061501517",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Schlachthaus / ehem. Postautogarage",
+    "defibrillator:location": "Grüner Metallkasten aussen am Schlachthaus / ehem. Postautogarage",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -30952,8 +30952,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5661882,
-      47.5515565
+      8.5661828,
+      47.5515656
     ]
   }
 },
@@ -48884,12 +48884,16 @@
   "type": "Feature",
   "id": "node/10607791207",
   "properties": {
+    "access": "permissive",
     "defibrillator:location": "Empfang",
+    "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
     "opening_hours": "Mo-Fr 08:00-16:30",
+    "operator": "Bezirksgericht Meilen",
+    "phone": "+41 58 111 21 21",
     "id": "node/10607791207"
   },
   "geometry": {
@@ -64454,7 +64458,7 @@
   "id": "node/11293826978",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Hängt von aussen zugänglich an einer Scheune",
+    "defibrillator:location": "Aussen an der Scheune, grüner Metallkasten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -84837,8 +84841,10 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-16:30",
     "operator": "Bezirksgericht Meilen",
-    "phone": "+41449242121",
+    "phone": "+41 58 111 21 21",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/12529089402"
   },
@@ -97380,6 +97386,146 @@
     "coordinates": [
       8.7869721,
       47.200962
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13518929501",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Bildungszentrum SRK Kanton Zürich",
+    "description": "während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 08:00 - 16:30",
+    "operator": "Bildungszentrum SRK Kanton Zürich",
+    "phone": "+41 52 269 31 60",
+    "source": "aed-source",
+    "id": "node/13518929501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7187269,
+      47.4990017
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13519512501",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Büro Bene/nw. Hinter Glaswand sichtbar. Büro durch verschiedene Türen zugänglich.",
+    "description": "während Öffnungszeiten, teilweise auch Samstags",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "operator": "Bene GmbH, schweiz@bene.com",
+    "phone": "+41 44 283 80 00",
+    "id": "node/13519512501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5172962,
+      47.362695
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13519830301",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Wicki Partners AG | Rechtsanwälte",
+    "description": "In Rechtsanwaltskanzlei an der Stockerstrasse 44 (1. Stock)",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "operator": "Wicki Partners AG | Rechtsanwälte",
+    "phone": "+41 43 322 15 00",
+    "id": "node/13519830301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5346087,
+      47.3680849
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13519845401",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Im Hinterhof, als Fahrzeugausrüstung",
+    "description": "Ist Im Fahrzeug verpackt. Fahrzeug kann im Notfall remote geöffnet werden",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Privatperson",
+    "phone": "+41 79 611 12 10",
+    "id": "node/13519845401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5153161,
+      47.3744814
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13520287301",
+  "properties": {
+    "defibrillator:location": "Zahnarztpraxis Zürichsee",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2",
+    "opening_hours": "Mo-Fr 08:00-17:30",
+    "operator": "Zahnarztpraxis Zürichsee",
+    "phone": "+41 55 420 25 30",
+    "id": "node/13520287301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7798302,
+      47.2020197
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13520950401",
+  "properties": {
+    "defibrillator:location": "In der Apotheke",
+    "description": "Während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Gotthard Apotheke",
+    "id": "node/13520950401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.523619,
+      47.1945895
     ]
   }
 }

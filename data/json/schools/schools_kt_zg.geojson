@@ -7033,6 +7033,7 @@
   "id": "way/706927237",
   "properties": {
     "amenity": "school",
+    "check_date": "2026-02-02",
     "isced:level": "0;1",
     "name": "Kirchbühl",
     "operator:type": "public",
