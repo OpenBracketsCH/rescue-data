@@ -41685,6 +41685,7 @@
     "addr:postcode": "8041",
     "addr:street": "Allmendstrasse",
     "amenity": "kindergarten",
+    "check_date": "2026-02-03",
     "name": "Kindergarten an der Sihl 1 und 2",
     "operator": "Schule Allmend",
     "operator:type": "public",

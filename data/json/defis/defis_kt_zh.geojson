@@ -50694,7 +50694,6 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "aussen beim Showroom, links",
-    "description": "immer Verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -50702,7 +50701,6 @@
     "opening_hours": "24/7",
     "operator": "Kurt Wohndesign AG",
     "phone": "+41 44 761 42 05",
-    "source": "local_knowledge, defikarte.ch",
     "id": "node/11527422669"
   },
   "geometry": {
@@ -61870,13 +61868,11 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Führerprüfungsunterstände",
-    "description": "immer Verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Strassenverkehrsamt des Kantons Zürich",
-    "source": "local_knowledge, defikarte.ch",
     "id": "node/12273247602"
   },
   "geometry": {
@@ -61893,13 +61889,11 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Prüfstrecke",
-    "description": "immer Verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Strassenverkehrsamt des Kantons Zürich",
-    "source": "local_knowledge, defikarte.ch",
     "id": "node/12273285701"
   },
   "geometry": {
@@ -61916,13 +61910,11 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Manöverplatz",
-    "description": "immer Verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Strassenverkehrsamt des Kantons Zürich",
-    "source": "local_knowledge, defikarte.ch",
     "id": "node/12273288701"
   },
   "geometry": {
@@ -64741,14 +64733,12 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "AGROLA Tankstelle Ladenfront links an der Hausaussenfassade",
-    "description": "immer Verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "LANDI Zola AG",
     "phone": "+41584343830",
-    "source": "local_knowledge, defikarte.ch",
     "id": "node/12433563301"
   },
   "geometry": {
@@ -75926,6 +75916,80 @@
     "coordinates": [
       8.5153161,
       47.3744814
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13521527658",
+  "properties": {
+    "access": "yes",
+    "addr:city": "Pfäffikon",
+    "addr:housenumber": "77",
+    "addr:postcode": "8330",
+    "addr:street": "Hörnlistrasse",
+    "defibrillator:location": "EG neben Empfang im Gang Links",
+    "description": "Koffer Orange",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "name": "Verein Bildungszentrum Gärtner JardinSuisse Zürich",
+    "operator": "Lifetec AG",
+    "phone": "+41 800 122 144",
+    "ref": "1631LTM",
+    "id": "node/13521527658"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7911522,
+      47.3675654
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13521556301",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Breiti, zwischen Bibliothek und Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde",
+    "id": "node/13521556301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6131879,
+      47.2883179
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13521745201",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "bei Armasuisse, CYD Campus",
+    "description": "während Bürozeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "Bund",
+    "phone": "+41 58 462 99 00",
+    "id": "node/13521745201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5330164,
+      47.380914
     ]
   }
 }
