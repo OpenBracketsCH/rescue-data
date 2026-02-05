@@ -94259,6 +94259,25 @@
       47.4050217
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13524804417",
+  "properties": {
+    "barrier": "gate",
+    "locked": "yes",
+    "material": "metal",
+    "opening_hours": "Mo-Fr 07:30-21:45; Sa-Su 09:00-17:45; PH off",
+    "wheelchair": "yes",
+    "id": "node/13524804417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5734606,
+      47.3834356
+    ]
+  }
 }
 ]
 }

@@ -39397,6 +39397,139 @@
 },
 {
   "type": "Feature",
+  "id": "way/615547121",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "25",
+    "addr:postcode": "8037",
+    "addr:street": "Emil-Klöti-Strasse",
+    "alt_name": "Pflegezentrum Käferberg",
+    "amenity": "social_facility",
+    "capacity": "233",
+    "name": "Gesundheitszentrum Käferberg",
+    "operator": "Stadt Zürich, GUD",
+    "phone": "+41 44 414 60 00",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.stadt-zuerich.ch/kaeferberg",
+    "wikimedia_commons": "File:Zürich - Käferberg Pflegezentrum.JPG",
+    "id": "way/615547121"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5148754,
+          47.3981982
+        ],
+        [
+          8.5153787,
+          47.3983059
+        ],
+        [
+          8.5154665,
+          47.3981042
+        ],
+        [
+          8.5156367,
+          47.3981381
+        ],
+        [
+          8.5159669,
+          47.3981997
+        ],
+        [
+          8.5162116,
+          47.3982358
+        ],
+        [
+          8.5166226,
+          47.3982873
+        ],
+        [
+          8.5167653,
+          47.3983133
+        ],
+        [
+          8.5170053,
+          47.3983685
+        ],
+        [
+          8.5174962,
+          47.3985007
+        ],
+        [
+          8.5176923,
+          47.3985533
+        ],
+        [
+          8.5177402,
+          47.3985666
+        ],
+        [
+          8.5176241,
+          47.3987635
+        ],
+        [
+          8.5178562,
+          47.3988113
+        ],
+        [
+          8.518057,
+          47.3988341
+        ],
+        [
+          8.5174162,
+          47.3994547
+        ],
+        [
+          8.5173331,
+          47.399598
+        ],
+        [
+          8.5171339,
+          47.39958
+        ],
+        [
+          8.5155701,
+          47.3992636
+        ],
+        [
+          8.5143882,
+          47.3990189
+        ],
+        [
+          8.5145379,
+          47.3988675
+        ],
+        [
+          8.5145489,
+          47.3988564
+        ],
+        [
+          8.5146203,
+          47.3986531
+        ],
+        [
+          8.5146509,
+          47.3985798
+        ],
+        [
+          8.5146791,
+          47.3985347
+        ],
+        [
+          8.5148754,
+          47.3981982
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/630758120",
   "properties": {
     "addr:city": "Immensee",

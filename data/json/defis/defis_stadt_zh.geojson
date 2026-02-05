@@ -7674,31 +7674,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10763169305",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Witikonerstrasse 356 8053 Zürich",
-    "description": "jederzeit verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "level": "0",
-    "opening_hours": "24/7",
-    "operator": "ref Kirche Witikon",
-    "phone": "+41 79 247 35 28",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/10763169305"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5915265,
-      47.3591541
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10763276779",
   "properties": {
     "access": "no",
@@ -10649,10 +10624,16 @@
   "id": "node/11063400232",
   "properties": {
     "access": "yes",
+    "defibrillator:location": "Witikonerstrasse 356 8053 Zürich",
+    "description": "jederzeit verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
     "opening_hours": "24/7",
+    "operator": "ref Kirche Witikon",
+    "phone": "+41 79 247 35 28",
+    "source": "local_knowledge, defikarte.ch",
     "id": "node/11063400232"
   },
   "geometry": {
@@ -14538,7 +14519,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-TH 08:00-12:00, 13:30-17:00, Fr 08:00-12:00",
+    "opening_hours": "Mo-Th 08:00-12:00,13:30-17:00, Fr 08:00-12:00",
     "operator": "Dr. Michel Schneider",
     "phone": "+41 43 504 03 00",
     "source": "local_knowledge, defikarte.ch",
@@ -16807,7 +16788,7 @@
     "emergency:phone": "144",
     "indoor": "no",
     "level": "2",
-    "opening_hours": "MO-FR 8:30 - 17:30",
+    "opening_hours": "Mo-Fr 08:30-17:30",
     "phone": "+41585109200",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/12991981601"
@@ -16857,7 +16838,7 @@
     "indoor": "yes",
     "level": "0",
     "name": "Hilti Schweiz",
-    "opening_hours": "MO-FR 08.00-12.00 13.00-16.00",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-16:00",
     "operator": "Lifetec AG",
     "phone": "+41800122144",
     "ref": "1586LTM",
@@ -17890,6 +17871,30 @@
     "coordinates": [
       8.5330164,
       47.380914
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13523956101",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Pfingstweidstrasse 102",
+    "description": "Call +41 58 404 28 04 to get to the 6th floor",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "6",
+    "opening_hours": "09:00-17:00",
+    "operator": "Company Luware AG",
+    "phone": "+41 58 404 28 04",
+    "id": "node/13523956101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5096661,
+      47.3910194
     ]
   }
 }

@@ -12438,8 +12438,8 @@
           46.5231044
         ],
         [
-          6.5006284,
-          46.5230904
+          6.5006711,
+          46.5230803
         ],
         [
           6.5004471,
@@ -53566,7 +53566,7 @@
     "contact:phone": "+41 32 366 44 34",
     "contact:website": "https://www.hirslanden.ch/de/klinik-linde/centers/physiotherapie.html",
     "healthcare": "clinic",
-    "healthcare:speciality": "physiotherapist",
+    "healthcare:speciality": "physiotherapy",
     "internet_access": "wlan",
     "internet_access:fee": "no",
     "name": "Physiotherapie",

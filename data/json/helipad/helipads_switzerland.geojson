@@ -14311,7 +14311,6 @@
   "properties": {
     "aeroway": "helipad",
     "maxweight": "5",
-    "name": "STEPHANSHORN",
     "id": "way/1154364434"
   },
   "geometry": {
