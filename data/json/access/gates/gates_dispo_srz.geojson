@@ -12586,6 +12586,7 @@
     "barrier": "gate",
     "bicycle": "no",
     "foot": "yes",
+    "maxwidth:physical": "3",
     "motor_vehicle": "no",
     "id": "node/706225902"
   },

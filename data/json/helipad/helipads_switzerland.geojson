@@ -20906,6 +20906,7 @@
   "id": "way/1221952390",
   "properties": {
     "aeroway": "helipad",
+    "ele": "1707",
     "ref": "H5",
     "id": "way/1221952390"
   },
@@ -20974,6 +20975,7 @@
   "id": "way/1221952391",
   "properties": {
     "aeroway": "helipad",
+    "ele": "1707",
     "ref": "H4",
     "id": "way/1221952391"
   },
@@ -21042,6 +21044,7 @@
   "id": "way/1221952392",
   "properties": {
     "aeroway": "helipad",
+    "ele": "1707",
     "ref": "H3",
     "id": "way/1221952392"
   },
@@ -21110,6 +21113,7 @@
   "id": "way/1221952393",
   "properties": {
     "aeroway": "helipad",
+    "ele": "1707",
     "ref": "H2",
     "id": "way/1221952393"
   },
@@ -21178,6 +21182,7 @@
   "id": "way/1221952394",
   "properties": {
     "aeroway": "helipad",
+    "ele": "1707",
     "ref": "H1",
     "id": "way/1221952394"
   },
