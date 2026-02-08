@@ -54250,6 +54250,7 @@
   "id": "node/6431144287",
   "properties": {
     "amenity": "clinic",
+    "healthcare": "clinic",
     "name": "Opera Mater Christi",
     "id": "node/6431144287"
   },
@@ -54266,6 +54267,7 @@
   "id": "node/6431162085",
   "properties": {
     "amenity": "clinic",
+    "healthcare": "clinic",
     "name": "Clinica delle Rose",
     "id": "node/6431162085"
   },

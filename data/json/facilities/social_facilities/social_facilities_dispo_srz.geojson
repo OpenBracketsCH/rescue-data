@@ -59057,6 +59057,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/11660073226",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Die Spitex",
+    "social_facility": "ambulatory_care",
+    "id": "node/11660073226"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5115803,
+      47.4165933
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/11681747435",
   "properties": {
     "amenity": "social_facility",

@@ -5904,6 +5904,7 @@
     "addr:street": "Bülachhof",
     "amenity": "kindergarten",
     "building": "yes",
+    "check_date": "2026-02-07",
     "description": "SSWZ-Siedlung Bülachhof",
     "name": "Kinderkrippe Bülachhof",
     "operator": "Stiftung kihz",

@@ -16366,6 +16366,22 @@
       47.3039078
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13532199228",
+  "properties": {
+    "amenity": "childcare",
+    "name": "krippe kinderparadies",
+    "id": "node/13532199228"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.511814,
+      47.4164847
+    ]
+  }
 }
 ]
 }

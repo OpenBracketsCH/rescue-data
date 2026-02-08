@@ -12805,6 +12805,7 @@
   "id": "way/1123654686",
   "properties": {
     "aeroway": "helipad",
+    "ele": "510",
     "name": "2",
     "operator": "Mountainflyers",
     "id": "way/1123654686"
@@ -12842,6 +12843,7 @@
   "id": "way/1123654687",
   "properties": {
     "aeroway": "helipad",
+    "ele": "510",
     "name": "3",
     "operator": "Mountainflyers",
     "id": "way/1123654687"
@@ -12879,6 +12881,7 @@
   "id": "way/1123654688",
   "properties": {
     "aeroway": "helipad",
+    "ele": "510",
     "name": "4",
     "operator": "Mountainflyers",
     "id": "way/1123654688"
@@ -12916,6 +12919,7 @@
   "id": "way/1123654689",
   "properties": {
     "aeroway": "helipad",
+    "ele": "510",
     "name": "1",
     "operator": "Mountainflyers",
     "id": "way/1123654689"
@@ -25620,6 +25624,7 @@
   "id": "way/1421194128",
   "properties": {
     "aeroway": "helipad",
+    "ele": "510",
     "name": "Bundesbasis Helipad",
     "operator": "Bund",
     "id": "way/1421194128"
