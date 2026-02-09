@@ -10122,6 +10122,7 @@
   "id": "way/31286670",
   "properties": {
     "amenity": "school",
+    "name": "Schule Watt",
     "id": "way/31286670"
   },
   "geometry": {

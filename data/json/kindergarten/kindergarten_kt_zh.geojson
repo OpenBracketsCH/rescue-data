@@ -38457,7 +38457,7 @@
     "addr:postcode": "8049",
     "addr:street": "Limmattalstrasse",
     "amenity": "kindergarten",
-    "check_date": "2023-04-27",
+    "check_date": "2026-02-08",
     "email": "kita.kiddi4@gmail.com",
     "facebook": "https://www.facebook.com/Verein-Kindertagesst%C3%A4tten-Kiddi-1662104460575707/",
     "name": "Kiddi 4 nature",
@@ -43005,8 +43005,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4809214,
-      47.4432609
+      8.4806918,
+      47.4433673
     ]
   }
 },

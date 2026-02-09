@@ -2636,6 +2636,7 @@
     "addr:street": "Dorfstrasse",
     "amenity": "fire_station",
     "building": "yes",
+    "check_date": "2026-02-08",
     "name": "Depot Watt",
     "opening_hours": "24/7",
     "operator": "Feuerwehr Regensdorf",
