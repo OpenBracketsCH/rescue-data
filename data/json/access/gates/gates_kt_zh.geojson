@@ -11854,6 +11854,24 @@
 },
 {
   "type": "Feature",
+  "id": "node/1016341258",
+  "properties": {
+    "barrier": "gate",
+    "bicycle": "yes",
+    "mofa": "yes",
+    "motor_vehicle": "no",
+    "id": "node/1016341258"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5268303,
+      47.3853804
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1018612995",
   "properties": {
     "barrier": "lift_gate",

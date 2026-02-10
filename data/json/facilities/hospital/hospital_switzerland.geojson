@@ -6138,8 +6138,16 @@
           46.4455222
         ],
         [
-          6.2190306,
-          46.445912
+          6.2190567,
+          46.4458849
+        ],
+        [
+          6.218962,
+          46.4459013
+        ],
+        [
+          6.2189472,
+          46.4460409
         ],
         [
           6.2185931,
@@ -21172,6 +21180,7 @@
     "name": "Clinique de la Métairie",
     "source": "Orthophoto Ville de Nyon 2010",
     "website": "https://www.lametairie.ch/",
+    "wikidata": "Q29891300",
     "id": "way/270076648"
   },
   "geometry": {
