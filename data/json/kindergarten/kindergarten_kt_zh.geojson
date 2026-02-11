@@ -32731,6 +32731,54 @@
 },
 {
   "type": "Feature",
+  "id": "way/1476310790",
+  "properties": {
+    "amenity": "kindergarten",
+    "check_date": "2024-03-29",
+    "name": "Kindergarten Dachslernstrasse",
+    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
+    "phone": "+41 44 413 75 03",
+    "website": "https://www.stadt-zuerich.ch/schulen/de/dachslernstrasse/ueberuns/standorte/kindergaerten.html",
+    "id": "way/1476310790"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4739772,
+          47.3909964
+        ],
+        [
+          8.474352,
+          47.3908324
+        ],
+        [
+          8.4745743,
+          47.3910976
+        ],
+        [
+          8.4742454,
+          47.3912877
+        ],
+        [
+          8.4741443,
+          47.3912041
+        ],
+        [
+          8.4741647,
+          47.3911675
+        ],
+        [
+          8.4739772,
+          47.3909964
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
@@ -37306,24 +37354,6 @@
     "coordinates": [
       8.480526,
       47.3886578
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6631628136",
-  "properties": {
-    "amenity": "kindergarten",
-    "check_date": "2024-03-29",
-    "name": "Kindergarten Dachslernstrasse",
-    "operator": "Stadt Zürich, SSD, Schulkreis Letzi",
-    "id": "node/6631628136"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4741974,
-      47.3910638
     ]
   }
 },

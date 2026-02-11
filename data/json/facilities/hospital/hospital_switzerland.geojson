@@ -15676,7 +15676,6 @@
   "properties": {
     "addr:city": "Barmelweid",
     "addr:postcode": "5017",
-    "addr:street": "Klinik Barmelweid",
     "amenity": "hospital",
     "emergency": "no",
     "name": "Klinik Barmelweid",
