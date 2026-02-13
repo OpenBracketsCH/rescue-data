@@ -5456,6 +5456,8 @@
     "defibrillator:location": "im Windfang, öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Kanton Zug",
     "id": "node/7568739440"
@@ -5463,8 +5465,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5100941,
-      47.1735132
+      8.510094,
+      47.173513
     ]
   }
 },
@@ -9057,10 +9059,15 @@
   "id": "node/7721023590",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "im Warenlift",
-    "description": "Am Empfang melden",
+    "defibrillator:location": "Alterszentrum Bahnmatt",
+    "description": "Vom Hausteingang links an den Toiletten vorbei und nach der Türe rechts an der Wand",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "operator": "Alterszentrum",
+    "phone": "+41 41 769 89 89",
     "id": "node/7721023590"
   },
   "geometry": {
@@ -9076,11 +9083,15 @@
   "id": "node/7721023591",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Im Altersheim am Empfang",
-    "description": "Am Empfang melden",
+    "defibrillator:location": "Alterszentrum Martinspark",
+    "description": "Im Restaurant im Gartengeschoss, vom Haupteingang eine Etage tiefer, von Treppenhaustüre geradeaus bei Garderobe",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "-1",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "operator": "Alterszentrum",
+    "phone": "+41 41 769 89 89",
     "id": "node/7721023591"
   },
   "geometry": {

@@ -57506,7 +57506,9 @@
   "type": "Feature",
   "id": "node/6645931791",
   "properties": {
+    "access": "destination",
     "barrier": "gate",
+    "name": "Tor 1",
     "id": "node/6645931791"
   },
   "geometry": {
@@ -57521,7 +57523,9 @@
   "type": "Feature",
   "id": "node/6645931792",
   "properties": {
+    "access": "destination",
     "barrier": "gate",
+    "name": "Tor 2",
     "id": "node/6645931792"
   },
   "geometry": {
@@ -57536,6 +57540,7 @@
   "type": "Feature",
   "id": "node/6645931798",
   "properties": {
+    "access": "destination",
     "barrier": "gate",
     "id": "node/6645931798"
   },
@@ -57581,6 +57586,7 @@
   "type": "Feature",
   "id": "node/6649905053",
   "properties": {
+    "access": "destination",
     "barrier": "gate",
     "id": "node/6649905053"
   },
@@ -57589,21 +57595,6 @@
     "coordinates": [
       8.4635597,
       47.4413738
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6649905057",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/6649905057"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4624352,
-      47.4424969
     ]
   }
 },

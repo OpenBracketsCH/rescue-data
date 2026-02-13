@@ -5500,6 +5500,7 @@
     "addr:postcode": "8155",
     "addr:street": "Industriestrasse",
     "amenity": "fire_station",
+    "check_date": "2026-02-12",
     "name": "Feuerwehr Niederhasli",
     "id": "node/310859339"
   },
