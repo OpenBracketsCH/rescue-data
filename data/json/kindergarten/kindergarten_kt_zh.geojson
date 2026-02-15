@@ -35536,7 +35536,7 @@
   "id": "node/4952798655",
   "properties": {
     "amenity": "kindergarten",
-    "check_date": "2024-02-05",
+    "check_date": "2026-02-14",
     "name": "Krippe Kinderparadies",
     "wheelchair": "yes",
     "id": "node/4952798655"
@@ -35581,7 +35581,7 @@
   "properties": {
     "amenity": "kindergarten",
     "capacity": "18",
-    "check_date": "2024-02-05",
+    "check_date": "2026-02-14",
     "contact:city": "Zürich",
     "contact:housenumber": "18",
     "contact:phone": "+41 44 413 78 49",

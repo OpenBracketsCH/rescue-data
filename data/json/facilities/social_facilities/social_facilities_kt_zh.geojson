@@ -14196,10 +14196,12 @@
     "alt_name": "MNA Aussenstelle Obstgartensteig",
     "amenity": "social_facility",
     "building": "apartments",
+    "building:levels": "3",
     "contact:phone": "+41 79 624 91 01",
     "contact:website": "https://www.stadt-zuerich.ch/aoz/de/index/sozialhilfe/mje/Standorte-und-Kontakte.html",
     "name": "MNA-Wohngruppe Obstgarten",
     "operator": "AOZ, Asylorganisation Zürich",
+    "roof:levels": "1",
     "social_facility": "group_home",
     "id": "way/108361341"
   },
