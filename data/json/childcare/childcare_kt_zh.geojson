@@ -8408,6 +8408,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/7664023600",
+  "properties": {
+    "amenity": "childcare",
+    "check_date": "2026-02-15",
+    "name": "Fugu Kinderkrippe",
+    "id": "node/7664023600"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5929742,
+      47.4158641
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/7875969265",
   "properties": {
     "after_school": "yes",
@@ -9141,13 +9158,16 @@
   "properties": {
     "amenity": "childcare",
     "name": "Sikalino",
+    "operator": "ABB Kinderkrippen",
+    "phone": "+41 444320182",
+    "website": "https://abbkinderkrippen.ch",
     "id": "node/8905684629"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4928536,
-      47.3979682
+      8.4929046,
+      47.3978848
     ]
   }
 },

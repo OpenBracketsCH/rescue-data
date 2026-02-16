@@ -1096,6 +1096,7 @@
     "addr:street": "Rosengartenweg",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2026-02-15",
     "name": "Kindergarten Merzenbrunnen",
     "roof:shape": "pyramidal",
     "id": "way/195651048"

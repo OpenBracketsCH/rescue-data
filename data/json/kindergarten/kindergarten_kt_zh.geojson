@@ -38703,22 +38703,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7664023600",
-  "properties": {
-    "amenity": "kindergarten",
-    "name": "Fugu Kinderkrippe",
-    "id": "node/7664023600"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.59277,
-      47.4159524
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7823329279",
   "properties": {
     "addr:city": "Horgen",

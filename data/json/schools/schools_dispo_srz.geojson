@@ -120495,6 +120495,7 @@
   "id": "way/1164298985",
   "properties": {
     "amenity": "school",
+    "check_date": "2026-02-15",
     "contact:city": "Zürich",
     "contact:housename": "Schulhaus Allmend",
     "contact:housenumber": "51",
