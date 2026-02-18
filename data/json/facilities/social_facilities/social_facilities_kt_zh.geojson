@@ -20029,12 +20029,15 @@
   "type": "Feature",
   "id": "way/187943413",
   "properties": {
+    "addr:city": "Wangen",
     "addr:housenumber": "58",
+    "addr:postcode": "8602",
     "addr:street": "Hegnaustrasse",
     "amenity": "social_facility",
     "building": "yes",
     "email": "info@wohnwerkwangen.ch",
     "name": "WohnWerkWangen",
+    "operator": "Stiftung WohnWerkWangen",
     "phone": "+41 44 805 99 00",
     "social_facility": "workshop",
     "website": "https://wohnwerkwangen.ch/",
@@ -42606,6 +42609,120 @@
         [
           8.4756423,
           47.3899242
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1479826151",
+  "properties": {
+    "addr:city": "Wetzikon (ZH)",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "8623",
+    "addr:street": "Hinwilerstrasse",
+    "amenity": "social_facility",
+    "email": "info@oaselindenhof.ch",
+    "name": "Oase Lindenhof Wetzikon",
+    "operator": "Oase Gruppe",
+    "phone": "+41 44 508 81 81",
+    "social_facility": "nursing_home",
+    "website": "https://oaselindenhof-wetzikon.ch/",
+    "id": "way/1479826151"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.811078,
+          47.3323355
+        ],
+        [
+          8.8110417,
+          47.3321892
+        ],
+        [
+          8.8108409,
+          47.3322108
+        ],
+        [
+          8.8108483,
+          47.3321553
+        ],
+        [
+          8.8109167,
+          47.3320653
+        ],
+        [
+          8.8110891,
+          47.3320336
+        ],
+        [
+          8.8109223,
+          47.3316991
+        ],
+        [
+          8.8110625,
+          47.3316573
+        ],
+        [
+          8.8110424,
+          47.3316093
+        ],
+        [
+          8.8116715,
+          47.331339
+        ],
+        [
+          8.8117081,
+          47.3314299
+        ],
+        [
+          8.8121161,
+          47.3307827
+        ],
+        [
+          8.8125146,
+          47.3309178
+        ],
+        [
+          8.8122363,
+          47.331307
+        ],
+        [
+          8.8120507,
+          47.3316338
+        ],
+        [
+          8.8119619,
+          47.3318546
+        ],
+        [
+          8.8119057,
+          47.3320305
+        ],
+        [
+          8.8118687,
+          47.3321753
+        ],
+        [
+          8.8118389,
+          47.3323437
+        ],
+        [
+          8.8112516,
+          47.3322972
+        ],
+        [
+          8.8112457,
+          47.3323402
+        ],
+        [
+          8.811078,
+          47.3323355
         ]
       ]
     ]
