@@ -29393,6 +29393,7 @@
     "layer": "2",
     "lit": "yes",
     "maxspeed": "80",
+    "name": "Sihlhochstrasse",
     "oneway": "yes",
     "ref": "A3W",
     "surface": "asphalt",

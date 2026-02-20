@@ -17052,66 +17052,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/252135073",
-  "properties": {
-    "addr:city": "Hinwil",
-    "addr:country": "CH",
-    "addr:housenumber": "2",
-    "addr:postcode": "8340",
-    "addr:street": "Täusistrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "education": "kindergarten",
-    "name": "Kindergarten Wihalden 1+2",
-    "phone": "+41 44 937 24 76",
-    "id": "way/252135073"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.840336,
-          47.3047398
-        ],
-        [
-          8.8403016,
-          47.3047134
-        ],
-        [
-          8.8402896,
-          47.3047213
-        ],
-        [
-          8.8402056,
-          47.3046607
-        ],
-        [
-          8.8404218,
-          47.3045218
-        ],
-        [
-          8.8405061,
-          47.3045834
-        ],
-        [
-          8.8404937,
-          47.3045918
-        ],
-        [
-          8.8405285,
-          47.3046159
-        ],
-        [
-          8.840336,
-          47.3047398
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/253300013",
   "properties": {
     "addr:city": "Wetzikon",
@@ -32773,6 +32713,49 @@
         [
           8.4739772,
           47.3909964
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1480747819",
+  "properties": {
+    "addr:city": "Hinwil",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8340",
+    "addr:street": "Täusistrasse",
+    "amenity": "kindergarten",
+    "education": "kindergarten",
+    "name": "Kindergarten Wihalden 1+2",
+    "phone": "+41 44 937 24 76",
+    "id": "way/1480747819"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8400733,
+          47.3046373
+        ],
+        [
+          8.8403529,
+          47.3044595
+        ],
+        [
+          8.8406878,
+          47.3047018
+        ],
+        [
+          8.8404082,
+          47.3048795
+        ],
+        [
+          8.8400733,
+          47.3046373
         ]
       ]
     ]
