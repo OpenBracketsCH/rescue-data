@@ -1823,32 +1823,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/935796165",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "173",
-    "addr:postcode": "8046",
-    "addr:street": "In Böden",
-    "amenity": "police",
-    "check_date": "2024-01-16",
-    "name": "Quartierwache Affoltern",
-    "opening_hours": "Mo 08:00-12:00, 13:00-17:00; Tu-Th 11:00-17:30",
-    "operator": "Stadtpolizei Zürich",
-    "operator:wikidata": "Q2327949",
-    "wheelchair": "yes",
-    "id": "node/935796165"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5076354,
-      47.4194962
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/983436285",
   "properties": {
     "addr:city": "Zürich",
