@@ -7527,10 +7527,12 @@
   "id": "node/7644008591",
   "properties": {
     "access": "yes",
+    "check_date": "2026-02-21",
     "defibrillator:location": "Sporthalle Munot",
     "description": "nur zugänglich wenn Gebäude geöffnet sind",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "id": "node/7644008591"
   },
   "geometry": {
@@ -98157,6 +98159,28 @@
     "coordinates": [
       8.8567752,
       47.1874658
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13586517101",
+  "properties": {
+    "defibrillator:location": "Aussen an der Hausfassade",
+    "description": "Über Tor steigen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Holcim Schweiz AG",
+    "phone": "+41 58 850 11 10",
+    "id": "node/13586517101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6247215,
+      46.9990414
     ]
   }
 }
