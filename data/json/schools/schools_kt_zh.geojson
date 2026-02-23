@@ -3565,6 +3565,7 @@
   "id": "way/23173324",
   "properties": {
     "amenity": "school",
+    "check_date": "2026-02-22",
     "contact:city": "Zürich",
     "contact:housenumber": "203",
     "contact:phone": "+41 44 413 13 60",
@@ -103644,6 +103645,30 @@
     "coordinates": [
       8.6040307,
       47.3975456
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13586289390",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "74",
+    "addr:postcode": "8050",
+    "addr:street": "Thurgauerstrasse",
+    "amenity": "school",
+    "email": "zuerich@cesma.ch",
+    "isced:level": "6",
+    "name": "CESMA",
+    "phone": "+41 44 680 19 73",
+    "website": "https://cesma.ch/",
+    "id": "node/13586289390"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5549318,
+      47.4173299
     ]
   }
 }

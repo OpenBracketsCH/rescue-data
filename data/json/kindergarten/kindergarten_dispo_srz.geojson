@@ -37353,6 +37353,90 @@
 },
 {
   "type": "Feature",
+  "id": "way/1481960649",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "64",
+    "addr:postcode": "8105",
+    "addr:street": "Gerenstrasse",
+    "amenity": "kindergarten",
+    "name": "Kindergarten Geren",
+    "id": "way/1481960649"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4624364,
+          47.4357114
+        ],
+        [
+          8.4628985,
+          47.435688
+        ],
+        [
+          8.4629937,
+          47.4363623
+        ],
+        [
+          8.4627808,
+          47.4363647
+        ],
+        [
+          8.4624364,
+          47.4357114
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1481961262",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "6",
+    "addr:postcode": "8105",
+    "addr:street": "Im Dreispitz",
+    "amenity": "kindergarten",
+    "name": "Kindergarten im Dreispitz",
+    "id": "way/1481961262"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4637215,
+          47.4364028
+        ],
+        [
+          8.4642837,
+          47.4361363
+        ],
+        [
+          8.4643659,
+          47.4365678
+        ],
+        [
+          8.4637302,
+          47.4366352
+        ],
+        [
+          8.4636824,
+          47.4365704
+        ],
+        [
+          8.4637215,
+          47.4364028
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",
@@ -42638,6 +42722,7 @@
   "id": "node/6631721953",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-02-22",
     "contact:city": "Zürich",
     "contact:housenumber": "30",
     "contact:phone": "+41 44 413 13 66",
@@ -45209,6 +45294,7 @@
   "id": "node/9363555146",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-02-22",
     "contact:city": "Zürich",
     "contact:housenumber": "248",
     "contact:phone": "+41 44 413 08 67",
@@ -47575,26 +47661,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9939315440",
-  "properties": {
-    "addr:city": "Regensdorf",
-    "addr:housenumber": "64",
-    "addr:postcode": "8105",
-    "addr:street": "Gerenstrasse",
-    "amenity": "kindergarten",
-    "name": "Kindergarten Geren",
-    "id": "node/9939315440"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.46275,
-      47.4359695
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9939319861",
   "properties": {
     "addr:city": "Regensdorf",
@@ -47657,26 +47723,6 @@
     "coordinates": [
       8.4672161,
       47.4287666
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9939356512",
-  "properties": {
-    "addr:city": "Regensdorf",
-    "addr:housenumber": "6",
-    "addr:postcode": "8105",
-    "addr:street": "Im Dreispitz",
-    "amenity": "kindergarten",
-    "name": "Kindergarten im Dreispitz",
-    "id": "node/9939356512"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4639242,
-      47.4364794
     ]
   }
 },

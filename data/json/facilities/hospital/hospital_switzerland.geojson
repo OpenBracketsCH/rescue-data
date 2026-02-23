@@ -59777,6 +59777,28 @@
       47.2983819
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13591375401",
+  "properties": {
+    "addr:housenumber": "10",
+    "addr:street": "Kantonsspital",
+    "amenity": "clinic",
+    "email": "dermatologie.luzern@luks.ch",
+    "name": "Zentrum für Dermatologie und Allergologie - Luzerner Kantonsspital - Haus 10",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
+    "phone": "+41412055225",
+    "website": "https://www.luks.ch/standorte/standort-luzern/zentrum-fuer-dermatologie-und-allergologie",
+    "id": "node/13591375401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2949899,
+      47.0576696
+    ]
+  }
 }
 ]
 }

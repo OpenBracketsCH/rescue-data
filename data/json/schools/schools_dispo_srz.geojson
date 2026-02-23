@@ -4183,6 +4183,7 @@
   "id": "way/23173324",
   "properties": {
     "amenity": "school",
+    "check_date": "2026-02-22",
     "contact:city": "Zürich",
     "contact:housenumber": "203",
     "contact:phone": "+41 44 413 13 60",
@@ -25445,10 +25446,14 @@
     "addr:postcode": "6340",
     "addr:street": "Inwilerstrasse",
     "amenity": "school",
-    "building": "yes",
+    "building": "commercial",
+    "building:levels": "3",
+    "building:material": "metal",
     "grades": "7-9",
     "isced:level": "2",
     "name": "Sternmatt II",
+    "roof:levels": "0",
+    "roof:shape": "flat",
     "website": "https://www.sternmatt2.ch/",
     "id": "way/54362493"
   },
@@ -131389,6 +131394,30 @@
     "coordinates": [
       8.6040307,
       47.3975456
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13586289390",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "74",
+    "addr:postcode": "8050",
+    "addr:street": "Thurgauerstrasse",
+    "amenity": "school",
+    "email": "zuerich@cesma.ch",
+    "isced:level": "6",
+    "name": "CESMA",
+    "phone": "+41 44 680 19 73",
+    "website": "https://cesma.ch/",
+    "id": "node/13586289390"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5549318,
+      47.4173299
     ]
   }
 }
