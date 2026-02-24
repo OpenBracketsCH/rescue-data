@@ -35513,6 +35513,7 @@
     "addr:postcode": "6300",
     "addr:street": "Grienbachstrasse",
     "barrier": "gate",
+    "barrier:remote_control": "gate",
     "check_date": "2023-04-26",
     "name": "Büro AG",
     "office": "company",
@@ -108983,6 +108984,21 @@
     "coordinates": [
       8.6479007,
       47.4049313
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13592293874",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/13592293874"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5987788,
+      47.4202821
     ]
   }
 }

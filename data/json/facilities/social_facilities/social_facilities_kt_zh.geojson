@@ -49290,11 +49290,11 @@
     "addr:street": "Stauffacherstrasse",
     "amenity": "social_facility",
     "name": "Imbiss54",
-    "opening_hours": "Fr 11:45-13:30",
+    "opening_hours": "Fr 11-14",
     "operator": "netz4",
     "operator:type": "association",
     "social_facility": "soup_kitchen",
-    "website": "https://netz4.ch/unsere-angebote/imbiss54/",
+    "website": "https://netz4.ch/imbiss54-2/",
     "id": "node/12160511961"
   },
   "geometry": {
@@ -49861,6 +49861,74 @@
     "coordinates": [
       8.4943426,
       47.3890715
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13593537748",
+  "properties": {
+    "addr:housenumber": "31",
+    "addr:street": "Ankerstrasse",
+    "amenity": "social_facility",
+    "name": "Imbiss Hope",
+    "opening_hours": "Mo,We 12:00-13:00",
+    "operator": "Heilsarmee Zentral",
+    "website": "https://www.zenti.ch/dienst-am-n%C3%A4chsten/imbiss-hope/",
+    "id": "node/13593537748"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5244438,
+      47.3736265
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13593546516",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "62",
+    "addr:postcode": "8005",
+    "addr:street": "Konradstrasse",
+    "amenity": "social_facility",
+    "name": "Gassencafé Sunestube",
+    "opening_hours": "Mo 12:00-19:00; Tu-Su 06:00-11:00,12:00-14:30; Th 06:00-11:00,12:00-13:30",
+    "operator": "Sozialwerk Pfarrer Sieber",
+    "social_facility": "soup_kitchen",
+    "website": "https://www.swsieber.ch/was-wir-tun/auffangen/gassencafe/",
+    "id": "node/13593546516"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5341371,
+      47.3817082
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13593557193",
+  "properties": {
+    "addr:city": "Schlieren",
+    "addr:housenumber": "7",
+    "addr:postcode": "8952",
+    "addr:street": "Zürcherstrasse",
+    "amenity": "social_facility",
+    "name": "Mittagstisch",
+    "opening_hours": "Mo-Fr 12:00",
+    "social_facility": "soup_kitchen",
+    "website": "https://sd-l.ch/mittag",
+    "id": "node/13593557193"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4490574,
+      47.3981184
     ]
   }
 }

@@ -8410,16 +8410,28 @@
   "type": "Feature",
   "id": "node/7664023600",
   "properties": {
+    "addr:city": "Wallisellen",
+    "addr:housenumber": "10",
+    "addr:postcode": "8304",
+    "addr:street": "Zentralstrasse",
+    "alt_name": "Fugu Kinderkrippe",
     "amenity": "childcare",
+    "branch": "Wallisellen",
+    "brand": "kita fugu",
+    "brand:website": "https://www.kitafugu.ch/",
     "check_date": "2026-02-15",
-    "name": "Fugu Kinderkrippe",
+    "fee": "yes",
+    "name": "kita fugu",
+    "operator": "Fugu Kinderkrippen",
+    "operator:type": "private",
+    "website": "https://www.kitafugu.ch/fugu-kinderkrippe-wallisellen/",
     "id": "node/7664023600"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5929742,
-      47.4158641
+      8.5929925,
+      47.4158597
     ]
   }
 },
