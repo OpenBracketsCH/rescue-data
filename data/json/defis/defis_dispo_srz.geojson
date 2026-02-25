@@ -85540,17 +85540,19 @@
   "type": "Feature",
   "id": "node/12579002301",
   "properties": {
+    "access": "permissive",
     "defibrillator:location": "Schulhaus Alpenblick",
+    "description": "während Schulbetrieb verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
+    "indoor": "yes",
     "id": "node/12579002301"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
       8.8446164,
-      47.2559809
+      47.2559811
     ]
   }
 },
@@ -98201,6 +98203,53 @@
     "coordinates": [
       8.4040301,
       47.4264035
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13594886201",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Turnhalle Lehrer Garderobe",
+    "description": "Während Öffnungszeiten beschränkt verfügbar nur mit Schlüssel",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00 - 17:00",
+    "operator": "Schule Rüti",
+    "phone": "+41 55 251 33 80",
+    "id": "node/13594886201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8545362,
+      47.2576644
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13596462301",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Ebene Coop bei Lift",
+    "description": "Während Laden Öffnungszeiten ￼",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Baugenossenschaft Zurlinden",
+    "phone": "+41444971060",
+    "id": "node/13596462301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5142359,
+      47.3263006
     ]
   }
 }

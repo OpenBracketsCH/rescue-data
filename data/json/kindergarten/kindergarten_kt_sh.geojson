@@ -2577,7 +2577,7 @@
     "addr:postcode": "8262",
     "addr:street": "Sonnenstrasse",
     "amenity": "kindergarten",
-    "building": "yes",
+    "building": "kindergarten",
     "building:colour": "grey",
     "check_date": "2024-10-20",
     "name": "Kindergarten Ramsen",
