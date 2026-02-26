@@ -49290,7 +49290,7 @@
     "addr:street": "Stauffacherstrasse",
     "amenity": "social_facility",
     "name": "Imbiss54",
-    "opening_hours": "Fr 11-14",
+    "opening_hours": "Fr 11:00-14:00",
     "operator": "netz4",
     "operator:type": "association",
     "social_facility": "soup_kitchen",

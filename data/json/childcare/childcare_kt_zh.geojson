@@ -7176,23 +7176,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6399153075",
-  "properties": {
-    "amenity": "childcare",
-    "check_date": "2023-07-05",
-    "name": "Sternenstaub",
-    "id": "node/6399153075"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5537838,
-      47.4166088
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6448595308",
   "properties": {
     "amenity": "childcare",
