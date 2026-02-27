@@ -31572,6 +31572,7 @@
   "id": "way/1004319558",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-02-26",
     "contact:city": "Zürich",
     "contact:housenumber": "217",
     "contact:phone": "+41 43 488 38 18",

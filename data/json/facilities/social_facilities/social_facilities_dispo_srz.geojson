@@ -39455,6 +39455,62 @@
 },
 {
   "type": "Feature",
+  "id": "way/639170939",
+  "properties": {
+    "addr:city": "Brunnen",
+    "addr:housenumber": "2a",
+    "addr:postcode": "6440",
+    "addr:street": "Muotastrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Durchgangszentrum Brunnen",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
+    "website": "https://www.caritas.ch/de/engagement-im-asyl-und-integrationsbereich-im-kanton-schwyz/?showCollapsible=%5B%22DZ%20Brunnen%22%5D",
+    "id": "way/639170939"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6073071,
+          47.0024408
+        ],
+        [
+          8.6072377,
+          47.0026643
+        ],
+        [
+          8.6066503,
+          47.0025783
+        ],
+        [
+          8.6066814,
+          47.0024757
+        ],
+        [
+          8.6065788,
+          47.0024592
+        ],
+        [
+          8.6066065,
+          47.0023747
+        ],
+        [
+          8.6066192,
+          47.0023361
+        ],
+        [
+          8.6073071,
+          47.0024408
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/655416723",
   "properties": {
     "addr:city": "Zürich",
@@ -42637,13 +42693,14 @@
     "amenity": "social_facility",
     "building": "yes",
     "building:levels": "6",
-    "email": "info@vivale-neuhegi.ch",
-    "name": "Vivale Neuhegi",
+    "email": "neuhegi@tertianum.ch",
+    "name": "Tertianum Neuhegi",
+    "old_name": "Vivale Neuhegi",
     "operator": "Reliva AG",
     "phone": "+41 43 268 17 00",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
-    "website": "https://vivale-neuhegi.ch/",
+    "website": "https://www.tertianum.ch/wohn-pflegezentrum/tertianum-neuhegi",
     "wheelchair": "yes",
     "id": "way/833404852"
   },

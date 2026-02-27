@@ -100668,6 +100668,7 @@
   "properties": {
     "barrier": "lift_gate",
     "bicycle": "yes",
+    "bus": "yes",
     "foot": "yes",
     "lift_gate:type": "single",
     "motor_vehicle": "unknown",

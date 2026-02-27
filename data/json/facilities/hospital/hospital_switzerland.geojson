@@ -59630,6 +59630,7 @@
     "email": "aarau@sanacare.ch",
     "healthcare": "clinic",
     "healthcare:speciality": "general",
+    "level": "3",
     "name": "Sanacare",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "operator": "Sanacare AG",

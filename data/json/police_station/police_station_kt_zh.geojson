@@ -2320,6 +2320,7 @@
     "operator": "Stadt Illnau-Effretikon",
     "phone": "+41 52 354 23 33",
     "website": "https://www.ilef.ch/stadtverwaltung/verwaltung/stadtpolizei/",
+    "wheelchair": "yes",
     "id": "node/3566325747"
   },
   "geometry": {
