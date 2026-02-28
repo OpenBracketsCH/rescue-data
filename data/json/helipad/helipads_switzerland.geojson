@@ -8430,8 +8430,11 @@
     "aeroway": "helipad",
     "building": "yes",
     "icao": "LSXO",
+    "lit": "yes",
     "name": "REGA",
+    "operator": "REGA",
     "ref": "Rega 7",
+    "surface": "asphalt",
     "id": "way/774926916"
   },
   "geometry": {
@@ -16112,44 +16115,6 @@
         [
           9.9980534,
           46.6183703
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/1199425094",
-  "properties": {
-    "aeroway": "helipad",
-    "name": "St. Gallen-Winkeln Heliport",
-    "operator": "Schweizerische Rettungsflugwacht REGA",
-    "source": "ourairports.com",
-    "id": "way/1199425094"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          9.2903183,
-          47.405619
-        ],
-        [
-          9.2902559,
-          47.4054914
-        ],
-        [
-          9.2904419,
-          47.4054499
-        ],
-        [
-          9.2905043,
-          47.4055781
-        ],
-        [
-          9.2903183,
-          47.405619
         ]
       ]
     ]
