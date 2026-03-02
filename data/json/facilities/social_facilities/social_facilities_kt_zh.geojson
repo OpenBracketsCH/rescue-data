@@ -44676,6 +44676,7 @@
     "addr:street": "Hohlstrasse",
     "amenity": "social_facility",
     "capacity": "45",
+    "check_date": "2026-03-01",
     "name": "Tertianum Letzipark",
     "operator": "Tertianum",
     "phone": "+41 44 542 27 27",
@@ -44689,8 +44690,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4988686,
-      47.3875911
+      8.4991662,
+      47.3876167
     ]
   }
 },

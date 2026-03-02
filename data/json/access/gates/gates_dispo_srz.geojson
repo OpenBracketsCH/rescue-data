@@ -89013,21 +89013,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11134261208",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/11134261208"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6353679,
-      47.4060851
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11135855326",
   "properties": {
     "barrier": "gate",
@@ -93975,7 +93960,7 @@
   "properties": {
     "access": "yes",
     "barrier": "lift_gate",
-    "description": "Strasse während der Amphibienwanderung gesperrt.",
+    "description": "Strasse während der Amphibienwanderung gesperrt.\nRoad closed during amphibian migration.",
     "lift_gate:type": "single",
     "locked": "no",
     "motor_vehicle:conditional": "no @ (Feb Mo[-1]-Apr 16 18:00-08:00; Jun 1-Jul 31)",
@@ -93984,8 +93969,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6188238,
-      47.4813794
+      8.6188279,
+      47.4814257
     ]
   }
 },
@@ -94313,7 +94298,7 @@
   "properties": {
     "access": "yes",
     "barrier": "lift_gate",
-    "description": "Strasse während der Amphibienwanderung gesperrt.",
+    "description": "Strasse während der Amphibienwanderung gesperrt.\nRoad closed during amphibian migration.",
     "lift_gate:type": "single",
     "locked": "no",
     "motor_vehicle:conditional": "no @ (Feb 15-Apr 15 Mo-Su 18:00-08:00; Jun-Jul; Oct 10-Nov 20 19:00-07:00)",
@@ -94322,8 +94307,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6287915,
-      47.4599089
+      8.6288423,
+      47.460026
     ]
   }
 },
@@ -94333,7 +94318,7 @@
   "properties": {
     "access": "yes",
     "barrier": "lift_gate",
-    "description": "Strasse während der Amphibienwanderung gesperrt.",
+    "description": "Strasse während der Amphibienwanderung gesperrt.\nRoad closed during amphibian migration.",
     "lift_gate:type": "single",
     "locked": "no",
     "motor_vehicle:conditional": "no @ (Feb 15-Apr 15 Mo-Su 18:00-08:00; Jun-Jul; Oct 10-Nov 20 19:00-07:00)",
@@ -94342,8 +94327,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6207722,
-      47.4670494
+      8.6204632,
+      47.4674261
     ]
   }
 },

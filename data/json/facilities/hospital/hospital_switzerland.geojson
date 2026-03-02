@@ -5715,72 +5715,76 @@
     "coordinates": [
       [
         [
-          8.9534676,
-          46.0191393
+          8.9535282,
+          46.0191294
         ],
         [
-          8.9529808,
-          46.0188719
+          8.9528429,
+          46.0187561
         ],
         [
-          8.9522108,
-          46.0184686
+          8.9523527,
+          46.0184908
         ],
         [
-          8.9522485,
-          46.018366
+          8.9522936,
+          46.0183883
         ],
         [
-          8.9521605,
-          46.0183013
+          8.952264,
+          46.0183172
         ],
         [
-          8.9520313,
-          46.0183159
+          8.9521872,
+          46.0182761
         ],
         [
-          8.9519485,
-          46.0182355
+          8.95201,
+          46.0182119
         ],
         [
-          8.9515049,
-          46.0174303
+          8.9518939,
+          46.0180423
         ],
         [
-          8.9514763,
-          46.0173784
+          8.951628,
+          46.017494
         ],
         [
-          8.9512033,
-          46.0169214
+          8.9514646,
+          46.0172274
         ],
         [
-          8.9510525,
-          46.0166215
+          8.9512756,
+          46.0169443
         ],
         [
-          8.9509942,
-          46.0162698
+          8.9511141,
+          46.0166052
+        ],
+        [
+          8.9510668,
+          46.0162825
         ],
         [
           8.952375,
           46.0169995
         ],
         [
-          8.9532542,
-          46.0175712
+          8.9534612,
+          46.0177511
         ],
         [
-          8.9545654,
-          46.0186155
+          8.9544999,
+          46.0186468
         ],
         [
           8.9542047,
           46.0187876
         ],
         [
-          8.9534676,
-          46.0191393
+          8.9535282,
+          46.0191294
         ]
       ]
     ]
@@ -23305,10 +23309,6 @@
   "type": "Feature",
   "id": "way/305875553",
   "properties": {
-    "addr:city": "Poschiavo",
-    "addr:housenumber": "1",
-    "addr:postcode": "7742",
-    "addr:street": "Via da li Clüsüri",
     "amenity": "hospital",
     "building": "yes",
     "healthcare": "hospital",
@@ -50565,7 +50565,7 @@
     "emergency": "no",
     "healthcare": "hospital",
     "layer": "1",
-    "name": "Haus 7A",
+    "name": "Haus 07A",
     "operator": "HOCH Health Ostschweiz",
     "operator:type": "public",
     "roof:shape": "flat",
@@ -50584,6 +50584,14 @@
           47.4306958
         ],
         [
+          9.3876309,
+          47.4305247
+        ],
+        [
+          9.3872331,
+          47.4303538
+        ],
+        [
           9.3870799,
           47.430288
         ],
@@ -50596,16 +50604,20 @@
           47.4301527
         ],
         [
-          9.3865154,
-          47.4299652
+          9.3864918,
+          47.4299546
         ],
         [
-          9.3865862,
-          47.4298844
+          9.3865584,
+          47.4298775
         ],
         [
-          9.3866786,
-          47.4297789
+          9.3866568,
+          47.4297678
+        ],
+        [
+          9.3870343,
+          47.4299291
         ],
         [
           9.3870636,
@@ -50782,55 +50794,6 @@
         [
           7.9455548,
           47.2952903
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/1457725124",
-  "properties": {
-    "addr:city": "St. Gallen",
-    "addr:housenumber": "10",
-    "addr:postcode": "9000",
-    "addr:street": "Spitalstrasse",
-    "amenity": "hospital",
-    "building": "hospital",
-    "emergency": "yes",
-    "healthcare": "hospital",
-    "name": "Ostschweizer Kinderspital",
-    "operator": "Ostschweizer Kinderspital",
-    "operator:type": "public",
-    "id": "way/1457725124"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          9.3880294,
-          47.4306958
-        ],
-        [
-          9.3882739,
-          47.4304362
-        ],
-        [
-          9.3888345,
-          47.4306807
-        ],
-        [
-          9.3883919,
-          47.4311415
-        ],
-        [
-          9.3878368,
-          47.4309052
-        ],
-        [
-          9.3880294,
-          47.4306958
         ]
       ]
     ]
@@ -54190,21 +54153,467 @@
 },
 {
   "type": "Feature",
+  "id": "node/6310537820",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "infectious_diseases",
+    "name": "Klinik für Infektiologie, Infektionsprävention und Reisemedizin",
+    "phone": "+41 71 494 10 28",
+    "website": "https://www.h-och.ch/infektiologie-infektionspraevention-reisemedizin/",
+    "id": "node/6310537820"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.388901,
+      47.4297004
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537822",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Klinik für Angiologie",
+    "phone": "+41 71 494 19 19",
+    "website": "https://www.h-och.ch/angiologie/",
+    "id": "node/6310537822"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3894616,
+      47.4301812
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537823",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Augenklinik",
+    "phone": "+41 71 494 17 71",
+    "website": "https://www.h-och.ch/augenklinik/",
+    "id": "node/6310537823"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3893677,
+      47.43031
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537824",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Medizinisches Forschungszentrum",
+    "phone": "+41 71 494 10 93",
+    "website": "https://www.h-och.ch/ueber-uns/organisation/departemente/medizinisches-forschungszentrum/",
+    "id": "node/6310537824"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3893328,
+      47.4303935
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537825",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Klinik für Nephrologie und Transplantationsmedizin",
+    "phone": "+41 71 494 12 44",
+    "website": "https://www.h-och.ch/nephrologie-transplantationsmedizin/",
+    "id": "node/6310537825"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3869477,
+      47.4318999
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537826",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Klinik für Geburtshilfe und Gynäkologie",
+    "phone": "+41 71 494 69 69",
+    "website": "https://www.h-och.ch/gynaekologie-geburtshilfe/",
+    "id": "node/6310537826"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3881661,
+      47.4314967
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537827",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Beckenbodenzentrum",
+    "phone": "+41 71 494 30 01",
+    "website": "https://www.h-och.ch/beckenbodenzentrum/",
+    "id": "node/6310537827"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3885434,
+      47.4314767
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537828",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Brustzentrum St. Gallen",
+    "phone": "+41 71 494 11 77",
+    "website": "https://www.h-och.ch/brustzentrum/",
+    "id": "node/6310537828"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.388757,
+      47.4315257
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537829",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Ergo- und Physiotherapie",
+    "phone": "+41 71 494 15 75",
+    "website": "https://www.h-och.ch/ergo-und-physiotherapie/",
+    "id": "node/6310537829"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3876645,
+      47.4310449
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537830",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Klinik für Rheumatologie",
+    "phone": "+41 71 494 11 32",
+    "website": "https://www.h-och.ch/rheumatologie/",
+    "id": "node/6310537830"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3877208,
+      47.431161
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537831",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Klinik für Neurologie",
+    "phone": "+41 71 494 90 30",
+    "website": "https://www.h-och.ch/neurologie/",
+    "id": "node/6310537831"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3872783,
+      47.4306875
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537832",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Hals-Nasen-Ohrenklinik",
+    "phone": "+41 71 494 17 01",
+    "website": "https://www.h-och.ch/hals-nasen-ohrenklinik/",
+    "id": "node/6310537832"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3871576,
+      47.4308254
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537833",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Klinik für Neurochirurgie",
+    "phone": "+41 71 494 11 99",
+    "website": "https://www.h-och.ch/neurochirurgie/",
+    "id": "node/6310537833"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3873051,
+      47.4308834
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537834",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "pathology",
+    "name": "Institut für Pathologie",
+    "phone": "+41 71 494 67 00",
+    "website": "https://www.h-och.ch/pathologie/",
+    "id": "node/6310537834"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3895661,
+      47.4311878
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6310537835",
   "properties": {
     "amenity": "clinic",
     "healthcare": "clinic",
     "healthcare:speciality": "general;internal",
-    "name": "Klinik für Allgemeine Innere Medizin/Hausarztmedizin",
-    "phone": "+41 71 494 10 02",
-    "website": "https://www.kssg.ch/aim",
+    "name": "Allgemeine Innere Medizin, Hausarztmedizin und Notfallmedizin",
+    "phone": "+41 71 494 95 96",
+    "website": "https://www.h-och.ch/aim",
     "id": "node/6310537835"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      9.3857306,
-      47.4308199
+      9.3867686,
+      47.4318204
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537836",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "pulmonology",
+    "name": "Klinik für Pneumologie und Schlafmedizin",
+    "phone": "+41 71 494 99 55",
+    "website": "https://www.h-och.ch/pneumologie-schlafmedizin/",
+    "id": "node/6310537836"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3858916,
+      47.4309324
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537837",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Klinik für Orthopädie und Traumatologie",
+    "phone": "+41 71 494 13 91",
+    "website": "https://www.h-och.ch/orthopaedie-traumatologie/",
+    "id": "node/6310537837"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.385978,
+      47.4304223
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537838",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Klinik für Thoraxchirurgie",
+    "phone": "+41 71 494 99 55",
+    "website": "https://www.h-och.ch/thoraxchirurgie/",
+    "id": "node/6310537838"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3865514,
+      47.4301286
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537839",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "oncology",
+    "name": "Klinik für Radio-Onkologie",
+    "phone": "+41 71 494 18 18",
+    "website": "https://www.h-och.ch/radio-onkologie/",
+    "id": "node/6310537839"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3864575,
+      47.4300011
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537840",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "plastic_surgery",
+    "name": "Klinik für Plastische Chirurgie und Handchirurgie",
+    "phone": "+41 71 494 13 75",
+    "website": "https://www.h-och.ch/plastische-chirurgie-handchirurgie/",
+    "id": "node/6310537840"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3866587,
+      47.4302375
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537841",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "vascular_surgery",
+    "name": "Klinik für Gefässchirurgie",
+    "phone": "+41 71 494 19 19",
+    "website": "https://www.h-och.ch/gefaesschirurgie/",
+    "id": "node/6310537841"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3868409,
+      47.4296507
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537842",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology;nuclear",
+    "name": "Netzwerk Radiologie und Nuklearmedizin",
+    "phone": "+41 71 494 66 66",
+    "website": "https://www.h-och.ch/radiologie-nuklearmedizin/",
+    "id": "node/6310537842"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3868303,
+      47.4302883
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537843",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "urology",
+    "name": "Klinik für Urologie",
+    "phone": "+41 71 494 14 16",
+    "website": "https://www.h-och.ch/urologie/",
+    "id": "node/6310537843"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3869403,
+      47.4302629
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310537844",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "intensive",
+    "name": "Klinik Intensivmedizin",
+    "phone": "+41 71 494 10 45",
+    "website": "https://www.h-och.ch/intensivmedizin/",
+    "id": "node/6310537844"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3869135,
+      47.4303155
     ]
   }
 },
