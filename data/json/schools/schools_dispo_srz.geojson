@@ -35436,8 +35436,14 @@
   "type": "Feature",
   "id": "way/106145150",
   "properties": {
+    "addr:housenumber": "2",
+    "addr:postcode": "8912",
+    "addr:street": "Raihaltenstrasse",
     "amenity": "school",
-    "name": "Schulanlage Chilefeld",
+    "email": "schulverwaltung@sek-obfelden.ch",
+    "name": "Sekundarschule Obfelden-Ottenbach",
+    "phone": "+41 44 776 21 05",
+    "website": "https://sek-obfelden.ch",
     "id": "way/106145150"
   },
   "geometry": {
