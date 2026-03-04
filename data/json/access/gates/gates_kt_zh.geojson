@@ -17516,6 +17516,7 @@
   "id": "node/1806446031",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "1.5",
     "id": "node/1806446031"
   },
   "geometry": {
