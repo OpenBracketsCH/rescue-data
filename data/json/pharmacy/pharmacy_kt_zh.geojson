@@ -4967,7 +4967,7 @@
     "branch": "Zürich HB (Südtrakt)",
     "brand": "Amavita",
     "brand:wikidata": "Q93733901",
-    "check_date": "2024-02-25",
+    "check_date": "2026-03-04",
     "healthcare": "pharmacy",
     "indoor": "yes",
     "level": "0",
@@ -7009,6 +7009,8 @@
     "healthcare": "pharmacy",
     "name": "Smartpharm",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00; PH off",
+    "post_office": "post_partner",
+    "post_office:website": "https://places.post.ch/de/001PST_001221176",
     "website": "https://ihre-apotheke.ch/de/2123/duebendorf/apotheke-smartpharm-apotheke-ringstrasse-ag",
     "id": "node/13265064647"
   },

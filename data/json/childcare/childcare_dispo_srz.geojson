@@ -15693,6 +15693,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/12368697987",
+  "properties": {
+    "addr:city": "Rheinau",
+    "addr:housenumber": "6",
+    "addr:postcode": "8462",
+    "addr:street": "Chorbstrasse",
+    "amenity": "childcare",
+    "name": "Im Chorb",
+    "id": "node/12368697987"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6065359,
+      47.6437978
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/12369409571",
   "properties": {
     "amenity": "childcare",

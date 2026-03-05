@@ -4569,6 +4569,7 @@
     "addr:postcode": "8462",
     "addr:street": "Alleestrasse",
     "amenity": "hospital",
+    "check_date": "2026-03-04",
     "emergency": "no",
     "healthcare": "hospital",
     "name": "Zentrum für Stationäre Forensische Therapie und Zentrum für Integrative Psychiatrie",
