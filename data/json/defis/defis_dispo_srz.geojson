@@ -19226,6 +19226,7 @@
   "id": "node/8467137519",
   "properties": {
     "access": "yes",
+    "check_date": "2026-03-05",
     "defibrillator:location": "Lerchenhalde 67. Ecke vom Gebäude, links von de Treppen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -65315,38 +65316,15 @@
 },
 {
   "type": "Feature",
-  "id": "node/11364235570",
+  "id": "node/11364235574",
   "properties": {
-    "access": "yes",
-    "defibrillator:location": "Sportanlage Langacker",
-    "description": "an der Fassade beim Ping-Pongtisch",
+    "defibrillator:location": "Aussenanlage vor Aussenplatz",
+    "description": "Öffentlich Zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "Gemeinde Herrliberg",
-    "phone": "+41 44 915 19 89",
-    "source": "local_knowledge, defikarte.ch",
-    "id": "node/11364235570"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6136145,
-      47.2930131
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11364235574",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Sportanlage Langacker Sanitätszimmer",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
     "level": "0",
+    "opening_hours": "24/7",
     "operator": "Gemeinde Herrliberg",
     "phone": "+41 44 915 19 89",
     "source": "local_knowledge, defikarte.ch",
@@ -65355,8 +65333,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6140209,
-      47.293064
+      8.6135346,
+      47.292659
     ]
   }
 },
@@ -72644,14 +72622,14 @@
   "type": "Feature",
   "id": "node/11848321843",
   "properties": {
-    "access": "permissive",
-    "defibrillator:location": "Werkhalle",
-    "description": "eingeschränkt verfügbar",
+    "access": "private",
+    "defibrillator:location": "In der Werkhalle, bei Tor 8",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "operator": "Firma",
+    "opening_hours": "Mo-Fr 07:00-12:00,13:15-16:45",
+    "operator": "Carlo Vanoli AG",
     "phone": "+41 44 787 81 00",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/11848321843"
@@ -72659,8 +72637,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6874282,
-      47.1902812
+      8.6875516,
+      47.1901098
     ]
   }
 },
@@ -92116,8 +92094,9 @@
   "id": "node/13081246897",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Reformierte Kirche\nHaupteingang / im Innenraum links",
+    "defibrillator:location": "Reformierte Kirche Haupteingang / im Innenraum links",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
     "opening_hours": "Mo-Su 08:00-17:00",
@@ -92127,8 +92106,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7010459,
-      47.2081481
+      8.7010458,
+      47.2081483
     ]
   }
 },
@@ -97954,12 +97933,10 @@
   "properties": {
     "access": "permissive",
     "defibrillator:location": "TH Schanz, Sekundarschule Rüti ZH",
-    "description": "7:00-22.00",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "1",
-    "opening_hours": "7:00-22:00",
     "operator": "Schule Rüti ZH",
     "phone": "+41 79 781 26 21",
     "id": "node/13572836904"
@@ -98426,6 +98403,48 @@
     "coordinates": [
       8.5285821,
       47.3454266
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13620055101",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Zwischen Rezeption und Restaurant an der Hauswand",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Pumpstation Gastro GmbH, Camping Fischer's Fritz",
+    "phone": "+41 78 918 88 15",
+    "id": "node/13620055101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5412889,
+      47.3358184
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13620205601",
+  "properties": {
+    "defibrillator:location": "Schulhaus Sihlquai",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "8",
+    "id": "node/13620205601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5349133,
+      47.3842588
     ]
   }
 }

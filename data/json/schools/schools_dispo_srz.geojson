@@ -58926,7 +58926,9 @@
   "type": "Feature",
   "id": "way/196393812",
   "properties": {
+    "addr:city": "Hittnau",
     "addr:housenumber": "10",
+    "addr:postcode": "8335",
     "addr:street": "Hermetsbüelweg",
     "amenity": "school",
     "building": "yes",
@@ -59013,7 +59015,7 @@
   "id": "way/196394053",
   "properties": {
     "addr:city": "Hittnau",
-    "addr:housenumber": "10",
+    "addr:housenumber": "12",
     "addr:postcode": "8335",
     "addr:street": "Hermetsbüelweg",
     "amenity": "school",
