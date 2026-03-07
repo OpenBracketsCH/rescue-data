@@ -71761,7 +71761,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "MO - FR 8:00 - 18:00 , SA 8:00 - 12:00",
+    "opening_hours": "MO - FR 8:00 - 12:00; 13:15 - 17:30",
     "operator": "Garage Kunz AG",
     "phone": "+41 52 386 12 22",
     "source": "local_knowledge, defikarte.ch",
@@ -76718,6 +76718,72 @@
     "coordinates": [
       8.5349133,
       47.3842588
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13622941701",
+  "properties": {
+    "defibrillator:location": "links vom Eingang Cafeteria",
+    "description": "während Büroöffnungszeiten, ausserhalb Schulferien",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "Reformierte Kirche Kanton Zürich",
+    "id": "node/13622941701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5466672,
+      47.3744093
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13622943401",
+  "properties": {
+    "defibrillator:location": "Keller",
+    "description": "während Büroöffnungszeiten, ausserhalb Schulferien",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "-1",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "Reformierte Kirche Kanton Zürich",
+    "id": "node/13622943401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5464304,
+      47.3708784
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13622951001",
+  "properties": {
+    "defibrillator:location": "Keller",
+    "description": "während Büroöffnungszeiten, ausserhalb der Schulferien",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "-1",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "Reformierte Kirche Kanton Zürich",
+    "id": "node/13622951001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5452877,
+      47.3706294
     ]
   }
 }

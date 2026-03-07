@@ -21251,6 +21251,10 @@
   "type": "Feature",
   "id": "way/203241785",
   "properties": {
+    "addr:city": "Steg im Tösstal",
+    "addr:housenumber": "1",
+    "addr:place": "Bärloch",
+    "addr:postcode": "8496",
     "alt_name": "Bauernhof Bärloch",
     "amenity": "social_facility",
     "building": "yes",
