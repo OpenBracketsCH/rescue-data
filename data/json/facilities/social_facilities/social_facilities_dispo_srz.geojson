@@ -59409,14 +59409,15 @@
   "type": "Feature",
   "id": "node/12518196929",
   "properties": {
-    "addr:housenumber": "89",
-    "addr:street": "Letzigraben",
     "amenity": "social_facility",
-    "check_date": "2025-01-20",
-    "name": "Frauenberatung sexuelle gewalt",
+    "email": "info@frauenberatung.ch",
+    "name": "Frauenberatung sexuelle Gewalt",
+    "operator": "Verein Frauenberatung sexuelle Gewalt",
+    "operator:type": "association",
     "phone": "+41 44 291 46 46",
+    "social_facility": "outreach",
     "social_facility:for": "woman",
-    "website": "https://www.frauenberatung.ch",
+    "website": "https://www.frauenberatung.ch/",
     "id": "node/12518196929"
   },
   "geometry": {

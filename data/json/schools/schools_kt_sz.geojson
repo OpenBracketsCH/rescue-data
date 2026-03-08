@@ -1960,8 +1960,8 @@
           47.1286152
         ],
         [
-          8.7516185,
-          47.1285917
+          8.751606,
+          47.1286014
         ],
         [
           8.7516739,
@@ -9201,7 +9201,9 @@
     "amenity": "school",
     "building": "school",
     "building:levels": "2",
+    "check_date": "2026-03-07",
     "name": "Schule Euthal",
+    "roof:shape": "flat",
     "id": "way/442555927"
   },
   "geometry": {

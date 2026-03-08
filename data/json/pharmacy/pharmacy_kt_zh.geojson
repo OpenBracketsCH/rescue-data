@@ -822,28 +822,24 @@
   "type": "Feature",
   "id": "node/313053471",
   "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "232",
-    "addr:postcode": "8047",
-    "addr:street": "Albisriederstrasse",
     "amenity": "pharmacy",
-    "brand": "Fortis",
-    "check_date": "2025-03-08",
     "dispensing": "yes",
     "drive_through": "no",
+    "email": "utogrund@bluemail.ch",
+    "fax": "+41 44 492 52 44",
     "healthcare": "pharmacy",
     "level": "0",
     "name": "Apotheke Utogrund",
-    "opening_hours": "Mo-We,Fr 07:30-12:30,14:00-18:30; Th 07:30-13:00; Sa 08:00-12:00",
+    "opening_hours": "Mo-We,Fr 08:00-12:30,14:00-18:30; Th 08:00-13:00; Sa 08:00-12:00; Su,PH closed",
+    "phone": "+41 44 492 52 32",
     "website": "https://www.apotheke-utogrund.ch/",
     "id": "node/313053471"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4946389,
-      47.3791065
+      8.4943881,
+      47.3789003
     ]
   }
 },

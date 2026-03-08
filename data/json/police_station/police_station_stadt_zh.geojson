@@ -307,6 +307,7 @@
     "addr:street": "Limmatquai",
     "alt_name": "Kapo",
     "amenity": "police",
+    "check_date": "2026-03-07",
     "name": "Polizeiposten Rathaus Zürich",
     "opening_hours": "Mo-Fr 07:00-17:30",
     "operator": "Kantonspolizei Zürich",
