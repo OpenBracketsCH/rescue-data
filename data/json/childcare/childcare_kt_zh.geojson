@@ -14175,23 +14175,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/11010392090",
-  "properties": {
-    "amenity": "childcare",
-    "level": "-1",
-    "name": "Spielzänti",
-    "id": "node/11010392090"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6800821,
-      47.3888422
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/11133632253",
   "properties": {
     "addr:city": "Esslingen",

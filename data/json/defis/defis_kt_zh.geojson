@@ -76801,6 +76801,73 @@
       47.409267
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13627074201",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "schulhaus wellenau",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "operator": "unklar",
+    "id": "node/13627074201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9051276,
+      47.3659994
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13628466201",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Wohnhaus Bärenmoos",
+    "description": "AED in Kasten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Stiftung WFJB",
+    "phone": "+41 44 720 19 00",
+    "id": "node/13628466201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5777807,
+      47.2727336
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13628509401",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Holzerhurd 31",
+    "description": "Eingang Pavilon",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "id": "node/13628509401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4958166,
+      47.4243837
+    ]
+  }
 }
 ]
 }

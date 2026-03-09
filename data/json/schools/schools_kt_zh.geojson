@@ -10206,6 +10206,7 @@
     "addr:street": "Wipkingerplatz",
     "amenity": "school",
     "building": "school",
+    "check_date": "2026-03-08",
     "name": "Fachschule Viventa, Schulhaus Wipkingen",
     "operator": "Stadt Zürich, SSD, Fachschule Viventa",
     "owner": "Immobilien Stadt Zürich (IMMO)",
@@ -101981,6 +101982,7 @@
     "addr:street": "Neugutstrasse",
     "amenity": "school",
     "name": "Christliche Schule Dübendorf",
+    "website": "https://csduebendorf.ch/",
     "id": "node/9816617971"
   },
   "geometry": {
