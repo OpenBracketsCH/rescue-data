@@ -546,32 +546,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/271225056",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "193",
-    "addr:postcode": "8032",
-    "addr:street": "Forchstrasse",
-    "amenity": "pharmacy",
-    "check_date": "2024-03-03",
-    "healthcare": "pharmacy",
-    "name": "Hirslanden-Apotheke",
-    "opening_hours": "Mo-Fr 07:45-18:30; Sa 07:45-16:00",
-    "operator": "Dr. rer. nat. Karl-Rudolf Reichenbach",
-    "wheelchair": "no",
-    "id": "node/271225056"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5676494,
-      47.3604238
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/272354353",
   "properties": {
     "addr:city": "Zürich",
@@ -1941,6 +1915,7 @@
     "addr:street": "Albisriederstrasse",
     "amenity": "pharmacy",
     "brand": "Rotpunkt Apotheke",
+    "check_date:opening_hours": "2026-03-06",
     "name": "Albis-Apotheke",
     "opening_hours": "Mo-Fr 08:00-12:30,13:15-18:30; Sa 08:00-12:00",
     "operator": "Rotpunkt Pharma",
@@ -3520,7 +3495,7 @@
     "addr:street": "Forchstrasse",
     "alt_name": "Minerva Apotheke am Hegibachplatz",
     "amenity": "pharmacy",
-    "check_date": "2024-03-01",
+    "check_date": "2026-03-09",
     "dispensing": "yes",
     "healthcare": "pharmacy",
     "name": "Minerva Apotheke",

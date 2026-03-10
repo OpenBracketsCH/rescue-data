@@ -103288,6 +103288,25 @@
       47.4173299
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13632902901",
+  "properties": {
+    "addr:housenumber": "2",
+    "addr:postcode": "8912",
+    "addr:street": "Raihaltenstrasse",
+    "amenity": "school",
+    "name": "Sekundarschule Obfelden-Ottenbach",
+    "id": "node/13632902901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4240521,
+      47.2615922
+    ]
+  }
 }
 ]
 }

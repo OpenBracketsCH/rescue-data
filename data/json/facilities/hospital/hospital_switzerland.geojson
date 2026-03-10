@@ -50759,6 +50759,54 @@
 },
 {
   "type": "Feature",
+  "id": "way/1486863211",
+  "properties": {
+    "addr:city": "Stöckalp",
+    "addr:housenumber": "2",
+    "addr:place": "Bergmatt",
+    "addr:postcode": "6067",
+    "amenity": "hospital",
+    "building:levels": "1",
+    "email": "rautenbergkilian9@gmail.com",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general;ophthalmology",
+    "height": "6m",
+    "name": "military",
+    "operator": "kilian",
+    "operator:type": "military",
+    "id": "way/1486863211"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.2813893,
+          46.8058659
+        ],
+        [
+          8.2808401,
+          46.8043633
+        ],
+        [
+          8.283512,
+          46.8040326
+        ],
+        [
+          8.2838275,
+          46.80547
+        ],
+        [
+          8.2813893,
+          46.8058659
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/199578656",
   "properties": {
     "id": "way/199578656"
