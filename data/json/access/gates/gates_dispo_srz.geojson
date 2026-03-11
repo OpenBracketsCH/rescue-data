@@ -12708,6 +12708,7 @@
   "id": "node/725764946",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "2.95",
     "id": "node/725764946"
   },
   "geometry": {
@@ -104240,8 +104241,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6871134,
-      46.9468481
+      8.6871073,
+      46.9468508
     ]
   }
 },
