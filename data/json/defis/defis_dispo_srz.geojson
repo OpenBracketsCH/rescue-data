@@ -76643,13 +76643,13 @@
     "access": "private",
     "addr:housenumber": "5",
     "addr:street": "Poststrasse",
-    "defibrillator:location": "EG, beim Empfang.\n1435LM",
+    "defibrillator:location": "EG, beim Empfang. 1435LM",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "name": "Stäubli International AG",
-    "opening_hours": "Mo-Fr 08:30-12:00 13:30-17:00",
+    "opening_hours": "Mo-Fr 08:30-12:00,13:30-17:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "ref": "1435LTM",
@@ -77232,7 +77232,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "MO-SA 7:00 - 20:00",
+    "opening_hours": "Mo-Sa 07:00-20:00",
     "operator": "Kanton Schwyz",
     "phone": "+41 55 415 13 00",
     "source": "local_knowledge, defikarte.ch",
@@ -77256,7 +77256,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "MO-FR 7:00 - 18:00",
+    "opening_hours": "Mo-Fr 07:00-18:00",
     "operator": "Kanton Schwyz",
     "phone": "+41 55 415 13 00",
     "source": "local_knowledge, defikarte.ch",
@@ -98594,6 +98594,98 @@
     "coordinates": [
       8.5776515,
       47.6931076
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13637646601",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Tor Ahornstrasse",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 00",
+    "id": "node/13637646601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5205761,
+      47.1811886
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13639439201",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Alte Landstrasse 37, 8600 Dübendorf",
+    "description": "Im Treppenhaus",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "operator": "Privat",
+    "phone": "+41 79 831 16 11",
+    "id": "node/13639439201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6476897,
+      47.3929112
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13639455401",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Alte Landstrasse 37, 8600 Dübendorf",
+    "description": "Privat",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "operator": "Privat",
+    "phone": "+41798311611",
+    "id": "node/13639455401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6477153,
+      47.3930016
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13639592979",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Lavaterhaus, unter der Treppe",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Evangelisch-reformierte Kirchgemeinde",
+    "phone": "+41 44 250 66 11",
+    "wheelchair": "limited",
+    "id": "node/13639592979"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.540549,
+      47.3718075
     ]
   }
 }

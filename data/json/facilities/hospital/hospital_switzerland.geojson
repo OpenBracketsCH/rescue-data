@@ -2363,8 +2363,8 @@
           47.3873896
         ],
         [
-          9.2838917,
-          47.3875323
+          9.2838684,
+          47.3875291
         ],
         [
           9.2844301,
@@ -2429,6 +2429,10 @@
         [
           9.2838422,
           47.3888109
+        ],
+        [
+          9.2837877,
+          47.3887939
         ],
         [
           9.2824421,
@@ -35819,6 +35823,7 @@
     "addr:postcode": "4031",
     "addr:street": "Mittlere Strasse",
     "amenity": "clinic",
+    "check_date": "2026-03-11",
     "emergency": "yes",
     "healthcare": "clinic",
     "healthcare:speciality": "ophthalmology",

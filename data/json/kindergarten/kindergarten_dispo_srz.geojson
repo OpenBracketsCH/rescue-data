@@ -38898,6 +38898,7 @@
     "addr:postcode": "8404",
     "addr:street": "Römerstrasse",
     "amenity": "kindergarten",
+    "check_date": "2026-03-11",
     "name": "Kindergarten Unteres Bühl",
     "operator": "Stadt Winterthur",
     "operator:type": "public",
