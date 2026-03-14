@@ -128101,6 +128101,7 @@
   "id": "node/9642445064",
   "properties": {
     "amenity": "school",
+    "check_date": "2026-03-13",
     "contact:city": "Zürich",
     "contact:email": "info@sek3.ch",
     "contact:housenumber": "28",

@@ -35850,11 +35850,11 @@
   "type": "Feature",
   "id": "node/9534300989",
   "properties": {
-    "access": "no",
+    "access": "permissive",
     "defibrillator:location": "Feuerwehrlokal",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
+    "indoor": "yes",
     "id": "node/9534300989"
   },
   "geometry": {
@@ -98755,6 +98755,29 @@
     "coordinates": [
       8.6359094,
       47.7034278
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13644929601",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Einfahrt Tiefgarage",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "IG EICH I",
+    "phone": "+41 79 518 47 20",
+    "id": "node/13644929601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4697601,
+      47.1827189
     ]
   }
 }

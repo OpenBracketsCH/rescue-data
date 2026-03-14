@@ -49575,6 +49575,25 @@
       47.3232928
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13646164289",
+  "properties": {
+    "amenity": "kindergarten",
+    "check_date": "2026-03-13",
+    "education": "kindergarten",
+    "name": "Apfelblüte",
+    "website": "https://apfelbluete.ch",
+    "id": "node/13646164289"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8097292,
+      47.3323389
+    ]
+  }
 }
 ]
 }
