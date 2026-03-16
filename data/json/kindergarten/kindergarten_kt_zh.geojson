@@ -18906,48 +18906,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/295813209",
-  "properties": {
-    "addr:city": "Dachsen",
-    "addr:housenumber": "1",
-    "addr:postcode": "8447",
-    "addr:street": "Fähreweg",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kita & Hort Dachsen",
-    "ref:gwrid": "8410",
-    "id": "way/295813209"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6118711,
-          47.668557
-        ],
-        [
-          8.6116743,
-          47.668635
-        ],
-        [
-          8.6115854,
-          47.6685332
-        ],
-        [
-          8.6117822,
-          47.6684553
-        ],
-        [
-          8.6118711,
-          47.668557
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/296173533",
   "properties": {
     "addr:city": "Langwiesen",
@@ -32841,6 +32799,59 @@
         [
           8.4637215,
           47.4364028
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1489196264",
+  "properties": {
+    "addr:city": "Dachsen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8447",
+    "addr:street": "Fähreweg",
+    "amenity": "kindergarten",
+    "name": "Kita & Hort Dachsen",
+    "ref:gwrid": "8410",
+    "id": "way/1489196264"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6114594,
+          47.6686963
+        ],
+        [
+          8.6116208,
+          47.668365
+        ],
+        [
+          8.6117055,
+          47.6683302
+        ],
+        [
+          8.612056,
+          47.6684282
+        ],
+        [
+          8.6120988,
+          47.6684854
+        ],
+        [
+          8.6120758,
+          47.6685627
+        ],
+        [
+          8.6115176,
+          47.6687292
+        ],
+        [
+          8.6114594,
+          47.6686963
         ]
       ]
     ]

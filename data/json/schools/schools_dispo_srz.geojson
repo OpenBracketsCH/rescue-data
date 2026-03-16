@@ -26094,6 +26094,7 @@
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus Eichmatt",
+    "operator": "Schulen Hünenberg",
     "id": "way/62286218"
   },
   "geometry": {
@@ -71736,6 +71737,7 @@
     "amenity": "school",
     "building": "yes",
     "name": "Schulhaus Kemmatten",
+    "operator": "Schulen Hünenberg",
     "id": "way/246981272"
   },
   "geometry": {
@@ -92902,218 +92904,6 @@
         [
           8.4127202,
           47.1977514
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/397894751",
-  "properties": {
-    "addr:city": "Hünenberg",
-    "addr:housenumber": "6",
-    "addr:postcode": "6331",
-    "addr:street": "Zentrumstrasse",
-    "amenity": "school",
-    "building": "yes",
-    "contact:email": "schulsekretariat@schulen-huenenberg.ch",
-    "contact:phone": "+41 41 785 45 45",
-    "contact:website": "https://www.zg.ch/behoerden/gemeinden/hunenberg/de/schulen/organisation/schulhaus-ehret-b-c/schulhaus-ehret-c",
-    "name": "Schulhaus Ehret C",
-    "id": "way/397894751"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4281359,
-          47.1739348
-        ],
-        [
-          8.4280812,
-          47.1735475
-        ],
-        [
-          8.4282789,
-          47.1735346
-        ],
-        [
-          8.4283174,
-          47.173807
-        ],
-        [
-          8.4285051,
-          47.1737947
-        ],
-        [
-          8.4285213,
-          47.1739097
-        ],
-        [
-          8.4281359,
-          47.1739348
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/397894763",
-  "properties": {
-    "addr:city": "Hünenberg",
-    "addr:housenumber": "3",
-    "addr:postcode": "6331",
-    "addr:street": "Ehretweg",
-    "amenity": "school",
-    "building": "yes",
-    "contact:email": "schulsekretariat@schulen-huenenberg.ch",
-    "contact:phone": "+41 41 785 45 45",
-    "contact:website": "https://www.zg.ch/behoerden/gemeinden/hunenberg/de/schulen/organisation/schulhaus-ehret-b-c/schulhaus-ehret-b",
-    "name": "Schulhaus Ehret B",
-    "id": "way/397894763"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4276837,
-          47.1734299
-        ],
-        [
-          8.4277632,
-          47.1733159
-        ],
-        [
-          8.4277151,
-          47.1733004
-        ],
-        [
-          8.4278785,
-          47.1730665
-        ],
-        [
-          8.4277838,
-          47.1730359
-        ],
-        [
-          8.4278863,
-          47.1728893
-        ],
-        [
-          8.4280709,
-          47.1729489
-        ],
-        [
-          8.4281388,
-          47.1728517
-        ],
-        [
-          8.4283473,
-          47.172919
-        ],
-        [
-          8.4282005,
-          47.1731283
-        ],
-        [
-          8.4283216,
-          47.1731676
-        ],
-        [
-          8.4282752,
-          47.1732341
-        ],
-        [
-          8.4282281,
-          47.1732189
-        ],
-        [
-          8.4280078,
-          47.1735345
-        ],
-        [
-          8.4276837,
-          47.1734299
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/397894766",
-  "properties": {
-    "addr:city": "Hünenberg",
-    "addr:housenumber": "2",
-    "addr:postcode": "6331",
-    "addr:street": "Ehretweg",
-    "amenity": "school",
-    "building": "yes",
-    "contact:email": "schulsekretariat@schulen-huenenberg.ch",
-    "contact:phone": "+41 41 785 45 45",
-    "contact:website": "https://www.zg.ch/behoerden/gemeinden/hunenberg/de/schulen/organisation/schulhaus-ehret-b-c/schulhaus-ehret-a",
-    "name": "Schulhaus Ehret A",
-    "id": "way/397894766"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4268495,
-          47.1733142
-        ],
-        [
-          8.426736,
-          47.1732437
-        ],
-        [
-          8.4269041,
-          47.1731225
-        ],
-        [
-          8.4268903,
-          47.173115
-        ],
-        [
-          8.4269971,
-          47.1730275
-        ],
-        [
-          8.4270147,
-          47.1730362
-        ],
-        [
-          8.4270914,
-          47.1729501
-        ],
-        [
-          8.427445,
-          47.1730823
-        ],
-        [
-          8.4273699,
-          47.1731744
-        ],
-        [
-          8.4271148,
-          47.1730792
-        ],
-        [
-          8.4269985,
-          47.1731726
-        ],
-        [
-          8.4270281,
-          47.1731912
-        ],
-        [
-          8.4268495,
-          47.1733142
         ]
       ]
     ]
@@ -114394,6 +114184,10 @@
   "id": "way/1020213057",
   "properties": {
     "amenity": "school",
+    "grades": "1-9",
+    "name": "Ehret",
+    "operator": "Schulen Hünenberg",
+    "operator:type": "school",
     "id": "way/1020213057"
   },
   "geometry": {
@@ -114401,44 +114195,80 @@
     "coordinates": [
       [
         [
-          8.4279412,
-          47.1726887
+          8.4279443,
+          47.1726824
         ],
         [
-          8.4288722,
-          47.1729861
+          8.4279884,
+          47.1726961
         ],
         [
-          8.4285509,
-          47.1734489
+          8.4280186,
+          47.172654
         ],
         [
-          8.4288815,
-          47.1736416
+          8.4280994,
+          47.1726793
         ],
         [
-          8.4292688,
-          47.1737495
+          8.4296611,
+          47.173186
         ],
         [
-          8.4291193,
-          47.1739267
+          8.4297267,
+          47.1731971
+        ],
+        [
+          8.4305044,
+          47.1731425
+        ],
+        [
+          8.430577,
+          47.1731623
+        ],
+        [
+          8.4306417,
+          47.1736104
+        ],
+        [
+          8.4302228,
+          47.1736353
+        ],
+        [
+          8.4302469,
+          47.173782
+        ],
+        [
+          8.4300003,
+          47.1738
+        ],
+        [
+          8.4297854,
+          47.1734034
+        ],
+        [
+          8.429519,
+          47.1734207
+        ],
+        [
+          8.4291501,
+          47.1739196
         ],
         [
           8.4285401,
           47.173957
         ],
         [
-          8.4280551,
-          47.1739746
+          8.4280619,
+          47.1739834
         ],
         [
-          8.4280284,
-          47.1738042
+          8.4280368,
+          47.1738124
         ],
         [
-          8.4274079,
-          47.1733557
+          8.4273654,
+          47.1733874
         ],
         [
           8.4271672,
@@ -114449,20 +114279,20 @@
           47.1736103
         ],
         [
-          8.4269987,
-          47.1736156
+          8.4269892,
+          47.1735884
         ],
         [
-          8.4269487,
-          47.1736177
+          8.4269554,
+          47.173597
         ],
         [
-          8.4267495,
-          47.1733777
+          8.4267707,
+          47.1733641
         ],
         [
-          8.4268149,
-          47.1733334
+          8.4268096,
+          47.1733284
         ],
         [
           8.4266732,
@@ -114485,12 +114315,20 @@
           47.1727779
         ],
         [
-          8.4277825,
-          47.1728962
+          8.4274181,
+          47.1728111
         ],
         [
-          8.4279412,
-          47.1726887
+          8.4274727,
+          47.172747
+        ],
+        [
+          8.4278053,
+          47.1728563
+        ],
+        [
+          8.4279443,
+          47.1726824
         ]
       ]
     ]
@@ -126048,6 +125886,7 @@
   "properties": {
     "amenity": "school",
     "name": "Rony Schulhaus",
+    "operator": "Schulen Hünenberg",
     "id": "node/2504449287"
   },
   "geometry": {
