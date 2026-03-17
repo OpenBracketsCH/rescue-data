@@ -6181,30 +6181,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4115297970",
-  "properties": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "63",
-    "addr:postcode": "8400",
-    "addr:street": "Wartstrasse",
-    "amenity": "childcare",
-    "name": "Kita Zauberschiff",
-    "operator": "Familiaris Winterthur",
-    "operator:type": "private",
-    "preschool": "yes",
-    "website": "https://www.familiaris.ch/zauberschiff/",
-    "id": "node/4115297970"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7140023,
-      47.5034599
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4115297995",
   "properties": {
     "addr:city": "Winterthur",
