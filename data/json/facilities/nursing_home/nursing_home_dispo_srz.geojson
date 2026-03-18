@@ -20315,6 +20315,7 @@
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "website": "https://spyrigarten.ch/",
+    "wheelchair": "yes",
     "id": "way/295032884"
   },
   "geometry": {
