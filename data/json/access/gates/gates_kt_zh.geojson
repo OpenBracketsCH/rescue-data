@@ -81266,9 +81266,6 @@
   "id": "node/11602272891",
   "properties": {
     "access": "private",
-    "addr:city": "Dietikon",
-    "addr:postcode": "8953",
-    "addr:street": "Weidstrasse",
     "amenity": "parking_entrance",
     "barrier": "gate",
     "layer": "-1",
@@ -90321,6 +90318,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/13048730080",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13048730080"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3948516,
+      47.4000085
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/13064395072",
   "properties": {
     "barrier": "gate",
@@ -91475,10 +91492,7 @@
   "id": "node/13305978510",
   "properties": {
     "access": "private",
-    "addr:city": "Dietikon",
-    "addr:postcode": "8953",
-    "addr:street": "Windeggstrasse",
-    "amenity": "parking",
+    "amenity": "parking_entrance",
     "barrier": "gate",
     "layer": "-1",
     "locked": "yes",
@@ -91528,11 +91542,9 @@
   "id": "node/13320082539",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
-    "layer": "-1",
+    "entrance": "garage",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13320082539"
   },
   "geometry": {
@@ -91548,14 +91560,9 @@
   "id": "node/13320082540",
   "properties": {
     "access": "private",
-    "addr:city": "Dietikon",
-    "addr:postcode": "8953",
-    "addr:street": "Weidstrasse",
-    "amenity": "parking_entrance",
     "barrier": "gate",
-    "layer": "-1",
+    "entrance": "garage",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13320082540"
   },
   "geometry": {
@@ -91571,14 +91578,9 @@
   "id": "node/13320082541",
   "properties": {
     "access": "private",
-    "addr:city": "Dietikon",
-    "addr:postcode": "8953",
-    "addr:street": "Weidstrasse",
-    "amenity": "parking_entrance",
     "barrier": "gate",
-    "layer": "-1",
+    "entrance": "garage",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13320082541"
   },
   "geometry": {
@@ -91594,14 +91596,9 @@
   "id": "node/13320082542",
   "properties": {
     "access": "private",
-    "addr:city": "Dietikon",
-    "addr:postcode": "8953",
-    "addr:street": "Weidstrasse",
-    "amenity": "parking_entrance",
     "barrier": "gate",
-    "layer": "-1",
+    "entrance": "garage",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13320082542"
   },
   "geometry": {
@@ -92268,11 +92265,10 @@
   "id": "node/13420728540",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728540"
   },
   "geometry": {
@@ -92288,11 +92284,10 @@
   "id": "node/13420728542",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728542"
   },
   "geometry": {
@@ -92308,11 +92303,10 @@
   "id": "node/13420728543",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728543"
   },
   "geometry": {
@@ -92328,11 +92322,10 @@
   "id": "node/13420728544",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728544"
   },
   "geometry": {
@@ -92348,11 +92341,10 @@
   "id": "node/13420728545",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728545"
   },
   "geometry": {
@@ -92368,11 +92360,10 @@
   "id": "node/13420728546",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728546"
   },
   "geometry": {
@@ -92388,11 +92379,10 @@
   "id": "node/13420728547",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728547"
   },
   "geometry": {
@@ -92408,11 +92398,10 @@
   "id": "node/13420728548",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728548"
   },
   "geometry": {
@@ -92428,11 +92417,10 @@
   "id": "node/13420728552",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728552"
   },
   "geometry": {
@@ -92448,11 +92436,10 @@
   "id": "node/13420728553",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728553"
   },
   "geometry": {
@@ -92468,11 +92455,10 @@
   "id": "node/13420728554",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728554"
   },
   "geometry": {
@@ -92488,11 +92474,10 @@
   "id": "node/13420728555",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728555"
   },
   "geometry": {
@@ -92508,11 +92493,10 @@
   "id": "node/13420728556",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728556"
   },
   "geometry": {
@@ -92528,11 +92512,10 @@
   "id": "node/13420728557",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728557"
   },
   "geometry": {
@@ -92548,11 +92531,10 @@
   "id": "node/13420728561",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728561"
   },
   "geometry": {
@@ -92568,11 +92550,10 @@
   "id": "node/13420728562",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728562"
   },
   "geometry": {
@@ -92588,11 +92569,10 @@
   "id": "node/13420728563",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728563"
   },
   "geometry": {
@@ -92608,11 +92588,10 @@
   "id": "node/13420728564",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728564"
   },
   "geometry": {
@@ -92628,11 +92607,10 @@
   "id": "node/13420728565",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728565"
   },
   "geometry": {
@@ -92648,11 +92626,10 @@
   "id": "node/13420728566",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13420728566"
   },
   "geometry": {
@@ -92668,11 +92645,10 @@
   "id": "node/13421497829",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13421497829"
   },
   "geometry": {
@@ -92688,11 +92664,10 @@
   "id": "node/13421497830",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13421497830"
   },
   "geometry": {
@@ -92780,11 +92755,10 @@
   "id": "node/13429961769",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13429961769"
   },
   "geometry": {
@@ -92800,11 +92774,10 @@
   "id": "node/13429961770",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13429961770"
   },
   "geometry": {
@@ -92820,11 +92793,10 @@
   "id": "node/13429961771",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13429961771"
   },
   "geometry": {
@@ -92840,11 +92812,10 @@
   "id": "node/13429961772",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13429961772"
   },
   "geometry": {
@@ -92860,11 +92831,10 @@
   "id": "node/13429961773",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13429961773"
   },
   "geometry": {
@@ -92880,11 +92850,10 @@
   "id": "node/13429961774",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13429961774"
   },
   "geometry": {
@@ -92900,11 +92869,10 @@
   "id": "node/13429961775",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13429961775"
   },
   "geometry": {
@@ -92920,11 +92888,10 @@
   "id": "node/13429961776",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13429961776"
   },
   "geometry": {
@@ -92940,11 +92907,10 @@
   "id": "node/13430246155",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430246155"
   },
   "geometry": {
@@ -92960,11 +92926,10 @@
   "id": "node/13430246156",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430246156"
   },
   "geometry": {
@@ -92980,11 +92945,10 @@
   "id": "node/13430246157",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430246157"
   },
   "geometry": {
@@ -93000,11 +92964,10 @@
   "id": "node/13430246158",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430246158"
   },
   "geometry": {
@@ -93020,11 +92983,10 @@
   "id": "node/13430246159",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430246159"
   },
   "geometry": {
@@ -93040,11 +93002,10 @@
   "id": "node/13430246160",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430246160"
   },
   "geometry": {
@@ -93060,11 +93021,10 @@
   "id": "node/13430246161",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430246161"
   },
   "geometry": {
@@ -93080,11 +93040,10 @@
   "id": "node/13430246162",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430246162"
   },
   "geometry": {
@@ -93115,11 +93074,10 @@
   "id": "node/13430692073",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430692073"
   },
   "geometry": {
@@ -93135,11 +93093,10 @@
   "id": "node/13430692074",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430692074"
   },
   "geometry": {
@@ -93155,11 +93112,10 @@
   "id": "node/13430692075",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430692075"
   },
   "geometry": {
@@ -93175,11 +93131,10 @@
   "id": "node/13430692076",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430692076"
   },
   "geometry": {
@@ -93195,11 +93150,10 @@
   "id": "node/13430722844",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430722844"
   },
   "geometry": {
@@ -93215,11 +93169,10 @@
   "id": "node/13430722845",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430722845"
   },
   "geometry": {
@@ -93235,11 +93188,10 @@
   "id": "node/13430722846",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430722846"
   },
   "geometry": {
@@ -93255,11 +93207,10 @@
   "id": "node/13430722847",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430722847"
   },
   "geometry": {
@@ -93275,11 +93226,10 @@
   "id": "node/13430722869",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430722869"
   },
   "geometry": {
@@ -93295,11 +93245,10 @@
   "id": "node/13430722870",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430722870"
   },
   "geometry": {
@@ -93315,11 +93264,10 @@
   "id": "node/13430722871",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430722871"
   },
   "geometry": {
@@ -93335,11 +93283,10 @@
   "id": "node/13430722872",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430722872"
   },
   "geometry": {
@@ -93355,11 +93302,10 @@
   "id": "node/13430722873",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430722873"
   },
   "geometry": {
@@ -93375,11 +93321,10 @@
   "id": "node/13430722874",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430722874"
   },
   "geometry": {
@@ -93395,11 +93340,10 @@
   "id": "node/13430722875",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430722875"
   },
   "geometry": {
@@ -93415,11 +93359,10 @@
   "id": "node/13430722876",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13430722876"
   },
   "geometry": {
@@ -93450,11 +93393,10 @@
   "id": "node/13432531339",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13432531339"
   },
   "geometry": {
@@ -93470,11 +93412,10 @@
   "id": "node/13432531343",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
-    "layer": "-1",
+    "entrance": "garage",
+    "layer": "0",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13432531343"
   },
   "geometry": {
@@ -93522,11 +93463,10 @@
   "id": "node/13434011191",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13434011191"
   },
   "geometry": {
@@ -93542,11 +93482,10 @@
   "id": "node/13434011192",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13434011192"
   },
   "geometry": {
@@ -93562,11 +93501,10 @@
   "id": "node/13434011193",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13434011193"
   },
   "geometry": {
@@ -93582,11 +93520,10 @@
   "id": "node/13434011194",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13434011194"
   },
   "geometry": {
@@ -93602,11 +93539,10 @@
   "id": "node/13434011195",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13434011195"
   },
   "geometry": {
@@ -93622,11 +93558,10 @@
   "id": "node/13434011196",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13434011196"
   },
   "geometry": {
@@ -93642,11 +93577,10 @@
   "id": "node/13434011197",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13434011197"
   },
   "geometry": {
@@ -93662,11 +93596,10 @@
   "id": "node/13434011198",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13434011198"
   },
   "geometry": {
@@ -93682,11 +93615,10 @@
   "id": "node/13434011199",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13434011199"
   },
   "geometry": {
@@ -93722,11 +93654,10 @@
   "id": "node/13437488285",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13437488285"
   },
   "geometry": {
@@ -93742,11 +93673,10 @@
   "id": "node/13437488286",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13437488286"
   },
   "geometry": {
@@ -93762,11 +93692,10 @@
   "id": "node/13437488287",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13437488287"
   },
   "geometry": {
@@ -93782,11 +93711,10 @@
   "id": "node/13437488288",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13437488288"
   },
   "geometry": {
@@ -93914,11 +93842,10 @@
   "id": "node/13504614865",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13504614865"
   },
   "geometry": {
@@ -93934,11 +93861,10 @@
   "id": "node/13504614866",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13504614866"
   },
   "geometry": {
@@ -93954,11 +93880,10 @@
   "id": "node/13504614867",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13504614867"
   },
   "geometry": {
@@ -93974,11 +93899,10 @@
   "id": "node/13504614870",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13504614870"
   },
   "geometry": {
@@ -93994,11 +93918,10 @@
   "id": "node/13504614937",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13504614937"
   },
   "geometry": {
@@ -94014,11 +93937,10 @@
   "id": "node/13504614938",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13504614938"
   },
   "geometry": {
@@ -94034,11 +93956,10 @@
   "id": "node/13504614939",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13504614939"
   },
   "geometry": {
@@ -94054,11 +93975,10 @@
   "id": "node/13504614961",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13504614961"
   },
   "geometry": {
@@ -94074,11 +93994,10 @@
   "id": "node/13504614962",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13504614962"
   },
   "geometry": {
@@ -94094,11 +94013,10 @@
   "id": "node/13504614963",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13504614963"
   },
   "geometry": {
@@ -94519,11 +94437,10 @@
   "id": "node/13626745978",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13626745978"
   },
   "geometry": {
@@ -94539,11 +94456,10 @@
   "id": "node/13626745979",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13626745979"
   },
   "geometry": {
@@ -94559,11 +94475,10 @@
   "id": "node/13626745980",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13626745980"
   },
   "geometry": {
@@ -94579,11 +94494,10 @@
   "id": "node/13626745981",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13626745981"
   },
   "geometry": {
@@ -94599,11 +94513,10 @@
   "id": "node/13626745995",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13626745995"
   },
   "geometry": {
@@ -94619,11 +94532,10 @@
   "id": "node/13626745996",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13626745996"
   },
   "geometry": {
@@ -94639,11 +94551,10 @@
   "id": "node/13626745997",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13626745997"
   },
   "geometry": {
@@ -94659,11 +94570,10 @@
   "id": "node/13626746043",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13626746043"
   },
   "geometry": {
@@ -94679,11 +94589,10 @@
   "id": "node/13626746044",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13626746044"
   },
   "geometry": {
@@ -94699,11 +94608,10 @@
   "id": "node/13626746045",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13626746045"
   },
   "geometry": {
@@ -94719,11 +94627,10 @@
   "id": "node/13626746046",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13626746046"
   },
   "geometry": {
@@ -94739,11 +94646,10 @@
   "id": "node/13626746079",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13626746079"
   },
   "geometry": {
@@ -94759,11 +94665,10 @@
   "id": "node/13626746080",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13626746080"
   },
   "geometry": {
@@ -94779,11 +94684,10 @@
   "id": "node/13626746081",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13626746081"
   },
   "geometry": {
@@ -94799,11 +94703,10 @@
   "id": "node/13626746141",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13626746141"
   },
   "geometry": {
@@ -94819,11 +94722,10 @@
   "id": "node/13626746142",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13626746142"
   },
   "geometry": {
@@ -94839,11 +94741,10 @@
   "id": "node/13626746143",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13626746143"
   },
   "geometry": {
@@ -94859,7 +94760,7 @@
   "id": "node/13647049675",
   "properties": {
     "access": "private",
-    "amenity": "parking",
+    "amenity": "parking_entrance",
     "barrier": "gate",
     "layer": "-1",
     "locked": "yes",
@@ -94879,8 +94780,8 @@
   "id": "node/13647261520",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "0",
     "locked": "yes",
     "id": "node/13647261520"
@@ -94898,8 +94799,8 @@
   "id": "node/13647261521",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "0",
     "locked": "yes",
     "id": "node/13647261521"
@@ -94917,8 +94818,8 @@
   "id": "node/13647261522",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "0",
     "locked": "yes",
     "id": "node/13647261522"
@@ -94936,8 +94837,8 @@
   "id": "node/13647261523",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "0",
     "locked": "yes",
     "id": "node/13647261523"
@@ -94955,11 +94856,10 @@
   "id": "node/13647261543",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13647261543"
   },
   "geometry": {
@@ -94975,11 +94875,10 @@
   "id": "node/13647261544",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13647261544"
   },
   "geometry": {
@@ -94995,11 +94894,10 @@
   "id": "node/13647261545",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "-1",
     "locked": "yes",
-    "parking": "underground",
     "id": "node/13647261545"
   },
   "geometry": {
@@ -95015,8 +94913,8 @@
   "id": "node/13647261546",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "0",
     "locked": "yes",
     "id": "node/13647261546"
@@ -95034,8 +94932,8 @@
   "id": "node/13647261547",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "0",
     "locked": "yes",
     "id": "node/13647261547"
@@ -95053,8 +94951,8 @@
   "id": "node/13647261548",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "0",
     "locked": "yes",
     "id": "node/13647261548"
@@ -95072,8 +94970,8 @@
   "id": "node/13647261549",
   "properties": {
     "access": "private",
-    "amenity": "parking_entrance",
     "barrier": "gate",
+    "entrance": "garage",
     "layer": "0",
     "locked": "yes",
     "id": "node/13647261549"
@@ -95128,6 +95026,43 @@
     "coordinates": [
       8.7129958,
       47.5007579
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13659167867",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13659167867"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.394552,
+      47.3996377
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13659351110",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "node/13659351110"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6375608,
+      47.4078018
     ]
   }
 }

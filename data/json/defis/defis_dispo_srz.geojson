@@ -98826,16 +98826,71 @@
 },
 {
   "type": "Feature",
-  "id": "node/13654736501",
+  "id": "node/13658498901",
   "properties": {
+    "access": "yes",
+    "defibrillator:location": "Ziegelwies 2",
+    "description": "Seitlich am Gebäude",
     "emergency": "defibrillator",
-    "id": "node/13654736501"
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Altendorf",
+    "phone": "+4155 451 77 22",
+    "id": "node/13658498901"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5205474,
-      47.1811955
+      8.8426909,
+      47.1903245
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13658708401",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Evangelisch-reformierte Kirchgemeinde Stockenstrasse 150 Kilchberg",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Evangelisch-reformierte Kirchgemeinde Kilchberg",
+    "phone": "+41 44 715 56 51",
+    "id": "node/13658708401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.541445,
+      47.3180149
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13658954501",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Sprachheilschule Unterägeri, Gebäude Pavillon Süd, Eingang",
+    "description": "Aussenfassade neben Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Sprachheilschule Unterägeri",
+    "phone": "+41 41 754 42 47",
+    "id": "node/13658954501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5957476,
+      47.1392357
     ]
   }
 }
