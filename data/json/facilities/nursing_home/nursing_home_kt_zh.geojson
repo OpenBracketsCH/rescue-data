@@ -6621,9 +6621,11 @@
     "building": "yes",
     "check_date": "2024-08-03",
     "fixme": "Gemäss website hat die Klinik per Ende August (welches Jahr? ) geschlossen (https://klinik-lindenegg.ch)\n-> Vor ort überprüfen",
+    "height": "19.8",
     "name": "Klinik Lindenegg",
     "social_facility": "nursing_home",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "source:height": "swisstopo/swissALTI3D;swissSURFACE3D",
     "wheelchair": "yes",
     "id": "way/95242192"
   },

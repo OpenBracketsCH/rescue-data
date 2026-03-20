@@ -5311,10 +5311,12 @@
     "check_date": "2024-08-14",
     "contact:phone": "+41 44 413 74 39",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/letten/ueberuns/standorte/schulhaus.html",
+    "height": "17.1",
     "isced:level": "1",
     "name": "Schulhaus Wasserwerk",
     "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Letten",
     "operator:type": "public",
+    "source:height": "swisstopo/swissALTI3D;swissSURFACE3D",
     "id": "way/90892911"
   },
   "geometry": {
