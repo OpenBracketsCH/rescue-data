@@ -11632,8 +11632,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7038029,
-      47.338785
+      8.7038742,
+      47.3387205
     ]
   }
 },
@@ -109858,6 +109858,26 @@
     "coordinates": [
       8.6375608,
       47.4078018
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13664795606",
+  "properties": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "barrier": "gate",
+    "layer": "-1",
+    "locked": "yes",
+    "parking": "underground",
+    "id": "node/13664795606"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3950524,
+      47.4006328
     ]
   }
 }

@@ -47996,247 +47996,18 @@
 },
 {
   "type": "Feature",
-  "id": "way/156398526",
-  "properties": {
-    "amenity": "school",
-    "building": "school",
-    "name": "Steinmürli Schule 2",
-    "id": "way/156398526"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.3943033,
-          47.4046031
-        ],
-        [
-          8.3941235,
-          47.4044431
-        ],
-        [
-          8.3945283,
-          47.4042347
-        ],
-        [
-          8.3947081,
-          47.4043947
-        ],
-        [
-          8.3945015,
-          47.4045011
-        ],
-        [
-          8.3943033,
-          47.4046031
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/156398527",
-  "properties": {
-    "amenity": "school",
-    "building": "school",
-    "id": "way/156398527"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.3950047,
-          47.4048588
-        ],
-        [
-          8.3951856,
-          47.4047663
-        ],
-        [
-          8.3953681,
-          47.404673
-        ],
-        [
-          8.3954492,
-          47.4047456
-        ],
-        [
-          8.3950859,
-          47.4049315
-        ],
-        [
-          8.3950047,
-          47.4048588
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/156398530",
-  "properties": {
-    "addr:city": "Dietikon",
-    "addr:housenumber": "13a",
-    "addr:postcode": "8953",
-    "addr:street": "Römerstrasse",
-    "amenity": "school",
-    "building": "school",
-    "check_date": "2025-06-27",
-    "name": "Steinmürli Turnhalle 2",
-    "id": "way/156398530"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.3944687,
-          47.4050495
-        ],
-        [
-          8.394738,
-          47.4049093
-        ],
-        [
-          8.3947596,
-          47.4049284
-        ],
-        [
-          8.3948123,
-          47.404901
-        ],
-        [
-          8.3949017,
-          47.4049797
-        ],
-        [
-          8.3945798,
-          47.4051473
-        ],
-        [
-          8.3944687,
-          47.4050495
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/156398532",
-  "properties": {
-    "amenity": "school",
-    "building": "school",
-    "name": "Steinmürli Schule 1",
-    "id": "way/156398532"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.3949728,
-          47.4043734
-        ],
-        [
-          8.3951777,
-          47.4042695
-        ],
-        [
-          8.3951247,
-          47.4042217
-        ],
-        [
-          8.3952413,
-          47.4041626
-        ],
-        [
-          8.3956475,
-          47.4045296
-        ],
-        [
-          8.3955328,
-          47.4045877
-        ],
-        [
-          8.3954803,
-          47.4045403
-        ],
-        [
-          8.3952735,
-          47.4046451
-        ],
-        [
-          8.395116,
-          47.4045028
-        ],
-        [
-          8.3949728,
-          47.4043734
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/156398533",
-  "properties": {
-    "addr:city": "Dietikon",
-    "addr:housenumber": "13b",
-    "addr:postcode": "8953",
-    "addr:street": "Römerstrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Steinmürli Turnhalle 1",
-    "id": "way/156398533"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.3945116,
-          47.4046172
-        ],
-        [
-          8.3946837,
-          47.4045284
-        ],
-        [
-          8.3949864,
-          47.4047973
-        ],
-        [
-          8.3948143,
-          47.404886
-        ],
-        [
-          8.3945116,
-          47.4046172
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/156400347",
   "properties": {
-    "addr:city": "Dietikon",
-    "addr:housenumber": "13",
-    "addr:postcode": "8953",
-    "addr:street": "Römerstrasse",
     "amenity": "school",
-    "email": "steinmuerli@schule-dietikon.ch",
+    "contact:city": "Dietikon",
+    "contact:email": "steinmuerli@schule-dietikon.ch",
+    "contact:housenumber": "13",
+    "contact:postcode": "8953",
+    "contact:street": "Römerstrasse",
+    "contact:website": "https://www.schule-dietikon.ch/schulhaeuser/1591",
     "name": "Schule Steinmürli",
     "operator": "Stadt Dietikon",
     "operator:type": "public",
-    "website": "https://www.schule-dietikon.ch/schulhaeuser/1591",
     "id": "way/156400347"
   },
   "geometry": {
@@ -48250,6 +48021,10 @@
         [
           8.395307,
           47.404919
+        ],
+        [
+          8.3945987,
+          47.4051994
         ],
         [
           8.3944296,
@@ -48298,6 +48073,10 @@
         [
           8.3933698,
           47.4053584
+        ],
+        [
+          8.3934881,
+          47.405178
         ],
         [
           8.3938539,

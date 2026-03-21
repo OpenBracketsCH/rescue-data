@@ -8645,13 +8645,18 @@
     "addr:postcode": "2300",
     "addr:street": "Rue de Chasseral",
     "amenity": "hospital",
+    "contact:facebook": "reseauhospitalierne",
+    "contact:instagram": "reseau_hosp_ne",
+    "contact:twitter": "rhosp_ne",
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive;orthopaedics;gynaecology;ophthalmology;surgery;oncology;dialysis;radiology;internal",
     "name": "Réseau hospitalier neuchâtelois - La Chaux-de-Fonds",
+    "opening_hours": "24/7",
     "operator": "Réseau hospitalier neuchâtelois",
     "operator:type": "public",
     "phone": "+41 32 967 21 11",
+    "website": "https://www.rhne.ch/",
     "wheelchair": "yes",
     "id": "way/49257022"
   },
@@ -25311,6 +25316,10 @@
         [
           9.1410215,
           47.4450105
+        ],
+        [
+          9.1407231,
+          47.4450124
         ],
         [
           9.1404305,
@@ -50685,54 +50694,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1486863211",
-  "properties": {
-    "addr:city": "Stöckalp",
-    "addr:housenumber": "2",
-    "addr:place": "Bergmatt",
-    "addr:postcode": "6067",
-    "amenity": "hospital",
-    "building:levels": "1",
-    "email": "rautenbergkilian9@gmail.com",
-    "emergency": "yes",
-    "healthcare": "hospital",
-    "healthcare:speciality": "general;ophthalmology",
-    "height": "6m",
-    "name": "military",
-    "operator": "kilian",
-    "operator:type": "military",
-    "id": "way/1486863211"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.2813893,
-          46.8058659
-        ],
-        [
-          8.2808401,
-          46.8043633
-        ],
-        [
-          8.283512,
-          46.8040326
-        ],
-        [
-          8.2838275,
-          46.80547
-        ],
-        [
-          8.2813893,
-          46.8058659
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/199578656",
   "properties": {
     "id": "way/199578656"
@@ -58495,7 +58456,7 @@
     "amenity": "clinic",
     "healthcare": "clinic",
     "name": "Ärzteteam Unterwetzikon",
-    "opening_hours": "Mo-Fr 08:00-12:00 und 13:00-18:00",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-18:00",
     "operator": "Ärzteteam Unterwetzikon",
     "phone": "+41 44 932 30 30",
     "id": "node/12169834308"
@@ -60156,6 +60117,35 @@
     "coordinates": [
       8.0713705,
       47.3898337
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13664997737",
+  "properties": {
+    "addr:city": "Adliswil",
+    "addr:housenumber": "4",
+    "addr:postcode": "8134",
+    "addr:street": "Bahnhofplatz",
+    "amenity": "clinic",
+    "email": "adliswil@rodiag.ch",
+    "fax": "+41 58 401 15 99",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:00",
+    "operator": "Rodiag",
+    "operator:type": "private",
+    "phone": "+41 58 401 15 80",
+    "website": "https://www.rodiag.ch/willkommen/standorte/adliswil/",
+    "id": "node/13664997737"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5248505,
+      47.3125369
     ]
   }
 }

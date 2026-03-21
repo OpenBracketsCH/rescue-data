@@ -11168,7 +11168,7 @@
     "amenity": "clinic",
     "healthcare": "clinic",
     "name": "Ärzteteam Unterwetzikon",
-    "opening_hours": "Mo-Fr 08:00-12:00 und 13:00-18:00",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-18:00",
     "operator": "Ärzteteam Unterwetzikon",
     "phone": "+41 44 932 30 30",
     "id": "node/12169834308"
@@ -11513,6 +11513,35 @@
     "coordinates": [
       8.5335242,
       47.3762705
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13664997737",
+  "properties": {
+    "addr:city": "Adliswil",
+    "addr:housenumber": "4",
+    "addr:postcode": "8134",
+    "addr:street": "Bahnhofplatz",
+    "amenity": "clinic",
+    "email": "adliswil@rodiag.ch",
+    "fax": "+41 58 401 15 99",
+    "healthcare": "clinic",
+    "healthcare:speciality": "radiology",
+    "name": "RODIAG Diagnostic Centers Röntgeninstitut",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:00",
+    "operator": "Rodiag",
+    "operator:type": "private",
+    "phone": "+41 58 401 15 80",
+    "website": "https://www.rodiag.ch/willkommen/standorte/adliswil/",
+    "id": "node/13664997737"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5248505,
+      47.3125369
     ]
   }
 }

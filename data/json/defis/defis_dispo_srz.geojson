@@ -38620,8 +38620,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.3944284,
-      47.404427
+      8.3952795,
+      47.4047682
     ]
   }
 },
@@ -98918,6 +98918,28 @@
     "coordinates": [
       8.5597847,
       47.4154531
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13665000901",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Hadlaubstrasse 83, 8006 Zürich",
+    "description": "rechts vom Hauseingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "operator": "Stiftung Alterswohnungen Hadlaub",
+    "id": "node/13665000901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5512182,
+      47.3872802
     ]
   }
 }
