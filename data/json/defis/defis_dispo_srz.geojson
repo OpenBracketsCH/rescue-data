@@ -36237,15 +36237,16 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Samariterverein Wädenswil",
-    "phone": "+41796499210",
+    "phone": "+41 77 484 03 47",
     "id": "node/9575798188"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6721093,
+      8.6721091,
       47.2296174
     ]
   }
@@ -74666,12 +74667,12 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "nach Eingang rechts",
-    "description": "während Öffnungszeiten verfügbar ",
+    "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-Fr17:00-21:00, \nSa 08:00-13:00",
+    "opening_hours": "Mo-Fr 17:00-21:00, Sa 08:00-13:00",
     "operator": "Private Firma",
     "id": "node/11938447269"
   },

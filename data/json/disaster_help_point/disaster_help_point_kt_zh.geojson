@@ -4094,31 +4094,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9417237724",
-  "properties": {
-    "activation": "blackout;phone_breakdown;evacuation",
-    "contact:city": "Meilen",
-    "contact:country": "CH",
-    "contact:housenumber": "12",
-    "contact:postcode": "8706",
-    "contact:street": "Toggwilerstrasse",
-    "emergency": "disaster_help_point",
-    "name": "beim KP Hallenbad",
-    "operator": "RFO/GFO Kanton Zürich",
-    "source": "https://www.zh.ch/de/sicherheit-justiz/bevoelkerungsschutz/notfalltreffpunkte.html",
-    "temporary": "yes",
-    "id": "node/9417237724"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6480726,
-      47.2739111
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9417237725",
   "properties": {
     "activation": "blackout;phone_breakdown;evacuation",
@@ -5022,13 +4997,14 @@
   "id": "node/9417237761",
   "properties": {
     "activation": "blackout;phone_breakdown;evacuation",
+    "alt_name": "NTP Herrliberg",
     "contact:city": "Herrliberg",
     "contact:country": "CH",
     "contact:housenumber": "3",
     "contact:postcode": "8704",
     "contact:street": "Kirchenrank",
     "emergency": "disaster_help_point",
-    "name": "Öffentlicher Schutzraum",
+    "name": "Notfalltreffpunkt Herrliberg",
     "operator": "RFO/GFO Kanton Zürich",
     "source": "https://www.zh.ch/de/sicherheit-justiz/bevoelkerungsschutz/notfalltreffpunkte.html",
     "temporary": "yes",
@@ -7767,6 +7743,83 @@
     "coordinates": [
       8.6083711,
       47.41436
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13667198044",
+  "properties": {
+    "activation": "blackout;phone_breakdown;evacuation",
+    "alt_name": "NTP Meilen",
+    "contact:city": "Meilen",
+    "contact:country": "CH",
+    "contact:postcode": "8706",
+    "contact:street": "Dorfplatz",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt Meilen",
+    "operator": "RFO/GFO Kanton Zürich",
+    "source": "https://www.zh.ch/de/sicherheit-justiz/bevoelkerungsschutz/notfalltreffpunkte.html",
+    "temporary": "yes",
+    "id": "node/13667198044"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6431984,
+      47.2688824
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13667198045",
+  "properties": {
+    "activation": "blackout;phone_breakdown;evacuation",
+    "alt_name": "NTP Uetikon",
+    "contact:city": "Uetikon am See",
+    "contact:country": "CH",
+    "contact:housenumber": "111",
+    "contact:postcode": "8707",
+    "contact:street": "Bergstrasse",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt Uetikon",
+    "operator": "RFO/GFO Kanton Zürich",
+    "source": "https://www.zh.ch/de/sicherheit-justiz/bevoelkerungsschutz/notfalltreffpunkte.html",
+    "temporary": "yes",
+    "id": "node/13667198045"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6771063,
+      47.26361
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13667198046",
+  "properties": {
+    "activation": "blackout;phone_breakdown;evacuation",
+    "alt_name": "NTP Männedorf",
+    "contact:city": "Männedorf",
+    "contact:country": "CH",
+    "contact:housenumber": "10",
+    "contact:postcode": "8708",
+    "contact:street": "Bahnhofstrasse",
+    "emergency": "disaster_help_point",
+    "name": "Notfalltreffpunkt Männedorf",
+    "operator": "RFO/GFO Kanton Zürich",
+    "source": "https://www.zh.ch/de/sicherheit-justiz/bevoelkerungsschutz/notfalltreffpunkte.html",
+    "temporary": "yes",
+    "id": "node/13667198046"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6913313,
+      47.2536932
     ]
   }
 }

@@ -4340,62 +4340,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/30349419",
-  "properties": {
-    "addr:city": "Meilen",
-    "addr:country": "CH",
-    "addr:housenumber": "565",
-    "addr:postcode": "8706",
-    "addr:street": "Seestrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "building:levels": "2",
-    "name": "Sternen",
-    "roof:colour": "brown",
-    "roof:levels": "2",
-    "roof:shape": "gabled",
-    "social_facility": "assisted_living",
-    "social_facility:for": "juvenile",
-    "id": "way/30349419"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6392351,
-          47.268391
-        ],
-        [
-          8.6394687,
-          47.268537
-        ],
-        [
-          8.6393452,
-          47.2686281
-        ],
-        [
-          8.6392241,
-          47.2685524
-        ],
-        [
-          8.639181,
-          47.2685841
-        ],
-        [
-          8.6390684,
-          47.2685138
-        ],
-        [
-          8.6392351,
-          47.268391
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/31311487",
   "properties": {
     "addr:city": "Fällanden",
@@ -11240,11 +11184,9 @@
     "contact:email": "awg@freiblick.ch",
     "contact:phone": "+41 44 350 26 72",
     "contact:website": "https://www.freiblick.ch/de/pflegewohngruppe",
-    "height": "16.4",
     "name": "Alterswohngemeinschaft Freiblick",
     "social_facility": "assisted_living",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
-    "source:height": "swisstopo/swissALTI3D;swissSURFACE3D",
     "id": "way/84844805"
   },
   "geometry": {
@@ -12509,11 +12451,9 @@
     "building": "yes",
     "check_date": "2024-08-03",
     "fixme": "Gemäss website hat die Klinik per Ende August (welches Jahr? ) geschlossen (https://klinik-lindenegg.ch)\n-> Vor ort überprüfen",
-    "height": "19.8",
     "name": "Klinik Lindenegg",
     "social_facility": "nursing_home",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
-    "source:height": "swisstopo/swissALTI3D;swissSURFACE3D",
     "wheelchair": "yes",
     "id": "way/95242192"
   },
@@ -17092,12 +17032,10 @@
     "building": "yes",
     "check_date": "2024-10-27",
     "email": "caritas-hospiz@bluewin.ch",
-    "height": "18.4",
     "name": "Caritas-Hospiz Obdachlosenheim",
     "operator": "Caritas-Hospiz Verein kath. Obdachlosenheim Zürich",
     "phone": "+41 44 271 63 39",
     "social_facility": "assisted_living",
-    "source:height": "swisstopo/swissALTI3D;swissSURFACE3D",
     "website": "http://www.caritas-hospiz.ch/home",
     "wheelchair": "no",
     "id": "way/123448142"

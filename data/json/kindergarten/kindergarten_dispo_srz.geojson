@@ -511,12 +511,10 @@
     "check_date": "2024-08-07",
     "contact:phone": "+41 44 413 74 36",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/weinberg/ueberuns/standorte/kindergaerten.html#zanggerweg_1_und2",
-    "height": "12.3",
     "name": "Kindergarten Zanggerweg 1+2",
     "operator": "Stadt Zürich, SSD, Schulkreis Waidberg, Schuleinheit Weinberg - Turner",
     "operator:type": "public",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
-    "source:height": "swisstopo/swissALTI3D;swissSURFACE3D",
     "start_date": "1926..1927",
     "id": "way/24478022"
   },
