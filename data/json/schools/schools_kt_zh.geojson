@@ -42072,6 +42072,10 @@
           47.404919
         ],
         [
+          8.3949301,
+          47.4050682
+        ],
+        [
           8.3945987,
           47.4051994
         ],
@@ -51926,6 +51930,7 @@
     "addr:street": "Schulweg",
     "amenity": "school",
     "building": "school",
+    "check_date": "2026-03-22",
     "name": "Tagesschule Eschenmosen",
     "id": "way/213899858"
   },
