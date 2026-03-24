@@ -52177,13 +52177,12 @@
   "type": "Feature",
   "id": "node/11665347169",
   "properties": {
-    "access": "yes",
+    "access": "private",
     "defibrillator:location": "Badi Feldbach, in der Nähe der Sanitäranlagen",
-    "description": "immer zugänglich",
+    "description": "aktuell nicht verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "opening_hours": "24/7",
     "operator": "Gemeinde Hombrechtikon",
     "phone": "+41 55 254 92 92",
     "source": "local_knowledge, defikarte.ch",
@@ -52192,7 +52191,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7889966,
+      8.7889965,
       47.2355136
     ]
   }
@@ -66547,8 +66546,8 @@
   "type": "Feature",
   "id": "node/12600563001",
   "properties": {
-    "access": "private",
-    "defibrillator:location": "Praxis über der Sparkasse Clientis",
+    "access": "permissive",
+    "defibrillator:location": "Zahnarztpraxis Dr. Tim Rügge im Gebäude der Sparkasse Clientis",
     "description": "während der Praxisöffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -77076,6 +77075,45 @@
     "coordinates": [
       8.5512182,
       47.3872802
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13671470101",
+  "properties": {
+    "emergency": "defibrillator",
+    "id": "node/13671470101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5410382,
+      47.3740332
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13671819801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Gärtnerei Waffenschmidt, neben Bushaus Haltestelle Kirche",
+    "description": "In grünem Kasten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Waffenschmidt AG",
+    "phone": "+41 44 954 88 44",
+    "id": "node/13671819801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7730593,
+      47.3968089
     ]
   }
 }

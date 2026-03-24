@@ -8223,8 +8223,9 @@
     "name": "Gleis 1 Jugendheim",
     "operator": "Verein betreutes Wohnen",
     "phone": "+41 43 433 52 06",
+    "social_facility": "group_home",
     "source": "yahoo aerial images",
-    "website": "www.gleis1-rafz.com",
+    "website": "https://www.gleis1-rafz.ch/",
     "id": "way/49714304"
   },
   "geometry": {
@@ -45216,7 +45217,7 @@
     "addr:postcode": "8046",
     "addr:street": "Blumenfeldstrasse",
     "amenity": "social_facility",
-    "check_date": "2023-09-26",
+    "check_date": "2026-03-23",
     "name": "Spitex-Zentrum Affoltern",
     "operator": "Spitex Zürich Limmat",
     "phone": "+41 58 404 36 36",

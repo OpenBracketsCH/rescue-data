@@ -5426,6 +5426,62 @@
 },
 {
   "type": "Feature",
+  "id": "way/49714304",
+  "properties": {
+    "addr:city": "Rafz",
+    "addr:housenumber": "90",
+    "addr:postcode": "8197",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "check_date": "2025-05-07",
+    "email": "info@gleis1-rafz.org",
+    "name": "Gleis 1 Jugendheim",
+    "operator": "Verein betreutes Wohnen",
+    "phone": "+41 43 433 52 06",
+    "social_facility": "group_home",
+    "source": "yahoo aerial images",
+    "website": "https://www.gleis1-rafz.ch/",
+    "id": "way/49714304"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5446517,
+          47.6049995
+        ],
+        [
+          8.5447053,
+          47.6049331
+        ],
+        [
+          8.5448969,
+          47.6050035
+        ],
+        [
+          8.5448137,
+          47.6051065
+        ],
+        [
+          8.5446577,
+          47.6050492
+        ],
+        [
+          8.5446873,
+          47.6050126
+        ],
+        [
+          8.5446517,
+          47.6049995
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/52405781",
   "properties": {
     "addr:city": "Zürich",

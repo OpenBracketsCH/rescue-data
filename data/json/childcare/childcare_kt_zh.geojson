@@ -15554,6 +15554,22 @@
       47.4164847
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13672340368",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kinderkrippe Bambi",
+    "id": "node/13672340368"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5016508,
+      47.4221923
+    ]
+  }
 }
 ]
 }
