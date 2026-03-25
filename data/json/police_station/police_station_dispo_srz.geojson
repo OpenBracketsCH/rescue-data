@@ -3850,6 +3850,7 @@
     "addr:postcode": "8180",
     "addr:street": "Gartematt",
     "amenity": "police",
+    "check_date": "2026-03-24",
     "name": "Polizeiposten Bülach",
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",

@@ -5250,7 +5250,7 @@
     "addr:street": "Else-Züblin-Strasse",
     "amenity": "childcare",
     "name": "Kita am Park",
-    "opening_hours": "mo-Fr 07:00-18:00",
+    "opening_hours": "Mo-Fr 07:00-18:00",
     "operator": "Kita am Park GmbH",
     "operator:type": "private",
     "preschool": "yes",

@@ -40240,6 +40240,7 @@
     "level": "-1",
     "location": "underground",
     "name": "Durchgangszentrum Mattenbach",
+    "old_name": "Zivilschutzanlage Mattenbach",
     "short_name": "DZ Mattenbach",
     "social_facility": "shelter",
     "social_facility:for": "refugee",

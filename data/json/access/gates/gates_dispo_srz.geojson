@@ -10987,24 +10987,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/566345889",
-  "properties": {
-    "barrier": "gate",
-    "bicycle": "yes",
-    "foot": "yes",
-    "horse": "yes",
-    "id": "node/566345889"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4052036,
-      47.363913
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/566500995",
   "properties": {
     "barrier": "gate",
@@ -41659,6 +41641,7 @@
   "id": "node/3862413835",
   "properties": {
     "barrier": "gate",
+    "check_date:opening_hours": "2026-03-24",
     "opening_hours": "Mo-Fr 07:00-17:00",
     "id": "node/3862413835"
   },
@@ -64229,13 +64212,14 @@
   "type": "Feature",
   "id": "node/7511431267",
   "properties": {
+    "access": "customers",
     "barrier": "gate",
     "id": "node/7511431267"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.3941136,
+      8.3941148,
       47.3999056
     ]
   }
@@ -80830,6 +80814,7 @@
   "id": "node/10240734073",
   "properties": {
     "barrier": "gate",
+    "check_date:opening_hours": "2026-03-24",
     "opening_hours": "Mo-Fr 07:00-17:00",
     "id": "node/10240734073"
   },
@@ -109966,6 +109951,37 @@
     "coordinates": [
       8.5318978,
       47.1993866
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13674648012",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/13674648012"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5326419,
+      47.1988027
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13674753736",
+  "properties": {
+    "access": "customers",
+    "barrier": "gate",
+    "id": "node/13674753736"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3918929,
+      47.4005244
     ]
   }
 }
