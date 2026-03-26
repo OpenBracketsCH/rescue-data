@@ -22858,25 +22858,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9235196717",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Schulhaus Unterwetzikon",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "id": "node/9235196717"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7916215,
-      47.319128
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9245636467",
   "properties": {
     "access": "yes",
@@ -24704,8 +24685,8 @@
     "contact:housenumber": "29",
     "contact:postcode": "8803",
     "contact:street": "Pilgerweg",
-    "defibrillator:location": "Eingangsbereich Erdgeschoss (vor zweiter Glasschiebeüre links)",
-    "description": "immer verfügbar\n24/7",
+    "defibrillator:location": "Vor Gemeindehaus hinter Infotafel",
+    "description": "immer verfügbar 24/7",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -24721,7 +24702,7 @@
     "type": "Point",
     "coordinates": [
       8.5555152,
-      47.3082205
+      47.3082204
     ]
   }
 },
@@ -77043,28 +77024,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/13665000901",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Hadlaubstrasse 83, 8006 Zürich",
-    "description": "rechts vom Hauseingang",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "level": "0",
-    "operator": "Stiftung Alterswohnungen Hadlaub",
-    "id": "node/13665000901"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5512182,
-      47.3872802
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/13671470101",
   "properties": {
     "emergency": "defibrillator",
@@ -77116,6 +77075,47 @@
     "coordinates": [
       8.6215453,
       47.5247372
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13677248302",
+  "properties": {
+    "defibrillator:location": "Reformierte Kirche Pfäffikon ZH",
+    "description": "Bei Öffnugszeiten der Kirche zugägnlich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "id": "node/13677248302"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7807851,
+      47.3652939
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13679233502",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Pfarreizentrum St Peter + Paul, Laboratoriumstrasse 5, 8400 Winterthur",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Katholische Pfarreizentrum St Peter + Paul Winterthur",
+    "phone": "+41793361507",
+    "id": "node/13679233502"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7195234,
+      47.5026207
     ]
   }
 }

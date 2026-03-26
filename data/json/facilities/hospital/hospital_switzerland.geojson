@@ -21148,6 +21148,7 @@
     "amenity": "hospital",
     "building": "hospital",
     "healthcare": "hospital",
+    "internet_access": "wlan",
     "name": "Institut für Pathologie Universitätsspital Basel",
     "opening_hours": "Mo-Fr 07:00-17:00",
     "phone": "+41 61 265 27 57",
