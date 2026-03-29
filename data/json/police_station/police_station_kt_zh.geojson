@@ -1392,7 +1392,7 @@
   "type": "Feature",
   "id": "node/304645242",
   "properties": {
-    "addr:city": "Buchs",
+    "addr:city": "Buchs ZH",
     "addr:housenumber": "11",
     "addr:postcode": "8107",
     "addr:street": "Badenerstrasse",

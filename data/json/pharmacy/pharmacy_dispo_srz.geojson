@@ -4620,9 +4620,9 @@
   "id": "node/2460186217",
   "properties": {
     "amenity": "pharmacy",
-    "check_date:opening_hours": "2023-06-17",
+    "check_date:opening_hours": "2026-03-28",
     "name": "Apotheke Roter Ochsen",
-    "opening_hours": "Mo-Fr 08:00-12:15,13:15-18:30; Sa 08:00-16:00",
+    "opening_hours": "Mo-Fr 08:00-12:15,13:15-18:30; Sa 08:00-12:00",
     "website": "https://www.volksapotheke.ch/R_310.php",
     "id": "node/2460186217"
   },

@@ -3159,6 +3159,7 @@
     "amenity": "social_facility",
     "check_date": "2025-03-05",
     "name": "Caritas",
+    "social_facility": "food_bank",
     "id": "node/12637914793"
   },
   "geometry": {

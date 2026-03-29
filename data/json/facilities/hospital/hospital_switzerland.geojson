@@ -54470,24 +54470,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6990883228",
-  "properties": {
-    "amenity": "clinic",
-    "description": "A 20 minutes de Neuchâtel et moins d'une heure de Delémont, Bienne et Yverdon, nous sommes un établissement privé situé au cœur de l'arc jurassien. Avec près de 2000 interventions par année, la chirurgie est notre mission première.",
-    "healthcare": "clinic",
-    "name": "Clinique de La Tour",
-    "id": "node/6990883228"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      6.8264647,
-      47.0996235
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7044143562",
   "properties": {
     "amenity": "clinic",
