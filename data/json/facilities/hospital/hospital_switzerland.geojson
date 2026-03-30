@@ -56026,7 +56026,7 @@
     "amenity": "clinic",
     "healthcare": "clinic",
     "name": "Ärztehaus im Allmen",
-    "opening_hours": "Mo-Fr 07:30-12:00; Mo-Mi 13:30-18:00; Fr 07:30-16:30; Sa-Su off; PH off",
+    "opening_hours": "Mo-Fr 07:30-12:00; Mo-We 13:30-18:00; Fr 07:30-16:30; Sa-Su off; PH off",
     "phone": "+41 62 923 23 43",
     "website": "https://www.aerztehausimallmen.ch",
     "id": "node/9544337529"

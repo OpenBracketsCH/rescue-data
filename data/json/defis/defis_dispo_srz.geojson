@@ -4845,24 +4845,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7559564744",
-  "properties": {
-    "access": "yes",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "opening_hours": "24/7",
-    "id": "node/7559564744"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7619159,
-      47.3756868
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7561412480",
   "properties": {
     "defibrillator:location": "in einem PW",
@@ -87940,8 +87922,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7567325,
-      47.3900735
+      8.7566345,
+      47.3900558
     ]
   }
 },
@@ -99047,6 +99029,28 @@
     "coordinates": [
       8.6836497,
       47.3690165
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13688979501",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Eingang Muelibach 7",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "5",
+    "operator": "Privatperson",
+    "phone": "+41794446077",
+    "id": "node/13688979501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8208438,
+      47.1925006
     ]
   }
 }

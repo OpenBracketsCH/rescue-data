@@ -15155,6 +15155,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/11523655556",
+  "properties": {
+    "addr:housenumber": "7;9",
+    "addr:street": "Blumenfeldstrasse",
+    "amenity": "childcare",
+    "check_date": "2024-01-16",
+    "name": "Kinderkrippe Bambi",
+    "website": "https://www.kinderkrippe-bambi.ch/",
+    "id": "node/11523655556"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5016038,
+      47.4222441
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/11534042083",
   "properties": {
     "addr:city": "Schaffhausen",
@@ -16365,22 +16385,6 @@
     "coordinates": [
       8.511814,
       47.4164847
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/13672340368",
-  "properties": {
-    "amenity": "childcare",
-    "name": "Kinderkrippe Bambi",
-    "id": "node/13672340368"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5016508,
-      47.4221923
     ]
   }
 }

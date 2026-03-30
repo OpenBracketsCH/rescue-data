@@ -13840,53 +13840,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/178796732",
-  "properties": {
-    "addr:city": "Oetwil an der Limmat",
-    "addr:housenumber": "46",
-    "addr:postcode": "8955",
-    "addr:street": "Dorfstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "building:levels": "1",
-    "name": "Kindergarten Oberdorf",
-    "source": "AGIS 2011",
-    "id": "way/178796732"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.3981451,
-          47.4273848
-        ],
-        [
-          8.3980069,
-          47.4275853
-        ],
-        [
-          8.397887,
-          47.4275475
-        ],
-        [
-          8.3979496,
-          47.4274567
-        ],
-        [
-          8.3980252,
-          47.427347
-        ],
-        [
-          8.3981451,
-          47.4273848
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/179174984",
   "properties": {
     "addr:city": "Uster",
@@ -32973,6 +32926,65 @@
 },
 {
   "type": "Feature",
+  "id": "way/1493985576",
+  "properties": {
+    "addr:city": "Oetwil an der Limmat",
+    "addr:housenumber": "5",
+    "addr:postcode": "8955",
+    "addr:street": "Schweizäckerstrasse",
+    "amenity": "kindergarten",
+    "education": "kindergarten",
+    "level": "0",
+    "name": "Kindergarten Letten 1 & 2",
+    "operator": "Primarschule Geroldswil-Oetwil an der Limmat",
+    "id": "way/1493985576"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4025226,
+          47.4248795
+        ],
+        [
+          8.4020975,
+          47.425032
+        ],
+        [
+          8.4020859,
+          47.4250164
+        ],
+        [
+          8.4020411,
+          47.4249558
+        ],
+        [
+          8.4023362,
+          47.4248523
+        ],
+        [
+          8.4023201,
+          47.4248324
+        ],
+        [
+          8.4024569,
+          47.4247852
+        ],
+        [
+          8.4025125,
+          47.424865
+        ],
+        [
+          8.4025226,
+          47.4248795
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/104302787",
   "properties": {
     "amenity": "kindergarten",
@@ -43668,24 +43680,6 @@
     "coordinates": [
       8.754031,
       47.5017607
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11523655556",
-  "properties": {
-    "amenity": "kindergarten",
-    "check_date": "2024-01-16",
-    "name": "Kinderkrippe Bambi",
-    "website": "https://kinderkrippe-bambi.ch",
-    "id": "node/11523655556"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.500306,
-      47.422867
     ]
   }
 },
