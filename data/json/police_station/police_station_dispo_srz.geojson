@@ -4390,8 +4390,10 @@
     "addr:street": "Rümlangstrasse",
     "alt_name": "KomPol Ronn",
     "amenity": "police",
+    "check_date": "2026-03-30",
     "name": "Polizeiposten KomPol Ronn (Rümlang/Oberglatt/Niederhasli/Niederglatt)",
     "phone": "+41 44 852 37 17",
+    "wheelchair": "yes",
     "id": "node/9515252556"
   },
   "geometry": {

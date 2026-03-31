@@ -27318,6 +27318,7 @@
     "addr:street": "Schlossstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2026-03-30",
     "name": "Kindergarten Herblingen",
     "id": "way/589643073"
   },

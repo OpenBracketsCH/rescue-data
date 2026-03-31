@@ -35731,6 +35731,8 @@
   "type": "Feature",
   "id": "node/9530626434",
   "properties": {
+    "check_date": "2026-03-30",
+    "defibrillator:location": "Links neben dem Eingang der Kita ",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -62130,8 +62132,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5619544,
-      47.4372652
+      8.5620665,
+      47.4368108
     ]
   }
 },
@@ -85679,7 +85681,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "2",
-    "opening_hours": "Mo 10:00-19:00 , Tu 8:00-17:00 , We 7:00-16:00 , Th 8:00-17:00 , Fr 7:00-14:00",
+    "opening_hours": "Mo 10:00-14:00, 15:00-19:00; Tu 08:00-12:00, 13:00-17:00; We 07:00-12:00, 13:00-16:00; Th 08:00-12:00, 13:00-17:00; Fr 08:00-14:00",
     "operator": "Praxis am Neuhof",
     "phone": "+41447801433",
     "source": "local_knowledge, defikarte.ch",
@@ -89099,6 +89101,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "opening_hours": "Mo-Su 07:00-23:00",
     "operator": "Hotel",
     "phone": "+41 43 388 33 00",
@@ -91708,9 +91711,9 @@
     "access": "yes",
     "addr:city": "Winterthur",
     "addr:country": "CH",
+    "addr:housenumber": "4",
     "addr:postcode": "8409",
     "addr:street": "Hintermühlenstrasse",
-    "addr:streetnumber": "4",
     "defibrillator:location": "Eingang Center Links unter Treppe",
     "description": "Oranger Koffer",
     "emergency": "defibrillator",
@@ -99051,6 +99054,49 @@
     "coordinates": [
       8.8208438,
       47.1925006
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13691117001",
+  "properties": {
+    "defibrillator:location": "Vor Eingang Restaurant Kapelle",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Restaurant",
+    "phone": "+41552833100",
+    "id": "node/13691117001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9087214,
+      47.1442847
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13691341401",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bestattungshalle neben Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde",
+    "id": "node/13691341401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5281762,
+      47.3075736
     ]
   }
 }
