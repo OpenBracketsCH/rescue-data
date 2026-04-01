@@ -22464,6 +22464,7 @@
   "id": "way/46511029",
   "properties": {
     "amenity": "school",
+    "check_date": "2026-03-31",
     "contact:city": "Baar",
     "contact:housenumber": "20",
     "contact:phone": "+41 41 767 78 33",
@@ -89765,8 +89766,8 @@
           47.6989205
         ],
         [
-          8.6516046,
-          47.6989156
+          8.6516051,
+          47.6989106
         ],
         [
           8.6516928,

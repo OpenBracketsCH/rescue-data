@@ -8935,32 +8935,15 @@
 },
 {
   "type": "Feature",
-  "id": "node/7721013384",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "In Arztpraxis",
-    "description": "nur während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "id": "node/7721013384"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5226333,
-      47.1982277
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7721023585",
   "properties": {
     "access": "yes",
+    "check_date": "2026-03-31",
     "defibrillator:location": "In Arztpraxis",
     "description": "nur während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "id": "node/7721023585"
   },
   "geometry": {
@@ -22013,13 +21996,12 @@
   "type": "Feature",
   "id": "node/8562698067",
   "properties": {
-    "access": "no",
     "defibrillator:location": "Gebäude Empa Akademie",
-    "description": "interne Betriebssanität aufbieten 058 765 88 88",
+    "description": "Interne Betriebssanität aufbieten 058 765 88 88",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "operator": "Empa Zentrale, nach Renato Figi fragen",
+    "operator": "Empa Zentrale",
     "phone": "+41 58 765 11 11",
     "id": "node/8562698067"
   },
@@ -22035,13 +22017,12 @@
   "type": "Feature",
   "id": "node/8562698068",
   "properties": {
-    "access": "no",
     "defibrillator:location": "Eawag Gebaude Forurm Chriesbach (= Empfang Eawag)",
-    "description": "interne Betriebssanität aufbieten 058 765 88 88",
+    "description": "Interne Betriebssanität aufbieten 058 765 88 88",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "operator": "Empa Zentrale, nach Renato Figi fragen",
+    "operator": "Empa Zentrale",
     "phone": "+41 58 765 11 11",
     "id": "node/8562698068"
   },
@@ -22057,13 +22038,12 @@
   "type": "Feature",
   "id": "node/8562698069",
   "properties": {
-    "access": "no",
     "defibrillator:location": "Empa Gebäude NEST (= Empfang Empa)",
-    "description": "interne Betriebssanität aufbieten 058 765 88 88",
+    "description": "Interne Betriebssanität aufbieten 058 765 88 88",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "operator": "Empa Zentrale, nach Renato Figi fragen",
+    "operator": "Empa Zentrale",
     "phone": "+41 58 765 11 11",
     "id": "node/8562698069"
   },
@@ -43340,7 +43320,8 @@
     "defibrillator:location": "Sporthalle Stighag",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
+    "indoor": "yes",
+    "level": "0",
     "opening_hours": "Mo-Fr 09:00-18:00",
     "operator": "Stadt Kloten",
     "phone": "+41 44 815 11 11",
@@ -99097,6 +99078,73 @@
     "coordinates": [
       8.5281762,
       47.3075736
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13695067201",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Eingang geradeaus, USM-Möbel rechts nach Wartezimmer",
+    "description": "während Öffnungszeiten erreichbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 07:00-17:00, Sa 08:00-12:30",
+    "operator": "Zentrum für Chiropraktik",
+    "phone": "+41 44 262 21 11",
+    "id": "node/13695067201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.55394,
+      47.36625
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13695370201",
+  "properties": {
+    "defibrillator:location": "Consol Textil/Wäscherei Ibelweg 18c",
+    "description": "während der öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 7:00-17:00",
+    "id": "node/13695370201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5252115,
+      47.18133
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13695385802",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Bei Privatperson, klingeln bei \"Portmann\"",
+    "description": "nur verfügbar, wenn jemand zuhause",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Privatperson",
+    "phone": "+41 44 308 20 30",
+    "id": "node/13695385802"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7779132,
+      47.3694214
     ]
   }
 }
