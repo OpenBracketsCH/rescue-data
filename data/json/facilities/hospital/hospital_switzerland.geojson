@@ -59880,6 +59880,30 @@
       47.3125369
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13698964005",
+  "properties": {
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "150",
+    "addr:postcode": "9000",
+    "addr:street": "Rorschacher Strasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "orthopaedics",
+    "level": "11-12",
+    "name": "Orthopädie Rosenberg",
+    "website": "https://www.orthopaedie-rosenberg.ch/",
+    "id": "node/13698964005"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.394886,
+      47.4309606
+    ]
+  }
 }
 ]
 }

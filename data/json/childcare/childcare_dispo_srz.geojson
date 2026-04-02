@@ -12959,6 +12959,7 @@
   "id": "node/9534287813",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2026-04-02",
     "contact:city": "Zürich",
     "contact:housenumber": "91",
     "contact:phone": "+41 44 413 73 15",
