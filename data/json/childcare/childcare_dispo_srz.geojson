@@ -2749,11 +2749,11 @@
     "amenity": "childcare",
     "building": "yes",
     "building:levels": "1",
-    "building:roof": "flat",
     "name": "Kindertagesstätte Schnäggehuus",
     "opening_hours": "Mo-Fr 07:00-18:00",
     "operator": "Familiaris Winterthur",
     "operator:type": "private",
+    "roof:levels": "0",
     "roof:shape": "flat",
     "website": "https://www.familiaris.ch/schnaeggehuus/",
     "id": "way/223555028"
