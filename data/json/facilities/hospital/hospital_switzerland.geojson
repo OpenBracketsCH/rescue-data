@@ -38103,6 +38103,10 @@
           47.555743
         ],
         [
+          7.8053662,
+          47.5555801
+        ],
+        [
           7.8053543,
           47.5553022
         ],
@@ -38125,6 +38129,10 @@
         [
           7.8072654,
           47.5564689
+        ],
+        [
+          7.8066875,
+          47.5564068
         ],
         [
           7.8064647,
@@ -57263,7 +57271,7 @@
     "healthcare": "clinic",
     "healthcare:speciality": "general",
     "name": "Polipraxis Steinach",
-    "opening_hours": "Mo-Fr 07:30-12:00; 13:30-18:00",
+    "opening_hours": "Mo-Fr 07:30-12:00,13:30-18:00",
     "operator": "Polipraxis Gruppe",
     "id": "node/11064246921"
   },

@@ -24418,6 +24418,7 @@
   "id": "node/2567824002",
   "properties": {
     "barrier": "gate",
+    "locked": "no",
     "maxwidth:physical": "2",
     "id": "node/2567824002"
   },
@@ -24434,6 +24435,7 @@
   "id": "node/2567824011",
   "properties": {
     "barrier": "gate",
+    "locked": "no",
     "id": "node/2567824011"
   },
   "geometry": {
@@ -90861,6 +90863,57 @@
 },
 {
   "type": "Feature",
+  "id": "node/13113116101",
+  "properties": {
+    "access": "yes",
+    "barrier": "gate",
+    "door": "hinged",
+    "id": "node/13113116101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5117435,
+      47.3754047
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13113116102",
+  "properties": {
+    "access": "yes",
+    "barrier": "gate",
+    "door": "hinged",
+    "locked": "no",
+    "id": "node/13113116102"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5129661,
+      47.3762794
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13113116116",
+  "properties": {
+    "barrier": "gate",
+    "door": "hinged",
+    "id": "node/13113116116"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5110246,
+      47.3758755
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/13120716646",
   "properties": {
     "barrier": "gate",
@@ -95559,6 +95612,42 @@
     "coordinates": [
       8.5719302,
       47.4379818
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13703817878",
+  "properties": {
+    "access": "yes",
+    "barrier": "gate",
+    "door": "hinged",
+    "locked": "no",
+    "id": "node/13703817878"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5124808,
+      47.3768769
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13703821944",
+  "properties": {
+    "access": "yes",
+    "barrier": "gate",
+    "door": "hinged",
+    "locked": "no",
+    "id": "node/13703821944"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5126383,
+      47.3769304
     ]
   }
 }
