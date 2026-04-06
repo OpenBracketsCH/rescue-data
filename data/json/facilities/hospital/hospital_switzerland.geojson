@@ -59912,6 +59912,33 @@
       47.4309606
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13708629595",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "1",
+    "addr:postcode": "8045",
+    "addr:street": "Kalanderplatz",
+    "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "clinic",
+    "healthcare:speciality": "dermatology;angiology;plastic_surgery",
+    "internet_access": "yes",
+    "level": "4",
+    "name": "Derma Medical Clinic",
+    "phone": "+41 44 880 08 08",
+    "website": "http://www.dermamedicalclinic.ch",
+    "id": "node/13708629595"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5235519,
+      47.3569508
+    ]
+  }
 }
 ]
 }

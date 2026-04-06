@@ -13092,7 +13092,7 @@
   "type": "Feature",
   "id": "node/7930654676",
   "properties": {
-    "access": "yes",
+    "access": "permissive",
     "defibrillator:location": "Im Migros",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
@@ -20272,13 +20272,13 @@
   "type": "Feature",
   "id": "node/8556538290",
   "properties": {
-    "access": "yes",
+    "access": "permissive",
     "defibrillator:location": "Tennisclub Itschnach im Clubhaus",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "operator": "ennisclub Itschnach",
+    "operator": "Tennisclub Itschnach",
     "phone": "+41 44 910 44 80",
     "id": "node/8556538290"
   },
@@ -22644,7 +22644,7 @@
   "type": "Feature",
   "id": "node/8573760297",
   "properties": {
-    "access": "yes",
+    "access": "permissive",
     "defibrillator:location": "Sanitätszimmer",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
@@ -22657,7 +22657,7 @@
     "type": "Point",
     "coordinates": [
       8.6066589,
-      47.3275095
+      47.3275104
     ]
   }
 },
@@ -22665,7 +22665,7 @@
   "type": "Feature",
   "id": "node/8573760298",
   "properties": {
-    "access": "yes",
+    "access": "permissive",
     "defibrillator:location": "Curling-Halle",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
@@ -67714,7 +67714,7 @@
   "type": "Feature",
   "id": "node/11612870971",
   "properties": {
-    "access": "no",
+    "access": "permissive",
     "defibrillator:location": "Schulhaus Berg, Lehrerzimmer",
     "description": "während der Unterrichtszeiten erreichbar",
     "emergency": "defibrillator",
@@ -67784,7 +67784,7 @@
   "type": "Feature",
   "id": "node/11612888569",
   "properties": {
-    "access": "no",
+    "access": "permissive",
     "defibrillator:location": "Schulhaus Feld, Lehrerzimmer",
     "description": "während der Unterrichtszeiten erreichbar",
     "emergency": "defibrillator",
@@ -80686,6 +80686,7 @@
   "type": "Feature",
   "id": "node/12306615001",
   "properties": {
+    "access": "permissive",
     "defibrillator:location": "Bossard Arena, Haupteingang, im Gang rechts an Wand vor Aussenfeld-Kasse",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -80698,7 +80699,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.507543,
+      8.5075432,
       47.176515
     ]
   }

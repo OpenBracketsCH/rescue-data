@@ -79381,6 +79381,7 @@
   "properties": {
     "barrier": "gate",
     "material": "metal",
+    "maxwidth:physical": "1",
     "id": "node/9943577422"
   },
   "geometry": {
