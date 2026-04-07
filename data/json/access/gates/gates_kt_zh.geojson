@@ -95667,6 +95667,120 @@
       47.4390198
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13712974813",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "entrance": "garage",
+    "layer": "-1",
+    "locked": "yes",
+    "id": "node/13712974813"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3937878,
+      47.4017751
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13712974814",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "entrance": "garage",
+    "layer": "-1",
+    "locked": "yes",
+    "id": "node/13712974814"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3938163,
+      47.4017594
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13712974815",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "entrance": "garage",
+    "layer": "-1",
+    "locked": "yes",
+    "id": "node/13712974815"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3938448,
+      47.4017437
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13712974816",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "entrance": "garage",
+    "layer": "-1",
+    "locked": "yes",
+    "id": "node/13712974816"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3939874,
+      47.4016651
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13712974817",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "entrance": "garage",
+    "layer": "-1",
+    "locked": "yes",
+    "id": "node/13712974817"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3939589,
+      47.4016808
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13712974818",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "entrance": "garage",
+    "layer": "-1",
+    "locked": "yes",
+    "id": "node/13712974818"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3939303,
+      47.4016965
+    ]
+  }
 }
 ]
 }
