@@ -6844,15 +6844,19 @@
     "defibrillator:location": "Durchgang Joweid Areal Aktiv Fitness",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
     "name": "Joweid Areal",
     "opening_hours": "24/7",
+    "operator": "Joweid Betriebs AG",
+    "phone": "+41552502014",
     "id": "node/7620298570"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8533583,
-      47.2625355
+      8.8534776,
+      47.2626026
     ]
   }
 },
@@ -21998,11 +22002,13 @@
   "type": "Feature",
   "id": "node/8562698067",
   "properties": {
+    "access": "permissive",
     "defibrillator:location": "Gebäude Empa Akademie",
-    "description": "Interne Betriebssanität aufbieten 058 765 88 88",
+    "description": "Interne Betriebssanität aufbieten: 058 765 88 88",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:00 - 14:00",
     "operator": "Empa Zentrale",
     "phone": "+41 58 765 11 11",
     "id": "node/8562698067"
@@ -22020,10 +22026,11 @@
   "id": "node/8562698068",
   "properties": {
     "defibrillator:location": "Eawag Gebaude Forurm Chriesbach (= Empfang Eawag)",
-    "description": "Interne Betriebssanität aufbieten 058 765 88 88",
+    "description": "Interne Betriebssanität aufbieten: 058 765 88 88",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:00 - 16:00",
     "operator": "Empa Zentrale",
     "phone": "+41 58 765 11 11",
     "id": "node/8562698068"
@@ -22041,10 +22048,11 @@
   "id": "node/8562698069",
   "properties": {
     "defibrillator:location": "Empa Gebäude NEST (= Empfang Empa)",
-    "description": "Interne Betriebssanität aufbieten 058 765 88 88",
+    "description": "Interne Betriebssanität aufbieten: 058 765 88 88",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:00 - 16:00",
     "operator": "Empa Zentrale",
     "phone": "+41 58 765 11 11",
     "id": "node/8562698069"
@@ -30322,13 +30330,20 @@
   "type": "Feature",
   "id": "node/9007992006",
   "properties": {
-    "defibrillator:location": "4. OG, Wandschrank Korridor - jedoch nicht zugänglich - an Glastüre klopfen",
+    "addr:city": "Zürich",
+    "addr:housenumber": "30",
+    "addr:postcode": "8004",
+    "addr:street": "Morgartenstrasse",
+    "defibrillator:location": "2. OG, Wandschrank Korridor - jedoch nicht zugänglich - an Glastüre klopfen",
+    "description": "Koffer Orange",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "2",
     "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
-    "operator": "Pensionskasse Stadt Zürich / Bruno Langenegger",
+    "operator": "Lifetec AG",
     "phone": "+41 44 412 52 12",
+    "ref": "1366LTM",
     "id": "node/9007992006"
   },
   "geometry": {
@@ -67501,8 +67516,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5534659,
-      47.051596
+      8.5535303,
+      47.0516281
     ]
   }
 },
@@ -78609,26 +78624,6 @@
     "coordinates": [
       8.62229,
       47.4141041
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/12149396201",
-  "properties": {
-    "defibrillator:location": "in der Durchfahrt",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "operator": "Joweid Betriebs AG",
-    "phone": "+41552502014",
-    "id": "node/12149396201"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.853499,
-      47.2624247
     ]
   }
 },
