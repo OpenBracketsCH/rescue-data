@@ -28285,6 +28285,7 @@
     "addr:postcode": "8063",
     "addr:street": "Birmensdorferstrasse",
     "amenity": "hospital",
+    "check_date": "2026-04-09",
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
@@ -36981,6 +36982,7 @@
     "addr:postcode": "9500",
     "addr:street": "Fürstenlandstrasse",
     "amenity": "hospital",
+    "email": "info@srft.ch",
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "internal;gynaecology;emergency;surgery;orthopaedics;trauma;geriatrics;anaesthetics",
@@ -51991,6 +51993,31 @@
 },
 {
   "type": "Feature",
+  "id": "node/2001233355",
+  "properties": {
+    "addr:city": "Baden",
+    "addr:country": "CH",
+    "addr:housename": "Handeys Beauty",
+    "addr:housenumber": "4",
+    "addr:postcode": "5400",
+    "addr:street": "Bahnhofplatz",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "plastic_surgery",
+    "name": "Handeys Beauty",
+    "website": "https://www.handeys-beauty.ch/",
+    "id": "node/2001233355"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3085189,
+      47.4761181
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2431011784",
   "properties": {
     "amenity": "clinic",
@@ -53825,6 +53852,44 @@
     "coordinates": [
       7.4347504,
       46.9444648
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310284413",
+  "properties": {
+    "healthcare": "clinic",
+    "healthcare:speciality": "internal",
+    "name": "Innere Medizin",
+    "phone": "+41 52 634 21 15",
+    "website": "https://www.spitaeler-sh.ch/Kliniken-Fachzentren/Innere-Medizin/#topContent",
+    "id": "node/6310284413"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6366057,
+      47.7118587
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310284415",
+  "properties": {
+    "healthcare": "clinic",
+    "healthcare:speciality": "surgery",
+    "name": "Operative Disziplinen",
+    "phone": "+41 52 634 87 15",
+    "website": "https://www.spitaeler-sh.ch/Kliniken-Fachzentren/Operative-Disziplinen/#topContent",
+    "id": "node/6310284415"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6347657,
+      47.7117829
     ]
   }
 },

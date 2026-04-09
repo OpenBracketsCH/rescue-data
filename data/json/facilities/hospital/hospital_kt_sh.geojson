@@ -1654,6 +1654,44 @@
 },
 {
   "type": "Feature",
+  "id": "node/6310284413",
+  "properties": {
+    "healthcare": "clinic",
+    "healthcare:speciality": "internal",
+    "name": "Innere Medizin",
+    "phone": "+41 52 634 21 15",
+    "website": "https://www.spitaeler-sh.ch/Kliniken-Fachzentren/Innere-Medizin/#topContent",
+    "id": "node/6310284413"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6366057,
+      47.7118587
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310284415",
+  "properties": {
+    "healthcare": "clinic",
+    "healthcare:speciality": "surgery",
+    "name": "Operative Disziplinen",
+    "phone": "+41 52 634 87 15",
+    "website": "https://www.spitaeler-sh.ch/Kliniken-Fachzentren/Operative-Disziplinen/#topContent",
+    "id": "node/6310284415"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6347657,
+      47.7117829
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/7575189802",
   "properties": {
     "addr:city": "Beringen",

@@ -5451,6 +5451,7 @@
     "addr:postcode": "8063",
     "addr:street": "Birmensdorferstrasse",
     "amenity": "hospital",
+    "check_date": "2026-04-09",
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",

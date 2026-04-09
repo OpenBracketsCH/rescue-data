@@ -3292,6 +3292,50 @@
 },
 {
   "type": "Feature",
+  "id": "node/6644087281",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "2",
+    "addr:street": "Ungarbühlstrasse",
+    "amenity": "social_facility",
+    "name": "Haus Linde",
+    "operator": "Schönbühl Kompetenzzentrum für Lebensqualität",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
+    "id": "node/6644087281"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6408069,
+      47.7049963
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6644087282",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "2a",
+    "addr:street": "Ungarbühlstrasse",
+    "amenity": "social_facility",
+    "name": "Haus Ahorn",
+    "operator": "Schönbühl Kompetenzzentrum für Lebensqualität",
+    "social_facility": "assisted_living",
+    "social_facility:for": "senior",
+    "id": "node/6644087282"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6404072,
+      47.7050044
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9308476987",
   "properties": {
     "addr:city": "Schaffhausen",

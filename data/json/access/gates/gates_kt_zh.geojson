@@ -9964,6 +9964,7 @@
   "id": "node/685150770",
   "properties": {
     "barrier": "gate",
+    "locked": "yes",
     "id": "node/685150770"
   },
   "geometry": {
@@ -17850,6 +17851,7 @@
   "id": "node/1829580752",
   "properties": {
     "barrier": "gate",
+    "locked": "yes",
     "id": "node/1829580752"
   },
   "geometry": {
@@ -40967,6 +40969,7 @@
   "id": "node/5048543937",
   "properties": {
     "barrier": "gate",
+    "locked": "yes",
     "id": "node/5048543937"
   },
   "geometry": {
@@ -69514,6 +69517,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/10236431834",
+  "properties": {
+    "barrier": "gate",
+    "description": "gate is not actually locked but not easily opened either, heavy lift",
+    "id": "node/10236431834"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5073297,
+      47.3467377
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/10237727399",
   "properties": {
     "barrier": "gate",
@@ -95795,6 +95814,102 @@
     "coordinates": [
       8.5086985,
       47.3629505
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13716290716",
+  "properties": {
+    "barrier": "gate",
+    "description": "gate is not actually locked but not easily opened either, heavy lift",
+    "id": "node/13716290716"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5075457,
+      47.3479133
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13716290719",
+  "properties": {
+    "barrier": "gate",
+    "description": "gate is not actually locked but not easily opened either, heavy lift",
+    "id": "node/13716290719"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5085291,
+      47.3474185
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13716290744",
+  "properties": {
+    "barrier": "gate",
+    "locked": "no",
+    "id": "node/13716290744"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5159705,
+      47.3507562
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13716290768",
+  "properties": {
+    "barrier": "gate",
+    "description": "gate is not actually locked but not easily opened either, heavy lift",
+    "id": "node/13716290768"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5094121,
+      47.3470921
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13716290770",
+  "properties": {
+    "barrier": "gate",
+    "description": "gate is not actually locked but not easily opened either, heavy lift",
+    "id": "node/13716290770"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.507496,
+      47.3472309
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13716290803",
+  "properties": {
+    "barrier": "gate",
+    "description": "gate is not actually locked but not easily opened either, heavy lift",
+    "id": "node/13716290803"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5096738,
+      47.3469983
     ]
   }
 }

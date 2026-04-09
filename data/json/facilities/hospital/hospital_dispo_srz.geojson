@@ -6191,6 +6191,7 @@
     "addr:postcode": "8063",
     "addr:street": "Birmensdorferstrasse",
     "amenity": "hospital",
+    "check_date": "2026-04-09",
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
@@ -12991,6 +12992,44 @@
     "coordinates": [
       8.5133966,
       47.3930186
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310284413",
+  "properties": {
+    "healthcare": "clinic",
+    "healthcare:speciality": "internal",
+    "name": "Innere Medizin",
+    "phone": "+41 52 634 21 15",
+    "website": "https://www.spitaeler-sh.ch/Kliniken-Fachzentren/Innere-Medizin/#topContent",
+    "id": "node/6310284413"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6366057,
+      47.7118587
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6310284415",
+  "properties": {
+    "healthcare": "clinic",
+    "healthcare:speciality": "surgery",
+    "name": "Operative Disziplinen",
+    "phone": "+41 52 634 87 15",
+    "website": "https://www.spitaeler-sh.ch/Kliniken-Fachzentren/Operative-Disziplinen/#topContent",
+    "id": "node/6310284415"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6347657,
+      47.7117829
     ]
   }
 },
