@@ -9818,52 +9818,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/108341501",
-  "properties": {
-    "addr:city": "Uster",
-    "addr:country": "CH",
-    "addr:housenumber": "3",
-    "addr:postcode": "8610",
-    "addr:street": "Gschwaderstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "building:levels": "2",
-    "check_date": "2025-04-11",
-    "contact:phone": "+41 44 940 59 03",
-    "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/790",
-    "name": "Kindergarten Ackerstrasse",
-    "id": "way/108341501"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7077492,
-          47.3548464
-        ],
-        [
-          8.7077072,
-          47.3546719
-        ],
-        [
-          8.707855,
-          47.3546556
-        ],
-        [
-          8.707897,
-          47.35483
-        ],
-        [
-          8.7077492,
-          47.3548464
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/108570978",
   "properties": {
     "amenity": "kindergarten",
@@ -37628,6 +37582,53 @@
 },
 {
   "type": "Feature",
+  "id": "way/1498081015",
+  "properties": {
+    "amenity": "kindergarten",
+    "check_date": "2025-04-11",
+    "contact:phone": "+41 44 940 59 03",
+    "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/790",
+    "name": "Kindergarten Ackerstrasse",
+    "id": "way/1498081015"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7075718,
+          47.354964
+        ],
+        [
+          8.7074949,
+          47.3546556
+        ],
+        [
+          8.7080911,
+          47.3545873
+        ],
+        [
+          8.708145,
+          47.3548033
+        ],
+        [
+          8.708038,
+          47.3548156
+        ],
+        [
+          8.708061,
+          47.354908
+        ],
+        [
+          8.7075718,
+          47.354964
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",
@@ -42297,6 +42298,7 @@
   "id": "node/6628634883",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-04-09",
     "contact:city": "Zürich",
     "contact:housenumber": "119",
     "contact:phone": "+41 44 413 74 39",

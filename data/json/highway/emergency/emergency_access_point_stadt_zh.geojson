@@ -26,10 +26,11 @@
   "type": "Feature",
   "id": "node/295902028",
   "properties": {
+    "description": "Biketrail Triemli Rettungspunkt J Hohensteinweg",
     "description:emergency": "Hohensteinweg",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
-    "name": "Biketrail Triemli Rettungspunkt J Hohensteinweg",
+    "name": "J",
     "operator": "Grün Stadt Zürich",
     "ref": "J",
     "id": "node/295902028"
@@ -46,10 +47,11 @@
   "type": "Feature",
   "id": "node/307970903",
   "properties": {
+    "description": "Biketrail Triemli Rettungspunkt B Gratweg 8",
     "description:emergency": "Uetlibergstrasse / Gratstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
-    "name": "Biketrail Triemli Rettungspunkt B Gratweg 8",
+    "name": "B",
     "operator": "Grün Stadt Zürich",
     "ref": "B",
     "id": "node/307970903"
@@ -66,10 +68,11 @@
   "type": "Feature",
   "id": "node/307971495",
   "properties": {
+    "description": "Biketrail Triemli Rettungspunkt E Spielplatz Hohenstein",
     "description:emergency": "Schwendenholzweg",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
-    "name": "Biketrail Triemli Rettungspunkt E Spielplatz Hohenstein",
+    "name": "E",
     "operator": "Grün Stadt Zürich",
     "ref": "E",
     "id": "node/307971495"
@@ -86,10 +89,11 @@
   "type": "Feature",
   "id": "node/307971510",
   "properties": {
+    "description": "Biketrail Triemli Rettungspunkt F",
     "description:emergency": "Hohensteinstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
-    "name": "Biketrail Triemli Rettungspunkt F",
+    "name": "F",
     "operator": "Grün Stadt Zürich",
     "ref": "F",
     "id": "node/307971510"
@@ -106,10 +110,11 @@
   "type": "Feature",
   "id": "node/307971736",
   "properties": {
+    "description": "Biketrail Triemli Rettungspunkt G Sädleneggweg",
     "description:emergency": "Hohensteinstrasse / Sädleneggweg",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
-    "name": "Biketrail Triemli Rettungspunkt G Sädleneggweg",
+    "name": "G",
     "operator": "Grün Stadt Zürich",
     "ref": "G",
     "id": "node/307971736"
@@ -195,10 +200,11 @@
   "type": "Feature",
   "id": "node/507672259",
   "properties": {
+    "description": "Biketrail Triemli Rettungspunkt A Gratstrasse/Sendeturm",
     "description:emergency": "Uetlibergstrasse / Gratstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
-    "name": "Biketrail Triemli Rettungspunkt A Gratstrasse/Sendeturm",
+    "name": "A",
     "operator": "Grün Stadt Zürich",
     "ref": "A",
     "id": "node/507672259"
@@ -215,10 +221,11 @@
   "type": "Feature",
   "id": "node/1827597292",
   "properties": {
+    "description": "Biketrail Triemli Rettungspunkt C Hohensteinstr.",
     "description:emergency": "Schwendenholzweg / Hohensteinstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
-    "name": "Biketrail Triemli Rettungspunkt C Hohensteinstr.",
+    "name": "C",
     "operator": "Grün Stadt Zürich",
     "ref": "C",
     "id": "node/1827597292"
@@ -235,10 +242,11 @@
   "type": "Feature",
   "id": "node/1923823662",
   "properties": {
+    "description": "Biketrail Triemli Rettungspunkt I Banzwiesenstr/Hohensteinweg",
     "description:emergency": "Banzwiesenstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
-    "name": "Biketrail Triemli Rettungspunkt I Banzwiesenstr/Hohensteinweg",
+    "name": "I",
     "operator": "Grün Stadt Zürich",
     "ref": "I",
     "id": "node/1923823662"
@@ -319,10 +327,11 @@
   "type": "Feature",
   "id": "node/6615840593",
   "properties": {
+    "description": "Biketrail Triemli Rettungspunkt H",
     "description:emergency": "Hohensteinstrasse / Sädleneggweg",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
-    "name": "Biketrail Triemli Rettungspunkt H",
+    "name": "H",
     "operator": "Grün Stadt Zürich",
     "ref": "H",
     "id": "node/6615840593"
@@ -360,10 +369,11 @@
   "type": "Feature",
   "id": "node/7517101866",
   "properties": {
+    "description": "Biketrail Triemli Rettungspunkt D Gratweg",
     "description:emergency": "Schwendenholzweg / Hohensteinstrasse",
     "emergency_telephone_code": "144",
     "highway": "emergency_access_point",
-    "name": "Biketrail Triemli Rettungspunkt D Gratweg",
+    "name": "D",
     "operator": "Grün Stadt Zürich",
     "ref": "D",
     "id": "node/7517101866"
