@@ -157,8 +157,13 @@
     "addr:postcode": "6312",
     "addr:street": "Blickensdorferstrasse",
     "amenity": "pharmacy",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
     "name": "UrsDrogerie Apotheke mit Biolade",
     "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-16:00",
+    "operator": "ursdroap AG",
+    "organic": "yes",
+    "shop": "chemist, pharmacy, convenience",
     "website": "https://www.ursdrogerie.ch/",
     "id": "node/660176172"
   },

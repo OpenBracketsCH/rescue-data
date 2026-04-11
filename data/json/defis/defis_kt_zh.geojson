@@ -11495,17 +11495,20 @@
   "type": "Feature",
   "id": "node/8500495394",
   "properties": {
+    "access": "yes",
     "defibrillator:location": "Outside, on the wall of the building",
+    "description": "Outside, on the wall of the building",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
+    "opening_hours": "24/7",
     "id": "node/8500495394"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4930741,
-      47.3756116
+      8.493074,
+      47.3756114
     ]
   }
 },
@@ -41563,30 +41566,6 @@
     "coordinates": [
       8.39623,
       47.41829
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10763310058",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "2.OG Korridor",
-    "description": "oranger Koffer",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "name": "Bénédict-Schule Zürich AG",
-    "opening_hours": "Mo-Fr 08:00-19:30; Sa 08:00-13:15",
-    "operator": "Lifetec AG Schweiz",
-    "phone": "+41 800 122 144",
-    "id": "node/10763310058"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.52896,
-      47.37967
     ]
   }
 },
@@ -76846,19 +76825,19 @@
   "type": "Feature",
   "id": "node/13653354601",
   "properties": {
-    "defibrillator:location": "Privathaus",
-    "description": "vor Hauseingang gut sichtbar von der Strasse aus",
+    "defibrillator:location": "Vor dem Hauseingang an der Hauswand gut sichtbar von der Strasse aus",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
+    "operator": "Lifetec",
     "id": "node/13653354601"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6008182,
-      47.3538383
+      8.600836,
+      47.3538494
     ]
   }
 },
@@ -77177,6 +77156,50 @@
     "coordinates": [
       8.566873,
       47.4117329
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13720559150",
+  "properties": {
+    "defibrillator:location": "Neben dem Hauseingang an der Aussenwand",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Lifetec",
+    "id": "node/13720559150"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6007026,
+      47.3546039
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13721139502",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Seeweg 174",
+    "description": "Beim Kücheneingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Seerestaurant Meilibach",
+    "phone": "+41794257823",
+    "id": "node/13721139502"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6281481,
+      47.2512433
     ]
   }
 }

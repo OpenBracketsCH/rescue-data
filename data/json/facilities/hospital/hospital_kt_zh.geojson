@@ -8473,6 +8473,7 @@
     "amenity": "clinic",
     "description": "Akutgeriatrie, internistisch-onkologische Rehabilitation und Palliative Care",
     "name": "Klinik Susenberg",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 09:00-14:00; Su 10:00-14:00",
     "phone": "+41 44 268 38 38",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
     "website": "https://www.susenbergklinik.ch/",

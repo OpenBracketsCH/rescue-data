@@ -3202,18 +3202,22 @@
   "id": "node/10039479356",
   "properties": {
     "addr:city": "Schaffhausen",
-    "addr:housenumber": "21",
+    "addr:housenumber": "21a",
     "addr:postcode": "8200",
     "addr:street": "Promenadenstrasse",
     "amenity": "kindergarten",
+    "email": "kigafaesenstaub@schulen-stadtsh.ch",
     "name": "Kindergarten Fäsenstaub",
+    "operator": "Schulden Stadt Schaffhausen",
+    "phone": "+41 52 624 41 18",
+    "website": "https://www.schulen-stadtsh.ch/de/schulen-und-kindergaerten/steig-hemmental/standorte-und-gebaeude.html",
     "id": "node/10039479356"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6283568,
-      47.6950304
+      8.6279008,
+      47.6950313
     ]
   }
 },
