@@ -33755,6 +33755,7 @@
   "properties": {
     "addr:city": "Zürich",
     "amenity": "kindergarten",
+    "check_date": "2026-04-12",
     "contact:city": "Zürich",
     "contact:housenumber": "60",
     "contact:phone": "+41 44 413 16 06",

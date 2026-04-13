@@ -50233,86 +50233,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1391019767",
-  "properties": {
-    "addr:city": "St. Gallen",
-    "addr:housenumber": "95",
-    "addr:postcode": "9000",
-    "addr:street": "Rorschacher Strasse",
-    "amenity": "hospital",
-    "building": "hospital",
-    "building:levels": "3",
-    "emergency": "no",
-    "healthcare": "hospital",
-    "layer": "1",
-    "name": "Haus 07A",
-    "operator": "HOCH Health Ostschweiz",
-    "operator:type": "public",
-    "roof:shape": "flat",
-    "id": "way/1391019767"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          9.3882329,
-          47.4304111
-        ],
-        [
-          9.387991,
-          47.4306797
-        ],
-        [
-          9.3876309,
-          47.4305247
-        ],
-        [
-          9.3872331,
-          47.4303538
-        ],
-        [
-          9.3870799,
-          47.430288
-        ],
-        [
-          9.3868969,
-          47.4302103
-        ],
-        [
-          9.3869513,
-          47.4301527
-        ],
-        [
-          9.3864918,
-          47.4299546
-        ],
-        [
-          9.3865584,
-          47.4298775
-        ],
-        [
-          9.3866568,
-          47.4297678
-        ],
-        [
-          9.3870343,
-          47.4299291
-        ],
-        [
-          9.3870636,
-          47.4299415
-        ],
-        [
-          9.3882329,
-          47.4304111
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1394553260",
   "properties": {
     "addr:city": "Schinznach Bad",
@@ -52621,9 +52541,11 @@
   "properties": {
     "amenity": "clinic",
     "healthcare": "clinic",
+    "healthcare:speciality": "emergency",
     "name": "Permanence Unisanté du Flon",
     "opening_hours": "Mo-Sa 07:00-21:00; PH,Su 09:00-19:00",
     "operator": "Policlinique médicale et universitaire",
+    "operator:type": "public",
     "id": "node/4179099318"
   },
   "geometry": {
