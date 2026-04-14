@@ -5430,6 +5430,7 @@
     "addr:street": "Billeterstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2026-04-13",
     "name": "Hugo-Mendel Heim",
     "social_facility": "group_home",
     "social_facility:for": "senior",

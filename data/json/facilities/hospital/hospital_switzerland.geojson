@@ -13153,7 +13153,7 @@
     "building:part": "yes",
     "healthcare": "clinic",
     "name": "Silberturm",
-    "website": "http://www.zetup.ch/",
+    "website": "https://aerzte-silberturm.ch/",
     "wikidata": "Q57289624",
     "id": "way/125286556"
   },
@@ -59917,7 +59917,7 @@
     "level": "4",
     "name": "Derma Medical Clinic",
     "phone": "+41 44 880 08 08",
-    "website": "http://www.dermamedicalclinic.ch",
+    "website": "https://dermamedicalclinic.ch/",
     "id": "node/13708629595"
   },
   "geometry": {

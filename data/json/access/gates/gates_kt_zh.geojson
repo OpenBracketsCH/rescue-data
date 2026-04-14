@@ -88484,6 +88484,7 @@
   "id": "node/12720003276",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "3",
     "id": "node/12720003276"
   },
   "geometry": {
