@@ -1911,6 +1911,7 @@
     "addr:street": "Plattenstrasse",
     "amenity": "childcare",
     "building": "yes",
+    "check_date": "2026-04-14",
     "name": "kihz Platten",
     "website": "https://www.kihz.uzh.ch/de/kitas/kihz-platten.html",
     "id": "way/123543862"

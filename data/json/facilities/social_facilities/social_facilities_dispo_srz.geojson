@@ -22216,6 +22216,7 @@
     "addr:street": "Blumenstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2026-04-14",
     "loc_name": "Alterswohnheim",
     "name": "Seniorenzentrum Reiat",
     "social_facility": "assisted_living",
@@ -51957,6 +51958,153 @@
         [
           8.811078,
           47.3323355
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1499328184",
+  "properties": {
+    "alt_name": "Alterszentrum Dreilinden",
+    "amenity": "social_facility",
+    "contact:city": "Rotkreuz",
+    "contact:email": "info@zentrum-dreilinden.ch",
+    "contact:housenumber": "14",
+    "contact:phone": "+41 41 790 34 64",
+    "contact:postcode": "6343",
+    "contact:street": "Buonaserstrasse",
+    "contact:website": "https://www.zentrum-dreilinden.ch/",
+    "name": "yes",
+    "operator": "Zentrum Dreilinden",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "way/1499328184"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4300347,
+          47.1409919
+        ],
+        [
+          8.4300043,
+          47.140989
+        ],
+        [
+          8.4299681,
+          47.1409771
+        ],
+        [
+          8.4299486,
+          47.1409603
+        ],
+        [
+          8.429932,
+          47.1409357
+        ],
+        [
+          8.429932,
+          47.1409006
+        ],
+        [
+          8.4299439,
+          47.1408375
+        ],
+        [
+          8.430206,
+          47.1403018
+        ],
+        [
+          8.4312013,
+          47.1404972
+        ],
+        [
+          8.4313651,
+          47.140144
+        ],
+        [
+          8.4318434,
+          47.1402454
+        ],
+        [
+          8.4318453,
+          47.1403829
+        ],
+        [
+          8.4318158,
+          47.1404262
+        ],
+        [
+          8.4324353,
+          47.1405517
+        ],
+        [
+          8.4323694,
+          47.1406914
+        ],
+        [
+          8.4323516,
+          47.1407459
+        ],
+        [
+          8.4323842,
+          47.1407992
+        ],
+        [
+          8.4324618,
+          47.1408338
+        ],
+        [
+          8.4325058,
+          47.1408313
+        ],
+        [
+          8.432506,
+          47.1408789
+        ],
+        [
+          8.4323307,
+          47.1408978
+        ],
+        [
+          8.4321502,
+          47.1409077
+        ],
+        [
+          8.4318531,
+          47.1409217
+        ],
+        [
+          8.4318386,
+          47.1408934
+        ],
+        [
+          8.431787,
+          47.1409024
+        ],
+        [
+          8.4317063,
+          47.140886
+        ],
+        [
+          8.4316891,
+          47.1409041
+        ],
+        [
+          8.4314495,
+          47.1408533
+        ],
+        [
+          8.4314157,
+          47.140934
+        ],
+        [
+          8.4300347,
+          47.1409919
         ]
       ]
     ]

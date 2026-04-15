@@ -626,6 +626,7 @@
     "addr:street": "Blumenstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2026-04-14",
     "loc_name": "Alterswohnheim",
     "name": "Seniorenzentrum Reiat",
     "social_facility": "assisted_living",
