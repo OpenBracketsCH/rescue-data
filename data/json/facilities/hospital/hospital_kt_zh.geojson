@@ -1751,6 +1751,7 @@
     "addr:street": "Plattenstrasse",
     "amenity": "hospital",
     "architect": "Jakob Zweifel",
+    "building": "yes",
     "building:flats": "0",
     "building:levels": "18",
     "emergency": "no",

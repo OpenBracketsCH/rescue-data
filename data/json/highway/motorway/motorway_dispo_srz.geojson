@@ -40254,7 +40254,7 @@
     "maxspeed": "80",
     "name": "Zürich Süd",
     "oneway": "yes",
-    "ref": "32",
+    "ref": "A3",
     "surface": "asphalt",
     "toll": "yes",
     "id": "way/137881933"
@@ -74851,7 +74851,7 @@
     "maxspeed": "100",
     "name": "Zürich Süd",
     "oneway": "yes",
-    "ref": "32",
+    "ref": "A3",
     "surface": "asphalt",
     "toll": "yes",
     "id": "way/624393070"
@@ -89014,7 +89014,7 @@
     "maxspeed": "100",
     "name": "Zürich Süd",
     "oneway": "yes",
-    "ref": "32",
+    "ref": "A3",
     "surface": "asphalt",
     "toll": "yes",
     "id": "way/1296447019"

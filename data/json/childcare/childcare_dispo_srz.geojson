@@ -1323,6 +1323,7 @@
     "addr:street": "Nägelistrasse",
     "amenity": "childcare",
     "building": "yes",
+    "check_date": "2026-04-15",
     "name": "Globegarden",
     "operator": "Globegarden",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
@@ -10097,6 +10098,31 @@
 },
 {
   "type": "Feature",
+  "id": "node/9235536498",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "137",
+    "contact:phone": "+41 44 413 19 93",
+    "contact:postcode": "8003",
+    "contact:street": "Zurlindenstrasse",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/zurlinden/ueberuns/standorte/schulhaus.html",
+    "isced:level": "0",
+    "name": "Zurlinden 2 Mittag-/Abendhort",
+    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Zurlinden",
+    "operator:type": "public",
+    "id": "node/9235536498"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5173842,
+      47.3721799
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9237683105",
   "properties": {
     "amenity": "childcare",
@@ -14823,6 +14849,28 @@
     "coordinates": [
       8.4535267,
       47.3899671
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10797076917",
+  "properties": {
+    "amenity": "childcare",
+    "check_date": "2025-04-21",
+    "email": "rueti@kitafugu.ch",
+    "name": "Kita Fugu",
+    "opening_hours": "Mo-Fr 07:00-18:00; PH off",
+    "phone": "+41 43 311 66 16",
+    "preschool": "yes",
+    "website": "https://www.kitafugu.ch/fugu-kinderkrippe-rueti/",
+    "id": "node/10797076917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8530445,
+      47.260615
     ]
   }
 },
