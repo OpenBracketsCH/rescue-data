@@ -182,10 +182,12 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Rechts neben Haupteingang hängt der Defi an der Wand",
-    "description": "rechts neben Eingang",
+    "description": "rechts neben Haupteingang",
+    "email": "gemeinde@bubikon.ch",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Gemeinde Bubikon",
     "id": "node/2789308839"
@@ -193,7 +195,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8157744,
+      8.8157745,
       47.2691196
     ]
   }
@@ -376,9 +378,11 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "direkt neben Eingang Volg",
+    "email": "gemeinde@bubikon.ch",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Gemeinde Bubikon",
     "phone": "+41 55 253 33 55",
@@ -465,9 +469,11 @@
     "access": "yes",
     "defibrillator:location": "Neben Billetautomat, beim Stationsgebäude",
     "description": "Öffentlich zugänglich",
+    "email": "gemeinde@bubikon.ch",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Gemeinde Bubikon",
     "phone": "+41 55 253 33 55",
@@ -476,7 +482,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8225777,
+      8.8225767,
       47.2708542
     ]
   }
@@ -2448,11 +2454,13 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Baudepartement Kanton Schwyz",
+    "email": "bd@sz.ch",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Baudepartement Kanton Schwyz",
-    "phone": "+41 41 819 25 16",
+    "phone": "+41 41 819 25 15",
     "id": "node/6976909977"
   },
   "geometry": {
@@ -4056,8 +4064,10 @@
   "type": "Feature",
   "id": "node/7006201377",
   "properties": {
+    "defibrillator:location": "unklar?",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "level": "0",
     "opening_hours": "24/7",
     "operator": "Kanton Zug",
@@ -4066,8 +4076,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5151588,
-      47.1665278
+      8.5151587,
+      47.1665279
     ]
   }
 },
@@ -16818,11 +16828,14 @@
   "type": "Feature",
   "id": "node/8357208578",
   "properties": {
+    "access": "permissive",
     "defibrillator:location": "Beim Eingangsbereich zum Geissbergsaal",
     "description": "Während Schulöffnungszeiten und Anlässen zugänglich",
+    "email": "gemeinde@bubikon.ch",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "operator": "Gemeinde Bubikon",
     "phone": "+41 55 253 33 55",
     "source": "https://www.bubikon.ch/_docn/2272568/Defibrillatoren_Standorte.pdf",
@@ -16831,8 +16844,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.804482,
-      47.2570231
+      8.8044825,
+      47.2570233
     ]
   }
 },
@@ -16840,11 +16853,14 @@
   "type": "Feature",
   "id": "node/8357208579",
   "properties": {
+    "access": "permissive",
     "defibrillator:location": "Im Eingangsbereich zur Turn-und Schwimmhalle",
     "description": "Während Schulöffnungszeiten zugänglich",
+    "email": "gemeinde@bubikon.ch",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "operator": "Gemeinde Bubikon",
     "phone": "+41 55 253 33 55",
     "source": "https://www.bubikon.ch/_docn/2272568/Defibrillatoren_Standorte.pdf",
@@ -16853,8 +16869,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8146184,
-      47.2674849
+      8.8146186,
+      47.2674848
     ]
   }
 },
@@ -16865,9 +16881,11 @@
     "access": "yes",
     "defibrillator:location": "Rechts neben Eingang",
     "description": "von Aussen zugänglich",
+    "email": "gemeinde@bubikon.ch",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Gemeinde Bubikon",
     "phone": "+41 55 253 33 55",
@@ -16876,8 +16894,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8141724,
-      47.2662733
+      8.814172,
+      47.2662731
     ]
   }
 },
@@ -16885,12 +16903,14 @@
   "type": "Feature",
   "id": "node/8359649210",
   "properties": {
-    "access": "no",
+    "access": "permissive",
     "defibrillator:location": "beim Badieingang an der Kasse",
     "description": "nur im Sommer (Mai-Sept)",
+    "email": "gemeinde@bubikon.ch",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
+    "indoor": "yes",
+    "level": "0",
     "operator": "Gemeinde Bubikon",
     "phone": "+41 55 253 33 55",
     "id": "node/8359649210"
@@ -16898,8 +16918,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8204503,
-      47.2580621
+      8.8204497,
+      47.2580619
     ]
   }
 },
@@ -16907,12 +16927,14 @@
   "type": "Feature",
   "id": "node/8359649211",
   "properties": {
-    "access": "no",
+    "access": "permissive",
     "defibrillator:location": "bei der Einwohnerkontrolle",
     "description": "nur im Winter (Okt-April)",
+    "email": "gemeinde@bubikon.ch",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
+    "indoor": "yes",
+    "level": "0",
     "operator": "Gemeinde Bubikon",
     "phone": "+41 55 253 33 55",
     "id": "node/8359649211"
@@ -33096,8 +33118,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:30-12:00, 13:00-16:30",
-    "operator": "Kaiser Severin, Stabsoffizier Feuerwehr",
-    "phone": "+41 44 711 78 06",
+    "operator": "Stadt Adliswil",
+    "phone": "+41 44 711 77 11",
     "id": "node/9285924072"
   },
   "geometry": {
@@ -33118,8 +33140,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:30-12:00, 13:00-16:30",
-    "operator": "Kaiser Severin, Stabsoffizier Feuerwehr",
-    "phone": "+41 44 711 78 06",
+    "operator": "Stadt Adliswil",
+    "phone": "+41 44 711 77 11",
     "id": "node/9285924073"
   },
   "geometry": {
@@ -33141,7 +33163,7 @@
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:30-12:00, 13:00-16:30",
     "operator": "Stadt Adliswil",
-    "phone": "+41 44 711 78 06",
+    "phone": "+41 44 711 77 11",
     "id": "node/9285924074"
   },
   "geometry": {
@@ -33162,8 +33184,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:30-12:00, 13:00-16:30",
-    "operator": "Kaiser Severin, Stabsoffizier Feuerwehr",
-    "phone": "+41 44 711 78 06",
+    "operator": "Stadt Adliswil",
+    "phone": "+41 44 711 77 11",
     "id": "node/9285924075"
   },
   "geometry": {
@@ -33184,8 +33206,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:30-12:00, 13:00-16:30",
-    "operator": "Kaiser Severin, Stabsoffizier Feuerwehr",
-    "phone": "+41 44 711 78 06",
+    "operator": "Stadt Adliswil",
+    "phone": "+41 44 711 77 11",
     "id": "node/9285924076"
   },
   "geometry": {
@@ -33272,8 +33294,8 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:30-12:00, 13:30-18:00",
-    "operator": "Kaiser Severin, Stabsoffizier Feuerwehr",
-    "phone": "+41 44 711 78 06",
+    "operator": "Stadt Adliswil",
+    "phone": "+41 44 711 77 11",
     "id": "node/9285924080"
   },
   "geometry": {
@@ -61285,7 +61307,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-Fr 08.00 bis 19.00, Sa 07.00 bis 13.00",
+    "opening_hours": "Mo-Fr 08:00-19:00, Sa 07:00-13:00",
     "operator": "Praxis",
     "phone": "+41 44 860 19 89",
     "id": "node/11038063731"
@@ -62871,7 +62893,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-Fr: 07:30-17:00",
+    "opening_hours": "Mo-Fr 07:30-17:00",
     "id": "node/11205117137"
   },
   "geometry": {
@@ -65619,12 +65641,14 @@
   "type": "Feature",
   "id": "node/11397677870",
   "properties": {
-    "access": "no",
+    "access": "permissive",
     "defibrillator:location": "Turnhalle Schulhaus Geissberg",
     "description": "nur während Öffnungszeiten zugänglich",
+    "email": "gemeinde@bubikon.ch",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "operator": "Gemeinde Bubikon",
     "phone": "+41 55 253 33 33",
     "source": "local_knowledge, defikarte.ch",
@@ -76827,7 +76851,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-Do 07:00-17:00; Fr 07:00-15:15",
+    "opening_hours": "Mo-Th 07:00-17:00; Fr 07:00-15:15",
     "operator": "Meier Oberflächen AG",
     "phone": "+41 79 578 34 57",
     "source": "local_knowledge, defikarte.ch",
@@ -77658,7 +77682,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "opening_hours": "Mo-Fr 06:00-17:00\n",
+    "opening_hours": "Mo-Fr 06:00-17:00",
     "operator": "Holcim Hüntwangen",
     "phone": "+41765323172",
     "id": "node/12084475169"
@@ -98984,14 +99008,15 @@
     "indoor": "no",
     "level": "0",
     "opening_hours": "24/7",
-    "operator": "Gemeinde",
+    "operator": "Stadt Adliswil",
+    "phone": "+41 44 711 77 11",
     "id": "node/13691341401"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5281762,
-      47.3075736
+      8.5281761,
+      47.3075738
     ]
   }
 },
@@ -99237,8 +99262,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8058147,
-      47.3791124
+      8.8058443,
+      47.3793157
     ]
   }
 },
@@ -99261,6 +99286,52 @@
     "coordinates": [
       8.6647457,
       47.1757257
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13734241801",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Turnhalle Mettlen G",
+    "description": "während Schulzeiten verfügbar",
+    "email": "liegenschaften@pfaeffikon.ch",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "-1",
+    "operator": "Gemeinde Pfäffikon",
+    "id": "node/13734241801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7931368,
+      47.3632387
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13734636801",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Schreibdienst, Infodona, Sihlamtsstrasse 6, im Eingangsbereich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 9:00-12:00, 13:30-17:30",
+    "operator": "Soziale Dienste, Infodona",
+    "phone": "+41 44 412 84 47",
+    "id": "node/13734636801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5313215,
+      47.3702742
     ]
   }
 }
