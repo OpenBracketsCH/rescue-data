@@ -11705,6 +11705,7 @@
     "operator": "Stadt Zürich, SSD, Schulkreis Limmattal, Schuleinheit Limmat",
     "operator:type": "public",
     "website": "https://www.stadt-zuerich.ch/schulen/de/limmat.html",
+    "wheelchair": "limited",
     "id": "way/32858301"
   },
   "geometry": {
@@ -100641,6 +100642,7 @@
   "id": "node/9662256530",
   "properties": {
     "amenity": "school",
+    "check_date": "2026-04-19",
     "contact:city": "Zürich",
     "contact:email": "info@sptzh.ch",
     "contact:housenumber": "72",

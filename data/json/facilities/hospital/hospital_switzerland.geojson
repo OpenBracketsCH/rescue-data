@@ -13004,7 +13004,7 @@
     "phone": "+41 71 494 11 11",
     "short_name": "KSSG",
     "toilets:wheelchair": "yes",
-    "website": "https://www.kssg.ch/",
+    "website": "https://www.h-och.ch",
     "wheelchair": "yes",
     "wikidata": "Q1728153",
     "id": "way/125232364"
@@ -56909,7 +56909,7 @@
     "name": "Zürcher Lighthouse",
     "name:ja": "チュルヒャー・ライトハウス",
     "operator": "Stiftung Zürcher Lighthouse",
-    "phone": "+ 41 44 265 38 11",
+    "phone": "+41 44 265 38 11",
     "website": "https://www.zuercher-lighthouse.ch/",
     "id": "node/10656841169"
   },
