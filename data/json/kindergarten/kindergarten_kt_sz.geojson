@@ -1130,6 +1130,7 @@
     "addr:postcode": "8835",
     "addr:street": "Schulhausstrasse",
     "amenity": "kindergarten",
+    "check_date": "2026-04-19",
     "name": "Kindergarten Feusisberg",
     "website": "https://www.ps-feusisberg.com/",
     "id": "node/5755484420"
