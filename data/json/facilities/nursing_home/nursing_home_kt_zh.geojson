@@ -8725,6 +8725,7 @@
     "addr:street": "Schönbühlstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2026-04-20",
     "email": "info@schlupfhuus.ch",
     "name": "Schlupfhuus Zürich",
     "operator": "Verein Schlupfhuus",

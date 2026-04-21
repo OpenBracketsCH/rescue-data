@@ -8590,6 +8590,7 @@
   "id": "way/29495009",
   "properties": {
     "amenity": "school",
+    "check_date": "2026-04-20",
     "contact:city": "Zürich",
     "contact:housenumber": "158",
     "contact:phone": "+41 44 413 25 97",
@@ -10729,6 +10730,8 @@
     "building": "school",
     "name": "Kantonsschule Freudenberg",
     "operator": "Kanton Zürich, Bildungsdirektion",
+    "operator:type": "government",
+    "operator:wikidata": "Q113033130",
     "short_name": "KFR",
     "website": "http://www.kfr.ch/",
     "wikidata": "Q1728111",
@@ -10799,7 +10802,8 @@
     "contact:website": "https://www.ken.ch/kontakt",
     "name": "Kantonsschule Enge",
     "operator": "Kanton Zürich, Bildungsdirektion",
-    "operator:type": "public",
+    "operator:type": "government",
+    "operator:wikidata": "Q113033130",
     "short_name": "KEN",
     "website": "https://www.ken.ch/",
     "wheelchair": "limited",
@@ -28266,6 +28270,7 @@
     "addr:street": "Dübendorfstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2026-04-20",
     "isced:level": "0;1",
     "name": "Schulhaus Mattenhof",
     "id": "way/95474747"
@@ -31019,6 +31024,148 @@
         [
           8.7187753,
           47.4342934
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/108379498",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "8006",
+    "addr:street": "Niklausstrasse",
+    "amenity": "school",
+    "building": "school",
+    "building:levels": "5",
+    "name": "Berufsschule für Detailhandel Zürich",
+    "operator": "Kanton Zürich, Bildungsdirektion",
+    "operator:type": "government",
+    "operator:wikidata": "Q113033130",
+    "roof:shape": "flat",
+    "short_name": "DHZ",
+    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "website": "https://bsdhz.ch/",
+    "id": "way/108379498"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5392873,
+          47.3862623
+        ],
+        [
+          8.5390519,
+          47.3861979
+        ],
+        [
+          8.5390018,
+          47.3862816
+        ],
+        [
+          8.5386994,
+          47.3861987
+        ],
+        [
+          8.5387781,
+          47.386067
+        ],
+        [
+          8.5388442,
+          47.3860851
+        ],
+        [
+          8.5390249,
+          47.3857826
+        ],
+        [
+          8.5391619,
+          47.3858219
+        ],
+        [
+          8.539331,
+          47.3858665
+        ],
+        [
+          8.5392867,
+          47.3859406
+        ],
+        [
+          8.5391757,
+          47.3859102
+        ],
+        [
+          8.5390784,
+          47.3860729
+        ],
+        [
+          8.5393029,
+          47.3861344
+        ],
+        [
+          8.5393607,
+          47.3860376
+        ],
+        [
+          8.5393894,
+          47.3860455
+        ],
+        [
+          8.5394188,
+          47.3860535
+        ],
+        [
+          8.5395118,
+          47.3858979
+        ],
+        [
+          8.5396617,
+          47.385939
+        ],
+        [
+          8.5395319,
+          47.3861563
+        ],
+        [
+          8.5396113,
+          47.386178
+        ],
+        [
+          8.5394922,
+          47.3863774
+        ],
+        [
+          8.539403,
+          47.386353
+        ],
+        [
+          8.5394115,
+          47.3863388
+        ],
+        [
+          8.5393912,
+          47.3863322
+        ],
+        [
+          8.5393719,
+          47.3863279
+        ],
+        [
+          8.5393441,
+          47.3863744
+        ],
+        [
+          8.5392377,
+          47.3863453
+        ],
+        [
+          8.5392873,
+          47.3862623
         ]
       ]
     ]
@@ -98217,6 +98364,37 @@
 },
 {
   "type": "Feature",
+  "id": "node/111264133",
+  "properties": {
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "info@bms-zuerich.ch",
+    "contact:housenumber": "55",
+    "contact:phone": "+41 44 297 24 70",
+    "contact:postcode": "8090",
+    "contact:street": "Lagerstrasse",
+    "contact:website": "https://www.bms-zuerich.ch/kontakt",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Berufsmaturitätsschule Zürich",
+    "operator": "Kanton Zürich, Bildungsdirektion",
+    "operator:type": "government",
+    "operator:wikidata": "Q113033130",
+    "short_name": "BMZ",
+    "website": "https://www.bms-zuerich.ch/",
+    "wheelchair": "yes",
+    "id": "node/111264133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5314358,
+      47.3782925
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/256335788",
   "properties": {
     "amenity": "school",
@@ -99398,6 +99576,32 @@
 },
 {
   "type": "Feature",
+  "id": "node/5331219076",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "112",
+    "addr:postcode": "8008",
+    "addr:street": "Mühlebachstrasse",
+    "amenity": "school",
+    "check_date": "2024-07-19",
+    "name": "Kantonale Berufsschule für Weiterbildung EB Zürich",
+    "operator": "Kanton Zürich, Bildungsdirektion",
+    "operator:type": "government",
+    "operator:wikidata": "Q113033130",
+    "short_name": "EB Zürich",
+    "website": "https://www.eb-zuerich.ch/",
+    "id": "node/5331219076"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5544906,
+      47.3600293
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/5331387424",
   "properties": {
     "addr:city": "Zürich",
@@ -99495,6 +99699,38 @@
     "coordinates": [
       8.5275785,
       47.3662506
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5370210515",
+  "properties": {
+    "alt_name": "Baugewerbliche Berufsschule Zürich",
+    "amenity": "school",
+    "contact:city": "Zürich",
+    "contact:email": "infopr@bbzh.ch",
+    "contact:housenumber": "55",
+    "contact:phone": "+41 44 297 24 24",
+    "contact:postcode": "8090",
+    "contact:street": "Lagerstrasse",
+    "contact:website": "https://www.bbzh.ch/bbz/",
+    "description": "Abteilung Planung und Rohbau",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Baugewerbliche Berufsschule Zürich",
+    "operator": "Kanton Zürich, Bildungsdirektion",
+    "operator:type": "government",
+    "operator:wikidata": "Q113033130",
+    "short_name": "BBZ",
+    "wheelchair": "yes",
+    "id": "node/5370210515"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5311647,
+      47.3784516
     ]
   }
 },

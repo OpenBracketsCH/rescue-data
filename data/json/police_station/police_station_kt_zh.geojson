@@ -3991,6 +3991,7 @@
     "amenity": "police",
     "name": "Taxibüro / ARV Kontrolle",
     "operator": "Stadtpolizei Zürich",
+    "operator:wikidata": "Q2327949",
     "id": "node/13065053633"
   },
   "geometry": {

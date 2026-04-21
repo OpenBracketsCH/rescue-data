@@ -53103,6 +53103,7 @@
     "amenity_1": "social_facility",
     "check_date": "2024-10-19",
     "description": "Gynäkologische Sprechstunde",
+    "healthcare": "clinic",
     "name": "Ambulatorium Kanonengasse",
     "opening_hours": "Mo 08:30-12:00, 13:30-16:30; We-Th 08:30-12:00; Fr 08:30-12:00, 14:00-16:30",
     "operator": "Stadt Zürich, GUD",
@@ -53131,6 +53132,7 @@
     "amenity": "clinic",
     "amenity_1": "social_facility",
     "description": "Allgemeinmedizinische Sprechstunde; Infektionsprävention, Spritzentausch",
+    "healthcare": "clinic",
     "name": "Ambulatorium Kanonengasse",
     "opening_hours": "Mo-Fr 08:00-12:30, 14:30-19:00; Sa-Su 09:30-12:30, 13:00-16:30",
     "operator": "Stadt Zürich, GUD",
@@ -57843,6 +57845,7 @@
   "id": "node/11800118612",
   "properties": {
     "amenity": "clinic",
+    "healthcare": "clinic",
     "healthcare:speciality": "ophthalmology",
     "name": "betterview",
     "opening_hours": "Mo,Tu 08:00-17:00; We-Fr 09:00-19:00; Sa 09:00-17:00",

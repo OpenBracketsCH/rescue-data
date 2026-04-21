@@ -29911,8 +29911,15 @@
   "type": "Feature",
   "id": "node/3113636495",
   "properties": {
+    "access": "no",
     "barrier": "gate",
+    "bicycle": "no",
+    "foot": "no",
     "gate:type": "rolling",
+    "height": "2.5",
+    "locked": "yes",
+    "material": "metal",
+    "motor_vehicle": "no",
     "id": "node/3113636495"
   },
   "geometry": {
