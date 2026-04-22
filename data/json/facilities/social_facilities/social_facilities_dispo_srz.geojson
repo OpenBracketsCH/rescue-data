@@ -5482,6 +5482,7 @@
     "addr:street": "Zürichbergstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2026-04-21",
     "email": "info@tobias-haus.ch",
     "name": "Tobias-Haus",
     "operator": "Stiftung Tobias-Haus",
