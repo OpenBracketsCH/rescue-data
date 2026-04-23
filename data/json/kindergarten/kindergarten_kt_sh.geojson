@@ -1459,50 +1459,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/218003763",
-  "properties": {
-    "addr:city": "Schaffhausen",
-    "addr:housenumber": "19",
-    "addr:postcode": "8200",
-    "addr:street": "Kasinogässchen",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "building:levels": "1",
-    "name": "Kindergarten Vordersteig",
-    "roof:levels": "2",
-    "roof:shape": "gambrel",
-    "id": "way/218003763"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6295677,
-          47.696896
-        ],
-        [
-          8.6294868,
-          47.6967472
-        ],
-        [
-          8.6296252,
-          47.6967127
-        ],
-        [
-          8.6297066,
-          47.6968618
-        ],
-        [
-          8.6295677,
-          47.696896
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/220181149",
   "properties": {
     "addr:city": "Schaffhausen",
@@ -3059,6 +3015,54 @@
         [
           8.5010354,
           47.6894183
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1502743962",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "19",
+    "addr:postcode": "8200",
+    "addr:street": "Kasinogässchen",
+    "amenity": "kindergarten",
+    "education": "kindergarten",
+    "name": "Kindergarten Vordersteig 1",
+    "operator": "Stadt Schaffhausen",
+    "operator:type": "government",
+    "preschool": "yes",
+    "id": "way/1502743962"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6299869,
+          47.6968741
+        ],
+        [
+          8.6295615,
+          47.6969438
+        ],
+        [
+          8.629394,
+          47.6967259
+        ],
+        [
+          8.6297677,
+          47.6965914
+        ],
+        [
+          8.6298314,
+          47.6966571
+        ],
+        [
+          8.6299869,
+          47.6968741
         ]
       ]
     ]

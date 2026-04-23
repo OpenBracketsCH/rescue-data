@@ -57075,6 +57075,7 @@
   "properties": {
     "amenity": "clinic",
     "name": "Arcade Sage-femmes",
+    "opening_hours": "Mo 14:00-19:00; Tu-Fr 14:00-17:00; Sa 09:00-12:00",
     "id": "node/10920275008"
   },
   "geometry": {

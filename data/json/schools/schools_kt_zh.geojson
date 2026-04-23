@@ -13001,6 +13001,7 @@
     "addr:street": "Im Oberdorf",
     "amenity": "school",
     "building": "school",
+    "check_date": "2026-04-22",
     "name": "Schulhaus BüHiKi",
     "toilets:wheelchair": "yes",
     "wheelchair": "yes",
@@ -98361,6 +98362,73 @@
         [
           8.6061291,
           47.2497119
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1502741366",
+  "properties": {
+    "amenity": "school",
+    "education": "school",
+    "grades": "1-10",
+    "name": "Campus Zukunft Zollikerberg",
+    "website": "https://campus-zukunft.ch/",
+    "id": "way/1502741366"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6069508,
+          47.3481995
+        ],
+        [
+          8.6070883,
+          47.3480105
+        ],
+        [
+          8.6076677,
+          47.3478787
+        ],
+        [
+          8.6080274,
+          47.348351
+        ],
+        [
+          8.6077946,
+          47.3485661
+        ],
+        [
+          8.6076743,
+          47.3488994
+        ],
+        [
+          8.6075155,
+          47.3489075
+        ],
+        [
+          8.6072933,
+          47.3488501
+        ],
+        [
+          8.6071174,
+          47.3487319
+        ],
+        [
+          8.6069918,
+          47.3485992
+        ],
+        [
+          8.6069204,
+          47.3484361
+        ],
+        [
+          8.6069508,
+          47.3481995
         ]
       ]
     ]
