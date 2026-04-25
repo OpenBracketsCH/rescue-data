@@ -3070,6 +3070,69 @@
 },
 {
   "type": "Feature",
+  "id": "way/1503303217",
+  "properties": {
+    "amenity": "kindergarten",
+    "education": "kindergarten",
+    "name": "Kindergarten Geissberg",
+    "operator": "Stadt Schaffhausen",
+    "operator:type": "government",
+    "id": "way/1503303217"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6331784,
+          47.7053321
+        ],
+        [
+          8.6326688,
+          47.7052283
+        ],
+        [
+          8.6326441,
+          47.7051602
+        ],
+        [
+          8.6327194,
+          47.7048662
+        ],
+        [
+          8.6327218,
+          47.7046885
+        ],
+        [
+          8.6329304,
+          47.7046578
+        ],
+        [
+          8.6331303,
+          47.7047774
+        ],
+        [
+          8.6331834,
+          47.7048654
+        ],
+        [
+          8.6331377,
+          47.7049758
+        ],
+        [
+          8.6333265,
+          47.705014
+        ],
+        [
+          8.6331784,
+          47.7053321
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/30985827",
   "properties": {
     "amenity": "kindergarten",

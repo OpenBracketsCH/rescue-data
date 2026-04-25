@@ -10287,6 +10287,7 @@
   "id": "node/725764997",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "2",
     "id": "node/725764997"
   },
   "geometry": {
@@ -15874,6 +15875,24 @@
     "coordinates": [
       8.7050901,
       47.4817203
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1498722377",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "locked": "yes",
+    "website": "https://sbb.ch/mehrspur",
+    "id": "node/1498722377"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.705469,
+      47.4719319
     ]
   }
 },
@@ -30380,21 +30399,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3177342139",
-  "properties": {
-    "barrier": "lift_gate",
-    "id": "node/3177342139"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.489963,
-      47.3843166
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3177342141",
   "properties": {
     "barrier": "gate",
@@ -30403,8 +30407,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4899453,
-      47.3843237
+      8.4901874,
+      47.3842677
     ]
   }
 },
@@ -34962,8 +34966,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5049317,
-      47.4033608
+      8.5049409,
+      47.403357
     ]
   }
 },
@@ -84185,6 +84189,24 @@
 },
 {
   "type": "Feature",
+  "id": "node/11893548789",
+  "properties": {
+    "access": "no",
+    "barrier": "gate",
+    "locked": "yes",
+    "website": "https://sbb.ch/mehrspur",
+    "id": "node/11893548789"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7051671,
+      47.4762083
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/11895913977",
   "properties": {
     "access": "private",
@@ -96027,6 +96049,21 @@
     "coordinates": [
       8.6046852,
       47.3048866
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13758458240",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/13758458240"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7105399,
+      47.4846076
     ]
   }
 }
