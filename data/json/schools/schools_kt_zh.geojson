@@ -31032,148 +31032,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/108379498",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "16",
-    "addr:postcode": "8006",
-    "addr:street": "Niklausstrasse",
-    "amenity": "school",
-    "building": "school",
-    "building:levels": "5",
-    "name": "Berufsschule für Detailhandel Zürich",
-    "operator": "Kanton Zürich, Bildungsdirektion",
-    "operator:type": "government",
-    "operator:wikidata": "Q113033130",
-    "roof:shape": "flat",
-    "short_name": "DHZ",
-    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
-    "website": "https://bsdhz.ch/",
-    "id": "way/108379498"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5392873,
-          47.3862623
-        ],
-        [
-          8.5390519,
-          47.3861979
-        ],
-        [
-          8.5390018,
-          47.3862816
-        ],
-        [
-          8.5386994,
-          47.3861987
-        ],
-        [
-          8.5387781,
-          47.386067
-        ],
-        [
-          8.5388442,
-          47.3860851
-        ],
-        [
-          8.5390249,
-          47.3857826
-        ],
-        [
-          8.5391619,
-          47.3858219
-        ],
-        [
-          8.539331,
-          47.3858665
-        ],
-        [
-          8.5392867,
-          47.3859406
-        ],
-        [
-          8.5391757,
-          47.3859102
-        ],
-        [
-          8.5390784,
-          47.3860729
-        ],
-        [
-          8.5393029,
-          47.3861344
-        ],
-        [
-          8.5393607,
-          47.3860376
-        ],
-        [
-          8.5393894,
-          47.3860455
-        ],
-        [
-          8.5394188,
-          47.3860535
-        ],
-        [
-          8.5395118,
-          47.3858979
-        ],
-        [
-          8.5396617,
-          47.385939
-        ],
-        [
-          8.5395319,
-          47.3861563
-        ],
-        [
-          8.5396113,
-          47.386178
-        ],
-        [
-          8.5394922,
-          47.3863774
-        ],
-        [
-          8.539403,
-          47.386353
-        ],
-        [
-          8.5394115,
-          47.3863388
-        ],
-        [
-          8.5393912,
-          47.3863322
-        ],
-        [
-          8.5393719,
-          47.3863279
-        ],
-        [
-          8.5393441,
-          47.3863744
-        ],
-        [
-          8.5392377,
-          47.3863453
-        ],
-        [
-          8.5392873,
-          47.3862623
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/108517671",
   "properties": {
     "amenity": "school",
@@ -98429,6 +98287,89 @@
         [
           8.6069508,
           47.3481995
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1503906964",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "8006",
+    "addr:street": "Niklausstrasse",
+    "amenity": "school",
+    "name": "Berufsschule für Detailhandel Zürich",
+    "operator": "Kanton Zürich, Bildungsdirektion",
+    "operator:type": "government",
+    "operator:wikidata": "Q113033130",
+    "short_name": "DHZ",
+    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "website": "https://bsdhz.ch/",
+    "id": "way/1503906964"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5389507,
+          47.3857093
+        ],
+        [
+          8.5395363,
+          47.3858266
+        ],
+        [
+          8.5396382,
+          47.385846
+        ],
+        [
+          8.5396852,
+          47.3858546
+        ],
+        [
+          8.5396842,
+          47.3858937
+        ],
+        [
+          8.5396771,
+          47.3859597
+        ],
+        [
+          8.5396721,
+          47.3859893
+        ],
+        [
+          8.5396693,
+          47.3859938
+        ],
+        [
+          8.5396632,
+          47.3859963
+        ],
+        [
+          8.5396533,
+          47.385997
+        ],
+        [
+          8.5396287,
+          47.3861814
+        ],
+        [
+          8.5395934,
+          47.3864717
+        ],
+        [
+          8.5386598,
+          47.3862391
+        ],
+        [
+          8.5389507,
+          47.3857093
         ]
       ]
     ]
