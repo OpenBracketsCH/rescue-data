@@ -59913,6 +59913,31 @@
       47.3569508
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13769371863",
+  "properties": {
+    "addr:city": "Renens VD",
+    "addr:housenumber": "4b",
+    "addr:postcode": "1020",
+    "addr:street": "Avenue d'Epenex",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general;tropical;paediatrics;oncology",
+    "name": "Centre médical Gare de Renens",
+    "opening_hours": "Mo-Fr 09:00-18:00",
+    "phone": "+41 21 566 59 90",
+    "wheelchair": "yes",
+    "id": "node/13769371863"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5775352,
+      46.5375714
+    ]
+  }
 }
 ]
 }
