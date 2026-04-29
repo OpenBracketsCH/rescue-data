@@ -5296,6 +5296,60 @@
 },
 {
   "type": "Feature",
+  "id": "way/1431732805",
+  "properties": {
+    "addr:city": "Fällanden",
+    "addr:housenumber": "6",
+    "addr:postcode": "8117",
+    "addr:street": "Sunnetalstrasse",
+    "amenity": "childcare",
+    "building": "yes",
+    "email": "info@kinderhospiz-flamingo.ch",
+    "isced:level": "0",
+    "name": "Kinderhospiz Flaming",
+    "operator": "Kinderhospiz Flamingo AG",
+    "phone": "+41 44 811 77 77",
+    "website": "https://www.kinderhospiz-flamingo.ch/",
+    "id": "way/1431732805"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6443645,
+          47.3708265
+        ],
+        [
+          8.6446374,
+          47.3710118
+        ],
+        [
+          8.6445154,
+          47.3711603
+        ],
+        [
+          8.6442475,
+          47.3710585
+        ],
+        [
+          8.6441548,
+          47.3711003
+        ],
+        [
+          8.6440556,
+          47.3710351
+        ],
+        [
+          8.6443645,
+          47.3708265
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/269549760",
   "properties": {
     "addr:city": "Uster",

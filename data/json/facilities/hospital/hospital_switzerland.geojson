@@ -38519,6 +38519,7 @@
     "healthcare": "hospital",
     "healthcare:speciality": "psychiatry",
     "loc_name": "Psychiatrie Königsfelden",
+    "name": "Psychiatrische Dienste Aargau",
     "short_name": "PDAG",
     "website": "https://www.pdag.ch/",
     "wikidata": "Q60607340",
@@ -49742,6 +49743,14 @@
         [
           9.8356198,
           46.4834722
+        ],
+        [
+          9.8354682,
+          46.483551
+        ],
+        [
+          9.8352765,
+          46.4836507
         ],
         [
           9.8351545,

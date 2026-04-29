@@ -9316,6 +9316,10 @@
           47.1969567
         ],
         [
+          8.5224002,
+          47.1968443
+        ],
+        [
           8.5224917,
           47.1967405
         ],
@@ -12396,93 +12400,6 @@
         [
           8.7895252,
           47.3704594
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/95242192",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "70",
-    "addr:postcode": "8006",
-    "addr:street": "Nordstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "check_date": "2024-08-03",
-    "fixme": "Gemäss website hat die Klinik per Ende August (welches Jahr? ) geschlossen (https://klinik-lindenegg.ch)\n-> Vor ort überprüfen",
-    "name": "Klinik Lindenegg",
-    "social_facility": "nursing_home",
-    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
-    "wheelchair": "yes",
-    "id": "way/95242192"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5372438,
-          47.3872117
-        ],
-        [
-          8.5374011,
-          47.3869829
-        ],
-        [
-          8.5374716,
-          47.3870052
-        ],
-        [
-          8.5374649,
-          47.387015
-        ],
-        [
-          8.5375574,
-          47.3870441
-        ],
-        [
-          8.537463,
-          47.3871815
-        ],
-        [
-          8.5374934,
-          47.3871911
-        ],
-        [
-          8.5374784,
-          47.3872129
-        ],
-        [
-          8.5375968,
-          47.3872502
-        ],
-        [
-          8.5376009,
-          47.3872443
-        ],
-        [
-          8.5376179,
-          47.3872497
-        ],
-        [
-          8.5375674,
-          47.3873231
-        ],
-        [
-          8.5374019,
-          47.3872709
-        ],
-        [
-          8.5374072,
-          47.3872632
-        ],
-        [
-          8.5372438,
-          47.3872117
         ]
       ]
     ]
@@ -51674,6 +51591,100 @@
         [
           8.5317313,
           47.3750188
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1460494459",
+  "properties": {
+    "addr:city": "Bassersdorf",
+    "addr:housenumber": "6",
+    "addr:postcode": "8303",
+    "addr:street": "Mülihalden",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@oasebassersdorf.ch",
+    "name": "Oase Bassersdorf",
+    "operator": "Stiftung Oase für Wohnen im Alter",
+    "phone": "+41 44 527 27 27",
+    "social_facility": "nursing_home",
+    "website": "https://oasebassersdorf.ch/",
+    "id": "way/1460494459"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6353144,
+          47.4453747
+        ],
+        [
+          8.6354094,
+          47.4454004
+        ],
+        [
+          8.6353111,
+          47.4455663
+        ],
+        [
+          8.6353794,
+          47.4455848
+        ],
+        [
+          8.6352674,
+          47.4457737
+        ],
+        [
+          8.6351791,
+          47.4457498
+        ],
+        [
+          8.6351638,
+          47.4457756
+        ],
+        [
+          8.6350495,
+          47.4457446
+        ],
+        [
+          8.6350094,
+          47.4458122
+        ],
+        [
+          8.6345811,
+          47.4456962
+        ],
+        [
+          8.6346789,
+          47.4455311
+        ],
+        [
+          8.63506,
+          47.4456344
+        ],
+        [
+          8.6351228,
+          47.4455284
+        ],
+        [
+          8.635186,
+          47.4455456
+        ],
+        [
+          8.6352795,
+          47.4453877
+        ],
+        [
+          8.635303,
+          47.4453941
+        ],
+        [
+          8.6353144,
+          47.4453747
         ]
       ]
     ]

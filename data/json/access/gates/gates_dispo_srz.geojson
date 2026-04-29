@@ -50611,6 +50611,7 @@
   "properties": {
     "barrier": "gate",
     "foot": "yes",
+    "maxwidth:physical": "1.22",
     "id": "node/5442187930"
   },
   "geometry": {
@@ -77559,6 +77560,7 @@
     "bicycle": "yes",
     "foot": "yes",
     "locked": "no",
+    "maxwidth:physical": "1.3",
     "wheelchair": "yes",
     "id": "node/9658967793"
   },
@@ -108524,6 +108526,21 @@
 },
 {
   "type": "Feature",
+  "id": "node/13469462316",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/13469462316"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5674415,
+      47.4218952
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/13478477094",
   "properties": {
     "barrier": "lift_gate",
@@ -111271,6 +111288,39 @@
     "coordinates": [
       8.6485441,
       47.6992157
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13771234730",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "entrance": "garage",
+    "locked": "yes",
+    "id": "node/13771234730"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3865757,
+      47.4085893
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13773402148",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/13773402148"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5687289,
+      47.4212358
     ]
   }
 }

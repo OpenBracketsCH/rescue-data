@@ -49851,6 +49851,30 @@
       47.3323389
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13770308834",
+  "properties": {
+    "addr:city": "Kloten",
+    "addr:housenumber": "1",
+    "addr:postcode": "8302",
+    "addr:street": "Eugen-Wylerstrasse",
+    "amenity": "kindergarten",
+    "education": "kindergarten",
+    "operator": "KIMI Krippen AG",
+    "operator:type": "private",
+    "preschool": "no",
+    "website": "https://www.kimikrippen.ch/kimi_standort/kita-kimi-kloten/",
+    "id": "node/13770308834"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5857353,
+      47.4509563
+    ]
+  }
 }
 ]
 }
