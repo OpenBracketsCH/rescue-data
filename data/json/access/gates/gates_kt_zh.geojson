@@ -43403,8 +43403,8 @@
   "type": "Feature",
   "id": "node/5442187930",
   "properties": {
+    "access": "no",
     "barrier": "gate",
-    "foot": "yes",
     "maxwidth:physical": "1.22",
     "id": "node/5442187930"
   },
