@@ -1617,6 +1617,7 @@
     "addr:street": "Rietwisstrasse",
     "amenity": "kindergarten",
     "building": "yes",
+    "check_date": "2026-05-01",
     "name": "Tagesstrukturen Rietwies",
     "id": "way/32958945"
   },
