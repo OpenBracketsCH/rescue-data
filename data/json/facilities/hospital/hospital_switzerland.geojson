@@ -41737,6 +41737,10 @@
           47.4420321
         ],
         [
+          9.5315234,
+          47.4419981
+        ],
+        [
           9.5316006,
           47.441913
         ],
@@ -52434,6 +52438,30 @@
     "coordinates": [
       6.6267905,
       46.5437752
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4096316328",
+  "properties": {
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "22",
+    "addr:postcode": "9000",
+    "addr:street": "Zeughausgasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Arzthaus St. Gallen",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa 09:00-18:00; Su 11:00-15:00",
+    "phone": "+41 71 221 10 00",
+    "website": "https://arzthaus.ch/",
+    "id": "node/4096316328"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3793225,
+      47.424307
     ]
   }
 },

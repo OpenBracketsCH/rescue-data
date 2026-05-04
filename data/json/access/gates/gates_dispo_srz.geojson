@@ -36177,6 +36177,38 @@
 },
 {
   "type": "Feature",
+  "id": "node/3111996174",
+  "properties": {
+    "barrier": "lift_gate",
+    "locked": "yes",
+    "id": "node/3111996174"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6779989,
+      47.3793841
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3111996212",
+  "properties": {
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "node/3111996212"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6770075,
+      47.3802092
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3113636461",
   "properties": {
     "barrier": "gate",
