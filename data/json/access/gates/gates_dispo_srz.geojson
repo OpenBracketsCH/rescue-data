@@ -97123,6 +97123,7 @@
   "id": "node/11872006396",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "1",
     "id": "node/11872006396"
   },
   "geometry": {
