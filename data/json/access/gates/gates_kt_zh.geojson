@@ -29428,6 +29428,7 @@
     "barrier": "gate",
     "bicycle": "permissive",
     "foot": "yes",
+    "maxwidth:physical": "3",
     "motor_vehicle": "permissive",
     "id": "node/3002724900"
   },

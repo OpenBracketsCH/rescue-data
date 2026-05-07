@@ -1497,14 +1497,14 @@
   "type": "Feature",
   "id": "way/4766538",
   "properties": {
-    "destination:int_ref:lanes": "|E 41|E 41",
-    "destination:lanes": "Luzern;Gisikon-Root|Luzern;Gisikon-Root;Chiasso;Gotthard;Schwyz;Rotkreuz|Chiasso;Gotthard;Schwyz;Rotkreuz",
-    "destination:ref:lanes": "A14|A14;A4|A4",
+    "destination:int_ref:lanes": "||E 41",
+    "destination:lanes": "Luzern;Gisikon-Root|Luzern;Gisikon-Root|Chiasso;Gotthard;Schwyz;Rotkreuz",
+    "destination:ref:lanes": "A14|A14|A4",
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "3",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "middle_of:2",
@@ -1513,7 +1513,7 @@
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "slight_left|slight_left;slight_right|slight_right",
+    "turn:lanes": "slight_left|slight_left|slight_right",
     "id": "way/4766538"
   },
   "geometry": {
@@ -1544,8 +1544,8 @@
         47.1607202
       ],
       [
-        8.4329318,
-        47.1604821
+        8.4329286,
+        47.1605354
       ]
     ]
   }
@@ -4108,7 +4108,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "lit": "yes",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
@@ -4768,7 +4768,7 @@
     "lanes": "3",
     "lit": "no",
     "maxheight": "default",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "oneway": "yes",
     "placement": "right_of:1",
     "ref": "A3;A4",
@@ -4828,12 +4828,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4196878,
-        47.3734793
-      ],
-      [
-        8.4198976,
-        47.3728165
+        8.4198958,
+        47.3728195
       ],
       [
         8.4200194,
@@ -10073,24 +10069,40 @@
         47.5000936
       ],
       [
-        8.6921933,
-        47.4998884
+        8.6922063,
+        47.4998812
       ],
       [
-        8.6924433,
-        47.4996176
+        8.692334,
+        47.4997438
       ],
       [
-        8.6926864,
-        47.4993442
+        8.6924553,
+        47.4996103
       ],
       [
-        8.6929232,
-        47.4990691
+        8.6925795,
+        47.4994697
       ],
       [
-        8.6931478,
-        47.4987905
+        8.692698,
+        47.4993336
+      ],
+      [
+        8.6928163,
+        47.4991956
+      ],
+      [
+        8.6929338,
+        47.4990551
+      ],
+      [
+        8.6930495,
+        47.4989144
+      ],
+      [
+        8.693162,
+        47.4987741
       ]
     ]
   }
@@ -13636,7 +13648,7 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "2",
-    "maxspeed": "80",
+    "maxspeed": "60",
     "oneway": "yes",
     "placement": "right_of:1",
     "ref": "A4",
@@ -13687,7 +13699,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "oneway": "yes",
     "placement": "right_of:1",
     "ref": "A4",
@@ -13700,8 +13712,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4329101,
-        47.160257
+        8.4328886,
+        47.1602592
       ],
       [
         8.432886,
@@ -14743,7 +14755,7 @@
     "layer": "-1",
     "lit": "yes",
     "maxheight": "default",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "placement": "right_of:1",
@@ -14804,7 +14816,7 @@
     "layer": "-1",
     "lit": "yes",
     "maxheight": "default",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
@@ -16054,15 +16066,15 @@
   "id": "way/25359826",
   "properties": {
     "bridge": "yes",
-    "destination:int_ref:lanes": "|E 41|E 41",
-    "destination:lanes": "Luzern;Gisikon-Root|Luzern;Gisikon-Root;Chiasso;Gotthard;Schwyz;Rotkreuz|Chiasso;Gotthard;Schwyz;Rotkreuz",
-    "destination:ref:lanes": "A14|A14;A4|A4",
+    "destination:int_ref:lanes": "||E 41",
+    "destination:lanes": "Luzern;Gisikon-Root|Luzern;Gisikon-Root|Chiasso;Gotthard;Schwyz;Rotkreuz",
+    "destination:ref:lanes": "A14|A14|A4",
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "3",
     "layer": "1",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "middle_of:2",
@@ -16071,6 +16083,7 @@
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
+    "turn:lanes": "slight_left|slight_left|slight_right",
     "id": "way/25359826"
   },
   "geometry": {
@@ -16370,7 +16383,7 @@
     "lanes": "3",
     "layer": "2",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
@@ -16406,8 +16419,8 @@
         47.399569
       ],
       [
-        8.4213927,
-        47.4025732
+        8.4213719,
+        47.4024473
       ]
     ]
   }
@@ -16421,7 +16434,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "overtaking:hgv": "no",
@@ -20776,8 +20789,8 @@
         47.4086242
       ],
       [
-        8.4244677,
-        47.4083557
+        8.4243658,
+        47.4082496
       ]
     ]
   }
@@ -24821,7 +24834,7 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "3",
-    "maxspeed": "80",
+    "maxspeed": "60",
     "oneway": "yes",
     "placement": "right_of:1",
     "ref": "A4",
@@ -28276,7 +28289,7 @@
     "lanes": "2",
     "lit": "no",
     "maxheight:signed": "no",
-    "maxspeed": "80",
+    "maxspeed": "60",
     "oneway": "yes",
     "placement": "right_of:1",
     "ref": "A4",
@@ -28383,7 +28396,7 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "2",
-    "maxspeed": "80",
+    "maxspeed": "60",
     "oneway": "yes",
     "placement": "right_of:1",
     "ref": "A4",
@@ -34220,8 +34233,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.424292,
-        47.4082047
+        8.4242528,
+        47.4081567
       ],
       [
         8.4240556,
@@ -34244,16 +34257,20 @@
         47.4067381
       ],
       [
-        8.4228138,
-        47.4064966
+        8.4228169,
+        47.4064945
       ],
       [
-        8.4225741,
-        47.4061433
+        8.4226523,
+        47.4062654
       ],
       [
-        8.4223488,
-        47.4057878
+        8.4224735,
+        47.4059946
+      ],
+      [
+        8.4223449,
+        47.4057873
       ]
     ]
   }
@@ -34417,7 +34434,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
@@ -34430,52 +34447,60 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4213927,
-        47.4025732
+        8.4213719,
+        47.4024473
       ],
       [
-        8.4214717,
-        47.4029892
+        8.4214885,
+        47.4031224
       ],
       [
-        8.4215673,
+        8.4215566,
         47.4034378
       ],
       [
-        8.4216027,
-        47.4036041
+        8.421642,
+        47.4037582
       ],
       [
-        8.4217135,
-        47.4039903
+        8.4217367,
+        47.4040772
       ],
       [
-        8.4218023,
-        47.4042554
+        8.4218449,
+        47.4043894
       ],
       [
-        8.4219064,
-        47.4045249
+        8.4219709,
+        47.4047039
       ],
       [
-        8.4220946,
-        47.4049514
+        8.4221074,
+        47.4050103
       ],
       [
-        8.4222632,
-        47.4053076
+        8.4222409,
+        47.4052727
       ],
       [
-        8.4225153,
-        47.4057342
+        8.4223818,
+        47.4055313
       ],
       [
-        8.4227516,
-        47.4060953
+        8.4225406,
+        47.40579
       ],
       [
-        8.4230008,
-        47.4064449
+        8.4227007,
+        47.4060405
+      ],
+      [
+        8.4228538,
+        47.4062611
+      ],
+      [
+        8.4229575,
+        47.4064073
       ]
     ]
   }
@@ -35528,7 +35553,7 @@
     "highway": "motorway",
     "lanes": "2",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "right_of:1",
@@ -35543,8 +35568,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4330046,
-        47.1589662
+        8.4330089,
+        47.1589604
       ],
       [
         8.4330018,
@@ -36242,57 +36267,6 @@
       [
         8.6901644,
         47.4413074
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/116756494",
-  "properties": {
-    "change:lanes": "not_right|not_left|not_left",
-    "destination:int_ref:lanes": "E 60|E 41;E 60|",
-    "destination:lanes": "Bern;Basel|St. Gallen;Flughafen;Nordring-Zürich|Zürich-City",
-    "destination:ref:lanes": "A1;A3|A1;A4|",
-    "highway": "motorway",
-    "int_ref": "E 41",
-    "lanes": "3",
-    "lit": "yes",
-    "maxspeed": "100",
-    "oneway": "yes",
-    "ref": "A3;A4",
-    "source:maxspeed": "sign",
-    "surface": "asphalt",
-    "toll": "yes",
-    "turn:lanes": "slight_left|through|through",
-    "id": "way/116756494"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.4230008,
-        47.4064449
-      ],
-      [
-        8.4231939,
-        47.4066917
-      ],
-      [
-        8.4233735,
-        47.4069275
-      ],
-      [
-        8.4236093,
-        47.4072072
-      ],
-      [
-        8.4238544,
-        47.407485
-      ],
-      [
-        8.4242153,
-        47.4078719
       ]
     ]
   }
@@ -38410,7 +38384,7 @@
     "lanes": "2",
     "layer": "2",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "overtaking:hgv": "no",
@@ -38425,8 +38399,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4212436,
-        47.4025822
+        8.4212246,
+        47.4024578
       ],
       [
         8.4207823,
@@ -43497,7 +43471,7 @@
     "lanes": "2",
     "lit": "yes",
     "maxheight": "default",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3;A4",
     "smoothness": "good",
@@ -43543,7 +43517,7 @@
     "int_ref": "E 41",
     "lanes": "4",
     "lit": "yes",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "placement": "right_of:1",
@@ -43694,40 +43668,52 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.695321,
-        47.4965663
+        8.6954182,
+        47.4964981
       ],
       [
-        8.6951399,
-        47.4967188
+        8.6952657,
+        47.4966212
       ],
       [
-        8.694965,
-        47.4968727
+        8.6951159,
+        47.4967483
       ],
       [
-        8.6947558,
-        47.4970696
+        8.6949724,
+        47.4968757
       ],
       [
-        8.6946565,
-        47.4971714
+        8.6948344,
+        47.4970054
       ],
       [
-        8.6945603,
-        47.4972736
+        8.6946991,
+        47.4971383
       ],
       [
-        8.6943109,
-        47.4975528
+        8.6945676,
+        47.4972744
       ],
       [
-        8.6940739,
-        47.4978377
+        8.6944412,
+        47.4974118
       ],
       [
-        8.6939183,
-        47.4980324
+        8.6943212,
+        47.4975484
+      ],
+      [
+        8.694202,
+        47.4976889
+      ],
+      [
+        8.6940876,
+        47.4978286
+      ],
+      [
+        8.6939738,
+        47.4979694
       ]
     ]
   }
@@ -43754,168 +43740,196 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6944287,
-        47.4972143
+        8.6944274,
+        47.497214
       ],
       [
-        8.6945269,
-        47.4971094
+        8.6945613,
+        47.4970752
       ],
       [
-        8.6946294,
-        47.4970053
+        8.6946982,
+        47.4969408
       ],
       [
-        8.6948453,
-        47.4968029
+        8.694838,
+        47.4968093
       ],
       [
-        8.695023,
-        47.4966485
+        8.6949844,
+        47.4966794
       ],
       [
-        8.6952097,
-        47.4964935
+        8.6951374,
+        47.4965496
       ],
       [
-        8.6954368,
-        47.4963194
+        8.6952919,
+        47.4964249
       ],
       [
-        8.6956081,
-        47.4961918
+        8.6954269,
+        47.4963211
       ],
       [
-        8.6957726,
-        47.4960733
+        8.6956161,
+        47.4961821
       ],
       [
-        8.6961176,
-        47.4958398
+        8.6957672,
+        47.4960757
       ],
       [
-        8.6963799,
-        47.4956763
+        8.6959547,
+        47.4959487
       ],
       [
-        8.6966499,
-        47.4955146
+        8.6961254,
+        47.4958373
       ],
       [
-        8.6971965,
-        47.4951968
+        8.6963016,
+        47.4957257
       ],
       [
-        8.6977392,
-        47.494891
+        8.6964812,
+        47.4956155
       ],
       [
-        8.6982855,
-        47.4945852
+        8.696659,
+        47.4955085
       ],
       [
-        8.6985611,
-        47.4944247
+        8.6968393,
+        47.4954026
       ],
       [
-        8.6988331,
-        47.4942623
+        8.6970274,
+        47.4952939
       ],
       [
-        8.6989172,
-        47.4942102
+        8.6972038,
+        47.4951934
       ],
       [
-        8.699104,
-        47.4940946
+        8.69757,
+        47.4949865
       ],
       [
-        8.6993628,
-        47.4939284
+        8.6979362,
+        47.4947814
       ],
       [
-        8.6995529,
-        47.4938013
+        8.6982976,
+        47.4945756
       ],
       [
-        8.6997333,
-        47.4936735
+        8.6984816,
+        47.4944697
       ],
       [
-        8.6999111,
-        47.4935435
+        8.6986578,
+        47.4943665
       ],
       [
-        8.7000804,
-        47.4934133
+        8.6988321,
+        47.4942624
       ],
       [
-        8.7002149,
-        47.4933039
+        8.6989104,
+        47.4942149
       ],
       [
-        8.7003407,
-        47.4931953
+        8.6990087,
+        47.4941544
       ],
       [
-        8.700465,
-        47.4930878
+        8.6991824,
+        47.4940451
       ],
       [
-        8.7005833,
-        47.4929783
+        8.6993531,
+        47.4939349
       ],
       [
-        8.7007929,
-        47.4927573
+        8.6995181,
+        47.4938242
       ],
       [
-        8.7008922,
-        47.492651
+        8.6996826,
+        47.4937099
       ],
       [
-        8.7009853,
-        47.4925455
+        8.6998432,
+        47.4935933
       ],
       [
-        8.7010738,
-        47.4924341
+        8.6999988,
+        47.4934759
       ],
       [
-        8.7011554,
-        47.4923253
+        8.7001501,
+        47.4933554
       ],
       [
-        8.7012389,
-        47.4922134
+        8.7002981,
+        47.4932322
       ],
       [
-        8.7013126,
-        47.4921043
+        8.7004372,
+        47.4931092
       ],
       [
-        8.7013899,
-        47.4919876
+        8.7005757,
+        47.4929791
       ],
       [
-        8.7014601,
-        47.4918702
+        8.7007063,
+        47.4928485
       ],
       [
-        8.7015282,
-        47.4917533
+        8.7008305,
+        47.4927166
       ],
       [
-        8.7015871,
-        47.4916374
+        8.7009496,
+        47.4925811
       ],
       [
-        8.7016452,
-        47.4915171
+        8.701063,
+        47.4924425
       ],
       [
-        8.7016966,
-        47.4913984
+        8.7011705,
+        47.4923019
+      ],
+      [
+        8.7012725,
+        47.4921587
+      ],
+      [
+        8.7013663,
+        47.4920153
+      ],
+      [
+        8.7014546,
+        47.4918682
+      ],
+      [
+        8.7015361,
+        47.4917218
+      ],
+      [
+        8.7016114,
+        47.4915724
+      ],
+      [
+        8.7016796,
+        47.4914233
+      ],
+      [
+        8.7017417,
+        47.4912733
       ],
       [
         8.7017986,
@@ -43964,36 +43978,40 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6931478,
-        47.4987905
+        8.693162,
+        47.4987741
       ],
       [
-        8.6934172,
-        47.4984453
+        8.693413,
+        47.4984525
       ],
       [
-        8.6937793,
-        47.4979813
+        8.6936052,
+        47.4982024
       ],
       [
-        8.6939373,
-        47.4977823
+        8.6938269,
+        47.4979166
       ],
       [
-        8.6940506,
-        47.497638
+        8.6939414,
+        47.4977747
       ],
       [
-        8.694167,
-        47.497501
+        8.6940565,
+        47.4976345
       ],
       [
-        8.6942344,
-        47.4974252
+        8.6941774,
+        47.4974918
       ],
       [
-        8.6944287,
-        47.4972143
+        8.6942989,
+        47.4973534
+      ],
+      [
+        8.6944274,
+        47.497214
       ]
     ]
   }
@@ -44019,32 +44037,52 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6939183,
-        47.4980324
+        8.6939738,
+        47.4979694
       ],
       [
-        8.693556,
-        47.4984966
+        8.6937528,
+        47.4982545
       ],
       [
-        8.6932872,
-        47.498841
+        8.6935715,
+        47.49849
       ],
       [
-        8.6930599,
-        47.499122
+        8.6933089,
+        47.4988271
       ],
       [
-        8.6928205,
-        47.4993985
+        8.6931938,
+        47.4989706
       ],
       [
-        8.6925774,
-        47.4996735
+        8.6930791,
+        47.4991098
       ],
       [
-        8.6923272,
-        47.4999472
+        8.692961,
+        47.4992514
+      ],
+      [
+        8.6928422,
+        47.4993898
+      ],
+      [
+        8.692723,
+        47.4995265
+      ],
+      [
+        8.692598,
+        47.4996682
+      ],
+      [
+        8.6924758,
+        47.4998025
+      ],
+      [
+        8.6923474,
+        47.4999409
       ],
       [
         8.6921321,
@@ -47346,7 +47384,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "placement": "right_of:1",
@@ -47362,32 +47400,32 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4223488,
-        47.4057878
+        8.4223449,
+        47.4057873
       ],
       [
-        8.4221007,
-        47.4053463
+        8.4221851,
+        47.405513
+      ],
+      [
+        8.4220226,
+        47.4052042
       ],
       [
         8.4219291,
         47.4049991
       ],
       [
-        8.4217832,
-        47.4046677
+        8.4218428,
+        47.4048129
       ],
       [
-        8.4217413,
-        47.4045696
+        8.4217134,
+        47.4045114
       ],
       [
-        8.4216875,
-        47.4044033
-      ],
-      [
-        8.4216508,
-        47.4042815
+        8.4216536,
+        47.4042891
       ]
     ]
   }
@@ -47396,11 +47434,12 @@
   "type": "Feature",
   "id": "way/210309183",
   "properties": {
+    "destination:lanes": "Urdorf-Süd|Urdorf-Süd;Urdorf-Nord;Schlieren;Dietikon",
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "2",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "ref": "A3;A4",
@@ -47414,20 +47453,36 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4216508,
-        47.4042815
+        8.4216536,
+        47.4042891
       ],
       [
-        8.4215634,
-        47.4040119
+        8.4215927,
+        47.4041114
       ],
       [
-        8.4214459,
-        47.4036266
+        8.4215253,
+        47.4038948
       ],
       [
-        8.4213556,
-        47.4032148
+        8.4214486,
+        47.4036251
+      ],
+      [
+        8.4213958,
+        47.4034217
+      ],
+      [
+        8.4213472,
+        47.4031864
+      ],
+      [
+        8.4212771,
+        47.4028066
+      ],
+      [
+        8.4212246,
+        47.4024578
       ]
     ]
   }
@@ -47441,7 +47496,7 @@
     "lanes": "2",
     "lit": "no",
     "maxheight": "default",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3;A4",
     "shoulder:right": "yes",
@@ -47655,7 +47710,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "overtaking:hgv": "no",
@@ -47724,7 +47779,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "lit": "yes",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "oneway": "yes",
     "placement": "right_of:1",
     "ref": "A3;A4",
@@ -47871,7 +47926,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "lit": "yes",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3;A4",
     "shoulder:right": "yes",
@@ -48047,7 +48102,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
@@ -48059,16 +48114,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.420252,
-        47.3721624
-      ],
-      [
-        8.4201336,
-        47.3724654
-      ],
-      [
-        8.4200348,
-        47.3727622
+        8.4200101,
+        47.372835
       ],
       [
         8.4199476,
@@ -48189,7 +48236,7 @@
     "lanes": "3",
     "lit": "yes",
     "maxheight:signed": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
@@ -50888,7 +50935,7 @@
     "lanes": "2",
     "lit": "no",
     "maxheight": "default",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "ref": "A3;A4",
@@ -50949,7 +50996,7 @@
     "lanes": "2",
     "lit": "no",
     "maxheight": "default",
-    "maxspeed": "80",
+    "maxspeed": "60",
     "oneway": "yes",
     "placement": "right_of:1",
     "ref": "A4",
@@ -52119,148 +52166,172 @@
         47.4911419
       ],
       [
-        8.7018503,
-        47.4914277
+        8.7019025,
+        47.4913022
       ],
       [
-        8.7017982,
-        47.4915456
+        8.7018395,
+        47.4914546
       ],
       [
-        8.7017383,
-        47.4916649
+        8.7017697,
+        47.491607
       ],
       [
-        8.7016752,
-        47.4917831
+        8.7016928,
+        47.4917597
       ],
       [
-        8.7016091,
-        47.4919041
+        8.7016096,
+        47.4919091
       ],
       [
-        8.7015389,
-        47.492021
+        8.7015196,
+        47.4920591
       ],
       [
-        8.7014613,
-        47.4921399
+        8.7014234,
+        47.492206
       ],
       [
-        8.7013839,
-        47.4922563
+        8.7013191,
+        47.4923525
       ],
       [
-        8.7012997,
-        47.492375
+        8.7012098,
+        47.4924955
       ],
       [
-        8.7012101,
-        47.4924892
+        8.7010945,
+        47.4926365
       ],
       [
-        8.7011164,
-        47.4926054
+        8.7009725,
+        47.4927751
       ],
       [
-        8.7010225,
-        47.4927138
+        8.7008452,
+        47.4929103
       ],
       [
-        8.700923,
-        47.4928212
+        8.7007121,
+        47.4930437
       ],
       [
-        8.7007114,
-        47.493039
+        8.7005709,
+        47.4931761
       ],
       [
-        8.7005907,
-        47.4931529
+        8.7004292,
+        47.4933014
       ],
       [
-        8.7004617,
-        47.4932666
+        8.7002783,
+        47.4934271
       ],
       [
-        8.7003278,
-        47.4933788
+        8.7001246,
+        47.4935495
       ],
       [
-        8.7001876,
-        47.4934904
+        8.6999668,
+        47.4936687
       ],
       [
-        8.7000213,
-        47.4936185
+        8.6998034,
+        47.4937872
       ],
       [
-        8.6998456,
-        47.493748
+        8.6996363,
+        47.4939033
       ],
       [
-        8.6996618,
-        47.4938772
+        8.6994691,
+        47.4940153
       ],
       [
-        8.6994697,
-        47.4940061
+        8.6992971,
+        47.4941266
       ],
       [
-        8.6992075,
-        47.494175
+        8.6991213,
+        47.4942372
       ],
       [
-        8.6990233,
-        47.4942881
+        8.6990373,
+        47.4942888
       ],
       [
-        8.6989333,
-        47.4943433
+        8.6989428,
+        47.4943464
       ],
       [
-        8.6986603,
-        47.4945065
+        8.6987675,
+        47.494451
       ],
       [
-        8.6983826,
-        47.4946683
+        8.6985903,
+        47.4945548
       ],
       [
-        8.6978358,
-        47.4949736
+        8.6984056,
+        47.4946611
       ],
       [
-        8.6972906,
-        47.4952809
+        8.6980429,
+        47.4948676
       ],
       [
-        8.6967527,
-        47.4955942
+        8.6976761,
+        47.4950731
       ],
       [
-        8.6964855,
-        47.4957518
+        8.6973109,
+        47.4952795
       ],
       [
-        8.6962285,
-        47.4959141
+        8.6971352,
+        47.4953795
       ],
       [
-        8.6958806,
-        47.4961452
+        8.6969481,
+        47.4954877
       ],
       [
-        8.6957236,
-        47.4962599
+        8.6967671,
+        47.495594
       ],
       [
-        8.6955493,
-        47.4963895
+        8.6965922,
+        47.4956993
       ],
       [
-        8.695321,
-        47.4965663
+        8.696414,
+        47.4958086
+      ],
+      [
+        8.6962402,
+        47.4959187
+      ],
+      [
+        8.6960713,
+        47.4960289
+      ],
+      [
+        8.6958862,
+        47.4961542
+      ],
+      [
+        8.6957374,
+        47.4962591
+      ],
+      [
+        8.695563,
+        47.496387
+      ],
+      [
+        8.6954182,
+        47.4964981
       ]
     ]
   }
@@ -62671,7 +62742,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "60",
     "oneway": "yes",
     "placement": "right_of:1",
     "ref": "A4",
@@ -62746,11 +62817,14 @@
   "type": "Feature",
   "id": "way/371643222",
   "properties": {
+    "destination:int_ref:lanes": "||E 41",
+    "destination:lanes": "Luzern;Gisikon-Root|Luzern;Gisikon-Root|Chiasso;Gotthard;Schwyz;Rotkreuz",
+    "destination:ref:lanes": "A14|A14|A4",
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "3",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "middle_of:2",
@@ -62759,6 +62833,7 @@
     "source:maxspeed": "signals",
     "surface": "asphalt",
     "toll": "yes",
+    "turn:lanes": "slight_left|slight_left|slight_right",
     "id": "way/371643222"
   },
   "geometry": {
@@ -65459,7 +65534,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "lit": "yes",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "A3;A4",
     "source:maxspeed": "sign",
@@ -65502,7 +65577,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "lit": "yes",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "placement": "right_of:1",
@@ -66140,7 +66215,7 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "3",
-    "maxspeed": "100",
+    "maxspeed": "60",
     "oneway": "yes",
     "ref": "A4",
     "shoulder": "right",
@@ -66171,7 +66246,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "maxheight": "default",
-    "maxspeed": "100",
+    "maxspeed": "60",
     "oneway": "yes",
     "placement": "right_of:1",
     "ref": "A4",
@@ -73061,7 +73136,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "overtaking:hgv": "no",
@@ -73090,39 +73165,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/554298202",
-  "properties": {
-    "destination:lanes": "Urdorf-Süd|Urdorf-Süd;Urdorf-Nord;Schlieren;Dietikon",
-    "highway": "motorway",
-    "int_ref": "E 41",
-    "lanes": "2",
-    "lit": "no",
-    "maxspeed": "80",
-    "maxspeed:variable": "obstruction",
-    "oneway": "yes",
-    "ref": "A3;A4",
-    "shoulder:right": "yes",
-    "source:maxspeed": "signals",
-    "surface": "asphalt",
-    "toll": "yes",
-    "id": "way/554298202"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.4213556,
-        47.4032148
-      ],
-      [
-        8.4212829,
-        47.4028042
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/554302072",
   "properties": {
     "change:lanes": "not_left|not_right|yes",
@@ -73130,7 +73172,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "lit": "yes",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "placement": "right_of:1",
@@ -73178,7 +73220,7 @@
     "int_ref": "E 41",
     "lanes": "4",
     "lit": "yes",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "placement": "right_of:1",
@@ -73216,7 +73258,7 @@
     "int_ref": "E 41",
     "lanes": "4",
     "lit": "yes",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "placement": "right_of:1",
@@ -73254,7 +73296,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "lit": "yes",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "placement": "right_of:1",
@@ -73437,7 +73479,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "overtaking:hgv": "no",
@@ -73474,7 +73516,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "overtaking:hgv": "no",
@@ -74891,7 +74933,7 @@
     "highway": "motorway",
     "lanes": "2",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "yes",
     "oneway": "yes",
     "placement": "right_of:1",
@@ -74906,7 +74948,7 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4329541,
+        8.4329842,
         47.1602591
       ],
       [
@@ -74918,8 +74960,8 @@
         47.1591908
       ],
       [
-        8.4330046,
-        47.1589662
+        8.4330089,
+        47.1589604
       ]
     ]
   }
@@ -82973,45 +83015,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4244677,
-        47.4083557
+        8.4243658,
+        47.4082496
       ],
       [
-        8.424292,
-        47.4082047
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/1202048994",
-  "properties": {
-    "destination:lanes": "Urdorf-Süd|Urdorf-Süd;Urdorf-Nord;Schlieren;Dietikon",
-    "highway": "motorway",
-    "int_ref": "E 41",
-    "lanes": "2",
-    "lit": "no",
-    "maxspeed": "80",
-    "maxspeed:variable": "obstruction",
-    "oneway": "yes",
-    "ref": "A3;A4",
-    "shoulder:right": "yes",
-    "source:maxspeed": "signals",
-    "surface": "asphalt",
-    "toll": "yes",
-    "id": "way/1202048994"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.4212829,
-        47.4028042
-      ],
-      [
-        8.4212436,
-        47.4025822
+        8.4242528,
+        47.4081567
       ]
     ]
   }
@@ -83025,7 +83034,7 @@
     "lanes": "2",
     "lit": "no",
     "maxheight:signed": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "ref": "A3;A4",
@@ -83069,7 +83078,7 @@
     "layer": "-1",
     "lit": "yes",
     "maxheight": "default",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "placement": "right_of:1",
@@ -83106,7 +83115,7 @@
     "lanes": "2",
     "lit": "no",
     "maxheight": "default",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "ref": "A3;A4",
@@ -83155,7 +83164,7 @@
     "lanes": "2",
     "lit": "no",
     "maxheight": "default",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "overtaking:hgv": "no",
@@ -83217,7 +83226,7 @@
     "lanes": "2",
     "lit": "no",
     "maxheight": "default",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "ref": "A3;A4",
@@ -83323,7 +83332,7 @@
     "lanes": "4",
     "lit": "no",
     "maxheight": "default",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "oneway": "yes",
     "placement": "right_of:1",
     "ref": "A3;A4",
@@ -84276,7 +84285,7 @@
     "int_ref": "E 41",
     "lanes": "3",
     "maxheight": "default",
-    "maxspeed": "80",
+    "maxspeed": "60",
     "oneway": "yes",
     "placement": "middle_of:2",
     "ref": "A4",
@@ -84306,7 +84315,7 @@
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "2",
-    "maxspeed": "80",
+    "maxspeed": "60",
     "oneway": "yes",
     "ref": "A4",
     "shoulder": "no",
@@ -84351,11 +84360,11 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4329318,
-        47.1604821
+        8.4329286,
+        47.1605354
       ],
       [
-        8.4329541,
+        8.4329842,
         47.1602591
       ]
     ]
@@ -84370,7 +84379,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "A4",
     "shoulder": "right",
@@ -84382,12 +84391,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4329318,
-        47.1604821
+        8.4329286,
+        47.1605354
       ],
       [
-        8.4329101,
-        47.160257
+        8.4328886,
+        47.1602592
       ]
     ]
   }
@@ -84464,7 +84473,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "lit": "no",
-    "maxspeed": "100",
+    "maxspeed": "60",
     "oneway": "yes",
     "ref": "A4",
     "shoulder": "no",
@@ -84589,7 +84598,7 @@
     "int_ref": "E 41",
     "lanes": "2",
     "maxheight": "default",
-    "maxspeed": "100",
+    "maxspeed": "60",
     "oneway": "yes",
     "placement": "right_of:1",
     "ref": "A4",
@@ -93044,8 +93053,28 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4242153,
-        47.4078719
+        8.4229575,
+        47.4064073
+      ],
+      [
+        8.4230561,
+        47.4065119
+      ],
+      [
+        8.4233467,
+        47.4068824
+      ],
+      [
+        8.4236345,
+        47.4072219
+      ],
+      [
+        8.4239858,
+        47.4076076
+      ],
+      [
+        8.4243785,
+        47.4080075
       ],
       [
         8.424737,
@@ -94159,6 +94188,74 @@
       [
         8.5548419,
         47.2115092
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1509967585",
+  "properties": {
+    "destination": "Birmensdorf",
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxspeed:variable": "obstruction",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "ref": "A3;A4",
+    "shoulder:right": "yes",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1509967585"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4196878,
+        47.3734793
+      ],
+      [
+        8.4198958,
+        47.3728195
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1509967586",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A3;A4",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1509967586"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.420252,
+        47.3721624
+      ],
+      [
+        8.4201336,
+        47.3724654
+      ],
+      [
+        8.4200101,
+        47.372835
       ]
     ]
   }

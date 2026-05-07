@@ -2795,29 +2795,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9308513415",
-  "properties": {
-    "addr:city": "Schaffhausen",
-    "addr:housenumber": "12",
-    "addr:street": "J.J. Wepfer-Strasse",
-    "amenity": "social_facility",
-    "name": "Pflegezentrum - Spitäler Schaffhausen",
-    "operator": "Spitäler Schaffhausen",
-    "phone": "+41 52 634 34 34",
-    "social_facility": "nursing_home",
-    "website": "https://www.heiminfo.ch/institution/spitaeler-schaffhausen-pflegezentrum/pRLcyvp",
-    "id": "node/9308513415"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6399566,
-      47.7153734
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/12258603420",
   "properties": {
     "addr:full": "Stokarbergstrasse 21, 8200 Schaffhausen",
