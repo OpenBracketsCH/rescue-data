@@ -24654,20 +24654,23 @@
   "id": "node/8617262275",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "bei den Kassen des Coop",
+    "defibrillator:location": "Vor Christ Uhren & Schmuck",
+    "description": "Während Öffnungszeiten",
+    "email": "info@letzipark.ch",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "0",
+    "level": "2",
     "opening_hours": "Mo-Sa 09:00-20:00",
     "operator": "Letzipark",
+    "phone": "+41 44 497 52 52",
     "id": "node/8617262275"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4997088,
-      47.3863342
+      8.498761,
+      47.3862577
     ]
   }
 },
@@ -24676,20 +24679,23 @@
   "id": "node/8617262276",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Beim Eingang links",
+    "defibrillator:location": "Vor Andur Restaurant",
+    "description": "Während Öffnungszeiten verfügbar",
+    "email": "info@letzipark.ch",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "1",
+    "level": "4",
     "opening_hours": "Mo-Sa 09:00-20:00",
     "operator": "Letzipark",
+    "phone": "+41 44 597 52 52",
     "id": "node/8617262276"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4983069,
-      47.3864207
+      8.4988683,
+      47.3862316
     ]
   }
 },
@@ -100565,6 +100571,146 @@
     "coordinates": [
       8.6192354,
       47.0065161
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13805780201",
+  "properties": {
+    "defibrillator:location": "Clubhaus FC Baar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Einwohnergemeinde Baar",
+    "phone": "+41 41 769 01 11",
+    "id": "node/13805780201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5377848,
+      47.2017963
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13805784701",
+  "properties": {
+    "defibrillator:location": "Freibad Lättich",
+    "description": "während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Einwohnergemeinde Baar",
+    "phone": "+41 41 769 01 11",
+    "id": "node/13805784701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5405627,
+      47.2014568
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13806076601",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Vor Coop Restaurant",
+    "description": "Während Öffnungszeuten verfügbar",
+    "email": "info@letzipark.ch",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "5",
+    "opening_hours": "Mo-Sa 09:00-20:00",
+    "operator": "EKZ letzipark",
+    "phone": "+41 44 497 52 52",
+    "id": "node/13806076601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4990131,
+      47.3861957
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13806301502",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Garderobengebäude Talgut - FC Tössfeld",
+    "description": "an Hauswand",
+    "email": "sportamt@win.ch",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Sportamt Winterthur",
+    "phone": "+41 52 267 40 00",
+    "id": "node/13806301502"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7454184,
+      47.4930835
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13806504601",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Lüssirainstrasse 5",
+    "description": "Bei Einfahrt Tiefgarage",
+    "email": "sicherheit@stadtzug.ch",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Stadtverwaltung Zug, Abteilung Sicherheit und Verkehr",
+    "phone": "+41 58 728 99 00",
+    "id": "node/13806504601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5312859,
+      47.1708055
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13807703801",
+  "properties": {
+    "defibrillator:location": "Stadtpolizei Zürich, Amthaus II, Bahnhofquai 5, 8001 Zürich",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-16:00",
+    "operator": "Stadtpolizei Zürich",
+    "id": "node/13807703801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5416802,
+      47.3755491
     ]
   }
 }
