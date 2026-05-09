@@ -8312,7 +8312,7 @@
     "addr:street": "Dorfstrasse",
     "amenity": "childcare",
     "name": "Stärneland",
-    "website": "http://www.kita-staerneland.ch/",
+    "website": "https://www.kita-staerneland.ch/",
     "id": "node/7297052950"
   },
   "geometry": {
