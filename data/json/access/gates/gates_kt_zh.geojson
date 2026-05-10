@@ -9490,6 +9490,7 @@
   "id": "node/656327829",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "1.5",
     "id": "node/656327829"
   },
   "geometry": {
