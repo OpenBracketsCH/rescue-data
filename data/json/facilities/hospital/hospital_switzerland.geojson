@@ -51887,7 +51887,7 @@
   "type": "Feature",
   "id": "node/1916287474",
   "properties": {
-    "addr:city": "Bremgarten",
+    "addr:city": "Bremgarten AG",
     "addr:country": "CH",
     "addr:housenumber": "3",
     "addr:postcode": "5620",
