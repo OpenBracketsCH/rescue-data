@@ -61780,7 +61780,7 @@
         ],
         [
           8.4436032,
-          47.0862376
+          47.0862375
         ],
         [
           8.443554,
@@ -94614,6 +94614,8 @@
     "amenity": "school",
     "education": "school",
     "name": "Primarschule Geeren",
+    "website": "https://www.schule-bassersdorf.ch/primarschule/primar-geeren.html/113",
+    "wikimedia_commons": "Category:Primarschulhaus Geeren (Bassersdorf)",
     "id": "way/425905492"
   },
   "geometry": {
