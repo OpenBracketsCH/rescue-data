@@ -6027,6 +6027,7 @@
   "type": "Feature",
   "id": "way/33806997",
   "properties": {
+    "addr:block_number": "PLA",
     "addr:city": "Zürich",
     "addr:country": "CH",
     "addr:housename": "UZH PLA",
