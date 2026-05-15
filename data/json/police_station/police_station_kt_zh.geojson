@@ -4001,6 +4001,31 @@
       47.3762785
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13828809295",
+  "properties": {
+    "addr:city": "Wald ZH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8636",
+    "addr:street": "Rosenthalstrasse",
+    "amenity": "police",
+    "level": "2",
+    "name": "Polizeiposten Wald ZH",
+    "opening_hours": "Mo-Fr 08:00-12:00 & 13:00-17:00",
+    "operator": "Kantonspolizei Zürich",
+    "operator:wikidata": "Q1728099",
+    "phone": "+41 58 648 64 20",
+    "id": "node/13828809295"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.912004,
+      47.272631
+    ]
+  }
 }
 ]
 }
