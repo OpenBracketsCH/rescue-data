@@ -1895,6 +1895,7 @@
   "id": "way/4768777",
   "properties": {
     "alt_name": "Zugerautobahn",
+    "destination": "Chiasso;Gotthard;Luzern",
     "highway": "motorway",
     "lanes": "2",
     "loc_name": "Blegikurve",

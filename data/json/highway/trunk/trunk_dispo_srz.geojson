@@ -16836,6 +16836,7 @@
   "type": "Feature",
   "id": "way/298580686",
   "properties": {
+    "destination:lanes": "Industrie Cham|Zug",
     "foot": "no",
     "highway": "trunk",
     "lanes": "2",
