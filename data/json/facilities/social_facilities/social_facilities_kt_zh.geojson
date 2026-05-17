@@ -21066,7 +21066,7 @@
     "phone": "+41 44 995 15 01",
     "social_facility": "group_home",
     "social_facility:for": "senior",
-    "website": "http://www.luppmenpark.ch",
+    "website": "https://www.luppmenpark.ch/",
     "id": "way/202055961"
   },
   "geometry": {
@@ -43186,7 +43186,7 @@
     "phone": "+41 44 950 52 70",
     "social_facility": "group_home",
     "social_facility:for": "senior",
-    "website": "http://www.seniorenverein-pfaeffikon.ch",
+    "website": "https://www.seniorenverein-pfaeffikon.ch/",
     "id": "node/3726070214"
   },
   "geometry": {

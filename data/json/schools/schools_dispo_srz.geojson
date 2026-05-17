@@ -86973,7 +86973,7 @@
     "phone": "+41 52 385 27 82",
     "school": "primary",
     "school:CH": "primarschule",
-    "website": "http://www.hohmatt.ch",
+    "website": "https://hohmatt.ch/",
     "id": "way/325067080"
   },
   "geometry": {
@@ -93856,6 +93856,7 @@
     "addr:postcode": "8953",
     "addr:street": "Karl-Heid-Strasse",
     "amenity": "school",
+    "check_date": "2026-05-16",
     "name": "Schule Stierenmatt",
     "operator": "Stadt Dietikon",
     "operator:type": "government",
@@ -130754,7 +130755,7 @@
     "name": "Trageschule Schweiz",
     "operator": "Babycarring Switzerland",
     "operator:type": "private",
-    "website": "http://trageschule-schweiz.ch/",
+    "website": "https://www.trageschule-schweiz.ch/",
     "id": "node/12546601307"
   },
   "geometry": {

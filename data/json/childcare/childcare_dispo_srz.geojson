@@ -6413,7 +6413,7 @@
     "operator": "Zauberland GmbH",
     "operator:type": "private",
     "preschool": "yes",
-    "website": "http://altstadt-zauberland.ch/",
+    "website": "https://altstadt-zauberland.ch/",
     "wheelchair": "no",
     "id": "node/4081379793"
   },
@@ -6748,7 +6748,7 @@
   "properties": {
     "amenity": "childcare",
     "name": "Spielgruppe Vogelnest",
-    "website": "http://spielgruppe-vogelnest.ch/",
+    "website": "https://spielgruppe-vogelnest.ch/",
     "id": "node/4813954414"
   },
   "geometry": {
@@ -15942,7 +15942,7 @@
     "amenity": "childcare",
     "check_date": "2025-02-09",
     "name": "Fuchsia",
-    "website": "http://www.kita-fuchsia.ch/",
+    "website": "https://www.kita-fuchsia.ch/",
     "id": "node/12570789475"
   },
   "geometry": {

@@ -77133,6 +77133,7 @@
   "id": "node/11187258387",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "4",
     "id": "node/11187258387"
   },
   "geometry": {

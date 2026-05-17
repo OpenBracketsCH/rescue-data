@@ -908,7 +908,7 @@
     "name": "Polizeistation Schaffhausen",
     "operator": "Schaffhauser Polizei",
     "phone": "+41 52 624 24 24",
-    "website": "http://www.shpol.ch",
+    "website": "https://www.shpol.ch/",
     "wheelchair": "limited",
     "id": "way/192244566"
   },
@@ -2813,7 +2813,7 @@
     "name": "Kommando Schaffhauser Polizei",
     "operator": "Schaffhauser Polizei",
     "phone": "+41 52 624 24 24",
-    "website": "http://www.shpol.ch",
+    "website": "https://www.shpol.ch/",
     "id": "node/2441591782"
   },
   "geometry": {
@@ -3507,7 +3507,7 @@
     "amenity": "police",
     "name": "Polizeistation Klettgau",
     "operator": "Schaffhauser Polizei",
-    "website": "http://www.shpol.ch/Regionalpolizei.10163.0.html",
+    "website": "https://www.shpol.ch/Regionalpolizei.10163.0.html",
     "id": "node/7477816859"
   },
   "geometry": {
