@@ -41409,6 +41409,7 @@
   "id": "node/9717768476",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-05-17",
     "contact:city": "Zürich",
     "contact:email": "leitung@irchelkindergarten.ch",
     "contact:housenumber": "13",

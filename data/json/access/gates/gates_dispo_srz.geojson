@@ -44370,22 +44370,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4401245411",
-  "properties": {
-    "access": "private",
-    "barrier": "gate",
-    "id": "node/4401245411"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5320137,
-      47.399551
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4402549877",
   "properties": {
     "barrier": "gate",
@@ -103897,21 +103881,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/12880357635",
-  "properties": {
-    "barrier": "gate",
-    "id": "node/12880357635"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5076592,
-      47.0414929
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/12880488976",
   "properties": {
     "access": "private",
@@ -111532,6 +111501,103 @@
     "coordinates": [
       8.4964441,
       47.3441062
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13840348639",
+  "properties": {
+    "barrier": "gate",
+    "material": "wood",
+    "id": "node/13840348639"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5373654,
+      47.4065313
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13840348640",
+  "properties": {
+    "barrier": "gate",
+    "material": "wood",
+    "id": "node/13840348640"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5373106,
+      47.4065437
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13841200235",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "id": "node/13841200235"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5320507,
+      47.3997915
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13841200236",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "id": "node/13841200236"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.532012,
+      47.3995508
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13841692860",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "locked": "yes",
+    "material": "wood",
+    "id": "node/13841692860"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7600998,
+      47.5561407
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13843893365",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/13843893365"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4997232,
+      47.0445898
     ]
   }
 }
