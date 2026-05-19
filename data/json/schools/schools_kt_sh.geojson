@@ -512,6 +512,62 @@
 },
 {
   "type": "Feature",
+  "id": "way/25648837",
+  "properties": {
+    "amenity": "school",
+    "education": "school",
+    "name": "Schulhaus Alpenblick",
+    "operator": "Stadt Schaffhausen",
+    "operator:type": "government",
+    "website": "https://www.schulen-stadtsh.ch/de/schulen-und-kindergaerten/alpenblick/willkommen.html",
+    "id": "way/25648837"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6571536,
+          47.7059957
+        ],
+        [
+          8.6560506,
+          47.7055312
+        ],
+        [
+          8.6555719,
+          47.7054343
+        ],
+        [
+          8.6555686,
+          47.7049008
+        ],
+        [
+          8.6571768,
+          47.7048772
+        ],
+        [
+          8.6577914,
+          47.7051227
+        ],
+        [
+          8.6581626,
+          47.7055837
+        ],
+        [
+          8.6577221,
+          47.7061935
+        ],
+        [
+          8.6571536,
+          47.7059957
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/36780841",
   "properties": {
     "addr:city": "Neuhausen am Rheinfall",
