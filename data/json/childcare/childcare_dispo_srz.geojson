@@ -5165,12 +5165,7 @@
   "type": "Feature",
   "id": "way/1423549103",
   "properties": {
-    "addr:city": "Adliswil",
-    "addr:housenumber": "30",
-    "addr:postcode": "8134",
-    "addr:street": "Albisstrasse",
     "amenity": "childcare",
-    "building": "yes",
     "check_date": "2025-11-16",
     "kindergarten": "yes",
     "name": "Pandalino",
