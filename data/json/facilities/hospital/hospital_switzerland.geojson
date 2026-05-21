@@ -49438,6 +49438,7 @@
     "amenity": "clinic",
     "building": "clinic",
     "healthcare": "clinic",
+    "name": "Villa Robersten",
     "phone": "+41 61 835 08 65",
     "website": "https://www.gzf.ch/spital/besuch/anreise-villa-robersten.html",
     "id": "way/1253624488"
@@ -60100,6 +60101,29 @@
     "coordinates": [
       6.5740841,
       46.5314307
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13855955301",
+  "properties": {
+    "addr:housenumber": "97",
+    "addr:postcode": "9016",
+    "addr:street": "Brauerstrasse",
+    "amenity": "clinic",
+    "check_date": "2026-05-21",
+    "healthcare": "clinic",
+    "name": "eSwiss Medical & Surgical Center",
+    "phone": "+41 71 282 20 50",
+    "website": "https://www.eswiss.center",
+    "id": "node/13855955301"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4126973,
+      47.4461793
     ]
   }
 }
