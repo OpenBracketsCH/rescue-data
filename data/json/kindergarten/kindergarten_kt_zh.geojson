@@ -8757,64 +8757,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/99494677",
-  "properties": {
-    "addr:city": "Feuerthalen",
-    "addr:housenumber": "1",
-    "addr:postcode": "8245",
-    "addr:street": "Gartenstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Lindenbuck West",
-    "ref:gwrid": "9133",
-    "id": "way/99494677"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6505349,
-          47.6865039
-        ],
-        [
-          8.6505594,
-          47.6864657
-        ],
-        [
-          8.6506481,
-          47.6864914
-        ],
-        [
-          8.6506937,
-          47.6864202
-        ],
-        [
-          8.6507989,
-          47.6864507
-        ],
-        [
-          8.6508128,
-          47.6864293
-        ],
-        [
-          8.6508689,
-          47.6864457
-        ],
-        [
-          8.6507851,
-          47.6865765
-        ],
-        [
-          8.6505349,
-          47.6865039
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/99836571",
   "properties": {
     "addr:city": "Ottikon",
@@ -16177,12 +16119,12 @@
           47.4907321
         ],
         [
-          8.7608481,
-          47.4909571
+          8.7608037,
+          47.4907943
         ],
         [
-          8.7604418,
-          47.4910115
+          8.7603869,
+          47.4908444
         ],
         [
           8.7603515,
@@ -27798,68 +27740,6 @@
         [
           8.645773,
           47.2454272
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/1074113428",
-  "properties": {
-    "addr:city": "Feuerthalen",
-    "addr:housenumber": "3",
-    "addr:postcode": "8245",
-    "addr:street": "Gartenstrasse",
-    "amenity": "kindergarten",
-    "building": "kindergarten",
-    "name": "Kindergarten Lindenbuck Ost",
-    "ref:gwrid": "9133",
-    "id": "way/1074113428"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6508128,
-          47.6864293
-        ],
-        [
-          8.6508377,
-          47.6863908
-        ],
-        [
-          8.6509261,
-          47.6864167
-        ],
-        [
-          8.6509718,
-          47.6863459
-        ],
-        [
-          8.6510773,
-          47.6863768
-        ],
-        [
-          8.651116,
-          47.6863168
-        ],
-        [
-          8.6511715,
-          47.686333
-        ],
-        [
-          8.6510621,
-          47.6865023
-        ],
-        [
-          8.6508689,
-          47.6864457
-        ],
-        [
-          8.6508128,
-          47.6864293
         ]
       ]
     ]

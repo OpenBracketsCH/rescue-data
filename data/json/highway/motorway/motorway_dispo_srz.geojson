@@ -50641,6 +50641,7 @@
   "id": "way/254814663",
   "properties": {
     "destination": "Flughafen;Zürich",
+    "destination:symbol": "airport;none",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "2",
@@ -50658,8 +50659,16 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.632837,
-        47.4199041
+        8.6344872,
+        47.4207752
+      ],
+      [
+        8.6341028,
+        47.4205522
+      ],
+      [
+        8.633255,
+        47.4201086
       ],
       [
         8.6324973,
@@ -72765,6 +72774,38 @@
 },
 {
   "type": "Feature",
+  "id": "way/554245173",
+  "properties": {
+    "alt_name": "Brüttiseller Kreuz",
+    "destination": "Rapperswil-Jona;Uster;Brüttisellen;Dietlikon",
+    "destination:colour": ";;blue;blue",
+    "highway": "motorway",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "100",
+    "name": "Verzweigung Brüttisellen",
+    "oneway": "yes",
+    "placement": "transition",
+    "shoulder:right": "yes",
+    "surface": "asphalt",
+    "id": "way/554245173"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6344872,
+        47.4207752
+      ],
+      [
+        8.6340516,
+        47.4205898
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/554257071",
   "properties": {
     "change:lanes": "yes|not_right|no|no",
@@ -88240,14 +88281,6 @@
       [
         8.6499988,
         47.4238334
-      ],
-      [
-        8.6495195,
-        47.4238504
-      ],
-      [
-        8.6491223,
-        47.4238591
       ]
     ]
   }
@@ -90415,8 +90448,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.6491223,
-        47.4238591
+        8.6499988,
+        47.4238334
       ],
       [
         8.6490341,
@@ -92783,6 +92816,7 @@
     "source:maxspeed": "sign",
     "surface": "asphalt",
     "toll": "yes",
+    "turn:lanes": "none|none",
     "id": "way/1346900381"
   },
   "geometry": {
@@ -92795,22 +92829,6 @@
       [
         8.6344872,
         47.4207752
-      ],
-      [
-        8.6340925,
-        47.4205783
-      ],
-      [
-        8.6337017,
-        47.4203769
-      ],
-      [
-        8.6333227,
-        47.4201729
-      ],
-      [
-        8.632837,
-        47.4199041
       ]
     ]
   }

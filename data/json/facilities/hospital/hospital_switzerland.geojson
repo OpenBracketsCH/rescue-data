@@ -49437,8 +49437,10 @@
     "addr:street": "Roberstenstrasse",
     "amenity": "clinic",
     "building": "clinic",
+    "email": "villa@gzf.ch",
     "healthcare": "clinic",
     "name": "Villa Robersten",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "phone": "+41 61 835 08 65",
     "website": "https://www.gzf.ch/spital/besuch/anreise-villa-robersten.html",
     "id": "way/1253624488"
