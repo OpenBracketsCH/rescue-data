@@ -101497,8 +101497,9 @@
     "contact:street": "Letzigraben",
     "contact:website": "https://www.agora-kolleg.ch/",
     "isced:level": "3",
-    "name": "AGORA-Kolleg",
-    "operator": "AGORA-Kolleg",
+    "name": "Agora-Kolleg",
+    "note": "all-capital stylization in names is not allowed in OSM: https://wiki.openstreetmap.org/wiki/Names",
+    "operator": "Agora-Kolleg",
     "operator:type": "private",
     "id": "node/9717516721"
   },
