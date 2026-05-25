@@ -8499,6 +8499,7 @@
     "barrier": "gate",
     "bicycle": "yes",
     "foot": "yes",
+    "maxwidth:physical": "3",
     "id": "node/358113735"
   },
   "geometry": {
