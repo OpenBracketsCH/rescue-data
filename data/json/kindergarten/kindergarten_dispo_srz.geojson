@@ -14777,6 +14777,7 @@
     "contact:phone": "+41 44 940 16 55",
     "contact:website": "https://www.primarschule-uster.ch/kindergartengebaeude/804",
     "name": "Kindergarten Wanne",
+    "operator": "Primarschule Uster / Krämeracker",
     "operator:type": "public",
     "roof:levels": "0",
     "id": "way/179174984"
@@ -36077,6 +36078,9 @@
   "properties": {
     "amenity": "kindergarten",
     "name": "Kindergarten Wanne",
+    "operator": "Primarschule Uster / Krämeracker",
+    "phone": "+41 44 940 16 55",
+    "preschool": "yes",
     "id": "way/1409784499"
   },
   "geometry": {
@@ -38170,9 +38174,7 @@
     "addr:postcode": "8004",
     "addr:street": "Lutherstrasse",
     "amenity": "kindergarten",
-    "name": "Stauffacher",
-    "operator": "Globalgarden Childcare",
-    "website": "https://www.globegarden.ch/locations/stauffacher",
+    "name": "globegarden childcare",
     "id": "node/890983670"
   },
   "geometry": {

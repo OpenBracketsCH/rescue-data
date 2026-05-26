@@ -5508,6 +5508,31 @@
 },
 {
   "type": "Feature",
+  "id": "way/1522180186",
+  "properties": {
+    "barrier": "gate",
+    "id": "way/1522180186"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.8571321,
+        47.1878918
+      ],
+      [
+        8.8571437,
+        47.1879092
+      ],
+      [
+        8.8571558,
+        47.1879283
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/25427486",
   "properties": {
     "barrier": "gate",
@@ -16592,8 +16617,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7925958,
-      47.2076308
+      8.7926107,
+      47.2076202
     ]
   }
 },
@@ -38746,6 +38771,22 @@
     "coordinates": [
       8.8168462,
       47.3057289
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3336629934",
+  "properties": {
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "node/3336629934"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5236759,
+      47.361432
     ]
   }
 },
@@ -89697,6 +89738,24 @@
 },
 {
   "type": "Feature",
+  "id": "node/11166528019",
+  "properties": {
+    "barrier": "lift_gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "motor_vehicle": "no",
+    "id": "node/11166528019"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6977194,
+      47.297711
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/11169114168",
   "properties": {
     "barrier": "gate",
@@ -112188,6 +112247,37 @@
     "coordinates": [
       8.7621349,
       47.550947
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13879188044",
+  "properties": {
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "node/13879188044"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5271743,
+      47.3684798
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13880698874",
+  "properties": {
+    "barrier": "gate",
+    "id": "node/13880698874"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8571437,
+      47.1879092
     ]
   }
 }

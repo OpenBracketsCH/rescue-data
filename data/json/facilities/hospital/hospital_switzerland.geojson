@@ -2755,6 +2755,7 @@
     "addr:street:de": "Vogelsang",
     "addr:street:fr": "Chante-Merle",
     "amenity": "hospital",
+    "check_date": "2026-05-25",
     "contact:phone": "+41 32 324 24 24",
     "contact:website": "https://www.spitalzentrum-biel.ch",
     "emergency": "yes",
