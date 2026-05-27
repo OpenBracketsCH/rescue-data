@@ -10266,6 +10266,7 @@
   "id": "node/9242873442",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2026-05-27",
     "contact:city": "Zürich",
     "contact:housenumber": "5",
     "contact:phone": "+41 44 413 75 01",
@@ -15500,10 +15501,15 @@
   "type": "Feature",
   "id": "node/12072224253",
   "properties": {
+    "addr:city": "Kloten",
     "addr:housenumber": "15",
+    "addr:postcode": "8302",
     "addr:street": "Schürbungertweg",
     "amenity": "childcare",
+    "email": "info@zimbokita.ch",
+    "level": "0",
     "name": "Zimbo",
+    "opening_hours": "Mo-Fr 07:00-18:45",
     "website": "https://zimbokita.ch/",
     "id": "node/12072224253"
   },
@@ -16484,6 +16490,29 @@
     "coordinates": [
       8.511814,
       47.4164847
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13882826505",
+  "properties": {
+    "addr:city": "Kloten",
+    "addr:housenumber": "14",
+    "addr:postcode": "8302",
+    "addr:street": "Industriestrasse",
+    "amenity": "childcare",
+    "email": "kloten@kita-einzigartig.ch",
+    "name": "Kita Einzigartig Kloten",
+    "operator": "kita EINZIGARTIG",
+    "website": "https://kita-einzigartig.ch",
+    "id": "node/13882826505"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.590434,
+      47.449295
     ]
   }
 }

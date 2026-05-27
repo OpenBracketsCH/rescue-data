@@ -5838,6 +5838,7 @@
   "id": "node/1516304507",
   "properties": {
     "amenity": "fire_station",
+    "check_date": "2026-05-26",
     "name": "Feuerwehr Pfäffikon",
     "operator": "Gemeinde Pfäffikon",
     "id": "node/1516304507"
