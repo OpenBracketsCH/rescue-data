@@ -19973,7 +19973,8 @@
     "amenity": "school",
     "building": "school",
     "check_date": "2025-04-15",
-    "name": "Schulhaus Städtli",
+    "name": "Primarschulhaus Städtli",
+    "operator": "Schule Eglisau",
     "id": "way/50305413"
   },
   "geometry": {
@@ -85121,7 +85122,9 @@
     "addr:street": "Obergass",
     "amenity": "school",
     "building": "school",
-    "name": "Sekundarschulhaus Städtli",
+    "name": "Primarschulhaus Städtli",
+    "operator": "Schule Eglisau",
+    "operator:type": "public",
     "id": "way/727689884"
   },
   "geometry": {

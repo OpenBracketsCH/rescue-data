@@ -5060,7 +5060,7 @@
     "building": "yes",
     "email": "info@kinderhospiz-flamingo.ch",
     "isced:level": "0",
-    "name": "Kinderhospiz Flaming",
+    "name": "Kinderhospiz Flamingo",
     "operator": "Kinderhospiz Flamingo AG",
     "phone": "+41 44 811 77 77",
     "website": "https://www.kinderhospiz-flamingo.ch/",
@@ -8223,10 +8223,7 @@
   "id": "node/7070399495",
   "properties": {
     "amenity": "childcare",
-    "check_date": "2024-04-01",
-    "name": "Kita Fugu",
-    "website": "https://www.kitafugu.ch",
-    "wheelchair": "no",
+    "name": "Kita KiBiZ",
     "id": "node/7070399495"
   },
   "geometry": {

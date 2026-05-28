@@ -49650,6 +49650,7 @@
   "properties": {
     "access": "destination",
     "barrier": "gate",
+    "ref": "3",
     "id": "node/6645931798"
   },
   "geometry": {
@@ -49696,6 +49697,7 @@
   "properties": {
     "access": "destination",
     "barrier": "gate",
+    "ref": "4",
     "id": "node/6649905053"
   },
   "geometry": {
@@ -96754,6 +96756,38 @@
     "coordinates": [
       8.5271743,
       47.3684798
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13890784749",
+  "properties": {
+    "barrier": "gate",
+    "mapillary": "846905689234375",
+    "id": "node/13890784749"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5560847,
+      47.359721
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13890939661",
+  "properties": {
+    "barrier": "gate",
+    "locked": "yes",
+    "id": "node/13890939661"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7441775,
+      47.5731236
     ]
   }
 }

@@ -3422,6 +3422,7 @@
     "addr:postcode": "8706",
     "amenity": "fire_station",
     "building": "yes",
+    "check_date": "2026-05-27",
     "name": "Depot Toggwil",
     "operator": "Stützpunktfeuerwehr Meilen",
     "id": "way/195802705"
