@@ -13525,7 +13525,10 @@
   "type": "Feature",
   "id": "way/36638427",
   "properties": {
+    "addr:city": "Truttikon",
     "addr:housename": "Schulhaus Truttikon",
+    "addr:housenumber": "6",
+    "addr:postcode": "8467",
     "addr:street": "Schulhausstrasse",
     "amenity": "school",
     "building": "school",

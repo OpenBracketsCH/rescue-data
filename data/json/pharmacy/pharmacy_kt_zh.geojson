@@ -4592,6 +4592,28 @@
 },
 {
   "type": "Feature",
+  "id": "node/3645923695",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "49",
+    "addr:postcode": "8001",
+    "addr:street": "Löwenstrasse",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Victoria  Apotheke",
+    "id": "node/3645923695"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5372618,
+      47.3761713
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3681157582",
   "properties": {
     "addr:city": "Schlieren",

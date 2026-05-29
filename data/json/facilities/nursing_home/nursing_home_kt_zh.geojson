@@ -9115,148 +9115,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/123728620",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "186",
-    "addr:postcode": "8005",
-    "addr:street": "Limmatstrasse",
-    "alt_name": "Gesundheitszentrum für das Alter Limmat",
-    "amenity": "social_facility",
-    "building:levels": "2",
-    "capacity": "91+8",
-    "check_date": "2024-06-22",
-    "email": "gfa-limmat@zuerich.ch",
-    "name": "Gesundheitszentrum für das Alter Limmat",
-    "operator": "Stadt Zürich, GUD",
-    "owner": "Immobilien Stadt Zürich (IMMO)",
-    "phone": "+41 44 414 28 88",
-    "roof:levels": "5",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "website": "https://www.stadt-zuerich.ch/gesundheitszentren/de/standorte/wohnen-im-alter/limmat.html",
-    "wheelchair": "yes",
-    "id": "way/123728620"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5299023,
-          47.3872486
-        ],
-        [
-          8.5297656,
-          47.3871645
-        ],
-        [
-          8.5298837,
-          47.3870775
-        ],
-        [
-          8.5298847,
-          47.3870243
-        ],
-        [
-          8.5299702,
-          47.3869638
-        ],
-        [
-          8.5300049,
-          47.3869786
-        ],
-        [
-          8.5304474,
-          47.3866524
-        ],
-        [
-          8.5306164,
-          47.3867608
-        ],
-        [
-          8.530524,
-          47.3868357
-        ],
-        [
-          8.5305437,
-          47.3868504
-        ],
-        [
-          8.5305451,
-          47.3868728
-        ],
-        [
-          8.5305122,
-          47.3868753
-        ],
-        [
-          8.5304832,
-          47.386893
-        ],
-        [
-          8.5304497,
-          47.3868736
-        ],
-        [
-          8.5303684,
-          47.3869326
-        ],
-        [
-          8.5303736,
-          47.386979
-        ],
-        [
-          8.5302579,
-          47.3870682
-        ],
-        [
-          8.5301952,
-          47.3870308
-        ],
-        [
-          8.5301758,
-          47.3870506
-        ],
-        [
-          8.5302314,
-          47.3870909
-        ],
-        [
-          8.5300228,
-          47.3872321
-        ],
-        [
-          8.5299741,
-          47.3871985
-        ],
-        [
-          8.5299333,
-          47.3872256
-        ],
-        [
-          8.5299667,
-          47.3872456
-        ],
-        [
-          8.529965,
-          47.3872719
-        ],
-        [
-          8.5299402,
-          47.3872715
-        ],
-        [
-          8.5299023,
-          47.3872486
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/124013163",
   "properties": {
     "addr:city": "Zürich",
@@ -26620,6 +26478,39 @@
     "coordinates": [
       8.5599634,
       47.4134397
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9551800191",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "186",
+    "addr:postcode": "8005",
+    "addr:street": "Limmatstrasse",
+    "alt_name": "Gesundheitszentrum für das Alter Limmat",
+    "amenity": "social_facility",
+    "capacity": "91+8",
+    "check_date": "2025-10-13",
+    "email": "gfa-limmat@zuerich.ch",
+    "name": "Gesundheitszentrum für das Alter Limmat",
+    "operator": "Stadt Zürich, GUD",
+    "owner": "Immobilien Stadt Zürich (IMMO)",
+    "phone": "+41 44 414 28 88",
+    "public_bookcase:type": "metal_cabinet",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "website": "https://www.stadt-zuerich.ch/gesundheitszentren/de/standorte/wohnen-im-alter/limmat.html",
+    "wheelchair": "yes",
+    "id": "node/9551800191"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5301843,
+      47.3869698
     ]
   }
 },
