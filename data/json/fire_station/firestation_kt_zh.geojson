@@ -4033,6 +4033,7 @@
     "addr:street": "Alte Schulstrasse",
     "amenity": "fire_station",
     "building": "yes",
+    "check_date": "2026-05-29",
     "name": "Feuerwehr Bubikon",
     "website": "https://feuerwehr-bubikon.ch/",
     "id": "way/263429427"

@@ -5638,7 +5638,7 @@
   "id": "node/2778215145",
   "properties": {
     "amenity": "childcare",
-    "check_date": "2023-10-22",
+    "check_date": "2026-05-29",
     "email": "info@kitaplus.ch",
     "name": "KiTa plus",
     "phone": "+41 55 243 32 46",
@@ -9241,6 +9241,7 @@
     "addr:postcode": "8050",
     "addr:street": "Thurgauerstrasse",
     "amenity": "childcare",
+    "check_date": "2026-05-29",
     "contact:email": "info@kwsoft.ch",
     "contact:facebook": "https://www.facebook.com/globegarden/",
     "contact:phone": "+41 44 309 13 33",

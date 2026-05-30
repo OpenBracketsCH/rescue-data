@@ -55497,6 +55497,7 @@
     "addr:street:de": "Bahnhofplatz",
     "addr:street:fr": "Place de la Gare",
     "amenity": "clinic",
+    "check_date": "2026-05-29",
     "contact:facebook": "https://www.facebook.com/MEDINBielBienne/",
     "email": "direktion@szb-chb.ch",
     "healthcare": "clinic",
