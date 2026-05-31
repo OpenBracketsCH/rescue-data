@@ -23118,6 +23118,7 @@
     "addr:postcode": "6850",
     "addr:street": "Via Alfonso Turconi",
     "amenity": "hospital",
+    "check_date": "2026-05-30",
     "emergency": "yes",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",

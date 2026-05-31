@@ -1077,6 +1077,7 @@
     "addr:street": "Wildenweg",
     "amenity": "kindergarten",
     "building": "school",
+    "check_date": "2026-05-30",
     "contact:phone": "+41 44 413 23 77",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/riedhof/ueberuns/standorte/kindergaerten.html#wildenweg_1_2",
     "name": "Kindergarten Wildenweg 1+2",
@@ -40759,6 +40760,7 @@
   "id": "node/9532579775",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-05-30",
     "contact:city": "Zürich",
     "contact:housenumber": "80",
     "contact:phone": "+41 44 413 32 92",
