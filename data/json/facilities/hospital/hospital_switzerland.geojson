@@ -60135,6 +60135,29 @@
       47.4461793
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13900827542",
+  "properties": {
+    "addr:city": "Muralto",
+    "addr:housenumber": "6",
+    "addr:postcode": "6600",
+    "addr:street": "Via Francesca",
+    "healthcare": "clinic",
+    "healthcare:speciality": "community",
+    "name": "Antenna Icaro",
+    "phone": "0917515929",
+    "website": "https://www.comfamiliare.org/servizi/servizio-per-le-dipendenze-da-sostanze/antenna-icaro-centro-di-competenza/",
+    "id": "node/13900827542"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8059259,
+      46.1738412
+    ]
+  }
 }
 ]
 }

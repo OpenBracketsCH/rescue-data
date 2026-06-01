@@ -44812,6 +44812,7 @@
     "addr:postcode": "8001",
     "addr:street": "Selnaustrasse",
     "amenity": "social_facility",
+    "check_date": "2026-05-31",
     "name": "Sozialzentrum Selnau",
     "operator": "Stadt Zürich, Sozialdepartement",
     "social_facility": "outreach",

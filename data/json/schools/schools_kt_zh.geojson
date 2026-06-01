@@ -16751,6 +16751,7 @@
     "addr:street": "Widmerstrasse",
     "amenity": "school",
     "building": "yes",
+    "check_date": "2026-05-31",
     "name": "Schulhaus Vorder Zelg",
     "id": "way/38778313"
   },
@@ -94638,6 +94639,7 @@
   "id": "way/1194939347",
   "properties": {
     "amenity": "school",
+    "check_date": "2026-05-31",
     "name": "Sekundarschule Vorder Zelg",
     "id": "way/1194939347"
   },
