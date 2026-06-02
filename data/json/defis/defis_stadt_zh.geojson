@@ -18876,6 +18876,29 @@
       47.3861997
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13904087001",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "1st Floor",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 8:00-17:00",
+    "operator": "Salt",
+    "phone": "+41 44 276 30 30",
+    "id": "node/13904087001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5159408,
+      47.3914611
+    ]
+  }
 }
 ]
 }

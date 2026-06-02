@@ -11746,13 +11746,10 @@
   "id": "node/8540767887",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Beim Karton / Glas Sammelplatz",
+    "defibrillator:location": "existiert nicht mehr",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "Gemeinde Aeugst am Albis",
-    "phone": "+41 44 763 50 60",
     "id": "node/8540767887"
   },
   "geometry": {
@@ -43198,14 +43195,13 @@
   "type": "Feature",
   "id": "node/10771317905",
   "properties": {
-    "defibrillator:location": "Carrosserie",
+    "defibrillator:location": "Carrosserie Jud GmbH",
     "description": "während Öffnungszeiten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
     "opening_hours": "Mo 07:00-18:00, Tu-Th 07:00-17:00; Fr 07:00-16:00",
-    "operator": "Carrosserie Jud GmbH",
     "phone": "+41763950909",
     "id": "node/10771317905"
   },
@@ -78986,6 +78982,29 @@
     "coordinates": [
       8.6776719,
       47.6421696
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13904087001",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "1st Floor",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 8:00-17:00",
+    "operator": "Salt",
+    "phone": "+41 44 276 30 30",
+    "id": "node/13904087001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5159408,
+      47.3914611
     ]
   }
 }
