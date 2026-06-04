@@ -6238,6 +6238,7 @@
     "addr:street": "Schwerzistrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2026-06-04",
     "name": "Schulhaus Schwerzi",
     "id": "way/296867567"
   },
