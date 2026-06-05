@@ -3,52 +3,6 @@
 "features": [
 {
   "type": "Feature",
-  "id": "relation/16084378",
-  "properties": {
-    "addr:city": "Kilchberg ZH",
-    "addr:housenumber": "166",
-    "addr:postcode": "8802",
-    "addr:street": "Alte Landstrasse",
-    "amenity": "fire_station",
-    "building": "yes",
-    "name": "Feuerwehr Kilchberg-Rüschlikon",
-    "type": "multipolygon",
-    "id": "relation/16084378"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5453334,
-          47.3192761
-        ],
-        [
-          8.545496,
-          47.3192949
-        ],
-        [
-          8.5454565,
-          47.3194526
-        ],
-        [
-          8.5454457,
-          47.3194937
-        ],
-        [
-          8.5452846,
-          47.3194756
-        ],
-        [
-          8.5453334,
-          47.3192761
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/22453371",
   "properties": {
     "addr:city": "Winterthur",
