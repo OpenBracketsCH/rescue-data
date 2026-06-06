@@ -743,6 +743,56 @@
 },
 {
   "type": "Feature",
+  "id": "way/200793418",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "135",
+    "addr:postcode": "8200",
+    "addr:street": "Mühlentalstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Soziales Wohnen",
+    "operator": "Stadt Schaffhausen",
+    "phone": "+41 52 632 58 02",
+    "social_facility": "assisted_living",
+    "website": "https://www.stadt-schaffhausen.ch/sozialeswohnen/31630",
+    "id": "way/200793418"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6300319,
+          47.7060542
+        ],
+        [
+          8.6300405,
+          47.7059609
+        ],
+        [
+          8.6301752,
+          47.7059673
+        ],
+        [
+          8.6302767,
+          47.7059709
+        ],
+        [
+          8.6302681,
+          47.7060641
+        ],
+        [
+          8.6300319,
+          47.7060542
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/218177090",
   "properties": {
     "addr:city": "Schaffhausen",

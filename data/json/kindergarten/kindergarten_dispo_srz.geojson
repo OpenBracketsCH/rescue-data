@@ -38388,6 +38388,7 @@
   "id": "node/2628766568",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-06-05",
     "name": "Globegarden Childcare",
     "source": "https://www.globegarden.ch/",
     "id": "node/2628766568"
@@ -39960,6 +39961,7 @@
   "id": "node/5170831376",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-06-05",
     "contact:city": "Zürich",
     "contact:housenumber": "150",
     "contact:phone": "+41 44 413 77 24",
@@ -44280,6 +44282,7 @@
   "id": "node/9334527210",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-06-05",
     "contact:city": "Zürich",
     "contact:housenumber": "130",
     "contact:phone": "+41 44 413 77 69",

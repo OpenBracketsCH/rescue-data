@@ -637,6 +637,84 @@
 },
 {
   "type": "Feature",
+  "id": "way/231029285",
+  "properties": {
+    "addr:city": "Morschach",
+    "addr:housenumber": "3",
+    "addr:postcode": "6443",
+    "addr:street": "Degenbalm",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "cdegenbalm@caritas.ch",
+    "name": "Zentrum für Asylsuchende Degenbalm",
+    "old_name": "Hotel Restaurant Degenbalm",
+    "operator": "Caritas Schweiz",
+    "social_facility": "shelter",
+    "social_facility:for": "refugee",
+    "id": "way/231029285"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6233485,
+          46.9810025
+        ],
+        [
+          8.6230619,
+          46.9807222
+        ],
+        [
+          8.623209,
+          46.9806513
+        ],
+        [
+          8.6232557,
+          46.9806976
+        ],
+        [
+          8.6232783,
+          46.9806853
+        ],
+        [
+          8.6233031,
+          46.9807089
+        ],
+        [
+          8.6233136,
+          46.9807038
+        ],
+        [
+          8.6233671,
+          46.9807557
+        ],
+        [
+          8.6234401,
+          46.9807209
+        ],
+        [
+          8.6235013,
+          46.9807812
+        ],
+        [
+          8.6234247,
+          46.980818
+        ],
+        [
+          8.6235265,
+          46.9809171
+        ],
+        [
+          8.6233485,
+          46.9810025
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/257352985",
   "properties": {
     "addr:city": "Brunnen",

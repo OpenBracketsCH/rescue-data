@@ -3219,8 +3219,11 @@
     "addr:postcode": "8548",
     "addr:street": "Islikonerstrasse",
     "amenity": "clinic",
+    "email": "info@forel-klinik.ch",
     "healthcare": "clinic",
-    "name": "Forel-Klinik",
+    "name": "Klinik für Alkohol- und Medikamentenabhängigkeit",
+    "phone": "+41 52 369 11 11",
+    "short_name": "Forel-Klinik",
     "social_facility": "group_home",
     "social_facility:for": "drug_addicted",
     "website": "https://www.forel-klinik.ch/",
@@ -3232,8 +3235,8 @@
     "coordinates": [
       [
         [
-          8.8248276,
-          47.5608475
+          8.8248216,
+          47.5608705
         ],
         [
           8.8251085,
@@ -3292,36 +3295,28 @@
           47.5607635
         ],
         [
-          8.8268201,
-          47.5607554
-        ],
-        [
-          8.8264589,
-          47.5606747
+          8.8267728,
+          47.5607628
         ],
         [
           8.826293,
-          47.5606052
+          47.560621
         ],
         [
-          8.8261163,
-          47.5605715
+          8.8261136,
+          47.5605688
         ],
         [
-          8.8255899,
-          47.5609952
+          8.8254978,
+          47.56109
         ],
         [
-          8.825372,
-          47.5610191
+          8.8248829,
+          47.5608904
         ],
         [
-          8.8248976,
-          47.5608696
-        ],
-        [
-          8.8248276,
-          47.5608475
+          8.8248216,
+          47.5608705
         ]
       ]
     ]
@@ -8178,7 +8173,7 @@
     "healthcare": "rehabilitation",
     "name": "Zürcher RehaZentren | Klinik Wald",
     "opening_hours": "Mo-Su 08:00-20:00",
-    "phone": "+41 55 256 61 11",
+    "phone": "+41 58 256 61 11",
     "website": "https://zhreha.ch/klinik/klinik-wald/",
     "wikidata": "Q61857547",
     "wikipedia": "de:Höhenklinik Wald",
