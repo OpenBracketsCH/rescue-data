@@ -93487,6 +93487,1270 @@
       ]
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "way/1472526989",
+  "properties": {
+    "change:lanes": "yes|no",
+    "destination:int_ref:lanes": "E 41;E 60|",
+    "destination:lanes": "St. Gallen;Flughafen;Nordring Zürich|Zürich-City",
+    "destination:ref:lanes": "A1;A4|",
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "lit": "yes",
+    "maxheight:signed": "no",
+    "maxspeed": "80",
+    "oneway": "yes",
+    "ref": "A4",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through|slight_right",
+    "id": "way/1472526989"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4229575,
+        47.4064073
+      ],
+      [
+        8.4230561,
+        47.4065119
+      ],
+      [
+        8.4233467,
+        47.4068824
+      ],
+      [
+        8.4236345,
+        47.4072219
+      ],
+      [
+        8.4239858,
+        47.4076076
+      ],
+      [
+        8.4243785,
+        47.4080075
+      ],
+      [
+        8.424737,
+        47.4083482
+      ],
+      [
+        8.4249144,
+        47.4085125
+      ],
+      [
+        8.4251025,
+        47.4086737
+      ],
+      [
+        8.425262,
+        47.4088005
+      ],
+      [
+        8.4253936,
+        47.4089006
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1472526992",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "80",
+    "oneway": "yes",
+    "ref": "A1;A4",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "none|none|none|merge_to_left",
+    "id": "way/1472526992"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4326602,
+        47.4128003
+      ],
+      [
+        8.4328719,
+        47.412896
+      ],
+      [
+        8.4330625,
+        47.4129775
+      ],
+      [
+        8.4332689,
+        47.413062
+      ],
+      [
+        8.4334784,
+        47.4131442
+      ],
+      [
+        8.4336949,
+        47.4132247
+      ],
+      [
+        8.4339317,
+        47.4133008
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1473481692",
+  "properties": {
+    "change:lanes": "yes|yes|yes|not_right|no",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "5",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "120",
+    "name": "Katzenseetunnel",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "ref": "A1;A4",
+    "source:maxspeed": "CH:motorway",
+    "surface": "asphalt",
+    "toll": "yes",
+    "tunnel:name": "Katzenseetunnel",
+    "turn:lanes": "none|none|none|none|merge_to_left",
+    "id": "way/1473481692"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4974477,
+        47.4266598
+      ],
+      [
+        8.4976734,
+        47.4266833
+      ],
+      [
+        8.4981569,
+        47.4267353
+      ],
+      [
+        8.4984045,
+        47.4267639
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1473481693",
+  "properties": {
+    "avz": "287",
+    "cs_dir": "2",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "80",
+    "oneway": "yes",
+    "ref": "A1;A4",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "none|none|none|merge_to_left",
+    "id": "way/1473481693"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4868745,
+        47.4254249
+      ],
+      [
+        8.4866927,
+        47.4253776
+      ],
+      [
+        8.4862469,
+        47.4252594
+      ],
+      [
+        8.4858165,
+        47.4251402
+      ],
+      [
+        8.4849351,
+        47.4248956
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1473747920",
+  "properties": {
+    "change:lanes": "yes|yes|not_right|not_left|not_left",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "5",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "ref": "A1;A4",
+    "source:maxspeed": "CH:motorway",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "none|none|none|merge_to_right|slight_right",
+    "id": "way/1473747920"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5145629,
+        47.4310976
+      ],
+      [
+        8.5141731,
+        47.4309707
+      ],
+      [
+        8.513525,
+        47.430756
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1473747921",
+  "properties": {
+    "change:lanes": "yes|yes|yes|not_left|not_left",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "5",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "ref": "A1;A4",
+    "source:maxspeed": "CH:motorway",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "none|none|none|merge_to_right|slight_right",
+    "id": "way/1473747921"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5158794,
+        47.4315171
+      ],
+      [
+        8.5150353,
+        47.4312505
+      ],
+      [
+        8.5145629,
+        47.4310976
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1473747922",
+  "properties": {
+    "avz": "20",
+    "cs_dir": "2",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "5",
+    "lit": "no",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "ref": "A1;A4",
+    "source:maxspeed": "CH:motorway",
+    "ssvz": "850N",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "none|none|none|merge_to_left|merge_to_left",
+    "id": "way/1473747922"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.50968,
+        47.4294668
+      ],
+      [
+        8.5092249,
+        47.4293193
+      ],
+      [
+        8.5087929,
+        47.4291805
+      ],
+      [
+        8.5082913,
+        47.4290244
+      ],
+      [
+        8.5079218,
+        47.4289103
+      ],
+      [
+        8.5075103,
+        47.4287851
+      ],
+      [
+        8.5073026,
+        47.4287239
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1474284209",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "4",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "ref": "A1;A4",
+    "source:maxspeed": "CH:motorway",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "none|none|none|slight_right",
+    "id": "way/1474284209"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5439176,
+        47.4323163
+      ],
+      [
+        8.5443675,
+        47.432201
+      ],
+      [
+        8.5448064,
+        47.4320841
+      ],
+      [
+        8.5451241,
+        47.4319971
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1474284211",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "4",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "ref": "A1;A4",
+    "source:maxspeed": "CH:motorway",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "none|none|none|slight_right",
+    "id": "way/1474284211"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5195582,
+        47.4325388
+      ],
+      [
+        8.51902,
+        47.4324062
+      ],
+      [
+        8.5185674,
+        47.4322897
+      ],
+      [
+        8.5181188,
+        47.43217
+      ],
+      [
+        8.517678,
+        47.4320486
+      ],
+      [
+        8.5172302,
+        47.4319212
+      ],
+      [
+        8.5167945,
+        47.4317934
+      ],
+      [
+        8.5163527,
+        47.4316614
+      ],
+      [
+        8.5158794,
+        47.4315171
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1474756274",
+  "properties": {
+    "change:lanes": "yes|yes|not_right|yes",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "4",
+    "lit": "no",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "ref": "A1;A4",
+    "source:maxspeed": "CH:motorway",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "none|none|none|merge_to_left",
+    "id": "way/1474756274"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5525782,
+        47.4291624
+      ],
+      [
+        8.5527175,
+        47.4290939
+      ],
+      [
+        8.5530997,
+        47.4288997
+      ],
+      [
+        8.5534749,
+        47.4287034
+      ],
+      [
+        8.5539136,
+        47.4284691
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1474756275",
+  "properties": {
+    "change:lanes": "yes|yes|not_right|yes",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "4",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "ref": "A1;A4",
+    "source:maxspeed": "CH:motorway",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "none|none|none|merge_to_left",
+    "id": "way/1474756275"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5453344,
+        47.4320655
+      ],
+      [
+        8.544872,
+        47.4321941
+      ],
+      [
+        8.5444311,
+        47.4323121
+      ],
+      [
+        8.5439793,
+        47.432428
+      ],
+      [
+        8.5435229,
+        47.4325401
+      ],
+      [
+        8.5430789,
+        47.4326447
+      ],
+      [
+        8.5426147,
+        47.4327491
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1474756276",
+  "properties": {
+    "change:lanes": "yes|yes|not_right|yes|yes",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "5",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "ref": "A1;A4",
+    "source:maxspeed": "CH:motorway",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "none|none|none|merge_to_left|merge_to_left",
+    "id": "way/1474756276"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5456418,
+        47.4319775
+      ],
+      [
+        8.5455446,
+        47.4320055
+      ],
+      [
+        8.5453344,
+        47.4320655
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1475431852",
+  "properties": {
+    "change:lanes": "no|no|no",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "placement": "right_of:1",
+    "ref": "A1L",
+    "shoulder:left": "yes",
+    "surface": "asphalt",
+    "toll": "no",
+    "id": "way/1475431852"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5740648,
+        47.4194611
+      ],
+      [
+        8.5740723,
+        47.419198
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1475431853",
+  "properties": {
+    "change:lanes": "no|no|yes",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "placement": "right_of:1",
+    "ref": "A1L",
+    "shoulder:left": "yes",
+    "surface": "asphalt",
+    "toll": "no",
+    "turn:lanes": "none|none|merge_to_left",
+    "id": "way/1475431853"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5740723,
+        47.419198
+      ],
+      [
+        8.5741346,
+        47.418802
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1478465933",
+  "properties": {
+    "destination": "Zürich-City",
+    "highway": "motorway",
+    "lanes": "2",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
+    "oneway": "yes",
+    "ref": "A1L",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1478465933"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.589133,
+        47.4082049
+      ],
+      [
+        8.5887203,
+        47.4082999
+      ],
+      [
+        8.5882732,
+        47.4084038
+      ],
+      [
+        8.5878258,
+        47.408507
+      ],
+      [
+        8.5869308,
+        47.4087117
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1478465934",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "4",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
+    "oneway": "yes",
+    "ref": "A1;A4",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "|||slight_right",
+    "id": "way/1478465934"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5824767,
+        47.4095304
+      ],
+      [
+        8.5829235,
+        47.4094286
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1478465935",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "4",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
+    "oneway": "yes",
+    "ref": "A1;A4",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "|||slight_right",
+    "id": "way/1478465935"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5810968,
+        47.4098537
+      ],
+      [
+        8.5815374,
+        47.4097483
+      ],
+      [
+        8.5820065,
+        47.4096385
+      ],
+      [
+        8.5824767,
+        47.4095304
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1480441463",
+  "properties": {
+    "avz": "286",
+    "cs_dir": "1",
+    "destination:colour:lanes": "|||;;blue",
+    "destination:int_ref:lanes": "E 41;E 60|E 41;E 60||",
+    "destination:lanes": "St. Gallen;Schaffhausen;Winterthur|St. Gallen;Schaffhausen;Winterthur|Rapperswil-Jona;Uster;Brüttisellen|",
+    "destination:ref:lanes": "A1;A4|A1;A4|A15|",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "4",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
+    "oneway": "yes",
+    "ref": "A1;A4",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "none|none|none|merge_to_left",
+    "id": "way/1480441463"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6177169,
+        47.4106902
+      ],
+      [
+        8.6181422,
+        47.4108541
+      ],
+      [
+        8.6185524,
+        47.4110168
+      ],
+      [
+        8.6189621,
+        47.4111835
+      ],
+      [
+        8.6193625,
+        47.4113512
+      ],
+      [
+        8.6197673,
+        47.4115253
+      ],
+      [
+        8.6201608,
+        47.4116992
+      ],
+      [
+        8.6205577,
+        47.4118794
+      ],
+      [
+        8.6209487,
+        47.4120617
+      ],
+      [
+        8.6211545,
+        47.4121588
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1480441464",
+  "properties": {
+    "avz": "286",
+    "cs_dir": "1",
+    "destination:colour:lanes": "||;;blue",
+    "destination:int_ref:lanes": "E 41;E 60|E 41;E 60|",
+    "destination:lanes": "St. Gallen;Schaffhausen;Winterthur|St. Gallen;Schaffhausen;Winterthur|Rapperswil-Jona;Uster;Brüttisellen",
+    "destination:ref:lanes": "A1;A4|A1;A4|A15",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
+    "oneway": "yes",
+    "ref": "A1;A4",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1480441464"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6132257,
+        47.4092295
+      ],
+      [
+        8.6134518,
+        47.4092923
+      ],
+      [
+        8.6138867,
+        47.4094154
+      ],
+      [
+        8.6143228,
+        47.4095428
+      ],
+      [
+        8.6147518,
+        47.4096728
+      ],
+      [
+        8.6151923,
+        47.4098106
+      ],
+      [
+        8.6156218,
+        47.4099492
+      ],
+      [
+        8.6160483,
+        47.410091
+      ],
+      [
+        8.6164679,
+        47.4102349
+      ],
+      [
+        8.6168939,
+        47.4103858
+      ],
+      [
+        8.6173122,
+        47.4105386
+      ],
+      [
+        8.6175234,
+        47.4106167
+      ],
+      [
+        8.6177169,
+        47.4106902
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1482376020",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
+    "oneway": "yes",
+    "ref": "A1;A4",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "none|none|none|merge_to_left",
+    "id": "way/1482376020"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6316063,
+        47.4189314
+      ],
+      [
+        8.6318524,
+        47.4190951
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1482376021",
+  "properties": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "3",
+    "layer": "2",
+    "lit": "yes",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
+    "oneway": "yes",
+    "ref": "A1;A4",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1482376021"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6301923,
+        47.4179389
+      ],
+      [
+        8.6305447,
+        47.4181937
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1482376022",
+  "properties": {
+    "change:lanes": "yes|not_right|no",
+    "destination:colour:lanes": "||;;blue",
+    "destination:int_ref:lanes": "E 41;E 60|E 41;E 60|",
+    "destination:lanes": "Sankt Gallen;Schaffhausen;Winterthur|Sankt Gallen;Schaffhausen;Winterthur|Rapperswil-Jona;Uster;Wangen",
+    "destination:ref:lanes": "A1;A4|A1;A4|A15",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "100",
+    "maxspeed:variable": "yes",
+    "oneway": "yes",
+    "placement": "middle_of:2",
+    "ref": "A1;A4",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "none|none|slight_right",
+    "id": "way/1482376022"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.6262421,
+        47.4150465
+      ],
+      [
+        8.6262867,
+        47.4150747
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1498907763",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "4",
+    "lit": "no",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "placement": "middle_of:2",
+    "ref": "A1;A4",
+    "shoulder:right": "yes",
+    "source:maxspeed": "CH:motorway",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "|||slight_right",
+    "id": "way/1498907763"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.7049174,
+        47.4540903
+      ],
+      [
+        8.7046766,
+        47.4539298
+      ],
+      [
+        8.7044921,
+        47.4538076
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1507991439",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "4",
+    "lit": "no",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "A1;A4",
+    "shoulder:right": "yes",
+    "source:maxspeed": "CH:motorway",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "|||merge_to_left",
+    "id": "way/1507991439"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.704728,
+        47.4774251
+      ],
+      [
+        8.7047321,
+        47.477345
+      ],
+      [
+        8.7047419,
+        47.4770238
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1507991440",
+  "properties": {
+    "destination:lanes": "St. Gallen;Schaffhausen;Winterthur-Wülflingen|St. Gallen;Schaffhausen;Winterthur-Wülflingen|Winterthur-Töss|Winterthur-Töss",
+    "highway": "motorway",
+    "int_ref": "E 41;E 60",
+    "lanes": "4",
+    "lit": "no",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "A1;A4",
+    "source:maxspeed": "CH:motorway",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "||merge_to_right|slight_right",
+    "id": "way/1507991440"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.7049285,
+        47.4757249
+      ],
+      [
+        8.7049295,
+        47.4760545
+      ],
+      [
+        8.7049296,
+        47.4764689
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1508425715",
+  "properties": {
+    "alt_name": "Zugerautobahn",
+    "destination:colour:lanes": "white|green;blue;blue|green;blue;blue",
+    "destination:ref:lanes": "|;;4|;;4",
+    "destination:symbol:lanes": "industry||",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "80",
+    "nat_name": "N14",
+    "old_name": "A4a",
+    "oneway": "yes",
+    "ref": "A14",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "left|through|through;right",
+    "id": "way/1508425715"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.5541205,
+        47.2115432
+      ],
+      [
+        8.5548254,
+        47.2115089
+      ],
+      [
+        8.5548419,
+        47.2115092
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1509967585",
+  "properties": {
+    "destination": "Birmensdorf",
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxspeed:variable": "obstruction",
+    "oneway": "yes",
+    "overtaking:hgv": "no",
+    "ref": "A3;A4",
+    "shoulder:right": "yes",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1509967585"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4196878,
+        47.3734793
+      ],
+      [
+        8.4198958,
+        47.3728195
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1509967586",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "A3;A4",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1509967586"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.420252,
+        47.3721624
+      ],
+      [
+        8.4201336,
+        47.3724654
+      ],
+      [
+        8.4200101,
+        47.372835
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1523126736",
+  "properties": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "int_ref": "E 60",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "A1",
+    "surface": "asphalt",
+    "toll": "yes",
+    "id": "way/1523126736"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.7154855,
+        47.5230907
+      ],
+      [
+        8.7157668,
+        47.5230657
+      ]
+    ]
+  }
 }
 ]
 }

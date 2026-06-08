@@ -30188,8 +30188,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4965483,
-      47.6893432
+      8.4965464,
+      47.6893264
     ]
   }
 },
@@ -63317,7 +63317,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "8.00 - 17.00",
+    "opening_hours": "08:00-17:00",
     "operator": "Gemeinde",
     "id": "node/11241007938"
   },
@@ -69742,7 +69742,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Th07:30-12:00, 13:00-17:30, Fr 07:30-12:00, 13:00-16:00 Sa 10:00-14:00",
+    "opening_hours": "Mo-Th 07:30-12:00,13:00-17:30, Fr 07:30-12:00,13:00-16:00, Sa 10:00-14:00",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
     "id": "node/11741303826"
@@ -78728,11 +78728,11 @@
   "properties": {
     "access": "permissive",
     "defibrillator:location": "Glattalstrasse 516",
-    "description": "Wärend Öffnungszeiten",
+    "description": "Während Öffnungszeiten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "MO-FR 08:00 - 17:00",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "Privat",
     "phone": "+41449179200",
     "id": "node/12169855101"
@@ -86412,7 +86412,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "2",
-    "opening_hours": "MO-FR 8:00-17:00",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "Firma LAPP SWISS AG",
     "id": "node/12652365701"
   },
@@ -96214,25 +96214,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/13434764601",
-  "properties": {
-    "defibrillator:location": "Schulhaus Zürich west neben den eingnag",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "6",
-    "id": "node/13434764601"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4788206,
-      47.3825881
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/13437169522",
   "properties": {
     "access": "yes",
@@ -97561,7 +97542,7 @@
     "indoor": "yes",
     "level": "0",
     "name": "Asib Wohngenossenschaft",
-    "opening_hours": "Mo-Do 08:11:30-13:30-16:00 Fr 08:00-11:30",
+    "opening_hours": "Mo-Th 08:00-11:30, 13:30-16:00; Fr 08:00-11:30",
     "operator": "Lifetec AG",
     "phone": "+41 800 122 144",
     "ref": "1638LTM",
@@ -101438,6 +101419,47 @@
     "coordinates": [
       8.7033854,
       47.4484973
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13916539601",
+  "properties": {
+    "defibrillator:location": "Geschäftshaus Aurum",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator": "FM Team",
+    "id": "node/13916539601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5668799,
+      47.2848191
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13917709225",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Aussenwand des Gebäudes",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/13917709225"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6440649,
+      47.3710447
     ]
   }
 }
