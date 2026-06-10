@@ -16572,6 +16572,7 @@
   "id": "node/1624503908",
   "properties": {
     "barrier": "gate",
+    "description": "path may sometimes lead through a cow pasture during summer but entry is guaranteed through the documented gates",
     "id": "node/1624503908"
   },
   "geometry": {

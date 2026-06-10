@@ -54790,6 +54790,31 @@
 },
 {
   "type": "Feature",
+  "id": "node/7261353797",
+  "properties": {
+    "addr:city": "Vevey",
+    "addr:housenumber": "3",
+    "addr:postcode": "1800",
+    "addr:street": "Place de la Gare",
+    "email": "info@cmgv.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general;paediatrics",
+    "name": "Centre médical Gare de Vevey",
+    "opening_hours": "Mo-Fr 09:00-18:00 open \"Consultations et permanence\"; Sa-Su 10:00-17:00 open \"Permanence\"",
+    "phone": "+41 21 566 59 50",
+    "website": "https://cmgv.ch/",
+    "id": "node/7261353797"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.843128,
+      46.4630117
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/7315912473",
   "properties": {
     "amenity": "hospital",

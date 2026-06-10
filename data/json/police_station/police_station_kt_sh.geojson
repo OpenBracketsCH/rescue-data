@@ -195,20 +195,20 @@
   "id": "node/4428671449",
   "properties": {
     "addr:city": "Thayngen",
-    "addr:housenumber": "32",
+    "addr:housenumber": "33",
     "addr:postcode": "8240",
-    "addr:street": "Dorfstrasse",
+    "addr:street": "Biberstrasse",
     "amenity": "police",
     "emergency_telephone_code": "+41 52 624 24 24",
-    "name": "Polizeistation Thayngen",
+    "name": "Polizeistation Reiat",
     "operator": "Schaffhauser Polizei",
     "id": "node/4428671449"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7103224,
-      47.7475949
+      8.7059185,
+      47.7490598
     ]
   }
 },
