@@ -30551,6 +30551,7 @@
     "addr:street": "Eichwisstrasse",
     "amenity": "school",
     "building": "yes",
+    "check_date": "2026-06-11",
     "name": "Schulhaus Tobel 1",
     "source": "bing",
     "id": "way/90704749"
@@ -30791,6 +30792,7 @@
     "addr:street": "Eichwisstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2026-06-12",
     "name": "Schulhaus Tobel 2",
     "id": "way/91073031"
   },
@@ -62411,6 +62413,7 @@
     "addr:postcode": "8634",
     "addr:street": "Eichwisstrasse",
     "amenity": "school",
+    "check_date": "2026-06-11",
     "isced:level": "1",
     "name": "Schulhaus Tobel",
     "id": "way/208926555"

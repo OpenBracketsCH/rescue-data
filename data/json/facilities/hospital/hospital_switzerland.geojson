@@ -59415,6 +59415,7 @@
   "id": "node/13047715138",
   "properties": {
     "addr:city": "Davos",
+    "addr:country": "CH",
     "addr:housenumber": "4",
     "addr:postcode": "7270",
     "addr:street": "Promenade",
