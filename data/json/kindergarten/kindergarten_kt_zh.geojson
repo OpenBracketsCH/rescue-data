@@ -43090,6 +43090,7 @@
     "addr:postcode": "8304",
     "addr:street": "Engenbüelstrasse",
     "amenity": "kindergarten",
+    "check_date": "2026-06-13",
     "name": "Kid's Paradise Montessori",
     "preschool": "yes",
     "id": "node/10006356141"
@@ -43097,8 +43098,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5974193,
-      47.4222968
+      8.5974911,
+      47.422287
     ]
   }
 },

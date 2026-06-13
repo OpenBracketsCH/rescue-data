@@ -96310,6 +96310,7 @@
     "building": "school",
     "building:levels": "4",
     "grades": "1-4",
+    "name": "Schule Nordstern",
     "operator": "Stadt Zürich",
     "operator:type": "government",
     "id": "way/1312602999"
