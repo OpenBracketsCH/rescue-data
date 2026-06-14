@@ -21401,6 +21401,7 @@
   "id": "node/1682321624",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "1",
     "id": "node/1682321624"
   },
   "geometry": {
