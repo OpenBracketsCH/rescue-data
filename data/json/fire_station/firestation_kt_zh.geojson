@@ -6829,6 +6829,7 @@
   "id": "node/11361638785",
   "properties": {
     "amenity": "fire_station",
+    "check_date": "2026-06-14",
     "emergency:phone": "118",
     "name": "Feuerwehr Hittnau",
     "website": "https://www.fwhittnau.ch/",

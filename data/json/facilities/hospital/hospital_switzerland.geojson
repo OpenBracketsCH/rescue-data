@@ -59414,7 +59414,7 @@
   "type": "Feature",
   "id": "node/13047715138",
   "properties": {
-    "addr:city": "Davos",
+    "addr:city": "Davos Platz",
     "addr:country": "CH",
     "addr:housenumber": "4",
     "addr:postcode": "7270",

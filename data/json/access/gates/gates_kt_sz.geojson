@@ -8101,6 +8101,23 @@
       47.1879092
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13938061169",
+  "properties": {
+    "barrier": "lift_gate",
+    "lift_gate:type": "single",
+    "locked": "yes",
+    "id": "node/13938061169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7011437,
+      47.170802
+    ]
+  }
 }
 ]
 }
