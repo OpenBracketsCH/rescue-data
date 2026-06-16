@@ -20125,57 +20125,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/327217527",
-  "properties": {
-    "addr:city": "Egg",
-    "addr:housenumber": "4",
-    "addr:postcode": "8132",
-    "addr:street": "Sonnenhofstrasse",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kindergarten Sonnenhof",
-    "toilets:wheelchair": "yes",
-    "wheelchair": "yes",
-    "id": "way/327217527"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.692006,
-          47.2955313
-        ],
-        [
-          8.6920201,
-          47.2954521
-        ],
-        [
-          8.6920863,
-          47.2954575
-        ],
-        [
-          8.6921,
-          47.2953802
-        ],
-        [
-          8.6922449,
-          47.295392
-        ],
-        [
-          8.6922171,
-          47.2955486
-        ],
-        [
-          8.692006,
-          47.2955313
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/345327820",
   "properties": {
     "addr:city": "Schwerzenbach",
@@ -32895,6 +32844,42 @@
         [
           8.6867338,
           47.3924111
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1529761895",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kindergarten Sonnenhof",
+    "id": "way/1529761895"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6918829,
+          47.2952622
+        ],
+        [
+          8.6923141,
+          47.2953325
+        ],
+        [
+          8.692275,
+          47.2955669
+        ],
+        [
+          8.6918017,
+          47.295521
+        ],
+        [
+          8.6918829,
+          47.2952622
         ]
       ]
     ]

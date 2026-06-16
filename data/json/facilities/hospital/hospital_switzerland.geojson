@@ -16794,6 +16794,7 @@
   "id": "way/189529423",
   "properties": {
     "amenity": "hospital",
+    "check_date": "2026-06-15",
     "contact:website": "https://www.felixplatter.ch/",
     "healthcare": "hospital",
     "name": "Felix-Platter-Spital",
@@ -22297,8 +22298,12 @@
           47.5602101
         ],
         [
-          8.8256249,
-          47.5595543
+          8.8256172,
+          47.5595688
+        ],
+        [
+          8.8256668,
+          47.5595739
         ],
         [
           8.8259853,
