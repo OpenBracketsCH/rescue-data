@@ -21635,6 +21635,7 @@
   "id": "way/416264416",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-06-16",
     "name": "Kindergarten Bannhalde",
     "id": "way/416264416"
   },
@@ -26225,6 +26226,7 @@
     "addr:street": "Bannhaldenstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2026-06-16",
     "name": "Kindergarten Bannhalde",
     "id": "way/788458390"
   },
@@ -32880,6 +32882,76 @@
         [
           8.6918829,
           47.2952622
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1530293709",
+  "properties": {
+    "addr:city": "Wallisellen",
+    "addr:housenumber": "10",
+    "addr:postcode": "8304",
+    "addr:street": "Engenbüelstrasse",
+    "amenity": "kindergarten",
+    "check_date": "2026-06-13",
+    "name": "Kid's Paradise Montessori",
+    "preschool": "yes",
+    "id": "way/1530293709"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5975507,
+          47.4222586
+        ],
+        [
+          8.5976601,
+          47.4222241
+        ],
+        [
+          8.5976768,
+          47.4222461
+        ],
+        [
+          8.5976855,
+          47.4222581
+        ],
+        [
+          8.5977794,
+          47.4223856
+        ],
+        [
+          8.5976044,
+          47.4224329
+        ],
+        [
+          8.5975853,
+          47.4224299
+        ],
+        [
+          8.597436,
+          47.4224079
+        ],
+        [
+          8.5974562,
+          47.4223496
+        ],
+        [
+          8.5974432,
+          47.4223475
+        ],
+        [
+          8.597479,
+          47.4222472
+        ],
+        [
+          8.5975507,
+          47.4222586
         ]
       ]
     ]
@@ -43063,28 +43135,6 @@
     "coordinates": [
       8.65508,
       47.232485
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10006356141",
-  "properties": {
-    "addr:city": "Wallisellen",
-    "addr:housenumber": "10",
-    "addr:postcode": "8304",
-    "addr:street": "Engenbüelstrasse",
-    "amenity": "kindergarten",
-    "check_date": "2026-06-13",
-    "name": "Kid's Paradise Montessori",
-    "preschool": "yes",
-    "id": "node/10006356141"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5974911,
-      47.422287
     ]
   }
 },

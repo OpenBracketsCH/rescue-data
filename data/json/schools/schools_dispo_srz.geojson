@@ -35996,6 +35996,7 @@
   "id": "way/109298074",
   "properties": {
     "amenity": "school",
+    "check_date": "2026-06-17",
     "name": "Schule Hegifeld",
     "operator": "Stadt Winterthur",
     "operator:type": "public",
@@ -129212,33 +129213,6 @@
     "coordinates": [
       8.5265067,
       47.3703693
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9702104880",
-  "properties": {
-    "amenity": "school",
-    "contact:city": "Zürich",
-    "contact:email": "info@tourismus-kv.ch",
-    "contact:housenumber": "235",
-    "contact:phone": "+41 44 380 18 08",
-    "contact:postcode": "8005",
-    "contact:street": "Heinrichstrasse",
-    "contact:website": "https://www.tourismus-kv.ch/",
-    "isced:level": "3",
-    "name": "SHT Schweizer Handelsschule für Tourismus",
-    "operator": "Schweizer Handelsschule für Tourismus (SHT) - powered by Abreise AG",
-    "operator:type": "private",
-    "short_name": "SHT",
-    "id": "node/9702104880"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5230797,
-      47.3884984
     ]
   }
 },
