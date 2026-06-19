@@ -60669,6 +60669,28 @@
       47.3981184
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13949955133",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Frauentreff",
+    "opening_hours": "Th-Su 11:15-18:30",
+    "operator": "Stadt Zürich",
+    "phone": "+41 44 415 36 20",
+    "social_facility": "outreach",
+    "social_facility:for": "woman",
+    "website": "https://www.stadt-zuerich.ch/de/lebenslagen/unterstuetzung-und-beratung/persoenliche-beratung/treffpunkte-drogenkonsumraeume/treffpunkte/frauentreff.html",
+    "id": "node/13949955133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5239551,
+      47.3792955
+    ]
+  }
 }
 ]
 }
