@@ -12630,18 +12630,18 @@
     "amenity": "childcare",
     "contact:city": "Zürich",
     "contact:housenumber": "3",
-    "contact:phone": "+41 44 413 08 31",
+    "contact:phone": "+41 44 413 08 18",
     "contact:postcode": "8050",
     "contact:street": "Saatlenfussweg",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/leutschenbach/betreuung/standorte.html",
-    "name": "Kinderhort Leutschenbach 1+2+3+5 - Morgen-Mittag-Abend",
+    "name": "Leutschenbach 1 (Morgentisch)",
     "id": "node/9509951818"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.562394,
-      47.4134299
+      8.5626901,
+      47.413394
     ]
   }
 },
@@ -16514,6 +16514,72 @@
     "coordinates": [
       8.590434,
       47.449295
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13951919722",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "3",
+    "contact:phone": "+41 44 413 08 18",
+    "contact:postcode": "8050",
+    "contact:street": "Saatlenfussweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/leutschenbach/betreuung/standorte.html",
+    "name": "Leutschenbach 4 (Mittag-/Abendhort)",
+    "id": "node/13951919722"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5615186,
+      47.4139232
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13951919723",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "3",
+    "contact:phone": "+41 44 413 08 18",
+    "contact:postcode": "8050",
+    "contact:street": "Saatlenfussweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/leutschenbach/betreuung/standorte.html",
+    "name": "Leutschenbach 3 (Mittag-/Abendhort)",
+    "id": "node/13951919723"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5626941,
+      47.4133739
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13951919724",
+  "properties": {
+    "amenity": "childcare",
+    "contact:city": "Zürich",
+    "contact:housenumber": "3",
+    "contact:phone": "+41 44 413 08 18",
+    "contact:postcode": "8050",
+    "contact:street": "Saatlenfussweg",
+    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/leutschenbach/betreuung/standorte.html",
+    "name": "Leutschenbach 2 (Mittaghort)",
+    "id": "node/13951919724"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5627537,
+      47.4133856
     ]
   }
 }

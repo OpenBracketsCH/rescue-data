@@ -45672,30 +45672,9 @@
 },
 {
   "type": "Feature",
-  "id": "node/9509951819",
-  "properties": {
-    "amenity": "kindergarten",
-    "contact:city": "Zürich",
-    "contact:housenumber": "3",
-    "contact:phone": "+41 44 413 08 31",
-    "contact:postcode": "8050",
-    "contact:street": "Saatlenfussweg",
-    "contact:website": "https://www.stadt-zuerich.ch/schulen/de/leutschenbach/ueberuns/standorte/kindergaerten.html",
-    "name": "Kindergarten Leutschenbach 1",
-    "id": "node/9509951819"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5623905,
-      47.4135422
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9509968851",
   "properties": {
+    "alt_name": "Kindergarten MaW",
     "amenity": "kindergarten",
     "contact:city": "Zürich",
     "contact:housenumber": "7",
@@ -45703,14 +45682,15 @@
     "contact:postcode": "8050",
     "contact:street": "Genossenschaftsstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/leutschenbach/ueberuns/standorte/kindergaerten.html",
+    "isced:level": "1",
     "name": "Kindergarten Leutschenbach 2",
     "id": "node/9509968851"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5605628,
-      47.4136746
+      8.5607422,
+      47.4136598
     ]
   }
 },
