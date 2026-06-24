@@ -50654,7 +50654,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "level": "0",
-    "opening_hours": "24/7 inkl. Kinderpads",
+    "note": "opening_hours war \"24/7 inkl. Kinderpads\", noch unklar, was das heisst",
+    "opening_hours": "24/7",
     "operator": "Gemeinde",
     "phone": "+41449296011",
     "source": "local_knowledge, defikarte.ch",
@@ -79460,6 +79461,30 @@
     "coordinates": [
       8.393976,
       47.4975615
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13960617102",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Kieser, beim Eingang schräg rechts",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:00-22:00, Sa-Su 09:00-18:00",
+    "operator": "Kieser Training AG",
+    "phone": "+41 44 446 80 98",
+    "id": "node/13960617102"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5678957,
+      47.4486212
     ]
   }
 }

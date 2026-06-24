@@ -298,12 +298,12 @@
             47.4876255
           ],
           [
-            7.7204725,
-            47.4873917
+            7.7205631,
+            47.4873657
           ],
           [
-            7.7206444,
-            47.4873274
+            7.7206581,
+            47.487343
           ],
           [
             7.7215298,
@@ -10345,6 +10345,7 @@
     "amenity": "clinic",
     "building": "hospital",
     "building:levels": "4",
+    "check_date": "2026-06-24",
     "email": "wic@mzb-cmb.ch",
     "fax": "+41 32 344 46 30",
     "healthcare": "clinic",
@@ -10353,7 +10354,7 @@
     "name:fr": "CMB",
     "official_name:de": "Medizinisches Zentrum Biel",
     "official_name:fr": "Centre Médical Bienne",
-    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-13:00",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00",
     "phone": "+41 32 344 46 66",
     "id": "way/79788279"
   },
