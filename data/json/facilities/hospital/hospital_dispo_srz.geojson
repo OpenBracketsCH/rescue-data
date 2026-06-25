@@ -14683,6 +14683,31 @@
       47.3569508
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13961956013",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "1",
+    "addr:postcode": "8001",
+    "addr:street": "Löwenstrasse",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "dermatology;plastic_surgery",
+    "name": "Swiss Derma Clinic",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 10:00-14:00",
+    "phone": "+41 44 739 90 00",
+    "website": "https://swissdermaclinic.ch",
+    "id": "node/13961956013"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5343544,
+      47.3730816
+    ]
+  }
 }
 ]
 }

@@ -725,6 +725,7 @@
     "addr:street": "Aemtlerstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2026-06-25",
     "description": "Sekundarschule",
     "isced:level": "1",
     "name": "Schule Aemtler B",
