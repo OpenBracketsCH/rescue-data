@@ -123,6 +123,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/9037492139",
+  "properties": {
+    "amenity": "childcare",
+    "contact:website": "http://www.kindertraeume.events",
+    "name": "Spielgruppe Füchsli",
+    "id": "node/9037492139"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.722843,
+      47.1952082
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/9098369088",
   "properties": {
     "addr:city": "Buttikon SZ",

@@ -5702,6 +5702,32 @@
 },
 {
   "type": "Feature",
+  "id": "node/3420371784",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "32",
+    "addr:postcode": "8003",
+    "addr:street": "Brahmsstrasse",
+    "amenity": "childcare",
+    "email": "sekretariat@​pilgerbrunnen.​ch",
+    "name": "Kindertagesstätte Pilgerbrunnen",
+    "operator": "Evangelischer Frauenbund Zürich",
+    "phone": "+41 44 405 73 50",
+    "social_facility": "assisted_living",
+    "website": "https://www.vefz.ch/kontakt",
+    "id": "node/3420371784"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5069972,
+      47.3790863
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3465748442",
   "properties": {
     "amenity": "childcare",
