@@ -25638,9 +25638,11 @@
     "addr:street": "Seestrasse",
     "building": "office",
     "building:levels": "2",
+    "check_date:opening_hours": "2026-06-26",
     "healthcare": "clinic",
     "healthcare:speciality": "radiology",
     "name": "Bilddiagnostik Wollishofen USZ",
+    "opening_hours:signed": "no",
     "roof:levels": "0",
     "id": "way/379516639"
   },
