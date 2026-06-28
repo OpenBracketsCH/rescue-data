@@ -60338,6 +60338,24 @@
       47.3730816
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13970109282",
+  "properties": {
+    "amenity": "clinic",
+    "name": "Glaukom Augenklinik",
+    "phone": "+41 44 312 70 70",
+    "website": "https://www.glaukom-augenklinik.ch/",
+    "id": "node/13970109282"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5435252,
+      47.4096698
+    ]
+  }
 }
 ]
 }
