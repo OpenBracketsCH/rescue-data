@@ -6367,6 +6367,7 @@
   "id": "way/11792059",
   "properties": {
     "check_date": "2025-05-04",
+    "description": "Mitte Gubristtunnel",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "2",
@@ -6374,7 +6375,7 @@
     "length": "3250",
     "lit": "24/7",
     "maxspeed": "100",
-    "name": "Mitte Gubristtunnel",
+    "name": "Gubristtunnel",
     "oneway": "yes",
     "ref": "A1;A4",
     "source:maxspeed": "sign",
@@ -10856,6 +10857,7 @@
   "type": "Feature",
   "id": "way/23641122",
   "properties": {
+    "description": "3. Röhre Gubristtunnel",
     "highway": "motorway",
     "int_ref": "E 41;E 60",
     "lanes": "3",
@@ -10863,7 +10865,7 @@
     "length": "3250",
     "lit": "24/7",
     "maxspeed": "80",
-    "name": "3. Röhre Gubristtunnel",
+    "name": "Gubristtunnel",
     "oneway": "yes",
     "ref": "A1;A4",
     "source:maxspeed": "sign",
