@@ -61763,7 +61763,7 @@
         ],
         [
           8.9292832,
-          47.3430859
+          47.3430911
         ],
         [
           8.9296843,
@@ -61794,12 +61794,12 @@
           47.33964
         ],
         [
-          8.926906,
-          47.3397401
+          8.9269107,
+          47.3397324
         ],
         [
-          8.9269547,
-          47.3397677
+          8.9269715,
+          47.3397659
         ],
         [
           8.9273604,
@@ -103257,9 +103257,12 @@
   "type": "Feature",
   "id": "node/11187696468",
   "properties": {
+    "addr:city": "Zürich",
     "addr:housenumber": "2",
+    "addr:postcode": "8004",
     "addr:street": "Sihlpostgasse",
     "amenity": "school",
+    "level": "1",
     "name": "KV Business School",
     "website": "https://www.kv-business-school.ch/",
     "id": "node/11187696468"
