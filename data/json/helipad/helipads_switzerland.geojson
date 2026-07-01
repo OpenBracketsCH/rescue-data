@@ -27702,6 +27702,22 @@
       46.3362464
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13977901607",
+  "properties": {
+    "aeroway": "helipad",
+    "surface": "gravel",
+    "id": "node/13977901607"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8145688,
+      45.9572519
+    ]
+  }
 }
 ]
 }

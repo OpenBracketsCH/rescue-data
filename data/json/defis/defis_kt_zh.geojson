@@ -21596,28 +21596,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9053956917",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Haus Stadthof",
-    "description": "zu Bürozeiten",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-16:00",
-    "operator:type": "private",
-    "id": "node/9053956917"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5405329,
-      47.3764068
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9054269709",
   "properties": {
     "access": "yes",
@@ -79681,6 +79659,71 @@
     "coordinates": [
       8.5864706,
       47.2705525
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13978212401",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Vor Feuerwehrdepot, ganz rechts am Rand Richtung Industriestrasse",
+    "description": "Aussen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Affoltern am Albis",
+    "id": "node/13978212401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4474406,
+      47.2738554
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13979063770",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Hôtel eingang",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "id": "node/13979063770"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5587768,
+      47.4159057
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13979833401",
+  "properties": {
+    "defibrillator:location": "Notariat Bassersdorf",
+    "description": "während Öffnungszeiten verfügbar, nach Eingangstüre links",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-11:30, 14:00-17:00",
+    "operator": "Notariat, Grundbuch- und Konkursamt Bassersdorf",
+    "phone": "+41 44 859 22 90",
+    "id": "node/13979833401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.63092,
+      47.443907
     ]
   }
 }

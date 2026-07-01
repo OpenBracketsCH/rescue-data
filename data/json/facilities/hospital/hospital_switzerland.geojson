@@ -6529,15 +6529,15 @@
           46.8667834
         ],
         [
-          9.5401885,
+          9.5401892,
           46.8667332
         ],
         [
-          9.5405351,
+          9.5405358,
           46.8665074
         ],
         [
-          9.5413456,
+          9.5413463,
           46.8673927
         ],
         [
@@ -6569,23 +6569,23 @@
           46.8705513
         ],
         [
-          9.5398892,
+          9.5398899,
           46.8704744
         ],
         [
-          9.5394936,
+          9.5394943,
           46.8704139
         ],
         [
-          9.5394789,
+          9.5394796,
           46.8703598
         ],
         [
-          9.539518,
+          9.5395187,
           46.8700939
         ],
         [
-          9.5395848,
+          9.5395855,
           46.8698959
         ],
         [
@@ -30384,6 +30384,10 @@
           47.3749269
         ],
         [
+          8.5521775,
+          47.3749416
+        ],
+        [
           8.5521923,
           47.3749461
         ],
@@ -33664,18 +33668,21 @@
   "properties": {
     "addr:city": "Lausanne",
     "addr:country": "CH",
-    "addr:housenumber": "13",
+    "addr:housenumber": "15",
     "addr:postcode": "1004",
     "addr:street": "Avenue de France",
     "amenity": "hospital",
     "copyright": "OpenAddresses",
+    "emergency": "yes",
     "healthcare": "hospital",
-    "name": "Asile des aveugles Fondation Hôpital ophtalmique Jules-Gonin",
+    "healthcare:speciality": "ophthalmology",
+    "name": "Fondation Asile des aveugles",
     "oa:imported_by": "sbrunner",
     "oa:lat": "46.52442551",
     "oa:lon": "6.62359190",
     "oa:version": "oa2osm - 0.2 - sax",
     "source": "Orthophoto Ville de Lausanne 2008",
+    "wheelchair": "yes",
     "id": "way/675170961"
   },
   "geometry": {
