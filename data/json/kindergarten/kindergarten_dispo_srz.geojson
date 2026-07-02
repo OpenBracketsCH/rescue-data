@@ -39327,6 +39327,29 @@
 },
 {
   "type": "Feature",
+  "id": "node/2635389641",
+  "properties": {
+    "addr:city": "Einsiedeln",
+    "addr:country": "CH",
+    "addr:housenumber": "28",
+    "addr:postcode": "8840",
+    "addr:street": "Mythenstrasse",
+    "amenity": "kindergarten",
+    "education": "kindergarten",
+    "name": "Chinderhus Einsiedeln",
+    "website": "https://www.chinderhus-einsiedeln.ch/",
+    "id": "node/2635389641"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.740619,
+      47.1253249
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2675233987",
   "properties": {
     "amenity": "kindergarten",
