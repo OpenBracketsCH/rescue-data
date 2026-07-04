@@ -4306,7 +4306,9 @@
     "addr:postcode": "8057",
     "amenity": "school",
     "building": "school",
+    "building:levels": "3",
     "name": "Sekundarschule + Musikschule Konservatorium Zürich (MKZ)",
+    "roof:levels": "0",
     "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
     "website": "https://www.stadt-zuerich.ch/de/planen-und-bauen/portfolio/bauten-anlagen/schulbauten/schulanlage-brunnenhof.html",
     "id": "way/87768437"
