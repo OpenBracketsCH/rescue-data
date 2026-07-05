@@ -48999,7 +48999,7 @@
   "type": "Feature",
   "id": "node/10616124005",
   "properties": {
-    "defibrillator:location": "Im Zentrum Meierwis -> in der Apotheke drinnen (Pausenraum)",
+    "defibrillator:location": "Zur Zeit nicht Funktionsfähig! 04.07.2026",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -49014,7 +49014,7 @@
     "type": "Point",
     "coordinates": [
       8.679656,
-      47.3678748
+      47.3678749
     ]
   }
 },
@@ -102417,6 +102417,27 @@
     "coordinates": [
       8.7217417,
       47.1933313
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13988258215",
+  "properties": {
+    "access": "private",
+    "check_date": "2026-07-02",
+    "defibrillator:location": "wenige Meter nach Eingang der Firma Wabtec links",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "opening_hours": "\"zu üblichen Bürozeiten\"",
+    "operator": "Wabtec",
+    "id": "node/13988258215"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6584859,
+      47.714426
     ]
   }
 }
