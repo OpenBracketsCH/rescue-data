@@ -7967,8 +7967,8 @@
   "properties": {
     "addr:city": "Oberembrach",
     "addr:housenumber": "16",
+    "addr:place": "Sonnenbühl",
     "addr:postcode": "8425",
-    "addr:street": "Sonnenbühl",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Durchgangszentrum Sonnenbühl",
