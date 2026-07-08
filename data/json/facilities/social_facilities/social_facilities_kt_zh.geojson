@@ -45515,9 +45515,9 @@
   "properties": {
     "addr:city": "Zürich",
     "addr:country": "CH",
-    "addr:housenumber": "38",
+    "addr:housenumber": "295",
     "addr:postcode": "8053",
-    "addr:street": "Carl-Spitteler-Strasse",
+    "addr:street": "Witikonerstrasse",
     "amenity": "social_facility",
     "name": "Spitex-Zentrum Witikon",
     "operator": "Spitex Zürich Limmat",
@@ -45530,8 +45530,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5905622,
-      47.3566379
+      8.5859344,
+      47.3590915
     ]
   }
 },

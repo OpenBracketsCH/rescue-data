@@ -14213,12 +14213,8 @@
         47.3473858
       ],
       [
-        8.5209219,
-        47.3474968
-      ],
-      [
-        8.5212667,
-        47.3477225
+        8.5212902,
+        47.3477111
       ]
     ]
   }
@@ -25112,51 +25108,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/35359564",
-  "properties": {
-    "avz": "221",
-    "cs_dir:forward": "2",
-    "destination:lanes": "Zürich City|Zürich City;Brunau|Brunau|Zürich City",
-    "highway": "motorway",
-    "lanes": "4",
-    "lit": "yes",
-    "maxheight": "default",
-    "maxspeed": "80",
-    "oneway": "yes",
-    "ref": "A3W",
-    "ssvz": "1115N",
-    "surface": "asphalt",
-    "toll": "yes",
-    "id": "way/35359564"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.5212667,
-        47.3477225
-      ],
-      [
-        8.5216984,
-        47.3480306
-      ],
-      [
-        8.5218579,
-        47.3481459
-      ],
-      [
-        8.522803,
-        47.348814
-      ],
-      [
-        8.5232895,
-        47.3491592
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/35899016",
   "properties": {
     "destination:lanes": "Bern;Basel|Bern;Basel|Bern;Basel|Dietikon;Spreitenbach;Oetwil an der Limmat",
@@ -26821,12 +26772,8 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.5232895,
-        47.3491592
-      ],
-      [
-        8.5237463,
-        47.3495449
+        8.5212902,
+        47.3477111
       ],
       [
         8.5239332,

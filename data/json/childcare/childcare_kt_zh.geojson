@@ -6216,6 +6216,7 @@
   "id": "node/4110517426",
   "properties": {
     "amenity": "childcare",
+    "check_date": "2026-07-07",
     "name": "Betreuung Schachen",
     "operator": "Schule Schachen",
     "id": "node/4110517426"

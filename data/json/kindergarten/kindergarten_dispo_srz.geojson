@@ -39942,6 +39942,7 @@
   "id": "node/4110517431",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-07-07",
     "name": "Kindergarten Pavillon Schachen",
     "operator": "Schule Schachen",
     "id": "node/4110517431"
@@ -49118,6 +49119,7 @@
   "id": "node/11330923259",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-07-07",
     "name": "Kindergarten Pavillon",
     "operator": "Stadt Winterthur",
     "operator:type": "public",

@@ -3,52 +3,6 @@
 "features": [
 {
   "type": "Feature",
-  "id": "relation/16084378",
-  "properties": {
-    "addr:city": "Kilchberg ZH",
-    "addr:housenumber": "166",
-    "addr:postcode": "8802",
-    "addr:street": "Alte Landstrasse",
-    "amenity": "fire_station",
-    "building": "yes",
-    "name": "Feuerwehr Kilchberg-Rüschlikon",
-    "type": "multipolygon",
-    "id": "relation/16084378"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5453334,
-          47.3192761
-        ],
-        [
-          8.545496,
-          47.3192949
-        ],
-        [
-          8.5454565,
-          47.3194526
-        ],
-        [
-          8.5454457,
-          47.3194937
-        ],
-        [
-          8.5452846,
-          47.3194756
-        ],
-        [
-          8.5453334,
-          47.3192761
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/22453371",
   "properties": {
     "addr:city": "Winterthur",
@@ -2103,6 +2057,90 @@
         [
           8.4617604,
           47.4097021
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/99241886",
+  "properties": {
+    "addr:city": "Kilchberg ZH",
+    "addr:housenumber": "166",
+    "addr:postcode": "8802",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "fire_station",
+    "building": "fire_station",
+    "contact:facebook": "https://www.facebook.com/FeuerwehrKilchbergRuschlikon/",
+    "contact:instagram": "https://www.instagram.com/feuerwehr_kirue/",
+    "email": "info.feuerwehr@kilchberg.ch",
+    "name": "Feuerwehr Kilchberg–Rüschlikon",
+    "operator": "Sicherheitszweckverband Kilchberg - Rüschlikon",
+    "operator:website": "https://www.srd-kirue.ch/sicherheitszweckverband",
+    "phone": "+41 44 716 31 62",
+    "website": "https://www.rueschlikon.ch/vereinsliste/34898",
+    "id": "way/99241886"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5454457,
+          47.3194937
+        ],
+        [
+          8.5454651,
+          47.3194961
+        ],
+        [
+          8.5454559,
+          47.3195307
+        ],
+        [
+          8.5454435,
+          47.3195368
+        ],
+        [
+          8.5454247,
+          47.3195359
+        ],
+        [
+          8.545414,
+          47.3195246
+        ],
+        [
+          8.5454183,
+          47.3195037
+        ],
+        [
+          8.5454046,
+          47.3195028
+        ],
+        [
+          8.5454073,
+          47.3194891
+        ],
+        [
+          8.5452846,
+          47.3194756
+        ],
+        [
+          8.5453334,
+          47.3192761
+        ],
+        [
+          8.545496,
+          47.3192949
+        ],
+        [
+          8.5454565,
+          47.3194526
+        ],
+        [
+          8.5454457,
+          47.3194937
         ]
       ]
     ]
@@ -6765,29 +6803,6 @@
     "coordinates": [
       8.5368558,
       47.4173272
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/11007183828",
-  "properties": {
-    "addr:city": "Kilchberg ZH",
-    "addr:housenumber": "166",
-    "addr:postcode": "8802",
-    "addr:street": "Alte Landstrasse",
-    "amenity": "fire_station",
-    "email": "info.feuerwehr@kilchberg.ch",
-    "name": "Feuerwehr Kilchberg - Rüschlikon",
-    "operator": "Sicherheitszweckverband Kilchberg - Rüschlikon",
-    "phone": "+41 44 716 31 62",
-    "id": "node/11007183828"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5453977,
-      47.3194304
     ]
   }
 },
