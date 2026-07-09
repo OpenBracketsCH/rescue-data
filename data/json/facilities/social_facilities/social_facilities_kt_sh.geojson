@@ -3516,6 +3516,28 @@
       47.6979128
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/13997460784",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "176",
+    "addr:postcode": "8200",
+    "addr:street": "Weinsteig",
+    "amenity": "social_facility",
+    "name": "Stiftung Ungarbühl, Dezentrales Wohnen",
+    "operator": "Stiftung Ungarbühl",
+    "social_facility": "assisted_living",
+    "id": "node/13997460784"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6325992,
+      47.7085926
+    ]
+  }
 }
 ]
 }

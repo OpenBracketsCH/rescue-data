@@ -95030,6 +95030,54 @@
       ]
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "way/1536783067",
+  "properties": {
+    "highway": "motorway",
+    "id": "way/1536783067"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.7490953,
+        47.1329145
+      ],
+      [
+        8.7493005,
+        47.1327177
+      ],
+      [
+        8.7492785,
+        47.1325775
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1536783068",
+  "properties": {
+    "highway": "motorway",
+    "layer": "-1",
+    "tunnel": "yes",
+    "id": "way/1536783068"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.749018,
+        47.1329736
+      ],
+      [
+        8.7490953,
+        47.1329145
+      ]
+    ]
+  }
 }
 ]
 }

@@ -59250,24 +59250,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/12844023401",
-  "properties": {
-    "addr:housenumber": "9",
-    "addr:street": "Henric Petri-Strasse",
-    "amenity": "clinic",
-    "name": "Medbase Basel St. Elisabethen",
-    "id": "node/12844023401"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.5918008,
-      47.5526103
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/12850934568",
   "properties": {
     "amenity": "clinic",
@@ -60349,6 +60331,51 @@
     "coordinates": [
       8.5435252,
       47.4096698
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13997979538",
+  "properties": {
+    "addr:city": "Sissach",
+    "addr:housenumber": "6",
+    "addr:postcode": "4450",
+    "addr:street": "Rössligasse",
+    "amenity": "clinic",
+    "email": "info@sissamed.ch",
+    "healthcare": "clinic",
+    "healthcare:speciality": "general;cardiology",
+    "level": "1,2",
+    "name": "SissaMed",
+    "opening_hours": "Mo-Th 08:00-11:00, Mo-Th 14:00-17:00, Fr 08:00-11:00, Fr 13:30-17:00",
+    "phone": "+41 61 971 19 20",
+    "id": "node/13997979538"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8131088,
+      47.4630307
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13998461091",
+  "properties": {
+    "amenity": "clinic",
+    "name": "Medbase",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "phone": "+41 24 468 10 30",
+    "website": "https://www.medbase.ch/fr/les-centres/detail/medbase-aigle-chablais/",
+    "id": "node/13998461091"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.965318,
+      46.3163017
     ]
   }
 }

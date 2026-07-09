@@ -615,14 +615,14 @@
   "type": "Feature",
   "id": "node/5077324002",
   "properties": {
-    "access": "permissive",
+    "access": "yes",
     "defibrillator:location": "Turnhalle",
-    "description": "nur während Schulbetrieb verfügbar",
+    "description": "an der Aussenwand beim Eingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
     "level": "0",
-    "opening_hours": "Mo-Fr 07:30-17:00",
+    "opening_hours": "24/7",
     "operator": "Berufsschule",
     "phone": "+41 55 251 51 11",
     "id": "node/5077324002"
@@ -10326,6 +10326,7 @@
   "id": "node/8425696231",
   "properties": {
     "access": "yes",
+    "check_date": "2026-07-08",
     "defibrillator:location": "Raumnummer 750",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -12148,12 +12149,14 @@
   "type": "Feature",
   "id": "node/8556472950",
   "properties": {
+    "access": "private",
     "defibrillator:location": "Seerettungsdienst Küsnacht-Erlenbach",
-    "description": "Nur zugänglich wenn der Seerettungsdienst vor Ort ist. In den Sommermonaten jeden Samstag/Sonntag von 08:00 bis 17:00",
+    "description": "Nur zugänglich wenn der Seerettungsdienst vor Ort ist. In den Sommermonaten (Mai-Sept.) jeden Samstag 13:30-19:00 /Sonntag von 11:00 bis 19:00",
     "email": "info@seeretter-kuesnacht.ch",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "operator": "Seerettungsdienst Küsnacht-Erlenbach",
     "phone": "+41 44 910 06 48",
     "id": "node/8556472950"
@@ -17354,7 +17357,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "24/7",
-    "operator": "Sara Hardmeier, Geschäftsleitung AZ Hochweid",
+    "operator": "Alterszentrum Hochweid",
     "phone": "+41 44 716 36 00",
     "id": "node/8769867872"
   },
@@ -43653,7 +43656,7 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Alterszentrum Hochweid, Sara Tomaschett Geschäftsleitung",
+    "operator": "Alterszentrum Hochweid",
     "phone": "+41 44 716 36 36",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/10827290405"
@@ -79797,6 +79800,55 @@
     "coordinates": [
       8.5153682,
       47.3297634
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13998598501",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Chili Health Fitness im 1. OG direkt neben Treppe,",
+    "description": "während betreuter Zeit",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-14:00",
+    "operator": "Chili Health Fitness",
+    "phone": "+41 43 538 58 06",
+    "id": "node/13998598501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6958245,
+      47.2530607
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13999471001",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Empfang Glattwerk AG",
+    "description": "ZU Bürozeiten Erreichbar",
+    "email": "m.lischetti@glattwerk.ch",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "08:00-12:00, 13:30-17:00",
+    "operator": "Glattwerk AG",
+    "phone": "+41 44 801 68 11",
+    "id": "node/13999471001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6357545,
+      47.3945196
     ]
   }
 }

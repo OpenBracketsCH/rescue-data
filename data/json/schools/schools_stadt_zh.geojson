@@ -20670,6 +20670,7 @@
   "properties": {
     "alt_name": "ICT Berufsbildung Zürich",
     "amenity": "school",
+    "check_date": "2026-07-08",
     "contact:city": "Zürich",
     "contact:email": "info@zli.ch",
     "contact:housenumber": "20",

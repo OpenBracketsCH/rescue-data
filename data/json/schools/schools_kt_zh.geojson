@@ -37068,6 +37068,7 @@
   "properties": {
     "alt_name": "Schule für cerebral gelähmte Kinder, Maurerschule",
     "amenity": "school",
+    "check_date": "2026-07-08",
     "name": "CPS Maurerschule",
     "operator": "Stadt Winterthur",
     "website": "http://cps.winterthur.ch/",
@@ -57704,12 +57705,40 @@
     "coordinates": [
       [
         [
-          8.5440678,
-          47.3192754
+          8.5440785,
+          47.3192727
         ],
         [
-          8.5445443,
-          47.3193546
+          8.5443036,
+          47.3193241
+        ],
+        [
+          8.5445383,
+          47.3193687
+        ],
+        [
+          8.5446697,
+          47.3191282
+        ],
+        [
+          8.5448112,
+          47.3191759
+        ],
+        [
+          8.5448615,
+          47.3191805
+        ],
+        [
+          8.5449117,
+          47.3191914
+        ],
+        [
+          8.5448514,
+          47.3193368
+        ],
+        [
+          8.5448427,
+          47.3193859
         ],
         [
           8.5448749,
@@ -57792,12 +57821,12 @@
           47.3200618
         ],
         [
-          8.543937,
-          47.3194172
+          8.5439712,
+          47.3193949
         ],
         [
-          8.5440678,
-          47.3192754
+          8.5440785,
+          47.3192727
         ]
       ]
     ]
@@ -100535,6 +100564,7 @@
   "properties": {
     "alt_name": "ICT Berufsbildung Zürich",
     "amenity": "school",
+    "check_date": "2026-07-08",
     "contact:city": "Zürich",
     "contact:email": "info@zli.ch",
     "contact:housenumber": "20",
