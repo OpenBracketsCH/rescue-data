@@ -8953,6 +8953,10 @@
   "id": "way/49711247",
   "properties": {
     "amenity": "hospital",
+    "contact:city": "Genf",
+    "contact:housenumber": "4",
+    "contact:postcode": "1205",
+    "contact:street": "Rue Gabrielle-Perret-Gentil",
     "emergency": "yes",
     "healthcare": "hospital",
     "name": "Hôpitaux universitaires de Genève",
@@ -17096,7 +17100,7 @@
     "contact:website": "http://paracelsus.ch/",
     "healthcare": "clinic",
     "name": "Haus M",
-    "opening_hours": "7:30-18:00",
+    "opening_hours": "07:30-18:00",
     "id": "way/195084722"
   },
   "geometry": {

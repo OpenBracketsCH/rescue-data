@@ -2936,6 +2936,7 @@
   "id": "node/6976938400",
   "properties": {
     "access": "yes",
+    "check_date": "2026-07-09",
     "defibrillator:location": "Parkplatz Friedhof",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -20339,7 +20340,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 14:00-21:00",
+    "opening_hours": "Tu 17:00-19:00; We 19:00-21:15; Th 18:00-20:15; Fr 17:00-19:00; Sa 14:00-16:30",
     "operator": "Matthias Wiech",
     "phone": "+41 44 910 17 30",
     "id": "node/8556517739"
@@ -20347,8 +20348,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5857028,
-      47.3134516
+      8.5855023,
+      47.3134549
     ]
   }
 },
@@ -54181,8 +54182,12 @@
   "type": "Feature",
   "id": "node/10763310022",
   "properties": {
-    "access": "private",
-    "defibrillator:location": "EG, vor Aufenthalt (RU 100.3)",
+    "access": "yes",
+    "addr:city": "Wädenswil",
+    "addr:housenumber": "29",
+    "addr:postcode": "8820",
+    "addr:street": "Einsiedlerstrasse",
+    "defibrillator:location": "1.OG Gebäude . RS O1.61 Eingang Korridor",
     "description": "oranger Koffer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -54192,13 +54197,14 @@
     "opening_hours": "Mo-Fr 07:00-17:15",
     "operator": "Lifetec AG Schweiz",
     "phone": "+41 800 122 144",
+    "ref": "1678LTM",
     "id": "node/10763310022"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6863662,
-      47.2201264
+      8.6869244,
+      47.2197189
     ]
   }
 },
@@ -102544,6 +102550,51 @@
     "coordinates": [
       8.6357545,
       47.3945196
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/13999804310",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "Westliches Trppenhaus\n1. Obergeschoss\nVor dem Sekretariat.",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "opening_hours": "Mo.–Fr. 07:00–17:00",
+    "operator": "Reavita",
+    "id": "node/13999804310"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5350953,
+      47.3818147
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/14001945701",
+  "properties": {
+    "access": "permissive",
+    "defibrillator:location": "AAC Infotray AG, Zur Kesselschmiede 31, 1. OG",
+    "description": "Treppe hoch, durch Glastüre geradeaus gehen, dann durch Tür links gehen, AED befindet sich gleich hinter der Tür auf der rechten Seite.",
+    "email": "info@infotray.com",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "operator": "AAC Infotray AG",
+    "phone": "+41 52 260 31 31",
+    "id": "node/14001945701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.717138,
+      47.4944106
     ]
   }
 }

@@ -12943,6 +12943,96 @@
 },
 {
   "type": "Feature",
+  "id": "way/418897525",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "34",
+    "addr:postcode": "8050",
+    "addr:street": "Langwiesstrasse",
+    "amenity": "school",
+    "building": "college",
+    "building:levels": "3",
+    "check_date": "2026-01-03",
+    "contact:city": "Zürich",
+    "contact:email": "info@hausderfarbe.ch",
+    "contact:housenumber": "34",
+    "contact:phone": "+41 43 960 23 75",
+    "contact:postcode": "8050",
+    "contact:street": "Langwiesstrasse",
+    "contact:website": "https://hausderfarbe.ch/de/kontakt/",
+    "isced:level": "4",
+    "name": "Haus der Farbe",
+    "operator": "Haus der Farbe Fachschule und Institut für Gestaltung in Handwerk und Architektur",
+    "operator:type": "private",
+    "id": "way/418897525"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.533644,
+          47.4116613
+        ],
+        [
+          8.5335533,
+          47.4116536
+        ],
+        [
+          8.5335252,
+          47.4116019
+        ],
+        [
+          8.533717,
+          47.4115555
+        ],
+        [
+          8.5337202,
+          47.4115633
+        ],
+        [
+          8.5339026,
+          47.4115192
+        ],
+        [
+          8.5338946,
+          47.4115031
+        ],
+        [
+          8.5338919,
+          47.4114825
+        ],
+        [
+          8.534011,
+          47.4114937
+        ],
+        [
+          8.5340168,
+          47.4114651
+        ],
+        [
+          8.534214,
+          47.4114845
+        ],
+        [
+          8.534207,
+          47.4115216
+        ],
+        [
+          8.5337728,
+          47.4116306
+        ],
+        [
+          8.533644,
+          47.4116613
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/427294439",
   "properties": {
     "amenity": "school",
@@ -19911,33 +20001,6 @@
     "coordinates": [
       8.5314358,
       47.3782925
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/256335788",
-  "properties": {
-    "amenity": "school",
-    "check_date": "2026-01-03",
-    "contact:city": "Zürich",
-    "contact:email": "info@hausderfarbe.ch",
-    "contact:housenumber": "34",
-    "contact:phone": "+41 43 960 23 75",
-    "contact:postcode": "8050",
-    "contact:street": "Langwiesstrasse",
-    "contact:website": "https://hausderfarbe.ch/de/kontakt/",
-    "isced:level": "4",
-    "name": "Haus der Farbe",
-    "operator": "Haus der Farbe Fachschule und Institut für Gestaltung in Handwerk und Architektur",
-    "operator:type": "private",
-    "id": "node/256335788"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5337577,
-      47.4115721
     ]
   }
 },

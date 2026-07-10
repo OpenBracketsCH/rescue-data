@@ -13271,13 +13271,14 @@
   "properties": {
     "access": "private",
     "barrier": "gate",
+    "name": "Haupteingang Personaleingang",
     "id": "node/729935631"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5376467,
-      47.4118578
+      8.5376558,
+      47.4118566
     ]
   }
 },
@@ -20981,14 +20982,15 @@
 },
 {
   "type": "Feature",
-  "id": "node/1617771698",
+  "id": "node/1617771696",
   "properties": {
     "barrier": "gate",
     "bicycle": "no",
     "foot": "yes",
     "horse": "no",
     "motor_vehicle": "no",
-    "id": "node/1617771698"
+    "name": "Personaleingang",
+    "id": "node/1617771696"
   },
   "geometry": {
     "type": "Point",
@@ -21012,8 +21014,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5336941,
-      47.411531
+      8.5337028,
+      47.4115295
     ]
   }
 },
@@ -39264,6 +39266,7 @@
   "properties": {
     "access": "private",
     "barrier": "gate",
+    "name": "Einfahrt Portier 2 Personaleingang",
     "id": "node/3364638964"
   },
   "geometry": {
@@ -47204,8 +47207,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5346696,
-      47.4129354
+      8.5346737,
+      47.4129338
     ]
   }
 },
@@ -50775,8 +50778,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5335134,
-      47.4117062
+      8.533536,
+      47.4117073
     ]
   }
 },
@@ -74663,8 +74666,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5348104,
-      47.4115572
+      8.5348148,
+      47.4115392
     ]
   }
 },
@@ -82850,22 +82853,6 @@
     "coordinates": [
       8.6894692,
       47.4235289
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10571673967",
-  "properties": {
-    "barrier": "gate",
-    "foot": "private",
-    "id": "node/10571673967"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5161168,
-      47.3550495
     ]
   }
 },
@@ -101876,13 +101863,14 @@
   "id": "node/12330546417",
   "properties": {
     "barrier": "gate",
+    "name": "Personaleingang",
     "id": "node/12330546417"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5334858,
-      47.4120298
+      8.5334848,
+      47.4120288
     ]
   }
 },

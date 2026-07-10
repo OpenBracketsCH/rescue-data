@@ -4428,6 +4428,14 @@
           47.1933199
         ],
         [
+          8.8927118,
+          47.1932704
+        ],
+        [
+          8.8941143,
+          47.1924289
+        ],
+        [
           8.8943351,
           47.1922954
         ],
@@ -12016,6 +12024,7 @@
     "addr:postcode": "6440",
     "addr:street": "Klosterstrasse",
     "amenity": "school",
+    "check_date": "2026-07-09",
     "designation": "Theresianum Ingenbohl - Schule fuer Frauen",
     "name": "Theresianum Ingenbohl",
     "source": "https://www.theresianum.ch/",

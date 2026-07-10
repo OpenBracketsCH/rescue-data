@@ -29584,111 +29584,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/99057171",
-  "properties": {
-    "addr:city": "Kilchberg",
-    "addr:housenumber": "41",
-    "addr:postcode": "8802",
-    "addr:street": "Dorfstrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Dorf",
-    "id": "way/99057171"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5471689,
-          47.3225932
-        ],
-        [
-          8.5469844,
-          47.3225952
-        ],
-        [
-          8.5469822,
-          47.322502
-        ],
-        [
-          8.5469792,
-          47.322502
-        ],
-        [
-          8.5469787,
-          47.322479
-        ],
-        [
-          8.5469351,
-          47.3224795
-        ],
-        [
-          8.5469358,
-          47.3225069
-        ],
-        [
-          8.5468564,
-          47.3225078
-        ],
-        [
-          8.5468544,
-          47.3224205
-        ],
-        [
-          8.5469337,
-          47.3224196
-        ],
-        [
-          8.5469343,
-          47.3224473
-        ],
-        [
-          8.5469779,
-          47.3224468
-        ],
-        [
-          8.5469774,
-          47.322424
-        ],
-        [
-          8.5469803,
-          47.322424
-        ],
-        [
-          8.5469781,
-          47.3223299
-        ],
-        [
-          8.5471627,
-          47.3223279
-        ],
-        [
-          8.5471649,
-          47.3224206
-        ],
-        [
-          8.5471748,
-          47.3224205
-        ],
-        [
-          8.5471767,
-          47.3225007
-        ],
-        [
-          8.5471667,
-          47.3225008
-        ],
-        [
-          8.5471689,
-          47.3225932
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/99144653",
   "properties": {
     "addr:city": "Gossau (ZH)",
@@ -36468,16 +36363,20 @@
     "coordinates": [
       [
         [
-          8.6561392,
-          47.3829544
+          8.6560241,
+          47.3829231
         ],
         [
-          8.6564552,
-          47.3838813
+          8.6563752,
+          47.3834891
         ],
         [
-          8.6560543,
-          47.3839201
+          8.6564382,
+          47.3839065
+        ],
+        [
+          8.655963,
+          47.3839608
         ],
         [
           8.6549219,
@@ -36496,24 +36395,24 @@
           47.3824801
         ],
         [
-          8.6547006,
-          47.3823056
+          8.6547004,
+          47.3823344
         ],
         [
-          8.6549115,
-          47.3823655
+          8.6549066,
+          47.382399
         ],
         [
-          8.6551302,
-          47.3824202
+          8.6551356,
+          47.3824623
         ],
         [
-          8.6552655,
-          47.3824519
+          8.6552749,
+          47.3824934
         ],
         [
-          8.6557237,
-          47.3825365
+          8.6557158,
+          47.3825606
         ],
         [
           8.6563883,
@@ -36524,16 +36423,16 @@
           47.3825894
         ],
         [
-          8.6564799,
-          47.3827474
+          8.6564678,
+          47.3827635
         ],
         [
           8.656276,
           47.3828382
         ],
         [
-          8.6561392,
-          47.3829544
+          8.6560241,
+          47.3829231
         ]
       ]
     ]
@@ -51515,52 +51414,12 @@
 },
 {
   "type": "Feature",
-  "id": "way/212490129",
-  "properties": {
-    "addr:city": "Weiach",
-    "addr:housenumber": "6",
-    "addr:postcode": "8187",
-    "addr:street": "Schulweg",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Hofwies",
-    "id": "way/212490129"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4367049,
-          47.5560639
-        ],
-        [
-          8.4365291,
-          47.5559094
-        ],
-        [
-          8.4367373,
-          47.5558015
-        ],
-        [
-          8.4369131,
-          47.555956
-        ],
-        [
-          8.4367049,
-          47.5560639
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/212490159",
   "properties": {
     "amenity": "school",
     "description": "Unterstufe und Mittelstufe Weiach",
-    "name": "Schule Hofwiesen",
+    "name": "Schule Hofwies",
+    "website": "https://www.schule-weiach.ch/",
     "id": "way/212490159"
   },
   "geometry": {
@@ -71050,8 +70909,20 @@
   "type": "Feature",
   "id": "way/378153403",
   "properties": {
+    "addr:city": "Kilchberg",
+    "addr:housenumber": "41",
+    "addr:postcode": "8802",
+    "addr:street": "Dorfstrasse",
     "amenity": "school",
-    "name": "Schule Dorfstrasse",
+    "grades": "1-3",
+    "isced:level": "1",
+    "lunch": "yes",
+    "max_age": "9",
+    "min_age": "6",
+    "name": "Tagesschule Dorf",
+    "operator": "Schule Kilchberg",
+    "operator:type": "public",
+    "operator:website": "https://www.schule-kilchberg.ch/",
     "id": "way/378153403"
   },
   "geometry": {
@@ -71071,28 +70942,40 @@
           47.3220826
         ],
         [
+          8.5474065,
+          47.3221244
+        ],
+        [
+          8.5473911,
+          47.3221544
+        ],
+        [
+          8.5473811,
+          47.3221782
+        ],
+        [
           8.5473576,
           47.3222344
         ],
         [
-          8.547285,
-          47.3224631
+          8.547278,
+          47.3224617
         ],
         [
-          8.5472424,
-          47.3225775
+          8.547235,
+          47.3225786
         ],
         [
-          8.547208,
-          47.3226307
+          8.547203,
+          47.3226271
         ],
         [
-          8.5471745,
-          47.3226622
+          8.5471708,
+          47.322659
         ],
         [
-          8.5471568,
-          47.3226721
+          8.5471545,
+          47.3226716
         ],
         [
           8.54714,
@@ -73272,6 +73155,96 @@
         [
           8.4069183,
           47.4111667
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/418897525",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "34",
+    "addr:postcode": "8050",
+    "addr:street": "Langwiesstrasse",
+    "amenity": "school",
+    "building": "college",
+    "building:levels": "3",
+    "check_date": "2026-01-03",
+    "contact:city": "Zürich",
+    "contact:email": "info@hausderfarbe.ch",
+    "contact:housenumber": "34",
+    "contact:phone": "+41 43 960 23 75",
+    "contact:postcode": "8050",
+    "contact:street": "Langwiesstrasse",
+    "contact:website": "https://hausderfarbe.ch/de/kontakt/",
+    "isced:level": "4",
+    "name": "Haus der Farbe",
+    "operator": "Haus der Farbe Fachschule und Institut für Gestaltung in Handwerk und Architektur",
+    "operator:type": "private",
+    "id": "way/418897525"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.533644,
+          47.4116613
+        ],
+        [
+          8.5335533,
+          47.4116536
+        ],
+        [
+          8.5335252,
+          47.4116019
+        ],
+        [
+          8.533717,
+          47.4115555
+        ],
+        [
+          8.5337202,
+          47.4115633
+        ],
+        [
+          8.5339026,
+          47.4115192
+        ],
+        [
+          8.5338946,
+          47.4115031
+        ],
+        [
+          8.5338919,
+          47.4114825
+        ],
+        [
+          8.534011,
+          47.4114937
+        ],
+        [
+          8.5340168,
+          47.4114651
+        ],
+        [
+          8.534214,
+          47.4114845
+        ],
+        [
+          8.534207,
+          47.4115216
+        ],
+        [
+          8.5337728,
+          47.4116306
+        ],
+        [
+          8.533644,
+          47.4116613
         ]
       ]
     ]
@@ -98851,33 +98824,6 @@
     "coordinates": [
       8.5314358,
       47.3782925
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/256335788",
-  "properties": {
-    "amenity": "school",
-    "check_date": "2026-01-03",
-    "contact:city": "Zürich",
-    "contact:email": "info@hausderfarbe.ch",
-    "contact:housenumber": "34",
-    "contact:phone": "+41 43 960 23 75",
-    "contact:postcode": "8050",
-    "contact:street": "Langwiesstrasse",
-    "contact:website": "https://hausderfarbe.ch/de/kontakt/",
-    "isced:level": "4",
-    "name": "Haus der Farbe",
-    "operator": "Haus der Farbe Fachschule und Institut für Gestaltung in Handwerk und Architektur",
-    "operator:type": "private",
-    "id": "node/256335788"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5337577,
-      47.4115721
     ]
   }
 },
