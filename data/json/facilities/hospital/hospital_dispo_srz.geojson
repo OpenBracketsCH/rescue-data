@@ -8611,7 +8611,9 @@
     "operator": "Schweizerischer Verein Balgrist",
     "short_name": "Balgrist",
     "source:history": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "toilets:wheelchair": "yes",
     "website": "https://www.balgrist.ch/",
+    "wheelchair": "yes",
     "wikidata": "Q2494392",
     "wikimedia_commons": "Category:Uniklinik Balgrist",
     "id": "way/671786482"

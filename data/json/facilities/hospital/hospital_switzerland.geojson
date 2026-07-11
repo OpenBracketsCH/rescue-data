@@ -31702,7 +31702,9 @@
     "operator": "Schweizerischer Verein Balgrist",
     "short_name": "Balgrist",
     "source:history": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "toilets:wheelchair": "yes",
     "website": "https://www.balgrist.ch/",
+    "wheelchair": "yes",
     "wikidata": "Q2494392",
     "wikimedia_commons": "Category:Uniklinik Balgrist",
     "id": "way/671786482"
@@ -60380,6 +60382,29 @@
     "coordinates": [
       6.965318,
       46.3163017
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/14002308101",
+  "properties": {
+    "addr:housenumber": "1",
+    "addr:postcode": "1005",
+    "addr:street": "Rue Marterey",
+    "amenity": "clinic",
+    "email": "contact@espace-osteo.ch",
+    "name": "Espace Ostéo",
+    "opening_hours": "Mo-Fr 07:30-19:00",
+    "phone": "+41 21 311 02 07",
+    "website": "https://www.espace-osteo.ch/",
+    "id": "node/14002308101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6375618,
+      46.519834
     ]
   }
 }
