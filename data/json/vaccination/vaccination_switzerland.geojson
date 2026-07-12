@@ -159,31 +159,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1853060089",
-  "properties": {
-    "amenity": "restaurant",
-    "check_date": "2024-05-20",
-    "cuisine": "regional",
-    "healthcare:speciality": "vaccination",
-    "name": "Alte Mühle",
-    "opening_hours": "Mo-We 09:00-17:00; Th-Fr 09:00-22:00; Sa-Su off; PH off",
-    "phone": "+41 62 919 03 70",
-    "takeaway": "yes",
-    "vaccination": "covid19",
-    "website": "https://www.altemuehlelangenthal.ch/restaurant",
-    "wheelchair": "yes",
-    "id": "node/1853060089"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.7921838,
-      47.214638
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8320771141",
   "properties": {
     "addr:city": "Zürich",
