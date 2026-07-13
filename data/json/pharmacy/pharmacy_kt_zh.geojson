@@ -4248,7 +4248,7 @@
   "type": "Feature",
   "id": "node/2902783538",
   "properties": {
-    "addr:city": "Wetzikon (ZH)",
+    "addr:city": "Wetzikon ZH",
     "addr:housenumber": "257",
     "addr:postcode": "8623",
     "addr:street": "Bahnhofstrasse",

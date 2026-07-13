@@ -14764,6 +14764,7 @@
   "id": "way/197080323",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-07-04",
     "name": "Kindergarten Wiesli",
     "id": "way/197080323"
   },
@@ -16389,7 +16390,7 @@
   "type": "Feature",
   "id": "way/247831887",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:country": "CH",
     "addr:housenumber": "29",
     "addr:postcode": "8623",
@@ -16449,7 +16450,7 @@
   "type": "Feature",
   "id": "way/247885744",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:country": "CH",
     "addr:housenumber": "3",
     "addr:postcode": "8623",
@@ -16508,7 +16509,7 @@
   "type": "Feature",
   "id": "way/247885745",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:country": "CH",
     "addr:housenumber": "5",
     "addr:postcode": "8623",
@@ -18115,6 +18116,10 @@
         [
           8.8562782,
           47.3338996
+        ],
+        [
+          8.8562597,
+          47.3339005
         ],
         [
           8.8561344,
@@ -32767,6 +32772,63 @@
         [
           8.5975507,
           47.4222586
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1537923486",
+  "properties": {
+    "amenity": "kindergarten",
+    "education": "kindergarten",
+    "name": "Kindergarten Zelgli",
+    "id": "way/1537923486"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6813994,
+          47.6007648
+        ],
+        [
+          8.681236,
+          47.6007003
+        ],
+        [
+          8.6811145,
+          47.6002886
+        ],
+        [
+          8.6817955,
+          47.6001996
+        ],
+        [
+          8.6817974,
+          47.6002531
+        ],
+        [
+          8.6817031,
+          47.6003669
+        ],
+        [
+          8.6816247,
+          47.6004152
+        ],
+        [
+          8.6815914,
+          47.6004804
+        ],
+        [
+          8.6816017,
+          47.6005131
+        ],
+        [
+          8.6813994,
+          47.6007648
         ]
       ]
     ]

@@ -319,7 +319,9 @@
     "operator": "Klinik Adelheid AG",
     "phone": "+41 41 754 30 00",
     "source": "bing",
+    "toilets:wheelchair": "yes",
     "website": "https://www.klinik-adelheid.ch/",
+    "wheelchair": "yes",
     "id": "way/675987105"
   },
   "geometry": {

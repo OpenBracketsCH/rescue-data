@@ -16616,7 +16616,7 @@
   "type": "Feature",
   "id": "way/247580684",
   "properties": {
-    "addr:city": "Wetzikon",
+    "addr:city": "Wetzikon ZH",
     "addr:housenumber": "20",
     "addr:postcode": "8620",
     "addr:street": "Wydumstrasse",
@@ -31625,7 +31625,7 @@
   "type": "Feature",
   "id": "way/1479826151",
   "properties": {
-    "addr:city": "Wetzikon (ZH)",
+    "addr:city": "Wetzikon ZH",
     "addr:country": "CH",
     "addr:housenumber": "6",
     "addr:postcode": "8623",

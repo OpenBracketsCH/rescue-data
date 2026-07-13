@@ -38067,7 +38067,9 @@
     "operator": "Klinik Adelheid AG",
     "phone": "+41 41 754 30 00",
     "source": "bing",
+    "toilets:wheelchair": "yes",
     "website": "https://www.klinik-adelheid.ch/",
+    "wheelchair": "yes",
     "id": "way/675987105"
   },
   "geometry": {
@@ -60405,6 +60407,49 @@
     "coordinates": [
       6.6375618,
       46.519834
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/14007123566",
+  "properties": {
+    "addr:housenumber": "2",
+    "addr:place": "Basel",
+    "addr:street": "Schifflände",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "ophthalmology",
+    "name": "EuroEyes",
+    "website": "https://euroeyes.ch/de/standorte/basel/",
+    "id": "node/14007123566"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5882065,
+      47.5596548
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/14007264740",
+  "properties": {
+    "addr:city": "Basel",
+    "addr:housenumber": "76",
+    "addr:postcode": "4052",
+    "addr:street": "St. Alban-Vorstadt",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Praxisgemeinschaft St. Alban",
+    "id": "node/14007264740"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5993137,
+      47.5540169
     ]
   }
 }

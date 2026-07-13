@@ -4668,7 +4668,6 @@
   "id": "way/501080386",
   "properties": {
     "addr:city": "Volketswil",
-    "addr:country": "CH",
     "addr:housenumber": "12",
     "addr:postcode": "8604",
     "addr:street": "Hegnauerstrasse",
