@@ -20443,50 +20443,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/385970767",
-  "properties": {
-    "addr:city": "Aesch (ZH)",
-    "addr:country": "CH",
-    "addr:housenumber": "12.3",
-    "addr:postcode": "8904",
-    "addr:street": "Lielistrasse",
-    "after_school": "yes",
-    "alt_name": "Pavillon",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Hort Nessi",
-    "id": "way/385970767"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4330193,
-          47.3361868
-        ],
-        [
-          8.4330826,
-          47.3361284
-        ],
-        [
-          8.4333708,
-          47.3362717
-        ],
-        [
-          8.4333076,
-          47.3363301
-        ],
-        [
-          8.4330193,
-          47.3361868
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/397797230",
   "properties": {
     "amenity": "kindergarten",
@@ -43958,6 +43914,28 @@
     "coordinates": [
       8.5857353,
       47.4509563
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/14010180899",
+  "properties": {
+    "addr:city": "Aesch (ZH)",
+    "addr:country": "CH",
+    "addr:housenumber": "12.3",
+    "addr:postcode": "8904",
+    "addr:street": "Lielistrasse",
+    "after_school": "yes",
+    "amenity": "kindergarten",
+    "name": "Hort Nessi",
+    "id": "node/14010180899"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4331904,
+      47.3362308
     ]
   }
 }

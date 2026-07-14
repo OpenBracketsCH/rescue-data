@@ -16618,6 +16618,31 @@
       47.4133856
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/14010787924",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "38",
+    "addr:postcode": "8404",
+    "addr:street": "Hegifeldstrasse",
+    "amenity": "childcare",
+    "branch": "Winterthur",
+    "name": "Kinderkrippe Sternen-Schloss",
+    "opening_hours": "Mo-Fr 06:45-18:45",
+    "operator": "Sternenschloss Kinderkrippe AG",
+    "operator:type": "private",
+    "website": "https://www.sternen-schloss.ch/unsere-krippen/winterthur/",
+    "id": "node/14010787924"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7666159,
+      47.5073409
+    ]
+  }
 }
 ]
 }

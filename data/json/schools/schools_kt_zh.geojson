@@ -28961,104 +28961,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/96385044",
-  "properties": {
-    "addr:city": "Aesch (ZH)",
-    "addr:country": "CH",
-    "addr:housenumber": "12",
-    "addr:postcode": "8904",
-    "addr:street": "Lielistrasse",
-    "amenity": "school",
-    "building": "school",
-    "name": "Schulhaus Nassenmatt 1",
-    "id": "way/96385044"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4330387,
-          47.3365184
-        ],
-        [
-          8.4331857,
-          47.336475
-        ],
-        [
-          8.4332008,
-          47.3364832
-        ],
-        [
-          8.4332848,
-          47.3364053
-        ],
-        [
-          8.4335092,
-          47.3365174
-        ],
-        [
-          8.4334957,
-          47.3365279
-        ],
-        [
-          8.43356,
-          47.3365603
-        ],
-        [
-          8.4336333,
-          47.3365658
-        ],
-        [
-          8.4336192,
-          47.3366501
-        ],
-        [
-          8.4335121,
-          47.3366423
-        ],
-        [
-          8.433422,
-          47.3365965
-        ],
-        [
-          8.4334072,
-          47.3366099
-        ],
-        [
-          8.4332709,
-          47.3365418
-        ],
-        [
-          8.4332441,
-          47.3365495
-        ],
-        [
-          8.4332559,
-          47.3365692
-        ],
-        [
-          8.4332275,
-          47.3365777
-        ],
-        [
-          8.4332079,
-          47.3365471
-        ],
-        [
-          8.4330818,
-          47.3365849
-        ],
-        [
-          8.4330387,
-          47.3365184
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/97467858",
   "properties": {
     "addr:city": "Horgen",
@@ -72994,6 +72896,10 @@
           47.5239924
         ],
         [
+          8.786543,
+          47.524001
+        ],
+        [
           8.7864995,
           47.5240028
         ]
@@ -77494,56 +77400,6 @@
         [
           8.493499,
           47.3727778
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/499928429",
-  "properties": {
-    "addr:city": "Aesch (ZH)",
-    "addr:country": "CH",
-    "addr:housenumber": "10",
-    "addr:postcode": "8904",
-    "addr:street": "Lielistrasse",
-    "amenity": "school",
-    "building": "yes",
-    "name": "Nassenmatt 2",
-    "id": "way/499928429"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4338334,
-          47.3367862
-        ],
-        [
-          8.4338162,
-          47.3366654
-        ],
-        [
-          8.433802,
-          47.3365651
-        ],
-        [
-          8.4338014,
-          47.3365606
-        ],
-        [
-          8.4341017,
-          47.3365411
-        ],
-        [
-          8.4341337,
-          47.3367667
-        ],
-        [
-          8.4338334,
-          47.3367862
         ]
       ]
     ]
@@ -100929,31 +100785,6 @@
     "coordinates": [
       8.5532551,
       47.3649505
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9599602250",
-  "properties": {
-    "amenity": "school",
-    "contact:city": "Zürich",
-    "contact:email": "info@efpezet.ch",
-    "contact:housenumber": "1",
-    "contact:phone": "+41 44 445 29 20",
-    "contact:postcode": "8005",
-    "contact:street": "Technoparkstrasse",
-    "contact:website": "http://www.efpezet.ch/index.html",
-    "name": "FPZ Freie Primarschule Zürich",
-    "operator": "FPZ Freie Primarschule Zürich AG",
-    "operator:type": "private",
-    "id": "node/9599602250"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5156582,
-      47.3895094
     ]
   }
 },

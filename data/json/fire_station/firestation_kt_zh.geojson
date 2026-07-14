@@ -1950,56 +1950,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/96385104",
-  "properties": {
-    "addr:city": "Aesch (ZH)",
-    "addr:country": "CH",
-    "addr:housenumber": "23",
-    "addr:postcode": "8904",
-    "addr:street": "Lielistrasse",
-    "amenity": "fire_station",
-    "building": "yes",
-    "name": "Werkhof",
-    "id": "way/96385104"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4328237,
-          47.3355638
-        ],
-        [
-          8.4328409,
-          47.3353331
-        ],
-        [
-          8.4330124,
-          47.335339
-        ],
-        [
-          8.4330089,
-          47.3353855
-        ],
-        [
-          8.4329951,
-          47.3355697
-        ],
-        [
-          8.4328866,
-          47.335566
-        ],
-        [
-          8.4328237,
-          47.3355638
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/98240697",
   "properties": {
     "addr:city": "Oberengstringen",
@@ -6890,6 +6840,22 @@
     "coordinates": [
       8.8878675,
       47.5209275
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/14010198829",
+  "properties": {
+    "amenity": "fire_station",
+    "noname": "yes",
+    "id": "node/14010198829"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4330295,
+      47.3354554
     ]
   }
 }

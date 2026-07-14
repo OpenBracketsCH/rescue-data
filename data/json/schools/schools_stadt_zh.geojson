@@ -20988,31 +20988,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9599602250",
-  "properties": {
-    "amenity": "school",
-    "contact:city": "Zürich",
-    "contact:email": "info@efpezet.ch",
-    "contact:housenumber": "1",
-    "contact:phone": "+41 44 445 29 20",
-    "contact:postcode": "8005",
-    "contact:street": "Technoparkstrasse",
-    "contact:website": "http://www.efpezet.ch/index.html",
-    "name": "FPZ Freie Primarschule Zürich",
-    "operator": "FPZ Freie Primarschule Zürich AG",
-    "operator:type": "private",
-    "id": "node/9599602250"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5156582,
-      47.3895094
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/9605979020",
   "properties": {
     "addr:city": "Zürich",
