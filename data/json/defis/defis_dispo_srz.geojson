@@ -5432,8 +5432,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5103258,
-      47.175479
+      8.5102936,
+      47.1753641
     ]
   }
 },
@@ -13595,8 +13595,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6485634,
-      47.5725297
+      8.6485627,
+      47.5725298
     ]
   }
 },
@@ -48230,13 +48230,16 @@
   "type": "Feature",
   "id": "node/10567819409",
   "properties": {
-    "defibrillator:location": "Phoenix Mecano Komponenten AG",
-    "description": "wahrend Geschäftszeiten zugänglich",
+    "access": "yes",
+    "defibrillator:location": "Phoenix Mecano Solutions AG",
+    "description": "im unverschlossenen Vorraum; 24/7 erreichbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "opening_hours": "Mo-Fr 08:00-17:00",
+    "opening_hours": "24/7",
+    "operator": "Phoenix Mecano Solutions AG",
+    "phone": "+41 52 742 75 00",
     "id": "node/10567819409"
   },
   "geometry": {
@@ -102641,6 +102644,28 @@
     "coordinates": [
       8.5684905,
       47.2749116
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/14017040701",
+  "properties": {
+    "defibrillator:location": "Beim Empfang im EG",
+    "email": "daniel.bolt@testex.com",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "TESTEX AG",
+    "id": "node/14017040701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5325215,
+      47.364633
     ]
   }
 }

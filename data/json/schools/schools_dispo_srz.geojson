@@ -47004,6 +47004,10 @@
   "type": "Feature",
   "id": "way/151825845",
   "properties": {
+    "addr:city": "Zug",
+    "addr:housenumber": "7",
+    "addr:postcode": "6300",
+    "addr:street": "Aabachstrasse",
     "amenity": "school",
     "building": "yes",
     "check_date": "2026-05-30",
@@ -47021,6 +47025,10 @@
         [
           8.5097725,
           47.1752633
+        ],
+        [
+          8.5106927,
+          47.1751997
         ],
         [
           8.511044,
