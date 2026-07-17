@@ -3344,7 +3344,7 @@
   "type": "Feature",
   "id": "node/1633856466",
   "properties": {
-    "addr:city": "Niederglatt",
+    "addr:city": "Niederglatt ZH",
     "addr:housenumber": "8",
     "addr:postcode": "8172",
     "addr:street": "Grafschaftstrasse",
@@ -3352,10 +3352,11 @@
     "amenity": "pharmacy",
     "branch": "Niederglatt",
     "brand": "TopPharm",
+    "brand:wikidata": "Q110277794",
     "check_date": "2024-07-13",
     "dispensing": "yes",
     "healthcare": "pharmacy",
-    "name": "TopPharm Sonnen Apotheke",
+    "name": "TopPharm",
     "operator": "TopPharm Genossenschaft",
     "website": "https://www.apotheke.ch/sonnen",
     "id": "node/1633856466"

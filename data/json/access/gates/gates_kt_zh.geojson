@@ -88528,6 +88528,7 @@
   "id": "node/12544828800",
   "properties": {
     "barrier": "gate",
+    "maxwidth:physical": "0.5",
     "id": "node/12544828800"
   },
   "geometry": {
