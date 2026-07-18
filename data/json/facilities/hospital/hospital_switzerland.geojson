@@ -60563,6 +60563,30 @@
       47.5540169
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/14022391911",
+  "properties": {
+    "addr:city": "Haute-Nendaz",
+    "addr:housenumber": "32",
+    "addr:postcode": "1997",
+    "addr:street": "Route des Ecluses",
+    "amenity": "clinic",
+    "check_date": "2026-07-17",
+    "healthcare": "clinic",
+    "name": "Centre médical de Nendaz",
+    "phone": "+41 27 288 70 88",
+    "website": "https://cmnendaz.ch/",
+    "id": "node/14022391911"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2897136,
+      46.1819681
+    ]
+  }
 }
 ]
 }

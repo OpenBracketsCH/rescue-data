@@ -4882,13 +4882,12 @@
   "type": "Feature",
   "id": "way/10589763",
   "properties": {
-    "change:lanes": "not_right|not_left",
-    "destination:int_ref:lanes": "E 41;E 60|",
-    "destination:lanes": "St. Gallen;Flughafen;Nordring Zürich|Zürich-City",
-    "destination:ref:lanes": "A1;A4|",
+    "destination:int_ref:lanes": "E 41;E 60|E 41;E 60|",
+    "destination:lanes": "St. Gallen;Flughafen;Nordring Zürich|St. Gallen;Flughafen;Nordring Zürich|Zürich-City",
+    "destination:ref:lanes": "A1;A4|A1;A4|A1H",
     "highway": "motorway",
     "int_ref": "E 41",
-    "lanes": "2",
+    "lanes": "3",
     "lit": "yes",
     "maxheight:signed": "no",
     "maxspeed": "80",
@@ -4897,51 +4896,79 @@
     "source:maxspeed": "sign",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "through|slight_right",
+    "turn:lanes": "through|through|slight_right",
     "id": "way/10589763"
   },
   "geometry": {
     "type": "LineString",
     "coordinates": [
       [
-        8.4253936,
-        47.4089006
+        8.4229575,
+        47.4064073
       ],
       [
-        8.4255468,
-        47.4090133
+        8.4230743,
+        47.4065074
       ],
       [
-        8.4257047,
-        47.409125
+        8.4232989,
+        47.4067913
       ],
       [
-        8.4259013,
-        47.4092593
+        8.4235585,
+        47.4071026
       ],
       [
-        8.4260453,
-        47.4093555
+        8.4237571,
+        47.4073318
       ],
       [
-        8.4261823,
-        47.409443
+        8.4239874,
+        47.4075763
       ],
       [
-        8.4263135,
-        47.4095237
+        8.4242671,
+        47.407866
       ],
       [
-        8.42646,
-        47.4096104
+        8.4245083,
+        47.408105
       ],
       [
-        8.4266352,
-        47.4097097
+        8.4247585,
+        47.4083439
       ],
       [
-        8.4268058,
-        47.4098021
+        8.4249455,
+        47.4085174
+      ],
+      [
+        8.4251192,
+        47.4086635
+      ],
+      [
+        8.4252795,
+        47.408793
+      ],
+      [
+        8.4254095,
+        47.4088952
+      ],
+      [
+        8.4255715,
+        47.4090187
+      ],
+      [
+        8.4257206,
+        47.4091239
+      ],
+      [
+        8.4259357,
+        47.4092721
+      ],
+      [
+        8.4261407,
+        47.4094069
       ]
     ]
   }
@@ -16570,15 +16597,16 @@
   "type": "Feature",
   "id": "way/25512173",
   "properties": {
-    "destination:lanes": "Urdorf-Süd|Urdorf-Süd;Urdorf-Nord;Schlieren;Dietikon",
+    "destination:lanes": "Urdorf-Süd|Urdorf-Süd|Urdorf-Nord;Schlieren;Dietikon",
     "highway": "motorway",
     "int_ref": "E 41",
-    "lanes": "2",
+    "lanes": "3",
     "lit": "no",
     "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "overtaking:hgv": "no",
+    "placement": "middle_of:2",
     "ref": "A3;A4",
     "shoulder:right": "yes",
     "source:maxspeed": "signals",
@@ -16590,24 +16618,24 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4201745,
-        47.3975189
+        8.4201579,
+        47.3975217
       ],
       [
-        8.4200541,
-        47.3972762
+        8.4200369,
+        47.3972832
       ],
       [
-        8.4199072,
-        47.3970241
+        8.4199175,
+        47.3970808
       ],
       [
-        8.4197147,
-        47.3967108
+        8.4197675,
+        47.3968406
       ],
       [
-        8.419616,
-        47.3965729
+        8.4195976,
+        47.3965776
       ]
     ]
   }
@@ -20876,6 +20904,7 @@
     "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
+    "placement": "right_of:1",
     "ref": "A4",
     "shoulder:right": "yes",
     "source:maxspeed": "signals",
@@ -20953,10 +20982,6 @@
       [
         8.4247345,
         47.4086242
-      ],
-      [
-        8.4243658,
-        47.4082496
       ]
     ]
   }
@@ -34497,7 +34522,7 @@
     "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
-    "placement": "right_of:1",
+    "placement": "middle_of:2",
     "ref": "A3;A4",
     "shoulder:right": "yes",
     "source:maxspeed": "signals",
@@ -34508,30 +34533,6 @@
   "geometry": {
     "type": "LineString",
     "coordinates": [
-      [
-        8.4242528,
-        47.4081567
-      ],
-      [
-        8.4240556,
-        47.4079587
-      ],
-      [
-        8.4238029,
-        47.4076863
-      ],
-      [
-        8.4235548,
-        47.4074098
-      ],
-      [
-        8.4233152,
-        47.4071297
-      ],
-      [
-        8.4230023,
-        47.4067381
-      ],
       [
         8.4228169,
         47.4064945
@@ -34547,6 +34548,58 @@
       [
         8.4223449,
         47.4057873
+      ],
+      [
+        8.4221851,
+        47.405513
+      ],
+      [
+        8.4220226,
+        47.4052042
+      ],
+      [
+        8.4219291,
+        47.4049991
+      ],
+      [
+        8.4218428,
+        47.4048129
+      ],
+      [
+        8.4217582,
+        47.4046218
+      ],
+      [
+        8.4216586,
+        47.4043692
+      ],
+      [
+        8.4215752,
+        47.4041362
+      ],
+      [
+        8.4215094,
+        47.4039142
+      ],
+      [
+        8.4214265,
+        47.4036281
+      ],
+      [
+        8.4213843,
+        47.4034473
+      ],
+      [
+        8.4213219,
+        47.4031685
+      ],
+      [
+        8.4212564,
+        47.4028097
+      ],
+      [
+        8.4212009,
+        47.4024585
       ]
     ]
   }
@@ -34654,7 +34707,7 @@
     "ref": "A1;A3",
     "surface": "asphalt",
     "toll": "yes",
-    "turn:lanes": "none|none|slight_right|slight_right|slight_right",
+    "turn:lanes": "through|through|slight_right|slight_right|right",
     "id": "way/77074946"
   },
   "geometry": {
@@ -34771,12 +34824,8 @@
         47.4060405
       ],
       [
-        8.4228538,
-        47.4062611
-      ],
-      [
-        8.4229575,
-        47.4064073
+        8.4228386,
+        47.4062368
       ]
     ]
   }
@@ -38554,16 +38603,16 @@
   "properties": {
     "bridge": "yes",
     "bridge:structure": "beam",
-    "destination:lanes": "Urdorf-Süd|Urdorf-Süd;Urdorf-Nord;Schlieren;Dietikon",
     "highway": "motorway",
     "int_ref": "E 41",
-    "lanes": "2",
+    "lanes": "3",
     "layer": "2",
     "lit": "no",
     "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "overtaking:hgv": "no",
+    "placement": "middle_of:2",
     "ref": "A3;A4",
     "shoulder:right": "yes",
     "source:maxspeed": "signals",
@@ -38575,32 +38624,40 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4212246,
-        47.4024578
+        8.4212009,
+        47.4024585
       ],
       [
-        8.4207823,
-        47.3996379
+        8.420769,
+        47.3996469
       ],
       [
-        8.4206881,
-        47.3991068
+        8.420719,
+        47.3993173
       ],
       [
-        8.4205677,
-        47.3985793
+        8.4206373,
+        47.3989137
       ],
       [
-        8.4204602,
-        47.3982145
+        8.4205544,
+        47.3985808
       ],
       [
-        8.4203294,
-        47.3978479
+        8.4204779,
+        47.3983281
       ],
       [
-        8.4201745,
-        47.3975189
+        8.4203913,
+        47.3980617
+      ],
+      [
+        8.4202674,
+        47.3977569
+      ],
+      [
+        8.4201579,
+        47.3975217
       ]
     ]
   }
@@ -43673,12 +43730,16 @@
         47.3919274
       ],
       [
-        8.4158026,
-        47.3923446
+        8.4158072,
+        47.392378
       ],
       [
-        8.4161784,
-        47.3927693
+        8.4160359,
+        47.392646
+      ],
+      [
+        8.416175,
+        47.3928004
       ]
     ]
   }
@@ -47563,117 +47624,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/210309182",
-  "properties": {
-    "highway": "motorway",
-    "int_ref": "E 41",
-    "lanes": "3",
-    "lit": "no",
-    "maxspeed": "80",
-    "maxspeed:variable": "obstruction",
-    "oneway": "yes",
-    "placement": "right_of:1",
-    "ref": "A3;A4",
-    "shoulder:right": "yes",
-    "source:maxspeed": "signals",
-    "surface": "asphalt",
-    "toll": "yes",
-    "turn:lanes": "through|through|merge_to_left",
-    "id": "way/210309182"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.4223449,
-        47.4057873
-      ],
-      [
-        8.4221851,
-        47.405513
-      ],
-      [
-        8.4220226,
-        47.4052042
-      ],
-      [
-        8.4219291,
-        47.4049991
-      ],
-      [
-        8.4218428,
-        47.4048129
-      ],
-      [
-        8.4217134,
-        47.4045114
-      ],
-      [
-        8.4216536,
-        47.4042891
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/210309183",
-  "properties": {
-    "destination:lanes": "Urdorf-Süd|Urdorf-Süd;Urdorf-Nord;Schlieren;Dietikon",
-    "highway": "motorway",
-    "int_ref": "E 41",
-    "lanes": "2",
-    "lit": "no",
-    "maxspeed": "80",
-    "maxspeed:variable": "obstruction",
-    "oneway": "yes",
-    "ref": "A3;A4",
-    "shoulder:right": "yes",
-    "source:maxspeed": "signals",
-    "surface": "asphalt",
-    "toll": "yes",
-    "id": "way/210309183"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.4216536,
-        47.4042891
-      ],
-      [
-        8.4215927,
-        47.4041114
-      ],
-      [
-        8.4215253,
-        47.4038948
-      ],
-      [
-        8.4214486,
-        47.4036251
-      ],
-      [
-        8.4213958,
-        47.4034217
-      ],
-      [
-        8.4213472,
-        47.4031864
-      ],
-      [
-        8.4212771,
-        47.4028066
-      ],
-      [
-        8.4212246,
-        47.4024578
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/210309184",
   "properties": {
     "highway": "motorway",
@@ -47979,12 +47929,16 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4161784,
-        47.3927693
+        8.416175,
+        47.3928004
       ],
       [
-        8.416472,
-        47.3930815
+        8.4164334,
+        47.3930716
+      ],
+      [
+        8.4168474,
+        47.3934983
       ]
     ]
   }
@@ -48026,7 +47980,7 @@
   "type": "Feature",
   "id": "way/210309190",
   "properties": {
-    "destination:lanes": "Urdorf-Süd|Urdorf-Süd|Urdorf-Nord;Schlieren;Dietikon",
+    "destination:lanes": "Chur;Luzern|Chur;Luzern|Urdorf-Nord;Schlieren;Dietikon",
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "3",
@@ -48035,7 +47989,7 @@
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "overtaking:hgv": "no",
-    "placement": "right_of:1",
+    "placement": "middle_of:2",
     "ref": "A3;A4",
     "shoulder:right": "yes",
     "smoothness": "good",
@@ -48125,16 +48079,24 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.416472,
-        47.3930815
+        8.4168474,
+        47.3934983
       ],
       [
-        8.4174005,
-        47.3940234
+        8.4170876,
+        47.3937428
       ],
       [
-        8.4183023,
-        47.394888
+        8.4173795,
+        47.3940292
+      ],
+      [
+        8.4181474,
+        47.3947657
+      ],
+      [
+        8.4187283,
+        47.39534
       ],
       [
         8.4191811,
@@ -48325,7 +48287,7 @@
   "type": "Feature",
   "id": "way/210309197",
   "properties": {
-    "destination:lanes": "Urdorf-Süd|Urdorf-Süd|Urdorf-Nord;Schlieren;Dietikon",
+    "destination:lanes": "Chur;Luzern|Chur;Luzern|Urdorf-Nord;Schlieren;Dietikon",
     "highway": "motorway",
     "int_ref": "E 41",
     "lanes": "3",
@@ -48334,7 +48296,7 @@
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
     "overtaking:hgv": "no",
-    "placement": "right_of:1",
+    "placement": "middle_of:2",
     "ref": "A3;A4",
     "shoulder:right": "yes",
     "source:maxspeed": "signals",
@@ -48346,6 +48308,10 @@
   "geometry": {
     "type": "LineString",
     "coordinates": [
+      [
+        8.4195976,
+        47.3965776
+      ],
       [
         8.4193775,
         47.396279
@@ -55293,12 +55259,24 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4268058,
-        47.4098021
+        8.4261407,
+        47.4094069
       ],
       [
-        8.4269546,
-        47.4099056
+        8.426286,
+        47.4095193
+      ],
+      [
+        8.4265239,
+        47.4096602
+      ],
+      [
+        8.4267464,
+        47.4097861
+      ],
+      [
+        8.4269705,
+        47.4099072
       ],
       [
         8.4271239,
@@ -73352,42 +73330,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/554298192",
-  "properties": {
-    "destination:lanes": "Urdorf-Süd|Urdorf-Süd|Urdorf-Nord;Schlieren;Dietikon",
-    "highway": "motorway",
-    "int_ref": "E 41",
-    "lanes": "3",
-    "lit": "no",
-    "maxspeed": "80",
-    "maxspeed:variable": "obstruction",
-    "oneway": "yes",
-    "overtaking:hgv": "no",
-    "placement": "right_of:1",
-    "ref": "A3;A4",
-    "shoulder:right": "yes",
-    "source:maxspeed": "signals",
-    "surface": "asphalt",
-    "toll": "yes",
-    "turn:lanes": "through|through|slight_right",
-    "id": "way/554298192"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.419616,
-        47.3965729
-      ],
-      [
-        8.4193775,
-        47.396279
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/554302072",
   "properties": {
     "change:lanes": "not_left|not_right|yes",
@@ -83175,6 +83117,7 @@
     "maxspeed": "80",
     "maxspeed:variable": "obstruction",
     "oneway": "yes",
+    "placement": "transition",
     "ref": "A4",
     "shoulder:right": "yes",
     "source:maxspeed": "signals",
@@ -83186,12 +83129,12 @@
     "type": "LineString",
     "coordinates": [
       [
-        8.4243658,
-        47.4082496
+        8.4247345,
+        47.4086242
       ],
       [
-        8.4242528,
-        47.4081567
+        8.424614,
+        47.408562
       ]
     ]
   }
@@ -93076,78 +93019,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1472526989",
-  "properties": {
-    "change:lanes": "yes|no",
-    "destination:int_ref:lanes": "E 41;E 60|",
-    "destination:lanes": "St. Gallen;Flughafen;Nordring Zürich|Zürich-City",
-    "destination:ref:lanes": "A1;A4|",
-    "highway": "motorway",
-    "int_ref": "E 41",
-    "lanes": "2",
-    "lit": "yes",
-    "maxheight:signed": "no",
-    "maxspeed": "80",
-    "oneway": "yes",
-    "ref": "A4",
-    "source:maxspeed": "sign",
-    "surface": "asphalt",
-    "toll": "yes",
-    "turn:lanes": "through|slight_right",
-    "id": "way/1472526989"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        8.4229575,
-        47.4064073
-      ],
-      [
-        8.4230561,
-        47.4065119
-      ],
-      [
-        8.4233467,
-        47.4068824
-      ],
-      [
-        8.4236345,
-        47.4072219
-      ],
-      [
-        8.4239858,
-        47.4076076
-      ],
-      [
-        8.4243785,
-        47.4080075
-      ],
-      [
-        8.424737,
-        47.4083482
-      ],
-      [
-        8.4249144,
-        47.4085125
-      ],
-      [
-        8.4251025,
-        47.4086737
-      ],
-      [
-        8.425262,
-        47.4088005
-      ],
-      [
-        8.4253936,
-        47.4089006
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1472526992",
   "properties": {
     "highway": "motorway",
@@ -95027,6 +94898,102 @@
       [
         8.8297856,
         47.5288324
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1539987389",
+  "properties": {
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "4",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxspeed:variable": "obstruction",
+    "oneway": "yes",
+    "placement": "right_of:2",
+    "ref": "A3;A4",
+    "shoulder:right": "yes",
+    "source:maxspeed": "signals",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "through|through|through|merge_to_left",
+    "id": "way/1539987389"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.424614,
+        47.408562
+      ],
+      [
+        8.4243858,
+        47.4083311
+      ],
+      [
+        8.4241844,
+        47.4081234
+      ],
+      [
+        8.4239022,
+        47.40783
+      ],
+      [
+        8.4236761,
+        47.4075731
+      ],
+      [
+        8.4234172,
+        47.4072837
+      ],
+      [
+        8.4231884,
+        47.4070095
+      ],
+      [
+        8.4229871,
+        47.406753
+      ],
+      [
+        8.4228169,
+        47.4064945
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1539990551",
+  "properties": {
+    "destination:int_ref:lanes": "E 60|E 41;E 60|E 41;E 60",
+    "destination:lanes": "Bern;Basel|St. Gallen;Flughafen;Nordring-Zürich|St. Gallen;Flughafen;Nordring-Zürich|Zürich-City",
+    "destination:ref:lanes": "A1;A3|A1;A4|A1;A4",
+    "highway": "motorway",
+    "int_ref": "E 41",
+    "lanes": "4",
+    "lit": "no",
+    "maxspeed": "80",
+    "oneway": "yes",
+    "ref": "A3;A4",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "toll": "yes",
+    "turn:lanes": "slight_left|through|through|slight_right",
+    "id": "way/1539990551"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.4228386,
+        47.4062368
+      ],
+      [
+        8.4229575,
+        47.4064073
       ]
     ]
   }
