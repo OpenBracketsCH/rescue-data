@@ -15569,8 +15569,9 @@
   "type": "Feature",
   "id": "node/954659451",
   "properties": {
-    "access": "private",
+    "access": "permissive",
     "barrier": "gate",
+    "motor_vehicle": "no",
     "id": "node/954659451"
   },
   "geometry": {
@@ -64142,13 +64143,15 @@
   "properties": {
     "access": "private",
     "barrier": "gate",
+    "locked": "yes",
+    "material": "metal",
     "id": "node/7413603136"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.890593,
-      47.268015
+      8.8905857,
+      47.2680189
     ]
   }
 },

@@ -2112,7 +2112,7 @@
   "type": "Feature",
   "id": "node/532251110",
   "properties": {
-    "addr:city": "Birmensdorf (ZH)",
+    "addr:city": "Birmensdorf ZH",
     "addr:housenumber": "3",
     "addr:postcode": "8903",
     "addr:street": "Stallikonerstrasse",

@@ -6522,7 +6522,7 @@
   "id": "node/9417237823",
   "properties": {
     "activation": "blackout;phone_breakdown;evacuation",
-    "contact:city": "Birmensdorf",
+    "contact:city": "Birmensdorf ZH",
     "contact:country": "CH",
     "contact:housenumber": "10",
     "contact:postcode": "8903",

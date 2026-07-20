@@ -60587,6 +60587,23 @@
       46.1819681
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/14027262060",
+  "properties": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Ärzte am Platz",
+    "id": "node/14027262060"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5002325,
+      47.0020709
+    ]
+  }
 }
 ]
 }

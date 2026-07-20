@@ -6877,7 +6877,7 @@
   "type": "Feature",
   "id": "way/88324255",
   "properties": {
-    "addr:city": "Birmensdorf (ZH)",
+    "addr:city": "Birmensdorf ZH",
     "addr:country": "CH",
     "addr:housenumber": "19",
     "addr:postcode": "8903",
@@ -6919,7 +6919,7 @@
   "type": "Feature",
   "id": "way/88324261",
   "properties": {
-    "addr:city": "Birmensdorf (ZH)",
+    "addr:city": "Birmensdorf ZH",
     "addr:country": "CH",
     "addr:housenumber": "1",
     "addr:postcode": "8903",
@@ -7058,7 +7058,7 @@
   "type": "Feature",
   "id": "way/88725741",
   "properties": {
-    "addr:city": "Birmensdorf (ZH)",
+    "addr:city": "Birmensdorf ZH",
     "addr:country": "CH",
     "addr:housenumber": "25",
     "addr:postcode": "8903",
@@ -7765,7 +7765,7 @@
   "type": "Feature",
   "id": "way/92135951",
   "properties": {
-    "addr:city": "Birmensdorf (ZH)",
+    "addr:city": "Birmensdorf ZH",
     "addr:country": "CH",
     "addr:housenumber": "6",
     "addr:postcode": "8903",
@@ -8017,7 +8017,7 @@
   "type": "Feature",
   "id": "way/92840876",
   "properties": {
-    "addr:city": "Birmensdorf (ZH)",
+    "addr:city": "Birmensdorf ZH",
     "addr:country": "CH",
     "addr:housenumber": "26",
     "addr:postcode": "8903",
@@ -8298,7 +8298,7 @@
   "type": "Feature",
   "id": "way/93175592",
   "properties": {
-    "addr:city": "Birmensdorf (ZH)",
+    "addr:city": "Birmensdorf ZH",
     "addr:country": "CH",
     "addr:housenumber": "6",
     "addr:postcode": "8903",
@@ -28774,7 +28774,11 @@
   "type": "Feature",
   "id": "way/705913434",
   "properties": {
+    "addr:floor": "0",
+    "addr:housenumber": "47",
+    "addr:street": "Brahmsstrasse",
     "amenity": "kindergarten",
+    "check_date": "2026-07-19",
     "contact:city": "Zürich",
     "contact:housenumber": "47",
     "contact:phone": "+41 44 413 76 49",
@@ -28782,9 +28786,11 @@
     "contact:street": "Brahmsstrasse",
     "contact:website": "https://www.stadt-zuerich.ch/schulen/de/aemtler_a/ueberuns/standorte/kindergaerten.html",
     "isced:level": "0",
+    "level": "0",
     "name": "Kindergarten Brahms",
     "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
     "operator:type": "public",
+    "wheelchair": "yes",
     "id": "way/705913434"
   },
   "geometry": {
@@ -38054,9 +38060,11 @@
   "type": "Feature",
   "id": "node/885426999",
   "properties": {
+    "addr:housenumber": "96",
+    "addr:street": "Albisriederstrasse",
     "amenity": "kindergarten",
-    "name": "Morgentisch, Mittag-/Abendhort Albisrieden 2",
-    "operator": "Stadt Zürich, SSD, Schulkreis Limmattal",
+    "check_date": "2026-07-19",
+    "name": "globegarden childcare",
     "id": "node/885426999"
   },
   "geometry": {
