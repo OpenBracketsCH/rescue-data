@@ -1445,7 +1445,7 @@
   "properties": {
     "addr:city": "Zürich",
     "addr:country": "CH",
-    "addr:housenumber": "480",
+    "addr:housenumber": "470",
     "addr:postcode": "8052",
     "addr:street": "Schaffhauserstrasse",
     "amenity": "pharmacy",
