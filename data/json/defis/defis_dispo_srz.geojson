@@ -24929,6 +24929,7 @@
   "id": "node/8628031037",
   "properties": {
     "access": "yes",
+    "check_date": "2026-07-21",
     "defibrillator:location": "An Wand rechts von Eingang (nicht Wohnhaus!)",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
@@ -46949,14 +46950,16 @@
   "type": "Feature",
   "id": "node/10241895605",
   "properties": {
+    "access": "permissive",
     "defibrillator:location": "Swico Office im 4. Stock Lagerstrasse 33, 8004 Zürich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "4",
     "opening_hours": "Mo-Fr 08:00-12:00, 13:00-16:00",
-    "operator": "Swico Anita Müller",
-    "phone": "+41 44 446 90 88",
+    "operator": "Swico Jennifer Heise",
+    "phone": "+41 79 516 74 44",
+    "source": "aed-source",
     "id": "node/10241895605"
   },
   "geometry": {
@@ -61129,7 +61132,7 @@
     "access": "yes",
     "addr:housenumber": "16",
     "addr:street": "Matten",
-    "defibrillator:location": "An Strasse bei Fussgängerstreifen",
+    "defibrillator:location": "Schulhaus Matten bei Pausen Unterstand",
     "description": "Grüner Kasten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -61145,8 +61148,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4123444,
-      47.1975278
+      8.412715,
+      47.1974201
     ]
   }
 },
@@ -102792,6 +102795,30 @@
     "coordinates": [
       8.4306481,
       47.3588479
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/14038625901",
+  "properties": {
+    "defibrillator:location": "Container Werkhof Wallisellen, Eingangsbereich links",
+    "description": "während der Öffnungszeiten verfügbar",
+    "email": "steffen.riedel@bd.zh.ch",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:00-16:00",
+    "operator": "Baudirektion Kanton Zürich, GEVII",
+    "phone": "+41 43 258 78 84",
+    "id": "node/14038625901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6170205,
+      47.4097075
     ]
   }
 }
