@@ -18892,7 +18892,9 @@
     "addr:street": "Feldstrasse",
     "amenity": "kindergarten",
     "building": "kindergarten",
+    "check_date": "2026-07-22",
     "name": "Kindergarten Pavillon Breiti",
+    "roof:shape": "gabled",
     "id": "way/297752782"
   },
   "geometry": {
@@ -21362,6 +21364,7 @@
   "id": "way/413619039",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-07-22",
     "name": "Kindergarten Birchlen",
     "wheelchair": "limited",
     "id": "way/413619039"
