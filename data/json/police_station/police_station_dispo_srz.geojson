@@ -4848,7 +4848,7 @@
     "amenity": "police",
     "level": "2",
     "name": "Polizeiposten Wald ZH",
-    "opening_hours": "Mo-Fr 08:00-12:00 & 13:00-17:00",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
     "operator": "Kantonspolizei Zürich",
     "operator:wikidata": "Q1728099",
     "phone": "+41 58 648 64 20",

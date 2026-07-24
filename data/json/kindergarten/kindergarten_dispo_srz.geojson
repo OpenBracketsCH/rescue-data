@@ -23763,80 +23763,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/367619188",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "100",
-    "addr:postcode": "8045",
-    "addr:street": "Frauentalweg",
-    "amenity": "kindergarten",
-    "building": "yes",
-    "name": "Kita Albatros",
-    "id": "way/367619188"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5085035,
-          47.3541936
-        ],
-        [
-          8.508339,
-          47.3541462
-        ],
-        [
-          8.5083051,
-          47.3542002
-        ],
-        [
-          8.508238,
-          47.3541808
-        ],
-        [
-          8.5082533,
-          47.3541566
-        ],
-        [
-          8.5082809,
-          47.3541125
-        ],
-        [
-          8.5083078,
-          47.3540697
-        ],
-        [
-          8.5083349,
-          47.3540266
-        ],
-        [
-          8.5083414,
-          47.3540161
-        ],
-        [
-          8.508408,
-          47.3540353
-        ],
-        [
-          8.5083828,
-          47.3540756
-        ],
-        [
-          8.5085478,
-          47.3541231
-        ],
-        [
-          8.5085035,
-          47.3541936
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/368216548",
   "properties": {
     "addr:housenumber": "100",
@@ -49691,6 +49617,22 @@
     "coordinates": [
       8.4331904,
       47.3362308
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/14044863481",
+  "properties": {
+    "amenity": "kindergarten",
+    "name": "Kita Albatros",
+    "id": "node/14044863481"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5084903,
+      47.3541468
     ]
   }
 }
