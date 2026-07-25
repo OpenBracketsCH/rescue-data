@@ -6806,7 +6806,7 @@
     "drive_through": "no",
     "healthcare": "pharmacy",
     "name": "Apotheke im KSW",
-    "opening_hours": "Mo-Fr 8:30-18:00; Sa 8:30-17:00",
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-17:00",
     "id": "node/9890092430"
   },
   "geometry": {
