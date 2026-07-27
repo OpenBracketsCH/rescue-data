@@ -16644,6 +16644,22 @@
       47.5073409
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/14051555874",
+  "properties": {
+    "amenity": "childcare",
+    "name": "Kinderhüeti Trückli",
+    "id": "node/14051555874"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7177043,
+      47.3497674
+    ]
+  }
 }
 ]
 }
