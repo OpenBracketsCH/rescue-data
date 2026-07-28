@@ -25093,12 +25093,14 @@
   "type": "Feature",
   "id": "node/9472039994",
   "properties": {
-    "access": "no",
+    "access": "permissive",
     "defibrillator:location": "Im Foyer (bei Portierloge melden)",
     "description": "nur über Security erreichbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Th 07:30-22:30, Fr 07:30-14:00, Su 11:30-22:30",
     "operator": "Israelitische Cultusgemeinde Zürich",
     "phone": "+41 44 283 22 88",
     "id": "node/9472039994"
@@ -80194,6 +80196,78 @@
     "coordinates": [
       8.5638617,
       47.2998805
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/14053918901",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "SWICA Generaldirektion, Treppenhaus West",
+    "description": "während Öffnungszeiten verfügbar",
+    "email": "fm@swica.ch",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Th 08:00-17:00, Fr 08:00-16:00",
+    "operator": "SWICA Krankenversicherung AG",
+    "phone": "+41 52 244 22 33",
+    "id": "node/14053918901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7402645,
+      47.5012716
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/14053966401",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Treppenabgang zur Tiefgarage / Bei den Besucher PP",
+    "email": "firstresponder@confcom.ch",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "MEG Im Feldacher",
+    "phone": "+41 79 337 38 47",
+    "id": "node/14053966401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7573226,
+      47.3850754
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/14055471801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Geschäftshaus , im Treppenhaus beim Lift 4.OG",
+    "email": "zuerich@haelg.ch",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "4",
+    "opening_hours": "6:00 -19:00",
+    "operator": "Firma Hälg & Co.AG",
+    "phone": "+41 44 448 47 46",
+    "id": "node/14055471801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.51445,
+      47.391689
     ]
   }
 }

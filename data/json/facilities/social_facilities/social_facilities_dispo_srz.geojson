@@ -49880,6 +49880,7 @@
     "addr:postcode": "8102",
     "addr:street": "Limmattalstrasse",
     "amenity": "social_facility",
+    "check_date": "2026-07-27",
     "name": "Wohnzentrum Frankental",
     "social_facility": "assisted_living",
     "social_facility:for": "disabled",

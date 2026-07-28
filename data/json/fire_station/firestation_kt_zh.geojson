@@ -5549,6 +5549,7 @@
     "addr:postcode": "8112",
     "addr:street": "Landstrasse",
     "amenity": "fire_station",
+    "check_date": "2026-07-24",
     "name": "Feuerwehr Unteres Furttal - Depot Otelfingen",
     "id": "node/370747057"
   },

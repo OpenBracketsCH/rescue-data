@@ -52365,6 +52365,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/1674820864",
+  "properties": {
+    "addr:city": "Sugiez",
+    "addr:postcode": "1786",
+    "addr:street": "Route Principale",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "wheelchair": "yes",
+    "id": "node/1674820864"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1118771,
+      46.9608537
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1916287474",
   "properties": {
     "addr:city": "Bremgarten AG",
