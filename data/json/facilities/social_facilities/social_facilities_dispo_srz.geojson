@@ -12644,6 +12644,7 @@
     "addr:street": "Alte Dorfstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "check_date": "2026-07-28",
     "name": "Tanne Schweizerische Stiftung für Taubblinde",
     "social_facility": "assisted_living",
     "id": "way/92752907"
@@ -41690,6 +41691,7 @@
   "properties": {
     "alt_name": "Taubblindenheim Tanne",
     "amenity": "social_facility",
+    "check_date": "2026-07-28",
     "name": "Tanne",
     "operator": "Schweizerische Stiftung für Taubblinde",
     "social_facility": "group_home",

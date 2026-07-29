@@ -1317,6 +1317,7 @@
     "amenity": "nursing_home",
     "building": "dormitory",
     "building:levels": "10",
+    "check_date": "2026-07-28",
     "fax": "+41 52 2645400",
     "name": "Seniorenzentrum Wiesengrund",
     "phone": "+41 52 264 54 54",
@@ -25362,6 +25363,7 @@
   "properties": {
     "alt_name": "Taubblindenheim Tanne",
     "amenity": "social_facility",
+    "check_date": "2026-07-28",
     "name": "Tanne",
     "operator": "Schweizerische Stiftung für Taubblinde",
     "social_facility": "group_home",
