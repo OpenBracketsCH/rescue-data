@@ -26441,6 +26441,136 @@
 },
 {
   "type": "Feature",
+  "id": "way/417922389",
+  "properties": {
+    "addr:city": "Arlesheim",
+    "addr:housenumber": "12",
+    "addr:postcode": "4144",
+    "addr:street": "Stollenrain",
+    "building": "yes",
+    "email": "info@palliativklinik.ch",
+    "healthcare": "clinic",
+    "name": "Palliativklinik im Park",
+    "id": "way/417922389"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.6133365,
+          47.4920081
+        ],
+        [
+          7.6133441,
+          47.4920183
+        ],
+        [
+          7.6133454,
+          47.49202
+        ],
+        [
+          7.6133464,
+          47.4920244
+        ],
+        [
+          7.6133464,
+          47.4920291
+        ],
+        [
+          7.6133421,
+          47.4920346
+        ],
+        [
+          7.613334,
+          47.4920412
+        ],
+        [
+          7.6133243,
+          47.4920463
+        ],
+        [
+          7.6133157,
+          47.4920514
+        ],
+        [
+          7.6133038,
+          47.4920525
+        ],
+        [
+          7.6132946,
+          47.4920521
+        ],
+        [
+          7.6132811,
+          47.4920499
+        ],
+        [
+          7.613267,
+          47.4920459
+        ],
+        [
+          7.6132604,
+          47.4920392
+        ],
+        [
+          7.6132519,
+          47.4920427
+        ],
+        [
+          7.6131227,
+          47.4918931
+        ],
+        [
+          7.6132145,
+          47.4918577
+        ],
+        [
+          7.6132572,
+          47.4919081
+        ],
+        [
+          7.613275,
+          47.4918978
+        ],
+        [
+          7.6132509,
+          47.4918716
+        ],
+        [
+          7.6135029,
+          47.491768
+        ],
+        [
+          7.6135966,
+          47.4918785
+        ],
+        [
+          7.6133439,
+          47.4919808
+        ],
+        [
+          7.6133162,
+          47.4919398
+        ],
+        [
+          7.6132971,
+          47.4919487
+        ],
+        [
+          7.6133441,
+          47.492005
+        ],
+        [
+          7.6133365,
+          47.4920081
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/429650721",
   "properties": {
     "addr:city": "Täuffelen",
@@ -59460,7 +59590,7 @@
     "healthcare": "hospital",
     "healthcare:speciality": "osteopathy",
     "name": "Osteo 7/7",
-    "opening_hours": "7/7",
+    "opening_hours": "Mo-Su",
     "phone": "+41 21 510 50 50",
     "start_date": "2012-04-01",
     "website": "https://osteo7-7.ch",
@@ -59471,33 +59601,6 @@
     "coordinates": [
       6.6293222,
       46.5175847
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/12806521748",
-  "properties": {
-    "addr:city": "Genève",
-    "addr:housenumber": "21",
-    "addr:postcode": "1201",
-    "addr:street": "Rue du Mont-Blanc",
-    "amenity": "hospital",
-    "emergency": "yes",
-    "healthcare": "hospital",
-    "healthcare:speciality": "osteopathy",
-    "name": "Osteo 7/7",
-    "opening_hours": "7/7",
-    "phone": "+41 22 510 50 50",
-    "start_date": "2018-01-01",
-    "website": "https://osteo7-7.ch",
-    "id": "node/12806521748"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      6.1433455,
-      46.2091006
     ]
   }
 },
