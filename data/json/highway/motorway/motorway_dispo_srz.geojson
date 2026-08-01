@@ -30802,6 +30802,7 @@
     "alt_name": "Oberlandautobahn",
     "highway": "motorway",
     "lanes": "2",
+    "lit": "yes",
     "maxspeed": "120",
     "nat_name": "N15",
     "old_name": "A53",
