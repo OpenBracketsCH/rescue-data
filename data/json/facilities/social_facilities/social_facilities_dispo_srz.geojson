@@ -55183,6 +55183,7 @@
     "addr:postcode": "8004",
     "addr:street": "Badenerstrasse",
     "amenity": "social_facility",
+    "check_date": "2026-08-01",
     "name": "Streetchurch",
     "opening_hours": "Mo-Fr 08:30-12:00,13:30-17:00; PH off",
     "social_facility": "outreach",
