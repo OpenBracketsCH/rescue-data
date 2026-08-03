@@ -17736,7 +17736,7 @@
   "type": "Feature",
   "id": "way/200746959",
   "properties": {
-    "addr:city": "Wil",
+    "addr:city": "Wil SG",
     "addr:housenumber": "30",
     "addr:postcode": "9500",
     "addr:street": "Zürcherstrasse",
@@ -37361,7 +37361,7 @@
   "type": "Feature",
   "id": "way/675594223",
   "properties": {
-    "addr:city": "Wil (SG)",
+    "addr:city": "Wil SG",
     "addr:housenumber": "32",
     "addr:postcode": "9500",
     "addr:street": "Fürstenlandstrasse",
@@ -59882,7 +59882,7 @@
   "type": "Feature",
   "id": "node/13022349831",
   "properties": {
-    "addr:city": "Wil",
+    "addr:city": "Wil SG",
     "addr:housenumber": "1",
     "addr:postcode": "9500",
     "addr:street": "Obere Bahnhofstrasse",

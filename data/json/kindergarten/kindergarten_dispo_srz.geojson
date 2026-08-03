@@ -47748,6 +47748,7 @@
     "addr:postcode": "8112",
     "addr:street": "Sandackerstrasse",
     "amenity": "kindergarten",
+    "check_date": "2026-08-02",
     "name": "Kindergarten Sandacker",
     "id": "node/9933823234"
   },
