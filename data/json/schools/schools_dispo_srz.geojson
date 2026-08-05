@@ -6992,6 +6992,7 @@
     "addr:street": "Kleindorfstrasse",
     "amenity": "school",
     "building": "school",
+    "check_date": "2026-08-04",
     "name": "Schulhaus Weissenrain",
     "start_date": "1906",
     "id": "way/25925919"

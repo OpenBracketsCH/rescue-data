@@ -32901,6 +32901,7 @@
   "id": "way/297582170",
   "properties": {
     "addr:city": "Turbenthal",
+    "addr:country": "CH",
     "addr:housenumber": "14",
     "addr:postcode": "8488",
     "addr:street": "Tösstalstrasse",
@@ -34323,6 +34324,7 @@
     "amenity": "social_facility",
     "building": "residential",
     "building:levels": "2",
+    "check_date": "2026-08-04",
     "email": "nemo@swsieber.ch",
     "name": "Notschlafstelle Nemo",
     "opening_hours": "Mo-Su 00:00-08:30,20:00-24:00",

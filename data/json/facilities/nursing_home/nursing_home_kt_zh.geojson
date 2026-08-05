@@ -16109,6 +16109,7 @@
   "id": "way/297582170",
   "properties": {
     "addr:city": "Turbenthal",
+    "addr:country": "CH",
     "addr:housenumber": "14",
     "addr:postcode": "8488",
     "addr:street": "Tösstalstrasse",
