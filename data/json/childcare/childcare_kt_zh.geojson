@@ -6829,7 +6829,7 @@
     "addr:street": "Stationsstrasse",
     "amenity": "childcare",
     "branch": "Wettswil Stationsstrasse",
-    "check_date": "2023-04-28",
+    "check_date": "2026-08-05",
     "name": "Kinderzentrum",
     "operator": "Bonstetten Kinderbetreuung GmbH",
     "operator:type": "private",
@@ -6934,6 +6934,7 @@
     "addr:postcode": "8047",
     "addr:street": "Freilagerstrasse",
     "amenity": "childcare",
+    "check_date": "2026-08-05",
     "name": "Hort Untermoos 7",
     "id": "node/5526233919"
   },

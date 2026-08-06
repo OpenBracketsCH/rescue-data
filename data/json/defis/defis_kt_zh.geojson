@@ -9746,6 +9746,7 @@
   "id": "node/8425621621",
   "properties": {
     "access": "yes",
+    "check_date": "2026-08-05",
     "defibrillator:location": "Raumnummer 830",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -9897,6 +9898,7 @@
   "id": "node/8425637810",
   "properties": {
     "access": "yes",
+    "check_date": "2026-08-05",
     "defibrillator:location": "Raumnummer 840",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -9922,6 +9924,7 @@
   "id": "node/8425641767",
   "properties": {
     "access": "yes",
+    "check_date": "2026-08-05",
     "defibrillator:location": "Raumnummer 960",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -34538,11 +34541,12 @@
   "properties": {
     "access": "permissive",
     "defibrillator:location": "Swico Office im 4. Stock Lagerstrasse 33, 8004 Zürich",
+    "email": "jennifer.heise@swico.ch",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "4",
-    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-16:00",
+    "opening_hours": "Mo - Th 08:30 - 12:00, Fr 13:30 - 17:00",
     "operator": "Swico Jennifer Heise",
     "phone": "+41 79 516 74 44",
     "source": "aed-source",

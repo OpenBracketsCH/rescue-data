@@ -43976,6 +43976,155 @@
 },
 {
   "type": "Feature",
+  "id": "way/1547477479",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "45",
+    "addr:postcode": "8038",
+    "addr:street": "Paradiesstrasse",
+    "alt_name": "Pflegezentrum Entlisberg",
+    "amenity": "social_facility",
+    "capacity": "317",
+    "name": "Gesundheitszentrum für das Alter Entlisberg",
+    "old_name": "Krankenheim Entlisberg",
+    "operator": "Stadt Zürich",
+    "operator:type": "public",
+    "owner": "Immobilien Stadt Zürich (IMMO)",
+    "phone": "+41 44 414 70 00",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "start_date": "1973",
+    "website": "https://www.stadt-zuerich.ch/de/lebenslagen/alter/wohnen/altersheime-pflegeheime/gfa-entlisberg.html",
+    "wikidata": "Q33121469",
+    "id": "way/1547477479"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5257509,
+          47.3352815
+        ],
+        [
+          8.526111,
+          47.3340321
+        ],
+        [
+          8.5263589,
+          47.3340672
+        ],
+        [
+          8.5263767,
+          47.3340159
+        ],
+        [
+          8.5265458,
+          47.3340408
+        ],
+        [
+          8.5267418,
+          47.3339396
+        ],
+        [
+          8.5272805,
+          47.3339882
+        ],
+        [
+          8.5274011,
+          47.3336661
+        ],
+        [
+          8.5273943,
+          47.3335795
+        ],
+        [
+          8.5274553,
+          47.3334209
+        ],
+        [
+          8.528107,
+          47.3334095
+        ],
+        [
+          8.5281674,
+          47.3334445
+        ],
+        [
+          8.5282009,
+          47.3339399
+        ],
+        [
+          8.5284249,
+          47.333973
+        ],
+        [
+          8.5281349,
+          47.3349326
+        ],
+        [
+          8.5282546,
+          47.334976
+        ],
+        [
+          8.5282079,
+          47.3349861
+        ],
+        [
+          8.528109,
+          47.3349778
+        ],
+        [
+          8.5279072,
+          47.3349978
+        ],
+        [
+          8.5277208,
+          47.3350024
+        ],
+        [
+          8.5274762,
+          47.3349977
+        ],
+        [
+          8.5271119,
+          47.3349683
+        ],
+        [
+          8.5269497,
+          47.3349637
+        ],
+        [
+          8.5267505,
+          47.3349805
+        ],
+        [
+          8.5265614,
+          47.3350124
+        ],
+        [
+          8.5263683,
+          47.3350646
+        ],
+        [
+          8.52585,
+          47.3352346
+        ],
+        [
+          8.525852,
+          47.3352523
+        ],
+        [
+          8.5257509,
+          47.3352815
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/25812115",
   "properties": {
     "addr:city": "Männedorf",

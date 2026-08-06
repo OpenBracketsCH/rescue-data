@@ -35333,6 +35333,7 @@
   "id": "node/4310529899",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-08-05",
     "contact:city": "Zürich",
     "contact:housenumber": "57",
     "contact:phone": "+41 44 413 74 81",
@@ -35357,6 +35358,7 @@
   "id": "node/4310529900",
   "properties": {
     "amenity": "kindergarten",
+    "check_date": "2026-08-05",
     "contact:city": "Zürich",
     "contact:housenumber": "77",
     "contact:phone": "+41 43 311 66 16",
@@ -39009,7 +39011,7 @@
     "addr:street": "Zürichstrasse",
     "after_school": "yes",
     "amenity": "kindergarten",
-    "check_date": "2023-06-15",
+    "check_date": "2026-08-05",
     "email": "schuelerhort@psa.ch",
     "name": "Schülerhort \"Familienzentrum\"",
     "operator": "Primarschule Affoltern am Albis",
